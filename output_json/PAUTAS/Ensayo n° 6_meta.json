@@ -1,0 +1,32 @@
+{
+  "filename": "Ensayo n° 6.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/PAUTAS/Ensayo n° 6.pdf",
+  "num_paginas": 1,
+  "titulo": "",
+  "autor": "Preuniversitarios",
+  "fecha_procesamiento": "2026-03-07T16:04:14.117350",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "CLAVES MATEMÁTICA 2022 \nCódigo: JMA PAES1-OL-06-2022 \n \n \n \n \n \n \n \n \n \n \nAsignatura   \n:  MATEMÁTICA \n \nNº Preguntas  \n:  65 \n\nCLAVES 6ª JORNADA DE EVALUACIÓN GENERAL PAES 1  \n\n1. \nA \n11. \nC \n21. \nA \n31. \nB \n41. \nA \n51. \nA \n61. \nC \n\n2. \nB \n12. \nB \n22. \nC \n32. \nA \n42. \nD \n52. \nC \n62. \nA \n\n3. \nC \n13. \nD \n23. \nB \n33. \nB \n43. \nD \n53. \nA \n63. \nB \n\n4. \nC \n14. \nA \n24. \nD \n34. \nC \n44. \nB \n54. \nD \n64. \nC \n\n5. \nD \n15. \nB \n25. \nB \n35. \nC \n45. \nA \n55. \nA \n65. \nB \n\n6. \nA \n16. \nA \n26. \nC \n36. \nD \n46. \nC \n56. \nC \n \n \n\n7. \nB \n17. \nD \n27. \nA \n37. \nB \n47. \nC \n57. \nD \n \n \n\n8. \nA \n18. \nC \n28. \nB \n38. \nA \n48. \nA \n58. \nB \n \n \n\n9. \nB \n19. \nD \n29. \nD \n39. \nB \n49. \nB \n59. \nD \n \n \n\n10. \nD \n20. \nB \n30. \nC \n40. \nA \n50. \nD \n60. \nB \n \n \n\n \n \n \nOBSERVACIÓN:  \n \n \nSe eliminan las preguntas:       8 – 17 – 36 – 48 – 60  \n \n \nFórmula para 60 preguntas: \nB · 9,3 + 292 \n",
+      "cantidad_caracteres": 848,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.04296875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0615234375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

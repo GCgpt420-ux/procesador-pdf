@@ -1,0 +1,635 @@
+{
+  "filename": "T 04.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/T 04.pdf",
+  "num_paginas": 50,
+  "titulo": "",
+  "autor": "Margarita Roa F",
+  "fecha_procesamiento": "2026-03-07T16:01:50.083086",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \nTUTORIA N°4 \n\n \nPROBABILIDAD Y ESTADÍSTICA \n\n \n2022 \n\n \n \n \n \n \n \n \n \n \n\n \n \n",
+      "cantidad_caracteres": 122,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "INSTRUCCIONES GENERALES \n\n \nEl material presentado a continuación incluye una serie de ejercicios \nrelacionados con el eje temático de Probabilidad y Estadística, y que han sido diseñados \nsegún las pautas dadas por DEMRE para la Prueba de Acceso a la Educación Superior, tanto \npara la prueba obligatoria (PAES1) como para la prueba electiva (PAES2). \n\n \nDado lo anterior, las preguntas que corresponden a PAES2 serán \nindicadas expresamente con esta misma sigla en negrita, entre paréntesis, colocada al inicio \ndel texto de la pregunta, de modo que, si solo vas a rendir la prueba obligatoria, puedes no \nhacer estos ejercicios. \n \n \n\nINSTRUCCIONES ESPECÍFICAS \n \n\nPara el desarrollo de este material tenga presente: \n\n \n\n1. \nLa siguiente tabla contiene una serie de símbolos, los que puede consultar durante el \ndesarrollo de los ejercicios. \n\n \n \n es menor que \n  es congruente con \n \n \n es mayor que \n  es semejante con \n \n \n es menor o igual a \n  es perpendicular a \n    \n \n es mayor o igual a",
+      "cantidad_caracteres": 1690,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "4. \nSe entenderá por dado común, a aquel que posee 6 caras, donde al lanzarlo las caras \nson equiprobables de salir. \n \n5. \nEn esta prueba, las dos opciones de una moneda son equiprobables de salir, a menos \nque se indique lo contrario. \n \n\n6. \nEn las preguntas de suficiencia de datos no se pide que dé la solución al problema, \nsino que decida si los datos proporcionados en el enunciado del problema más los \nindicados en las afirmaciones (1) y (2) son suficientes para llegar a esa solución. \n\n \n\nConsiderando lo anterior, usted deberá marcar la letra: \n \n\nA) (1) por sí sola, si la afirmación (1) por sí sola es suficiente para responder a la \n\npregunta, pero la afirmación (2) por sí sola no lo es. \nB) (2) por sí sola, si la afirmación (2) por sí sola es suficiente para responder a la \n\npregunta, pero la afirmación (1) por sí sola no lo es. \nC) Ambas juntas, (1) y (2), si ambas afirmaciones (1) y (2) juntas son suficientes \n\npara responder a la pregunta, pero ninguna de las afirmaciones p",
+      "cantidad_caracteres": 1335,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "1. \nSi el 25% de un curso tiene promedio 5,9 y todo el curso tiene promedio 5,0, entonces \n¿cuál es el promedio del resto del curso? \n \n \n\nA) 4,7      \nB) 4,8 \nC) 4,9 \nD) 5,0 \nE) 5,5 \n\n \n \n \n2. \n¿Cuál debe ser el valor de k para que la media, la mediana y la moda de los datos  \n2, 4, 3, 7, 6, 5, k, 4 tengan el mismo valor? \n \n \n\nA) 0 \nB) 1       \nC) 2 \nD) 3 \n \n \n \n3. \nEn un colegio se les preguntó a los alumnos cual era la distancia que hay de su casa al \ncolegio. El alumno que vive más cerca del colegio está a 1 km y el alumno que vive \nmás lejos está a 21 km. Si estos datos fueron agrupados en una tabla de intervalos, \nque son de la forma [a, b[ y el último de la forma [c, d], donde la amplitud es 4 y la \nfrecuencia es siempre el doble de la marca de clase, ¿cuántos niños tiene el colegio? \n\n \nA) 110       \nB)   96 \nC)   86 \nD)   84 \n \n \n \n \n\n4 \n \n",
+      "cantidad_caracteres": 862,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "4. \nDurante el último fin de semana largo, se registró el medio de transporte usado por \n5.000 personas que salieron de Santiago.  El resultado se muestra en el gráfico de la \nfigura adjunta. \n \n \n\n% de usuarios \n\n \n \n \n \n \n \n \n \n \n \n \n \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\n60% \n\n \n\n \n\n25% \n\n \n\n10% \n\n \n \n\n5% \n\nTipo de Transporte \n\nAutos \nParticulares \n\nOtros \nmedios \n\nBuses \nEmpresas de \n\nBuses \nInterurbanos \n\nturismo \n\nI) \nViajaron en buses de empresas de turismo 500 personas. \nII) \nLos que usaron autos particulares u otros medios corresponden a  \n1.800 personas. \nIII) \nLos que utilizaron buses de empresa de turismo corresponde a 16,6%  de \nlos que usaron buses interurbanos. \n \n\nA) Solo I \nB) Solo III \nC) Solo I y II \nD) Solo I y III      \n\n \n \n \n \n5. \nLa gráfica de la figura adjunta muestra las frecuencias acumuladas de los años de \nantigüedad de un grupo de profesionales, donde los intervalos son de la forma [ , [. \n¿Cuál de las siguientes afirmaci",
+      "cantidad_caracteres": 1332,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "6. \nLa tabla indica la distribución de los puntajes obtenidos por los alumnos de un cuarto \nmedio en un ensayo PSU de Lenguaje.  \n \n \n \n \n \n \n             \n      \n\nIntervalos de puntaje \nFrecuencia \n[350 - 450[ \n2 \n[450 - 550[ \n8 \n[550 - 650[ \n7 \n[650 - 750[ \n12 \n[750 - 850[ \n1 \n\nDe acuerdo a la información entregada, es verdad que \n                                             \n\nI) \nla variable es cualitativa en escala ordinal. \nII) \nhay exactamente un alumno que obtuvo el puntaje máximo. \nIII) \nen el intervalo de menor puntaje se tienen dos alumnos. \n \n \n\nA) Solo I \nB) Solo III      \nC) Solo II y III \nD) I, II y III \n \n \n \n7. \nLa tabla adjunta muestra los minutos de práctica que Susana dedicó al baile. ¿Cuántos \nminutos debió dedicar el día sábado para que el promedio de lunes a sábado sea de 40 \nminutos? \n \n \n\nDías \nLunes Martes Miércoles Jueves Viernes Sábado \nMinutos \n50 \n40 \n30 \n35 \n40 \nx \n\nA) 30 \nB) 35 \nC) 40 \nD) 45       \n \n \n \n \n \n8. \nSe tienen 30 datos cuya media aritmética es",
+      "cantidad_caracteres": 1184,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "9. \nMarcela, en su práctica profesional debe registrar los tiempos que demora en hacer una \nserie de controles en el laboratorio, anotando en su computador los siguientes valores \nen minutos: 12 – 15 – 12 – 18 – 20 – 14 – 16 – 12 – 11 – 21 – 10 – 19 – 12. ¿Cuál es \nel rango de los tiempos? \n \n\nA) 11 \nB) 12 \nC) 13 \nD) 14,7 \n \n \n \n \n \n \n10. ¿Cuál es la mediana del conjunto que se forma con los 10 números impares \n\nconsecutivos desde el número 5? \n \n \n\nA) 14      \nB) 13 \nC) 12 \nD) 11 \n \n \n \n \n \n \n11. La siguiente tabla muestra el número de inasistencias durante el año escolar 2019, de \n\nun curso de Primero Medio. ¿Qué porcentaje de alumnos tuvo 13 o  más inasistencias \ndurante el año? \n \n \n \n \n \n \n\nN° de inasistencias \nN° de alumnos \n[1 – 6] \n10 \n[7 – 12] \n12 \n[13 – 18] \n6 \n[19 – 24] \n8 \n[25 – 30] \n4 \n \n\nA) 45% \nB) 55%    \nC) 15% \nD) 30% \n\n \n \n \n \n \n \n \n \n\n7 \n \n",
+      "cantidad_caracteres": 871,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "12. Una ruleta dividida en ocho secciones de igual área, cada una con un número del 1 al 8, \n\nse hace girar 100 veces, obteniéndose los resultados indicados en el gráfico de la figura \nadjunta. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nDe acuerdo a lo anterior, ¿cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nFrecuencia \n\n30 \n\n25 \n\n \n\n20 \n\n15 \n\n10 \n\n5 \n\n1 \n2 \n3 \n4 \n5 \n\n6 \n7 \n8 \n\nNúmeros \n\nI) \nLa mediana es mayor que la media aritmética. \nII) \nLa moda es mayor que la media aritmética. \nIII) \nEn 60 oportunidades se obtuvo un número primo. \n \n\nA) Solo I \nB) Solo II y III \nC) Solo I y III \nD) Solo I y II       \n \n \n13. La tabla adjunta muestra las preferencias de color y la cantidad para cada una de ellas \n\nque manifiesten los alumnos de un curso.  \n \n \n \n \n \n \n \n \n \n \n \n \n\nColor \nNúmero de \nrespuestas \nRojo \n1 \nNaranjo \n2 \nAmarillo \n1 \nVerde \n6 \nAzul \n3 \nÍndigo \n7 \nVioleta \n4 \n \n\n¿Cuál(es) de las siguientes proposiciones es (son) verdadera(s)? \n \n\nI) \nLa mediana es azul. \nII) \nEl r",
+      "cantidad_caracteres": 1119,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "14. La siguiente tabla de frecuencias muestra el número de hermanos que tiene cada \n\nalumno de un curso. Si m = moda, p = promedio y q = mediana, entonces ¿cuál de las \nsiguientes opciones es correcta? \n \n \n\nCant. \nhermanos \nn° alumnos \n\nA) m = p \nB) p = q \nC) q < m \nD) m < p < q      \n \n \n \n \n15. El gráfico de la figura adjunta muestra la frecuencia acumulada de una variable \n\n1 \n7 \n3 \n5 \n1 \n \n\n0 \n1 \n2 \n3 \n4 \n\nestadística, entonces el intervalo modal correspondiente a esta información dada es \n \n \n \n\nFrec.\nAcumulada\n\n100 \n\n96 \n\nA) [0,1[ \nB) [1,2[      \nC) [2,3[ \nD) [3,4[ \n\n80 \n\n67 \n\n60 \n\n49 \n\n38 \n\n40 \n\n \n \n \n \n \n \n16. Si k es la media aritmética de los números 7, 10, m y 2, entonces m en términos de k \n\n20 \n\n0 \n\nx \n\n1 \n2 \n3 \n4 \n5 \n\nes \n \n\nA) 4k – 19       \nB) 4k + 19 \nC)   k – 19 \nD)   k + 19 \n\n \n \n \n17. La tabla adjunta muestra el peso de un grupo de alumnas de  III° medio de un colegio, \n\n¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nEl intervalo modal es e",
+      "cantidad_caracteres": 1280,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "18. En la tabla adjunta se muestran las notas con que terminó un alumno su año escolar. \n\n¿Qué nota final obtuvo este alumno en C. Sociales? \n \n\n \nA) 5,0 \nB) 5,25 \nC) 5,5      \nD) 5,6 \n\nAsignatura \nNota Final \nLenguaje \n5,5 \nMatemáticas \n5,0 \nC. Sociales \nx \nBiología \n6,0 \nFísica \n5,0 \nQuímica \n6,0 \nPromedio Final \n5,5 \n\n \n \n \n \n \n \n19. En un curso de x personas, a tienen b hermanos cada uno, c tienen d hermanos cada \n\nuno y el resto tienen f hermanos cada uno. ¿Cuál es la media de hermanos que tienen \nlos integrantes del curso? \n \n \n\nA) \na  b + c  d + f  (x  a  c)\n\nx\n\n\n\n\n\n  \n\nB) b + d + f  (x  a  c)\n\nx\n\n\n\n  \n\nC) a  b + c  d + f\n\nx\n\n\n  \n\nD) a  b + c  d + f  (x  a + c)\n\nx\n\n\n\n\n  \n\n \n \n \n \n20. Los resultados obtenidos por los alumnos de un curso en una prueba de matemática \n\nfueron: 4 - 6 – 5 – 7 – 3 - 4 – 7 – 5 – 4 – 5 – 3 – 4 – 6 – 5 - 4. ¿Cuál(es) de las \nsiguientes afirmaciones es (son) verdadera(s)? \n\n \n \nI) \nLa mediana es 5. \nII) \nLa moda es 4. \nIII) \nLa media es 5. \n ",
+      "cantidad_caracteres": 1080,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "21. El director de un cierto colegio desea que sus 26 profesores utilicen delantal en horario \n\nde clases. Para ello, cada profesor es consultado sobre su número de talla. Con los \ndatos obtenidos se confeccionó la tabla de distribución de frecuencias adjunta. \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa moda es 10. \nII) \nLa mediana es 50. \nIII) \nLa media aritmética es igual a la mediana. \n \n \n\nTalla  \nProfesores  \n45 \n48 \n50 \n52 \n54 \n\n2 \n10 \n\nA) Solo II \nB) Solo III \nC) Solo I y II \nD) Solo II y III      \n \n \n22. Con respecto al siguiente conjunto de datos: 10, 10, 10, 10 y 10, ¿cuál(es) de los \n\n4 \n5 \n5 \n\nsiguientes estadígrafos NO es (son) igual(es) a 0? \n \n\nI) \nRango. \nII) \nMedia aritmética. \nIII) \nLa mediana. \n \n\nA) Solo II \nB) Solo III      \nC) Solo I y II \nD) Solo II y III \n \n \n23. En la tabla adjunta se muestran las estaturas  de un curso de 40 alumnos. \n\n \n \n \n \n \n \n \n\nEstatura (m) \nN° de estudiantes \n[1,60 – 1,64] \n8 \n[1,65 – 1,69] \n19 \n[1,70 – ",
+      "cantidad_caracteres": 1357,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "24. La tabla adjunta, muestra algunos datos que resultan de encuestar a un grupo de \n\nadolescentes sobre la cantidad de tiempo promedio diario que usan el computador. Con \nrespecto a los datos de esta tabla, ¿cuál opción es FALSA? \n \n \n \n \n \n \n \n \n \n\nTiempo en \n\nFrecuencia \nacumulada \n[0 – 1[ \n2 \n \n[1 – 2[ \n \n6 \n[2 – 3[ \n \n12 \n[3 – 4[ \n8 \n \n[4 – 5[ \n \n30 \n\nFrecuencia \n\nhoras \n\nabsoluta \n\nA) La frecuencia relativa porcentual del intervalo [2 – 3[ es 20%. \nB) La marca de clase del último intervalo es 4,5. \nC) La marca de clase modal es menor que la media aritmética.      \nD) El intervalo modal es [4 – 5[. \n \n \n \n25. La tabla adjunta muestra las notas obtenidas por un grupo de alumnos en una prueba \n\nde lenguaje. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa moda es 6. \nII) \nLa media aritmética redondeada a la décima es 5,2. \nIII) \nLa mediana es 6. \n \n\nNotas \nFrecuencia \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y III      \n\n1 \n1 \n2 \n2 \n3 \n2 \n4 \n3 \n5 \n4 \n",
+      "cantidad_caracteres": 1447,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": "27. En la figura adjunta, ¿cuál es la frecuencia absoluta del intervalo [5,10[, si la gráfica \n\ncorresponde a las frecuencias relativas acumuladas de intervalos [ , [, de una muestra \nde 200 personas? \n \n\nFrecuencias Relativas \n\nAcumuladas \n\nA)   50 \nB) 100       \nC)   75 \nD)   50% \n\ny \n\n1,0 \n\n0,7 \n0,8 \n\n \n \n \n \n \n \n\n0,2 \n\nx \n\n5 \n10 \n15 \n20 \n\n \n \n \n28. Se hace un estudio del número de horas diarias que tienen 200 alumnos frente al \n\ncomputador en vacaciones de verano. Los datos se presentan en la tabla adjunta. \n¿Cuál(es) de las siguientes aseveraciones es (son) verdadera(s)? \n \n\nI) \nP es 60. \nII) \nLa frecuencia acumulada hasta el intervalo [6,8[ es 175. \nIII) \nLa frecuencia relativa porcentual del intervalo [4,6[ es el 30%. \n \n \nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo II y III      \n\nX \nf \n[0, 2[ \n25 \n[2, 4[ \n40 \n[4, 6[ \n60 \n[6, 8[ \nP \n[8, 10[ \n15 \n[10, 12[ \n10 \n \n\n \n \n \n \n29. La tabla adjunta muestra un estudio estadístico referente a la cantidad de exámenes de \n\nsangre requer",
+      "cantidad_caracteres": 1573,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": "30. La tabla adjunta muestra las horas de duración de 50 rodillos de dos tipos A y B \n\nutilizados en la formación de bolas de acero. \n \n \n \n \n \n \n \n \n \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nHoras \nRodillos tipo A \nRodillos tipo B \n[0 – 10[ \n4 \n10 \n[10 – 20[ \n10 \n15 \n[20 – 30[ \n9 \n10 \n[30 – 40[ \n15 \n6 \n[40 – 50[ \n12 \n9 \n\nI) \nEl promedio de horas de duración de los rodillos del tipo A es mayor a los \ndel tipo B.  \nII) \nEl intervalo mediano de las horas se encuentra en el mismo intervalo modal \nsólo para los rodillos del tipo A. \nIII) \nEl tercer quintil de los rodillos del tipo A se encuentra en el mismo intervalo \nde la media aritmética. \n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo I y III      \n \n \n31. En una encuesta a una población respecto de la pregunta, \"¿cuántas personas habitan \n\nesta casa?\", los resultados se muestran en la tabla adjunta. \n \n \n  \n \n \n \n \n \n \n \n\nNúmero de \n\nhabitantes \nFrecuencia \n\n1 \n18 \n2 \n23 \n3 \n27 \n4 \n34 \n5 \n34 \n\n¿Cuál(es) ",
+      "cantidad_caracteres": 1264,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": "32. La media aritmética de los datos representados en el gráfico de la figura adjunta es 29. \n\n¿Cuál es la frecuencia correspondiente al intervalo de marca de clase 35? \n \n \n\nFrecuencia \n\nA)   2 \nB)   4 \nC)   6  \nD)   8      \n\nf + 6 \n\nf + 4 \n\nf + 2 \n\n \n \n \n \n \n33. La tabla contiene los promedios de notas de los 3 mejores alumnos de una generación \n\nf \n\nx \n\n50 \n10 20\n30 40 \n\nde IV medio. Respecto a esta información, ¿cuál de las siguientes afirmaciones es \nverdadera? \n \n \n\nAlumno 1 7 \n6,2 6,4 7 6,8 6,4 6,6 6,6 6,8 7 \nAlumno 2 6,8 6,0 6,6 7 6,5 6,5 6,9 6,5 7 \n7 \nAlumno 3 6,9 6,3 6,4 7 6,5 6,4 6,7 6,9 6,8 6,9 \n \n \n \nA) El menor rango corresponde a las notas del alumno 1. \nB) El alumno 2 y el alumno 3 tienen el mismo promedio.      \nC) Los datos correspondientes a las notas de los alumnos son todos unimodales. \nD) La mediana de las notas correspondientes al alumno 1 es 6,6. \n \n \n \n \n34. El gráfico de la figura adjunta representa los sueldos obtenidos por 194 profesores de \n\ncierta Universi",
+      "cantidad_caracteres": 1431,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": "35. (PAES2) La siguiente tabla muestra la estatura de un grupo de personas. Es posible \n\ndeterminar el valor de x, si se sabe que: \n\n \n(1) la moda es 1,60. \n(2) la mediana es 1,70. \n\nEstatura \nFrecuencia \n1,60 \n8 \n1,65 \n3 \n1,70 \nx \n1,75 \n6 \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional      \n \n36. (PAES2) Se tiene una bolsa solo con fichas blancas, negras, verdes y rojas de igual \n\ntamaño. Se puede determinar la moda, si se conoce que: \n \n\n(1) el número total de fichas es 36. \n\n(2) las blancas, negras y verdes tienen igual número y suman 24. \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2)      \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n37. (PAES2) Un estudiante rindió un examen después que sus compañeros, obteniendo \n\nuna nota de 5,1. Se puede asegurar que su nota fue superior al 50% de las notas \nobtenidas por sus compañeros, si s",
+      "cantidad_caracteres": 1661,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": "39. De acuerdo al gráfico de la figura adjunta que representa el número de trabajadores de \n\nuna empresa y la cantidad de veces que asiste al cine en un año, donde los intervalos \nson de la forma [a, b[ y el último de la forma [c, d]. ¿Cuál(es) de las siguientes \nafirmaciones es (son) verdadera(s)? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nVeces que \nasiste al cine \n \n\n \n\n120 \n\n90 \n\n60\n\n30 \n\n0 \n\n10 \n20 \n30 \n50 \n40 \nNº de \ntrabajadores \n\nI) \nLos intervalos modales corresponden a [0 – 10[  y  [30 – 40[. \nII) \nEl tercer cuartil está en el intervalo [30 – 40[. \nIII) \nEl intervalo donde se encuentra la mediana es [20 - 30[ \n \n \n\nA) Solo I \nB) Solo II      \nC) Solo I y II \nD) Solo I y III \n \n \n \n \n40. La tabla muestra la distribucion de 100 datos, ¿cuál(es) de las afirmaciones es (son) \n\nverdadera(s)? \n \n \n\nI) \nEl primer cuartil está en el segundo intervalo. \nII) \nEl séptimo decil está en el intervalo [35,40[. \nIII) \nLa mediana está en el intervalo modal. \n \n\n \n\nIntervalo Frecuencia \n\n[20,25[ \n16 \n[25",
+      "cantidad_caracteres": 1145,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "texto": "41. La siguiente tabla muestra el número de personas a bordo de un vehículo que pasan \n\npor cierta intersección de calles. ¿Cuáles de las siguientes afirmaciones son \nverdaderas? \n \n\nI) \nEl percentil 75 corresponde al dato 3. \nII) \nEl decil 9 corresponde al dato 4. \nIII) \nEl tercer quintil corresponde al dato 2. \n \n \n\nNº Personas \nFrecuencia \n1 \n200 \n2 \n410 \n3 \n150 \n4 \n150 \n5 \n90 \n\nA) Solo I y II \nB) Solo I y III \nC) Solo II y III \nD) I, II y III      \n \n \n \n \n42. La tabla adjunta muestra las edades de un grupo de jóvenes \n\n \n \n \n \n \n \nEs correcto afirmar que \n \n\nEdades \nf \n[10 – 14[ \n5 \n[14 – 18[ \n12 \n[18 – 22[ \n23 \n[22 – 26[ \n2 \n \n\nI) \nel primer cuartil se encuentra en el segundo intervalo. \nII) \nel percentil 45 se encuentra en el tercer intervalo. \nIII) \nel rango es 12. \n \n\nA) Solo I \nB) Solo II \nC) Solo I y II      \nD) Solo I y III \n\n \n \n \n43. La tabla muestra las notas obtenidas por todos los alumnos de un curso en una prueba \n\n \n  \n \n \n \n \n \n \n \nDe acuerdo a la tabla, es correcto",
+      "cantidad_caracteres": 1363,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "texto": "44. La estatura de un grupo de estudiantes se muestra en la tabla adjunta, según esta \n\ninformación, ¿cuál de las siguientes afirmaciones es verdadera? \n\n \n\nEstatura \nM. de Clase \nFrec. Abs \n[150 - 160[ \n155 \n12 \n[160 - 170[ \n165 \n6 \n[170 - 180[ \n175 \n15 \n[180 - 190] \n185 \n7 \n \n \nA) La moda es 175 cm. \nB) El percentil 50 (mediana) está en el segundo intervalo. \nC) El percentil 70 está en el tercer intervalo.      \nD) El percentil 35 está en el primer intervalo. \n\n \n \n \n45. Considerando la siguiente tabla de datos agrupados en intervalos, es correcto afirmar \n\nque \n \n \n \n \n \n \n \n\nIntervalo \nFrecuencia \nAcumulada \n[100 – 130[ \n17 \n[130 – 160[ \n31 \n[160 – 190[ \n41 \n[190 - 220[ \n50 \n \n\nI) \nel intervalo modal es [190 – 220[. \nII) \nla mediana se encuentra en el intervalo [130 – 160[. \nIII) \nla frecuencia absoluta del intervalo [100 – 130[ es 17.  \n \n \n\nA) Solo II \nB) Solo III \nC) Solo II y III      \nD) Solo I y II \n \n \n \n46. (PAES2) Un estudiante que rindió la PSU de matemática en noviembre ",
+      "cantidad_caracteres": 1438,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "texto": "47. (PAES2) Se puede determinar el promedio de a, b y c, si se sabe que: \n \n\n(1) 2a + 3b + 5c = 42 \n\n(2) 4a + 3b + c = 30 \n\n \nA) (1) por sí sola    \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2)      \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n48. La tabla adjunta muestra la distribución del ingreso familiar en dólares de 80 familias. \n\nSi f es la frecuencia absoluta, F es la frecuencia acumulada y h es la frecuencia relativa, \n¿cuántas familias ganan menos de 400 dólares? \n \n \n \n \n \n \n \n \n \n \n \n\nf \nF \nh \n\nIntervalo Ingreso \n\nen Dólares \n\n[320 - 340[ \n \n \n \n[340 - 360[ \n48 \n60 \n \n[360 - 380[ \n \n \n0,125 \n[380 - 400[ \n \n \n0,075 \n[400 - 420[ \n \n \n \n\nA) 76 \nB) 70 \nC) 54 \nD) 50 \n       \n \n \n \n \n49. ¿Cuál es la media aritmética del conjunto {52, 53, 54, 55, 515}? \n \n \n\nA) 1.290 \nB) 75 · 53 \nC) 53(21 + 52) \nD) 5 + 52 + 53 + 54 + 514       \n \n \n \n \n \n \n \n \n \n\n20 \n \n",
+      "cantidad_caracteres": 908,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "texto": "50. Se entrevistó a 90 dueñas de casa para conocer, entre los artistas P, Q, R o S, cuál era \n\nsu favorito. Si cada una escogió un solo artista y los resultados de la encuesta se \nmuestran en el gráfico de barras de la figura adjunta, ¿cuál(es) de las siguientes \nafirmaciones es (son) verdadera(s)? \n \n \n \n \n \n \n \n \n \n \n \n\ndueña \nde casa \n\n38 \n\n24 \n\n18 \n\n10 \n\nP \nQ \nR \nS \nartistas \n\nI) \nLa mediana es 22. \nII) \nEl promedio es 22,5. \nIII) \nLa moda es 38. \n \n\nA) Solo III \nB) Solo I y II \nC) Solo II y III \nD) Ninguna de ellas      \n \n \n \n \n51. El departamento de control de calidad de una empresa que fabrica neumáticos registró \n\nen una tabla de datos los kilómetros de duración de una serie de estos, generando el \nsiguiente gráfico, donde los intervalos son de la forma [a, b[ y el último de la forma  \n[c, d]. De acuerdo a él se puede deducir que \n \n\nI) \nse testearon 200 neumáticos. \nII) \nel intervalo [40 - 60[ es el intervalo modal. \nIII) \nla mayor cantidad de neumáticos duró entre 60 y 80 mi",
+      "cantidad_caracteres": 1211,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "texto": "52. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s), con respecto al \n\nsiguiente conjunto de datos {9,7,8,6,9,12,11,5,9,10}? \n \n\nI) \nSi a cada dato se agregan dos unidades, la media no cambia. \nII) \nEl rango es menor que la moda. \nIII) \nEl segundo cuartil es igual a la moda. \n \n\nA) Solo II \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III      \n\n \n \n \n53. En la facultad de enfermería se hizo un estudio de la cantidad de asignaturas que han \n\naprobado los estudiantes y los datos se agruparon en intervalos como se muestra la \ntabla adjunta.  Si para ser un estudiante Senior se tiene que haber aprobado al menos \n35 asignaturas. ¿Cuál de las siguientes afirmaciones es verdadera? \n \n\n \n \n \n \n \n \n \n \n \n \nA) En total hay 85 alumnos en la facultad. \nB) Solo 13 alumnos son estudiantes Senior.  \nC) La media aritmética se encuentra en el intervalo [20 – 30[.       \nD) El 62,5% de los alumnos ha aprobado un mínimo de 20 asignaturas.  \n\nNúmero asignaturas \n\naprobados \nN° de Alumnos ",
+      "cantidad_caracteres": 1468,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "texto": "55. \nLa tabla adjunta muestra la masa corporal, en kilogramos, de un grupo de 120 gatos. \nSegún los datos, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nEn promedio los gatos tienen una masa corporal de 5 kg. \nII) \nUn 25% de los gatos tiene una masa corporal de a lo menos 6 kg. \nIII) \nUn 50% de la población tiene una masa corporal entre 3,5 kg y 6 kg. \n \n \n \n \n\nMasa corporal \nFrecuencia \nAcumulada \n[2 – 4[ \n40 \n[4 – 6[ \n90 \n[6 – 8[ \n110 \n[8 - 10[ \n120 \n \n\nA) Solo II \nB) Solo III \nC) Solo I y II    \nD) Solo I y III \n\n \n \n \n56. Si un dato está entre el cuarto y quinto decil, es correcto afirmar que el dato \n \n\nA) es mayor que la mediana. \nB) es mayor que el segundo cuartil. \nC) supera al 50% de los datos. \nD) supera al segundo quintil.      \n \n \n \n \n57. En la tabla de frecuencias adjunta, ¿cuál es el valor del tercer cuartil? \n \n\nA) 2 \nB) 3 \nC) 4      \nD) 5 \n\nx \nf \n1 \n5 \n2 \n3 \n3 \n5 \n4 \n3 \n5 \n4 \n\n \n \n \n \n \n58. La tabla adjunta muestra el ingreso mensual en miles ",
+      "cantidad_caracteres": 1418,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 24,
+      "texto": "59. La tabla adjunta representa las alturas de 40 adolescentes de un curso de enseñanza \n\nmedia. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nEl intervalo modal coincide con el intervalo mediano. \nII) \nEl primer cuartil está en el intervalo [1,60 – 1,64]. \nIII) \nEl 25% de las alturas de los adolescentes es menor o igual a 1,69 cm. \n \n \n\nAlturas \nf \n\nA) Solo I \nB) Solo II \nC) Solo I y II   \nD) Solo II y III \n\n[1,50 – 1,54] \n3 \n[1,55 – 1,59] \n6 \n[1,60 – 1,64] \n9 \n[1,65 – 1,69] \n10 \n[1,70 – 1,74] \n7 \n[1,75 – 1,79] \n5 \n\n \n \n \n \n \n \n60. (PAES2) Si el cuádruplo del número de variaciones sin repetición de n objetos \n\ntomados de 3 en 3 es igual al quíntuplo del número de variaciones sin repetición de    \n(n – 1) objetos tomados de 3 en 3, entonces el valor de n es \n \n \n\nA) 12 \nB) 15      \nC) 16 \nD) 20 \n\n \n \n \n61.  (PAES2) Si se toman 6 puntos de una circunferencia, entonces ¿cuántos triángulos se \n\npueden formar teniendo sus vértices en estos puntos? \n \n\nA)     6 \nB)",
+      "cantidad_caracteres": 1385,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 25,
+      "texto": "63. (PAES2) En cierta empresa se desea crear códigos alfa- numéricos de 5 caracteres, las \n\nprimeras tres posiciones son dígitos y las restantes vocales. Si los dígitos no se pueden \nrepetir, pero si las vocales, entonces ¿cuántos códigos distintos se pueden crear? \n \n \n\nA) 103 · 25 \nB) 720 · 25       \nC) 103 · 20 \nD) 720 · 20 \n\n \n \n \n \n64. (PAES2) De cuántas maneras se pueden ubicar siete personas alrededor de una mesa \n\nredonda con 7 sillas si dos de ellas NO deben estar juntas \n \n \n\nA) \n  480      \nB) \n  540 \nC)   600 \nD)   720 \n\n \n \n \n \n65. (PAES2) Si una caja contiene 9 tarjetas con 6 consonantes distintas y 3 vocales \n\ndistintas, impresas en ellas, entonces ¿cuántas palabras se pueden formar que \ncomiencen con 2 vocales y seguidas de 3 consonantes? \n \n \n\nA)     24 \nB)   210 \nC)   520 \nD)   720      \n \n \n \n \n66. (PAES2) De un grupo de 6 atletas, se tienen que elegir 3 para que representen al país \n\nen las olimpiadas. Si Pablo debe ser uno de los elegidos, ¿de cuántas maneras puede",
+      "cantidad_caracteres": 1119,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 26,
+      "texto": "67. (PAES2) Un examen consta de doce preguntas, de las cuales Karina debe contestar \n\nsolo siete preguntas. Si de las seis primeras preguntas debe contestar por lo menos \ncuatro, ¿de cuántas maneras diferentes podrá rendir su examen? \n \n \n\nA) 256 \nB) 266 \nC) 231 \nD) 396      \n \n \n \n \n68.  (PAES2) Andrés tiene 3 amigos y siempre va al cine acompañado por lo menos de uno \n\nde ellos. ¿Cuántas alternativas de compañía tiene Andrés cuando va al cine? \n \n\nA) 5 \nB) 6 \nC) 7      \nD) 8 \n \n \n \n \n69. (PAES2) En un concurso de arte los participantes deben utilizar algunas de las técnicas \n\nque a continuación se mencionan: acuarela, aerografía, fresco, gouache, tinta y pintura \nal pastel. ¿De cuántas formas distintas pueden ser elegidas dos de estas técnicas por \nun participante, si el orden en que se apliquen no importan? \n \n\n \nA) 30 \nB) 15      \nC) 10 \nD)   6 \n\n \n \n \n \n \n70. (PAES2) ¿De cuántas maneras se pueden formar grupos de tres personas en un curso \n\nde 25 alumnos? \n \n \n\nA)   2.300      \nB)",
+      "cantidad_caracteres": 1047,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 27,
+      "texto": "71. (PAES2) Para la ceremonia de graduación los alumnos deben ir de dos en dos. Si el \n\ncurso es de 30 alumnos, ¿cuál es el número de combinaciones de parejas que se \npueden formar con todos los alumnos del curso, sin importar el orden? \n \n\nA) 435      \nB) 420 \nC) 335 \nD) 310 \n \n \n \n \n72. (PAES2) El entrenador de un equipo de futbol dispone de 22 jugadores y debe elegir \n\ndos de ellos para sacarlos del equipo. ¿De cuántas maneras distintas puede realizar \nesta elección el entrenador? \n \n\nA)     2 \nB) \n   20 \nC) 231       \nD) 462 \n\n \n \n\n73. \n(PAES2) Para el examen de grado un estudiante debe estudiar 10 temas, al rendirlo \nse sortean 3 de éstos. ¿Con cuál(es) de las siguientes expresiones se puede(n) calcular \nlas cantidades a sortear? \n\nI) \n10\n\n3\n\n\n\n\n\n\n\n \n\nII) \n10\n\n7\n\n\n\n\n\n\n\n \n\nIII) \n3\n10  \n\n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II      \n\n \n \n\n74. (PAES2) Se deben apilar, uno sobre otro, 10 piezas de legos iguales, entre las cuales \n\nhay 2 azules, 3 blancas, 3 r",
+      "cantidad_caracteres": 1167,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 28,
+      "texto": "75. (PAES2) Una población está compuesta de 10 elementos. ¿Cuántos grupos, con orden \n\ny con reposición, de tamaño 2, se pueden extraer de la población? \n \n\nA)  100 \nB)   50 \nC)   20 \nD)   10 \n      \n \n \n76. (PAES2) ¿Cuántos números de tres cifras se pueden formar con los 4 menores \n\nnúmeros primos, donde se pueden repetir los números? \n \n\nA)   32 \nB) 256 \nC) 128 \nD)   64       \n \n \n77. (PAES2) Un colegio tiene 80 salas y las quiere identificar con un número de  \n\ndos cifras distintas. Si utiliza los dígitos del 1 al 9, ¿cuántas salas quedan sin esa \nidentificación? \n \n\nA) 72 \nB) 24 \nC)   8      \nD)   1 \n\n \n \n \n78. (PAES2) ¿Cuántos números de 10 cifras se pueden formar con los números 3, 3, 5, 5, 5, 5, \n\n5, 7, 7, 7? \n \n\nA)           120 \nB)        2.520       \nC)      25.200 \nD)     362.880 \n\n \n\n \n \n79. (PAES2) El número de teléfono de Marcela es 78778678. ¿Cuántos números \n\ntelefónicos diferentes al de Marcela existen usando los mismos dígitos? \n \n\nA) 8! \nB) 4! ∙ 3! \nC) 280 \n\nD) \n8!\n4",
+      "cantidad_caracteres": 1031,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 29,
+      "texto": "80. (PAES2) ¿Cuántas palabras, con o sin sentido, se pueden formar con las letras de la \n\npalabra PLATO, si las letras L y O deben estar juntas? \n \n\nA) 48 \nB) 24 \nC) 5! ∙ 2! \n\nD) 5!\n\n2!       \n\n \n \n \n \n81. (PAES2) ¿De cuántas maneras se pueden saludar 20 personas, si cada una de ellas se \n\ndebe saludar solamente una vez? \n\n \n \nA) 180       \nB) 190 \nC) 200 \nD)   40 \n \n \n \n \n82. (PAES2) Para las actividades extraprogramáticas del Colegio de Juan Luis existen 10 \n\nopciones de las cuales debe escoger tres de ellas por obligación. Si él descartó cuatro \nde ellas, porque tienen relación con bailar, ¿de cuántas formas pueden hacer su \nelección, sin importar el orden? \n \n\nA) 720 \nB) 120 \nC)   20       \nD)   15 \n \n \n \n \n \n83. (PAES2) En un torneo de natación se tienen 3 categorías diferentes, 50, 100 y 200 \n\nmetros libres. Si para cada categoría existen 4 estilos: mariposa, espalda, pecho, crol y \nun nadador solo puede competir en 2 estilos diferentes por categoría, ¿cuántas \nmaneras diferentes",
+      "cantidad_caracteres": 1098,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 30,
+      "texto": "84. (PAES2) ¿Cuántas palabras con o sin sentido, de 5 letras distintas se pueden formar \n\ncon las letras de la palabra PARTE, si la P y la A no deben aparecer juntas? \n \n \n\nA)   24 \nB)   48     \nC)   60     \nD)   72 \n\n \n\n \n \n \n85. (PAES2) Se  tiene  una  población  compuesta  por  las  fichas  1,  2,  2,  4  y  7, \n\ndistintas entre sí.  ¿Cuál es la cantidad de todas las posibles muestras (sin reposición), \nimportando el orden, de tamaño 2 que pueden extraerse desde esta población? \n \n \n\nA)   6 \nB) 10 \nC) 12 \nD) 20      \n\n \n \n \n \n86. (PAES2) En el campeonato nacional de futbol de primera división 2019, participan 16 \n\nequipos, los cuales juegan todos contra todos en dos ruedas. Si en la primera rueda se \njuegan en total n partidos, ¿cuántos partidos se juegan en total en las dos ruedas? \n \n\n \nA) n + 120 \nB) n + 112     \nC) n +   96 \nD) n +   60      \n \n \n \n \n87. (PAES2) En una canasta hay n pelotas. Se puede determinar el número formas \n\ndiferentes de agruparlas, si se conoce: \n \n\n(1) n",
+      "cantidad_caracteres": 1220,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 31,
+      "texto": "88. (PAES2) De un grupo de 100 trabajadores se debe escoger un comité de 10 \n\nparticipantes para debatir en torno a las condiciones laborales de su empresa, ¿de \ncuántas formas se puede escoger este comité? \n\n \n(1) el comité debe estar formado solo por 6 mujeres. \n\n(2) el comité debe estar formado solo por 4 hombres. \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional      \n \n \n \n89. En una bandeja hay a arándanos y f frutillas. Si se extraen 2 frutas al azar sin \n\nreposición, ¿cuál es la probabilidad de obtener frutas distintas? \n \n\nA) \na\nf\n  \na + f\na + f\n\n \n\nB) \na\nf\n2 · \n · \na + f\na + f  \n\nC) \na\nf\n  \na + f\na + f  1\n\n\n \n\nD) \na\nf\n2 · \n  \na + f\na + f  1\n\n\n        \n\n \n \n \n90. En una rifa con 300 números, la cantidad de números que hay que comprar para tener \n\nun 6% de probabilidad de ganar es \n \n\nA) 20 \nB) 18       \nC) 15 \nD) 10 \n\n \n \n \n91. Una bolsa contiene 3 lápices negros y 5 azules, tod",
+      "cantidad_caracteres": 1483,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 32,
+      "texto": "92. La siguiente tabla muestra la distribución de las edades de un grupo de personas que \n\ntrabajan en una pequeña tienda. Si se selecciona una persona al azar, entonces la \nprobabilidad de que la persona tenga a lo menos 26 años es \n \n\nA) \n1\n10  \n\nEdades (x) \nf \n[17 – 25] \n15 \n[26 – 34] \n23 \n[35 – 43] \n7 \n ≥ 44 \n5 \n\nB) \n3\n10  \n\nC) 19\n\n25  \n\nD) \n7\n10        \n\n \n \n \n \n93. La tabla muestra los resultados obtenidos en una prueba. Si se escoge un alumno al \n\nazar, ¿cuál es la probabilidad de que su nota sea menor que 4? \n \n\nNotas \nf \n\nA) 20% \nB) 25%       \nC) 30% \nD) 35% \n\n[2 – 3[ \n   3 \n\n[3 – 4[ \n   6 \n\n[4 – 5[ \n 12 \n\n \n \n \n \n \n94. Dos personas piensan un número del conjunto {1, 2, 3, 4, 5, 6}, ¿cuál es la \n\n[5 – 6[ \n 10 \n\n[6 – 7[ \n   5 \n\nprobabilidad que piensen el mismo número, si sus pensamientos son independientes? \n\n \n\n6\n1\n6\n\n\n\n\n\n\n\nA) \n\n \n\nB) \n1\n36  \n\nC)  1\n\n6         \n\nD)  1\n\n3  \n\n \n \n \n95. La probabilidad de ganar un juego es 0,32 y la probabilidad de perderlo es 0,58. ¿Cuál ",
+      "cantidad_caracteres": 1122,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 33,
+      "texto": "96. Se tienen un dado común, una moneda de $ 50 y otra de $ 10. Si se lanza la moneda \n\nde $ 50, luego el dado y a continuación la moneda de $ 10, ¿cuál es la probabilidad que \nsalga un sello, un número mayor que 2 y finalmente una cara? \n \n\nA)   1\n\n3  \n\nB)  5\n\n24   \n\nC)   1\n\n6        \n\nD)   1\n\n2  \n\n \n \n \n \n97. Al lanzar un dado, ¿cuál es la probabilidad de obtener el número 3 o un número impar? \n \n\nA) 75% \n\nB) 66 2\n\n3 % \n\nC) 50%       \n\nD) 33 1\n\n3 % \n\n \n \n \n\n98. En un curso de 40 alumnos, la probabilidad de escoger una mujer es 3\n\n8 , ¿cuántos \n\nhombres hay en el curso? \n \n\nA) 10 \nB) 12 \nC) 15 \nD) 25        \n \n \n \n99.  Si se escoge una letra al azar de la palabra SUEGRITA, ¿cuál es la probabilidad que \n\nésta sea vocal? \n \n\nA) \n1\n2       \n\nB) \n5\n8  \n\nC) \n3\n8  \n\nD) \n2\n5  \n\n \n\n33 \n \n",
+      "cantidad_caracteres": 792,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 34,
+      "texto": "100. ¿Cuál es la probabilidad de que un número sacado al azar del conjunto de números   \n\n{2, 1, 4, 2, 3, 3, 4, 3, 4, 4}, sea la media aritmética de dichos números?  \n \n \n\nA) \n  0 \n\nB) \n1\n10  \n\nC)  1\n\n5  \n\nD) \n3\n10         \n\n \n \n \n \n101. Al lanzar un dado común, ¿cuál es la probabilidad de obtener un número menor que 4 o \n\nun número impar? \n\nA) \n1\n6  \n\nB) \n2\n6  \n\nC) \n4\n6        \n\nD) 3\n\n6  \n\n \n \n \n102. Si se lanzan dos monedas y un dado normal, ¿cuál es la probabilidad de obtener dos \n\ncaras y un número par? \n \n\nA) 0,111 \nB) 0,125       \nC) 0,250 \nD) 0,500 \n\n \n \n \n \n103. En una caja hay 8 tarjetas blancas y 9 celestes. Si se extraen al mismo tiempo y al azar \n\n3 tarjetas, ¿cuál es la probabilidad de que las tres sean del mismo color? \n \n\nA) \n7\n34        \n\nB) \n6\n35  \n\nC) \n7\n85  \n\nD) \n8\n85  \n\n \n \n\n34 \n \n",
+      "cantidad_caracteres": 812,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 35,
+      "texto": "104. Al lanzar 3 dados comunes, ¿cuál es la probabilidad de obtener 3 números iguales? \n \n\nA)   1\n\n3  \n\nB)  1\n\n12  \n\nC)  1\n\n36        \n\nD) \n1\n216  \n\n \n \n \n \n105. Si la probabilidad de que mañana llueva es 26%, entonces la probabilidad de que \n\nmañana no llueva es \n \n\nA) 0,74 \nB) 0,64 \nC) 0,44 \nD) 0,46 \n \n \n \n \n \n106. Una bolsa contiene 5 bolitas azules, 4 bolitas rojas y 3 bolitas verdes. Todas del mismo \n\ntamaño independiente de su color. Si se extrae al azar una bolita de la bolsa, ¿cuál es \nla probabilidad que NO sea verde? \n \n \n\nA) \n1\n3  \n\nB) \n1\n4  \n\nC) \n2\n3  \n\nD) 3\n\n4        \n\n \n \n \n \n \n \n \n \n \n\n35 \n \n",
+      "cantidad_caracteres": 614,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 36,
+      "texto": "107. La probabilidad que Roberta obtenga una buena nota si ha estudiado es de 4\n\n5 . Si la \n\nprobabilidad que estudie y obtenga una buena nota es de 3\n\n5 . ¿Cuál es la probabilidad \n\nque Roberta NO estudie? \n \n\nA) \n6\n25  \n\nB)  3\n\n4  \n\nC)  1\n\n4        \n\nD)  1\n\n5  \n\n \n\n \n\n \n108. En una caja hay 7 camisas blancas, 4 camisas celestes y 3 camisas verdes. Si se saca \n\nde esta caja una camisa al azar, ¿cuál es la probabilidad de que ésta NO sea verde? \n \n \n\nA) \n4\n14  \n\nB) \n7\n14  \n\nC) 10\n\n14  \n\nD) 11\n\n14           \n\n \n \n \n \n109. Dos personas deben pensar un número de tres cifras. ¿Cuál es la probabilidad que \n\npiensen en el mismo número, si sus pensamientos son independientes? \n \n\nA)   \n1\n900        \n\nB)   \n1\n999  \n\nC)  \n1\n1000  \n\nD)  \n1\n8100  \n\n \n \n \n\n36 \n \n",
+      "cantidad_caracteres": 761,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 37,
+      "texto": "110. Si se lanzan 2 monedas y un dado, ¿cuál es la probabilidad de que la cantidad de caras \n\nsea menor que el número que muestra el dado? \n \n \n\nA) \n7\n12  \n\nB) 17\n\n24  \n\nC)  5\n\n6  \n\nD)  3\n\n8  \n\n \n \n \n111. En una caja hay 10 fichas del mismo tipo y forma numeradas del 1 al 10. Las fichas \n\nque contienen un número primo son verdes, las que tienen un número compuesto son \nrojas y el resto blancas. Si se sacan al azar dos fichas de la caja, sin reposición, ¿cuál \nes la probabilidad de que la primera sea blanca y la segunda sea roja mayor que 6? \n \n\nA) \n1\n30        \n\nB) \n1\n3  \n\nC) \n1\n10  \n\nD) 13\n\n30  \n\n \n \n \n \n112. Se lanzan dos monedas y dos dados, uno a continuación del otro. ¿Cuál es la \n\nprobabilidad de que en las monedas salgan dos caras o dos sellos y de que el número \ndel primer dado sea menor en dos unidades como mínimo que el número del segundo \ndado? \n \n\nA) \n5\n144  \n\nB) \n5\n36        \n\nC) \n1\n4  · 10\n\n72  \n\nD) 12\n\n72  \n\n \n \n \n \n\n37 \n \n",
+      "cantidad_caracteres": 952,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 38,
+      "texto": "113. Un dado está cargado de modo que la probabilidad de obtener un número es \n\ndirectamente proporcional a dicho número. ¿Cuál es la probabilidad que salga número \npar? \n \n\nA) \n2\n3   \n\nB) \n2\n5   \n\nC) \n3\n7   \n\nD) 4\n\n7         \n\n \n \n114. Un médico tuvo que atender en un período de 20 días las siguientes urgencias:  \n\n(cero, 6 veces), (una, 7 veces), (dos, 3 veces), (tres, 2 veces), (cuatro, 1 vez),  \n(seis, 1 vez). Si se escoge un día al azar, ¿cuál es la probabilidad de elegir un día en \nque tuvo cero urgencias? \n \n \n\nA) \n6\n20        \n\nB) \n7\n20  \n\nC) \n5\n20  \n\nD) \n3\n20  \n\n \n \n\n \n \n115. Una bolsa contiene 6 tarjetas con los números 2, 4, 5, 6, 8, 9. Si se extraen  \n\ndos tarjetas, una tras otra y se dividen los resultados, ¿cuál es la probabilidad que el \ncuociente sea mayor o igual a 1? \n \n \n\nA) 13\n\n30  \n\nB) 11\n\n15  \n\nC) 13\n\n36  \n\nD) \n4\n15        \n\n \n \n \n \n\n38 \n \n",
+      "cantidad_caracteres": 874,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 39,
+      "texto": "116. Se lanzan dos dados no cargados y se observa que el producto de sus caras es un \n\nnúmero múltiplo de 3. ¿Cuál es la probabilidad que salga un divisor de 3 en uno de \nellos? \n \n \n\nA)  7\n\n \n\n18\n\nB)  13\n\n \n\n18\n\nC)  7\n\n \n\n20\n\nD)  13\n\n20         \n\n \n \n \n \n117. Una bolsa contiene 20 esferas, 12 rojas y 8 amarillas, al extraer dos, una tras otra, sin \n\nreposición, ¿cuáles de las siguientes afirmaciones son verdaderas? \n \n\nI) \nLa probabilidad que sean del mismo color es 47\n\n95 . \n\nII) \nLa probabilidad que solo una de las esferas extraídas sea amarilla es 24\n\n95 . \n\nIII) \nLa probabilidad que al menos una de ellas sea roja es 81\n\n95 . \n\n \nA) Solo I y II \nB) Solo I y III       \nC) Solo II y III \nD) I, II y III \n \n \n \n \n118. La tabla muestra el resultado de una encuesta acerca de la cantidad de hijos que tienen \n\nun grupo de personas. Si se escoge al azar una persona del grupo, la probabilidad de \nque \n \n\nI) \ntenga cuatro hijos es 1\n\n15 . \n\nII) \ntenga uno o dos hijos es 9\n\n15 . \n\nIII) \nno ten",
+      "cantidad_caracteres": 1202,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 40,
+      "texto": "119. Si se lanzan tres monedas y un dado, ¿cuál es la probabilidad de obtener dos caras y \n\nun número mayor que 4? \n \n \n \n\nA) \n1\n8        \n\nB) \n1\n3  \n\nC) \n5\n14  \n\nD) \n3\n16  \n\n \n \n \n \n \n120. En una bolsa hay fichas, todas iguales, con los dígitos de 0 a 9. Se sacan una a una, sin \n\ndevolución, y el primer número en salir es el 1. ¿Cuál es la probabilidad que a \ncontinuación las fichas que se escojan formen, ordenadamente, el número 234? \n \n\nA)  \n1\n168  \n\nB)  24\n\n504  \n\nC)  \n1\n504        \n\nD)  \n1\n729  \n\n \n \n \n \n \n121. Benjamín responde al azar una prueba de 4 preguntas de verdadero y falso. ¿Cuál(es) \n\nde las siguientes aseveraciones es (son) correcta(s)? \n \n\nI) \nLa probabilidad que obtenga a lo menos 3 buenas es 7\n\n16 . \n\nII) \nLa probabilidad que obtenga exactamente 3 buenas es  1\n\n4 . \n\nIII) \nLa probabilidad que obtenga a lo más 3 buenas es  15\n\n16 . \n\n \n\nA) Solo II \nB) Solo III  \nC) Solo I y III \nD) Solo II y III       \n\n \n \n \n\n40 \n \n",
+      "cantidad_caracteres": 949,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 41,
+      "texto": "122. Un juego consiste en sacar tres bolitas de una tómbola (con devolución) y acertar a \n\ntres colores distintos. Si la tómbola posee igual cantidad, forma, tamaño y material de \nbolitas de color blanco, azul, rojo, verde, café, amarillo, negro y celeste, ¿cuál será la \nprobabilidad de ganar, si se establece como terna ganadora los colores blanco, azul y \nrojo en cualquiera de sus órdenes? \n \n\nA)   1\n\n8   \n\nB)  7\n\n64   \n\nC) \n3\n256         \n\nD)  1\n\n64   \n\n \n \n \n \n123. De un grupo de estudiantes, el 70% practica fútbol, el 40% tenis y un 20%  no practica \n\nninguno de estos deportes. Se escoge un estudiante al azar y resulta que practica \nfútbol, ¿cuál es la probabilidad que también practique tenis? \n \n\nA) \n3\n10   \n\nB)  1\n\n8  \n\nC)  3\n\n7        \n\nD) \n4\n10  \n\n \n \n \n124. En un determinado grupo de personas, toda persona habla francés y/o inglés. El 70% \n\nde ellos habla inglés y el 40% habla francés. Si se escoge una persona al azar de este \ngrupo, entonces ¿cuál es la probabilidad que hable",
+      "cantidad_caracteres": 1079,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 42,
+      "texto": "125. La probabilidad de que una paciente tenga fiebre dado que tiene faringitis es 1\n\n4 . Si la \n\nprobabilidad de que tenga fiebre y faringitis es 1\n\n10 , ¿cuál es la probabilidad de que \n\ntenga faringitis? \n \n\nA)  1\n\n40   \n\nB)  7\n\n20   \n\nC)  3\n\n20  \n\nD)   2\n\n5          \n\n \n \n \n126. Se tienen dos urnas A y B con bolitas de color negro y blanco. La urna A contiene  \n\n2 bolitas negras y 3 blancas. La urna B contiene 4 bolitas negras y 3 blancas. El \nexperimento consiste en extraer una bolita al azar de la urna A y sin mirar depositarla \nen la urna B. Después se extrae al azar una bolita de la urna B. ¿Cuál es la probabilidad \nque al sacar una bolita de la urna B, esta sea negra? \n \n\nA) 11\n\n20         \n\nB)  3\n\n8  \n\nC) \n7\n12  \n\nD)  4\n\n7  \n\n \n \n \n127. En los cursos intensivos de lenguaje y matemáticas de un preuniversitario se \n\nmatricularon 150 alumnos y cada alumno matriculado en un curso, de los cuales 1\n\n3  \n\nfueron mujeres. Si de los 80 alumnos que se inscribieron para lenguaje, la mit",
+      "cantidad_caracteres": 1202,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 43,
+      "texto": "128. Se tienen 3 cajas: la caja 1 contiene 6 esferas rojas y 4 blancas, la caja  \n\n2 contiene 3 esferas rojas y 7 blancas y la caja 3 contiene 8 esferas rojas y 2 blancas. \nSi cada caja tiene la misma probabilidad de ser elegida, al escoger una caja al azar y \nextraer una esfera, ¿cuál es la probabilidad que la esfera extraída sea roja? \n\n \n\nA)   17\n\n10  \n\nB) \n17\n1.000  \n\nC)    17\n\n30  \n\nD) \n48\n1.000  \n\n \n \n \n \n129. Una fábrica de chocolates produce un 40% de barras de chocolate blanco y el resto de \n\nchocolate tradicional. Si se sabe que de los chocolates blancos un 60% debe llevar \nnueces y el resto almendras, y de los tradicionales solo el 20% debe llevar almendras y \nel resto nueces, entonces si se escogiera un chocolate al azar, ¿cuál será la \nprobabilidad de que el chocolate extraído tenga almendras? \n \nA) 72% \nB) 28%        \nC) 40% \nD) 60% \n\n \n \n \n130. La probabilidad de sufrir un accidente en bicicleta es de un 5% de día y un 20% de \n\nnoche, la probabilidad de sufrir un acciden",
+      "cantidad_caracteres": 1665,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 44,
+      "texto": "131. La probabilidad de que ocurra un evento A es 1\n\n4  y la probabilidad de que ocurra un \n\nevento B es  3\n\n8 . Si estos eventos no pueden ocurrir al mismo tiempo, ¿cuál es la \n\nprobabilidad de que ocurra A o B? \n \n\nA)  1\n\n8  \n\nB)  1\n\n3  \n\nC)  5\n\n8         \n\nD) \n3\n32  \n\n \n \n \n132. En una reunión de un grupo de profesionales hay 18 ingenieros, 12 médicos y  \n\n10 \nprofesores. \nSi \n6 \ningenieros \nson \nmujeres, \n6 \nmédicos \nson \nhombres \ny  \n8 profesores son mujeres, ¿cuál es la probabilidad de que al elegir al azar un \nprofesional éste sea profesora?  \n \n\nA) \n1\n10  \n\nB)  2\n\n5  \n\nC)  1\n\n2  \n\nD)  1\n\n5        \n\n \n \n \n133. Dos tómbolas contienen, cada una, 5 bolitas numeradas del uno al cinco. Si se extrae \n\nuna bolita de cada tómbola, ¿cuál será la probabilidad de que ambas bolitas muestren \nel mismo número, si se sabe que la suma de los números es menor que 7? \n \n\nA) \n2\n11  \n\nB)  1\n\n5        \n\nC) \n3\n25  \n\nD) \n2\n25  \n\n \n \n \n \n\n44 \n \n",
+      "cantidad_caracteres": 942,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 45,
+      "texto": "134. Dados dos sucesos A y B tales que P(A) = 0,32; P(AB) = 0,08  y P(AB) = 0,54, \n\n¿cuál(es) de las siguientes proposiciones es (son) verdadera(s), respecto de los sucesos \nA y B? \n \n\nI) \nSon eventos equiprobables. \nII) \nSon eventos independientes. \nIII) \nSon eventos mutuamente excluyentes. \n \n\nA) Solo II \nB) Solo III \nC) I, II y III \nD) Ninguna de ellas     \n \n \n \n135. De acuerdo a la información entregada en la siguiente tabla, ¿cuál es el valor de \n\na + b + c + d? \n \n \n\nFILA \nP(A) \nP(B) \nP(AB) P(AB) \nI \n1\n2  \n1\n3  \n1\n4  \na \n\nA) \n61\n30  \n\nB) \n73\n30  \n\nII \n9\n10  \n9\n10  \nb \n1 \n\nC) \n91\n40  \n\nIII \n1\n4  \nc \n1\n5  \n1\n2  \n\nD)  6\n\n5  \n\nIV \nd \n3\n5  \n1\n10  \n7\n10  \n\n       \n \n \n136. Al lanzar una moneda no cargada 10.000 veces, la cantidad de caras que se obtienen \n\nes \n\n \nA) exactamente 10.000. \nB) exactamente 5.000. \nC) aproximadamente 10.000. \nD) aproximadamente 5.000.        \n \n \n \n137. Si se lanzan 5.000 veces dos dados comunes, entonces según la ley de los grandes \n\nnúmeros, ¿en qué p",
+      "cantidad_caracteres": 1198,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 46,
+      "texto": "138. En un salón hay 1.000 personas y cada una de ellas lanza una moneda, según la Ley de \n\nlos Grandes Números, se puede afirmar que \n \n\nA) en aproximadamente 500 de los casos salió cara. \nB)  en 3,75% de los casos salió cara. \nC) en aproximadamente 370 de los casos salió sello. \nD) en 125 casis salió sello. \n \n \n \n \n139. ¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n\nI) \nAl lanzar 2.100 veces una moneda, en 1.050 oportunidades saldrá cara. \n\nII) \nAl lanzar un dado común 6 veces, 1\n\n6  de las veces saldrá el número 3. \n\nIII) \nAl lanzar dos dados 180 veces, 30 veces la suma de los puntos será a lo \nmás de 4. \n \n\nA) Solo III \nB) Solo II y III \nC) I, II y III \nD) Ninguna de las opciones anteriores.       \n \n \n \n140. Si se lanza 10.000 veces dos dados comunes, entonces según la Ley de los Grandes \n\nNúmeros, ¿en qué porcentaje, aproximadamente, de esas repeticiones ocurrirá que la \nsuma de los números obtenidos sea menor o igual que 4? \n \n\nA)  En un 8% \nB) En u",
+      "cantidad_caracteres": 1481,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 47,
+      "texto": "142. Don Juan viaja todos los días en Transantiago al trabajo y la probabilidad de viajar \n\nsentado es de 0,2.  Si trabajó 300 días al año durante 5 años, entonces podemos \nasegurar que \n \n\nA) viajó sentado exactamente 60 días por año. \nB) viajó sentado exactamente 60 días. \nC) viajó sentado aproximadamente 60 días. \nD) viajó parado aproximadamente 240 días por año.       \n \n \n \n143. Se lanza una moneda no cargada 5 veces y se determina la probabilidad de obtener \n\ndos caras. Si se repite el experimento 320.000 veces, entonces es correcto afirmar que \n \n\nA) en 100.000 veces se obtienen 2 caras. \nB)  en 32.000 veces se obtienen 2 caras. \nC) un 31% de las veces se obtienen 2 caras. \nD) aproximadamente 100.000 veces se obtienen 2 caras. \n \n \n \n144. ¿Cuántas veces, aproximadamente, se espera que la suma de los puntos obtenidos sea \n\nmayor que 6 en 500 lanzamientos de dos dados? \n \n \n\nA) 292  \nB) 100  \nC) 139 \nD) 420  \n \n \n \n145. (PAES2) A Carlita le gusta coleccionar lápices de Disney, tie",
+      "cantidad_caracteres": 1451,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 48,
+      "texto": "146. (PAES2) En una caja hay 10 fichas blancas, 8 azules y el resto son todas rojas. Si \n\ntodas estas fichas son del mismo tamaño, independiente de su color. Se puede saber \ncuántas son rojas, si se sabe que: \n \n\n(1) el número total de fichas es par. \n\n(2) la probabilidad de extraer una ficha roja o azul es 6\n\n11 . \n\n \nA) (1) por sí sola \nB) (2) por sí sola        \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola (1) ó (2) \nE) Se requiere información adicional \n \n \n \n \n147. (PAES2) Se tiene una bolsa con solo fichas blancas, azules y negras de igual tamaño y \n\npeso. Se puede determinar la probabilidad de sacar una ficha negra, si se sabe que: \n\n \n(1) el número de fichas negras duplica al número de fichas blancas y es la mitad de las \n\nazules. \n(2) el número de fichas blancas es la cuarta parte del número de fichas azules. \n \nA) (1) por sí sola       \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional. \n \n \n \n \n148",
+      "cantidad_caracteres": 1502,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 49,
+      "texto": "149. (PAES2) Sean A y B dos sucesos de un experimento aleatorio. Se puede calcular      \n\nP(A  B), si se sabe que: \n \n\n(1) P(A) = 0,4 \n(2) P(B) = 0,3 \n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional       \n \n \n150. (PAES2) Se lanza una vez un dado cargado. Se puede determinar la probabilidad que \n\nsalga un dos, si se conoce que: \n \n(1) la probabilidad que salga un número impar es el doble que salga un número par. \n(2) P(4) = P(2) = P(6) \n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2)       \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n49 \n \n",
+      "cantidad_caracteres": 734,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 50,
+      "texto": " \n\nCLAVES EJERCICIOS \n \n \n\n1 \nA \n26 \nC \n51 \nB \n76 \nD \n101 \nC \n126 \nA \n\n2 \nB \n27 \nB \n52 \nD \n77 \nC \n102 \nB \n127 \nA \n\n3 \nA \n28 \nD \n53 \nC \n78 \nB \n103 \nA \n128 \nC \n\n4 \nD \n29 \nB \n54 \nA \n79 \nD \n104 \nC \n129 \nB \n\n5 \nC \n30 \nC \n55 \nC \n80 \nA \n105 \nA \n130 \nD \n\n6 \nB \n31 \nC \n56 \nD \n81 \nB \n106 \nD \n131 \nC \n\n7 \nD \n32 \nD \n57 \nC \n82 \nC \n107 \nC \n132 \nD \n\n8 \nD \n33 \nB \n58 \nA \n83 \nB \n108 \nD \n133 \nB \n\n9 \nA \n34 \nD \n59 \nC \n84 \nD \n109 \nA \n134 \nD \n\n10 \nA \n35 \nE \n60 \nB \n85 \nD \n110 \nC \n135 \nA \n\n11 \nA \n36 \nC \n61 \nC \n86 \nA \n111 \nA \n136 \nD \n\n12 \nD \n37 \nB \n62 \nB \n87 \nE \n112 \nB \n137 \nC \n\n13 \nC \n38 \nB \n63 \nB \n88 \nE \n113 \nD \n138 \nA \n\n14 \nD \n39 \nB \n64 \nA \n89 \nD \n114 \nA \n139 \nD \n\n15 \nB \n40 \nD \n65 \nD \n90 \nB \n115 \nD \n140 \nB \n\n16 \nA \n41 \nD \n66 \nB \n91 \nB \n116 \nD \n141 \nD \n\n17 \nB \n42 \nC \n67 \nD \n92 \nD \n117 \nB \n142 \nD \n\n18 \nC \n43 \nD \n68 \nC \n93 \nB \n118 \nC \n143 \nD \n\n19 \nA \n44 \nC \n69 \nB \n94 \nC \n119 \nA \n144 \nA \n\n20 \nD \n45 \nC \n70 \nA \n95 \nD \n120 \nC \n145 \nC \n\n21 \nD \n46 \nA \n71 \nA \n96 \nC \n121 \nD \n146 \nB \n\n22 \nD \n47 \nC \n72 \nC \n97 \nC \n122 \nC \n1",
+      "cantidad_caracteres": 1150,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

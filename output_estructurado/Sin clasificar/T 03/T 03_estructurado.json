@@ -1,0 +1,3240 @@
+{
+  "archivo_original": "T 03.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/T 03.pdf",
+  "materia": "Sin clasificar",
+  "num_paginas": 58,
+  "fecha_procesamiento": "2026-03-07T23:06:19.327463",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEn la figura adjunta, AC : AB  = 5 : 9  y CD : DB = 1 : 3.  Entonces, es correcto afirmar \nque \n\n \n\nI) \nsi AC = 20, entonces DB = 12. \nII) \nDB : AC  = 5 : 3 \nIII) \nsi CD = 4, entonces AB = 36.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III A C D B"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "T 03_p4_img0.jpg",
+        "T 03_p4_img1.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nLos puntos C y D pertenecen al segmento AB que mide 60 cm y se encuentran en el \norden, de izquierda a derecha, A – C – D – B. Si AC : CD = 4 : 3  y  CD : DB = 6 : 1, \nentonces AD - CB es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "28 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "18 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "14 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "12 cm"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi el plano de una casa está hecho a una escala de 1 : 60, ¿cuál(es) de las siguientes \nafirmaciones es (son) verdadera(s)? \n \n\nI) \nSi en el plano su área es 0,025 m2; entonces corresponde a un área total \nconstruida de 90 m2. \n\nII) \nUno de los dormitorios mide 18 m2, lo que corresponde a 0,005 m2 en el \nplano. \nIII) \nEn el plano la cocina mide 0,01 m2; lo que corresponde a 36.000 cm2 de \nconstrucción.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "T 03_p4_img0.jpg",
+        "T 03_p4_img1.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEl punto N divide en razón aurea al trazo AM.  Si  AN > NM  y NM = 8, entonces la \necuación que permite calcular el valor (x) de AM es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x2 – 24x + 64 = 0"
+        },
+        {
+          "letra": "B",
+          "texto": "x2 + 24x – 64 = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "x2 + 24x + 64 = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "x2 – 24x – 64 = 0 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn las preguntas de suficiencia de datos no se pide que dé la solución al problema, \nsino que decida si los datos proporcionados en el enunciado del problema más los \nindicados en las afirmaciones (1) y (2) son suficientes para llegar a esa solución. \n \n\nConsiderando lo anterior, usted deberá marcar la letra:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola, si la afirmación (1) por sí sola es suficiente para responder a la pregunta, pero la afirmación (2) por sí sola no lo es."
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola, si la afirmación (2) por sí sola es suficiente para responder a la pregunta, pero la afirmación (1) por sí sola no lo es."
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2), si ambas afirmaciones (1) y (2) juntas son suficientes para responder a la pregunta, pero ninguna de las afirmaciones por sí sola es suficiente."
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2), si cada una por sí sola es suficiente para responder a la pregunta."
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional, si ambas afirmaciones juntas son insuficientes para responder a la pregunta y se requiere información adicional para llegar a la solución. 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn la figura adjunta, el punto P divide en razón áurea al segmento CD , con PD > PC.  \n¿Cuál de las siguientes alternativas es correcta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "CD PD = 5 + 1 2"
+        },
+        {
+          "letra": "B",
+          "texto": "PC PD = 5 + 1 2 C P D"
+        },
+        {
+          "letra": "C",
+          "texto": "CD PC = 5 1  2"
+        },
+        {
+          "letra": "D",
+          "texto": "CD PD = 5 1  2"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "T 03_p5_img0.jpg",
+        "T 03_p5_img1.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEn la figura adjunta, F es punto medio del segmento EC, CAB = 30°  y CBD = 40°. \n\nEntonces, DCF = \n\nC \n\n \n\n \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10°"
+        },
+        {
+          "letra": "B",
+          "texto": "30°"
+        },
+        {
+          "letra": "C",
+          "texto": "20°"
+        },
+        {
+          "letra": "D",
+          "texto": "50°"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "T 03_p5_img0.jpg",
+        "T 03_p5_img1.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn la figura adjunta, los puntos S, P, R y los puntos R, Q, C, B son colineales. Si     \nABC  PQR  y RSB = 45°, entonces ¿cuál es la medida del PTA? \n\nF \n\nA \n\n    E \n\nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "135º"
+        },
+        {
+          "letra": "B",
+          "texto": "67,5º"
+        },
+        {
+          "letra": "C",
+          "texto": "45º"
+        },
+        {
+          "letra": "D",
+          "texto": "22,5º R Q P T x C 45° S A B 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "T 03_p5_img0.jpg",
+        "T 03_p5_img1.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEn el cuadrilátero ABCD de la figura, AD\nBC\n\n, DAC = 50°, DCA = 65° y  \n\nACB = 70°. Entonces, el ABC mide \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "65º"
+        },
+        {
+          "letra": "B",
+          "texto": "50º"
+        },
+        {
+          "letra": "C",
+          "texto": "60º"
+        },
+        {
+          "letra": "D",
+          "texto": "55º B D"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "T 03_p6_img0.jpg",
+        "T 03_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Los ángulos interiores de un triángulo son números enteros consecutivos. ¿Cuál es el \n\nC \n\ndoble del ángulo exterior adyacente al mayor de ellos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "238º"
+        },
+        {
+          "letra": "B",
+          "texto": "240º"
+        },
+        {
+          "letra": "C",
+          "texto": "120º"
+        },
+        {
+          "letra": "D",
+          "texto": "119º"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. En el triángulo ABC de la figura adjunta, se tiene que AD\nDC\nBD\n\n\n. Si ABD = , \n\n¿cuánto debe medir el ACB, para que  sea siempre mayor que 30°? \n\n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60º"
+        },
+        {
+          "letra": "B",
+          "texto": "Menos de 60°"
+        },
+        {
+          "letra": "C",
+          "texto": "Menos de 70°"
+        },
+        {
+          "letra": "D",
+          "texto": "Más de 70° D"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "T 03_p6_img0.jpg",
+        "T 03_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Sobre la altura CD  del triángulo equilátero ABC de la figura adjunta, se construye un \n\nA \nB \n\ntriángulo rectángulo en E. Si BCE = 20, entonces el valor del ángulo x es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30º"
+        },
+        {
+          "letra": "B",
+          "texto": "40º"
+        },
+        {
+          "letra": "C",
+          "texto": "50º"
+        },
+        {
+          "letra": "D",
+          "texto": "70º C E x A B D 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "T 03_p6_img0.jpg",
+        "T 03_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Al ABC de la figura adjunta se aplica una rotación de 10º en sentido horario y con \n\ncentro C, obteniéndose el DEC. Si E pertenece al lado AB  del ABC, ¿cuál(es) de las \nsiguientes afirmaciones es (son) verdadera(s)? \n\n \n\nI) \nCEA = 95° \n\nC \n\nII) \nEBC isósceles de base EB . \nIII) \nDCA = 10°",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "T 03_p7_img0.jpg",
+        "T 03_p7_img1.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En la figura adjunta, con A, D y B colineales y ADC  y DBC son isósceles de base AC  \n\nB\n\nE \nD \n\nA \n\ny BC , respectivamente. ¿Cuánto mide el ACB? \n\n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "75º"
+        },
+        {
+          "letra": "B",
+          "texto": "90º"
+        },
+        {
+          "letra": "C",
+          "texto": "55º"
+        },
+        {
+          "letra": "D",
+          "texto": "45,5º"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "T 03_p7_img0.jpg",
+        "T 03_p7_img1.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. En el triángulo ABC de la figura adjunta, AC \n BC\n\n, CD \n AB\n\n, FE \n AB\n\n y AF = FB. \n¿Cuál(es) de las siguientes proposiciones es (son) verdadera(s)? \n \n \n\nA \nD \nB \n\nI) \nDGA = FCG   \n\nC \n\nII) \nAGC = ABC + BCD  \n\nIII) \nEFA = FGC  \n\nF \n\n \n\n \n \n\nG",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III A D E B 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "T 03_p7_img0.jpg",
+        "T 03_p7_img1.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. \nEn un ABC se tiene que M y N son puntos medios de AB y AC, respectivamente. Si    \nMN = 3x – 2 y  BC = 5x + 7, entonces el valor de x es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "31"
+        },
+        {
+          "letra": "B",
+          "texto": "24"
+        },
+        {
+          "letra": "C",
+          "texto": "11"
+        },
+        {
+          "letra": "D",
+          "texto": "10"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. \nSi los vértices de un triángulo ABC son A(-3, -3), B(3, 3) y C(-3 3, 3 3), entonces \n¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nEl triángulo equilátero. \nII) \nEl triángulo es acutángulo. \nIII) \nEl triángulo es rectángulo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Si p es la altura correspondiente a la base de un triángulo isósceles de lado 13 cm y \n\nbase 10 cm,  si q es la diagonal de un rectángulo de lados 9 cm y 8 cm y  r la altura de \nun triángulo equilátero de lado 8 3 , entonces ¿cuál de las siguientes afirmaciones es \nverdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p = r < q"
+        },
+        {
+          "letra": "B",
+          "texto": "q < p < r"
+        },
+        {
+          "letra": "C",
+          "texto": "q < r < p"
+        },
+        {
+          "letra": "D",
+          "texto": "r < p < q"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. En la figura adjunta, el triángulo ABC es equilátero de lado 6 cm. Si AD  es transversal \n\nde gravedad, entonces DE mide \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 3 cm E 3 3 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "2 D"
+        },
+        {
+          "letra": "C",
+          "texto": "6 3 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "2 3 3 cm A B 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "T 03_p8_img0.jpg",
+        "T 03_p8_img1.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En el triángulo ABC de la figura adjunta se traza la bisectriz AD. Si el ABC es isósceles, \n\nentonces, ¿cuál(es) de las siguientes relaciones es (son) siempre verdadera(s)? \n \n\nC \n\nI) \nCAD  BAD \n\n \n\nII) \nCD\nDB\n\n \nIII) \nADB rectángulo en D. \n \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "T 03_p9_img0.jpg",
+        "T 03_p9_img1.jpg"
+      ]
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. En la figura adjunta,  ABC  DEF, entonces AB + 2 · EF = \n \n \n\nA \nB \n\nF \n\nE \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18"
+        },
+        {
+          "letra": "B",
+          "texto": "27"
+        },
+        {
+          "letra": "C",
+          "texto": "23"
+        },
+        {
+          "letra": "D",
+          "texto": "25"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "T 03_p9_img0.jpg",
+        "T 03_p9_img1.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. En la figura adjunta,  ABC  DEF. ¿Cuál es la medida de EF ? \n \n \n\n3x - 1 \n\n8 \n\nx + 1  \n\nB \n\nA \n2x - 3 \n\n \n\nD \n\nA \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "21 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "15 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "18 cm"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "T 03_p9_img0.jpg",
+        "T 03_p9_img1.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. (PAES2) Los triángulos ABC y PQR son congruentes, si se sabe que: \n\n21 cm \n15 cm \n\nE \nC \nF \nB \n18 cm \n\nx + 3  \n \n\n \n(1) A    P y  B   Q \n\n(2) AB\nBC\nCA\n = \n = \nPQ\nQR\nRP",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. (PAES2) Se puede determinar que dos triángulos son congruentes, si se sabe que: \n \n\n(1) sus tres ángulos son congruentes. \n(2) un triángulo es homotético del otro.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. En el triángulo ABC de la figura adjunta, se sabe que G es el centro de gravedad. \n\nEntonces, el valor de x + y = \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "9"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "7 y x y + 2 G 7 – x"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "T 03_p10_img0.jpg",
+        "T 03_p10_img1.jpg"
+      ]
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. En la figura adjunta, AD = AB + CD  y  AB = BC. Entonces, x = \n\nA \nB \n\nC \n\n \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "35°"
+        },
+        {
+          "letra": "B",
+          "texto": "60°"
+        },
+        {
+          "letra": "C",
+          "texto": "45°"
+        },
+        {
+          "letra": "D",
+          "texto": "50° B"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "T 03_p10_img0.jpg",
+        "T 03_p10_img1.jpg"
+      ]
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. Con respecto a los paralelogramos, ¿cuál(es) de las siguientes afirmaciones es (son) \n\n60° \nA \nD \n\nsiempre verdadera(s)? \n \n\nI) \nAl unir los puntos medios de los lados consecutivos del paralelogramo, se \nobtiene otro paralelogramo. \nII) \nAl trazar las diagonales los triángulos opuestos son congruentes. \nIII) \nLos cuatro triángulos, no sobrepuestos, que se forman al trazar las \ndiagonales son equivalentes.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. En la figura adjunta, ABCD es un paralelogramo. Si DAB = 75º, entonces ¿cuál de las \n\nsiguientes opciones es correcta? \n \n \n\nC \nD \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x + y = 210°"
+        },
+        {
+          "letra": "B",
+          "texto": "x + y = 180°"
+        },
+        {
+          "letra": "C",
+          "texto": "4x + y = 3x"
+        },
+        {
+          "letra": "D",
+          "texto": "2x + y = 210° y B A"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": [
+        "T 03_p11_img0.jpg",
+        "T 03_p11_img1.jpg"
+      ]
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. Si en el rombo de la figura adjunta, AO : AD = 1 : 2, entonces  +  +  =  \n \n \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "180º"
+        },
+        {
+          "letra": "B",
+          "texto": "150º"
+        },
+        {
+          "letra": "C",
+          "texto": "120º"
+        },
+        {
+          "letra": "D",
+          "texto": "100º"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": [
+        "T 03_p11_img0.jpg",
+        "T 03_p11_img1.jpg"
+      ]
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. Dado un cuadrilátero ABCD, ¿cuál(es) de las siguientes afirmaciones se necesitarían \n\n \n\n \n\nA \n\nC \n\nO \n\n \n\nB \n\nconocer para asegurar que el cuadrilátero es un rombo? \n \n\nI) \nSus diagonales se intersectan en 90°. \nII) \nTiene dos pares de lados paralelos. \nIII) \nSus lados son de igual medida.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Falta información"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. En el rectángulo ABCD, de la figura adjunta, P, Q, R y S son puntos medios de sus \n\nlados y O es el punto en el cual se intersectan sus diagonales. Si L es una recta que \ncorta dos lados del rectángulo, siempre NO formarán en él dos figuras congruentes si \npasa por \n \n \n\nS \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "el punto O."
+        },
+        {
+          "letra": "B",
+          "texto": "por los puntos A y C."
+        },
+        {
+          "letra": "C",
+          "texto": "por los puntos Q y R."
+        },
+        {
+          "letra": "D",
+          "texto": "por los puntos S y Q. P R A B Q 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": [
+        "T 03_p11_img0.jpg",
+        "T 03_p11_img1.jpg"
+      ]
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. Si la diagonal de un cuadrilátero es perpendicular a la otra diagonal, entonces ¿cuál(es) \n\nde las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nEl cuadrilátero puede ser un rombo. \nII) \nEl cuadrilátero puede ser un rectángulo. \nIII) \nEl cuadrilátero puede ser un romboide.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. Con respecto a un octógono regular, ¿cuál(es) de las siguientes afirmaciones es (son) \n\nFALSA(S)? \n \n\nI) \nLa suma de sus ángulos interiores es 1080°. \nII) \nEl número total de diagonales es 20. \nIII) \nCada ángulo exterior mide 45°.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Ninguna de ellas"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. En la figura adjunta se tiene el cuadrilátero ABCD. ¿Cuál de las siguientes afirmaciones \n\nes verdadera? \n \n \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Si AD = DC = CB = BA, es un cuadrado."
+        },
+        {
+          "letra": "B",
+          "texto": "Si AD = CB y DC = AB, es un deltoide."
+        },
+        {
+          "letra": "C",
+          "texto": "Si los lados son paralelos es un rectángulo."
+        },
+        {
+          "letra": "D",
+          "texto": "Si AB // DC y DA // CB , es un paralelogramo. B A"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "T 03_p12_img0.jpg",
+        "T 03_p12_img1.jpg"
+      ]
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. (PAES2) Se puede determinar el número de vértices de un polígono convexo, si se \n\nsabe que: \n\n \n(1) el total de diagonales que se pueden trazar en él son 27. \n(2) la suma de sus ángulos exteriores es 360°.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. En un trapecio isósceles ABCD de bases AB  y CD  se trazan los segmentos CE  y DE , \n\nsiendo E punto medio de AB . ¿Cuál(es) de las siguientes afirmaciones es (son) \nsiempre verdadera(s)? \n \n\nI) \nAED  BEC\n\n\n \nII) \nADE  CDE\n\n\n \nIII) \nECB  EDC\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. Si ABCD es un romboide, entonces es correcto afirmar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ADC CDB  "
+        },
+        {
+          "letra": "B",
+          "texto": "AED CEB  "
+        },
+        {
+          "letra": "C",
+          "texto": "CEB CED  "
+        },
+        {
+          "letra": "D",
+          "texto": "DEC DAE  "
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. En la figura adjunta, ABCD es un paralelogramo y los puntos B, C y E son colineales. \n\nC \nD \n\nE \n\nB \nA \n\n¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n \n\nI) \nFEC  FAD \n\nII) \nAFD  EFC \nIII) \nAF   DC  \n \n \n \n\nA \nD \n\nF",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III B C E 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "T 03_p13_img0.jpg",
+        "T 03_p13_img1.jpg"
+      ]
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. En la figura adjunta el paralelogramo ACDF es un rombo, E y B son puntos medios de \n\nDF  y AC , respectivamente. ¿Cuál(es) de las siguientes afirmaciones es (son) \ncorrecta(s)? \n \n\nI) \nCEG  FBH \nII) \nABF  DEC \n\nF \nE \nD \n\nIII) \nFBC  CDE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "T 03_p14_img0.jpg",
+        "T 03_p14_img1.jpg"
+      ]
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. Si en la circunferencia de la figura adjunta, los arcos DC y BD son congruentes, \n\nG \nH \n\n \n\nA \nB \nC \n\nentonces la medida del CAB es \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "124°"
+        },
+        {
+          "letra": "B",
+          "texto": "248°"
+        },
+        {
+          "letra": "C",
+          "texto": "62°"
+        },
+        {
+          "letra": "D",
+          "texto": "90° B 62° C"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "T 03_p14_img0.jpg",
+        "T 03_p14_img1.jpg"
+      ]
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. En la figura adjunta, AB  es diámetro de la circunferencia de centro O. ¿Cuánto mide el \n\nD \n\nángulo CAB? \n \n \n\n B",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10º"
+        },
+        {
+          "letra": "B",
+          "texto": "20º"
+        },
+        {
+          "letra": "C",
+          "texto": "25º"
+        },
+        {
+          "letra": "D",
+          "texto": "40º"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "T 03_p14_img0.jpg",
+        "T 03_p14_img1.jpg"
+      ]
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. En la figura adjunta, el triángulo ABC es isósceles de base AB , O es el centro de la \n\n2x + 20º \n\nC \n O \n\n  A \n\n5x + 90º \n\ncircunferencia y el ángulo ACB mide 52°. La medida del ángulo x es \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "64°"
+        },
+        {
+          "letra": "B",
+          "texto": "104°"
+        },
+        {
+          "letra": "C",
+          "texto": "128°"
+        },
+        {
+          "letra": "D",
+          "texto": "122° x A B O 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "T 03_p14_img0.jpg",
+        "T 03_p14_img1.jpg"
+      ]
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. En la figura adjunta, el punto D pertenece al segmento AC, AB  es tangente a la \n\ncircunferencia de centro O en el punto B. Si el ángulo BCA mide 42° y DC  es diámetro, \nentonces el ángulo CAB mide",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6°"
+        },
+        {
+          "letra": "B",
+          "texto": "42°"
+        },
+        {
+          "letra": "C",
+          "texto": "84°"
+        },
+        {
+          "letra": "D",
+          "texto": "96°"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "T 03_p15_img0.jpg",
+        "T 03_p15_img1.jpg"
+      ]
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. En la figura adjunta, AOB son puntos colineales, arco CA = x + 20º y   \n\nB \nx \n\nA \n\nD \n\nO\n\nC \n\narco BDC = 6x + 20º. ¿Cuánto mide el CDB? \n\nB \n\n \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40º"
+        },
+        {
+          "letra": "B",
+          "texto": "70º"
+        },
+        {
+          "letra": "C",
+          "texto": "110º"
+        },
+        {
+          "letra": "D",
+          "texto": "120º O C A"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "T 03_p15_img0.jpg",
+        "T 03_p15_img1.jpg"
+      ]
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. En el cuadrilátero ABCD de la figura adjunta AB  // DC , AE  es bisectriz del ángulo DAB \n\ny BE  es bisectriz del ángulo ABC. Si AD = 3, BC = 6 y CD = 3 AB\n4\n. ¿Cuál es el \n\nperímetro del cuadrilátero ABCD?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16"
+        },
+        {
+          "letra": "B",
+          "texto": "24"
+        },
+        {
+          "letra": "C",
+          "texto": "28"
+        },
+        {
+          "letra": "D",
+          "texto": "30 E D C B A"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "T 03_p15_img0.jpg",
+        "T 03_p15_img1.jpg"
+      ]
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. En el triángulo ABC de la figura DG // EF // AB, EF = 2DG y AE = ED = DC. Si AB = 24, \n\nentonces DG = \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "9"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "12 D G E F B A 15"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "T 03_p15_img0.jpg",
+        "T 03_p15_img1.jpg"
+      ]
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. En la figura adjunta, ABCD es un paralelógramo en el cual E es el punto medio de CD . \n\nSi DF = 4 cm, ¿cuánto mide BD?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "15 cm"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "T 03_p16_img2.jpg",
+        "T 03_p16_img3.jpg"
+      ]
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. En la figura adjunta las rectas L1 y L2 son paralelas. ¿Cuál es el valor de x, si y = 3? \n\nC \nD \n\nE\n\nF \n\nB \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "8"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "T 03_p16_img2.jpg",
+        "T 03_p16_img3.jpg"
+      ]
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. (PAES2) En la figura adjunta, ABCD es un rectángulo. Se puede determinar en qué \n\nL2 \n\nL1 4 - n \n\nx\nn - 2 \n\ny \n\n7 - n \nn + 1 \n\nrazón están los perímetros de este rectángulo y en el triángulo ABC, si se sabe que: \n \n\nC \nD \n\n(1) BC = 8 cm y \nACD  = 30°. \n(2) AC = 16 cm y \nDAC  = 60°.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional B A"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "T 03_p16_img2.jpg",
+        "T 03_p16_img3.jpg"
+      ]
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. (PAES2) El cuadrilátero de la figura adjunta es un trapecio en que EF  es paralelo a las \n\nbases AB  y DC . Se puede determinar la longitud de EF , si se sabe que: \n \n\n(1) AE : ED = 3 : 1 y CD = 4 \n(2) CF : CB = 1 : 4 y AB = 12",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional D C F E A B 16"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "T 03_p16_img2.jpg",
+        "T 03_p16_img3.jpg"
+      ]
+    },
+    {
+      "numero": 51,
+      "enunciado": "51. ¿En cuál(es) de los siguientes tríos está(n) representada(s) las longitudes de los lados \n\nde un triángulo rectángulo? \n \n \n\nI) \n2; 2\n3 ; 4 \nII) \n4; 7,5; 8,5 \n\n4 ; 1\n14  \n\nIII) \n1; 3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 52,
+      "enunciado": "52. En el PQR de la figura adjunta, RX : XQ = 2 : 1  y RX : XP = 1 : 2.  Si  \n\nPR = 20\n5 cm, entonces el perímetro del triángulo PQR es  \n \n \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(50 + 30 5 ) cm"
+        },
+        {
+          "letra": "B",
+          "texto": "(50 5 ) cm"
+        },
+        {
+          "letra": "C",
+          "texto": "(50 + 30 3 ) cm"
+        },
+        {
+          "letra": "D",
+          "texto": "(50 + 20 5 ) cm P X Q"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "T 03_p17_img0.jpg",
+        "T 03_p17_img1.jpg"
+      ]
+    },
+    {
+      "numero": 53,
+      "enunciado": "53. En la figura adjunta, los AEC y AEB son isósceles de bases AC  y AB ; E y D son \n\npuntos medios de CB  y CA , respectivamente. ¿Cuál(es) de las siguientes afirmaciones  \nes (son) siempre verdadera(s)? \n \n \n\nI) \nAE  CB\n\n  \nII) \nAEB = 2CAE \n\n \nC \n\nIII) \nDE  AC  \n \n\nD \nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III A B 17"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "T 03_p17_img0.jpg",
+        "T 03_p17_img1.jpg"
+      ]
+    },
+    {
+      "numero": 54,
+      "enunciado": "54. En el triángulo ABC de la figura adjunta, con el lado AB es paralelo al eje de las \n\nabscisas, ¿cuál(es) de las siguientes medidas o valores corresponde(n) a un número \nirracional? \n \n\nI) \nEl área del triángulo ABC. \nII) \nEl perímetro del triángulo ABC. \nIII) \nLa abscisa del punto medio de AB . \n \n \n\ny \n\n \n\n5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II C 4 3 2"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "T 03_p18_img1.jpg",
+        "T 03_p18_img2.jpg"
+      ]
+    },
+    {
+      "numero": 55,
+      "enunciado": "55. Si los puntos A(4, 8), B(0, 4) y C(4, m), con m < 8, son los vértices de un triángulo de \n\nB\n\n1 \n\n1 \n2 3 \n4 5 \n6 7 \nx\nA \n\nárea 14 u2, entonces el valor de m es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "0"
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 56,
+      "enunciado": "56. El triángulo PQR de la figura adjunta, es rectángulo en P, PS  ST  TQ\n\n\n, PR = 6 cm y  \nPS = 10 cm. ¿Cuál es el área de la figura achurada? \n \n \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "180 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "90 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "60 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "30 cm2 P S T Q"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "T 03_p18_img1.jpg",
+        "T 03_p18_img2.jpg"
+      ]
+    },
+    {
+      "numero": 57,
+      "enunciado": "57. En el triángulo ABC de la figura adjunta, AD = DC, BG = GC, DE \n AB\n\n  y  GF \n AB\n\n. \n¿Qué porcentaje del área del triángulo ABC es la suma de las áreas de los triángulos \nAED y FBG?  \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50%"
+        },
+        {
+          "letra": "B",
+          "texto": "25%"
+        },
+        {
+          "letra": "C",
+          "texto": "37,5%"
+        },
+        {
+          "letra": "D",
+          "texto": "33,3% D G A F B E 18"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "T 03_p18_img1.jpg",
+        "T 03_p18_img2.jpg"
+      ]
+    },
+    {
+      "numero": 58,
+      "enunciado": "58. (PAES2) En la figura adjunta, AC  // DE. Se puede determinar el área del cuadrilátero \n\nADEC, si se  conoce: \n\n \n(1) el área del triángulo ABC.  \n(2) las medidas de AD y DB. \n\nC \n\nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional B A D"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "T 03_p19_img1.jpg",
+        "T 03_p19_img2.jpg"
+      ]
+    },
+    {
+      "numero": 59,
+      "enunciado": "59. En la figura adjunta, el triángulo ABC es rectángulo en C y CM perpendicular a AB . \n\nEntonces, \n¿cuál(es) \nde \nlas \nsiguientes \nafirmaciones \nes \n(son) \nnecesariamente \nverdadera(s)? \n \n\nI) \nEl perímetro del triángulo CMB = 4 10  + 10  \nII) \nMB = 9 10  \nIII) \nCA = 30 \n \n \n\nC \n\n \n\n10",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III M A B 10 10"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "T 03_p19_img1.jpg",
+        "T 03_p19_img2.jpg"
+      ]
+    },
+    {
+      "numero": 60,
+      "enunciado": "60. (PAES2) En el triángulo ABC de la figura adjunta, M, N y P son puntos medios de los \n\nlados respectivos. Se puede determinar el perímetro de la región achurada, si se sabe \nque: \n \n\n(1) perímetro ABC = 36 cm \n(2) área APC = 54 cm2 \n \n \n\nC \n\n \n\nN",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "T 03_p19_img1.jpg",
+        "T 03_p19_img2.jpg"
+      ]
+    },
+    {
+      "numero": 61,
+      "enunciado": "61. Si la distancia entre A(-2,k)  y  B(1,0) es 5, entonces k es  \n \n\nM \n\nP \nA \n\nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo 4"
+        },
+        {
+          "letra": "B",
+          "texto": "4 o -4"
+        },
+        {
+          "letra": "C",
+          "texto": "-3 o 3"
+        },
+        {
+          "letra": "D",
+          "texto": "-5 o 5 19"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 62,
+      "enunciado": "62. El perímetro del cuadrilátero de vértices A(-2,0);  B(0,1);  C(1,-2) y  D(-1,-3) es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 5 + 2 10"
+        },
+        {
+          "letra": "B",
+          "texto": "4 + 2 3"
+        },
+        {
+          "letra": "C",
+          "texto": "1 + 2 + 5 + 10"
+        },
+        {
+          "letra": "D",
+          "texto": "4 2 + 5 + 5"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 63,
+      "enunciado": "63. Se tienen los puntos  A(-3,1) y B(3,-1), por los cuales se trazan rectas paralelas al eje \n\nx y al eje y formando un cuadrilátero. ¿Cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nI) \nEl cuadrilátero es un cuadrado. \nII) \nAB = 2 10  \nIII) \nEl perímetro del cuadrilátero es 16.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 64,
+      "enunciado": "64. En la figura adjunta, ABCD y EFGC son cuadrados, y el triángulo BEC es isósceles. Si el \n\nárea del cuadrado EFGC es 36, entonces el área del cuadrado ABCD es \n \n \n\nG",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "9"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "24 C D F"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": [
+        "T 03_p20_img0.jpg",
+        "T 03_p20_img1.jpg"
+      ]
+    },
+    {
+      "numero": 65,
+      "enunciado": "65. En el cuadrado ABCD de lado 9, de la figura adjunta, AF   BE   y FC = 6. ¿Cuánto mide \n\n \n\nA \nB \nE \n\nAE ? \n \n \n\nD \nC \n\nF",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "2,5"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "3,5 E A B 20"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": [
+        "T 03_p20_img0.jpg",
+        "T 03_p20_img1.jpg"
+      ]
+    },
+    {
+      "numero": 66,
+      "enunciado": "66. Si el doble de la diagonal de un cuadrado es 24 cm, entonces ¿cuál(es) de las \n\nsiguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nEl área es de 24 cm2. \nII) \nEl doble del perímetro es 48\n2  cm. \n\nIII) \nEl triple del lado es 18\n2 cm.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 67,
+      "enunciado": "67. En la figura adjunta, ABCD es un cuadrado de lado 4 cm. Si  M, N y  P son puntos \n\nmedios de BC , AM y NC , respectivamente, entonces el área del NMC es   \n \n \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "4 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "5 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "6 cm2 P M"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": [
+        "T 03_p21_img0.jpg",
+        "T 03_p21_img1.jpg"
+      ]
+    },
+    {
+      "numero": 68,
+      "enunciado": "68. En la figura adjunta, ABCD es un cuadrado, M es punto medio de AD  y MN es \n\nN \n\nA \nB \n\nperpendicular a AC. ¿Cuál es la razón entre el área del triángulo MNC y el área del \ncuadrado ABCD?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 6 D C"
+        },
+        {
+          "letra": "B",
+          "texto": "3 16"
+        },
+        {
+          "letra": "C",
+          "texto": "7 36 M"
+        },
+        {
+          "letra": "D",
+          "texto": "7 40 N B A 21"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": [
+        "T 03_p21_img0.jpg",
+        "T 03_p21_img1.jpg"
+      ]
+    },
+    {
+      "numero": 69,
+      "enunciado": "69. En la figura adjunta, ABCD es un cuadrado cuya diagonal mide 20\n2  cm. ¿Cuánto \nmide el perímetro de la figura achurada?  \n \n \n\nD\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 10 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "40 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "80 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "80 2 cm"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": [
+        "T 03_p22_img1.jpg",
+        "T 03_p22_img2.jpg"
+      ]
+    },
+    {
+      "numero": 70,
+      "enunciado": "70. (PAES2) En la figura adjunta, C, F, E, A son puntos colineales  y  ABCD es un \n\nA \nB \n\ncuadrado. Se puede determinar el área del triángulo EFG isósceles de base FG , si se \nsabe que: \n \n\nB \nA \n\n(1) CE = 5\n2  cm \n\n(2) E es punto medio de AC .",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional E F G C D"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": [
+        "T 03_p22_img1.jpg",
+        "T 03_p22_img2.jpg"
+      ]
+    },
+    {
+      "numero": 71,
+      "enunciado": "71. Un rectángulo tiene por largo (3x + 5) y ancho (2x – 1). Si el largo disminuye  \n\n2 unidades y el ancho aumenta 2 unidades, entonces la diferencia positiva entre sus \náreas es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0"
+        },
+        {
+          "letra": "B",
+          "texto": "12x2 + 16x – 2"
+        },
+        {
+          "letra": "C",
+          "texto": "2x2 – 8"
+        },
+        {
+          "letra": "D",
+          "texto": "2x + 8"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 72,
+      "enunciado": "72. En la figura adjunta, ABCD es un rectángulo de diagonal 10 cm, y lado DA = 6 cm. Si \n\nAE \n DB\n\n, ¿cuánto mide AE ? \n \n \n\nD \nC \n\n \nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,6 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "4,8 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "5,4 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "6,4 cm B A 22"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": [
+        "T 03_p22_img1.jpg",
+        "T 03_p22_img2.jpg"
+      ]
+    },
+    {
+      "numero": 73,
+      "enunciado": "73. Javier tiene un terreno cuadrado de superficie 4p2 metros cuadrados y le compra a su \n\nvecino un terreno del mismo ancho que el suyo. Con esta compra Javier posee ahora \nun sitio rectangular de superficie 10p2 metros cuadrados. ¿Cuál(es) de las siguientes \nafirmaciones es (son) verdadera(s)? \n \n\nI) \nJavier compró un terreno de largo 8p metros. \nII) \nEl perímetro del terreno total de Javier después de la compra es  \n14p metros. \nIII) \nEl largo del terreno que compró Javier es un 50% más que el ancho del \nterreno que tenía.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 74,
+      "enunciado": "74. En la figura adjunta, ABCD es un rectángulo de lados AB = 8 cm y CB = 5 cm. Si ABF \n\nes un triángulo isósceles de base AB , y FH  CB\n\n, entonces el área achurada mide \n \n \n\nF",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "28 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "36 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "40 cm2 E D G C H A B"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": [
+        "T 03_p23_img1.jpg",
+        "T 03_p23_img2.jpg"
+      ]
+    },
+    {
+      "numero": 75,
+      "enunciado": "75. (PAES2) En la figura adjunta, el ABC es equilátero. Se puede determinar el área del \n\nrectángulo DEFC, si se sabe que: \n \n\nC \nF \n\n(1) el lado del ABC es 6 cm. \n(2) B es punto medio de DE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional A B E D"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": [
+        "T 03_p23_img1.jpg",
+        "T 03_p23_img2.jpg"
+      ]
+    },
+    {
+      "numero": 76,
+      "enunciado": "76. (PAES2) Se puede determinar que x es un número irracional, si se sabe que: \n \n\n(1) x es la medida de la diagonal de un cuadrado. \n(2) (x2 – 2x + 1) es un número irracional.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 23"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 77,
+      "enunciado": "77. (PAES2) Es posible determinar el perímetro de la figura adjunta, si se sabe que: \n \n\n(1) ABCD es un rectángulo de diagonal 5 cm. \n(2) BAD = 90° \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": [
+        "T 03_p24_img0.jpg",
+        "T 03_p24_img1.jpg"
+      ]
+    },
+    {
+      "numero": 78,
+      "enunciado": "78. (PAES2) Un terreno rectangular tiene una superficie de 32 cm2.  Se puede saber su \n\n3 cm \n\nA \nB \n\nperímetro, si se sabe que: \n \n\n(1) el largo es el doble del ancho. \n(2) el largo excede al ancho en 4 cm.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por si sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere informacion adicional"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 79,
+      "enunciado": "79. El rombo ABCD de la figura adjunta tiene un perímetro de 40 cm.  Si ADC = 60º, \n\n¿cuál es el área del rombo? \n \n \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 3 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "50 3 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "50 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "40 3 cm2 A C"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": [
+        "T 03_p24_img0.jpg",
+        "T 03_p24_img1.jpg"
+      ]
+    },
+    {
+      "numero": 80,
+      "enunciado": "80. En la figura adjunta, ¿cuál es la suma de los segmentos de la figura plana formada por \n\nB \n\n3 rombos congruentes cuyas diagonales miden 8 cm y 6 cm?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "70 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "60 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "45 cm 24"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": [
+        "T 03_p24_img0.jpg",
+        "T 03_p24_img1.jpg"
+      ]
+    },
+    {
+      "numero": 81,
+      "enunciado": "81. En el rombo ABCD de la figura adjunta, el ADB = 60° y AC = 12 cm.  Entonces, el \n\nárea y perímetro de la figura es \n \n \n\nD \n\n \n\n     Área              Perímetro",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24 3 cm2 12 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "36 3 cm2 12 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "24 3 cm2 16 3 cm C A"
+        },
+        {
+          "letra": "D",
+          "texto": "16 3 cm2 16 3 cm"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": [
+        "T 03_p25_img0.jpg",
+        "T 03_p25_img1.jpg"
+      ]
+    },
+    {
+      "numero": 82,
+      "enunciado": "82. (PAES2) En el rombo ABCD de la figura adjunta, se puede calcular su área, si se \n\nB \n\nconoce: \n \n\n(1) el perímetro y la altura del rombo. \n(2) un lado y una de sus diagonales. \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": [
+        "T 03_p25_img0.jpg",
+        "T 03_p25_img1.jpg"
+      ]
+    },
+    {
+      "numero": 83,
+      "enunciado": "83. En la figura adjunta, MN es mediana del trapecio ABCD. Si AB = 22 y MN = 14, \n\n \n\nA \nB \n\nentonces la medida de CD  es \n \n \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "7"
+        },
+        {
+          "letra": "C",
+          "texto": "11"
+        },
+        {
+          "letra": "D",
+          "texto": "12"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": [
+        "T 03_p25_img0.jpg",
+        "T 03_p25_img1.jpg"
+      ]
+    },
+    {
+      "numero": 84,
+      "enunciado": "84. Si el trapecio ABCD de la figura adjunta, es un trapecio isósceles de bases AB  y CD ,  \n\nM \nN \n\nA \nB \n\nED = 20 cm y AD : DC = 8 : 3, entonces ¿cuál es el área del trapecio? \n \n \n\nD \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(3 + 4 3 ) ∙ 100 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "(3 + 4 3 ) ∙ 20 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "(15 + 20 3 ) ∙ 20 3 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "(3 + 4 3 ) ∙ 100 3 cm2 30° A E B 25"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": [
+        "T 03_p25_img0.jpg",
+        "T 03_p25_img1.jpg"
+      ]
+    },
+    {
+      "numero": 85,
+      "enunciado": "85. En la figura adjunta, ABCD es un trapecio y PQ  es mediana. Entonces, la razón entre \n\nlas áreas del trapecio PQCD y el trapecio ABCD es \n \n \n\nD \nC \n\n4 cm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 : 6"
+        },
+        {
+          "letra": "B",
+          "texto": "5 : 12"
+        },
+        {
+          "letra": "C",
+          "texto": "9 : 10"
+        },
+        {
+          "letra": "D",
+          "texto": "9 : 20 P Q"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": [
+        "T 03_p26_img0.jpg",
+        "T 03_p26_img1.jpg"
+      ]
+    },
+    {
+      "numero": 86,
+      "enunciado": "86. (PAES2) Se puede determinar el área del trapecio rectángulo de la figura adjunta, si \n\nA \n\nB \n6 cm \n\nse conoce: \n \n\n(1) la medida de la mediana. \n(2) la medida de la altura. \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": [
+        "T 03_p26_img0.jpg",
+        "T 03_p26_img1.jpg"
+      ]
+    },
+    {
+      "numero": 87,
+      "enunciado": "87. En el deltoide ABCD la figura adjunta, CDF = EAB = 30°. Si DC = 10 cm y  \n\n \n\nB \nA \n\nDA = 14 cm, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nC \n\nI) \nEl cuadrilátero EBFD es un rectángulo. \nII) \nEl perímetro del cuadrilátero EBFD es 2(13 – \n3 ) cm. \n\nF \n\nIII) \nEl área del cuadrilátero EBFD es 74\n3  cm2. \n \n\nB \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III E A"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": [
+        "T 03_p26_img0.jpg",
+        "T 03_p26_img1.jpg"
+      ]
+    },
+    {
+      "numero": 88,
+      "enunciado": "88. Si el área de un hexágono regular es \n2\n3a\n3\n2\n, entonces su perímetro es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a"
+        },
+        {
+          "letra": "B",
+          "texto": "2a"
+        },
+        {
+          "letra": "C",
+          "texto": "3a"
+        },
+        {
+          "letra": "D",
+          "texto": "6a 26"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 89,
+      "enunciado": "89. En la figura adjunta, triángulo ABC equilátero de lado 6 cm, en sus vértices se han \n\nformado tres triángulos equiláteros congruentes. Si la suma de los perímetros de los \ntriángulos pequeños es igual al perímetro del hexágono DEFGHI, entonces el lado de un \ntriángulo pequeño mide  \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "2 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "1,5 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "1,25 cm H G F I B A E D"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": [
+        "T 03_p27_img1.jpg",
+        "T 03_p27_img2.jpg"
+      ]
+    },
+    {
+      "numero": 90,
+      "enunciado": "90. En la figura adjunta, PQRSTV es un hexágono regular donde Q pertenece al trazo PG  y  \n\nRG QG.  Si TS = 6, entonces el área del cuadrilátero PGRV es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "27 3 T S"
+        },
+        {
+          "letra": "B",
+          "texto": "36 3"
+        },
+        {
+          "letra": "C",
+          "texto": "27 + 3 3 V R"
+        },
+        {
+          "letra": "D",
+          "texto": "31,5 3"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": [
+        "T 03_p27_img1.jpg",
+        "T 03_p27_img2.jpg"
+      ]
+    },
+    {
+      "numero": 91,
+      "enunciado": "91. En la figura adjunta, ¿cuál es el área de la región achurada? \n \n\nP \nQ \nG \n\nb \n\nb",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a2 – b2"
+        },
+        {
+          "letra": "B",
+          "texto": "a2 – 2b2"
+        },
+        {
+          "letra": "C",
+          "texto": "a2 – 4b2"
+        },
+        {
+          "letra": "D",
+          "texto": "(a – b)(a – b) b b a"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": [
+        "T 03_p27_img1.jpg",
+        "T 03_p27_img2.jpg"
+      ]
+    },
+    {
+      "numero": 92,
+      "enunciado": "92. (PAES2) Se puede determinar el perímetro del hexágono de la figura adjunta, si se \n\n \n\nb \n\nb \n\nb \n\nb \n\n  a \n\nsabe que: \n \n\n(1) DE = 6 cm \n(2) el polígono es regular. \n\nA \nF",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional E B D C 27"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": [
+        "T 03_p27_img1.jpg",
+        "T 03_p27_img2.jpg"
+      ]
+    },
+    {
+      "numero": 93,
+      "enunciado": "93. El área del círculo circunscrito al triángulo de lados 10, 24 y 26 cm es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "26 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "144 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "169 cm2"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 94,
+      "enunciado": "94. El área del círculo circunscrito a un triángulo equilátero de área 25\n3 cm2  es  \n(considere  = 3).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "50 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "75 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "100 cm2"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 95,
+      "enunciado": "95. El área de un círculo es 10. ¿Cuánto hay que aumentar el radio para que el área se \n\ncuadruplique?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "40 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "20 cm"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 96,
+      "enunciado": "96. La cuerda AB  es tangente a la menor de las dos circunferencias concéntricas de la \n\nfigura adjunta. Si AB = 16 cm, ¿cuál es el área de la región achurada? \n \n \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "64 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "63 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "32 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "322 cm2 O B 28"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": [
+        "T 03_p28_img1.jpg",
+        "T 03_p28_img2.jpg"
+      ]
+    },
+    {
+      "numero": 97,
+      "enunciado": "97. Si se amarra con un cordel un caballo en la esquina de una reja con el objetivo de que \n\npaste en un prado que se representa en la zona achurada de la figura adjunta. ¿Cuál \ndebe ser la longitud del cordel para que al alargarlo en 9 m, el área en que puede \npastar el caballo cuadruplique su tamaño? \n \n \n\n \n\nR\ne\nj\na \nR e j a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 m"
+        },
+        {
+          "letra": "B",
+          "texto": "2 m"
+        },
+        {
+          "letra": "C",
+          "texto": "7 m"
+        },
+        {
+          "letra": "D",
+          "texto": "9 m"
+        }
+      ],
+      "pagina": 29,
+      "imagenes": [
+        "T 03_p29_img1.jpg",
+        "T 03_p29_img2.jpg"
+      ]
+    },
+    {
+      "numero": 98,
+      "enunciado": "98. En la figura adjunta, ABCD es un rectángulo inscrito en una circunferencia, F, G y C son \n\npuntos colineales, CD = 16, GB = 4 y G es punto medio de FC . ¿Cuál es el área del \ntrapecio GBCD?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 2 D C"
+        },
+        {
+          "letra": "B",
+          "texto": "30 2"
+        },
+        {
+          "letra": "C",
+          "texto": "40 2"
+        },
+        {
+          "letra": "D",
+          "texto": "50 2"
+        }
+      ],
+      "pagina": 29,
+      "imagenes": [
+        "T 03_p29_img1.jpg",
+        "T 03_p29_img2.jpg"
+      ]
+    },
+    {
+      "numero": 99,
+      "enunciado": "99. En la circunferencia mayor de diámetro 4R, se ha inscrito un triángulo equilátero, \n\nB \nG \nA \n\nF \n\ndentro de él se ha inscrito una circunferencia menor y dentro de este último otro \ntriángulo equilátero, según la figura adjunta. El área achurada es \n \n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 3 6 6 R 4         "
+        },
+        {
+          "letra": "B",
+          "texto": "2 3 3 5 R 4         "
+        },
+        {
+          "letra": "C",
+          "texto": "2 3 5 3 R 4 4R O         "
+        },
+        {
+          "letra": "D",
+          "texto": "2 5 5 2 R 4 29"
+        }
+      ],
+      "pagina": 29,
+      "imagenes": [
+        "T 03_p29_img1.jpg",
+        "T 03_p29_img2.jpg"
+      ]
+    },
+    {
+      "numero": 100,
+      "enunciado": "100. (PAES2) En la figura adjunta, O es el centro de la circunferencia. Se puede determinar \n\nel área achurada, si se sabe que: \n\nC \n\n \n(1) ABC equilátero. \n(2) área del triángulo 9 3 cm2.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": [
+        "T 03_p30_img3.jpg",
+        "T 03_p30_img4.jpg"
+      ]
+    },
+    {
+      "numero": 101,
+      "enunciado": "101. En la figura adjunta, ABC\nFED\n\n\n. Entonces, BAC mide \n\nO \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "90°"
+        },
+        {
+          "letra": "B",
+          "texto": "70°"
+        },
+        {
+          "letra": "C",
+          "texto": "40°"
+        },
+        {
+          "letra": "D",
+          "texto": "10° F A E 40° 50°"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": [
+        "T 03_p30_img3.jpg",
+        "T 03_p30_img4.jpg"
+      ]
+    },
+    {
+      "numero": 102,
+      "enunciado": "102. En \nla \nfigura \nadjunta, \nABC\nPQR\n\n\n. \n¿Cuál \nes \nla \nrazón \nentre \nsus \náreas, \nrespectivamente? \n\nD \nC \nB \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "64 : 81"
+        },
+        {
+          "letra": "B",
+          "texto": "4 : 3"
+        },
+        {
+          "letra": "C",
+          "texto": "3 : 4"
+        },
+        {
+          "letra": "D",
+          "texto": "16: 9 Q 8 9"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": [
+        "T 03_p30_img3.jpg",
+        "T 03_p30_img4.jpg"
+      ]
+    },
+    {
+      "numero": 103,
+      "enunciado": "103. En la figura adjunta, ¿cuáles de los siguientes triángulos son semejantes entre sí? \n \n \n \n \n\nA \nP \n\nB \n\nR \n\n12 \n\n30º \n\nII \nI",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Todos los triángulos son semejantes."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III 60º 60º III 150º 30"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": [
+        "T 03_p30_img3.jpg",
+        "T 03_p30_img4.jpg"
+      ]
+    },
+    {
+      "numero": 104,
+      "enunciado": "104. En la figura adjunta, con A, D, B y E colineales; \n  \nAC // DF, CB // FE,  AD   BE  y  \n\nDPB = 100°, ¿cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n\n \n\nI) \nABC  DEF \nII) \nDBP  DEF \nIII) \nACB = 100° \n\nC\n\nF \n\nP",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": [
+        "T 03_p31_img2.jpg",
+        "T 03_p31_img3.jpg"
+      ]
+    },
+    {
+      "numero": 105,
+      "enunciado": "105. En la figura adjunta, CD  es altura del triángulo ABC y BC = AC = 15. ¿Cuál(es) de las \n\n100° \n\nA \n\nB \nD \n\nE \n\nsiguientes afirmaciones es (son) siempre verdadera(s)? \n \n\nI) \nCD = 9  \nII) \nDAC  DBC    \nIII) \nADC  ABC     \n \n\n \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": [
+        "T 03_p31_img2.jpg",
+        "T 03_p31_img3.jpg"
+      ]
+    },
+    {
+      "numero": 106,
+      "enunciado": "106. En la figura adjunta, \nABF\n\n  \nCDA\n\n, FB\nAD\n\n.  Entonces, ¿cuál(es) de las siguientes \nrelaciones es (son) verdadera(s)? \n \n \n\nD \nA \nB \n\nF \n\nI) \nAEB\n\n  FAB\n\n \nII) \nFEA  DCA\n\n \n\nD \n\nIII) \nDC\nAC\nEB\nAE\n\n \n\n \n\nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III A B C 31"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": [
+        "T 03_p31_img2.jpg",
+        "T 03_p31_img3.jpg"
+      ]
+    },
+    {
+      "numero": 107,
+      "enunciado": "107. En la circunferencia de la figura adjunta, DE  es diámetro y simetral de la cuerda BC , M \n\npertenece a la cuerda BC , A, M y D son puntos colineales. Entonces, el EDA es \nsemejante al triángulo \n \n \n\nE \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "BEP"
+        },
+        {
+          "letra": "B",
+          "texto": "DBC"
+        },
+        {
+          "letra": "C",
+          "texto": "MDP"
+        },
+        {
+          "letra": "D",
+          "texto": "ABM M P B C"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": [
+        "T 03_p32_img0.jpg",
+        "T 03_p32_img1.jpg"
+      ]
+    },
+    {
+      "numero": 108,
+      "enunciado": "108. Con respecto a los triángulos ABC y DEF de la figura adjunta, ¿cuál(es) de las \n\nD\n\nsiguientes afirmaciones es (son) verdadera(s)? \n \n\nC \n\nI) \nSon equivalentes. \nII) \nSon semejantes. \nIII) \nLa razón de semejanza es 1 : 2 \n \n\n \n\nF \n\n8 \n\n4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III D 10 E A 5 B"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": [
+        "T 03_p32_img0.jpg",
+        "T 03_p32_img1.jpg"
+      ]
+    },
+    {
+      "numero": 109,
+      "enunciado": "109. (PAES2) Si los puntos A, C y D son colineales, se puede determinar que los triángulos \n\nABC y CDE de la figura adjunta son semejantes, si se sabe que: \n \n\nE \n\n(1) ED // AB \n\nD \n\n(2) DEC  CBA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional C A B"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": [
+        "T 03_p32_img0.jpg",
+        "T 03_p32_img1.jpg"
+      ]
+    },
+    {
+      "numero": 110,
+      "enunciado": "110. (PAES2) En la figura adjunta, se puede determinar que los triángulos DBE y ABC son \n\nsemejantes, si se sabe que: \n \n\nC \n\n(1) AC   BC  \n\n(2) CE  BE  \n \n\n \n\nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional A D B 32"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": [
+        "T 03_p32_img0.jpg",
+        "T 03_p32_img1.jpg"
+      ]
+    },
+    {
+      "numero": 111,
+      "enunciado": "111. (PAES2) En la figura adjunta, se puede determinar que el ABC es semejante al DEC \n\nen ese orden, si se sabe que: \n \n\nC \n\n(1) DE mediana del ABC. \n(2) ABC equilátero.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": [
+        "T 03_p33_img0.jpg",
+        "T 03_p33_img1.jpg"
+      ]
+    },
+    {
+      "numero": 112,
+      "enunciado": "112. En el triángulo ABC de la figura adjunta, se tiene que AB = 90 cm, SP = 12 cm,  \n\nD \nE \n\nB \nA \n\nBC  // RQ  // PS  y además SP : PR : RB = 1 : 2 : 3. Entonces, CB  mide \n \n \n\nC \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "96 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "72 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "48 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "36 cm R Q P S"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": [
+        "T 03_p33_img0.jpg",
+        "T 03_p33_img1.jpg"
+      ]
+    },
+    {
+      "numero": 113,
+      "enunciado": "113. En el ABC de la figura adjunta, BC  // DE  y DC  // BF .  Si AE = 6 cm, EC = 3 cm y   \n\nA \n\nDB = 4 cm, ¿cuál es la longitud del segmento FC? \n \n \n\nF",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "4 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "4,5 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "8 cm C E"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": [
+        "T 03_p33_img0.jpg",
+        "T 03_p33_img1.jpg"
+      ]
+    },
+    {
+      "numero": 114,
+      "enunciado": "114. En el ABC de la figura adjunta, CA   AB , DE // AB , AD : DC = 1 : 3  y   \n\nA \n\nD \nB \n\nAB : AC = 1 : 4. Si AB = 8, entonces DE = \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "4,5"
+        },
+        {
+          "letra": "D",
+          "texto": "4,8 D E A B 33"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": [
+        "T 03_p33_img0.jpg",
+        "T 03_p33_img1.jpg"
+      ]
+    },
+    {
+      "numero": 115,
+      "enunciado": "115. Un Alerce y un Boldo de igual altura están a 13 m de distancia. Si la distancia del alerce \n\nal punto P es 4 metros, como se muestra en la figura adjunta, ¿cuál es la altura del \nBoldo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 m"
+        },
+        {
+          "letra": "B",
+          "texto": "6 m"
+        },
+        {
+          "letra": "C",
+          "texto": "9 m"
+        },
+        {
+          "letra": "D",
+          "texto": "11 m A L E R C E B O L D O 70° 20°"
+        }
+      ],
+      "pagina": 34,
+      "imagenes": [
+        "T 03_p34_img0.jpg",
+        "T 03_p34_img1.jpg"
+      ]
+    },
+    {
+      "numero": 116,
+      "enunciado": "116. (PAES2) Se puede determinar la altura de Josefa que a las 15 hr proyecta una sombra \n\nP \n\nde 80 cm, si se sabe que: \n \n\n(1) su papá proyecta a la misma hora una sombra de 85 cm y él mide 1,7 m. \n(2) un árbol que mide 3 m de altura proyecta a la misma hora una sombra de 1,5 m.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    },
+    {
+      "numero": 117,
+      "enunciado": "117. En el triángulo ABC de la figura adjunta, DE // AB .  Si  CD = 4 cm,  CE = 6 cm,  \n\nAB = 24 cm  y  AC = 10 cm, entonces el perímetro del trapecio ABED es \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40,0 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "44,6 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "48,6 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "52,6 cm D E"
+        }
+      ],
+      "pagina": 34,
+      "imagenes": [
+        "T 03_p34_img0.jpg",
+        "T 03_p34_img1.jpg"
+      ]
+    },
+    {
+      "numero": 118,
+      "enunciado": "118. En el ABC de la figura adjunta, D, E y F son puntos medios de los trazos AB ,  AC   y \n\nA \nB \n\nAD , respectivamente. ¿Cuál es el área del triángulo ABC? \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60"
+        },
+        {
+          "letra": "B",
+          "texto": "120"
+        },
+        {
+          "letra": "C",
+          "texto": "180"
+        },
+        {
+          "letra": "D",
+          "texto": "240 26 E A F D B 5 34"
+        }
+      ],
+      "pagina": 34,
+      "imagenes": [
+        "T 03_p34_img0.jpg",
+        "T 03_p34_img1.jpg"
+      ]
+    },
+    {
+      "numero": 119,
+      "enunciado": "119. En el triángulo ABC de la figura adjunta, D y E son puntos que pertenecen al lado AC  y \n\nBC . Si CAB  CED, AB = 12 cm, BC = 20 cm y CD = 5 cm, entonces DE mide",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "48 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "4 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "13 cm C E D"
+        }
+      ],
+      "pagina": 35,
+      "imagenes": [
+        "T 03_p35_img0.jpg",
+        "T 03_p35_img1.jpg"
+      ]
+    },
+    {
+      "numero": 120,
+      "enunciado": "120. En el ABC de la figura adjunta, CAB  ADB. Si CB = 12 cm y AB = 9 cm, entonces \n\nB \n\nA \n\nCD  mide \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,90 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "4,75 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "5,25 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "8,10 cm"
+        }
+      ],
+      "pagina": 35,
+      "imagenes": [
+        "T 03_p35_img0.jpg",
+        "T 03_p35_img1.jpg"
+      ]
+    }
+  ]
+}

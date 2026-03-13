@@ -1,0 +1,1525 @@
+{
+  "archivo_original": "Solucionario L1.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/4.Tesla/Ensayos/Lenguaje/Solucionario L1.pdf",
+  "materia": "Sin clasificar",
+  "num_paginas": 47,
+  "fecha_procesamiento": "2026-03-07T22:38:22.447520",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. Según el autor, ¿qué consecuencia tendrían los algoritmos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Propiciarían un mayor control de la privacidad con respecto a la gestión de los datos."
+        },
+        {
+          "letra": "B",
+          "texto": "Alimentaría el sentimiento de soledad y aislamiento de los usuarios independiente de su edad."
+        },
+        {
+          "letra": "C",
+          "texto": "Cambiarían completamente la forma de publicitar y de comprar un determinado producto."
+        },
+        {
+          "letra": "D",
+          "texto": "Podrían aumentar la adicción de los niños y adolescentes a las redes sociales. Correcta: D Habilidad: Localizar Defensa: La información se encuentra textual en la bajada del artículo: “Los algoritmos propician que los menores queden más expuestos a ciertos contenidos y puede aumentar su adicción a las redes sociales.” Asimismo, el texto señala que “Los feeds personalizados se optimizan para ‘atraer’ a cada usuario, a menudo con señales emocionalmente potentes, lo que puede llevar con más frecuencia en edades más tempranas a una cierta adicción.” Por lo tanto, el aumento de la adicción a las redes sociales es la principal consecuencia de los algoritmos según el autor."
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. ¿Qué función cumple la pregunta formulada al inicio del segundo párrafo? \n \n¿Qué está ocurriendo en nuestra sociedad cuando hablamos de redes sociales? Su creciente \nuso ha hecho que surjan preocupaciones éticas y de privacidad con respecto a la gestión de \nlos datos y cómo estas mismas redes entrenan algoritmos para organizar el contenido que \nmuestra a sus usuarios.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Expresar la incertidumbre que caracteriza a los tiempos actuales."
+        },
+        {
+          "letra": "B",
+          "texto": "Criticar el uso indiscriminado de los nuevos dispositivos tecnológicos."
+        },
+        {
+          "letra": "C",
+          "texto": "Motivar la reflexión del lector sobre el uso de las redes sociales."
+        },
+        {
+          "letra": "D",
+          "texto": "Evidenciar el problema que surge de la masificación de la tecnología. Correcta: C Habilidad: Interpretar Defensa: La interrogante planteada corresponde a una pregunta retórica, cuya función es promover la reflexión e invitar al lector a pensar en los problemas que trae el creciente uso de las redes sociales en la sociedad actual. Estos problemas son mencionados en el párrafo para introducir el tema de los algoritmos que se desarrollará en el resto de la lectura."
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. Según la lectura, las redes sociales utilizan los algoritmos para:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "medir cuánto tiempo permanecen los usuarios navegando en internet."
+        },
+        {
+          "letra": "B",
+          "texto": "organizar el contenido que muestran a sus usuarios de manera personalizada."
+        },
+        {
+          "letra": "C",
+          "texto": "mejorar las interacciones de los niños y adolescentes con las publicaciones."
+        },
+        {
+          "letra": "D",
+          "texto": "manipular la conducta de las personas recomendándoles contenido sesgado. Correcta: B Habilidad: Localizar Defensa: El texto señala explícitamente que las redes “entrenan algoritmos para organizar el contenido que muestra a sus usuarios.” La alternativa D no es correcta porque si bien en el texto se menciona que las redes sociales manipulan la conducta de las personas, esto no corresponde a la finalidad con la que las redes sociales crearon los algoritmos, sino que es una consecuencia que se deriva de ellos."
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. A partir de lo señalado en el texto, se puede inferir que los llamados “feeds” \ncorresponden a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "las publicaciones que sube cada usuario a la web."
+        },
+        {
+          "letra": "B",
+          "texto": "las interacciones entre distintas cuentas personales."
+        },
+        {
+          "letra": "C",
+          "texto": "los anuncios publicitarios que aparecen en internet."
+        },
+        {
+          "letra": "D",
+          "texto": "los contenidos que se muestran en las redes sociales."
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. ¿A qué se refiere el efecto ‘jaulas de oro’ mencionado por el autor en el penúltimo \npárrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A la sensación de encierro y soledad que tienen los niños y los adolescentes en sus hogares."
+        },
+        {
+          "letra": "B",
+          "texto": "Al aislamiento social producido por el excesivo uso de los dispositivos personales conectados."
+        },
+        {
+          "letra": "C",
+          "texto": "Al ensimismamiento y pérdida de conexión con el mundo real que ocasiona el internet."
+        },
+        {
+          "letra": "D",
+          "texto": "A la limitación de temas y perspectivas que provocan las redes sociales con sus algoritmos. Correcta: D Habilidad: Interpretar Defensa: En el penúltimo párrafo dice “Efectos como las conocidas ‘jaulas de oro’ provocan que los adolescentes vayan cerrando su círculo de visualización e interacción sobre temas muy concretos, perdiendo la información de otros contenidos y la percepción más amplia de lo que están visualizando.” Por ende, D es correcta."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. ¿Con qué propósito el autor recurre a los datos señalados en el último párrafo del \ntexto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Demostrar la efectividad de los algoritmos en la restricción del contenido que visualizan los usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Ejemplificar el funcionamiento de la publicidad en las redes sociales en nuestra sociedad actual."
+        },
+        {
+          "letra": "C",
+          "texto": "Explicar los peligros que corren los niños y adolescentes al pasar tanto tiempo conectados."
+        },
+        {
+          "letra": "D",
+          "texto": "Especificar las cifras que confirman los efectos negativos del uso de las redes sociales. Correcta: A Habilidad: Interpretar Defensa: El último párrafo del texto se refiere principalmente al peligro que representa para los adolescentes el contenido que visualizan en las redes sociales, pues dada la alta efectividad de los algoritmos, demostrada con las cifras mencionadas, es muy probable que terminen viendo información sesgada o limitada a sus intereses."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. ¿Cuál es la actitud que asume el autor frente a la temática planteada en el texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Desconfiada, porque desconoce los alcances que podría tener la innovación de las redes sociales para la vida de las personas."
+        },
+        {
+          "letra": "B",
+          "texto": "Preocupante, porque pone en evidencia los riesgos de los algoritmos de las redes sociales para los niños y adolescentes."
+        },
+        {
+          "letra": "C",
+          "texto": "Neutral, porque comenta tanto las ventajas como las desventajas que tiene el uso de internet en la sociedad de hoy en día."
+        },
+        {
+          "letra": "D",
+          "texto": "Optimista, porque destaca los avances que ha logrado la inteligencia artificial en materia de información y comunicación. Correcta: B Habilidad: Evaluar Defensa: Según lo planteado por el autor, los algoritmos que utilizan las redes sociales para personalizar el contenido que se muestra a los usuarios podría producir ciertos riesgos en los niños y adolescentes. El principal riesgo sería el mayor consumo de tiempo o la adicción, debido a que los algoritmos son tan efectivos que seleccionan contenido exclusivo según el interés demostrado por el usuario, lo cual implicaría un mayor riesgo de manipulación, pues se estaría accediendo a contenido sesgado. Por lo tanto, la actitud del autor es preocupante. Lectura 2 (preguntas 8 a 16) Fragmento de un cuento escrito por Virginia Wolff publicado en La casa encantada (1944)."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. ¿Cuál es la relación entre el primer párrafo y el segundo?  \n \n \nEl primer párrafo: \nEl segundo párrafo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "describe la sensación de inferioridad que siente Mabel al entrar a la sala de estar de la señora Dalloway. relata los hechos anteriores de la vida de Mabel."
+        },
+        {
+          "letra": "B",
+          "texto": "resume los problemas psicológicos de Mabel desde su infancia hasta la fiesta de la señora Dalloway. narra los sucesos ocurridos durante el encuentro con la señora Dalloway."
+        },
+        {
+          "letra": "C",
+          "texto": "explica los acontecimientos previos a que Mabel recibiera la invitación de la señora Dalloway. refiere los pensamientos y divagaciones de Mabel."
+        },
+        {
+          "letra": "D",
+          "texto": "muestra lo ridícula que se siente Mabel con su vestido nuevo al compararse con la señora Dalloway. explica de dónde sacó Mabel su vestido nuevo. Correcta: D Habilidad: Interpretar Defensa: El contenido principal del primer párrafo se refiere a la incomodidad que siente Mabel cuando repara en la elegancia y sofisticación de la señora Dalloway, la cual se refleja en los artículos que observa en su tocador. Al saludar a la señora Dalloway, Mabel confirma su vergüenza, pues su forma de vestir no era apropiada: “algo no iba bien, nada bien; y la sospecha aumentaba mientras subía las escaleras y se arrebataba sobre Clarissa Dalloway; y después de saludarla, corrió hacia el fondo de la habitación, donde en un rincón oscuro colgaba un espejo, y se miró. ¡No! No estaba bien”. Esta sensación de estar fuera de lugar se expresa claramente en el texto cuando se señala lo que cree Mabel que piensan los demás invitados: estos hombres, estas mujeres, todos pensaban: «¿Qué se ha puesto Mabel? ¡Qué mal se ve! ¡Qué espantoso vestido!». Si bien el texto menciona el sentimiento de inferioridad de Mabel, este proviene de su historia personal, desde la infancia, y no es consecuencia del encuentro con la señora Dalloway, como se expresa en la alternativa A. Por otro lado, el segundo párrafo indica que “Lo que había pensado aquella tarde, sentada frente a las tazas de té, al llegar la invitación de la señora Dalloway, fue que, desde luego, no podía vestir a la moda.” De esta manera, se introduce información sobre la decisión que tomó Mabel respecto a cómo ir vestida a la fiesta de la señora Dalloway: “Se levantó y buscó el viejo figurín de su madre, un figurín del París del Imperio; y pensó cuánto más bonitas, más dignas, más femeninas eran las mujeres en ese tiempo.”"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. ¿Cuál es el principal conflicto de Mabel?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La angustia frente a la certeza de que todos, independiente de la clase social, son iguales ante la muerte."
+        },
+        {
+          "letra": "B",
+          "texto": "La frustración por no poder vestir elegante y a la moda como las mujeres de su círculo social."
+        },
+        {
+          "letra": "C",
+          "texto": "La falta de autoestima producto de una infancia marcada por la pobreza y el poco reconocimiento."
+        },
+        {
+          "letra": "D",
+          "texto": "El pesimismo que le provoca el vivir una vida vacía, cuyo sentido intenta encontrarlo en fiestas. Correcta: B Habilidad: Interpretar Defensa: El diálogo interno de la protagonista deja ver que no tiene la posibilidad de vestirse a la moda y por ello, se siente frustrada, lo cual se indica en los párrafos 3 y 4: “No pudo enfrentar todo el horror: el vestido de seda amarillo claro, ridículamente pasado de moda, con la falda larga y esas mangas aparatosas, y esa cintura, y todo aquello que se veía tan bien en el libro, pero no en ella (…) Rose vestía completamente a la moda, al igual que todo el resto, siempre.”"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. La protagonista, Mabel, es descrita como una mujer:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mentirosa y ambiciosa."
+        },
+        {
+          "letra": "B",
+          "texto": "vanidosa y envidiosa."
+        },
+        {
+          "letra": "C",
+          "texto": "indecisa y ensimismada."
+        },
+        {
+          "letra": "D",
+          "texto": "humilde y encantadora. Correcta: B Habilidad: Localizar Defensa: La información que se requiere para responder esta pregunta se encuentra textual en el párrafo 5, donde el narrador comenta que “La envidia y el resentimiento, los sentimientos más detestables, eran sus principales defectos”."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. . En el contexto del párrafo 5, ¿cómo se puede interpretar la frase “Somos como \nmoscas arrastrándose hasta el borde del plato”?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mabel posee tanta inseguridad que se siente indigna en la fiesta."
+        },
+        {
+          "letra": "B",
+          "texto": "Mabel le tenía asco a los insectos, especialmente a las moscas."
+        },
+        {
+          "letra": "C",
+          "texto": "Mabel cree que todos buscamos la felicidad en algún lugar lejano."
+        },
+        {
+          "letra": "D",
+          "texto": "Mabel considera que los invitados a la fiesta son insignificantes. Correcta: A Habilidad: Interpretar Defensa: De acuerdo con lo narrado en el párrafo 5, se puede apreciar que Mabel se sentía como una mosca insignificante frente al resto de los invitados a la fiesta. Aunque"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. La perspectiva que asume el narrador refleja:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "los hechos que observa Mabel de forma objetiva."
+        },
+        {
+          "letra": "B",
+          "texto": "la realidad concreta que rodea a Mabel y sus amigos."
+        },
+        {
+          "letra": "C",
+          "texto": "la subjetividad de Mabel, es decir, su mundo interior."
+        },
+        {
+          "letra": "D",
+          "texto": "sus propias apreciaciones sobre los acontecimientos. Correcta: C Habilidad: Evaluar Defensa: Desde el primer párrafo es posible apreciar que el narrador narra los acontecimientos desde la perspectiva de Mabel, enfatizando sus sensaciones y percepciones de lo que va ocurriendo (su sospecha de que algo no iba bien, lo que piensa de sí misma y de los hechos) y cómo su propia inseguridad constituye un sesgo para interpretar la realidad."
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. ¿A qué se refiere fundamentalmente el párrafo 7?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cómo era el taller de costura de la señorita Milan."
+        },
+        {
+          "letra": "B",
+          "texto": "Las conversaciones que tiene Mabel durante la fiesta."
+        },
+        {
+          "letra": "C",
+          "texto": "La entrañable amistad entre Mabel y la señorita Milan."
+        },
+        {
+          "letra": "D",
+          "texto": "Cómo se sentía Mabel con su vestido recién arreglado. Correcta: D Habilidad: Interpretar Defensa: La mayor parte del párrafo 7 se refiere a los hechos anteriores a la fiesta, cuando Mabel lleva su vestido al taller de la señorita Milan: “la señorita Milan puso el espejo en su mano y ella se miró con el vestido terminado, una dicha extraordinaria le atravesó el pecho. Bañada en luz, sintió que volvía a nacer. Libre de cuidados y arrugas, lo que había soñado de sí misma estaba allí: una mujer bella.” La felicidad que Mabel sintió al verse con su vestido arreglado contrasta con cómo se siente en la fiesta: “Y ahora todo había desaparecido. El vestido, la habitación, el amor, la tristeza, el espejo, la jaula del canario… Todo había desaparecido, y allí estaba, en el rincón de la sala de estar de la señora Dalloway, padeciendo ese martirio, despertando a la realidad.”"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. ¿Por qué Mabel suele recurrir a frases de Shakespeare?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque considera que Shakespeare es su escritor favorito."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque le sirven para aliviar en cierta medida su angustia."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque es un autor que conoce plenamente las emociones."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque en su literatura encuentra un escape a su realidad. Correcta: B Habilidad: Interpretar Defensa: Para responder esta pregunta, se requiere relacionar los párrafos 5 y 8 que es donde se hace referencia a la costumbre de Mabel de recordar citas de Shakespeare o de otros escritores y determinar el sentido que para ella tiene este recurso considerando que su principal característica psicológica es la inseguridad y el sentimiento de inferioridad. En este sentido resulta correcta la alternativa B, ya que es lo que se puede interpretar a partir del siguiente fragmento: “Somos como moscas arrastrándose hasta el borde del plato, pensó Mabel y repitió la frase como si estuviera exorcizándose, como si quisiera encontrar una fórmula para detener el dolor, para hacer tolerable la agonía. Cuando sentía dolor, citas de Shakespeare o pasajes de libros que había leído hacía años se le venían a la mente de repente, y las repetía una y otra vez.”"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. A partir de la lectura del último párrafo se infiere que Mabel:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "es incapaz de conectarse con la realidad debido a su excesiva ensoñación."
+        },
+        {
+          "letra": "B",
+          "texto": "está muy deprimida y eso le impide poder disfrutar de los encuentros sociales."
+        },
+        {
+          "letra": "C",
+          "texto": "duda de sí misma, por eso busca constantemente la aprobación de los demás."
+        },
+        {
+          "letra": "D",
+          "texto": "desea un cambio porque está disconforme con el estilo de vida que ha tenido. Correcta: C Habilidad: Interpretar Defensa: El último párrafo de la lectura confirma que Mabel es una mujer totalmente insegura, pues siente que su valor depende de cómo la juzguen los demás: “A su edad y con dos hijos, era un síntoma de tanta mezquindad, de tanta debilidad y falta de inteligencia, seguir dependiendo tanto de las opiniones de los otros; no tener principios ni convicciones.”"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. ¿Cuál de las siguientes opciones es una crítica social que se puede formular de \nacuerdo con la problemática narrada en el texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Las personas que creen que su valor está en lo material, solo encontrarán insatisfacción."
+        },
+        {
+          "letra": "B",
+          "texto": "Quienes critican la apariencia de los otros deben aprender a apreciar también su interioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Tener la posibilidad de vestir a la moda no le da a las personas el derecho a burlarse de los demás."
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. ¿Qué se conmemora el 24 de abril?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El Día Internacional contra la Crueldad Animal."
+        },
+        {
+          "letra": "B",
+          "texto": "El Día de la Experimentación Científica en Animales."
+        },
+        {
+          "letra": "C",
+          "texto": "El Día de la Cosmética y Farmacéutica Cruelty Free."
+        },
+        {
+          "letra": "D",
+          "texto": "El Día Mundial del Animal de Laboratorio."
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. A partir de la lectura, se concluye que la Fundación Vegetarianos Hoy:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "es responsable de haber impulsado la campaña Be Cruelty Free."
+        },
+        {
+          "letra": "B",
+          "texto": "mantiene informada a la comunidad científica con sus investigaciones."
+        },
+        {
+          "letra": "C",
+          "texto": "se encarga del proceso de certificación de productos veganos."
+        },
+        {
+          "letra": "D",
+          "texto": "se dedica a denunciar a las empresas que testean en animales. Correcta: C Habilidad: Interpretar Defensa: Para responder esta pregunta se requiere analizar la información que aparece en los párrafos 7 y 8 del texto, donde se alude a la función que cumple la Fundación Vegetarianos Hoy en el contexto del trabajo por la erradicación de los animales de laboratorio. La A no es correcta porque la organización que ha impulsado la campaña Be Cruelty Free es la ONG Te Protejo."
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. ¿Cuál es el propósito comunicativo del texto anterior?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Describir el trabajo de organizaciones comprometidas con los animales."
+        },
+        {
+          "letra": "B",
+          "texto": "Exponer la legislación vigente en materia de derechos de los animales."
+        },
+        {
+          "letra": "C",
+          "texto": "Explicar los avances en la erradicación de animales para experimentación."
+        },
+        {
+          "letra": "D",
+          "texto": "Criticar a la industria cosmética que utiliza animales en sus productos. Correcta: C Habilidad: Evaluar Defensa: El texto corresponde a una noticia cuyo tema central es la conmemoración del Día Mundial del Animal de Laboratorio, respecto a ello el emisor explica algunas iniciativas que buscan erradicar el uso de animales en la industria. Si bien en el texto se describe el trabajo de dos organizaciones comprometidas con los animales, la alternativa A no es correcta porque la mayor parte del texto no se enfoca en el trabajo de todas las organizaciones que existen cuya misión es la defensa de los animales, además se mencionan otras iniciativas (como leyes y métodos alternativos de experimentación que no requieren el uso de animales). Por lo tanto, los avances en la erradicación de la experimentación en animales incluyen el trabajo de las organizaciones mencionadas en la lectura."
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Se citan las palabras de Camila Cortínez, cofundadora y Directora General de ONG \nTe Protejo, y Lyda Durango, Directora de Proyectos de Fundación Vegetarianos Hoy, \ncon el propósito de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sensibilizar a los lectores respecto a la importancia de ser responsables en el cuidado de los animales."
+        },
+        {
+          "letra": "B",
+          "texto": "demostrar el compromiso de estas instituciones con la eliminación de las pruebas en animales."
+        },
+        {
+          "letra": "C",
+          "texto": "incentivar la preferencia por productos de marcas que no utilicen animales en su fabricación."
+        },
+        {
+          "letra": "D",
+          "texto": "comprobar que han incrementado las empresas cosméticas que buscan una certificación vegana. Correcta: B Habilidad: Interpretar Defensa: Para responder esta pregunta se requiere relacionar los párrafos 4 y 9, donde se aprecia el uso de comillas para reproducir las palabras de las representantes de las organizaciones ONG Te Protejo y Fundación Vegetarianos Hoy. Determinar la función de ambas citas textuales dentro del texto implica establecer su aporte al desarrollo del tema, en este caso se trata de mostrar el trabajo realizado para fomentar que las empresas dejen de testear en animales."
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. ¿Qué función cumple el primer párrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Contextualizar el origen del día mundial del animal de laboratorio."
+        },
+        {
+          "letra": "B",
+          "texto": "Introducir el problema del maltrato animal en la ciencia y en la industria."
+        },
+        {
+          "letra": "C",
+          "texto": "Reflexionar sobre el uso de animales para fines científicos en el mundo."
+        },
+        {
+          "letra": "D",
+          "texto": "Destacar los aportes de la Sociedad Nacional Anti-Vivisección (NAVS). Correcta: A Habilidad: Interpretar Defensa: Esta pregunta implica analizar el contenido del primer párrafo en relación con el resto de la lectura. En este sentido, el párrafo se refiere al origen del día mundial del animal de laboratorio, es decir, cuándo, dónde y por qué surgió. La alternativa B no se relaciona con lo planteado en el primer párrafo, sino que corresponde a lo expuesto en el párrafo 2. Por otra parte, la opción C se limita al uso de animales en la ciencia, mientras que el texto menciona también otras industrias, además, promover la reflexión sobre el uso de animales podría considerarse una intención implícita de la lectura en general, por lo tanto, es una idea mucho más general que lo que se plantea en el párrafo 1 en particular."
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. ¿Cuál es el tema del párrafo 3?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Las innovaciones científicas en áreas como seguridad cosmética y fármacos."
+        },
+        {
+          "letra": "B",
+          "texto": "El reemplazo de la experimentación en animales por el testeo en humanos."
+        },
+        {
+          "letra": "C",
+          "texto": "Las estadísticas existentes sobre animales utilizados en pruebas científicas."
+        },
+        {
+          "letra": "D",
+          "texto": "El aumento de métodos libres de crueldad animal en algunas industrias. Correcta: D Habilidad: Interpretar Defensa: El texto se enfoca en la disminución de la “crueldad animal”, entendida como la utilización de animales con fines de experimentación en la elaboración de productos. En este sentido, la información que aporta el párrafo 3 se relaciona con el reemplazo de animales en las pruebas y el uso de otros mecanismos de testeo que no involucren animales, lo cual es una iniciativa que va en aumento."
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Sobre las pruebas con animales en Chile es CORRECTO afirmar que:  \n\nI. Existen más de 25 test aprobados por la comunidad científica para reemplazar el \nuso de animales en pruebas de seguridad cosmética.  \nII. Se busca una modificación al código sanitario, para que no se permitan test en \nanimales en las pruebas de seguridad de cosméticos. \nIII. Hay un proyecto de ley aprobado en la Cámara de Diputados para regular los \nproductos que se comercialicen en el país.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III Correcta: D Habilidad: Localizar Defensa: La información necesaria para responder esta pregunta se encuentra de manera explícita en el párrafo 5. El enunciado I es falso porque no corresponde al contexto de Chile, sino que se refiere a una realidad mundial."
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. De acuerdo con el párrafo nueve, para que un producto sea considerado “vegano” \ndebe cumplir con el requisito de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no haber sido sometido a ningún tipo de prueba en animales por parte de la empresa que lo fabrica."
+        },
+        {
+          "letra": "B",
+          "texto": "tener estándares de calidad en el trato, cuidado y alimentación de los animales que forman parte de la cadena productiva."
+        },
+        {
+          "letra": "C",
+          "texto": "no utilizar ingredientes de origen animal tanto en sus componentes como en su proceso de producción."
+        },
+        {
+          "letra": "D",
+          "texto": "contar con la aprobación de los organismos gubernamentales y las instituciones especializadas en cosmética. Correcta: C Habilidad: Localizar Defensa: Según las palabras de la Directora de Proyectos de Fundación Vegetarianos Hoy, Lyda Durango, reproducidas directamente en el párrafo 9, se puede establecer que para que un producto sea certificado como vegano se debe garantizar que ninguno de sus componentes sea de origen animal además de que no se utilicen animales en el proceso productivo: “Trabajamos para transparentar los procesos de aquellos productos declarados como ‘veganos’ por las empresas, garantizando que realmente lo sean y que tanto sus componentes como también su proceso de producción estén libres de ingredientes de origen animal para cumplir con nuestro estándar.” La alternativa A no es correcta porque según se indica en el párrafo 8, la certificación vegana exige que no solo sea la empresa que vende el producto final la que no haga pruebas en animales, sino que también la que lo fabrica, el productor o el proveedor. Lectura 4 (preguntas 25 a 32) Informe elaborado por la compañía de estudios de mercado Ipsos y Fundación La Fuente en abril de 2022. Estudio de hábitos y percepciones lectoras en Chile"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Según el texto, el material de lectura que se consideró para el informe fue:  \n\nI. libros físicos y digitales.  \nII. diarios y revistas.  \nIII. sitios web.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III Correcta: D Habilidad: Reconocer-identificar Defensa: Para responder esta pregunta, se necesita recuperar la información explícita mencionada en el segundo párrafo: “Este dato considera cualquier material de lectura en formato físico o digital, como libros, diarios, revistas, sitios web, etc.”"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. ¿Qué función tiene el Gráfico 1 en relación con el párrafo 2?  \n \nEl Gráfico 1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "muestra nuevos antecedentes sobre las preferencias de lectura en Chile."
+        },
+        {
+          "letra": "B",
+          "texto": "representa detalladamente la frecuencia con la que los chilenos leen."
+        },
+        {
+          "letra": "C",
+          "texto": "confirma que una minoría de chilenos ha desarrollado hábitos de lectura."
+        },
+        {
+          "letra": "D",
+          "texto": "complementa la información sobre los soportes de lectura más populares. Correcta: B Habilidad: Interpretar Defensa: Para determinar la función del Gráfico 1, es necesario analizar el contenido del párrafo 2, en el cual se destacan algunos datos asociados a cuánto están leyendo los chilenos para demostrar que hay efectivamente una alta frecuencia de lectura. En"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. De acuerdo con el Gráfico 2, el interés en la lectura por gusto: \n\nI. es mayor en las personas que tienen entre 41 y 55 años.  \nII. no presenta diferencias por zona geográfica.  \nIII. es inferior en lectores de género masculino en comparación con las mujeres.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III Correcta: B Habilidad: Interpretar Defensa: Para responder esta pregunta, se requiere analizar los datos representados en la gráfica de barras, donde se aprecia que un 80% de las personas cuya edad varía entre los 41 y 55 años declara tener mucho o bastante interés en la lectura por gusto, un porcentaje más alto que en los otros grupos etarios (entre el 60% y el 71%). Asimismo, si se observa la tendencia por sexo, un 72% de las mujeres afirma tener mucho o bastante interés en la lectura por gusto, mientras que en los hombres el interés en la lectura por gusto corresponde a un 68%. El enunciado II es falso porque las en las zonas sur y austral (62% y 63% de interés en la lectura por gusto) sí hay una diferencia en comparación a las otras zonas del país (sobre el 70%)."
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. A partir del cuarto párrafo, se deduce que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "los jóvenes son los que más leen libros por gusto."
+        },
+        {
+          "letra": "B",
+          "texto": "el grupo socioeconómico ABC1 lee más páginas web."
+        },
+        {
+          "letra": "C",
+          "texto": "los chilenos tienen poco interés en la lectura por gusto."
+        },
+        {
+          "letra": "D",
+          "texto": "el grupo socioeconómico C2 prefiere leer redes sociales. Correcta: A Habilidad: Interpretar Defensa: Para responder esta pregunta, se requiere determinar que el párrafo 4 se refiere a la lectura por gusto. Al respecto se menciona que un 51% de personas declara leer libros por gusto y de ese 51% la mayoría, es decir, un 62% corresponde a jóvenes entre 19 y 24 años. Por lo tanto, se puede deducir que los jóvenes son los que más leen libros por gusto."
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. El texto anterior se refiere principalmente a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "impresiones sobre el gusto por los libros y la lectura en Chile."
+        },
+        {
+          "letra": "B",
+          "texto": "datos e información sobre qué y cuánto leen los chilenos."
+        },
+        {
+          "letra": "C",
+          "texto": "opiniones de los hábitos de lectura en Chile y su evidencia."
+        },
+        {
+          "letra": "D",
+          "texto": "características de un buen lector según Ipsos y La Fuente. Correcta: B Habilidad: Interpretar Defensa: El texto corresponde a un informe basado en los datos obtenidos a partir de una encuesta, por lo tanto, entrega información objetiva. Tal como se indica en el primer párrafo la “Encuesta de hábitos y percepciones lectoras en Chile muestra el comportamiento de más de 1.700 personas en todo el país, con el objetivo de medir los hábitos y gustos que tienen en relación con la lectura y los libros.”"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. Según el texto, los chilenos no leen más principalmente porque:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "carecen de dinero."
+        },
+        {
+          "letra": "B",
+          "texto": "prefieren otra actividad."
+        },
+        {
+          "letra": "C",
+          "texto": "no saben qué leer."
+        },
+        {
+          "letra": "D",
+          "texto": "no tienen tiempo. Correcta: D Habilidad: Localizar Defensa: De acuerdo con la información señalada en el párrafo 5, el principal motivo por el cual los chilenos no leen más es por falta de tiempo: “Entre los motivos por los que no se lee con mayor frecuencia destacan la falta de tiempo (53%), preferencia de otras actividades recreativas (17%) y porque les da pereza (12%).” Las otras opciones detalladas en el Gráfico 4 tienen un bajo índice de respuesta."
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. ¿Cuál es la relación entre el último párrafo y el resto del texto?  \n \nEl último párrafo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aborda las causas que explican el problema de la falta de hábitos de lectura de los chilenos."
+        },
+        {
+          "letra": "B",
+          "texto": "resume las principales conclusiones que se desprenden del análisis de los datos de la encuesta."
+        },
+        {
+          "letra": "C",
+          "texto": "se refiere específicamente a la lectura de libros, su frecuencia, formato y temáticas preferidas."
+        },
+        {
+          "letra": "D",
+          "texto": "describe los hábitos y percepciones lectoras de los chilenos, por edad, grupo socioeconómico, sexo y zona. Correcta: C Habilidad: Interpretar Defensa: El último párrafo se enfoca en la lectura de libros, mientras que los párrafos anteriores se refieren a los hábitos de lectura en general."
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. Según el párrafo 6, es correcto afirmar que:  \n \n\nI. el motivo principal para escoger un libro es el tema.  \nII. los audiolibros son más leídos que los libros físicos.  \nIII. la ciencia ficción y la fantasía son las temáticas preferidas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III Correcta: C Habilidad: Localizar Defensa: Para responder esta pregunta es necesario recuperar información explícita del párrafo 6: “Los encuestados mencionan que las principales razones para escoger un libro recaen en la temática (74%)”, “Sobre las temáticas que mayor interés generan en los lectores nacionales se encuentran la ciencia ficción/fantasía (41%).” El enunciado II es falso porque de los audiolibros se señala que “son mucho menos utilizados, con sólo un 19% que dice escucharlos cada semana”, según la encuesta."
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. La intención de la autora del texto es:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reflexionar sobre la masculinidad y la violencia."
+        },
+        {
+          "letra": "B",
+          "texto": "erradicar la idea de que el amor te hace hacer locuras."
+        },
+        {
+          "letra": "C",
+          "texto": "criticar el comportamiento de los hombres tóxicos."
+        },
+        {
+          "letra": "D",
+          "texto": "defender a las mujeres que han sufrido agresiones. Correcta: A Habilidad: Evaluar Defensa: Para responder esta pregunta es necesario determinar que el golpe de Smith"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. ¿Qué sentido tienen las preguntas formuladas en el primer párrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Interrogar al actor Will Smith por su violenta reacción en los Oscar."
+        },
+        {
+          "letra": "B",
+          "texto": "Interpelar a los hombres para que tengan más gestos románticos."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuestionar la creencia de que el amor justifica la violencia."
+        },
+        {
+          "letra": "D",
+          "texto": "Dudar de los mandatos de la masculinidad en nuestra cultura. Correcta: C Habilidad: Interpretar Defensa: El primer párrafo hace referencia a la frase dicha por Smith para justificar su acto violento: “El amor te hace hacer locuras”. Sin embargo, la autora se manifiesta en contra de esta justificación o excusa, y por ello plantea interrogantes que pretenden cuestionar o desestimar una idea arraigada en nuestra sociedad según la cual es válido que los hombres utilicen la violencia en nombre del amor."
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. La actitud de la autora del texto anterior es predominantemente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sensacionalista."
+        },
+        {
+          "letra": "B",
+          "texto": "pesimista."
+        },
+        {
+          "letra": "C",
+          "texto": "feminista."
+        },
+        {
+          "letra": "D",
+          "texto": "objetiva. Correcta: C Habilidad: Evaluar Defensa: Para responder esta pregunta es necesario evaluar la actitud de la autora del texto. Considerado esto, podemos establecer como actitud predominante la feminista, pues utiliza argumentos basados en la igualdad de género y citas de autoridad de especialistas en materia de feminismo."
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. A partir de la lectura, ¿qué se entiende por masculinidad tóxica?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El protagonismo histórico que los hombres han tenido en la sociedad patriarcal."
+        },
+        {
+          "letra": "B",
+          "texto": "La actitud violenta que caracteriza a los hombres como parte de su identidad."
+        },
+        {
+          "letra": "C",
+          "texto": "El gesto romántico de un hombre que protege a su mujer cuando es ofendida."
+        },
+        {
+          "letra": "D",
+          "texto": "El afán de los hombres de burlarse de las mujeres por su apariencia física."
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. Según la autora, en la sociedad patriarcal las mujeres son consideradas como \nsujetos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inferiores y sumisos."
+        },
+        {
+          "letra": "B",
+          "texto": "delicados y sensibles."
+        },
+        {
+          "letra": "C",
+          "texto": "débiles e indefensos."
+        },
+        {
+          "letra": "D",
+          "texto": "admirables y bellos. Correcta: C Habilidad: Localizar Defensa: Para responder esta pregunta es necesario identificar la información que se menciona directamente en el texto. En el párrafo 3 se dice: “Y en el otro lado, están las mujeres, que son vistas como débiles, como si carecieran de la capacidad de defenderse y, por tanto, requieren de un hombre para cumplir con esa misión.” Por lo tanto, la alternativa C es la correcta."
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. ¿Qué relación tiene el golpe de Smith a Rock con el ejemplo de los padres y \nhermanos que bromean con que la primera vez que llegue un pololo a la casa de la \núnica hija, se las va a ver con ellos? \n \nAmbos casos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reflejan lo complejo de las relaciones familiares."
+        },
+        {
+          "letra": "B",
+          "texto": "revelan el amor de los hombres hacia las mujeres."
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. ¿Por qué se dice que la broma de Rock sobre Jada Pinkett Smith en la ceremonia \nde los Oscar puede ser calificada de violencia estética?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque se ataca a una mujer debido a que su cuerpo no coincide con el ideal de belleza que se ha construido para ella."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque ella, al formar parte de un grupo vulnerable, está expuesta a ser agredida por su color de piel aunque sea famosa."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque las actrices sufren discriminación en la industria del cine, especialmente si su imagen es diferente a la mayoría."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque se perpetúa un tipo de humor basado en la humillación de las personas y el daño a su dignidad u honra. Correcta: A Habilidad: Interpretar Defensa: Para responder esta pregunta es necesario interpretar la definición de Esther Pineda sobre violencia estética que se cita en el párrafo 7. En este sentido, si se relaciona la broma de Rock sobre Jada con el concepto de violencia estética, se puede determinar que es un caso en el cual se evidencia que los chistes sobre los cuerpos de las mujeres tienen cabida en una sociedad donde existe un ideal de belleza femenina (blanca, pelo largo, delgada) y quien no cumpla con ese estándar estético será sancionado o criticado."
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. De acuerdo con el párrafo 6, ¿cuál es el motivo por el cual Smith golpeó a Rock?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No poder controlar sus emociones según el contexto."
+        },
+        {
+          "letra": "B",
+          "texto": "Tener una familia en la que padres e hijos se agreden."
+        },
+        {
+          "letra": "C",
+          "texto": "Vivir rodeado de hombres que usan siempre la violencia."
+        },
+        {
+          "letra": "D",
+          "texto": "Pensar que la violencia es válida para poner límites. Correcta: D"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. ¿Cuá(les) de las siguientes opciones son opiniones planteadas por la autora?  \n \nI. El amor te hace hacer locuras. \nII. El amor siempre debe estar lejos de la violencia. \nIII. No debe haber espacio para hablar sobre el cuerpo de las mujeres.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III Correcta: C Habilidad: Localizar Defensa: La respuesta a esta pregunta se encuentra explícita en el texto. En ese sentido, los enunciados II y III corresponden a planteamientos formulados por la autora. Sin embargo, el enunciado I es lo que dijo el actor Will Smith, el cual es citado en el texto, pero no es una opinión de la autora. Lectura 6 (preguntas 42 a 50) Artículo de opinión escrito por Pablo Noriega, publicado en La Opinión el 26 de octubre de 2017. Los murciélagos, una especie incomprendida que brinda grandes beneficios al hombre"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": []
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. Con respecto a los murciélagos, es correcto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "son beneficiosos para el medio ambiente."
+        },
+        {
+          "letra": "B",
+          "texto": "suelen atacar directamente al ser humano."
+        },
+        {
+          "letra": "C",
+          "texto": "trasmiten enfermedades a los seres humanos."
+        },
+        {
+          "letra": "D",
+          "texto": "son una plaga que afecta la industria ganadera. Correcta: A"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. ¿Qué características de los murciélagos demuestran su importancia? \n \nI. Actúan como polinizadores, dispersores de semillas y controladores de plagas. \nII. Su guano, en grandes cantidades, sirve como fertilizante. \nIII. Ayudan en el mantenimiento y regeneración de los bosques.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III Correcta: D Habilidad: Localizar Defensa: Según los párrafos 4 y 5, que es donde se describen los beneficios de los murciélagos para el medio ambiente, estos animales “son fundamentales para un buen desarrollo medioambiental, pues como polinizadores, dispersores de semillas y controladores de plagas, mantienen en equilibrio la biodiversidad de los ecosistemas que habitan.” Además, se dice que “son esenciales en el mantenimiento y regeneración de los bosques; además de que su guano, sirve como fertilizante en grandes cantidades”. Por lo tanto, los enunciados I, II y III son verdaderos."
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. ¿Cuál de las siguientes opciones contiene un título alternativo para el texto anterior?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ventajas y desventajas de los murciélagos."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuidado y protección de los animales."
+        },
+        {
+          "letra": "C",
+          "texto": "Mitos y verdades sobre los murciélagos."
+        },
+        {
+          "letra": "D",
+          "texto": "Especies favorables para el medio ambiente. Correcta: C Habilidad: Interpretar Defensa: El título de un texto debe ser global e inclusivo. Es decir, debe condensar lo esencial del texto. En este sentido, un título apropiado en este caso es el que propone la opción C, ya que resume el tema del que se habla (los murciélagos) más lo que se dice sobre él (mitos y verdades). El texto no se refiere a las desventajas de los"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. ¿Por qué se dice que los murciélagos son una especie incomprendida?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque se encuentran desprotegidos en comparación a otros animales que son mucho más dañinos."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque no se sabe el valor que tienen para el medio ambiente, lo que despierta el interés de los especialistas."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque son considerados “vampiros”, es decir, consumen sangre humana y de otros animales mamíferos."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque hay una serie de creencias falsas sobre ellos y se desconoce el rol que cumplen en la naturaleza. Correcta: D Habilidad: Relacionar-interpretar Defensa: Para responder esta pregunta es necesario interpretar el sentido que tiene la expresión en relación al desarrollo del tema. En este sentido, el texto se dedica a desmentir los mitos o creencias erróneas en torno a los murciélagos debido que no se conocen sus beneficios para el medio ambiente, esto hace que se considere una especie incomprendida y desvalorizada injustamente."
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. Según el párrafo 6, ¿qué objetivo tiene la “Semana del Murciélago”?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Celebrar el gran aporte que hacen los murciélagos."
+        },
+        {
+          "letra": "B",
+          "texto": "Enseñar la importancia de los animales en la naturaleza."
+        },
+        {
+          "letra": "C",
+          "texto": "Elogiar el trabajo de los especialistas en medio ambiente."
+        },
+        {
+          "letra": "D",
+          "texto": "Crear conciencia sobre la función de los murciélagos. Correcta: D Habilidad: Localizar Defensa: De acuerdo con lo que el texto señala “ha surgido una noble iniciativa para concientizar sobre su gran papel ecológico. Como cada año a finales de octubre, justo durante la época de Halloween y el Día de Muertos, celebramos la “Semana del Murciélago”. Por lo tanto, la alternativa D es la correcta."
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. ¿Cuál de las siguientes opciones sintetiza el contenido del último párrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Existe una diversidad de especies de murciélagos, lo cual brinda más ventajas que desventajas para los ecosistemas."
+        },
+        {
+          "letra": "B",
+          "texto": "Al contrario de lo que se piensa, no todos los murciélagos se alimentan de sangre, sino que tienen una dieta variada."
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. ¿Qué visión de los murciélagos es la que predomina en la lectura?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Reivindicativa, porque defiende el valor de esa especie."
+        },
+        {
+          "letra": "B",
+          "texto": "Neutra, porque describe las caracteristicas de los animales."
+        },
+        {
+          "letra": "C",
+          "texto": "Técnica, porque usa un lenguaje altamente especializado."
+        },
+        {
+          "letra": "D",
+          "texto": "Rebelde, porque está en contra de las teorías existentes. Correcta: A Habilidad: Evaluar Defensa: Para responder esta pregunta es necesario elaborar un juicio crítico sobre la actitud del emisor frente al tema desarrollado. A lo largo del texto, se entregan diferentes razones para considerar al murciélago una especie benigna, por lo tanto, la intención del emisor es recuperar el valor que debería tener este animal."
+        }
+      ],
+      "pagina": 35,
+      "imagenes": []
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. A partir de la lectura se puede concluir que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "los murciélagos son una especie que está protegida."
+        },
+        {
+          "letra": "B",
+          "texto": "las personas sienten repulsión por los murciélagos."
+        },
+        {
+          "letra": "C",
+          "texto": "no se debería matar ni atacar a los murciélagos."
+        },
+        {
+          "letra": "D",
+          "texto": "la naturaleza es muy sabia y tiene sus propias reglas. Correcta: C Habilidad: Interpretar Defensa: Para responder esta pregunta es necesario extraer información implícita a partir del texto, específicamente en el último párrafo de este. En dicho segmento, se señala que “Una triste realidad es que a pesar de ser considerados “vampiros”, es decir, consumidores de sangre, sólo 3 especies son hematófagas, ya que se alimentan de sangre del ganado, en su mayoría vacas y su ingesta de sangre es mínima lo que desmitifica el hecho de que afectan la industria ganadera; pero muchas personas siguen creyendo lo anterior, por lo que los matan por ser considerados una especie de plaga.” Por lo tanto, se puede concluir que no hay razones para matar a los murciélagos"
+        }
+      ],
+      "pagina": 35,
+      "imagenes": []
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. ¿Qué información aportan los párrafos 4 y 5 en relación con la totalidad del texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Analizan las causas del desconocimiento acerca de los murciélagos."
+        },
+        {
+          "letra": "B",
+          "texto": "Describen detalladamente en qué consiste la biodiversidad del ecosistema."
+        },
+        {
+          "letra": "C",
+          "texto": "Explican los insólitos mitos que se han difundido sobre los murciélagos."
+        },
+        {
+          "letra": "D",
+          "texto": "Fundamentan el impacto positivo de los murciélagos mediante ejemplos. Correcta: D Habilidad: Interpretar Defensa: Para responder esta pregunta es necesario analizar e interpretar la función que cumplen los párrafos 4 y 5 dentro del texto, relacionando la información que aportan con el desarrollo del tema principal. Considerando que la lectura se enfoca en destacar la importancia de los murciélagos para la naturaleza, estos párrafos refieren ejemplos concretos que demuestran lo beneficioso que son los animales de esta especie. Lectura 7 (preguntas 51 a 58) Cuento del escritor peruano Julio Ramón Ribeyro publicado en Cuentos de circunstancias (1958). Apenas su mamá cerró la puerta, Perico saltó del colchón y escuchó, con el oído pegado a la madera, los pasos que se iban alejando por el largo corredor. Cuando se hubieron definitivamente perdido, se abalanzó hacia la cocina de kerosene y hurgó en una de las hornillas malogradas. ¡Allí estaba! Extrayendo la bolsita de cuero, contó una por una las monedas -había aprendido a contar jugando a las bolitas- y constató, asombrado, que había cuarenta soles. Se echó veinte al bolsillo y guardó el resto en su lugar. No en vano, por la noche, había simulado dormir para espiar a su mamá. Ahora tenía lo suficiente para realizar su hermoso proyecto. Después no faltaría una excusa. En esos callejones de Santa Cruz, las puertas siempre están entreabiertas y los vecinos tienen caras de sospechosos. Ajustándose los zapatos, salió desalado hacia la calle. En el camino fue pensando si invertiría todo su capital o sólo parte de él. Y el recuerdo de los merengues –blancos, puros, vaporosos- lo decidieron por el gasto total. ¿Cuánto tiempo hacía que los observaba por la vidriera hasta sentir una salvación amarga en la garganta? Hacía ya varios meses que concurría a la pastelería de la esquina y sólo se"
+        }
+      ],
+      "pagina": 36,
+      "imagenes": []
+    },
+    {
+      "numero": 51,
+      "enunciado": "51. La idea central del primer párrafo es que Perico:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no podía dormir por las noches."
+        },
+        {
+          "letra": "B",
+          "texto": "aprendió a contar jugando a las bolitas."
+        },
+        {
+          "letra": "C",
+          "texto": "robó parte del dinero de su madre."
+        },
+        {
+          "letra": "D",
+          "texto": "le contaría una mentira a sus vecinos. Correcta: C Habilidad: Interpretar Defensa: Para responder esta pregunta, se requiere determinar la información más general y esencial del primer párrafo. En dicho segmento se describe cómo Perico se"
+        }
+      ],
+      "pagina": 39,
+      "imagenes": []
+    },
+    {
+      "numero": 52,
+      "enunciado": "52. ¿Cuál era el mayor anhelo de Perico?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Poder escapar de la casa de su madre."
+        },
+        {
+          "letra": "B",
+          "texto": "Llegar a ser respetado por los adultos."
+        },
+        {
+          "letra": "C",
+          "texto": "Salir a jugar a las bolitas con sus amigos."
+        },
+        {
+          "letra": "D",
+          "texto": "Probar los merengues de la pastelería. Correcta: D Habilidad: Localizar Defensa: La información necesaria para responder esta pregunta se encuentra explícita en el texto: “no era el pan de yema ni los alfajores ni los piononos lo que le atraía: él sólo amaba los merengues. A pesar de no haberlos probado nunca, conservaba viva la imagen de varios chicos que se los llevaban a la boca, como si fueran copos de nieve, ensuciándose los corbatines. Desde aquel día, los merengues constituían su obsesión.”"
+        }
+      ],
+      "pagina": 40,
+      "imagenes": []
+    },
+    {
+      "numero": 53,
+      "enunciado": "53. De acuerdo con lo leído, ¿qué se puede concluir respecto a Perico?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Su condición social es la de un niño pobre o marginal."
+        },
+        {
+          "letra": "B",
+          "texto": "Ha sufrido violencia doméstica desde la infancia temprana."
+        },
+        {
+          "letra": "C",
+          "texto": "No demuestra un comportamiento adecuado en la escuela."
+        },
+        {
+          "letra": "D",
+          "texto": "Primero fue abandonado por su padre y ahora por su madre. Correcta: A Habilidad: Interpretar Defensa: Considerando que Perico aprendió a contar jugando a las bolitas, se puede inferir que no va a la escuela, además el trato que recibe de los adultos con tirantes (es decir, adinerados) y del dependiente de la tienda refleja que su aspecto es el de un niño de la calle. Su comportamiento deshonesto y sin culpa permite también inferir que carece de una formación valórica sólida por parte de su cuidadora principal (la madre) y que no tiene la posibilidad de pedirle que le compre los merengues que desea. Por lo tanto, es un niño que debe recurrir a su ingenio para poder sobrevivir en la pobreza."
+        }
+      ],
+      "pagina": 40,
+      "imagenes": []
+    },
+    {
+      "numero": 54,
+      "enunciado": "54. ¿Qué hacía el encargado de la pastelería cuando veía entrar a Perico?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Le lanzaba un pan de yema por encima del mostrador."
+        },
+        {
+          "letra": "B",
+          "texto": "Le pegaba un coscorrón y lo echaba a la calle."
+        },
+        {
+          "letra": "C",
+          "texto": "Le regalaba una rosquita, aunque estuviera dura."
+        },
+        {
+          "letra": "D",
+          "texto": "Le preguntaba por el colegio y por su familia."
+        }
+      ],
+      "pagina": 40,
+      "imagenes": []
+    },
+    {
+      "numero": 55,
+      "enunciado": "55. ¿Cuál es el valor que tiene el dinero para Perico cuando entra a comprar a la \npastelería a diferencia de cuando sale?   \n \n \nCuando ingresa a la pastelería: \n \n\nCuando sale de la pastelería:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "imagina que con el dinero que posee es suficiente para comprar muchos merengues. entiende que la cantidad de dinero que llevaba no era suficiente para comprar lo que él quería."
+        },
+        {
+          "letra": "B",
+          "texto": "se regocija sabiendo que gracias al dinero podrá ser realmente feliz . piensa que la felicidad es realmente imposible de alcanzar con o sin dinero."
+        },
+        {
+          "letra": "C",
+          "texto": "confía en que el dinero que tiene le otorga el derecho a poder comprar lo que quiera. siente que la posesión de dinero es insuficiente para ser digno de comprar."
+        },
+        {
+          "letra": "D",
+          "texto": "cree que tener dinero equivale a ser una persona seria y respetable. reconoce que nunca podrá llegar a ser alguien lo suficientemente poderoso. Correcta: C Habilidad: Interpretar Defensa: Para responder esta pregunta, es necesario analizar cómo se siente Perico con las monedas al entrar a la pastelería: “Ahora no sentía vergüenza alguna y el dinero que empuñaba lo revestía de cierta autoridad y le daba derecho a codearse con los hombres de tirantes.” La actitud de Perico es la de un cliente como los demás y se atreve a reclamar que le vendan sus merengues, porque para eso tiene dinero. Sin embargo, ante la negativa del empleado de la pastelería Perico se va sintiendo despreciado y pierde la confianza que tenía: “esta vez su voz había perdido vitalidad y Perico comprendió que, por razones que no alcanzaba a explicarse, estaba pidiendo"
+        }
+      ],
+      "pagina": 41,
+      "imagenes": []
+    },
+    {
+      "numero": 56,
+      "enunciado": "56. ¿Qué sentimientos predominan en Perico al final del relato?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Soledad y confusión."
+        },
+        {
+          "letra": "B",
+          "texto": "Ira y envidia."
+        },
+        {
+          "letra": "C",
+          "texto": "Vergüenza y tristeza."
+        },
+        {
+          "letra": "D",
+          "texto": "Frustración y venganza. Correcta: D Habilidad: Interpretar Defensa: Tras salir de la pastelería se relata que Perico salió furioso, “con el dinero apretado entre los dedos y los ojos húmedos, vagabundeó por los alrededores” y que se puso a pensar en el día que, “grande ya y terrible, cortaría la cabeza de todos esos hombres, de todos los mucamos de las pastelerías y hasta de los pelícanos que graznaban indiferentes a su alrededor.” Por lo tanto, se puede concluir que se sintió tremendamente frustrado y con deseos de venganza."
+        }
+      ],
+      "pagina": 42,
+      "imagenes": []
+    },
+    {
+      "numero": 57,
+      "enunciado": "57. ¿Qué decide hacer finalmente Perico con las monedas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Devolverlas a la bolsita de cuero escondida."
+        },
+        {
+          "letra": "B",
+          "texto": "Lanzarlas al mar desde un acantilado."
+        },
+        {
+          "letra": "C",
+          "texto": "Usarlas para comprar en otra pastelería."
+        },
+        {
+          "letra": "D",
+          "texto": "Guardarlas para cuando fuera grande. Correcta: B Habilidad: Localizar Defensa: En el desenlace se menciona explícitamente que Perico “pronto llegó a los barrancos. Sentándose en lo alto del acantilado, contempló la playa. Le pareció en ese momento difícil restituir el dinero sin ser descubierto y maquinalmente fue arrojando las monedas una a una, haciéndolas tintinear sobre las piedras.” Por lo tanto, la respuesta correcta es la B."
+        }
+      ],
+      "pagina": 42,
+      "imagenes": []
+    },
+    {
+      "numero": 58,
+      "enunciado": "58. ¿Qué función cumplen las ilustraciones en relación al contenido del texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ejemplificar los diferentes usos medicinales de las plantas."
+        },
+        {
+          "letra": "B",
+          "texto": "Ilustrar la apariencia de las hojas, tallos y flores de las plantas."
+        },
+        {
+          "letra": "C",
+          "texto": "Profundizar en el proceso de elaboración de las infusiones."
+        },
+        {
+          "letra": "D",
+          "texto": "Señalar la belleza que tiene cada una de las distintas plantas. Correcta: B Habilidad: Interpretar Defensa: Para responder esta pregunta es necesario determinar qué información aportan las ilustraciones de las plantas al desarrollo del tema. En este sentido, es posible determinar que ilustran cómo son las plantas mencionadas para que el lector pueda reconocer sus hojas, tallos y flores, que son las partes de la planta que se utilizan en las infusiones medicinales."
+        }
+      ],
+      "pagina": 45,
+      "imagenes": []
+    },
+    {
+      "numero": 59,
+      "enunciado": "59. ¿Cuál es el propósito comunicativo del texto anterior?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Explicar la variedad de plantas que hay en la naturaleza."
+        },
+        {
+          "letra": "B",
+          "texto": "Reconocer la efectividad de los tratamientos hechos en casa."
+        },
+        {
+          "letra": "C",
+          "texto": "Valorar la medicina basada en plantas más que los químicos."
+        },
+        {
+          "letra": "D",
+          "texto": "Informar las propiedades medicinales de algunas plantas. Correcta: D Habilidad: Evaluar Defensa: Para responder esta pregunta es necesario evaluar la actitud del emisor con respecto al tema tratado en la infografía. En este caso, es posible señalar que el emisor se dedica a entregar información sobre algunas plantas de uso medicinal, detallando para qué sirven y cómo se utilizan."
+        }
+      ],
+      "pagina": 45,
+      "imagenes": []
+    },
+    {
+      "numero": 60,
+      "enunciado": "60. ¿Qué aspecto tienen en común las plantas descritas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Son fáciles de encontrar en cualquier lugar, en zonas rurales y urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "Son utilizadas frecuentemente en la cocina para diversas preparaciones."
+        },
+        {
+          "letra": "C",
+          "texto": "Pueden plantarse con facilidad en las casas, pues se adaptan al ambiente."
+        },
+        {
+          "letra": "D",
+          "texto": "Su uso en infusiones alivia los síntomas del resfrío y otras enfermedades. Correcta: D Habilidad: Interpretar Defensa: Esta pregunta requiere analizar las características comunes de las plantas mencionadas en la infografía. Al relacionar las propiedades de cada una de ellas, es"
+        }
+      ],
+      "pagina": 45,
+      "imagenes": []
+    },
+    {
+      "numero": 61,
+      "enunciado": "61. ¿Cuál(es) de las siguientes plantas son útiles para combatir problemas \nestomacales?  \n \nI. Menta. \nII. Palto. \nIII. Eucalipto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III Correcta: B Habilidad: Localizar Defensa: Esta pregunta requiere localizar la información que se menciona directamente en la infografía con respecto a las propiedades de cada planta. En este sentido, se dice que la menta y el palto son plantas que sirven para combatir problemas estomacales."
+        }
+      ],
+      "pagina": 46,
+      "imagenes": []
+    },
+    {
+      "numero": 62,
+      "enunciado": "62. ¿Cuál de las siguientes plantas se podría consumir como infusión para aliviar la \nfiebre?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Quillay."
+        },
+        {
+          "letra": "B",
+          "texto": "Eucalipto."
+        },
+        {
+          "letra": "C",
+          "texto": "Palqui."
+        },
+        {
+          "letra": "D",
+          "texto": "Palto. Correcta: C Habilidad: Localizar Defensa: Esta pregunta requiere localizar la información que se menciona directamente en la infografía con respecto a las propiedades de cada planta. En este sentido, se dice que el palqui sirve para aliviar la fiebre."
+        }
+      ],
+      "pagina": 46,
+      "imagenes": []
+    },
+    {
+      "numero": 64,
+      "enunciado": "64. A partir de la lectura, se puede inferir que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "las enfermedades respiratorias son frecuentes en invierno."
+        },
+        {
+          "letra": "B",
+          "texto": "cada vez es más común el uso de plantas medicinales."
+        },
+        {
+          "letra": "C",
+          "texto": "las plantas medicinales solo funcionan si se cree en ellas."
+        },
+        {
+          "letra": "D",
+          "texto": "el invierno es la estación en la que más se utilizan las plantas. Correcta: A Habilidad: Interpretar Defensa: Esta pregunta requiere extraer información implícita de la infografía. Considerando lo indicado en el título “Plantas medicinales para combatir los síntomas de las enfermedades comunes del invierno”, además de la descripción de las dolencias que atacan las plantas mencionadas (dolores de cabeza, gripe, afecciones respiratorias, dolores musculares, tos, dolores de garganta) se puede determinar que en invierno las enfermedades más comunes se relacionan con el sistema respiratorio."
+        }
+      ],
+      "pagina": 47,
+      "imagenes": []
+    },
+    {
+      "numero": 65,
+      "enunciado": "65. ¿Cuál de las siguientes opciones corresponde a plantas que podrían ser utilizadas \nen forma de vahos además de infusiones?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Quillay y romero."
+        },
+        {
+          "letra": "B",
+          "texto": "Menta y eucalipto."
+        },
+        {
+          "letra": "C",
+          "texto": "Palto y menta."
+        },
+        {
+          "letra": "D",
+          "texto": "Eucalipto y romero. Correcta: B Habilidad: Localizar Defensa: Esta pregunta requiere localizar la información que se menciona directamente en la infografía con respecto a las propiedades de cada planta. En este sentido, se afirma que la menta y el eucalipto son plantas que se usan en forma de vahos (respirar el vapor que despide una sustancia al hervirla)."
+        }
+      ],
+      "pagina": 47,
+      "imagenes": []
+    }
+  ]
+}

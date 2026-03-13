@@ -1,0 +1,1209 @@
+{
+  "archivo_original": "🥷🏼 Historia _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile_.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/2.Fillad/z Ensayos Clasificados Fillad/🥷🏼 Historia _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile_.pdf",
+  "materia": "Historia",
+  "num_paginas": 29,
+  "fecha_procesamiento": "2026-03-07T22:25:35.661854",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. A lo largo del siglo XIX, las ideas liberales y republicanas comenzaron a desafiar los sistemas\n\nmonárquicos tradicionales en Europa, influyendo en la transformación de los sistemas políticos\nde varios países. ¿Cuál fue el impacto más significativo de las ideas liberales y republicanas\nen la constitución y organización política de los países europeos durante el siglo XIX?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La consolidación del absolutismo presidencialista, con el fortalecimiento del poder del ejecutivo y el control de las instancias participativas."
+        },
+        {
+          "letra": "B",
+          "texto": "La creación de constituciones que limitaban el poder absoluto de los monarcas y promovían la soberanía popular."
+        },
+        {
+          "letra": "C",
+          "texto": "La instauración de un sistema de gobierno comunista en los países europeos, basado en la propiedad colectiva de los medios de producción."
+        },
+        {
+          "letra": "D",
+          "texto": "La centralización del poder en las manos de la nobleza, con el propósito de preservar las jerarquías sociales."
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. En América Latina, durante la primera mitad del siglo XIX, la difusión de las ideas del\n\nliberalismo proporcionó a las elites algunas herramientas políticas e intelectuales para liderar\nlos procesos de formación de los Estados. En este contexto, ¿qué objetivo perseguía la elite\nchilena con la aplicación de dichas ideas en la sociedad?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Implementar el parlamentarismo europeo."
+        },
+        {
+          "letra": "B",
+          "texto": "Obtener mayores derechos político-civiles."
+        },
+        {
+          "letra": "C",
+          "texto": "Unificar el continente mediante el Panamericanismo."
+        },
+        {
+          "letra": "D",
+          "texto": "Defender la supremacía política de la Iglesia Católica."
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. Desde mediados del siglo XVIII, la burguesía encontró respaldo intelectual en figuras como el\n\neconomista escocés Adam Smith, cuya obra más famosa \"La Riqueza de las Naciones\"\nabogaba por una mayor libertad económica, restringiendo la intervención estatal. Según el\nliberalismo económico, ¿por qué se debe limitar al máximo la intervención del Estado en la\neconomía?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque a partir de los sindicatos fuertes se pueden negociar directamente los términos de producción y precios con las empresas."
+        },
+        {
+          "letra": "B",
+          "texto": "Para fomentar un mercado eficiente y competitivo, donde la ley de oferta y demanda regule naturalmente los precios y la calidad"
+        },
+        {
+          "letra": "C",
+          "texto": "Para fomentar políticas gubernamentales que establezcan precios fijos para todos los bienes y servicios esenciales."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque permite un sistema de cupos y licencias que limita la cantidad de empresas en cada sector para garantizar la estabilidad. – 2 –"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. Durante la primera mitad del siglo XIX, Chile experimentó significativos cambios políticos que\n\ncontribuyeron a la formación de la república. ¿Cuál de los siguientes aspectos fue clave en\neste proceso?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La implementación de un sistema monárquico hereditario."
+        },
+        {
+          "letra": "B",
+          "texto": "La redacción y promulgación de diversas constituciones."
+        },
+        {
+          "letra": "C",
+          "texto": "La alianza política con el imperio británico."
+        },
+        {
+          "letra": "D",
+          "texto": "La continuación del sistema de gobierno colonial español."
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. A mediados del siglo XIX la agricultura chilena vivió una importante revitalización económica.\n\n¿Cuál fue una de las situaciones del contexto histórico del periodo que favoreció dicha\nrevitalización?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La demanda de productos alimenticios en los mercados de California y Australia."
+        },
+        {
+          "letra": "B",
+          "texto": "La mayor conectividad entre las regiones exportadoras y los mercados asiáticos."
+        },
+        {
+          "letra": "C",
+          "texto": "La aplicación de un plan de reforma agraria basado en el modelo latinoamericano."
+        },
+        {
+          "letra": "D",
+          "texto": "La llegada masiva de trabajadores extranjeros que colonizaron las provincias de la Zona Central."
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. Hacia la segunda mitad del siglo XIX, las potencias del Atlántico experimentaron un proceso\n\nde expansión económica gracias a un importante desarrollo industrial. Por su parte, Chile fue\nincapaz de alcanzar ese nivel de desarrollo. Al respecto, ¿cuál es un elemento de continuidad\nhistórica que permite explicar este retraso de la economía chilena?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La predominancia de la propiedad minera estatal."
+        },
+        {
+          "letra": "B",
+          "texto": "La mantención del monopolio comercial con Europa."
+        },
+        {
+          "letra": "C",
+          "texto": "La permanencia de una estructura financiera pública."
+        },
+        {
+          "letra": "D",
+          "texto": "La persistencia de una matriz productiva extractivista. – 3 –"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. A lo largo del siglo XIX, Chile experimentó un importante crecimiento económico como\n\nconsecuencia de su progresiva inserción en la economía internacional y un conjunto de\nmedidas que operaron como factores internos que favorecieron este crecimiento. En este\nsentido, ¿cuál fue una de las medidas que favoreció la inserción de la economía chilena en los\nmercados internacionales durante el siglo XIX?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La implementación de una política de industrialización."
+        },
+        {
+          "letra": "B",
+          "texto": "La puesta en marcha de un proceso de reforma agraria."
+        },
+        {
+          "letra": "C",
+          "texto": "La inversión en distintas infraestructuras de transportes."
+        },
+        {
+          "letra": "D",
+          "texto": "La estatización de las instituciones del sector financiero."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. Desde finales del siglo XIX y comienzos del XX la sociedad chilena experimentó diversas\n\ntransformaciones provocadas por la incipiente industrialización, lo que trajo como\nconsecuencia una profundización de las desigualdades sociales. En este contexto, ¿cuál fue\nuna de las respuestas dadas para enfrentar esta situación?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La oligarquía financió un sistema de seguridad social."
+        },
+        {
+          "letra": "B",
+          "texto": "La Iglesia Católica diseñó un conjunto de leyes sociales."
+        },
+        {
+          "letra": "C",
+          "texto": "El Estado garantizó el acceso universal a la vivienda social."
+        },
+        {
+          "letra": "D",
+          "texto": "El proletariado fortaleció su capacidad de organización social."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. A principios del siglo XX, el aumento de escuelas públicas en Chile, de 486 en 1860 a 1547 en\n\n1900, sugiere un esfuerzo significativo por mejorar la educación. ¿Cuál fue el impacto de esta\nexpansión educativa en la sociedad chilena de la época?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Contribuyó principalmente al fortalecimiento de la oligarquía, manteniendo el statu quo."
+        },
+        {
+          "letra": "B",
+          "texto": "Redujo la movilidad social al concentrar recursos educativos en áreas urbanas ya privilegiadas."
+        },
+        {
+          "letra": "C",
+          "texto": "Generó un descontento generalizado por la falta de oportunidades de empleo para los educados."
+        },
+        {
+          "letra": "D",
+          "texto": "Facilitó un ascenso social más amplio, fortaleciendo a los emergentes sectores medios y fomentando nuevas ideologías. – 4 –"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Lee el siguiente texto acerca de las condiciones de vida en el norte salitrero:\n\n«La gran masa de mineros del salitre tenía que satisfacer sus apetitos en las pulperías,\nalmacenes pertenecientes a las compañías salitreras que solían vender productos de mala\ncalidad a precios excesivos. Aislados en los campamentos y pagados con fichas, los mineros\nse veían obligados a tratar con ellos. Sin embargo, a pesar del trabajo peligroso y las\ncondiciones de vida por lo general miserables, los hombres seguían llegando por miles al\nnorte. Por muy sórdida que fuera la vida en las salitreras, era menos letal que vivir en los\nconventillos».\n\nCollier, S. y Sater, W. (1998). Historia de Chile 1808-1994.\n\nA finales del siglo XIX y principios del siglo XX se manifestó en Chile el fenómeno de la\nCuestión Social. En este sentido, y considerando lo expresado en la cita, ¿cuál fue uno de los\nrasgos de la Cuestión Social?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tuvo un impacto que perjudicó a la economía nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "Correspondía a un fenómeno de carácter multidimensional."
+        },
+        {
+          "letra": "C",
+          "texto": "Generó una rápida respuesta de las autoridades por su magnitud."
+        },
+        {
+          "letra": "D",
+          "texto": "Fue una problemática cuya manifestación era acotada localmente."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Durante la transición entre el siglo XIX y el XX en Chile, la Cuestión Social emergió como un\n\nconjunto de problemáticas asociadas a la modernización y urbanización aceleradas. Dado el\npanorama anterior, ¿Cuál de las siguientes opciones representa mejor una consecuencia de la\nCuestión Social que afectó directamente a los desafíos enfrentados por la clase trabajadora?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El aumento de la industrialización y la urbanización en Chile llevó a la creación de empleos de alta remuneración que mejoraron significativamente el nivel de vida de la mayoría de los trabajadores urbanos."
+        },
+        {
+          "letra": "B",
+          "texto": "La expansión de la infraestructura urbana, impulsada por la inversión pública, resolvió en gran medida los problemas de vivienda y servicios básicos para la clase trabajadora."
+        },
+        {
+          "letra": "C",
+          "texto": "La rápida urbanización, sin una planificación adecuada, generó un aumento en la demanda de viviendas que no pudo ser satisfecha adecuadamente, llevando a condiciones precarias de vivienda y proliferación de tugurios."
+        },
+        {
+          "letra": "D",
+          "texto": "La clase trabajadora, al migrar de zonas urbanas a rurales, pudo acceder fácilmente a educación y servicios de salud, reduciendo así las disparidades socioeconómicas. – 5 –"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Durante el periodo de Entreguerras, en Europa se produjeron diversos movimientos políticos\n\nque adhirieron a fórmulas ideológicas totalitarias. Al respecto, ¿cuál es uno de los factores\nexplicativos del retroceso de los valores democráticos en las formas de gobierno europeas en\nla primera mitad del siglo XX?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La ausencia de un organismo internacional que regulara los conflictos entre las naciones."
+        },
+        {
+          "letra": "B",
+          "texto": "La inexistencia de políticas económicas para enfrentar los efectos de la depresión iniciada en 1929."
+        },
+        {
+          "letra": "C",
+          "texto": "La rápida expansión de regímenes comunistas en el continente por la influencia de la Unión Soviética."
+        },
+        {
+          "letra": "D",
+          "texto": "El desarrollo de visiones políticas irreconciliables respecto a la resolución de los problemas que enfrentaban los países."
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Durante las décadas de 1930 y 1940, varios países latinoamericanos enfrentaron las\n\nconsecuencias de la crisis económica mundial, lo que debilitó los modelos tradicionales de\ndesarrollo y representación política. En este contexto, surgieron nuevas formas de liderazgo\npolítico que ofrecían respuestas directas al malestar social. ¿Cuál de las siguientes\nafirmaciones explica correctamente el surgimiento del populismo en América Latina en ese\nperiodo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El colapso del sistema colonial provocó un vacío de poder que fue ocupado por líderes militares carismáticos."
+        },
+        {
+          "letra": "B",
+          "texto": "La influencia del fascismo europeo promovió la adopción de gobiernos autoritarios con énfasis nacionalista en la región."
+        },
+        {
+          "letra": "C",
+          "texto": "La aparición de liderazgos con discursos nacionalistas y control estatal sobre la economía movilizaron amplios sectores populares."
+        },
+        {
+          "letra": "D",
+          "texto": "El avance del socialismo en Europa del Este incentivó la creación de sistemas autoritarios en América Latina. – 6 –"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Durante la Gran Depresión, el New Deal introdujo varias políticas para enfrentar la crisis\n\neconómica en Estados Unidos. ¿Cómo se relaciona el concepto del Estado de bienestar con\nlas políticas implementadas bajo el New Deal en Estados Unidos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El Estado de bienestar promovió la no intervención estatal en la economía y la reducción significativa de los servicios públicos disponibles."
+        },
+        {
+          "letra": "B",
+          "texto": "El Estado de bienestar garantizó servicios básicos y derechos sociales, como la seguridad social y el derecho de huelga, complementando así las medidas económicas del New Deal."
+        },
+        {
+          "letra": "C",
+          "texto": "El Estado de bienestar consistió en la eliminación de todas las regulaciones laborales existentes y en la reducción considerable de los impuestos para las empresas."
+        },
+        {
+          "letra": "D",
+          "texto": "El Estado de bienestar se centró principalmente en aumentar la dependencia de importaciones extranjeras y en reducir significativamente la producción nacional."
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Luego de finalizada la Segunda Guerra Mundial, diversos Estados del mundo reconocieron la\n\nnecesidad de buscar soluciones a nivel global a las atrocidades vividas durante la guerra y a\nlos grandes impactos sociales y económicos provocados por este conflicto en distintos países.\nConsiderando estos antecedentes, ¿cuál fue una de las medidas que se adoptó a nivel\nmundial para mejorar las condiciones de vida de la población?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El incentivo al desarrollo de movimientos sociales."
+        },
+        {
+          "letra": "B",
+          "texto": "La erradicación de los conflictos bélicos bilaterales."
+        },
+        {
+          "letra": "C",
+          "texto": "La creación de organismos internacionales multilaterales."
+        },
+        {
+          "letra": "D",
+          "texto": "El establecimiento de una moneda única para el comercio."
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Durante la Guerra Fría, el mundo quedó dividido en dos grandes bloques liderados por\n\nEstados Unidos y la Unión Soviética. Esta división tuvo consecuencias políticas, económicas y\nmilitares en varios países. ¿Cuál de las siguientes afirmaciones refleja una característica de\nesta división bipolar del mundo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La formación de un sistema económico global dirigido por organismos internacionales."
+        },
+        {
+          "letra": "B",
+          "texto": "El aislamiento político y económico de las grandes potencias en sus territorios nacionales."
+        },
+        {
+          "letra": "C",
+          "texto": "La creación de alianzas militares rivales como la OTAN y el Pacto de Varsovia."
+        },
+        {
+          "letra": "D",
+          "texto": "El establecimiento de un sistema único de defensa internacional controlado por la ONU. – 7 –"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Durante la segunda mitad del siglo XX, el escenario político internacional se vio remecido por\n\nel proceso de descolonización que se estaba produciendo en los dominios europeos de África\ny Asia. ¿Cuál es uno de los antecedentes político-económicos que explica el desarrollo de\ndicho proceso?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La gran inversión realizada por los gobiernos metropolitanos en armamento nuclear, en desmedro del presupuesto colonial."
+        },
+        {
+          "letra": "B",
+          "texto": "La superioridad militar y técnica alcanzada por los movimientos de liberación nacional en las colonias."
+        },
+        {
+          "letra": "C",
+          "texto": "El nuevo orden surgido tras la Segunda Guerra Mundial y el desgaste que esta ocasionó a las potencias europeas."
+        },
+        {
+          "letra": "D",
+          "texto": "El agotamiento de los recursos naturales cuya explotación constituía el sustento de la administración europea en los territorios ocupados."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. En Chile, a mediados del siglo XX la población urbana superó a la rural, producto de la masiva\n\nmigración campo-ciudad lo que provocó cambios en la fisonomía de las ciudades. ¿Qué\ncambio se produjo en las ciudades producto de este proceso?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El surgimiento de núcleos de vivienda precaria de autoconstrucción."
+        },
+        {
+          "letra": "B",
+          "texto": "El rescate patrimonial de los barrios tradicionales del centro urbano."
+        },
+        {
+          "letra": "C",
+          "texto": "El acceso igualitario para los habitantes de la infraestructura urbana."
+        },
+        {
+          "letra": "D",
+          "texto": "El desarrollo de un plan estatal que provocó un superávit habitacional. – 8 –"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Lee el siguiente relato del escritor Pedro Lemebel en el que describe su infancia en una\n\npoblación callampa a mediados del siglo XX:\n\n«Y tal vez alguien nos dijo que existía el Zanjón y para no quedarnos a la intemperie llegamos\na esas playas inmundas donde los niños corrían junto a los perros persiguiendo guarenes. Y la\ncosa fue tan simple, tan rápida que por unos pocos pesos nos vendieron una muralla, ni\nsiquiera un metro de terreno, solo era un muro de adobes que mi abuela compró en ese\nlugar».\n\nLemebel, P. (2015). Zanjón de la Aguada\n\nConsiderando este contexto histórico, ¿cuál fue uno de los factores que originó este tipo de\nasentamientos?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La implementación de un subsidio para acceder a viviendas baratas."
+        },
+        {
+          "letra": "B",
+          "texto": "El ocaso del mercado irregular que impidió habitar entornos adecuados."
+        },
+        {
+          "letra": "C",
+          "texto": "La demanda de vivienda superaba la oferta de habitaciones disponibles."
+        },
+        {
+          "letra": "D",
+          "texto": "El exceso de población produjo el abandono de diversos centros urbanos."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Debido a las condiciones de vida que estaba llevando gran parte de la población en las\n\nciudades de Chile a mediados del siglo pasado, el Estado buscó medidas para entregar\nsoluciones habitacionales. ¿Por qué a pesar de los intentos gubernamentales este problema\nno pudo solucionarse rápidamente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque las necesidades habitacionales aumentaron en un ritmo mayor al de la entrega de viviendas."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque los fondos destinados a la construcción de viviendas fueron desviados a proyectos bélicos."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque la migración del campo a la ciudad disminuyó significativamente, reduciendo la demanda de viviendas."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque la calidad de las viviendas entregadas era tan alta que no se consideraron necesarias más construcciones. – 9 –"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Lee el siguiente texto que presenta una interpretación del clima político que desembocó en el\n\nGolpe de Estado de 1973 en Chile:\n\n«El fracaso de las negociaciones, el consecuente deterioro del rol de las instituciones y\nprocedimientos mediadores tradicionales, la política de movilización social y el deterioro de la\nautoridad del liderazgo político sobre sus militantes, llevaron a la incorporación de los que\nJuan Linz denomina poderes “neutrales” al juego político. La Contraloría, los tribunales, el\nTribunal Constitucional y, finalmente, las Fuerzas Armadas se vieron involucrados poco a poco\nen agudas controversias, que claramente pertenecían a la arena política y legislativa».\n\nValenzuela, A. (1989). El quiebre de la democracia en Chile\n\nConsiderando el contexto histórico de la época, ¿a qué factor explicativo del quiebre de la\ndemocracia en Chile se refiere el texto?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El desinterés de las organizaciones comunitarias por el bienestar social."
+        },
+        {
+          "letra": "B",
+          "texto": "La indiferencia de la clase política ante la pobreza que sufría la población."
+        },
+        {
+          "letra": "C",
+          "texto": "La apatía de la sociedad civil frente a la crisis de representatividad política."
+        },
+        {
+          "letra": "D",
+          "texto": "El menoscabo de la misión de los organismos públicos por la contingencia."
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. A partir del Golpe de Estado de 1973, los jerarcas del régimen controlaron el Ejecutivo, a la\n\nvez que asumieron las funciones del Legislativo, suspendiendo el funcionamiento del\nCongreso Nacional. También establecieron conexiones y presionaron a los tribunales de\njusticia para evitar el desarrollo de juicios en contra de sus acciones. Respecto de esta\nsituación, ¿cuál es una evidencia de la supresión del Estado de derecho durante la Dictadura\nMilitar?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La pérdida de independencia entre los poderes públicos."
+        },
+        {
+          "letra": "B",
+          "texto": "La suspensión de las actividades de la administración pública."
+        },
+        {
+          "letra": "C",
+          "texto": "La participación de civiles en la gestión de los asuntos públicos."
+        },
+        {
+          "letra": "D",
+          "texto": "La inexistencia de un marco legal de protección de las personas. – 10 –"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. El concepto de sistematización aplicado al contexto de dictadura militar (1973-1990) permite\n\nreconstruir cómo ocurrió la violación a los derechos humanos de manera repetida,\nestructurada y planificada por parte del Estado. ¿Cuál de las siguientes acciones representa\nuna forma de violación sistemática a los derechos humanos cometida por la dictadura militar\nen Chile?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La nacionalización de empresas estratégicas."
+        },
+        {
+          "letra": "B",
+          "texto": "La implementación de reformas educativas."
+        },
+        {
+          "letra": "C",
+          "texto": "La detención y desaparición forzada de opositores políticos."
+        },
+        {
+          "letra": "D",
+          "texto": "La promoción del crecimiento económico mediante exportaciones."
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. El modelo neoliberal implementado en Chile a partir de la dictadura de Pinochet luego de\n\n1973, promovió una serie de reformas económicas que cambiaron la estructura que tenía el\npaís a inicios de la década de los 70’. ¿Qué medida era necesaria para reducir el rol del\nEstado en la sociedad?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El aumento de la intervención del Estado en la macroeconomía."
+        },
+        {
+          "letra": "B",
+          "texto": "Reducción del gasto público y promoción de la privatización."
+        },
+        {
+          "letra": "C",
+          "texto": "Fomento de la producción nacional a través de subsidios."
+        },
+        {
+          "letra": "D",
+          "texto": "Nacionalización de las empresas privadas. – 11 –"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Lee el siguiente texto:\n\n«Toda la gente salí a la calle a tocar las ollas. Todo el mundo estaba contento, parecía\ncarnaval […] ¡es una de las cuestiones más encachadas que me ha tocado vivir! Pero con un\ndía de recreo no se gana nada. Saltando en la calle no vamos a echar a este gobierno y, por lo\ntanto, hubo que empezar a darle mayor conducción a la cosa y comprometerla más con el\nderrocamiento de la dictadura […] los viejos se asustaron y dejaron de salir a la calle […] se\ndieron cuenta de que las condiciones de la pelea cambiaron y no se sienten capaces de\nasumirla […]. Ahora, los que salen son los cabros que saben que si seguimos saltando,\nriéndonos y tocando guitarra, no le vamos a ganar a nadie y el gobierno va a seguir\nmandando».\n\nPolitzer, P. (1988). La ira de Pedro y los otros. Editorial Planeta\n\nEl testimonio anterior, corresponde a un poblador y está referida a un periodo de la historia\nreciente de Chile. En dicho párrafo, se manifiesta de manera central\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "el descontento de diferentes sectores sociales frente a las condiciones del retorno a la democracia."
+        },
+        {
+          "letra": "B",
+          "texto": "el entusiasmo generado por el triunfo de la Unidad Popular debido a su llegada al gobierno."
+        },
+        {
+          "letra": "C",
+          "texto": "las celebraciones de los partidarios de la opción NO tras el triunfo en el Plebiscito."
+        },
+        {
+          "letra": "D",
+          "texto": "el inicio y radicalización de las protestas nacionales contra la Dictadura Militar."
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. Uno de los fundamentos sobre los que se sustenta el funcionamiento de las democracias\n\ncontemporáneas es el de la soberanía popular. En este sentido, ¿en cuál de las siguientes\nsituaciones se evidencia este fundamento de la democracia?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "En la libertad de expresar las propias ideas."
+        },
+        {
+          "letra": "B",
+          "texto": "En la designación de los ministros de Estado."
+        },
+        {
+          "letra": "C",
+          "texto": "En el ejercicio del voto en elecciones periódicas."
+        },
+        {
+          "letra": "D",
+          "texto": "En la militancia en un partido político tradicional. – 12 –"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. En las sociedades actuales los medios de comunicación representan ventajas, pero también\n\nriesgos que deterioran la calidad de la democracia. Considerando las características de las\nsociedades democráticas, ¿cuál de las siguientes situaciones evidencia uno de estos riesgos?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La elevada diversidad de los tipos de soportes utilizados."
+        },
+        {
+          "letra": "B",
+          "texto": "El aumento de la cantidad de anuncios publicitarios pagados."
+        },
+        {
+          "letra": "C",
+          "texto": "El incremento del espacio destinado a acoger debates políticos."
+        },
+        {
+          "letra": "D",
+          "texto": "La alta concentración de la propiedad de las empresas del rubro."
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Lee el texto que se refiere a la incorporación de la interpelación parlamentaria en la\n\nConstitución chilena:\n\n«La interpelación parlamentaria es una de las atribuciones exclusivas que ostenta la Cámara\nde Diputados, a partir de la reforma constitucional que introduce diversas modificaciones\ndurante el gobierno del entonces presidente Ricardo Lagos Escobar el año 2005, en el cual se\notorgaron herramientas de fiscalización a dicha Corporación, respecto de los actos del\ngobierno».\n\nObservatorio del Congreso (s.f.). Interpelaciones parlamentarias desde 2006 a la fecha. ¿Qué\n\nes una interpelación parlamentaria? Recuperado el 6 de noviembre de 2023.\n\nConsiderando el texto citado, ¿de qué forma la incorporación de este mecanismo contribuye al\nfuncionamiento de la democracia?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Garantiza la actuación autónoma de los poderes políticos que componen el Estado."
+        },
+        {
+          "letra": "B",
+          "texto": "Permite a los representantes de la ciudadanía supervisar la gestión del Ejecutivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Verifica el cumplimiento de las promesas de campaña del Presidente de la República."
+        },
+        {
+          "letra": "D",
+          "texto": "Favorece la participación de la mayoría de la población en los procesos eleccionarios. – 13 –"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. El Servicio Electoral (SERVEL) es un organismo estatal chileno que vela por el correcto\n\nfuncionamiento de las elecciones y el cumplimiento de las normativas relacionadas con la\nactividad política. Considerando lo anterior, ¿cuál de las siguientes funciones ejerce el\nSERVEL?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El desarrollo de encuestas de opinión durante el periodo de campaña."
+        },
+        {
+          "letra": "B",
+          "texto": "La evaluación del cumplimiento de las metas programáticas propuestas."
+        },
+        {
+          "letra": "C",
+          "texto": "La fiscalización del financiamiento de las campañas de las candidaturas."
+        },
+        {
+          "letra": "D",
+          "texto": "El diseño de los estatutos que regulan el funcionamiento de los partidos."
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. En el funcionamiento de la democracia chilena la plena vigencia del Estado de derecho se\n\nconstituye en una garantía de los derechos fundamentales. En este sentido, ¿qué situación es\nesencial para prevenir el deterioro del Estado de derecho?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La centralización de la administración judicial."
+        },
+        {
+          "letra": "B",
+          "texto": "La concentración de atribuciones en el presidente."
+        },
+        {
+          "letra": "C",
+          "texto": "La limitación al ejercicio del poder a través de la ley."
+        },
+        {
+          "letra": "D",
+          "texto": "La independencia ideológica de la administración pública."
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. La institucionalidad del Estado de Chile reconoce la participación de la ciudadanía en\n\ninstancias en las que puede ejercer control sobre la administración pública. Al respecto, ¿en\ncuál de las siguientes situaciones se evidencia esta participación?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Una solicitud para formar un nuevo partido político fue aceptada por el Servicio Electoral."
+        },
+        {
+          "letra": "B",
+          "texto": "Una candidatura independiente ha recibido la mayoría de los votos emitidos en las elecciones."
+        },
+        {
+          "letra": "C",
+          "texto": "Una persona recibió los datos que solicitó al Ministerio de Vivienda mediante ley de transparencia."
+        },
+        {
+          "letra": "D",
+          "texto": "Una agrupación de defensores del medio ambiente realizó una manifestación frente al palacio de La Moneda. – 14 –"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. En Chile cuando se evade el pago de impuestos se infringe la normativa tributaria y, al mismo\n\ntiempo, implica el incumplimiento de un deber ciudadano. ¿Qué impacto sociopolítico tiene\nesta situación?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Debilita la injerencia del Poder Legislativo en materia fiscal."
+        },
+        {
+          "letra": "B",
+          "texto": "Disminuye la capacidad del Estado para realizar inversiones."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumenta los casos de corrupción en la administración pública."
+        },
+        {
+          "letra": "D",
+          "texto": "Afecta la transparencia en la difusión de la información pública."
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. Durante las últimas décadas, en Chile se han puesto en evidencia diversas formas de\n\ncorrupción en las instituciones de la administración del Estado. Al respecto, ¿cuál ha sido una\niniciativa orientada a combatir la corrupción política en Chile?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El aumento de las atribuciones del Poder Ejecutivo para sancionar este tipo de situaciones."
+        },
+        {
+          "letra": "B",
+          "texto": "El establecimiento de leyes para garantizar el acceso ciudadano a la información pública."
+        },
+        {
+          "letra": "C",
+          "texto": "La rotación permanente de las funciones de los empleados públicos para asegurar la probidad."
+        },
+        {
+          "letra": "D",
+          "texto": "La destitución de las autoridades del gobierno mediante plebiscito para erradicar el tráfico de influencias."
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. Uno de los rasgos fundamentales de las sociedades democráticas es la realización de\n\nelecciones periódicas. ¿Por qué la participación de la ciudadanía en estas instancias fortalece\nla democracia?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque asegura la eficiencia en el aparato burocrático."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque garantiza la diversidad ideológica en la población."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque otorga representatividad a las autoridades electas."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque extiende las atribuciones de los poderes del Estado. – 15 –"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. En un trabajo de clases, un grupo de estudiantes debe elaborar varios afiches relativos a los\n\natributos de la democracia. Para el caso de la libertad de asociación, ¿cuál es un título\nadecuado para la elaboración de su afiche?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“La sindicalización nos hace más fuertes”."
+        },
+        {
+          "letra": "B",
+          "texto": "“Si todos votamos fortalecemos la nación”."
+        },
+        {
+          "letra": "C",
+          "texto": "“Tendrás un juicio justo sin importar tu origen”."
+        },
+        {
+          "letra": "D",
+          "texto": "“La censura no podrá callar la voz del pueblo”."
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. El poder judicial en Chile se ordena de forma jerárquica, esto quiere decir que existen\n\nestructuras que exigen pasos a seguir a la hora de ser utilizado por la sociedad. ¿En qué\nsituación se evidencia este principio?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Las cortes de Apelaciones reciben recursos de apelación de las resoluciones de los tribunales de primera instancia."
+        },
+        {
+          "letra": "B",
+          "texto": "Existe una única corte de Apelación por significar la última instancia a la que los civiles pueden optar."
+        },
+        {
+          "letra": "C",
+          "texto": "Los juzgados civiles deben recibir sólo los casos que reciben desde la corte de Apelaciones."
+        },
+        {
+          "letra": "D",
+          "texto": "El juzgado de familia abordará únicamente una situación cuando la orden la emite el Tribunal Constitucional. – 16 –"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. Dentro de los valores que sustentan el poder judicial se encuentra la imparcialidad, la\n\nindependencia y la probidad. ¿En cuál de las siguientes alternativas se resalta la importancia\nde la probidad para el ejercicio público en el poder judicial?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Es relevante tener una conducta intachable y honesta para transmitir confianza a la sociedad sobre el funcionamiento y la aplicación de la justicia."
+        },
+        {
+          "letra": "B",
+          "texto": "Es importante que las personas que participen del poder judicial actúen considerando a todos los grupos de la sociedad para transmitir la igualdad."
+        },
+        {
+          "letra": "C",
+          "texto": "Es relevante que el sistema judicial actúe libre de injerencias internas y externas para asegurar su independencia."
+        },
+        {
+          "letra": "D",
+          "texto": "Es relevante actuar con objetividad e imparcialidad al aplicar las leyes para asegurar que la justicia sea aplicada de forma honesta."
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. El Ministerio Público o Fiscalía de Chile es una organización de carácter autónomo que\n\ncumple la función de investigar los delitos, llevar a los imputados a los tribunales y dar\nprotección a víctimas y testigos. ¿Cuál es una característica de esta institución que permite\nasegurar su autonomía?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No pertenece a ninguno de los tres poderes del Estado."
+        },
+        {
+          "letra": "B",
+          "texto": "Está conformado por jueces que resuelven los casos penales."
+        },
+        {
+          "letra": "C",
+          "texto": "Depende directamente del Congreso Nacional para su funcionamiento."
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo actúa cuando el Presidente de la República lo solicita. – 17 –"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. En Chile existe una democracia de carácter representativo donde la población elige a sus\n\nautoridades mediante elecciones periódicas. Pero también, existen algunas instancias donde\nla población puede ejercer una participación directa en la toma de decisiones políticas. ¿Cuál\nes una de estas instancias a nivel local?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Las consultas ciudadanas de carácter vinculante."
+        },
+        {
+          "letra": "B",
+          "texto": "La aprobación de los proyectos de impacto ambiental."
+        },
+        {
+          "letra": "C",
+          "texto": "La asistencia a la rendición de cuenta anual del Ejecutivo."
+        },
+        {
+          "letra": "D",
+          "texto": "La solicitud de información pública en plataformas digitales."
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. Lee el siguiente texto que alude al impacto de la difusión de noticias falsas:\n\n«Las cuentas automáticas de robots, además, siguen siendo una táctica muy utilizada. Las\ncuentas falsas y los opinadores online acostumbran a difundir mensajes a favor de partidos\ndeterminados y también son usados para compartir contenido de manera estratégica o\npublicar palabras claves para alterar los algoritmos y generar tendencia».\n\nRuiz, D. (2018). La manipulación en las redes sociales no para de crecer a escala mundial. La\n\nVanguardia.\n\n¿Qué efecto político tiene la situación descrita en el texto para el funcionamiento de un\nsistema democrático?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La alteración de las normas sobre la elección de autoridades políticas."
+        },
+        {
+          "letra": "B",
+          "texto": "La erradicación de las formas convencionales de participación política."
+        },
+        {
+          "letra": "C",
+          "texto": "La distorsión del debate político sobre asuntos de connotación pública."
+        },
+        {
+          "letra": "D",
+          "texto": "La invisibilización de posturas políticas opositoras al gobierno de turno. – 18 –"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. En una economía de libre mercado, la iniciativa privada tiene un rol protagónico en el\n\ncomportamiento de la oferta de bienes y servicios en el mercado. No obstante, los Estados\ntambién tienen una participación relevante en estos sistemas económicos. Al respecto, ¿cuál\nde las siguientes opciones corresponde a uno de los roles del Estado en este tipo de\neconomía?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Establecer las normas que regulan la actividad productiva."
+        },
+        {
+          "letra": "B",
+          "texto": "Definir cuotas de venta en artículos de primera necesidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Fijar las técnicas de explotación de los recursos naturales."
+        },
+        {
+          "letra": "D",
+          "texto": "Determinar una banda de precios en productos suntuarios."
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. Un oligopolio es una situación de mercado donde un grupo reducido de actores controla la\n\noferta de bienes y servicios. En un sistema de libre mercado, ¿por qué un oligopolio\nrepresenta una amenaza para la competencia?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque reduce las atribuciones fiscalizadoras del Estado."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque provoca la sobreproducción de artículos innovadores."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque dificulta el ingreso de empresas interesadas en invertir."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque genera alzas permanentes en el precio de los productos."
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. La inflación es un fenómeno económico que altera la relación existente entre la oferta y la\n\ndemanda, afectando de diversas maneras a los agentes económicos. Considerando el\nfuncionamiento del mercado, ¿de qué manera se evidencian los efectos de la inflación en la\neconomía de una familia?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Reduciendo el monto de los ingresos que reciben."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentando progresivamente el poder adquisitivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Incrementando la cantidad de necesidades básicas."
+        },
+        {
+          "letra": "D",
+          "texto": "Disminuyendo la capacidad que tienen para ahorrar. – 19 –"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. Uno de los objetivos del Banco Central de Chile es velar por la estabilidad de la moneda\n\nnacional, manteniendo baja y estable la tasa de inflación, entre otros aspectos. Cuando este\norganismo decide aumentar la tasa de interés, ¿qué reacción busca que se produzca en el\nmercado nacional?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Desincentivar el consumo."
+        },
+        {
+          "letra": "B",
+          "texto": "Fomentar la sobreproducción."
+        },
+        {
+          "letra": "C",
+          "texto": "Estimular un aumento de la oferta."
+        },
+        {
+          "letra": "D",
+          "texto": "Restringir la importación de bienes."
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. En una reunión de la junta directiva, el gerente comercial de una tienda, comunica que la\n\nempresa ha decidido expandir su negocio a dos ciudades ubicadas en diferentes regiones del\npaís. En esta situación, ¿cuál de las siguientes proposiciones del gerente vulnera las\ncondiciones de libre mercado?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“Iniciaremos una fuerte campaña publicitaria para captar a los consumidores que prefieren otros productos”."
+        },
+        {
+          "letra": "B",
+          "texto": "“Estudiaremos las preferencias de los consumidores para ser la empresa más competitiva con nuestros productos”."
+        },
+        {
+          "letra": "C",
+          "texto": "“Nos aseguraremos de controlar la oferta para ser los únicos distribuidores de los productos que vendemos en estas zonas”."
+        },
+        {
+          "letra": "D",
+          "texto": "“Realizaremos un estudio de las ventajas comparativas para ofrecer los productos más adecuados a los nuevos mercados”. – 20 –"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. Lee el siguiente texto de difusión educativa del Ministerio de Energía de Chile:\n\n«Tenemos la radiación solar más alta del mundo, fuertes vientos de norte a sur para\ndesarrollar energía eólica, un tremendo potencial de energía marina en nuestras costas, gran\ncapacidad para desarrollar biogás y un recurso geotérmico a lo largo de nuestra cordillera».\n\nMinisterio de Energía (s.f.). ¿Qué son las energías renovables?\n\nConsiderando la información proporcionada, ¿cómo beneficia a la sociedad chilena el uso de\nlas energías propuestas en el texto?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Permite mejorar la utilización de los combustibles fósiles."
+        },
+        {
+          "letra": "B",
+          "texto": "Favorece el acceso masivo de la población a los bienes tecnológicos."
+        },
+        {
+          "letra": "C",
+          "texto": "Promueve una mayor responsabilidad en el cuidado medioambiental."
+        },
+        {
+          "letra": "D",
+          "texto": "Transfiere a las empresas el impacto ecológico de la producción de bienes. – 21 –"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. Lee el siguiente texto acerca de distintas acciones de intervención ambiental llevadas a cabo\n\nen Chile:\n\n«Ejemplos de situaciones de injusticia ambiental en Chile abundan. Tales son, por nombrar\nalgunos, la construcción de autopistas urbanas en Santiago, la localización de vertederos y\nplantas de tratamientos de aguas servidas en la Novena Región de La Araucanía, la ubicación\nde las plantas de la industria salmonera en la Décima Región de Los Lagos, o la zona de la\nQuinta Región correspondiente al complejo industrial de Ventanas y Puchuncaví. Todos estos\ncasos reflejan […] la ausencia de reconocimiento de la identidad de ciertas comunidades, la\nfalta de acceso de las mismas comunidades a instancias públicas de participación […] y una\nmarcada falta de valorización de la integridad de los ecosistemas».\n\nEspejo, D. (2010). Noción y elementos de la justicia ambiental: directrices para su aplicación\n\nen la planificación territorial y en la evaluación ambiental estratégica.\n\n¿Por qué la situación descrita en el texto constituye una contradicción a los fundamentos del\nmodelo de desarrollo sostenible?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque restringe la priorización de las actividades productivas con innovación ambiental."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque dificulta la conciliación de la protección ambiental con el crecimiento económico."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque limita el financiamiento de las áreas de conservación ambiental con fondos fiscales."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque desincentiva el diseño de políticas públicas orientadas al cuidado medioambiental. – 22 –"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. Lee el siguiente texto sobre la situación económica de finales del siglo XIX en Sudáfrica:\n\n«Ya en 1880, las minas de Sudáfrica dominaban la oferta mundial de diamantes. Sin embargo,\nhabía muchas compañías mineras y todas competían entre sí. Durante la década de 1880,\nRhodes compró la mayor parte de esas minas y creo una única compañía, De Beers, que en\n1889 controlaba casi toda la producción mundial de diamantes».\n\nKrugman, P. et al. (2013). Fundamentos de economía.\n\nConsiderando la teoría económica respecto del funcionamiento del mercado, ¿cuál fue un\nimpacto de la situación descrita en el texto anterior?\n\nEJERCICIO DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La limitación de la libre competencia."
+        },
+        {
+          "letra": "B",
+          "texto": "El aumento de los costos de producción."
+        },
+        {
+          "letra": "C",
+          "texto": "El control de la oferta de bienes sustitutos."
+        },
+        {
+          "letra": "D",
+          "texto": "La reducción de la demanda a escala global."
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. En el marco de los derechos laborales y las normativas internacionales, el principio de \"trabajo\n\ndecente\" promovido por la Organización Internacional del Trabajo (OIT) busca garantizar\ncondiciones laborales dignas, seguras y equitativas para todos los trabajadores. Considerando\nesto, ¿cuál de las siguientes situaciones vulnera este principio en el contexto chileno actual?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Una empresa que exige turnos rotativos con descanso semanal y salario acorde al mínimo legal."
+        },
+        {
+          "letra": "B",
+          "texto": "Un empleador que mantiene contratos informales y no permite a sus trabajadores acceder a la seguridad social."
+        },
+        {
+          "letra": "C",
+          "texto": "Un sindicato que exige mejoras laborales mediante diálogo directo con la empresa."
+        },
+        {
+          "letra": "D",
+          "texto": "Una compañía que promueve la igualdad salarial entre hombres y mujeres en puestos similares. – 23 –"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. Según la ley actual de sindicatos en Chile, nadie puede ser obligado a afiliarse a un sindicato,\n\nes decir, es un acto voluntario. De la misma manera tampoco se puede obligar o impedir\ndesafiliarse de la organización. ¿Qué objetivos se buscan con esta ley?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Promover la creación masiva de sindicatos en todos los lugares de trabajo del país."
+        },
+        {
+          "letra": "B",
+          "texto": "Garantizar la libertad de asociación y el respeto a la autonomía individual de los trabajadores."
+        },
+        {
+          "letra": "C",
+          "texto": "Evitar que los sindicatos crezcan en número y se vuelvan políticamente influyentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Permitir que los empleadores elijan a los representantes sindicales sin conflictos internos. – 24 –"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    }
+  ]
+}

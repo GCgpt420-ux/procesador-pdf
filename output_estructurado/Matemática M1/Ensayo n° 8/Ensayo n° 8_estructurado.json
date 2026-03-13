@@ -1,0 +1,1463 @@
+{
+  "archivo_original": "Ensayo n° 8.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/Ensayo n° 8.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 24,
+  "fecha_procesamiento": "2026-03-07T23:10:51.573342",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n1\n1\n3  2  \n : 2  \n2\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 3"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "3 2"
+        },
+        {
+          "letra": "D",
+          "texto": "9 4         = 1 1 -1 -1 -1 2 (1 3 )"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nLa triatlón es una prueba que consta de 1,5 km de natación, 40 km de ciclismo y 10 km \nde carrera. Anselmo, profesor de matemática estaba viendo por televisión la triatlón de \nPucón y justo cuando los primeros triatletas salieron del lago comenzaron a correr en \nbicicleta, el hijo de Anselmo le preguntó: “”Papá, ¿cómo va Bárbara Riveros?, a lo que \n\nAnselmo respondió: 1\n\n8  de los corredores van delante de ella y 5\n\n6  de los que \n\ncomenzaron a correr en bicicleta, detrás. Según lo informado por Anselmo, Bárbara \nRiveros corre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "en la cuarta posición."
+        },
+        {
+          "letra": "B",
+          "texto": "en la quinta posición."
+        },
+        {
+          "letra": "C",
+          "texto": "en la sexta posición."
+        },
+        {
+          "letra": "D",
+          "texto": "en la octava posición."
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nSi P = 83,37 , entonces 0,1P =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8,37"
+        },
+        {
+          "letra": "B",
+          "texto": "8,337"
+        },
+        {
+          "letra": "C",
+          "texto": "8,337"
+        },
+        {
+          "letra": "D",
+          "texto": "8,737 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nLa tabla adjunta indica las ventas de vehículos de tres marcas (GMT, ANF y MMV) que \nse hicieron en los tres primeros meses de este año, con la omisión de dos valores \nindicados por x e y. \n \n \n \n \n \n\n \nGMT \nANF \nMMV \nTotal \nEnero \n104 \n31 \n35 \n170 \nFebrero \nx \n0 \n5 \ny \nMarzo \n8 \n1 \n6 \n15 \nTotal \n123 \n32 \n46 \n201 \n\n \n \n \n \nConsiderando las tres marcas de vehículos, el porcentaje de vehículos marca GMT \nvendidos en febrero fue de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "68,75%"
+        },
+        {
+          "letra": "B",
+          "texto": "62,50%"
+        },
+        {
+          "letra": "C",
+          "texto": "56,25%"
+        },
+        {
+          "letra": "D",
+          "texto": "43,75%"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ensayo n° 8_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nMi amigo Alberto que es ciclista y tiene 61 años usa un monitor cardiaco para medir su \nfrecuencia cardiaca, en cuatro diferentes tramos de la ruta. Los resultados de las \nfrecuencias cardíacas máximas alcanzadas en esos tramos se indican en la tabla \nadjunta. \n \n \n \n \n \n \n \n \n \n\nTramos de la ruta \nFrecuencias \ncardíacas máximas \nLeve en el plano \n90 \nFuerte en el plano \n120 \nSubida moderada \n130 \nSubida fuerte \n140 \n\nSe sabe que el rango aeróbico ideal para un buen acondicionamiento físico es entre \n65% y 85% de la frecuencia cardiaca máxima (Fc máx), que a su vez, es determinada \npor la fórmula Fc max = 220 – edad, en que la edad está dada en años y Fc máx, está \ndada en lpm (latidos por minuto). \n \nLos tramos del trayecto que Alberto mantiene dentro de su rango aeróbico ideal, para \nganar un buen acondicionamiento físico son",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "leve en el plano, fuerte en el plano, subida moderada y subida fuerte."
+        },
+        {
+          "letra": "B",
+          "texto": "leve en el plano, fuerte en el plano y subida moderada."
+        },
+        {
+          "letra": "C",
+          "texto": "fuerte en el plano, subida moderada, subida fuerte."
+        },
+        {
+          "letra": "D",
+          "texto": "fuerte en el plano y subida moderada. 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ensayo n° 8_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi N = 5\n20\n1\n  \n17,75 + \n2\n9\n4\n\n\n\n\n\n\n\n\n\n\n\n, entonces ¿cuál de las siguientes relaciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 < N  2"
+        },
+        {
+          "letra": "B",
+          "texto": "2 < N  3"
+        },
+        {
+          "letra": "C",
+          "texto": "3 < N  4"
+        },
+        {
+          "letra": "D",
+          "texto": "4 < N  5"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn la figura adjunta en el cuadrado grande cada lado tiene una medida equivalente a  \n4 palitos de fósforo, como los que se muestran. Si este cuadrado debe quedar \ntotalmente lleno con cuadrados más pequeños, cuyos lados miden un palito de fósforo, \nse necesitarán",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30 palitos"
+        },
+        {
+          "letra": "B",
+          "texto": "35 palitos"
+        },
+        {
+          "letra": "C",
+          "texto": "40 palitos"
+        },
+        {
+          "letra": "D",
+          "texto": "50 palitos"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ensayo n° 8_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Un profesor de enseñanza básica le propuso a su curso el siguiente juego: \n\nUn tesoro está escondido y para que sea encontrado es necesario seguir las \ninstrucciones indicadas a continuación: \n \nDada la distancia entre los puntos S y L igual a 24 km. \n \n1° salga del punto S, camine en línea recta en dirección al punto L, pues, el tesoro está \nentre S y L. \n2° camine las dos terceras partes de esa distancia y deténgase, \n3° devuélvase tres cuartos de la distancia que lo separa de S, \n4° camine ahora 10 km en dirección a L y en ese lugar encontrará el tesoro. \n \nEl alumno que hizo los cálculos correctamente encontró el tesoro a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 km de L"
+        },
+        {
+          "letra": "B",
+          "texto": "4 km de S"
+        },
+        {
+          "letra": "C",
+          "texto": "8 km de L"
+        },
+        {
+          "letra": "D",
+          "texto": "2 km de S 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. ¿Cuál de las siguientes expresiones representa un número mayor que 3? \n \n \n\n2\n5  1\n2\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 2 + 1 3      "
+        },
+        {
+          "letra": "B",
+          "texto": "2 8 1 3       "
+        },
+        {
+          "letra": "C",
+          "texto": "2 1 2 4       "
+        },
+        {
+          "letra": "D",
+          "texto": "1 3 1       "
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Para c > 0, se cumple que \n\n =  \n\nc\n\n \n \n\n1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 c"
+        },
+        {
+          "letra": "B",
+          "texto": "3 c 3 1 c"
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": "c-3"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. El ciclo lunar tiene 28 días. Los indígenas utilizaban este ciclo en la plantación y en la \n\ncosecha de sus cultivos. Considerando que el año tiene 365 días, una persona que hoy \nestá cumpliendo 56 años, ¿cuántos ciclos lunares ha vivido?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "56"
+        },
+        {
+          "letra": "B",
+          "texto": "365"
+        },
+        {
+          "letra": "C",
+          "texto": "730"
+        },
+        {
+          "letra": "D",
+          "texto": "1.568 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Un nutricionista verificó en la dieta diaria de su cliente, la falta de 800 mg de mineral A, \n\nde 1.000 mg del mineral B y de 1.200 mg del mineral C, por lo tanto le recomendó la \ncompra de suplementos alimenticios que provean los minerales faltantes indicándoles \nademás que no habría problemas si consumiese más de las cantidades indicadas. \n \n\nEl cliente encontró cuatro suplementos vendidos en sobres unitarios, cuyos precios y \ncantidades de los minerales se indican: \n \nSuplemento I: contiene 50 mg del mineral A, 100 mg del mineral B y 200 mg del \nmineral C y cuesta $ 2.000 el sobre. \nSuplemento II: contiene 800 mg del mineral A, 250 mg del mineral B y 200 mg del \nmineral C, costando $ 3.000 el sobre. \nSuplemento III: contiene 250 mg del mineral A, 1.000 mg del mineral B y 300 mg del \nmineral C, por un valor de $ 5.000 el sobre. \nSuplemento IV: contiene 600 mg del mineral A, 500 mg del mineral B y 1.000 mg del \nmineral C y tiene un valor de $ 6.000 el sobre. \n \nSi el cliente decidió comprar sobres de un único suplemento en el cual gasta la menor \ncantidad de dinero posible y cubriese todas las necesidades de minerales, sin que \nimportase consumir más de las cantidades indicadas, entonces el cliente deberá \ncomprar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "el suplemento I."
+        },
+        {
+          "letra": "B",
+          "texto": "el suplemento II."
+        },
+        {
+          "letra": "C",
+          "texto": "el suplemento III."
+        },
+        {
+          "letra": "D",
+          "texto": "el suplemento IV."
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. ¿Qué valor debe tener n para que 6n+3 sea igual a 65-n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-3"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Partiendo desde el kilómetro 0, un peregrino inicia un recorrido caminando, donde cada \n\n5 kilómetros descansa 10 minutos. Cuando llegó al kilómetro 30, ¿cuántos minutos \nhabrá descansado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40"
+        },
+        {
+          "letra": "B",
+          "texto": "50"
+        },
+        {
+          "letra": "C",
+          "texto": "60"
+        },
+        {
+          "letra": "D",
+          "texto": "70 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Si T = \n\n, entonces \n\n6  12\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "T = 13,5"
+        },
+        {
+          "letra": "B",
+          "texto": "T = 12,5"
+        },
+        {
+          "letra": "C",
+          "texto": "T = 11,5"
+        },
+        {
+          "letra": "D",
+          "texto": "T = 10,5"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. ¿Cuál es el valor numérico de la expresión 4\n\n3 r3, si se considera  = 3,14 y r = \n2\n3 ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "110,04"
+        },
+        {
+          "letra": "B",
+          "texto": "112,04"
+        },
+        {
+          "letra": "C",
+          "texto": "113,04"
+        },
+        {
+          "letra": "D",
+          "texto": "113,14 2 1 25 x = 2 4       "
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Si x es un número real positivo y \n\n, entonces ¿cuál de los siguientes \n\ntrinomios es igual a cero?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x2 + x – 6"
+        },
+        {
+          "letra": "B",
+          "texto": "x2 – x – 6"
+        },
+        {
+          "letra": "C",
+          "texto": "x2 + 5x + 6"
+        },
+        {
+          "letra": "D",
+          "texto": "x2 + 5x – 6 3 2 (2 ) , b = 82 y c = 16-3, entonces el producto a · b · c es igual a"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Un alambre que medía (3t + 5r) cm fue dividido en tres partes. Si la primera parte \n\nmide (3r + t) cm y la segunda (2t – r) cm, ¿cuánto mide la tercera parte?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "r cm"
+        },
+        {
+          "letra": "B",
+          "texto": "3r cm"
+        },
+        {
+          "letra": "C",
+          "texto": "(t + 4r) cm"
+        },
+        {
+          "letra": "D",
+          "texto": "(2t + 2r) cm 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Una araucaria o pino piñonero (Araucaria araucana) proyecta una sombra de  \n\n10 metros. Si la razón entre el tronco y la copa de la araucaria es 3 : 1, entonces la \nparte de la sombra que corresponde al tronco de la araucaria mide",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7,5 metros"
+        },
+        {
+          "letra": "B",
+          "texto": "6,6 metros"
+        },
+        {
+          "letra": "C",
+          "texto": "6,5 metros"
+        },
+        {
+          "letra": "D",
+          "texto": "5,5 metros"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Dos empresas A y B que arriendan automóviles cobran las siguientes tarifas: \n\nA: $ 40.000 por un día, más $ 30.000 por cada día adicional. \nB: $ 30.000 por un día, más $ 32.000 por cada día adicional. \nSi Efraín arrendó un vehículo en la empresa A y Simón uno en la empresa B, por el \nmismo números de días y pagaron por el arriendo exactamente la misma cantidad de \ndinero, entonces ¿por cuántos días arrendaron sus respectivos vehículos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "5"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "10 -1 -1 -1 s t 1 + + t s (ts)"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Si s, t  0, la suma \n\n es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3st"
+        },
+        {
+          "letra": "B",
+          "texto": "2st"
+        },
+        {
+          "letra": "C",
+          "texto": "st"
+        },
+        {
+          "letra": "D",
+          "texto": "(st)-1 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. La parafina que contiene un tambor ocupa las tres quintas partes de su capacidad. Se \n\nle extrajeron 60 litros y quedó con la mitad de la parafina que tenía. Si se le agregasen \n50 litros, ¿cuántos litros faltarían para que se llenase el tambor?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "120"
+        },
+        {
+          "letra": "B",
+          "texto": "100"
+        },
+        {
+          "letra": "C",
+          "texto": "90"
+        },
+        {
+          "letra": "D",
+          "texto": "30"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. ¿Cuál es el valor de x en la ecuación 2372 + 5x = 2382?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "98"
+        },
+        {
+          "letra": "B",
+          "texto": "97"
+        },
+        {
+          "letra": "C",
+          "texto": "96"
+        },
+        {
+          "letra": "D",
+          "texto": "95"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Una baldosa pesa lo mismo que 1 kg más media baldosa. ¿Cuánto pesa una baldosa y \n\nmedia?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,5 kg"
+        },
+        {
+          "letra": "B",
+          "texto": "2 kg"
+        },
+        {
+          "letra": "C",
+          "texto": "3 kg"
+        },
+        {
+          "letra": "D",
+          "texto": "4 kg"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. Un padre y su hijo, con 100 fichas cada uno, comenzaron un juego. Llegaron al acuerdo \n\nque si el padre perdía una partida, le pasaba 6 fichas a su hijo y si ganaba, entonces \nrecibía de su hijo 4 fichas. Si al cabo de 20 partidas, el hijo tenía tres veces las fichas \nque tenía el padre, entonces ¿cuántas partida ganó el hijo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "13"
+        },
+        {
+          "letra": "D",
+          "texto": "14"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. David y su hermana Sara, fueron a pesarse con su perro “bigote” a la balanza de una \n\nfarmacia cercana. Sucedió que era una vieja balanza que tenía el defecto de indicar \ncorrectamente solo pesos superiores a 60 kg, por lo cual decidieron pesarse de dos en \ndos, obteniendo las siguientes marcas: David y Bigote pesaron juntos 97 kg, David y \nSara pesaron 123 kg y Sara y Bigote 63 kg. Según esto, ¿cuál de las siguientes \nafirmaciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "David es más pesado que Bigote y Sara juntos."
+        },
+        {
+          "letra": "B",
+          "texto": "Cada uno de ellos pesa menos de 60 kg."
+        },
+        {
+          "letra": "C",
+          "texto": "El peso de Sara es el promedio de los pesos de David y Bigote."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos de ellos pesan más de 60 kg."
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. En una campaña de prevención contra la viruela del mono, x funcionarios del SNS \n\ndividieron la tarea de visitar 1.000 viviendas de una comuna de la Región \nMetropolitana. Si el día previsto para la campaña faltaron 5 funcionarios, entonces cada \nuno de los otros tuvo que visitar 10 viviendas más de las que les correspondía \ninicialmente. ¿Cuál fue el número x de funcionarios?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Más de 24, pero menos de 28."
+        },
+        {
+          "letra": "B",
+          "texto": "Más de 29, pero menos de 32."
+        },
+        {
+          "letra": "C",
+          "texto": "Más de 34, pero menos de 38."
+        },
+        {
+          "letra": "D",
+          "texto": "Más de 39, pero menos de 47."
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. Cierto día, en que el funicular del Cerro San Cristóbal estaba en rodaje, solo se permitía \n\nque subieran a él, el equivalente a 20 adultos, o bien, el equivalente a 24 niños. Si ya \nse encontraban en el funicular 15 adultos, ¿cuántos niños podrían subir?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "6 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. Una empresa de productos artesanales le paga a cada uno de sus operarios un sueldo \n\nfijo de $ 1.000.000 más $ 15.000 por pieza producida en un mes. Si se producen x \npiezas en un mes, ¿cuál de las siguientes funciones representa esta situación?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "f(x) = x(1.000.000 + 15.000)"
+        },
+        {
+          "letra": "B",
+          "texto": "f(x) = 15.000x + 1.000.000"
+        },
+        {
+          "letra": "C",
+          "texto": "f(x) = 1.000.000x + 15.000"
+        },
+        {
+          "letra": "D",
+          "texto": "f(x) = 15.000 x + 1.000.000"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. Dada la función afín f(x) = ax + b y siendo f(1) = 3  y  f(2) = 9, entonces f(0) =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "-2"
+        },
+        {
+          "letra": "D",
+          "texto": "-3"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. La parábola de la figura adjunta es representativa de la función de segundo grado  \n\nf(x) = ax2 – 10x + c. ¿Cuál de las siguientes afirmaciones es verdadera? \n \n \n \n \n \n \n \n \n\ny \n\n5 \n\n0 \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a + c = 17"
+        },
+        {
+          "letra": "B",
+          "texto": "a + c = 11"
+        },
+        {
+          "letra": "C",
+          "texto": "a + c = 9"
+        },
+        {
+          "letra": "D",
+          "texto": "a + c = -2"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "Ensayo n° 8_p13_img1.jpg"
+      ]
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. La figura adjunta muestra un proyectil que es disparado y describe una curva según la \n\n-9 \n\nfunción h(t) = -4,9t2 + 24,5t + 9,8, con h en metros y t en segundos. ¿Al cabo de \ncuánto tiempo el proyectil dejó de ascender?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,0 s"
+        },
+        {
+          "letra": "B",
+          "texto": "2,5 s"
+        },
+        {
+          "letra": "C",
+          "texto": "3,5 s"
+        },
+        {
+          "letra": "D",
+          "texto": "5,0 s 9,8 m 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "Ensayo n° 8_p13_img1.jpg"
+      ]
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. Una empresa produce paneles de energía eléctrica, cuya forma es rectangular y que \n\ngeneran 5 Mwh (megawatts - hora) por metro cuadrado. Cada panel tiene 3 metros de \nancho y 6 metros de largo. El sello verde de eficiencia es obtenido si el panel solar \ngenera como mínimo 150 Mwh de energía solar. Para obtener el sello verde la empresa \ndecide alterar solo el ancho de sus paneles solares. El número mínimo, en metros, que \nla empresa debe aumentar el ancho de sus paneles solares es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "10"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. En la figura adjunta, el segmento AB mide 14 cm y el segmento MN mide 12 cm, M es \n\nel punto medio de AB  y N es el punto medio de BC . ¿Cuánto mide AC ? \n \n \n \n \n \n\nA \nM \nB \nN \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "20 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "24 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "28 cm"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "Ensayo n° 8_p14_img0.jpg"
+      ]
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. En la figura adjunta sus dimensiones están en metros, la línea punteada representa una \n\nzanja de regadío que fue hecha en dos lados de un huerto. La extensión total de la \nzanja es de  \n \n \n \n \n \n \n \n \n \n \n \n \n\n5 \n\nx \n\n5 \n\n1 \n\n2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,50 m"
+        },
+        {
+          "letra": "B",
+          "texto": "5,75 m"
+        },
+        {
+          "letra": "C",
+          "texto": "5,80 m"
+        },
+        {
+          "letra": "D",
+          "texto": "6,00 m 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "Ensayo n° 8_p14_img0.jpg"
+      ]
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. En los triángulos rectángulos MNP y NRQ los ángulos MNP y MNQ son congruentes y \n\nMP , NP  y QR  miden, respectivamente, 12 cm, 20 cm y 9 cm. En estas condiciones RM  \nmide \n \n \n \n \n \n \n \n \n \n \n \n\nQ \nM \n\nR \n\nN \n\nP",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,0 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "1,5 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "2,0 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "2,5 cm"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. Las regiones achuradas en la figura adjunta son sectores circulares, todos de radio  \n\n1 cm y centros en los vértices del paralelogramo ABCD. La suma de las áreas de estas \nregiones es igual a  \n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4  cm2  cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": " cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "2 cm2 15"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "Ensayo n° 8_p15_img1.jpg"
+      ]
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. Los triángulos ABC y DEF (figuras adjuntas), son rectángulos isósceles. Si BC  mide \n\n12\n2  cm y sabiendo que la razón de semejanza entre los triángulos ABC y DEF es \nAB\n2\n = \nDE\n3 , ¿cuánto mide DF ? \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\nF \n\nC \n\nA \nB \n\nD \nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "16 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "14 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "12 cm"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "Ensayo n° 8_p16_img0.jpg"
+      ]
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. En la figura adjunta PQRS es un cuadrado cuyos lados PQ y QR son paralelos a los ejes \n\nx e y, respectivamente. Si las coordenadas de S son (2, 2) y las de Q son (9, n + 1), \n¿cuál es el valor de n? \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nS \nR \n\nx \n\nP \nQ",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-7"
+        },
+        {
+          "letra": "B",
+          "texto": "-6"
+        },
+        {
+          "letra": "C",
+          "texto": "-5"
+        },
+        {
+          "letra": "D",
+          "texto": "-4"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "Ensayo n° 8_p16_img0.jpg"
+      ]
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. El vector u tiene la misma dirección y sentido que el vector v(-10, 24). Si la magnitud \n\ndel vector u es 13, entonces ¿cuál de los siguientes es el vector u?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(5, 12)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-5, 13)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-10, 26)"
+        },
+        {
+          "letra": "D",
+          "texto": "(-5, 12) 16"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. La figura adjunta muestra el diseño de un plano urbano, donde se conservan tres \n\nterrenos comerciales, dos vendidos y uno por vender, que colindan entre sí. Sabiendo \nque el metro cuadrado cuesta $ 100.000, ¿cuánto cuesta el terreno que está en venta? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n200 m \n\nV\ne\nn\nd\ni\nd\no \n\nAvda. Miramar \n\nE\nn  \n \nV\ne\nn\nt\na \n\nV\ne\nn\nd\ni\nd\no \n\n80 m \n\nAvda. Los Delfines \n\n80 m \n40 m \n40 m",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 580.000.000"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 600.000.000"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 620.000.000"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 630.000.000"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "Ensayo n° 8_p17_img0.jpg"
+      ]
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. Durante la construcción de una carretera se utilizó una representación cartográfica cuya \n\nescala era de 1 : 25.000. En ese mapa la carretera estaba representada por una línea \nde 12,7 cm de longitud. La longitud real de la carretera es de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3.175 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "1.968 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "2,51 kilómetros."
+        },
+        {
+          "letra": "D",
+          "texto": "4,27 kilómetros. 17"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. Las rectas paralelas L1, L2 y L3 de la figura adjunta son cortadas por las transversales L4 \n\ny L5. Si AB = 3 cm, A’B’ = 4 cm y AC = 9 cm, podemos concluir correctamente que \n\nB'C' mide",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "6 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "8 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "9 cm"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "Ensayo n° 8_p18_img0.jpg"
+      ]
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. De acuerdo a la información entregada en la figura adjunta AB vale \n \n \n \n \n \n \n \n \n \n \n \n \n\nL4 \nL5 \n\nA \nA’ \n\nL1 \n\nB \nB’ \n\nL2 \n\nC \nC’ \n\nL3 \n\nC \n\nB \n\n3,0 \n\nA \n\n4,0 \n1,0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,0"
+        },
+        {
+          "letra": "B",
+          "texto": "3,2"
+        },
+        {
+          "letra": "C",
+          "texto": "3,4"
+        },
+        {
+          "letra": "D",
+          "texto": "4,0"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "Ensayo n° 8_p18_img0.jpg"
+      ]
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. Si el área de la base de un prisma recto disminuye en un 10% y la altura aumenta en \n\nun 20%, entonces su volumen",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumenta en un 8%."
+        },
+        {
+          "letra": "B",
+          "texto": "disminuye en un 8%."
+        },
+        {
+          "letra": "C",
+          "texto": "no se altera."
+        },
+        {
+          "letra": "D",
+          "texto": "aumenta en un 15%. 18"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 51,
+      "enunciado": "51. Un estanque con forma de bloque rectangular y con aristas que miden 25 m, 12 m y  \n\n4 m, está lleno de agua. Si debe ser vaciado con el uso de una bomba que extrae  \n750 litros por minutos, el tiempo necesario para que el estanque quede totalmente \nvacío es de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 h 40 min"
+        },
+        {
+          "letra": "B",
+          "texto": "22 h 30 min"
+        },
+        {
+          "letra": "C",
+          "texto": "26 h 40 min"
+        },
+        {
+          "letra": "D",
+          "texto": "28 h 30 min"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 52,
+      "enunciado": "52. En cierta empresa se hizo un estudio sobre la edad de sus trabajadores, con el fin de \n\nestablecer un plan de seguro grupal. Los resultados obtenidos se presentan en la tabla \nadjunta. \n \n \n \n \n \n \n \n \n \n \n\nEdad \nFrecuencia \n[19 - 29[ \n3 \n[29 - 39[ \n10 \n[39 - 49[ \n15 \n[49 - 59[ \n8 \n[59 – 69] \n4 \n\n¿Qué porcentaje del total representan los trabajadores que tienen al menos 49 años?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25%"
+        },
+        {
+          "letra": "B",
+          "texto": "30%"
+        },
+        {
+          "letra": "C",
+          "texto": "33,3%"
+        },
+        {
+          "letra": "D",
+          "texto": "40%"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "Ensayo n° 8_p19_img0.jpg"
+      ]
+    },
+    {
+      "numero": 53,
+      "enunciado": "53. Si todos los datos de la muestra tienen el mismo valor, distinto de cero, ¿cuál de las \n\nsiguientes proposiciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La moda es el valor de cualquiera de los datos."
+        },
+        {
+          "letra": "B",
+          "texto": "Como los datos son distintos de cero, el rango es distinto de cero."
+        },
+        {
+          "letra": "C",
+          "texto": "La media aritmética es igual al segundo cuartil."
+        },
+        {
+          "letra": "D",
+          "texto": "La mediana es igual al rango intercuartil. 19"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 54,
+      "enunciado": "54. El 20 de septiembre del presente año se hizo una encuesta entre 1.500 asistentes al \n\nconcierto de la banda británica Coldplay que se realizó en el Estadio Nacional en la \nciudad de Santiago. Se consultó sobre el lugar desde donde venían al recital y los \nresultados se muestran en el gráfico de la figura adjunta. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nNúmero de \n\npersonas \n\n \n\n800 \n\n700 \n\n600 \n\n400 \n\n400 \n\n300 \n\n200 \n\n100 \n\nExtranjeros \nlugar \nZona \n\nSur \nZona \nNorte \n\nZona \nCentral \n\nSegún el gráfico, se puede afirmar correctamente que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uno de cada tres asistentes de la zona sur son turistas extranjeros."
+        },
+        {
+          "letra": "B",
+          "texto": "el 50% de las personas encuestadas es de la zona central."
+        },
+        {
+          "letra": "C",
+          "texto": "de los encuestados, 700 resultaron ser santiaguinos."
+        },
+        {
+          "letra": "D",
+          "texto": "fueron entrevistados tantas personas de las zonas norte y sur como de la zona central."
+        }
+      ],
+      "pagina": 20,
+      "imagenes": [
+        "Ensayo n° 8_p20_img1.jpg"
+      ]
+    },
+    {
+      "numero": 55,
+      "enunciado": "55. Los huiros son macroalgas pardas (güiro de mar) que se utilizan en la industria \n\ncosmética, odontológica y textil. En la tabla adjunta se muestra la cantidad de \ntoneladas de huiro que un industrial chileno ha exportado a China los últimos seis años. \n¿En qué año, el incremento porcentual, respecto al año anterior fue mayor? \n \n\nAño \nToneladas \nexportadas \n2016 \n27 \n2017 \n39 \n2018 \n68 \n2019 \n87 \n2020 \n98 \n2021 \n108",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2021"
+        },
+        {
+          "letra": "B",
+          "texto": "2020"
+        },
+        {
+          "letra": "C",
+          "texto": "2019"
+        },
+        {
+          "letra": "D",
+          "texto": "2018 20"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": [
+        "Ensayo n° 8_p20_img1.jpg"
+      ]
+    },
+    {
+      "numero": 56,
+      "enunciado": "56. La tabla adjunta muestra el número de horas que semanalmente dedican al estudio \n\nalumnos de primer año de ingeniería. Según la información entregada en la tabla, ¿cuál \nde las siguientes afirmaciones es siempre verdadera? \n \n \n\nIntervalo \n(en horas) \n\nFrecuencia \n\n[0, 5[ \n20 \n[5, 10[ \n15 \n[10, 15[ \n40 \n[15, 20[ \n60 \n[20, 25] \n55",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cien alumnos estudian entre 10 y 20 horas semanalmente."
+        },
+        {
+          "letra": "B",
+          "texto": "El intervalo modal tiene marca de clase 17,5."
+        },
+        {
+          "letra": "C",
+          "texto": "No hay alumnos que estudien semanalmente 25 horas."
+        },
+        {
+          "letra": "D",
+          "texto": "La mediana se ubica en el intervalo de frecuencia 40."
+        }
+      ],
+      "pagina": 21,
+      "imagenes": [
+        "Ensayo n° 8_p21_img0.jpg"
+      ]
+    },
+    {
+      "numero": 57,
+      "enunciado": "57. La distribución de frecuencias de edades de un grupo de jóvenes se muestra en la tabla \n\nadjunta. \n \n \n \n \n \n \n \n \n \n \n\nEdad en \n\nFrecuencia \nacumulada \n10 \n \n8 \n12 \n \n12 \n14 \n3 \n \n16 \n5 \n \n\nFrecuencia \n\naños \n\nabsoluta \n\nUna diferencia de 2 años se da entre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "la mediana y la moda."
+        },
+        {
+          "letra": "B",
+          "texto": "la moda y la media aritmética."
+        },
+        {
+          "letra": "C",
+          "texto": "la media aritmética y la mediana."
+        },
+        {
+          "letra": "D",
+          "texto": "el primer y el tercer cuartil. 21"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": [
+        "Ensayo n° 8_p21_img0.jpg"
+      ]
+    },
+    {
+      "numero": 59,
+      "enunciado": "59. Se lanzan al aire, una moneda de $ 10, una de $ 50, una de $ 100 y una de $ 500. \n\n¿Cuál es la probabilidad de obtener sello en las monedas de $ 10 y $ 50 y cara en las \nmonedas de $ 100 y $ 500?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 1 1 1 + + + 2 2 2 2            "
+        },
+        {
+          "letra": "B",
+          "texto": "1 1 1 1 + + 2 2 2 2             "
+        },
+        {
+          "letra": "C",
+          "texto": "1 1 1 1 + 2 2 2 2              "
+        },
+        {
+          "letra": "D",
+          "texto": "1 1 1 1 2 2 2 2               "
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 60,
+      "enunciado": "60. De una flota de 20 vehículos del mismo modelo y tipo, cinco de ellos presentan defecto \n\nen el silenciador. Si se escoge aleatoriamente un vehículo de esta flota, ¿cuál es la \nprobabilidad que tenga defecto en el silenciador?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20%"
+        },
+        {
+          "letra": "B",
+          "texto": "25%"
+        },
+        {
+          "letra": "C",
+          "texto": "33,3%"
+        },
+        {
+          "letra": "D",
+          "texto": "40% 22"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 61,
+      "enunciado": "61. En una tómbola hay 9 bolitas de igual peso y tamaño. Cinco de ellas son verdes y el \n\nresto amarillas. Si de la urna se extraen dos bolitas al mismo tiempo, ¿cuál es la \nprobabilidad que ambas sean del mismo color?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 9"
+        },
+        {
+          "letra": "B",
+          "texto": "5 9"
+        },
+        {
+          "letra": "C",
+          "texto": "5 18"
+        },
+        {
+          "letra": "D",
+          "texto": "20 81"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 62,
+      "enunciado": "62. Este último 18 de septiembre una empresa organizó una fiesta con 140 personas cada \n\nuna de las cuales se inscribió en una actividad recreativa como se muestra en la tabla \nadjunta. Se sorteó un gran premio entre todos los participantes y Ramón exclamó: \n“apuesto que se lo ganó una de las mujeres que cantó”. ¿Cuál es la probabilidad que \nRamón haya tenido la razón? \n \n \n \n \n \n \n \n\n \nMujer \nHombre \nCanto \n12 \n20 \nBaile \n26 \n25 \nJuego tradicional \n22 \n35",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 5"
+        },
+        {
+          "letra": "B",
+          "texto": "3 8"
+        },
+        {
+          "letra": "C",
+          "texto": "3 35"
+        },
+        {
+          "letra": "D",
+          "texto": "8 15"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": [
+        "Ensayo n° 8_p23_img0.jpg"
+      ]
+    },
+    {
+      "numero": 63,
+      "enunciado": "63. Cuando se lanzan tres monedas, ¿cuál es la probabilidad que se obtengan más sellos \n\nque caras?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,75"
+        },
+        {
+          "letra": "B",
+          "texto": "0,50"
+        },
+        {
+          "letra": "C",
+          "texto": "0,375"
+        },
+        {
+          "letra": "D",
+          "texto": "0,25 23"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 64,
+      "enunciado": "64. En un juego con un dado normal de 6 caras, el jugador X gana si al lanzar el dado \n\nobtiene un número de puntos mayor o igual al número de puntos obtenidos por el \njugador Y. ¿Cuál es la probabilidad que tiene X de ganar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 2"
+        },
+        {
+          "letra": "B",
+          "texto": "2 3"
+        },
+        {
+          "letra": "C",
+          "texto": "7 12"
+        },
+        {
+          "letra": "D",
+          "texto": "13 24"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 65,
+      "enunciado": "65. De los 750 deportistas que pertenecen a un club deportivo, el 60% juega futbol y de \n\nestos, el 80% practica natación. Del total de deportistas que juega fútbol, se elige uno \nal azar, ¿cuál es la probabilidad que NO practique natación?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12%"
+        },
+        {
+          "letra": "B",
+          "texto": "16%"
+        },
+        {
+          "letra": "C",
+          "texto": "20%"
+        },
+        {
+          "letra": "D",
+          "texto": "32% 24"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    }
+  ]
+}

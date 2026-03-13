@@ -1,0 +1,683 @@
+{
+  "archivo_original": "Módulo n°1.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/MODULOS/Módulo n°1.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 18,
+  "fecha_procesamiento": "2026-03-07T23:15:50.624558",
+  "preguntas": [
+    {
+      "numero": 2,
+      "enunciado": "2. \n(0,1 : 0,01) + 0,001 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,101"
+        },
+        {
+          "letra": "B",
+          "texto": "9,09"
+        },
+        {
+          "letra": "C",
+          "texto": "0,002"
+        },
+        {
+          "letra": "D",
+          "texto": "10,001"
+        },
+        {
+          "letra": "E",
+          "texto": "0,01 (Fuente: DEMRE, Publicación 2017)"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi X es la mejor aproximación por defecto a la centésima de 2,64575131 e Y es la \nmejor aproximación por redondeo a la décima de 3,16227766, entonces el valor de  \n(X + Y) es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,84"
+        },
+        {
+          "letra": "B",
+          "texto": "5,74"
+        },
+        {
+          "letra": "C",
+          "texto": "5,75"
+        },
+        {
+          "letra": "D",
+          "texto": "5,85"
+        },
+        {
+          "letra": "E",
+          "texto": "5,76 (Fuente: DEMRE. Publicación 2016)"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nSi M = 1,4 + 4,05; P = 5,6  – 0,21 y  Q = 3,21 + 2,24, ¿cuál de las siguientes \nrelaciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "P > Q > M"
+        },
+        {
+          "letra": "B",
+          "texto": "M = Q > P"
+        },
+        {
+          "letra": "C",
+          "texto": "Q > P > M"
+        },
+        {
+          "letra": "D",
+          "texto": "P > M > Q"
+        },
+        {
+          "letra": "E",
+          "texto": "Q > M > P (Fuente: DEMRE. Publicación 2017) 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn un viaje Pedro se traslada 800 km. La cuarta parte del viaje lo realiza en bus. Las \ntres quintas partes del resto lo hace en avión y lo que queda en tren. ¿Cuántos \nkilómetros anduvo Pedro en tren?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "120 km"
+        },
+        {
+          "letra": "B",
+          "texto": "240 km"
+        },
+        {
+          "letra": "C",
+          "texto": "320 km"
+        },
+        {
+          "letra": "D",
+          "texto": "360 km"
+        },
+        {
+          "letra": "E",
+          "texto": "480 km (Fuente: DEMRE. Publicación 2015)"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSi A\n0,69\n\n; \n25\nB\n36\n\n y \n70\nC\n100\n\n, ¿cuál de las siguientes relaciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "B < A < C"
+        },
+        {
+          "letra": "B",
+          "texto": "B < A = C"
+        },
+        {
+          "letra": "C",
+          "texto": "A = B < C"
+        },
+        {
+          "letra": "D",
+          "texto": "A = B = C"
+        },
+        {
+          "letra": "E",
+          "texto": "A = C < B (Fuente: DEMRE. Publicación 2014)"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi \n3  es aproximadamente 1,7320, entonces \n0,27  aproximado por redondeo a la \n\ncentésima es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,50"
+        },
+        {
+          "letra": "B",
+          "texto": "0,51"
+        },
+        {
+          "letra": "C",
+          "texto": "0,52"
+        },
+        {
+          "letra": "D",
+          "texto": "0,05"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguno de los valores anteriores (Fuente: DEMRE. Publicación 2014)"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nLa notación científica de un número se expresa como a · 10n, donde 1  a < 10 y n es \n\n-6\n\n3\n6,25 · 10\n\nentero.  Luego, la expresión \n\n escrita en notación científica es \n\n2,5 · 10",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25 · 10-10"
+        },
+        {
+          "letra": "B",
+          "texto": "2,5 · 10-11"
+        },
+        {
+          "letra": "C",
+          "texto": "2,5 · 10-10"
+        },
+        {
+          "letra": "D",
+          "texto": "2,5 · 10-9"
+        },
+        {
+          "letra": "E",
+          "texto": "0,25 · 10-8 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nMario planea viajar de la ciudad M a la ciudad N, para lo cual deberá recorrer en su \nauto 1,344 106 m en tres días, de modo que cada día recorrerá la misma distancia. Si \nel primer día Mario recorrerá, adicionalmente a lo que va a recorrer en un día, 11 km \nen su auto para conocer el pueblo donde parará a descansar, ¿cuántos metros \nrecorrerá durante el primer día en su auto, sabiendo que éste lo usará solo para los dos \nmotivos mencionados?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11.000,448 · 106"
+        },
+        {
+          "letra": "B",
+          "texto": "11,448 · 106"
+        },
+        {
+          "letra": "C",
+          "texto": "4,59 · 105"
+        },
+        {
+          "letra": "D",
+          "texto": "4,48011 · 105"
+        },
+        {
+          "letra": "E",
+          "texto": "0,814 · 1010 (Fuente: DEMRE. Publicación 2014)"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Un técnico cobró, en total, $ 48.000 por la reparación de un computador. Si en \n\nrepuestos gastó $ 24.000 y cobra $ 7.500 por hora de trabajo, ¿cuánto tiempo demoró \nen realizar la reparación de ese computador?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 horas y 40 minutos"
+        },
+        {
+          "letra": "B",
+          "texto": "3 horas y 12 minutos"
+        },
+        {
+          "letra": "C",
+          "texto": "6 horas y 24 minutos"
+        },
+        {
+          "letra": "D",
+          "texto": "3 horas y 20 minutos"
+        },
+        {
+          "letra": "E",
+          "texto": "9 horas y 36 minutos (Fuente: DEMRE. Publicación 2017)"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Sea p un número entero positivo múltiplo de 6, q un número entero positivo múltiplo \n\nde 12, r un número divisor de 6 y s un número divisor de 12. ¿Cuál de las siguientes \nexpresiones tiene por resultado siempre un número racional NO entero?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p s"
+        },
+        {
+          "letra": "B",
+          "texto": "r q"
+        },
+        {
+          "letra": "C",
+          "texto": "q p"
+        },
+        {
+          "letra": "D",
+          "texto": "s r"
+        },
+        {
+          "letra": "E",
+          "texto": "s q (Fuente: DEMRE. Publicación 2015) 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Si a la suma de dos números racionales distintos de cero se le suma la unidad, \n\nentonces el resultado es cero. ¿Cuál(es) de las siguientes afirmaciones es (son) \nsiempre verdadera(s)? \n \n \n\nI) \nSi uno de los números es negativo, entonces el otro es positivo. \nII) \nAl sumar los inversos multiplicativos de cada uno de los números, el \nresultado es un número positivo. \nIII) \nLa resta de los números es distinta de cero.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas (Fuente: DEMRE. Publicación 2019)"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Si se ordenan de menor a mayor los siguientes números: \n5 , 2 3 , 3 2 , \n7  y 11\n\n, \n\n3\n\nentonces el término del medio es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "2 3"
+        },
+        {
+          "letra": "C",
+          "texto": "3 2"
+        },
+        {
+          "letra": "D",
+          "texto": "7"
+        },
+        {
+          "letra": "E",
+          "texto": "11 3 (Fuente: DEMRE. Publicación 2014)"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En la recta numérica están ubicados los números negativos R, S y T. Si entre ellos, S es \n\nel que está más cerca del cero, R el que está más lejos del cero y T está entre R y S, \n¿cuál de las siguientes desigualdades NO se cumple?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "–R – T < 0"
+        },
+        {
+          "letra": "B",
+          "texto": "S – R > 0"
+        },
+        {
+          "letra": "C",
+          "texto": "S – T > 0"
+        },
+        {
+          "letra": "D",
+          "texto": "S – R > S – T"
+        },
+        {
+          "letra": "E",
+          "texto": "R – T < 0 (Fuente: DEMRE. Publicación 2016) 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. ¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n \n\nI) \nSi P y Q son números irracionales, entonces P  Q es un número irracional. \nII) \nSi P y Q son números irracionales, entonces (P + Q) es un número \nirracional. \n\nIII) \nSi P es un número irracional y Q es un número entero positivo, entonces P\n\nQ  \n\nes un número irracional.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas (Fuente: DEMRE. Publicación 2016)"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. La mitad de una parcela de 10.000 m2, está dividida en dos partes, que están en la \n\nrazón 1 : 4. La parte menor será utilizada para cultivo, ¿cuántos metros cuadrados \nserán usados para este fin?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "625"
+        },
+        {
+          "letra": "B",
+          "texto": "2.000"
+        },
+        {
+          "letra": "C",
+          "texto": "400"
+        },
+        {
+          "letra": "D",
+          "texto": "1.250"
+        },
+        {
+          "letra": "E",
+          "texto": "1.000 (Fuente: DEMRE. Publicación 2010)"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. En la tabla adjunta z es directamente proporcional a 1\n\ny . Según los datos registrados, el \n\nvalor de a\n\nb , es \n\nz \ny \n8 \n2 \na \n4 \n1 \n16 \n1\n4  \nb",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "256"
+        },
+        {
+          "letra": "B",
+          "texto": "16"
+        },
+        {
+          "letra": "C",
+          "texto": "1 16"
+        },
+        {
+          "letra": "D",
+          "texto": "64"
+        },
+        {
+          "letra": "E",
+          "texto": "1 64 (Fuente: DEMRE. Publicación 2008) 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "Módulo n°1_p14_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Un jardinero planta n rosales. Si se seca el 100% de ellos, ¿cuántos rosales perdió?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "n"
+        },
+        {
+          "letra": "B",
+          "texto": "100n"
+        },
+        {
+          "letra": "C",
+          "texto": "n 100"
+        },
+        {
+          "letra": "D",
+          "texto": "100 n"
+        },
+        {
+          "letra": "E",
+          "texto": "n – 100 (Fuente: DEMRE. Publicación 2011)"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. En una tienda se debe subir todos los precios en un 15%. ¿Por cuál número se deben \n\nmultiplicar los precios antiguos para obtener el nuevo precio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Por 15"
+        },
+        {
+          "letra": "B",
+          "texto": "Por 0,15"
+        },
+        {
+          "letra": "C",
+          "texto": "Por 1,5"
+        },
+        {
+          "letra": "D",
+          "texto": "Por 1,15"
+        },
+        {
+          "letra": "E",
+          "texto": "Depende del precio de cada artículo. (Fuente: DEMRE. Publicación 2009)"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En un corral, p gallinas son blancas, las que corresponden a la quinta parte del total T \n\nde gallinas. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLas gallinas que no son blancas son 4\n\n5 T. \n\nII) \nEl 20% de las gallinas son blancas. \nIII) \nEl número total de gallinas que no son blancas es cuatro veces el número \nde gallinas blancas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III (Fuente: DEMRE. Publicación 2009)"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. En un supermercado trabajan reponedores, cajeros y supervisores. El 60% corresponde \n\na reponedores, los supervisores son 18 y éstos son un tercio de los cajeros. ¿Cuántos \ntrabajadores tiene el supermercado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "54"
+        },
+        {
+          "letra": "B",
+          "texto": "72"
+        },
+        {
+          "letra": "C",
+          "texto": "108"
+        },
+        {
+          "letra": "D",
+          "texto": "120"
+        },
+        {
+          "letra": "E",
+          "texto": "180 (Fuente: DEMRE. Publicación 2009) 15"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Un par de zapatos más dos pantalones valen $ 70.000 en una tienda. Se ofrece una \n\noferta, al comprar dos o más pares de zapatos del mismo precio se descuenta un 10% \nen cada par y por tres o más pantalones del mismo precio un 15% en cada pantalón. \nJuan paga por tres pantalones $ 38.250 y luego, compra dos pares de zapatos. ¿Cuánto \npagó Juan por los dos pares de zapatos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 45.000"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 50.000"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 57.150"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 72.000"
+        },
+        {
+          "letra": "E",
+          "texto": "$ 81.900 (Fuente: DEMRE. Publicación 2008)"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Si un capital C se invierte a una tasa anual de r por ciento de interés compuesto n \n\nveces al año, entonces la cantidad P en la cuenta al final de t años está dada por \n \n\nnt\nr\n1 + 100n\n\n\n\n\n\n\n \n\nP = C \n\n \n\nAl invertir $ 50.000 al 6% anual de interés compuesto trimestralmente, al término de  \n1 año se tendrá, en pesos, una cantidad de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50.000 · (1,06)4"
+        },
+        {
+          "letra": "B",
+          "texto": "50.000 · (1,06)3"
+        },
+        {
+          "letra": "C",
+          "texto": "50.000 · (1,18)4"
+        },
+        {
+          "letra": "D",
+          "texto": "50.000 · (1,015)4"
+        },
+        {
+          "letra": "E",
+          "texto": "50.000 · (1,015)3 (Fuente: DEMRE. Publicación 2009)"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Viviana deposita en una financiera $ 100.000 al 2% de interés compuesto mensual. \n\n¿Cuál es el valor más cercano a lo que ganará al cabo de tres meses, si no hace retiros \nni depósitos en ese periodo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 106.000"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 106.121"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 6.000"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 8.080"
+        },
+        {
+          "letra": "E",
+          "texto": "$ 6.121 (Fuente: DEMRE. Publicación 2010) 16"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. En un país, si se compara la población al final de cada año con la población a fines del \n\naño anterior durante un decenio, se observa que durante los 5 primeros años la \npoblación disminuyó en un 10% cada año y durante los siguientes 5 años, la población \ncreció un 10% anualmente. Si al comienzo del decenio mencionado la población era P0, \n¿cuál de las siguientes afirmaciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Al final de los primeros 5 años la población era 0,5P0."
+        },
+        {
+          "letra": "B",
+          "texto": "Al final del decenio la población era 0,5(1,1)5P0."
+        },
+        {
+          "letra": "C",
+          "texto": "Al final del decenio la población era P0."
+        },
+        {
+          "letra": "D",
+          "texto": "Al final del decenio la población era 50% mayor que la población al final de los primeros 5 años."
+        },
+        {
+          "letra": "E",
+          "texto": "Al final del decenio la población era (0,99)5P0. (Fuente: DEMRE. Publicación 2012) 17"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "archivo_original": "TR 09.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TR 09.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 9,
+  "fecha_procesamiento": "2026-03-07T23:05:40.762969",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n¿Cuál es la ecuación de la recta L de la figura adjunta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x – 2y = 2"
+        },
+        {
+          "letra": "B",
+          "texto": "x + 2y = -2"
+        },
+        {
+          "letra": "C",
+          "texto": "2x – y = -1"
+        },
+        {
+          "letra": "D",
+          "texto": "x – 2y = 1"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TR 09_p5_img5.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nLa suma de los valores de a y b para que las rectas 2x – y = 2b – a   y                     \n\ny \n\nL \n\nx \n\n0 \n\n2 \n\n-1 \n\n3\n2\n\nx – y = 3 – b sean concurrentes en el punto (1,2) es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 2 "
+        },
+        {
+          "letra": "B",
+          "texto": "1 2 "
+        },
+        {
+          "letra": "C",
+          "texto": "21 2"
+        },
+        {
+          "letra": "D",
+          "texto": "–2"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEl triángulo determinado por las rectas x – 1 = 0, y – x = 0   y   x + y = 4 es un \ntriángulo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "equilátero."
+        },
+        {
+          "letra": "B",
+          "texto": "rectángulo."
+        },
+        {
+          "letra": "C",
+          "texto": "obtusángulo."
+        },
+        {
+          "letra": "D",
+          "texto": "acutángulo escaleno. 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \n¿Cuál es la ecuación de la recta que intersecta al eje de las ordenadas en 3, forma un \ntriángulo de área 12 u2 con los ejes coordenados y no pasa por el cuadrante III?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 y = x + 3 8"
+        },
+        {
+          "letra": "B",
+          "texto": "3 y= - x + 3 8"
+        },
+        {
+          "letra": "C",
+          "texto": "3 y= - x 3 8 "
+        },
+        {
+          "letra": "D",
+          "texto": "8 y = x + 3 3"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nLas rectas cuyas ecuaciones son x – 5y + 1 = 0   y   10y – 2x = 22 se caracterizan \nporque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "forman un ángulo de 90º."
+        },
+        {
+          "letra": "B",
+          "texto": "concurren en el origen."
+        },
+        {
+          "letra": "C",
+          "texto": "tienen un único punto en común."
+        },
+        {
+          "letra": "D",
+          "texto": "no tienen punto en común."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \n¿Cuál es la ecuación de la recta que corta al eje de las ordenadas en el mismo punto \nque la recta de ecuación y = 3x – 5 y además pasa por el punto medio del segmento de \nextremos (3,8) y (7,0)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 y x 5 9  "
+        },
+        {
+          "letra": "B",
+          "texto": "9 y = x 5 5 "
+        },
+        {
+          "letra": "C",
+          "texto": "9 y = x 5 4 "
+        },
+        {
+          "letra": "D",
+          "texto": "13 y = x 5 5  a + b = -1 2"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nDado el sistema \n\n, ¿cuál es el valor de a + b? \n\nb\na  \n = 5\n3\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-7"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "7 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \n¿Cuál de las siguientes afirmaciones es verdadera, respecto al sistema 2n  m = 5\n\n\n\n\n? \n\nm  9 = n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m es positivo y n es negativo."
+        },
+        {
+          "letra": "B",
+          "texto": "m es negativo y n es positivo."
+        },
+        {
+          "letra": "C",
+          "texto": "m y n son positivos."
+        },
+        {
+          "letra": "D",
+          "texto": "m y n son negativos. a + b = -1 a b = 5  , ¿cuál es el valor de –ab – (a + b)?"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Dado el sistema \n\n, con m  -n y  m, n  0, el producto xy es igual a \n\nm + n\nx + y = \nmn",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 mn"
+        },
+        {
+          "letra": "B",
+          "texto": "mn"
+        },
+        {
+          "letra": "C",
+          "texto": "m n"
+        },
+        {
+          "letra": "D",
+          "texto": "n m"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Si p = 10 y q = -2, ¿cuál de los siguientes puntos pertenece a la recta L de la figura \n\nadjunta? \n \n \n \n \n \n \n \n \n \n \n\ny \n\np \n\nq \n\nx \n\nL",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1, 12)"
+        },
+        {
+          "letra": "B",
+          "texto": "(1, 14)"
+        },
+        {
+          "letra": "C",
+          "texto": "(1, 15)"
+        },
+        {
+          "letra": "D",
+          "texto": "(1, 16) 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TR 09_p7_img4.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Si 2a – b = 7  y  a + b = 8, entonces a – b =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-10"
+        },
+        {
+          "letra": "B",
+          "texto": "0"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "4 1 2x y = 5 4 3x y = 2 "
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. ¿Cuál es el valor de x2, si \n\n\n\n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Si mx – ny = 1  y  mx + ny = 1, con m, n  0, entonces x =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m-1"
+        },
+        {
+          "letra": "B",
+          "texto": "n-1"
+        },
+        {
+          "letra": "C",
+          "texto": "–m-1"
+        },
+        {
+          "letra": "D",
+          "texto": "–n-1"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Si c + d es igual a 0,75  y  2c – d también es igual a 0,75, ¿cuál es el valor de c – d?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "–0,5"
+        },
+        {
+          "letra": "B",
+          "texto": "–0,25"
+        },
+        {
+          "letra": "C",
+          "texto": "0,25"
+        },
+        {
+          "letra": "D",
+          "texto": "0,5 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    }
+  ]
+}

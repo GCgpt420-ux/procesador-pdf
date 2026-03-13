@@ -1,0 +1,118 @@
+{
+  "filename": "ALGEBRA DE POLINOMIOS.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ALGEBRA DE POLINOMIOS.pdf",
+  "num_paginas": 17,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T16:00:53.860509",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "ÁLGEBRA DE POLINOMIOS \n\n \n\n \n",
+      "cantidad_caracteres": 29,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 1224.9248046875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "MATEMÁTICA\n98\n\n3.\t PRODUCTOS NOTABLES\n\n3.1\t CUADRADO DE BINOMIO\n\nEl cuadrado de un binomio es igual al cuadrado del primer término, más \n(menos) el doble producto del primer término por el segundo término, más \nel cuadrado del segundo término.\n\nOBSERVACIONES\n\n•\t (a – b)2 = (b – a)2\n\n•\t (–a – b)2 = (a + b)2\n\n•\t (–a + b)2 = (b – a)2\n(a  +  b)2  =  a2  +  2ab  +  b2\n(a  ‒  b)2  =  a2  ‒  2ab  +  b2\n\nEJERCICIOS\n\n1.\t (x - y)2  =\n4.\t (6a - 5b)2  =\n\n2.\t (y - x)2  =\n5.\t (-q + 6)2  =\n\n3.\t (2 + 3t)2  =\n6.\t (-2x - 2y)2  =\n",
+      "cantidad_caracteres": 517,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "CAPÍTULO II: ÁLGEBRA 99\n\n7.\t (4 -       )2  =\n1\n4m\n\n12.  (2m - 1)2  =\n\n8.\t (   7 -    6)2  =\n\n13.  (5n + 3n)2  =\n\n9.\t (3   2 - 2   3)2  =\n\n14.  (43n - 4-3n)2  =\n\n10.\t (x2 - y2)2  =\n\n15.  Si i es la unidad imaginaria, entonces ((1 + i)2)4  =\n\n11.  (ax + bx)2  =\n\n16.  (a - b)2 - (b - a)2  =\n",
+      "cantidad_caracteres": 290,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": "MATEMÁTICA\n100\n\n17.\t( x + 2 )2  - 4 (x + 3)  =\n\n18.\tSi a =  -(      n + 1)2 y  b= (-      n + 1 )2, entonces a + b  =\n1\n2\n\n1\n2\n\n19.\tSi  a • b = 12   y   a2 + b2 = 30  , entonces el valor de  ( a – b )2  es\n\n20.\tLa figura adjunta ha sido dividida en dos rectángulos y dos cuadrados de áreas a2  y  b2 . ¿Cuál es el producto \n\nnotable que representa el área del cuadrado ABCD?\n\n21.\tSi  x + y = 4   y   x • y = 13 ,  entonces el valor de   x2  + 3xy  +  y2   es\n\n15.   16\n16.   0\n17. x2 - 8 \n18. -2n\n19.   6 \n20.   (a + b)2\n21.   29\n\n8.      13 - 2   42\n9.   30 - 12    6\n10.    x4 - 2x2 y2 + y4\n11.  a2x + 2 (ab)x + b2x\n 12.   22m - 2m+1 + 1 13.   52n + 2 . 15n + 32n 14.   46n - 2 + 4-6n\n\nm\n1\n\n16m2\n\n1.   x2 - 2xy + y2\n2.   y2 - 2xy + x2 3.   4 + 12t + 9t2\n4.   36a2 - 60ab + 25b2\n5.   q2 - 12q + 36\n6.   4x2 + 8xy + 4y2\n7.   16 -         +   \n\n2\n\nRespuestas\n",
+      "cantidad_caracteres": 858,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": "CAPÍTULO II: ÁLGEBRA 101\n\n3.2\t SUMA POR DIFERENCIA\n\nEl producto de la suma y la diferencia entre dos términos, \nes igual al cuadrado del primer término menos el cuadrado \ndel segundo término.\n\n(x  +  y) (x  ‒  y)  =  x2  ‒  y2\n\n3.3\t BINOMIOS CON TÉRMINO COMÚN\n\nEl producto de dos binomios con un término común es \nigual al cuadrado del término común, más el producto \ndel término común con la suma algebraica de los dos \ntérminos no comunes, más el producto de estos últimos.\n\n(x  +  a) (x  +  b)  =  x2  +  ( a  +  b ) x  +  ab\n\nEJERCICIOS\n\n4.\t (3 ‒    3 ) ( 3 +    3 )  =\n\n1.\t ( x + 11 )( x - 11 )  =\n\n5.\t (5     2 + 4    5) (5    2 - 4   5)  =\n\n2.\t ( 6m - 7)  ( 6m + 7)  =\n\n3.\t ( 5a - 8b)  ( 5a + 8b)  =\n6.\t (x2 + y2) (x2 - y2)  =\n",
+      "cantidad_caracteres": 734,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": "MATEMÁTICA\n102\n\n7.\t           ‒  t     •     t  +            =         \n1\nk\n\n1\nk\n\n12.\t(   7  +  3) (    7 - 5)  =\n\n13.\t   3w  ‒           • ( 3w  +  1 )  =         \n1\n3\n\n8.\t (2n - 3) (2n + 3)  =\n\n9.\t (x - 8) (x + 7)  =\n\n14.\t(4n  -  6) (4n  -  10)  =\n\n15.\t (3 2  -  2 3)  (3 2  +  2 3) - ( 3  +  2)2 \n\n10.\t(a  -  9) (a  - 11)  =\n\n16.\t (x  +  y)  (x  +  y)  -  (x  +  y)  (x  -  y)  +  (x  +  2y)  (x  -  y) \n\n11.\t(x2  +  4) (x2 - 6)  =\n",
+      "cantidad_caracteres": 435,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "CAPÍTULO II: ÁLGEBRA 103\n\n17.\tSi  a Δ b = (a – b)(a – b)   y   a    b = (a + b)(a – b) , entonces ¿cuál es el valor de la expresión  2(p Δ q)  –  3(p  q) ?\n\n18.\t¿Cuál (es) de las siguientes expresiones es (son) equivalentes con la expresión (5m  -  3n)  (5m  + 3n)?\n\na.   252m  - 92n\n\nb.   25m  - 32n\n\nc.   52m  - 9n\n\nd.   5m2  - 3n2\n\ne.   25m2  - 9n2\n\n19.\t(x+3) (x+4) (x-3) (x-4) =\n\n20.  Si  x  +  y  =  4n  y   x  -  y  =   9n, entonces x2 - y2 en función de n es\n\n18.  b, c\n19.  x4 - 25x2 + 144\n20.  62n  \n\n1\n3\n11.   x4 - 2x2 - 24\n12.   -8  -  2 \n 7\n13.  9w2 + 2w -   \n14.   42n - 4n+2 + 60\n15.   1 - 2 \n6\n16.   x2 + 3xy\n17.  -p2 + 5q2 - 4pq\n\nk2\n\n1.   x2 - 121\n2.   36m2 ‒ 49\n3.  25a2 - 64b2 \n4.   6 \n5.   -30\n6.   x4 - y4\n7.          -t2\n8.  22n - 9 \n9.   x2 - x - 56\n10.   a2 - 20a + 99\n1\n\nRespuestas\n",
+      "cantidad_caracteres": 806,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "texto": "MATEMÁTICA\n104\n\n3.4\t CUADRADO DE TRINOMIO\n\n( a  +  b  +  c )2  =  a2  +  b2  +  c2  +  2ab  +  2ac  +  2bc\n\n3.5\t CUBO DE BINOMIO\n\n( a  ±  b )3  =  a3  ±  3a2b  +  3ab2  ±  b3\n\nEJERCICIOS\n\n4.  (b - 5)3  =\n\n1.  (3x  +  y  +  z )2  =\n\n2.  (4  ‒  b  ‒  a )2  =\n\n5.  (2x + 3y)3  =\n\n6.  Si i es la unidad imaginaria, entonces  (2 - i)3  =\n3.  (1 - 2 + 3 )2  =\n",
+      "cantidad_caracteres": 354,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "texto": "CAPÍTULO II: ÁLGEBRA 105\n\n7.  ¿Cuál(es) de las siguientes expresiones es (son) equivalentes a  (x – y)(x – y)(x – y) ?\n\na.  x3  ‒   y3\n\nb.  ( x  ‒  y )3\n\nc.  ( x – y )( x – y )2\n\nd.  ( y – x )3\n\ne.  ( x – y )( y – x )2\n\n8.  (m + n)3 - 3mn (m + n)  =\n\n9.  (p - q) (p2 + pq + q2) - (p - q)3  =\n\n5.  8x3 + 36x2 y + 54xy2 + 27y3\n6.   2 - 11i \n7.  b, c, e\n8.  m3 + n3\n9.  3p2q - 3pq2\n\n1.   9x2 + y2 + z2 + 6xy + 6xz + 2yz 2.   16 + b2 + a2 – 8b – 8a + 2ab 3.   6 - 2 2 + 2 3 - 2 6\n4.  b3 – 15b2 + 75b – 125\n\nRespuestas\n",
+      "cantidad_caracteres": 514,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "texto": "MATEMÁTICA\n106\n\n4.\t FACTORIZACIÓN\n\n4.1\t FACTORIZAR\n\nEs el proceso de escribir un polinomio como producto de sus factores.\n\n4.2\t FACTOR COMÚN\n\nac + ad  =  a (c + d)\nMONOMIO:\nBINOMIO: (a + b)c + (a + b)d  = (a + b)(c + d)\n\nEJERCICIOS\n\n1.\t Al factorizar  48  –  36y  se obtiene\n4.\t (x - y)n + (x - y)m  =\n\n2.\t Al factorizar  4x2y2  –  16x4y2  +  12x3y4  se obtiene\n5.\t p (q - r) - 4(q - r)  =\n\n3.\t 3( a + b )  –  t( a + b )  =\n6.\t m - 1 - x (m - 1)  =\n",
+      "cantidad_caracteres": 449,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "texto": "CAPÍTULO II: ÁLGEBRA 107\n\n7.\t x + y - (x + y)2  =\n12.\t  6n+2 - 6n+1  =\n\n8.\t pq2 (a - b) - p2q (a - b)  =\n13.\t  32n-1 - 32n+3  =\n\n9.\t k (2 + t) + 2 k2 (2 + t)  =\n14.\t  16n - 8n  =\n\n10.\t  ym + y3m  =\n\n15.\t  52n-2 - 52n-1 + 25n  =\n\n11.\t  2n+1 + 2n  =\n\n16.\t  (6m + 6m+1)2  =\n\n13.   -80  •  32n-1\n14.   23n  •  (2n - 1)\n15.   21  •  52n-2\n16.   49  •  62m\n\n7.   (x + y) • (1 – x – y) 8.   p  •  q (a - b) (q - p)\n9.   (2 + t) • k • (1 + 2k)\n10.   ym • (1 + y2m)\n11.   2n  •  3\n12.   5  •  6n+1\n\nRespuestas\n1.   12 • (4 – 3y)\n2.   4x2y2  (1 – 4x2 + 3xy2)\n3.   (a + b) • (3 – t)\n4.    (x – y) • (n + m)\n5.   (q - r)  •  (p - 4) 6.   (m -1)  •  (1 -x)\n",
+      "cantidad_caracteres": 644,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "texto": "MATEMÁTICA\n108\n\n4.3\t DIFERENCIA DE CUADRADOS\na2 ‒ b2  =  ( a + b ) ( a ‒ b )\n\n4.4\t SUMA DE CUBOS\na3 + b3  =  ( a + b ) ( a2 ‒ ab + b2 )\n\n4.5\t DIFERENCIA DE CUBOS\na3 ‒ b3  =  ( a ‒ b ) ( a2 + ab + b2 )\n\nEJERCICIOS\n\n1.\t p2  -  q2   =\n5.\t a4  -  b4   =\n\n2.\t x2  –  36   =\n6.\t 16x4  –  y4   =\n\n1\n\n3.\t 100  -  t2   =\n\n7.\t       -  0,01b2   =\n\na2\n\n4.\t  9m2  -  16t2   =\n8.\t  32n  -  1   =\n",
+      "cantidad_caracteres": 383,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "texto": "CAPÍTULO II: ÁLGEBRA 109\n\n9.\t 52m  ‒  62m   =\n14.  125x3  -  64y3   =\n\n10.  x3  +  1   =\n15.  8a3  +  1000   =\n\na3\n\n1\n125\n\n11.  z3  +  27   =\n16.           -          =\n\n64\n\n12.  p3  -  64   =\n17. 0,216  +  0,027m3   =\n\n13.  r3  -  216   =\n18.  23n  -  33n   =\n\n16.  \n17.   \n18.    (2n - 3n) (4n + 6n + 9n)\n1\n5\n1\n\n1000 (2 + m) (4 -2m + m2)\n\n16\n-\n+\n+\n27\n\n20\na2\n\na\n4\na\n\n25\n\n12.  (p - 4) (p2 + 4p + 16) \n13.  (r - 6) (r2 + 6r + 36)\n14.  (5x - 4y) (25x2 + 20xy + 16y2)\n15.  8 (a + 5) (a2 - 5a + 25)\n\n10\n+\n-\n\n10\nb\n\n1\na\n1\na\n\n6.  (4x2 + y2)  (2x + y)  (2x - y)\n7. \n8.  (3n + 1) (3n - 1) 9.  (5m + 6m) (5m - 6m)\n10.   (x + 1) (x2 - x +1) 11. (z + 3) (z2 -3z +9)\n\nb\n\n1.  (p + q) (p - q) \n2.  (x + 6) (x - 6)\n3.  (10 + t) (10 - t)\n4.  (3m - 4t) (3m + 4t)\n5.   (a2 + b2) (a - b) (a + b)\n\nRespuestas\n",
+      "cantidad_caracteres": 788,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "texto": "MATEMÁTICA\n110\n\n4.6\t TRINOMIO\n\t\nCUADRADO PERFECTO\n\na2  ±  2ab  +  b2  =  ( a  ±  b )2\n\n4.7\t TRINOMIO\n\t\nDE LA FORMA\n\nx2  +  px  +  q  =  ( x  +  a ) • ( x + b )\n\ncon  p = a + b ,  q = ab\n\n4.8\t TRINOMIO\n\t\nDE LA FORMA\n\nax2  +  bx  +  c  = ( ax  +  p) • ( ax  +  q )\n\na\n\ncon  b = p+q ,   ac = pq\n\nEJERCICIOS\n\n1.\t y2 - 2xy + x2  =\n4.\t x4 - 2x2y2 + y4  =\n\n2.\t 16p2 + 8p + 1  =\n5.\t m2 + 13m + 36  =\n\n3.\t 9a2  -  30ab + 25b2  =\n6.\t a2  +  2a - 35  =\n",
+      "cantidad_caracteres": 442,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "texto": "CAPÍTULO II: ÁLGEBRA 111\n\n7.\t y2 - 12y + 32  =\n12.   20b2 - 11b - 3  =\n\n8.\t x2 - 4x - 96  =\n13.   5m2 - 25m + 30  =\n\n9.\t 5a2 + 3a - 2  =\n14.   x2 - 3bx + 2b2  =\n\n10.\t  6x2 - 7x + 2  =\n15.   6x2 - 7ax - 3a2  =\n\n11.\t  12a2 + a - 6  =\n16.   32n - 2 . 6n + 22n  =\n\n15.  (2x - 3a) (3x + a) 16.   (3n - 2n)2\n\n9.  (5a - 2) (a + 1)\n10.   (2x - 1) (3x - 2)\n11.   (4a + 3) (3a - 2)\n12.   (4b - 3) (5b + 1) 13.   5 (m - 3) (m - 2)\n14.   (x - 2b) (x - b)\n\nRespuestas\n1.   (y - x)2 2.   (4p + 1)2\n3.   (3a - 5b)2\n4.   (x + y) (x - y) (x + y) (x - y)\n5.   (m + 4) (m + 9)\n6.   (a +7) (a -5)\n7.   (y - 8) (y - 4) 8.   (x - 12) (x + 8)\n",
+      "cantidad_caracteres": 620,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "texto": "MATEMÁTICA\n112\n\n5.\t FACTORIZACIÓN POR \t \t\n\t\n\t\n\t\nAGRUPACIÓN DE TÉRMINOS\n\nPara factorizar polinomios de cuatro o más términos, éstos se deben agrupar convenientemente de manera de hacer \nfactorizaciones parciales y llegar a una factorización final.\n\nLos casos anteriores de factorización nos conducen a la siguiente estrategia general para factorizar un polinomio.\n\n5.1\t PASOS PARA FACTORIZAR\n\n1.\t Intente factor común.\n\n2.\t Cuente los términos del polinomio.\n\n2.1.\t Si tiene dos términos, intente suma por diferencia, suma de cubos o resta de cubos.\n\n2.2.\t Si tiene tres términos, intente cuadrado de binomio inicialmente, si no, aplique trinomios que no son cuadrados.\n\n2.3.\t Si tiene más de tres términos, agrupe convenientemente.\n\n3. El polinomio debe quedar totalmente factorizado.\n\nOBSERVACIÓN\n\nPara verificar si la factorización es correcta, se desarrolla la expresión factorizada, debiéndose obtener\nla expresión original.\n\nEJERCICIOS\n\n1.\t ax + ay + bx + by  =\n\n3.\t ta + rb + ra + tb  =\n\n2.\t mp",
+      "cantidad_caracteres": 1045,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "texto": "CAPÍTULO II: ÁLGEBRA 113\n\n5.\t qa + qb - ra - rb  =\n10.\t(a + b)2 + a + b  =\n\n6.\t ab + 1 + a + b  =\n11.\t(x - y)2 - x + y   =\n\n7.\t ma + a - mc - c  =\n12.\tp2 - q2 - p - q  =\n\n13.\t7pqy2 - 5y2 - 5x2 + 7pqx2  =\n\n8.\t mx - 4 + m - 4x  =\n\n9.\t x2 + 3z + 3x + xz  =\n\n14.\tax - bx + by + cy - cx - ay   =\n\n8.   (x + 1) (m - 4) 9.   (x + 3) (x + z) 10.  (a + b) (a + b + 1) 11.   (x - y) (x - y - 1) 12.   (p + q) (p - q -1)\n13.  (x2 + y2) (7pq - 5) 14.  (a - b - c) (x -y)\n\nRespuestas\n1.   (a + b) (x + y)\n2.   (m + n) (p - q)\n3.  (t + r) (a + b)\n4.   (m + n) (x - y)\n5.   (q - r) (a + b)\n6.   (a + 1) (b + 1) 7.   (a - c) (m + 1)\n",
+      "cantidad_caracteres": 617,
+      "imagenes": []
+    }
+  ]
+}

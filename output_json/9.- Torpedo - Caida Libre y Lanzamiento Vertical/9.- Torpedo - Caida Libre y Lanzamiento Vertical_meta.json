@@ -1,0 +1,103 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MOVIMIENTOS VERTICALES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.31989924433249,
+          71.9786286731968
+        ],
+        [
+          213.9294710327456,
+          70.71484375
+        ],
+        [
+          213.9294710327456,
+          82.47551202137133
+        ],
+        [
+          82.6484375,
+          82.47551202137133
+        ]
+      ]
+    },
+    {
+      "title": "GR\u00c1FICAS REPRESENTATIVAS DE LOS MOVIMIENTOS VERTICALES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.23046875,
+          428.8726625111309
+        ],
+        [
+          384.32241813602013,
+          428.400390625
+        ],
+        [
+          384.32241813602013,
+          439.3695458593054
+        ],
+        [
+          83.23046875,
+          439.912109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/9.- Torpedo - Caida Libre y Lanzamiento Vertical"
+}

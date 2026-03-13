@@ -1,0 +1,575 @@
+{
+  "archivo_original": "53 9591-MAEL-40_Modelos_Probabilísticos_-_Distribución_Normal_(5_).pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/1.Pedro De Valdivia/M2 Matematicas/Guias/Guias/53 9591-MAEL-40_Modelos_Probabilísticos_-_Distribución_Normal_(5_).pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 15,
+  "fecha_procesamiento": "2026-03-07T22:37:57.332619",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nLa función densidad de probabilidad está dada por f(x) = \n\n \n\n \n\n¿Cuál es el valor para P(X < 0,75)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 8"
+        },
+        {
+          "letra": "B",
+          "texto": "9 64"
+        },
+        {
+          "letra": "C",
+          "texto": "9 32"
+        },
+        {
+          "letra": "D",
+          "texto": "3 32"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nSi X es una variable aleatoria continua con distribución normal estándar, entonces ¿cuál \nde las siguientes afirmaciones es incorrecta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "P(X > x1) = P(X < -x1)"
+        },
+        {
+          "letra": "B",
+          "texto": "P(X > x1) = 1 – P(X < x1)"
+        },
+        {
+          "letra": "C",
+          "texto": "P(X = x1) = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "P(X ≤ x1) > P(X < x1)"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nLos resultados de los estudiantes en un examen final siguen una distribución normal, \ncon una media de 75 puntos y una desviación estándar de 16 puntos. ¿Cuál es la \nprobabilidad de que un estudiante obtenga una calificación superior a 70 puntos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "28%"
+        },
+        {
+          "letra": "B",
+          "texto": "31%"
+        },
+        {
+          "letra": "C",
+          "texto": "69%"
+        },
+        {
+          "letra": "D",
+          "texto": "62%"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn una distribución normal estándar si P(X ≤ -a) = m, entonces P(X ≥ a) =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-m"
+        },
+        {
+          "letra": "B",
+          "texto": "m"
+        },
+        {
+          "letra": "C",
+          "texto": "m – 1"
+        },
+        {
+          "letra": "D",
+          "texto": "1 – m"
+        },
+        {
+          "letra": "E",
+          "texto": "Falta información. Página 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nSi X ~ N(0,1), entonces ¿cuál de las siguientes afirmaciones es incorreta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La probabilidad P(X < 0) es 50%"
+        },
+        {
+          "letra": "B",
+          "texto": "P(X > 1,5) = 1 – P(X  1,5)"
+        },
+        {
+          "letra": "C",
+          "texto": "P(X > -1,5) = 1 – P(X < 1,5)"
+        },
+        {
+          "letra": "D",
+          "texto": "P(X = 0,5) = 0"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSean X y Z variables aleatorias, X con distribución normal con media 100 y desviación \nestándar 16, y Z la tipificada de X con distribución normal estándar. Entonces, ¿cuál es \nla representación gráfica de la probabilidad de que X sea mayor que 124?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": "100 101,5 1,5 16"
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": "1,5 0 1,5 0"
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSea una distribución normal N(24,3; 4,8), entonces ¿cuál de las siguientes afirmaciones \nes incorrecta? \n\n1,5 \n0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "P(X < 4,8) = 0,5"
+        },
+        {
+          "letra": "B",
+          "texto": "La desviación estándar es igual a 4,8."
+        },
+        {
+          "letra": "C",
+          "texto": "La media  es 24,3"
+        },
+        {
+          "letra": "D",
+          "texto": "P(X > 24,3) = 0,5"
+        },
+        {
+          "letra": "E",
+          "texto": "P(19,5  X  29,1)  68%. Página 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nLos resultados del ensayo de una prueba de matemática aplicada por una universidad \nprivada sigue una distribución normal de media 720 puntos y deviación estándar  \n50 puntos. Respecto a esta información, ¿cuál de la siguientes afirmaciones es \nincorrecta, en relación al puntaje obtenido por un estudiante que asiste a rendir el \nensayo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La probabilidad que haya obtenido más de 670 puntos es 84,13%"
+        },
+        {
+          "letra": "B",
+          "texto": "La probabilidad de obtener menos de 820 puntos es 97,72%."
+        },
+        {
+          "letra": "C",
+          "texto": "La probabilidad que el estudiantes obtenga menos de 720 puntos, pero mas de 620 es igual a 47,72%."
+        },
+        {
+          "letra": "D",
+          "texto": "La probabilidad que obtenga menos de 570 puntos es 0,26%."
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nLos promedios obtenidos por los alumnos de un colegio, en su último semestre de \ncuarto medio, tiene una distribución N(5,0; 0,8). ¿Cuál de las siguientes afirmaciones \nNO es correcta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aproximadamente, el 68% de los alumnos tiene promedio entre 4,2 y 5,8."
+        },
+        {
+          "letra": "B",
+          "texto": "Aproximadamente, el 2% de los alumnos tiene promedio menor a 3,4."
+        },
+        {
+          "letra": "C",
+          "texto": "El 0,26 % de los estudiantes tienen un promedio sobre 6,6."
+        },
+        {
+          "letra": "D",
+          "texto": "Un 13,6%, aproximadamente, tiene promedio entre 5,8 y 6,6."
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. En una distribución normal N(90, 15), ¿cuál de las siguientes proposiciones es \n\nverdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "P(90 < x < 105) 0,3413"
+        },
+        {
+          "letra": "B",
+          "texto": "P(60 < x < 90 ) 0,4772"
+        },
+        {
+          "letra": "C",
+          "texto": "P(105 < x < 120) 0,1359"
+        },
+        {
+          "letra": "D",
+          "texto": "Todas las opciones son verdaderas."
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Sean X, W variables aleatorias con distribución N(80,4) y N(120,10), respectivamente. \n\n¿Cuál de las siguientes proposiciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "P(W  130 ) > P(X  84)"
+        },
+        {
+          "letra": "B",
+          "texto": "P(X  92 ) = P(W  90)"
+        },
+        {
+          "letra": "C",
+          "texto": "P(W  120) > P(X  80)"
+        },
+        {
+          "letra": "D",
+          "texto": "P(X ≤ 80) > P( W < 130) Página 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Si una variable aleatoria X tiene una distribución normal con media igual a m y \n\nvarianza igual a p, ¿cuál de las siguientes variables aleatoria tiene distribución normal \nestándar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "W =  X p m"
+        },
+        {
+          "letra": "B",
+          "texto": "Y = X p"
+        },
+        {
+          "letra": "C",
+          "texto": "Z = X + m p"
+        },
+        {
+          "letra": "D",
+          "texto": "Q =  X m p"
+        },
+        {
+          "letra": "E",
+          "texto": "P =  X m p"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Supongamos que la estatura de los varones adultos chilenos es una variable de \n\ndistribución normal con promedio 1,73 m con desviación estándar 7,3 cm. Al escoger \nun chileno adulto al azar, ¿cuál es la probabilidad que mide más 1,8 m? \n \n(Indicación: los valores de la tabla redondéelos a la centésima).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "95%"
+        },
+        {
+          "letra": "B",
+          "texto": "5%"
+        },
+        {
+          "letra": "C",
+          "texto": "17%"
+        },
+        {
+          "letra": "D",
+          "texto": "83%"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "53 9591-MAEL-40_Modelos_Probabilísticos_-_Distribución_Normal_(5_)_p12_img0.jpg",
+        "53 9591-MAEL-40_Modelos_Probabilísticos_-_Distribución_Normal_(5_)_p12_img1.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Si consideramos una población de recién nacidos cuya estatura se distribuye \n\nnormalmente, con una media (μ) de 50 cm y una desviación estándar (σ) de 4 cm. \n¿Cuál es, aproximadamente, la probabilidad de que un niño al nacer mida menos de  \n45 cm?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "89%"
+        },
+        {
+          "letra": "B",
+          "texto": "11%"
+        },
+        {
+          "letra": "C",
+          "texto": "25%"
+        },
+        {
+          "letra": "D",
+          "texto": "0,11% Página 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. El tiempo promedio que un mecánico demora en cambiar una pieza de motor de un \n\nauto es de 51 minutos, con desviación estándar 15 minutos. Si el tiempo tiene una \ndistribución normal y Z es una variable aleatoria de distribución normal estándar, ¿ cuál \nde las siguientes afirmaciones NO es correcta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "P(X < 39) = P         39 51 Z 15"
+        },
+        {
+          "letra": "B",
+          "texto": "P(X < 39) = P(Z > 0,8)"
+        },
+        {
+          "letra": "C",
+          "texto": "P(X < 39) = 1 – P(Z < 0,8)"
+        },
+        {
+          "letra": "D",
+          "texto": "P(X < 39) = 0,2"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Los pesos de 300 deportistas de alto rendimiento  tienen una distribución normal \n\ndefinida como N(75, 10), ¿cuántos de estos deportistas pesan más de 65 kg?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "68,26%"
+        },
+        {
+          "letra": "B",
+          "texto": "52,26%"
+        },
+        {
+          "letra": "C",
+          "texto": "95,44%"
+        },
+        {
+          "letra": "D",
+          "texto": "34,13%"
+        },
+        {
+          "letra": "E",
+          "texto": "84,13%"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Las temperaturas máximas en el mes de diciembre en una ciudad nortina, siguen una \n\ndistribución normal con media 26° y desviación estándar 5°, aproximadamente, ¿en \ncuántos días del mes de diciembre se esperan que las temperaturas estén entre 23° y \n28°? (Indicación: los valores de la tabla redondéelos a la centésima)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "9"
+        },
+        {
+          "letra": "C",
+          "texto": "11"
+        },
+        {
+          "letra": "D",
+          "texto": "7"
+        },
+        {
+          "letra": "E",
+          "texto": "12"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "53 9591-MAEL-40_Modelos_Probabilísticos_-_Distribución_Normal_(5_)_p13_img0.jpg",
+        "53 9591-MAEL-40_Modelos_Probabilísticos_-_Distribución_Normal_(5_)_p13_img1.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Los sueldos mensuales de los recién graduados de un instituto profesional siguen una \n\ndistribución normal con media (μ) de $1.300.000 y desviación estándar (σ) de  \n$ 600.000. ¿Cuál es, aproximadamente, el porcentaje de graduados que reciben entre \n$ 1.000.000 y $ 1.500.000 mensuales?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "63%"
+        },
+        {
+          "letra": "B",
+          "texto": "69%"
+        },
+        {
+          "letra": "C",
+          "texto": "32%"
+        },
+        {
+          "letra": "D",
+          "texto": "6% Página 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Se realizó una prueba de coeficiente intelectual (CI) a un grupo de 1.000 personas. Los \n\nresultados obtenidos presentan una distribución normal con una media (μ) de 100 \npuntos y una desviación estándar (σ) de 20 puntos. ¿Cuánto es la estimación, \naproximada, de las personas que rindieron esta prueba, que tienen un CI entre 95 y \n110 puntos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "290"
+        },
+        {
+          "letra": "B",
+          "texto": "190"
+        },
+        {
+          "letra": "C",
+          "texto": "690"
+        },
+        {
+          "letra": "D",
+          "texto": "600"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Se desea estudiar las características físicas de los habitantes de un pueblo  mayores de \n\n30 años. Si la variable a estudiar es el peso de estos individuos que es una variable \ncontinua, con distribución normal de media 60,5 kg y desviación estándar 5 kg. Según \nestos datos, ¿cuál es a lo más el peso del 75% de los individuos mayores de 30 años de \nesta población?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "64 kg"
+        },
+        {
+          "letra": "B",
+          "texto": "85 kg"
+        },
+        {
+          "letra": "C",
+          "texto": "69 kg"
+        },
+        {
+          "letra": "D",
+          "texto": "68 kg"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Benjamín asiste a da un ensayo de M2 ofrecido por una universidad privada, los \n\npuntajes obtenidos por los estudiantes que asisten obedecen a una distribución normal \ncon media 680 puntos. Es posible determinar la probabilidad que Benjamín hay \nobtenido más de 800 puntos, si se sabe que: \n\n \n(1) asisten 800 estudiantes a este ensayo. \n(2) la desviación estándar de los puntajes es 60 puntos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional Página 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. La variable aleatoria X definida como X  N(,), tiene una distribución normal \n\nestándar, sí: \n\n \n(1) 2 = 1 \n(2)  ·  = 0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional RESPUESTA EJERCICIOS"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    }
+  ]
+}

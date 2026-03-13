@@ -1,0 +1,1960 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ESTAD\u00cdSTICA Y \nCOMBINATORIA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          147.322265625,
+          141.5390625
+        ],
+        [
+          348.853515625,
+          139.9921875
+        ],
+        [
+          348.853515625,
+          197.5010986328125
+        ],
+        [
+          147.322265625,
+          197.5010986328125
+        ]
+      ]
+    },
+    {
+      "title": "5. MEDIDAS DE DISPERSI\u00d3N",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.615234375,
+          94.8564453125
+        ],
+        [
+          424.86962890625,
+          93.4716796875
+        ],
+        [
+          424.86962890625,
+          131.3126220703125
+        ],
+        [
+          41.615234375,
+          131.3126220703125
+        ]
+      ]
+    },
+    {
+      "title": "5.1 RANGO",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.197265625,
+          210.83056640625
+        ],
+        [
+          152.5196990966797,
+          209.44580078125
+        ],
+        [
+          152.5196990966797,
+          232.45318603515625
+        ],
+        [
+          42.197265625,
+          232.45318603515625
+        ]
+      ]
+    },
+    {
+      "title": "5.2 DESVIACI\u00d3N EST\u00c1NDAR O T\u00cdPICA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.51969909667969,
+          278.68408203125
+        ],
+        [
+          385.013671875,
+          277.29931640625
+        ],
+        [
+          384.75958251953125,
+          303.7917785644531
+        ],
+        [
+          42.197265625,
+          303.7917785644531
+        ]
+      ]
+    },
+    {
+      "title": "5.2.1 C\u00c1LCULO DE LA DESVIACI\u00d3N EST\u00c1NDAR PARA DATOS NO AGRUPADOS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.32421875,
+          346.19140625
+        ],
+        [
+          398.69140625,
+          344.806640625
+        ],
+        [
+          398.3197326660156,
+          361.10760498046875
+        ],
+        [
+          40.16015625,
+          361.10760498046875
+        ]
+      ]
+    },
+    {
+      "title": "5.2.2 C\u00c1LCULO DE LA DESVIACI\u00d3N EST\u00c1NDAR PARA DATOS AGRUPADOS EN TABLAS DE FRECUENCIA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.033203125,
+          458.70361328125
+        ],
+        [
+          507.3398742675781,
+          457.31884765625
+        ],
+        [
+          507.3398742675781,
+          473.0760803222656
+        ],
+        [
+          39.869140625,
+          473.0760803222656
+        ]
+      ]
+    },
+    {
+      "title": "5.2.3 C\u00c1LCULO DE LA DESVIACI\u00d3N EST\u00c1NDAR PARA DATOS AGRUPADOS EN INTERVALOS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.033203125,
+          570.17724609375
+        ],
+        [
+          453.693359375,
+          568.79248046875
+        ],
+        [
+          452.8395690917969,
+          585.3280868530273
+        ],
+        [
+          39.869140625,
+          585.3280868530273
+        ]
+      ]
+    },
+    {
+      "title": "5.3 VARIANZA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          93.07808564231738,
+          105.58837890625
+        ],
+        [
+          231.1939546599496,
+          105.58837890625
+        ],
+        [
+          231.1939546599496,
+          121.51318359375
+        ],
+        [
+          93.07808564231738,
+          121.51318359375
+        ]
+      ]
+    },
+    {
+      "title": "C\u00c1LCULO DE LA VARIANZA PARA DATOS NO AGRUPADOS\n5.3.1",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          93.82871536523929,
+          159.248046875
+        ],
+        [
+          406.84130982367753,
+          157.86328125
+        ],
+        [
+          406.84130982367753,
+          169.55978835978837
+        ],
+        [
+          92.833984375,
+          170.326171875
+        ]
+      ]
+    },
+    {
+      "title": "5.3.2\nC\u00c1LCULO DE LA VARIANZA PARA DATOS AGRUPADOS EN TABLAS DE FRECUENCIA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          93.82871536523929,
+          249.60400390625
+        ],
+        [
+          516.433249370277,
+          248.21923828125
+        ],
+        [
+          516.433249370277,
+          258.8412698412699
+        ],
+        [
+          92.833984375,
+          259.98974609375
+        ]
+      ]
+    },
+    {
+      "title": "5.3.3\nC\u00c1LCULO DE LA VARIANZA PARA DATOS AGRUPADOS EN INTERVALOS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          93.82871536523929,
+          334.76708984375
+        ],
+        [
+          463.8891687657431,
+          333.38232421875
+        ],
+        [
+          463.8891687657431,
+          345.8719576719577
+        ],
+        [
+          92.833984375,
+          345.15283203125
+        ]
+      ]
+    },
+    {
+      "title": "5.4 PROPIEDADES DE LA DESVIACI\u00d3N\nEST\u00c1NDAR Y LA VARIANZA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          92.251953125,
+          432.046875
+        ],
+        [
+          443.62216624685135,
+          430.662109375
+        ],
+        [
+          443.62216624685135,
+          473.58984375
+        ],
+        [
+          92.251953125,
+          474.974609375
+        ]
+      ]
+    },
+    {
+      "title": "EJERCICIOS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.890625,
+          100.3955078125
+        ],
+        [
+          110.33464813232422,
+          99.0107421875
+        ],
+        [
+          110.33464813232422,
+          114.4678955078125
+        ],
+        [
+          48.890625,
+          114.4678955078125
+        ]
+      ]
+    },
+    {
+      "title": "6. REPRESENTACI\u00d3N GR\u00c1FICA E\n INTERPRETACI\u00d3N DE GR\u00c1FICOS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.51969909667969,
+          77.20068359375
+        ],
+        [
+          511.24847412109375,
+          75.81591796875
+        ],
+        [
+          511.24847412109375,
+          143.48992919921875
+        ],
+        [
+          42.51969909667969,
+          143.48992919921875
+        ]
+      ]
+    },
+    {
+      "title": "6.1 GR\u00c1FICO DE BARRAS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.181640625,
+          194.90576171875
+        ],
+        [
+          225.537109375,
+          193.52099609375
+        ],
+        [
+          225.537109375,
+          212.1893310546875
+        ],
+        [
+          49.181640625,
+          212.1893310546875
+        ]
+      ]
+    },
+    {
+      "title": "6.2 GR\u00c1FICO CIRCULAR",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.181640625,
+          347.22998046875
+        ],
+        [
+          219.48919677734375,
+          345.84521484375
+        ],
+        [
+          219.48919677734375,
+          365.7562255859375
+        ],
+        [
+          49.181640625,
+          365.7562255859375
+        ]
+      ]
+    },
+    {
+      "title": "6.3 HISTOGRAMA",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.181640625,
+          526.55712890625
+        ],
+        [
+          178.6511993408203,
+          525.17236328125
+        ],
+        [
+          178.6511993408203,
+          542.4422302246094
+        ],
+        [
+          49.181640625,
+          542.4422302246094
+        ]
+      ]
+    },
+    {
+      "title": "EJERCICIOS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          92.833984375,
+          101.43408203125
+        ],
+        [
+          152.85435485839844,
+          100.04931640625
+        ],
+        [
+          152.85435485839844,
+          114.4678955078125
+        ],
+        [
+          91.669921875,
+          114.4678955078125
+        ]
+      ]
+    },
+    {
+      "title": "6.4 POL\u00cdGONO DE FRECUENCIAS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          51.509765625,
+          102.47265625
+        ],
+        [
+          358.240234375,
+          101.087890625
+        ],
+        [
+          358.1954650878906,
+          127.46044921875
+        ],
+        [
+          50.345703125,
+          127.46044921875
+        ]
+      ]
+    },
+    {
+      "title": "6.5 POL\u00cdGONO DE FRECUENCIA\nACUMULADA U OJIVA",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.927734375,
+          365.578125
+        ],
+        [
+          347.6354675292969,
+          364.193359375
+        ],
+        [
+          347.6354675292969,
+          410.6651611328125
+        ],
+        [
+          50.927734375,
+          410.6651611328125
+        ]
+      ]
+    },
+    {
+      "title": "EJERCICIOS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          91.9609375,
+          101.7802734375
+        ],
+        [
+          152.85435485839844,
+          100.3955078125
+        ],
+        [
+          152.85435485839844,
+          114.4678955078125
+        ],
+        [
+          90.796875,
+          114.4678955078125
+        ]
+      ]
+    },
+    {
+      "title": "6.6 GR\u00c1FICO DE CAJA Y BIGOTE",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          51.71549987792969,
+          103.51123046875
+        ],
+        [
+          343.4554443359375,
+          102.12646484375
+        ],
+        [
+          343.4554443359375,
+          127.46044921875
+        ],
+        [
+          51.21875,
+          127.46044921875
+        ]
+      ]
+    },
+    {
+      "title": "6.6.1 TIPOS DE MUESTRA",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          50.63671875,
+          218.79296875
+        ],
+        [
+          213.60546875,
+          217.408203125
+        ],
+        [
+          213.60546875,
+          233.91314697265625
+        ],
+        [
+          50.63671875,
+          233.91314697265625
+        ]
+      ]
+    },
+    {
+      "title": "MUESTRA SIM\u00c9TRICA",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.3671875,
+          248.5654296875
+        ],
+        [
+          151.328125,
+          247.1806640625
+        ],
+        [
+          151.21144104003906,
+          260.5434875488281
+        ],
+        [
+          58.203125,
+          260.5434875488281
+        ]
+      ]
+    },
+    {
+      "title": "MUESTRA POSITIVAMENTE ASIM\u00c9TRICA",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.3671875,
+          387.734375
+        ],
+        [
+          230.484375,
+          386.349609375
+        ],
+        [
+          230.484375,
+          399.1896667480469
+        ],
+        [
+          59.3671875,
+          399.1896667480469
+        ]
+      ]
+    },
+    {
+      "title": "MUESTRA NEGATIVAMENTE ASIM\u00c9TRICA",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.3671875,
+          527.24951171875
+        ],
+        [
+          232.8125,
+          525.86474609375
+        ],
+        [
+          232.8125,
+          538.0873565673828
+        ],
+        [
+          59.3671875,
+          538.0873565673828
+        ]
+      ]
+    },
+    {
+      "title": "EJERCICIOS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          93.125,
+          100.3955078125
+        ],
+        [
+          153.65625,
+          99.0107421875
+        ],
+        [
+          152.85435485839844,
+          114.4678955078125
+        ],
+        [
+          91.9609375,
+          114.4678955078125
+        ]
+      ]
+    },
+    {
+      "title": "7. COMBINATORIA",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          41.615234375,
+          122.5517578125
+        ],
+        [
+          300.9697265625,
+          121.1669921875
+        ],
+        [
+          300.9697265625,
+          153.98980712890625
+        ],
+        [
+          40.451171875,
+          153.98980712890625
+        ]
+      ]
+    },
+    {
+      "title": "7.1 T\u00c9CNICAS DE CONTEO",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          41.32421875,
+          173.44189453125
+        ],
+        [
+          287.2996826171875,
+          172.05712890625
+        ],
+        [
+          287.2996826171875,
+          198.32659912109375
+        ],
+        [
+          40.16015625,
+          198.32659912109375
+        ]
+      ]
+    },
+    {
+      "title": "PRINCIPIO MULTIPLICATIVO",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          53.837890625,
+          273.83740234375
+        ],
+        [
+          186.59315490722656,
+          272.45263671875
+        ],
+        [
+          186.59315490722656,
+          286.2047119140625
+        ],
+        [
+          52.673828125,
+          286.2047119140625
+        ]
+      ]
+    },
+    {
+      "title": "PRINCIPIO ADITIVO",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          53.255859375,
+          333.38232421875
+        ],
+        [
+          147.38209533691406,
+          331.99755859375
+        ],
+        [
+          147.38209533691406,
+          344.7087097167969
+        ],
+        [
+          53.255859375,
+          344.7087097167969
+        ]
+      ]
+    },
+    {
+      "title": "EJERCICIOS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          51.14849853515625,
+          413.3525390625
+        ],
+        [
+          110.5859375,
+          411.9677734375
+        ],
+        [
+          110.5859375,
+          425.924560546875
+        ],
+        [
+          51.14849853515625,
+          425.924560546875
+        ]
+      ]
+    },
+    {
+      "title": "7.2 FACTORIALES",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          93.70703125,
+          105.2421875
+        ],
+        [
+          260.16796875,
+          105.2421875
+        ],
+        [
+          259.93609619140625,
+          127.46044921875
+        ],
+        [
+          92.54296875,
+          127.46044921875
+        ]
+      ]
+    },
+    {
+      "title": "EJERCICIOS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          92.251953125,
+          307.76416015625
+        ],
+        [
+          152.85435485839844,
+          306.37939453125
+        ],
+        [
+          152.85435485839844,
+          321.5219421386719
+        ],
+        [
+          92.251953125,
+          321.5219421386719
+        ]
+      ]
+    },
+    {
+      "title": "7.3 PERMUTACIONES",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          50.345703125,
+          105.2421875
+        ],
+        [
+          252.310546875,
+          103.857421875
+        ],
+        [
+          251.87049865722656,
+          127.46044921875
+        ],
+        [
+          49.181640625,
+          127.46044921875
+        ]
+      ]
+    },
+    {
+      "title": "PERMUTACI\u00d3N SIMPLE O LINEAL",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          62.568359375,
+          183.4814453125
+        ],
+        [
+          270.353515625,
+          182.0966796875
+        ],
+        [
+          269.8348388671875,
+          201.16162109375
+        ],
+        [
+          61.404296875,
+          201.16162109375
+        ]
+      ]
+    },
+    {
+      "title": "PERMUTACI\u00d3N CON REPETICI\u00d3N",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          63.02690124511719,
+          253.06591796875
+        ],
+        [
+          274.71875,
+          251.68115234375
+        ],
+        [
+          274.71875,
+          274.6656188964844
+        ],
+        [
+          63.02690124511719,
+          274.6656188964844
+        ]
+      ]
+    },
+    {
+      "title": "PERMUTACI\u00d3N CIRCULAR",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          62.859375,
+          350.345703125
+        ],
+        [
+          229.37350463867188,
+          348.9609375
+        ],
+        [
+          229.37350463867188,
+          369.3348388671875
+        ],
+        [
+          62.859375,
+          369.3348388671875
+        ]
+      ]
+    },
+    {
+      "title": "EJERCICIOS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          50.63671875,
+          457.6650390625
+        ],
+        [
+          110.33464813232422,
+          456.2802734375
+        ],
+        [
+          110.33464813232422,
+          471.862548828125
+        ],
+        [
+          49.47265625,
+          471.862548828125
+        ]
+      ]
+    },
+    {
+      "title": "7.4 VARIACIONES O ARREGLOS",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          93.416015625,
+          105.2421875
+        ],
+        [
+          385.2005310058594,
+          103.857421875
+        ],
+        [
+          385.2005310058594,
+          127.46044921875
+        ],
+        [
+          92.251953125,
+          127.46044921875
+        ]
+      ]
+    },
+    {
+      "title": "VARIACIONES SIN REPETICI\u00d3N",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          105.056640625,
+          175.1728515625
+        ],
+        [
+          302.365234375,
+          173.7880859375
+        ],
+        [
+          301.8510437011719,
+          193.9058837890625
+        ],
+        [
+          103.892578125,
+          193.9058837890625
+        ]
+      ]
+    },
+    {
+      "title": "VARIACIONES CON REPETICI\u00d3N",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          104.765625,
+          250.29638671875
+        ],
+        [
+          311.96875,
+          248.91162109375
+        ],
+        [
+          310.8046875,
+          269.16571044921875
+        ],
+        [
+          103.6015625,
+          269.16571044921875
+        ]
+      ]
+    },
+    {
+      "title": "OBSERVACI\u00d3N",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          99.236328125,
+          353.115234375
+        ],
+        [
+          159.21234130859375,
+          351.73046875
+        ],
+        [
+          159.21234130859375,
+          364.47723388671875
+        ],
+        [
+          99.236328125,
+          364.47723388671875
+        ]
+      ]
+    },
+    {
+      "title": "EJERCICIOS",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          92.54296875,
+          415.4296875
+        ],
+        [
+          152.85435485839844,
+          415.4296875
+        ],
+        [
+          152.85435485839844,
+          428.5465393066406
+        ],
+        [
+          92.54296875,
+          428.5465393066406
+        ]
+      ]
+    },
+    {
+      "title": "7.5 COMBINACIONES",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          49.541561712846345,
+          105.2421875
+        ],
+        [
+          255.21410579345087,
+          103.857421875
+        ],
+        [
+          255.21410579345087,
+          120.474609375
+        ],
+        [
+          48.890625,
+          121.859375
+        ]
+      ]
+    },
+    {
+      "title": "COMBINACI\u00d3N SIN REPETICI\u00d3N",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          61.551637279596974,
+          175.51904296875
+        ],
+        [
+          268.7254408060453,
+          174.13427734375
+        ],
+        [
+          268.7254408060453,
+          190.05908203125
+        ],
+        [
+          61.11328125,
+          191.44384765625
+        ]
+      ]
+    },
+    {
+      "title": "COMBINACI\u00d3N CON REPETICI\u00d3N",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          61.551637279596974,
+          250.642578125
+        ],
+        [
+          277.337890625,
+          249.2578125
+        ],
+        [
+          276.9823677581864,
+          264.84338624338625
+        ],
+        [
+          61.404296875,
+          265.875
+        ]
+      ]
+    },
+    {
+      "title": "EJERCICIOS",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          50.29219143576826,
+          400.8896484375
+        ],
+        [
+          111.75,
+          400.8896484375
+        ],
+        [
+          111.09319899244332,
+          411.9677734375
+        ],
+        [
+          50.29219143576826,
+          411.9677734375
+        ]
+      ]
+    },
+    {
+      "title": "EJERCICIOS",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          92.833984375,
+          293.22412109375
+        ],
+        [
+          152.85435485839844,
+          293.22412109375
+        ],
+        [
+          152.85435485839844,
+          306.5150451660156
+        ],
+        [
+          92.833984375,
+          306.5150451660156
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Figure",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ESTAD\u00cdSTICA COMBINATORIA"
+}

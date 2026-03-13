@@ -1,0 +1,715 @@
+{
+  "archivo_original": "Ma 22.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 22.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 10,
+  "fecha_procesamiento": "2026-03-07T23:04:31.539734",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEl par ordenado (1, 3) es solución de \n \n\nCUADERNO DE EJERCICIOS N° 22 \n\nSISTEMAS DE ECUACIONES \n\nI) \n3x  y = 0\nx + 3y = 3\n\n\n  \n\nII) \nx  y = -2\n3x + y = 6\n\n\n \n\nIII) \nx + y = 4\n\ny  x = 2\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III k 3x y = 2 2 4tx + 3y = -2  , los valores de"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nPara que el par ordenado (2, -1) sea solución del sistema \n\nk  y  t  deben cumplir que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uno de ellos es 1 8 y el otro es su recíproco."
+        },
+        {
+          "letra": "B",
+          "texto": "uno de ellos es -8 y el otro es el recíproco de su inverso aditivo."
+        },
+        {
+          "letra": "C",
+          "texto": "uno de ellos es el inverso multiplicativo de -8 y el otro es su recíproco."
+        },
+        {
+          "letra": "D",
+          "texto": "uno de ellos es el recíproco de - 1 8 y el otro es el opuesto de -8. 2 x + 0,3 y = 6 3"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nDado el sistema  \n\n , los valores de x e y son iguales a \n\n2\n0,3 x + \n y = 7\n3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x = 5 y = 8"
+        },
+        {
+          "letra": "B",
+          "texto": "x = 5 y = -8"
+        },
+        {
+          "letra": "C",
+          "texto": "x = -8 y = 5"
+        },
+        {
+          "letra": "D",
+          "texto": "x = 8 y = 5"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \n¿Cuál de los siguientes pares ordenados es solución del sistema 3x + 5y = 12\n\n5x + 3y = 4\n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1, 3)"
+        },
+        {
+          "letra": "B",
+          "texto": "(3, 1)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-3, 1)"
+        },
+        {
+          "letra": "D",
+          "texto": "(-1, 3)"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \n¿Cuál de los siguientes sistemas está compuesto por dos ecuaciones lineales?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2xy 3y 7 x y 0    "
+        },
+        {
+          "letra": "B",
+          "texto": "2 2 x + y 1  4x y 0  "
+        },
+        {
+          "letra": "C",
+          "texto": "3x 2y 0 3x 2y 2     x 2 y y x y 7  "
+        },
+        {
+          "letra": "D",
+          "texto": " "
+        },
+        {
+          "letra": "E",
+          "texto": "x 4y 2 (x"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s), respecto del sistema \n\nx + y = 4\n\nx  y = 6\n\n? \n\n \n\nI) \n(x + y)(x – y) = 24 \nII) \n2x = 10 \nIII) \n2y = -2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEl punto de intersección de las rectas 4x = 3y + 18   e   y = -2(x – 2), es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-2, 3)"
+        },
+        {
+          "letra": "B",
+          "texto": "(2, -3)"
+        },
+        {
+          "letra": "C",
+          "texto": "(3, -2)"
+        },
+        {
+          "letra": "D",
+          "texto": "(2, 3)"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nDadas las rectas  L1 : 4 = 2x + y,   L2 : 4x – 2 = y, la gráfica que las representa es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "B)"
+        },
+        {
+          "letra": "C",
+          "texto": "D) y y y y 4 4 4 4 2 -0,5 -0,5 -2 2 x 2 x x 0,5 x -2 -2 -2 -2"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \n¿Cuál de los siguientes gráficos representa la intersección de las rectas y = -2x + 2 con \nla recta y = 2? \n \n \n \n\ny \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": "y 2 2 x 0 2 x 0 x 0 y"
+        },
+        {
+          "letra": "D",
+          "texto": "2 x 0 1 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 22_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. En el sistema x + y = a  b\n\n\n\n, xy\n4\n es igual a  \n\nx  y = a + b",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4ab"
+        },
+        {
+          "letra": "B",
+          "texto": "-4ab"
+        },
+        {
+          "letra": "C",
+          "texto": "a2 – b2 2 2 a b "
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Dado el sistema\nx  3y = 2\n6x + 5y = -34\n\n\n, entonces el valor de x – y es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "-2"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En  el sistema 2x  3y  6p = 0\n\n\n\n, y\n\nx es igual a \n\nx + 2y + 2p = 0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 - 3"
+        },
+        {
+          "letra": "B",
+          "texto": "3 5"
+        },
+        {
+          "letra": "C",
+          "texto": "3 - 5"
+        },
+        {
+          "letra": "D",
+          "texto": "5 3 2 2 ax + by = a b  , con a  b, entonces y – x ="
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Si  \n\nay + bx = 0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-(a + b)"
+        },
+        {
+          "letra": "B",
+          "texto": "a – b"
+        },
+        {
+          "letra": "C",
+          "texto": "b – a"
+        },
+        {
+          "letra": "D",
+          "texto": "a + b 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Si  \n\n, entonces x · y =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 p + q 2 2 2"
+        },
+        {
+          "letra": "B",
+          "texto": "p q "
+        },
+        {
+          "letra": "C",
+          "texto": "2 p q  2 2 4"
+        },
+        {
+          "letra": "D",
+          "texto": "p q "
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. ¿Qué valor debe tener k en el sistema de ecuaciones \n\n2x  y = -4\n-kx + 3y = 10  para que su \n\ngráfica represente dos rectas paralelas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "k  6"
+        },
+        {
+          "letra": "B",
+          "texto": "k = 2"
+        },
+        {
+          "letra": "C",
+          "texto": "k = 6"
+        },
+        {
+          "letra": "D",
+          "texto": "k  2"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En un curso mixto de 40 alumnos, los hombres son 8 menos que las mujeres. ¿Cuántas \n\nmujeres faltaron en un día que asistieron 2\n\n3  de ellas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "32"
+        },
+        {
+          "letra": "B",
+          "texto": "24"
+        },
+        {
+          "letra": "C",
+          "texto": "16"
+        },
+        {
+          "letra": "D",
+          "texto": "8"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. En una caja hay naranjas y limones. Una naranja pesa 1\n\n4  kg y un limón pesa la mitad \n\nde una naranja. Si en la caja hay en total 60 unidades y el peso es de 12 kg, \ndescontando el peso de la caja, ¿cuántas naranjas hay?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "24"
+        },
+        {
+          "letra": "C",
+          "texto": "36"
+        },
+        {
+          "letra": "D",
+          "texto": "40 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Un vehículo ha recorrido pq kilómetros, donde p es el dígito de las decenas y q el dígito \n\nde las unidades. La suma de los dígitos que componen dicho número es ocho. Dieciocho \nkilómetros más adelante ha recorrido qp kilómetros, donde q es el digito de las decenas \ny p el dígito de las unidades. ¿Cuál de los siguientes sistemas permite determinar los \nkilómetros recorridos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p q 8 p q 10q p 18      "
+        },
+        {
+          "letra": "B",
+          "texto": "p q 8 10q p 10p q 18      "
+        },
+        {
+          "letra": "C",
+          "texto": "p q 8 p q 18 10p q      "
+        },
+        {
+          "letra": "D",
+          "texto": "p q 8 10q p 18 10p q      "
+        },
+        {
+          "letra": "E",
+          "texto": "p q 8 p q 18 10p q       (Fuente. DEMRE. Publicación 2014)"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Don Pedro compra 26 animales para su corral entre conejos y gallinas. Los conejos \n\nvalen $ 1.400 y las gallinas valen $ 1.800. Si el total gastado en estos animales fue                 \n$ 42.800, entonces ¿cuántos conejos compró?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "13"
+        },
+        {
+          "letra": "D",
+          "texto": "16"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Un microempresario decide incentivar a sus empleados ofreciéndoles reajuste salarial. \n\nSi da $ 14.000 a cada uno, 3 de ellos quedan sin aumento, por otro lado, si a cada uno \nle ofrece $ 7.500, alcanza para todos y sobran $ 3.500. ¿Cuántos empleados tiene la \nmicroempresa?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "7"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "9 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Luis tiene el triple de la edad que tenía Anita hace 3 años. Si en 3 años más, Anita       \n\ntendrá tan sólo la mitad de la edad que tendrá Luis, menos 3 años, ¿qué edad tiene \nLuis?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 años"
+        },
+        {
+          "letra": "B",
+          "texto": "18 años"
+        },
+        {
+          "letra": "C",
+          "texto": "36 años"
+        },
+        {
+          "letra": "D",
+          "texto": "45 años"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Juan ahorró dinero juntando un total de 65 monedas entre $ 100 y $ 500. En total \n\nahorró $ 7.300. ¿Cuál de los siguientes sistemas permite encontrar la cantidad (y) de \nmonedas de $ 500, sabiendo que x son las monedas de $ 100?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "500x + 100y = 65 x + y = 7300"
+        },
+        {
+          "letra": "B",
+          "texto": "x + y = 65 500x + 100y = 7300"
+        },
+        {
+          "letra": "C",
+          "texto": "x + y = 65 100x + 500y = 7300"
+        },
+        {
+          "letra": "D",
+          "texto": "x + y = 65 x + y = 7300"
+        },
+        {
+          "letra": "E",
+          "texto": "x + y = 65 xy = 7300 (Fuente: DEMRE. Publicación 2015)"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Don Pedro realiza un viaje a su campo distante 84 kilómetros del lugar de partida. \n\nRecorre un camino pavimentado a una rapidez V y en un tiempo T, luego un camino \nripiado donde su velocidad se ve reducida a la mitad y su tiempo a la tercera parte de \nlo que fuera en pavimento, logrando su cometido en un tiempo total de 6 horas. \n¿Cuántos kilómetros recorrió en pavimento?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 km"
+        },
+        {
+          "letra": "B",
+          "texto": "72 km"
+        },
+        {
+          "letra": "C",
+          "texto": "68 km"
+        },
+        {
+          "letra": "D",
+          "texto": "48 km"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Para generar una mezcla de 50 litros al 25% de salinidad con dos soluciones una al \n\n20% (A) y la otra al 30% (B) de salinidad. ¿Cuántos litros de ambas soluciones \nrespectivamente se utilizó en la mezcla? \n \n\n    A \n   B",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25 y 25"
+        },
+        {
+          "letra": "B",
+          "texto": "20 y 30"
+        },
+        {
+          "letra": "C",
+          "texto": "30 y 20"
+        },
+        {
+          "letra": "D",
+          "texto": "27,5 y 22,5"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. En el sistema de ecuación \n3x + 5y = 11\n6x + 10y = 22 , las rectas\n\n \n \n\nI) \nse cortan en el origen. \nII) \nson coincidentes. \nIII) \nson paralelas no coincidentes. \n \nEs (son) verdadera(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "solo I."
+        },
+        {
+          "letra": "B",
+          "texto": "solo II."
+        },
+        {
+          "letra": "C",
+          "texto": "solo III."
+        },
+        {
+          "letra": "D",
+          "texto": "solo II y III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III. 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. Se construye un rectángulo con un cordel de 40 cm. Si la razón entre sus lados es  \n\n1 : 3, entonces el área del rectángulo mide",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "300 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "275 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "125 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "75 cm2"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Un niño con $ 410 compra 34 dulces: unos de $ 10 y otros de $ 15. ¿Cuántos dulces de \n\n$ 10 compró?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "14"
+        },
+        {
+          "letra": "C",
+          "texto": "20"
+        },
+        {
+          "letra": "D",
+          "texto": "23"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29.  La suma de dos números, x  e  y, es 1 y su diferencia es 10, ¿cuál es el valor de cada \n\nuno de ellos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x = 11 2 y = 9 2"
+        },
+        {
+          "letra": "B",
+          "texto": "x = 11 2 y = - 9 2"
+        },
+        {
+          "letra": "C",
+          "texto": "x = - 11 2 y = 9 2"
+        },
+        {
+          "letra": "D",
+          "texto": "x = 11 2 y = 2 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30.  Si el producto de dos números es 240 y la suma de sus valores recíprocos es \n5\n40 , \n\nentonces la suma de ellos es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-30"
+        },
+        {
+          "letra": "B",
+          "texto": "- 5 40"
+        },
+        {
+          "letra": "C",
+          "texto": "5 6"
+        },
+        {
+          "letra": "D",
+          "texto": "30 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    }
+  ]
+}

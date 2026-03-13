@@ -1,0 +1,2243 @@
+{
+  "archivo_original": "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/2016/4889-Ensayo Ex Cátedra Nº 3 Matemática 2016.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 27,
+  "fecha_procesamiento": "2026-03-07T23:12:47.480263",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1.300 postulantes que dieron esta prueba. Si el 75% de los estudiantes obtuvo un \npuntaje igual o mayor que x, entonces x pertenece al intervalo \n \n \n\nIntervalo \nPuntajes \nPostulantes \n1 \n[0 - 4[ \n100",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \n1\n1  \n1\n1  \n1\n1  3\n\n = \n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "3"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi a = 0,1, entonces ¿cuál(es) de los siguientes valores no puede tomar la expresión \n\n2\n3\n\n-1\na   a\n\n\n? \n\na\n\n \n \n\nI) \n9 ∙ 10-4 \nII) \n1,1 ∙ 10-3 \nIII) \n0,9 ∙ 10-3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo I y III 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \n¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n\n \n\nI) \nLos números decimales infinitos son irracionales. \nII) \nEl número , escrito con tres cifras significativas, es un número racional. \nIII) \nToda raíz de cantidad subradical real, es un número real.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nSi A = 1,246 , ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n\n \n\nI) \nAl truncar A a la centésima, resulta una aproximación por defecto. \nII) \nAl redondear A a la milésima, resulta una aproximación por exceso. \nIII) \nEscribir A con 2 cifras significativas, es lo mismo que truncarlo a la décima.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III -1 3 2 3 + 5 3 4       "
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSi P = \n\n, entonces P aproximado por redondeo a la centésima es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,50"
+        },
+        {
+          "letra": "B",
+          "texto": "1,47"
+        },
+        {
+          "letra": "C",
+          "texto": "1,46"
+        },
+        {
+          "letra": "D",
+          "texto": "0,69"
+        },
+        {
+          "letra": "E",
+          "texto": "0,68"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi a es dos tercios de b, b es tres cuartos de c, siendo c un número positivo, entonces \nel orden creciente entre a, b y c es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a, b, c"
+        },
+        {
+          "letra": "B",
+          "texto": "a, c, b"
+        },
+        {
+          "letra": "C",
+          "texto": "c, b, a"
+        },
+        {
+          "letra": "D",
+          "texto": "b, c, a"
+        },
+        {
+          "letra": "E",
+          "texto": "c, a, b 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEl resultado de la expresión (2\n2 – 3)2 (2\n2  + 3) – (2 2 – 3)(2\n2 +3)2\n\n es un número",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "decimal."
+        },
+        {
+          "letra": "B",
+          "texto": "natural."
+        },
+        {
+          "letra": "C",
+          "texto": "entero no positivo."
+        },
+        {
+          "letra": "D",
+          "texto": "irracional."
+        },
+        {
+          "letra": "E",
+          "texto": "imaginario puro."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSi n es un número natural, an + 1 = an + 2n  y  a5 = 12, entonces a1 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-16"
+        },
+        {
+          "letra": "B",
+          "texto": "-12"
+        },
+        {
+          "letra": "C",
+          "texto": "-6"
+        },
+        {
+          "letra": "D",
+          "texto": "-8"
+        },
+        {
+          "letra": "E",
+          "texto": "10"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Si a = 1\n\n7 , b = \n2\n\n y c = \n2\n10  , entonces el orden correcto de estos números es \n\n8 3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "c < b < a"
+        },
+        {
+          "letra": "B",
+          "texto": "c < a < b"
+        },
+        {
+          "letra": "C",
+          "texto": "a < b < c"
+        },
+        {
+          "letra": "D",
+          "texto": "a < c < b"
+        },
+        {
+          "letra": "E",
+          "texto": "b < a < c"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Si i es la unidad imaginaria y el término general de una sucesión es an = in + 1 – in - 1,  \n\ndonde n es un número natural, entonces la suma de los 20 primeros términos de esta \nsucesión es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2i"
+        },
+        {
+          "letra": "B",
+          "texto": "2 – 2i"
+        },
+        {
+          "letra": "C",
+          "texto": "2i"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "0"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Si x = 0,1, entonces  2x-2 + x-1 + 2 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "212"
+        },
+        {
+          "letra": "B",
+          "texto": "112"
+        },
+        {
+          "letra": "C",
+          "texto": "62"
+        },
+        {
+          "letra": "D",
+          "texto": "2,12"
+        },
+        {
+          "letra": "E",
+          "texto": "2,003 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Si z = 2 – 3i, entonces la relación de orden correcta de los módulos de los números \n\ncomplejos z1 = z ∙ z ;  z2 = z + z  y  z3 = z - z  será",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "z2 < z1 < z3"
+        },
+        {
+          "letra": "B",
+          "texto": "z2 < z3 < z1"
+        },
+        {
+          "letra": "C",
+          "texto": "z3 < z2 < z1"
+        },
+        {
+          "letra": "D",
+          "texto": "z3 < z1 < z2"
+        },
+        {
+          "letra": "E",
+          "texto": "z1 < z2 < z3"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. ¿Cuál(es) de las siguientes expresiones representa(n) un número real? \n\n \n\nI) \n9  3 10\n\n \n\nII) \n3  5\n3\n3\n1\n1\n  \n  \n4\n2\n4\n\n\n\n \n\n\n\n\nIII) \n2\n(3  2 3)\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas."
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Si 2   1,4 y \n5   2,2, entonces 10  escrito con dos cifras significativas es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,1"
+        },
+        {
+          "letra": "B",
+          "texto": "3,0"
+        },
+        {
+          "letra": "C",
+          "texto": "2,9"
+        },
+        {
+          "letra": "D",
+          "texto": "3,2"
+        },
+        {
+          "letra": "E",
+          "texto": "3,3 a 1"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En los números reales positivos se define ab = \nab\na + b . Si ab = 1\n\nb , entonces ¿cuál \n\nde las siguientes proposiciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a – b = 1"
+        },
+        {
+          "letra": "B",
+          "texto": "a – b = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "a + b = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "ab = 1"
+        },
+        {
+          "letra": "E",
+          "texto": "ab = a + b 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Si M12 = 5.000   y  \n\nN = 10, entonces ¿cuál es el valor de MN?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "50"
+        },
+        {
+          "letra": "D",
+          "texto": "100"
+        },
+        {
+          "letra": "E",
+          "texto": "500"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n\n \n\nI) \nEl área de un cuadrado de lado (a + 2) es  (a2 + 2a + 4). \nII) \nSi el perímetro de un triángulo equilátero es (3x + 1), entonces el lado del \n\ntriángulo es \n1\nx + 3\n\n\n\n\n\n\n\n. \n\nIII) \nLa diagonal de un rectángulo de lados ( 10  + 1) y ( 10  – 1) es 3.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Si n es un número natural, ¿cuál de las siguientes proposiciones es siempre FALSA? \n \n\n3\n2\na  > a.",
+      "alternativas": [
+        {
+          "letra": "B",
+          "texto": "Si 0 < a < 1, entonces a > a2."
+        },
+        {
+          "letra": "C",
+          "texto": "Si n > 1 y 0 < a < 1, entonces an - 1 < an."
+        },
+        {
+          "letra": "D",
+          "texto": "Si a > 1, entonces an + 1 > an > an-1."
+        },
+        {
+          "letra": "E",
+          "texto": "Si 0 < a < 1, entonces a5n – 2 > a5n – 1."
+        },
+        {
+          "letra": "A",
+          "texto": "Si a > 1, entonces"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. \n1\n1\n1\n + \n + \npq\nqr\npr  = \n\n \n\n2 2 2\np + q + r",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p q r"
+        },
+        {
+          "letra": "B",
+          "texto": "p + q + r pqr"
+        },
+        {
+          "letra": "C",
+          "texto": "pr + rq + pq pqr 2 2 2 2 2 2 p + q +r"
+        },
+        {
+          "letra": "D",
+          "texto": "p q r 2 2 2 p + q + r"
+        },
+        {
+          "letra": "E",
+          "texto": "pqr 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. La suma de los dígitos de un número de dos cifras es 11, donde x es la cifra de las \n\ndecenas e y  es la cifra de las unidades. Al invertir las cifras el nuevo número excede \nen 9 unidades al número original. ¿En cuál de los siguientes sistemas está representado \neste problema?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x + y = 11 y x = 1 "
+        },
+        {
+          "letra": "B",
+          "texto": "x + y = 11 10x + y = 9"
+        },
+        {
+          "letra": "C",
+          "texto": "x y = 11   x y = 1"
+        },
+        {
+          "letra": "D",
+          "texto": "x + y = 11 x y = 1 "
+        },
+        {
+          "letra": "E",
+          "texto": "x + y = 11 x y = 9 "
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. La solución de la inecuación 2x – 3  7  es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "]-2,5]"
+        },
+        {
+          "letra": "B",
+          "texto": "[-2 , 5]"
+        },
+        {
+          "letra": "C",
+          "texto": "]-, -2]"
+        },
+        {
+          "letra": "D",
+          "texto": "[5, +["
+        },
+        {
+          "letra": "E",
+          "texto": "]-, 5]"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. ¿Para cuál de los siguientes valores de k la solución de la ecuación en x, \n\n kx – x – 2k + 1 = 0 es un número entero negativo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2"
+        },
+        {
+          "letra": "B",
+          "texto": "0"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguno de los valores dados."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Felipe fue a la librería y compro 15 artículos entre lápices y cuadernos. Si cada \n\ncuaderno le costó $ 1.200, cada lápiz $ 520 y pagó en total $ 14.600, entonces \n¿cuántos lápices compró?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "7"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "10"
+        },
+        {
+          "letra": "E",
+          "texto": "12 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. ¿Cuál de los siguientes números  satisfacen la igualdad (2x – 1)2 + 4 = 0?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 – 2i"
+        },
+        {
+          "letra": "B",
+          "texto": "1 – i"
+        },
+        {
+          "letra": "C",
+          "texto": "1 i 2 "
+        },
+        {
+          "letra": "D",
+          "texto": "3 2"
+        },
+        {
+          "letra": "E",
+          "texto": "1 + 2i"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. Si las aristas de un paralelepípedo corresponden a tres números consecutivos, siendo el \n\nmenor de ellos x, entonces ¿cuál es la expresión que representa su área total?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6x + 6"
+        },
+        {
+          "letra": "B",
+          "texto": "3x2 + 6x + 3"
+        },
+        {
+          "letra": "C",
+          "texto": "6x2 + 12x + 4"
+        },
+        {
+          "letra": "D",
+          "texto": "x3 + 3x2 + 2x"
+        },
+        {
+          "letra": "E",
+          "texto": "2x3 + 6x2 + 4x"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. Dada la función f(x) = ax2 + bx + c,  con a  0, ¿cuál(es) de las siguientes afirmaciones \n\nes (son) verdadera(s)? \n\n \n\nI) \nSi c = 0, la gráfica asociada a la función pasa por el origen del sistema \ncartesiano. \nII) \nSi b = 0, la gráfica asociada a la función es simétrica respecto al eje de las \nordenadas. \nIII) \nSi a y b tienen igual signo, el eje de simetría se encontrará en el lado \npositivo del eje de las abscisas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Si f(x) = \n1\nx  1\n\n  y g(x) =   \nx  1\n\n, entonces ¿cuál(es) de las siguientes afirmaciones \n\nes (son) verdadera(s)? \n \n \n\nI) \nEl dominio de f(x) es lR – {1}. \nII) \nPara x > 1, g(x) > f(x) \nIII) \n(fog)(x) no está definida para x = 2.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. Si a + b = 4  y   ab = 3, entonces  a3 + b3 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "64"
+        },
+        {
+          "letra": "B",
+          "texto": "39"
+        },
+        {
+          "letra": "C",
+          "texto": "28"
+        },
+        {
+          "letra": "D",
+          "texto": "13"
+        },
+        {
+          "letra": "E",
+          "texto": "10"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. Si f(x) = \nx , entonces ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLas gráficas de f(x) y -f(x) son simétricas con respecto al eje de las \nabscisas. \nII) \nLas gráficas de f(x) y -f(-x) son simétricas con respecto al origen del \nsistema cartesiano. \nIII) \nLa función f(-x) no está definida en el conjunto de los números reales no \npositivos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. La(s) solucion(es) de la ecuación lnx + ln(x + 1) = ln 6 es (son)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-3"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "-3 y 2"
+        },
+        {
+          "letra": "D",
+          "texto": "-2"
+        },
+        {
+          "letra": "E",
+          "texto": "3 y -2"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. Respecto a la función f(x) = loga x, ¿cuál(es) de las siguientes afirmaciones es (son) \n\nverdadera(s)? \n\n \n \n\nI) \nSi a > 1 la función es creciente. \nII) \nLa gráfica intersecta al eje de las ordenadas en el punto (0, 1). \nIII) \nLa gráfica de f(x + 1) pasa por el origen.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas. 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. El área del triángulo formado por las rectas de ecuación x – 2y = 0, x + y = 6  y  el eje \n\nx es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "4"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. Respecto a los triángulos ABC y EBD de la figura 1, donde A, B y E son colineales, al \n\nigual que C, B y D. ¿Cuál(es) de las siguientes afirmaciones es (son) siempre \nFALSA(S)? \n\n \n\nI) \nSi \n   y   B\nAC \n CB\nD \n ED\n\n\n, los triángulos son semejantes. \n\nII) \nSi B es punto medio de CD , entonces los triángulos son equivalentes. \n\nIII) \nSi se cumple \n ,   BD \nED y\nAC \n \n \nCB\n \nCB  BD\n\n\n\n, entonces los triángulos son \ncongruentes.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas."
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p12_img1.jpg"
+      ]
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. Un triángulo rectángulo de hipotenusa 10 cm se hace rotar, en forma indefinida, en \n\nE \n\nC \n\nD \nB \n\nfig. 1 \n\nA \n\ntorno a su cateto menor. Si uno de los ángulos agudos interiores mide 60º, entonces \n¿cuál es el volumen del cuerpo generado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "375 cm3"
+        },
+        {
+          "letra": "B",
+          "texto": "25(3 + 3 ) cm3"
+        },
+        {
+          "letra": "C",
+          "texto": "125 cm3"
+        },
+        {
+          "letra": "D",
+          "texto": "125 3  cm3"
+        },
+        {
+          "letra": "E",
+          "texto": "125 3 3  cm3"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. En la figura 2, L1 // L2 // L3. Si AB : AC = 2 : 5, TQ = 9 cm, QR = 6 cm y TR = 12 cm, \n\n¿cuál es perímetro del triángulo PQS? \n \n\nfig. 2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "27 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "18 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "8 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "6 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "4 cm A P S L3 Q B L2 C L1 T R 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p12_img1.jpg"
+      ]
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. Al aplicar la traslación t = (-5, 1), al punto A(3, 2) se obtiene el punto B. ¿Cuál es la \n\npendiente de la recta que pasa por A y B?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-5"
+        },
+        {
+          "letra": "B",
+          "texto": "- 1 5"
+        },
+        {
+          "letra": "C",
+          "texto": "- 1 8"
+        },
+        {
+          "letra": "D",
+          "texto": "1 8"
+        },
+        {
+          "letra": "E",
+          "texto": "1 5"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. A la circunferencia de centro O de coordenadas (2, 2) de la figura 3, se aplica una \n\nrotación con centro en el origen del sistema cartesiano. Si el punto P(4, 2) \nperteneciente a la circunferencia se transforma en P`(-2, 4), ¿cuáles serán las nuevas \ncoordenadas del centro de la circunferencia luego de aplicada la rotación? \n \n \n\nfig. 3 \ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( 2, 2)"
+        },
+        {
+          "letra": "B",
+          "texto": "( 2, -2)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-2, 2)"
+        },
+        {
+          "letra": "D",
+          "texto": "(-2, -2)"
+        },
+        {
+          "letra": "E",
+          "texto": "(-4, 1)"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p13_img1.jpg"
+      ]
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. Al triángulo ABC de la figura 4 se le aplica una homotecia de centro O resultando el \n\nP \nQ\n\nx \n\nA\n2\n  \nA\n1\n\ntriángulo PQR de manera tal que la razón entre sus áreas es \nABC\n\n\n\n\n. ¿Cuál es la \n\n\n\nPRQ\n\nrazón de homotecia aplicada sobre el triángulo ABC?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "2 fig. 4 C"
+        },
+        {
+          "letra": "C",
+          "texto": "1 B 2 P R O"
+        },
+        {
+          "letra": "D",
+          "texto": "- 2 2 A Q"
+        },
+        {
+          "letra": "E",
+          "texto": "- 2 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p13_img1.jpg"
+      ]
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. ¿Cuál(es) de las siguientes ecuaciones vectoriales contiene los puntos P(-1, 2, 3) y   \n\nQ(2, -1, 5)? \n\n \n\nI) \nr() = (-1, 2, 3) + (3, -3, 2)  \nII) \nr() = (-1, 2, 3) + (2, -1, 5)  \nIII) \nr() = (2, -1, 5) - (3, -3, 2)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas."
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. ¿Cuál(es) de las siguientes rectas es (son) perpendicular(es) a la recta de ecuación   \n\nr() = (2, -1) + (-1, 3)? \n \n\nI) \nx  1\ny + 2\n = \n3\n1\n\n \n\nII) \nx = -4 – ;  y = 1 – 3 \nIII) \nr() = (0, -3) + (6, 2)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas."
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. En la circunferencia de la figura 5, DCA = 40° y DPA = 20°. Si el doble del arco AB \n\nes igual al triple del arco CD, entonces el DAC mide \n\n \n\nP \nD \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "48º"
+        },
+        {
+          "letra": "B",
+          "texto": "50º"
+        },
+        {
+          "letra": "C",
+          "texto": "72º"
+        },
+        {
+          "letra": "D",
+          "texto": "96º"
+        },
+        {
+          "letra": "E",
+          "texto": "144º"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p14_img1.jpg"
+      ]
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. El ABC se encuentra inscrito en la circunferencia de centro O de la figura 6, si \n\nB \n\nfig. 5 \n\nA \n\nCP \n AB\n\n, AB = 8 cm y DP = 2 cm, entonces el área del triángulo ABC es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "24 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "32 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "40 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "64 cm2 C fig. 6 O A B D P 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p14_img1.jpg"
+      ]
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. En la figura 7, PB y PA son tangentes en B y A a la circunferencia de centro O, QR  es  \n\ntangente en T a la misma circunferencia, PC = 4 cm  y el perímetro del triángulo PQR \nes 12 cm. ¿Cuál es el área del círculo? \n\nP",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "6,25 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "20,25 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "25 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "81 cm2 Q A C T O R fig. 7 B"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p15_img2.jpg"
+      ]
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. El radio de la circunferencia de centro O de la figura 8 mide 6 cm. Si los arcos AB, BC y \n\nD \n\nCA son congruentes, entonces ¿cuánto mide el área de la región achurada? \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(36 + 27 3 ) cm2 fig. 8"
+        },
+        {
+          "letra": "B",
+          "texto": "(12 – 27 3 ) cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "(36 – 27 3 ) cm2 O"
+        },
+        {
+          "letra": "D",
+          "texto": "(36 – 54 3 ) cm2 A B"
+        },
+        {
+          "letra": "E",
+          "texto": "(36 – 18 3 ) cm2"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p15_img2.jpg"
+      ]
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. En el ABC de la figura 9, D punto medio de AB   y CD = AB\n\n2\n. ¿Cuál(es) de las \n\nsiguientes afirmaciones es (son) siempre verdadera(s)? \n \n\nI) \nADC equilátero. \nII) \nDBC obtusángulo. \nIII) \nABC rectángulo. \n \n\nC \n\nfig. 9",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p15_img2.jpg"
+      ]
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. En la figura 10 sobre la diagonal del cuadrado ABCD de lado \n8  cm, se construye el \nrectángulo AEFC y sobre la diagonal de este rectángulo se construye el rectángulo \nGHFA. Si los puntos E-B-F y G-E-H son colineales, entonces la suma de las áreas del \ncuadrado y los dos rectángulos es \n\nB \nA \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "28 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "30 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "36 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "40 cm2 fig. 10 D C F H B A G E 15"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p15_img2.jpg"
+      ]
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. En el rectángulo ABCD de la figura 11,  BC = 8 cm, EB = 4 cm y DF = 12 cm. Entonces, \n\nel área del triángulo DPF es \n \n \n\nD \nC \n\nF \n\nfig. 11",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "36 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "48 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "72 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "96 cm2 P E B A"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p16_img2.jpg"
+      ]
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. El ACB está circunscrito en la circunferencia de la figura 12, D, E y F puntos de \n\ntangencia. Si EB = 6 cm;  AD = 4 cm  y  CF = 2 cm, entonces el área del triángulo es \n \n \n\nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "48 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "40 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "20 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "24 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "10 cm2 fig. 12 D E"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p16_img2.jpg"
+      ]
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. El hexágono regular de la figura 13 está inscrito en una circunferencia de radio 6 cm,  \n\nA \n\nF \n\nC \n\nambos en el plano XY, si se traslada esta figura según el vector T = (0, 0, 3\n3 ),  ¿cuál \nes el volumen entre los cuerpos generados? \n \n \n\nfig. 13 \nz",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1083 – 486) cm3 T"
+        },
+        {
+          "letra": "B",
+          "texto": "(1083 – 324) cm3"
+        },
+        {
+          "letra": "C",
+          "texto": "(1083 – 81) cm3"
+        },
+        {
+          "letra": "D",
+          "texto": "(1083 ) cm3"
+        },
+        {
+          "letra": "E",
+          "texto": "486 cm3"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p16_img2.jpg"
+      ]
+    },
+    {
+      "numero": 51,
+      "enunciado": "51. En la figura 14, ABCD cuadrilátero, los triángulos ADE, ABC y BGC son rectángulos en \n\ny \n\nx \n\nE, B y G, respectivamente. Si AE = 3 cm; EF = 2 cm y AE : EG = 1 : 2 y los puntos D, \nE y F son colineales, entonces GC = \n \n \n\nfig. 14 \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "8 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "6 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "4 cm C G E"
+        },
+        {
+          "letra": "E",
+          "texto": "8 3 cm F B A 16"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p16_img2.jpg"
+      ]
+    },
+    {
+      "numero": 52,
+      "enunciado": "52. La figura 15, muestra cuatro circunferencias de radio 5 cm, tangentes entre sí y \n\ntangentes a una circunferencia más pequeña de radio R cm. ¿Cuál es el valor de R?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 2 cm fig. 15"
+        },
+        {
+          "letra": "B",
+          "texto": "10 2 + 1 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "5( 2 – 1) cm"
+        },
+        {
+          "letra": "D",
+          "texto": "5( 2 – 0,5) cm"
+        },
+        {
+          "letra": "E",
+          "texto": "10( 2 – 1) cm"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p17_img1.jpg"
+      ]
+    },
+    {
+      "numero": 53,
+      "enunciado": "53. En la figura 16, hay tres triángulos equiláteros cuyos vértices P, Q y R son colineales \n\ncomo se indica. Si los dos triángulos más pequeños tienen perímetros de 12 y 18 cm, \n¿cuál es el perímetro del triángulo más grande?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "21 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "24 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "25,5 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "27 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "30 cm"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p17_img1.jpg"
+      ]
+    },
+    {
+      "numero": 54,
+      "enunciado": "54. Se entrevista a un grupo de adultos mayores sobre el número de veces que son \n\nQ \nR \n\nP \n\nfig. 16  \n\nvisitados en el mes por sus hijos, los resultados se entregan en la tabla siguiente. \n \n\nNº veces \nFrecuencia \n[0 – 2[ \n3 \n[2 – 4[ \n5 \n[4 – 6[ \n10 \n[6 – 8[ \n18 \n[8 – 10] \n4 \n \nRespecto a la información entregada por la tabla, ¿cuál(es) de las siguientes \nafirmaciones es (son) FALSA(S)? \n \n\nI) \nMás del 50% de los adultos mayores entrevistados, son visitados a lo \nmenos 6 veces al mes por sus hijos. \nII) \nEl 12,5% de los adultos mayores entrevistados, son visitados menos de 4 \nveces al mes. \nIII) \nEl 60% de los adultos mayores, son visitados más de 6 veces en el mes por \nsus hijos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas. 17"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p17_img1.jpg"
+      ]
+    },
+    {
+      "numero": 56,
+      "enunciado": "56. La tabla adjunta muestra los puntajes obtenidos por un grupo de 40 estudiantes. \n\n2 \n[4 - 8[ \n200 \n3 \n[8 - 12[ \n500 \n4 \n[12 - 16[ \n350 \n5 \n[16 – 20] \n150 \n\nRespecto a ésta información, ¿cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n\n \n\nIntervalo \nFrecuencia \n[450 – 499] \n2 \n[500 - 549] \n4 \n[550 - 599] \n6 \n[600 - 649] \n10 \n[650 - 699] \n12 \n[700 - 749] \n3 \n[750 - 800] \n3 \n\n \n \n \n \n \n \n \n \n \nI) \nLa mediana se encuentra en el intervalo [600 – 649]. \nII) \nEl cuartil 3 pertenece al intervalo [650 – 699]. \nIII) \nEl percentil 95 se encuentra en el intervalo [700 – 749].",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p18_img1.jpg"
+      ]
+    },
+    {
+      "numero": 57,
+      "enunciado": "57. El siguiente diagrama muestra los puntajes obtenidos por 14 alumnos pertenecientes a \n\ncinco cursos de 4to medio, en la última PSU. ¿Cuál es la mediana de los puntajes \nobtenidos? \n \n \n\nPUNTAJES PSU \n\n800 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n750",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "650"
+        },
+        {
+          "letra": "B",
+          "texto": "675"
+        },
+        {
+          "letra": "C",
+          "texto": "680"
+        },
+        {
+          "letra": "D",
+          "texto": "685"
+        },
+        {
+          "letra": "E",
+          "texto": "No se puede determinar PUNTAJES 700 650 600 550 500  4°A 4°B 4°C 4°D 4°E CURSO 18"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p18_img1.jpg"
+      ]
+    },
+    {
+      "numero": 58,
+      "enunciado": "58. La tabla adjunta indica el número de horas extras trabajadas en la última semana por \n\nun grupo de empleados de una fábrica. Si la media aritmética de la muestra es  \n7,2 horas, ¿cuántas personas hacen menos de 8 horas extras?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "25"
+        },
+        {
+          "letra": "E",
+          "texto": "45"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p19_img1.jpg"
+      ]
+    },
+    {
+      "numero": 59,
+      "enunciado": "59. Los datos p, q y r tienen una desviación estándar . Si cada uno de los datos se \n\nIntervalo \n\nFrecuencia \n\nabsoluta \n[0 – 4[ \n15 \n[4 – 8[ \nm \n[8 – 12[ \n20 \n[12 – 16[ \n5 \n\n(horas) \n\nmultiplica por la media aritmética, entonces  la nueva desviación estándar será",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": "(p + q + r) "
+        },
+        {
+          "letra": "C",
+          "texto": "p + q + r 2       "
+        },
+        {
+          "letra": "D",
+          "texto": "p + q + r 3        2 p + q + r 3      "
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 60,
+      "enunciado": "60. El gráfico de la figura 17 muestra la cantidad de calorías consumidas en el desayuno \n\npor un grupo de compañeras de curso, ¿cuál de las siguientes afirmaciones es FALSA? \n \n \n \n \n \n \n \n \n \n \n \n\nfrecuencia \n\nfig. 17 \n\n20 \n15 \n10 \n\n5 \n\n50 \n150 250 350 \n\n450 \n\nCalorias",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El promedio de calorías consumidas en el desayuno es 300."
+        },
+        {
+          "letra": "B",
+          "texto": "La marca de clase del intervalo en el cuál se encuentra la mediana es 300."
+        },
+        {
+          "letra": "C",
+          "texto": "El 30% de las compañeras encuestadas consume menos de 250 calorías."
+        },
+        {
+          "letra": "D",
+          "texto": "Si lo recomendable para el desayuno es consumir desde 350 calorías hasta un valor menor a 450 calorías, entonces solo el 30% de las encuestadas consume lo que se considera adecuado."
+        },
+        {
+          "letra": "E",
+          "texto": "El intervalo modal es [350, 450[. 19"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p19_img1.jpg"
+      ]
+    },
+    {
+      "numero": 61,
+      "enunciado": "61. De una población se hace un muestreo importando el orden, sin reposición y de  \n\ntamaño 3. Si el número de total de muestras es 120, ¿cuál es el tamaño de la \npoblación?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        },
+        {
+          "letra": "E",
+          "texto": "4"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 62,
+      "enunciado": "62. ¿Cuántos números diferentes de 6 cifras se pueden formar con los dígitos 1, 1, 1, 2, 2, \n\n3?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "120"
+        },
+        {
+          "letra": "B",
+          "texto": "60"
+        },
+        {
+          "letra": "C",
+          "texto": "30"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        },
+        {
+          "letra": "E",
+          "texto": "6"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 63,
+      "enunciado": "63. La tabla adjunta muestra los resultados de una encuesta realizada a un grupo de \n\nestudiantes que tienen, exclusivamente, un tipo de alimentación: carnívoro, \nvegetariano o vegano. \n \n\n \n \n \n \n \n \n\n \nCarnívoro(a) \nVegetariano(a) \nVegano(a) \nHombre \n15 \n10 \n5 \nMujer \n8 \n25 \n7 \n\nSi se elige una persona al azar, ¿cuál es la probabilidad que sea hombre o vegano?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 5"
+        },
+        {
+          "letra": "B",
+          "texto": "37 70"
+        },
+        {
+          "letra": "C",
+          "texto": "3 7"
+        },
+        {
+          "letra": "D",
+          "texto": "5 12"
+        },
+        {
+          "letra": "E",
+          "texto": "1 6 20"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p20_img1.jpg"
+      ]
+    },
+    {
+      "numero": 64,
+      "enunciado": "64. Hay tres bolsas, una contiene 5 fichas rojas y 3 blancas, la otra 4 fichas rojas y           \n\n4 blancas y la tercera 2 rojas y 6 blancas. El experimento consiste en escoger una bolsa \ny luego extraer de ella una ficha. Al realizar el experimento, ¿cuál es la probabilidad \nque la ficha extraída no sea roja? \n\n \n\n3\n72",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24"
+        },
+        {
+          "letra": "B",
+          "texto": "9 64"
+        },
+        {
+          "letra": "C",
+          "texto": "11 24"
+        },
+        {
+          "letra": "D",
+          "texto": "13 24"
+        },
+        {
+          "letra": "E",
+          "texto": "13 8"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 65,
+      "enunciado": "65. Siempre que tres caballos, Albino, Bravucón y Compinche compiten juntos en una \n\ncarrera, sus posibilidades de ganar son 1\n\n2 , 1\n\n3  y 1\n\n6  respectivamente. Si éstos caballos \n\ncompiten tres veces, ¿cuál es la probabilidad de que Compinche gane la primera \ncarrera, Albino la segunda y Bravucón la tercera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 36"
+        },
+        {
+          "letra": "B",
+          "texto": "1 6"
+        },
+        {
+          "letra": "C",
+          "texto": "5 36"
+        },
+        {
+          "letra": "D",
+          "texto": "5 18"
+        },
+        {
+          "letra": "E",
+          "texto": "7 36"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 66,
+      "enunciado": "66. Se lanzan dos dados, ¿cuál es la probabilidad que la suma de los puntos sea un número \n\npar si se sabe que, por lo menos, uno de los dados muestra un número impar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 4"
+        },
+        {
+          "letra": "B",
+          "texto": "2 3"
+        },
+        {
+          "letra": "C",
+          "texto": "1 2"
+        },
+        {
+          "letra": "D",
+          "texto": "1 3"
+        },
+        {
+          "letra": "E",
+          "texto": "1 4 21"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 67,
+      "enunciado": "67. Una moneda esta cargada de manera tal que al lanzarla la probabilidad que salga cara \n\nes el cuádruplo que salga sello, al lanzar 3 veces la moneda, ¿cuál es la probabilidad \nque exactamente salgan 2 caras?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "64 125"
+        },
+        {
+          "letra": "B",
+          "texto": "48 125"
+        },
+        {
+          "letra": "C",
+          "texto": "16 125"
+        },
+        {
+          "letra": "D",
+          "texto": "12 125"
+        },
+        {
+          "letra": "E",
+          "texto": "4 125"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 68,
+      "enunciado": "68. La figura 18, muestra un cuadrado inscrito en una circunferencia y circunscrito a otra. \n\nSi se escoge de esta figura, un punto al azar, ¿cuál es la probabilidad de que éste \npertenezca a la zona achurada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 4 fig. 18"
+        },
+        {
+          "letra": "B",
+          "texto": "1 3"
+        },
+        {
+          "letra": "C",
+          "texto": "1 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2 3"
+        },
+        {
+          "letra": "E",
+          "texto": "3 4"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p22_img2.jpg"
+      ]
+    },
+    {
+      "numero": 69,
+      "enunciado": "69. Se tienen 2 cajas, la primera contiene 5 esferas negras y 5 esferas blancas; la segunda \n\n3 esferas negras y 6 blancas. Se extrae una esfera de la primera caja y se introduce en \nla segunda y a continuación se extrae una esfera de la segunda caja que resulta ser \nblanca. Entonces, ¿cuál es la probabilidad que se haya sacado una esfera negra de la \ncaja 1?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "13 20"
+        },
+        {
+          "letra": "B",
+          "texto": "3 5"
+        },
+        {
+          "letra": "C",
+          "texto": "6 13"
+        },
+        {
+          "letra": "D",
+          "texto": "7 20"
+        },
+        {
+          "letra": "E",
+          "texto": "3 10 22"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 70,
+      "enunciado": "70. En una distribución normal definida de manera tal que X  N(120, 11), si se escoge un \n\ndato al azar, ¿cuál es la probabilidad que el número escogido sea menor que 120?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0"
+        },
+        {
+          "letra": "B",
+          "texto": "1 4"
+        },
+        {
+          "letra": "C",
+          "texto": "1 3"
+        },
+        {
+          "letra": "D",
+          "texto": "1 2"
+        },
+        {
+          "letra": "E",
+          "texto": "3 4"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 71,
+      "enunciado": "71. En la figura 19 se encuentra representada la distribución normal estándar Z  N(0, 1) \n\nde cierta variable aleatoria X. La probabilidad que un dato se encuentre en el intervalo \ndestacado es \n \n \n\nz \nP(Z < z) \n0,67 \n0,749 \n0,99 \n0,839 \n1,00 \n0,841 \n1,15 \n0,875 \n1,28 \n0,900 \n1,64 \n0,950 \n1,96 \n0,975 \n2,00 \n0,977 \n2,17 \n0,985 \n2,32 \n0,990 \n2,58 \n0,995 \n\nfig. 19",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,085"
+        },
+        {
+          "letra": "B",
+          "texto": "0,850"
+        },
+        {
+          "letra": "C",
+          "texto": "0,900"
+        },
+        {
+          "letra": "D",
+          "texto": "0,976"
+        },
+        {
+          "letra": "E",
+          "texto": "0,985"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p23_img2.jpg"
+      ]
+    },
+    {
+      "numero": 73,
+      "enunciado": "73. La siguiente tabla muestra una función de probabilidad para la variable aleatoria X. \n\n¿Cuál es el valor esperado para X?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,5"
+        },
+        {
+          "letra": "B",
+          "texto": "2,0"
+        },
+        {
+          "letra": "C",
+          "texto": "1,8"
+        },
+        {
+          "letra": "D",
+          "texto": "1,6"
+        },
+        {
+          "letra": "E",
+          "texto": "1,4 x 0 1 2 3 4 P(X = x) 0,2 0,4 0,15 0,1 0,15 24"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": [
+        "4889-Ensayo Ex Cátedra Nº 3 Matemática 2016_p24_img1.jpg"
+      ]
+    },
+    {
+      "numero": 74,
+      "enunciado": "74. La gráfica asociada a la función f(x) = x2 – bx + c intersecta el eje x en dos puntos, si: \n \n\n(1) b2   4c \n(2) c  lR-",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 75,
+      "enunciado": "75. La ecuación en x, (k – 1)x + 2x = 2 – k no tiene solución, si: \n \n\n(1) k = -1 \n(2) k  2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 3 3 ab(a b) + a b a b    , con a – b  0, si:"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 76,
+      "enunciado": "76. Es posible determinar el valor de la expresión \n\n(1) a + b = 3 \n(2) a – b = 2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 77,
+      "enunciado": "77. Si f(x + 1) = f(x) - b, entonces se puede determinar el valor de b, si se conoce el valor \n\nde: \n \n\n(1) f(x) – f(x + 1) \n(2) f(4)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 26"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 78,
+      "enunciado": "78. Si f(x) = log3x + q es una función definida en los números reales, es posible \n\ndeterminar f(27), si: \n \n\n(1) f(1) = 3 \n\n(2) \n1\nf\n = 2\n3\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 79,
+      "enunciado": "79. Una bolsa contiene solo fichas rojas, negras y amarillas, todas en igual cantidad. Se \n\nsacan tres fichas de la bolsa sin reposición y a continuación se extrae una cuarta ficha. \nSe puede determinar la probabilidad que esta última ficha sea roja, si: \n \n\n(1) Solo una de las fichas extraídas en forma previa, era amarilla. \n(2) Solo una de las fichas extraídas en forma previa, era negra.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 80,
+      "enunciado": "80. En el experimento de lanzar una moneda, se define la variable aleatoria X como el \n\nnúmero de caras que se obtienen. Entonces, se puede determinar P(X = k), si: \n \n\n(1) k = 4 \n(2) Se lanza 8 veces la moneda.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 27"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TIPOS DE ONDAS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.103515625,
+          72.359375
+        ],
+        [
+          162.74832153320312,
+          70.71484375
+        ],
+        [
+          162.74832153320312,
+          84.08001708984375
+        ],
+        [
+          82.939453125,
+          84.08001708984375
+        ]
+      ]
+    },
+    {
+      "title": "Seg\u00fan medio de propagaci\u00f3n",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.39453125,
+          95.3828125
+        ],
+        [
+          215.19935607910156,
+          93.73828125
+        ],
+        [
+          215.19935607910156,
+          106.6600341796875
+        ],
+        [
+          83.23046875,
+          106.6600341796875
+        ]
+      ]
+    },
+    {
+      "title": "FEN\u00d3MENOS ONDULATORIOS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.39453125,
+          280.392578125
+        ],
+        [
+          222.91796875,
+          278.748046875
+        ],
+        [
+          222.41952514648438,
+          293.04998779296875
+        ],
+        [
+          83.23046875,
+          293.04998779296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/2.- Torepedo - Ondas y sus propiedades"
+}

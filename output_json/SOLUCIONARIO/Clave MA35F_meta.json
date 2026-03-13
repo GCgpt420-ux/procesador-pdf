@@ -1,0 +1,22 @@
+{
+  "filename": "Clave MA35F.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/CONTROLES/SOLUCIONARIO/Clave MA35F.pdf",
+  "num_paginas": 1,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T16:03:27.708898",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 1415.5693359375
+        }
+      ]
+    }
+  ]
+}

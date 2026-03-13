@@ -1,0 +1,577 @@
+{
+  "archivo_original": "Módulo n°6.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/MODULOS/Módulo n°6.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 15,
+  "fecha_procesamiento": "2026-03-07T23:16:12.756686",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n¿Cuál de los siguientes pares de ecuaciones se representan en el gráfico de la figura \nadjunta? \n \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2y + x = 4; 2y – x = 4"
+        },
+        {
+          "letra": "B",
+          "texto": "2y – x = 2; 2y + x = 2"
+        },
+        {
+          "letra": "C",
+          "texto": "-2y – x = 2; -2y + x = 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2y + x = 4; -2y + x = 4"
+        },
+        {
+          "letra": "E",
+          "texto": "y + 2x = 8; y – 2x = 8 2 4 -4 x (Fuente: DEMRE. Publicación 2011)"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Módulo n°6_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nSi la ecuación de una recta es 10x – 2y = 20, ¿cuál(es) de las siguientes afirmaciones \nes (son) verdadera(s)? \n \n\nI) \nLa pendiente de la recta es 10. \nII) \nLa gráfica de la recta intersecta al eje y en el punto (0,20). \nIII) \nLa gráfica de la recta intersecta al eje x en el punto (2,0).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III (Fuente: DEMRE. Publicación 2015)"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi (a, b) son las coordenadas del punto de intersección de las rectas L :  x\ny\n5\n0\n\n\n\n  y \nL ':  2x\ny\n3\n0\n\n\n\n, entonces (a + b) es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-21"
+        },
+        {
+          "letra": "B",
+          "texto": "-9"
+        },
+        {
+          "letra": "C",
+          "texto": "-5"
+        },
+        {
+          "letra": "D",
+          "texto": "9"
+        },
+        {
+          "letra": "E",
+          "texto": "21 (Fuente: DEMRE. Publicación 2015)"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nSi  la ecuación de la recta  L1 es y = -3x + 3, la recta L2 intersecta al eje y en el punto \n(0,6) y L1 // L2, entonces L2 intersecta al eje x en el punto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-18, 0)"
+        },
+        {
+          "letra": "B",
+          "texto": "(2, 0)"
+        },
+        {
+          "letra": "C",
+          "texto": "(0, 6)"
+        },
+        {
+          "letra": "D",
+          "texto": "(1, 0)"
+        },
+        {
+          "letra": "E",
+          "texto": "(-2, 0) (Fuente: DEMRE. Publicación 2014) 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEl punto B(5, 4) se rota en torno al punto A(1, 1) en 90°, obteniéndose el punto B’. \n¿Cuál es la ecuación de la recta que pasa por los puntos A y B’?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 1 y x 3 3  "
+        },
+        {
+          "letra": "B",
+          "texto": "4 7 y x 3 3  "
+        },
+        {
+          "letra": "C",
+          "texto": "3 7 y x 4 4  "
+        },
+        {
+          "letra": "D",
+          "texto": "3 1 y x 4 4  "
+        },
+        {
+          "letra": "E",
+          "texto": "4 1 y x 3 3   (Fuente: DEMRE. Publicación 2014)"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSea la recta L de ecuación y = mx + n. Si m ≠ 0, ¿cuál(es) de las siguientes \nafirmaciones es (son) verdadera(s)? \n \n \n\nI) \nLa recta de ecuación y\nmx\np\n\n\n, con p ≠ n, se puede obtener mediante una \n\ntraslación de la recta L. \n\nII) \nLa recta de ecuación y\ntx\nn\n\n\n se puede obtener mediante una rotación \n\ncentrada en (0, n) de la recta L. \n\nIII) \nLa recta de ecuación y\n2mx\n2n\n\n\n se puede obtener mediante una \n\ntraslación de la recta L.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III (Fuente: DEMRE. Publicación 2016)"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEl par de números \n3\nx\n2\n\n e \n3\ny\n2\n\n es solución del sistema  \n\n\n\n\nax\ny\n6\nx\nby\n6\n\n. El valor de  \n\n(a + b) es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "0"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "10 (Fuente: DEMRE. Publicación 2015) 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn la figura adjunta, se muestra la representación gráfica de cuatro sistemas de \necuaciones. ¿Cuál de los siguientes sistemas NO ha sido representado en la figura?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x = 1 ; y = x"
+        },
+        {
+          "letra": "B",
+          "texto": "x = 1 ; y = 1"
+        },
+        {
+          "letra": "C",
+          "texto": "  y x 2 ;  x 1 y = 2 2"
+        },
+        {
+          "letra": "D",
+          "texto": "  2y x 1 ; y = x"
+        },
+        {
+          "letra": "E",
+          "texto": " x 1 y = 2 2 ;  2y x = 1 (Fuente: DEMRE. Publicación 2014) y y 1 1 -1 1 x 1 x y y 2 1 1 1 -1 2 x 1 x 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "Módulo n°6_p9_img0.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nDado el sistema  mx + ny = 9\n\n3mx  ny = 7\n\n, en x e y, con m y n distintos de 0 y distintos entre sí, \n\n¿cuál de las siguientes expresiones representa a (mn(x + y))?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5m + 4n"
+        },
+        {
+          "letra": "B",
+          "texto": "m + 8n"
+        },
+        {
+          "letra": "C",
+          "texto": "4m + 5n"
+        },
+        {
+          "letra": "D",
+          "texto": "10m – n"
+        },
+        {
+          "letra": "E",
+          "texto": "13m + 4n (Fuente: DEMRE. Publicación 2016)"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Las rectas L1 y L2 tienen ecuaciones L1: ax + by + c = 0  y  L2: dx + ey + f = 0, con b y \n\ne distintos de cero. ¿Cuál(es) de las siguientes igualdades permite(n) deducir que las \nrectas L1 y L2 son paralelas? \n \n \n\nI) \na\nf\n = \nb\ne  \n\nII) \na = d = 0 \nIII) \nc = f = 0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III (Fuente: DEMRE. Publicación 2020)"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Alberto entra a una librería con el objetivo de gastar exactamente $ 100.000 en \n\ncomprar 70 lápices. En la librería tienen solo dos tipos de lápices, unos valen $ 1.500 \ncada uno y los del otro tipo valen $ 1.200 cada uno. ¿Cuántos lápices de cada tipo debe \ncomprar en la librería, para cumplir su objetivo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "53 y 17"
+        },
+        {
+          "letra": "B",
+          "texto": "54 y 16"
+        },
+        {
+          "letra": "C",
+          "texto": "53 y 16"
+        },
+        {
+          "letra": "D",
+          "texto": "Otras cantidades."
+        },
+        {
+          "letra": "E",
+          "texto": "Alberto no puede cumplir su objetivo. (Fuente: DEMRE. Publicación 2015) 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Sean \n1\nL :px\n2y\n1\n\n\n y \n2\nL :2x\npy\n2\n\n\n dos rectas del plano cartesiano, con p un \n\nnúmero real distinto de cero. ¿Cuál(es) de las siguientes es (son) siempre \nverdadera(s)? \n \n\nI) \nSi p ≥ 2, entonces \n1\nL  y \n2\nL  se intersectan en un único punto. \n\nII) \nSi p = -2, entonces  \n1\nL  y \n2\nL  se intersectan en infinitos puntos. \n\nIII) \nSi p ∈ \n2, 0  \n 0, 2\n\n\n\n\n\n\n\n\n\n, entonces \n1\nL  y \n2\nL  son paralelas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas (Fuente: DEMRE. Publicación 2017)"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": [
+        "Módulo n°6_p11_img0.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. En los números reales el conjunto solución del sistema \n3\n6x\n4\n1\n2x\n0\n\n\n\n\n\n es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 1 , 6 2        "
+        },
+        {
+          "letra": "B",
+          "texto": "1 1 , 6 2       "
+        },
+        {
+          "letra": "C",
+          "texto": "∅"
+        },
+        {
+          "letra": "D",
+          "texto": "1, 2       "
+        },
+        {
+          "letra": "E",
+          "texto": "1 , 6        (Fuente: DEMRE. Publicación 2011)"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Si a los números mayores que 1 y menores que 3 se les resta -p y luego se divide por \n\nel número entero negativo b, entonces los números que se obtienen son siempre \nmayores que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "3 + p b"
+        },
+        {
+          "letra": "C",
+          "texto": "3 p b "
+        },
+        {
+          "letra": "D",
+          "texto": "1 p b "
+        },
+        {
+          "letra": "E",
+          "texto": "1 + p b (Fuente: DEMRE. Publicación 2017)"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. ¿Cuál es el conjunto de todos los números que están a una distancia mayor que 6 de 0 \n\ny a una distancia menor que 20 de 8?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "]6, 8["
+        },
+        {
+          "letra": "B",
+          "texto": "]6, 28["
+        },
+        {
+          "letra": "C",
+          "texto": "]-12, -6[  ]6, 28["
+        },
+        {
+          "letra": "D",
+          "texto": "]-, 28["
+        },
+        {
+          "letra": "E",
+          "texto": "]-, -12[  ]-6, 6[  ]28, [ (Fuente: DEMRE. Publicación 2008)"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Sea la función f definida por f(x)\n3x\nk\n\n\n, cuyo dominio es el intervalo \nk, \n3\n\n\n\n\n\n\n\n\n\n. Si la \n\npre-imagen de 5 es 3, ¿cuál es el valor de k?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-14"
+        },
+        {
+          "letra": "B",
+          "texto": "-6"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "16 (Fuente: DEMRE. Publicación 2008)"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "Módulo n°6_p12_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Si \n2\nf(x)\nx\nx\n3\n\n\n\n, entonces f(1 – x) es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 x x  "
+        },
+        {
+          "letra": "B",
+          "texto": "2 x x 3  "
+        },
+        {
+          "letra": "C",
+          "texto": "2 x x 3  "
+        },
+        {
+          "letra": "D",
+          "texto": "2 x x 3   "
+        },
+        {
+          "letra": "E",
+          "texto": "2 x 3x 3    (Fuente: DEMRE. Publicación 2013) 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. El nivel del agua en un estanque cilíndrico recto era originalmente h metros y baja  \n\nq metros cada semana. ¿Cuál de las siguientes funciones relaciona el nivel de agua con \nel número de semanas transcurridas x, en la situación descrita?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "f(x) qx h  "
+        },
+        {
+          "letra": "B",
+          "texto": "g(x) h qx  "
+        },
+        {
+          "letra": "C",
+          "texto": "r(x) (h qx)  "
+        },
+        {
+          "letra": "D",
+          "texto": "p(x) hx q  "
+        },
+        {
+          "letra": "E",
+          "texto": "q(x) q hx   (Fuente: DEMRE. Publicación 2015)"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Sea g: lR  lR definida por \n\nx\ng x\n5\n3\n\n\n. ¿Cuál(es) de las siguientes es (son) siempre \n\nverdadera(s)? \n \n \n\nI) \ng(-3) = -6  \nII) \ng-1(-6) = 3 \nIII) \ng-1(x) = 3x - 15",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. ¿Cuál(es) de las siguientes relaciones se puede(n) escribir como una función de la \n\nforma f(x) = kx, con k una constante y con dominio el conjunto de los números reales \npositivos? \n \n\nI) \nLa longitud de una circunferencia en función de su radio. \nII) \nLa hipotenusa de un triángulo rectángulo isósceles en función de su cateto. \nIII) \nLa medida de un lado de un triángulo equilátero en función de su área.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III (Fuente: DEMRE. Publicación 2016) 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    }
+  ]
+}

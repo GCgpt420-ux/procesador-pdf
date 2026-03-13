@@ -1,0 +1,287 @@
+{
+  "filename": "Ensayo n° 2.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/SOLUCIONARIOS/Ensayo n° 2.pdf",
+  "num_paginas": 16,
+  "titulo": "",
+  "autor": "casa",
+  "fecha_procesamiento": "2026-03-07T16:03:51.505708",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n \n \nSOLUCIONARIO  \nSEGUNDA JORNADA PAES 1 \n\n4°MEDIO \nMATEMÁTICA \n\n \n \n1. \nLa alternativa correcta es D \n \n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-1\n\n-2\n2\n1\n  2\n  2\n4\n\n2\n1\n4  \n \n 2\n4\n\n\n\n\n\n\n\n\n = 22 \n\n = \n\n \n \n \n2. \nLa alternativa correcta es A \n \n \n \n \n \n\nEntrada \nResta 8 \n \nDivide por 2 \n \nSuma 16 \nSalida \n\n \nSi x es el número de entrada, entonces se tiene la ecuación: \n\nx  8\n\n\n + 16 = 32 \n\n2\n\nx  8\n\n\n = 16 \n\n2\n\nx – 8 = 16 · 2 \nx – 8 = 32 \nx = 32 + 8 \nx = 40 \n \n \n3. \nLa alternativa correcta es C \n \n \n\nAníbal nació en 2015 –18 = 1997 \nMonserrat tenía 1997 – 1992 = 5 años \n \n \n4. \nLa alternativa correcta es D \n \n \n\nSe determina el mcm de 20, 35 y 40 \nmcm(20, 35, 40) = 23 · 5 · 7 = 280 \nEn el día 280 han transcurrido 9 meses y 10 días \n \n",
+      "cantidad_caracteres": 752,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.5185546875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n\n5. \nLa alternativa correcta es A \n \n\nComo 2,5 horas = 150 minutos \nEntonces, \n \n150  \n \n100% \n30 \n \nx% \n \n \n \n6. \nLa alternativa correcta es C \n \n \n\nx = 3.000\n\n150  = 20% \n\n5% de x + 35% de x + 168 = x \n\n5x\n35x\n + \n100\n100  + 168 = x /  · 100 \n\n5x + 35x + 16.800 = 100x \n40x + 16.800 = 100x  \n16.800 = 60x \n280 = x \n \n \n \n7. \nLa alternativa correcta es D \n \n\nSi el equipo tiene más goles a favor que en contra no puede ser que no haya ganado \nalgún partido. \n \n \n \n \n8.  \nLa alternativa correcta es D \n \n\nPor propiedades de multiplicación de potencias de igual bases: \n1515 = 15 · 1514 \n \n \n9. \nLa alternativa correcta es A \n \n\nLa moneda se coloca en el cuadrado con el N° 8. \nSi el desplazamiento es a la izquierda se antepone -, y si el desplazamiento es a la \nderecha se antepone +, entonces después de los 6 lanzamientos se tiene: \n8 – 1 + 2 – 3 + 4 – 5 + 6 = 11 \nPor lo tanto, la moneda queda finalmente 3 cuadrados a la derecha del cuadrado 8. \n \n \n \n \n10. La alternativa correcta es A \n \n",
+      "cantidad_caracteres": 1127,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \n\n11. La alternativa correcta es D \n\n \n\n4  = \n2  \n \n \n \n12. La alternativa correcta es D \n\n \n\nRecordar que velocidad = distancia\n\ntiempo\n \n\nDías  \nVelocidad (km/día) \n \n   5  \n \n  x \n \n 3 \n \n  x + 20 \n \n\n5x = 3(x + 20) \n2x = 60 \nx = 30 \nDistancia recorrida = 30 · 5 = 150 \n \n \n13. La alternativa correcta es B \n \n\nFactorizando por el factor común 10b \n10ab – 10bc + 10bd = 10b(a – c + d) \n \n \n \n14. La alternativa correcta es A \n \n\nFactorizando por el binomio en común (s + t) \n5(s + t) – a(5 + t) = (5 – a)(s + t) \n \n \n \n15. La alternativa correcta es C \n \n\n13\nc\n(c  1)\n\n\n \n\n4c\n\n12\nc\n(c  1)\n\n\n \n\n4\n\nPara c = 5 \n\n13\n5\n  4\n4\n\n\n = 512 \n\n \n \n16. La alternativa correcta es C \n \n\n2\n3\n1  k\n5\n\n\n\n\n\n\n = \n2\n6\n9\n1  \nk + \nk\n5\n25\n\n \n\n \n \n\n3 \n \n",
+      "cantidad_caracteres": 747,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": " \n\n17. La alternativa correcta es B \n \n \n\n(2m – 5n)2 = 4m2 – 20mn + 25n2 \n \n \n \n \n18. La alternativa correcta es A \n \n\nDesarrollando los polinomios (u + 1)2 – (u – 1)2 =  \nu2 + 2u + 1 – (u2 – 2u + 1) \nu2 + 2u + 1 – u2 + 2u – 1 = 4u \n \n \n \n \n19. La alternativa correcta es B \n \n \n\n-2\n-2\n\n25\n25\n + \n5\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1\n1\n + \n5\n + 5\n2\n1\n2\n25\n25\n = \n = \n : \n = \n1\n25\n125\n25\n5\n\n-2\n-2\n\n  125\n\n5 = 10 \n\n = \n\n-3\n\n-3\n\n25\n\n\n\n\n\n\n\n\n125\n\n5\n\n \n \n \n \n20. La alternativa correcta es B \n \n \n\nSi C1 = k, entonces C2 = k + 240, luego \n\nk\n3\n = \nk + 240\n5   5k = 3k + 720  k = 360 \n\nC2 = 360 + 240 = 600 \n \n \n \n \n21. La alternativa correcta es C \n \n\nEn la 1° oficina \n: \n24  6\n\n\n = 18\n\n6  = 3 \n\n6\n\nEn la 2° oficina \n: \n80  x\n\n\n =  3  80 – x = 3x  x = 20 \n\nx\n\n \nAsistieron = 80 – 20 = 60 \n \n \n \n \n\n4 \n \n",
+      "cantidad_caracteres": 806,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": " \n\n22. La alternativa correcta es A \n\n \n \n\nx + 5\n16  1\n15\n = \n = \nx  5\n90\n90\n\n\n \n\nx + 5\n1\n = \nx  5\n6\n\n \n\n6x + 30 = x – 5  \n5x = -35 \nx = -7 \n \n \n \n \n23. La alternativa correcta es C \n \n \n\na\n3  + 2 = 2(b + 1) \n/ · 3 \n\na + 6 = 6(b + 1) \na + 6 = 6b + 6 \na = 6b   \n \n/ :b \na\nb  = 6 \n\n \n \n \n24. La alternativa correcta es C \n \n \n\nSi x no pertenece al intervalo cerrado [-2, 3], entonces x puede ser menor que -2 o \nmayor que 3. \nPor lo tanto, x < -2  ó  x > 3 \n \n \n \n25. La alternativa correcta es A \n \n \n\nNúmero de meses: a \n\na · x - a\n\n2 y = xy \n\n2ax – ay = 2xy \na(2x – y) = 2xy \n\na = \n2xy\n2x  y\n\n \n\n5 \n \n",
+      "cantidad_caracteres": 606,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": " \n\n26. La alternativa correcta es D \n \n\nSea x\n\ny  la fracción, entonces \n\nx + 5\n\ny\n = 2  x + 5 = 2y  x = 2y – 5  \n\nx\ny  2\n\n = 1  x = y – 2  \n\nPor igualación \n2y – 5 = y – 2  \ny = 3 \n \n \n \n \nx = 1 \n\ny  = 1\n\n \nPor tanto, x\n\n3   3 \n\n \n \n27. La alternativa correcta es A \n \n \n\nSustituyendo x por 8 e y por 1, se determina que el par (8, 1) es solución del sistema \n\nx + 2y = 10\n\nx  3y = 5\n\n \n\n \n\n \n \n28. La alternativa correcta es A \n \n\n4x  3y + 11 = 0\n\n\n\n\n    4x  3y = -11\n\n\n\n \n\n/ · 4 \n/ · (-3) \n\n3x  4y + 3 = 0\n\n3x  4y = -3\n\n \n\n \n  \n \n \n16x  12y = -44\n\n\n \n\n-9x + 12y = 9\n\nx = -5 \n\n \n  \n \n \n \n7x = -35 \n  \n \n \n\n \ny = -3 \n\n \n  \n \n \n \nx + y\n\n2\n = -4 \n\n \n \n29. La alternativa correcta es A \n \n\nSe debe cumplir que  = b2 – 4ac = 0 \nPor lo tanto,  \n144 – 4 · 4 · (5 + m) = 0 \n144 – 80 – 16m = 0 \n16 m = 64  m = 4 \n \n \n\n6 \n \n",
+      "cantidad_caracteres": 832,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": " \n\n30. La alternativa correcta es B \n \n \n\nx = -1 ± 1 + 80\n\n4\n \n\nx’ = -1  9\n5\n= \n4\n2\n\n\n \n\nx’’ = -1 + 9 = 2\n4\n \n\nEnteros entre - 5\n\n2  y 2, son -2, -1, 0 y 1. \n\nLuego, n = 4 \nPor lo tanto, 3 < n < 5 \n \n \n\n   \n \n31. La alternativa correcta es C \n\n \n \n\nEn la función y = 30 + 2x a medida que aumenta x aumenta y. En la función  \ny = 5 – 3x a medida que aumenta x, disminuye y. \n \n \n \n32. La alternativa correcta es D \n \n \n\ny \n\nSe trata de una función de la forma y = ax + b \n\na =  21.600  17.200\n\n\n = 2.200 \n\n21.600 \n\n2\n\nCoeficiente de posición b = 15.000 \ny = 2.200x + 15.000 \nAl cabo de 6 horas \ny = 2.200 · 6 + 15.000 = 28.200 \n \nAl cabo de 2 horas en la piscina, había: \n2.200 · 2 + 15.000 = 19.400 litros. \n \n \n \n \n33. La alternativa correcta es D \n \n\n17.200 \n\n0 \n\nx \n1 \n3 \n6 \n\n \n \nL litro  \n \n100 km \n1 litro \n \nx km \n \n \n\nx = 100\n\nL\n  \n\n7 \n \n",
+      "cantidad_caracteres": 850,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": " \n\n34. La alternativa correcta es D \n \n\n\n\n\n\n\n\n\n\n\n\n\n\n2\nb\nb\n4ac\n, \n2a\n4a\n\nEl vértice de la parábola está dado por V\n\n \n\nb\n2a\n\n = \n4\n2( 1)\n\n\n\n\n = 2 \n\n2\nb\n4ac\n4a\n\n\n = \n( 8)\n4( 1)\n\n\n\n = -2 \n\nEntonces, V(2, -2) \n \n \n \n35. La alternativa correcta es C \n \n \n\nComo a < 0  y  c > 0, el producto de las raíces  es menor que cero, esto es  \n\n = c\n\na < 0. \n\nLuego, una raíz es positiva y otra negativa. \n \n \n \n36. La alternativa correcta es C \n \n \n\n4x \n\nEn el cuadrado del cual se pide el perímetro, se \ntiene: \n4x = 30 – x  x = 6  lado = 24 \nPor lo tanto, el perímetro pedido es igual a  \n4 · 24 = 96 \n \n \n \n \n \n \n \n37. La alternativa correcta es C \n \n \n\n10 \n\n30-x \n\n10 \n\n30 \n\n10 \n\nx \nx x x \n\nÁrea BED = Área ABCD + Área BEC – Área ABD – Área DEC \n\nÁrea BED = 12 + 4  2\n\n\n - 3  4\n\n\n - 3  2\n\n\n \n\nD \nC \n\n3 \n\n2 \n\n2\n\n2\n\n2\n\nÁrea BED = 12 + 4 – 6 – 3  \nÁrea BED = 7 \n \n \n \n \n \n \n\n2 \n\n2 2  \n\nE \n\n4 \n5 \n\n4 \n\n2 2  \n\nA \nB \n\n3 \n\n8 \n \n",
+      "cantidad_caracteres": 946,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": " \n\n38. La alternativa correcta es A \n \n\nF \nC \n\n15 \n\nAplicando \nel \nTeorema \nde \nPitágoras \nse \ndetermina que DC  = 17, que es diagonal del \nrectángulo y lado del cuadrado. Luego la \ndiagonal del cuadrado mide 17\n2  \n\n8 \n\nD \nE \n\nPor lo tanto, \n17\n1\n = \n17 2\n2\n\n \n\nB \n\n \n \n \n \n39. La alternativa correcta es C \n \n\nA \n\nC \n\nEn el ADC \nx2  = 4 + y2 (1) \nEn el ABC \n(2 5 )2 = 4 + (x + y)2  \n(x + y)2 = 20 – 4  \n(x + y)2 = 16 \nx + y = 4 (2) \nEn (1) \nx2 – y2 = 4 \n(x + y)(x – y) = 4 \nx – y = 1 \nPero (x + y) = 4, por (2) \n\n2 5  \n\n2 \n\nx \n\nA \nD \nB \n\ny \nx \n\nx + y = 4\nx  y = 1\n\n \n\n2x = 5  x = 5\n\n2  \n\ny = 4 - 5\n\n2   x = 3\n\n2  \n\nx · y = 15\n\n2  \n\n \n \n \n40. La alternativa correcta es B \n \n\nG \nF \n\nD \nC \n\nAplicando el Teorema de Pitágoras \nEn el AMD se tiene \nDM2 = AD2 + AM2 \nDM2 = 62 + (3\n5 )2 \nDM2 = 81 \nDM = 9 \n \n \n \n\nH \n\nE \n\nM \n\nA \nB \n\n9 \n \n",
+      "cantidad_caracteres": 839,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": " \n\n41. La alternativa correcta es C \n \n\nSi la tercera arista mide x cm, entonces \nSu área es  \n2(14 + 7x + 2x) = 316 \n9x + 14 = 158 \n9x = 144 \nx = 16 \nLuego, V = 2 · 7 · 16 = 224 cm3 \n \n \n42. La alternativa correcta es B \n\n \n \n\nVcilindro  \n=  r2h = x2(2x) = 2x3 \n\n2\n2\n3\nr h\nx (2x)\n2x\n3\n3\n3\n\n\n\n\n\n \n\nVcono   \n=  \n\n3\n2x\n\n  = 4\n\nPor lo tanto, 2x3 – \n\n3 x3 \n\n3\n\n \n \n \n43. La alternativa correcta es D \n \n\nx \n= (-5, 2) – 2(4, -4) + (3, 5) \n= (-5, 2) – (8, -8) + (3, 5) \n= (-5 – 8 + 3, 2 + 8 + 5)  \n= (-10, 15) \n \n \n \n44. La alternativa correcta es C \n \n \n\nSi un punto (x, y) se rota en 90° en torno al origen, las nuevas coordenadas son  \n(-y, x). \nLuego, las nuevas coordenadas de P y Q, respectivamente son, (-3, 5) y (-8, -2). \n \n \n \n45. La alternativa correcta es A \n \n \n\ny \n\nSi se considera PQ  como base cuya longitud es \n8 unidades, entonces la altura tiene que estar a \n3 unidades de PQ  o su prolongación. El punto \n\n6 \n-2 \n\nx \n-1 \n\n(1, -3) está a 2 unidades de PQ . \n \n \n \n \n\nP \nQ \n\n10",
+      "cantidad_caracteres": 1004,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": " \n\n46. La alternativa correcta es B \n \n\nSi ancho en el plano = x  \nancho = 40 m = 4.000 cm \nEntonces, \n\nx\n1\n = \n4.000\n200   x = 20 \n\n \n \n \n \n47.  La alternativa correcta es A \n \n\nC \n\nABD  ACB, por criterio A-A \nLuego,  \nSi AB = x y BD = y, entonces \n\n \n\n12 \n\n16\nx\n = \nx\n4   x2 = 64 \n\n12 \n\nD \n\n x = 8,  también \n\n \n\n4 \n\n12\nx\n = \ny\n4 12\n8\n = \ny\n4   y = 6 \n\n  \n\n \n\nA \nB \n\n \n \n \n \n48. La alternativa correcta es C \n\n \n\nL \n\nSegún la información entregada en la \nfigura, según Teorema de Thales: \n \n\nx \n4 \n\nM \n\nx\n12\n = \n4\n6  x = 8   \n\n6 \n12 \n\n \n \n \n \n \n49. La alternativa correcta es D \n\nN \n\n \n \n\nAplicando semejanza de triángulos \n\nx \n\n12\n0,6\n = \nx\n1   x = 12\n\n1 \n\n0,6  = 20 \n\n \n\n6\n10\n\n \n \n \n \n \n \n\n12 \n\n11 \n \n",
+      "cantidad_caracteres": 720,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": " \n\n50.   La alternativa correcta es B \n \n\nR \n\nSe tiene que RP = 60, TQ = 60 y QR = 180 \nRPQ  TSQ \nPor lo tanto,  \n \nTS\n60\n = \n60\n180   TS = 20 \n\n180 \n\n \n\nS \n\n \n \nx \n60 \n\n \n \n\n60 \n\nP \nT \nQ \n\n \n \n51.  La alternativa correcta es A \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n5 correctas \n\nNinguna \n\n10% \n\n10% \n\n4 correctas \n\n1 correcta \n\n12% \n\n20% \n\n3 correctas \n\n16% \n\n2 correctas \n\nComo máximo el 10% + 20% = 30% contestó 1 pregunta correctamente, entonces el \n70% contestó correctamente al menos 2 preguntas. \n \nLuego, 70% de 300 = 0,7 · 300 = 210 \n \n \n \n \n52. La alternativa correcta es C \n \n \n\nComo \nsuma de puntajes\nx = \nN° de partidos\n \n\nEntonces, 88 = P + 429\n\n6\n \n\n   \n \n   \n\n12 \n \n",
+      "cantidad_caracteres": 687,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": " \n\n53. La alternativa correcta es B \n\n \n \nA) Falso. \nLos datos se ordenan según el kilometraje y no según la frecuencia. \nB) Verdadero. Como la frecuencia del segundo intervalo es 7 y la suma total de las \n\nfrecuencias es 35, entonces 7\n1\n = \n35\n5  = 20%. \n\nC) Falso. \nEl intervalo es ]20, 45], es decir, NO considera el valor de 20 km, por \ntanto, no puede ser el mínimo del intervalo. \nD) Falso. \nAl analizar los dos primeros intervalos se incluye a 10 km (]5, 10]), \npor tanto, podría haber algún vehículo con exactamente 10 kilómetros \nde uso. \n \n \n\n \n \n54. La alternativa correcta es A \n \n\nn + (n  0,3) + (n  0,6) + (n  0,9) + (n  1,2)\nx = \n5\n\n\n\n\n \n\n5n  3,0\nx = \n5\n\n  \n\nx = n – 0,6 \n \n \n \n \n55. La alternativa correcta es D \n \n \n \n \n \n \n \n \n \n\nHoras \nNúmero de \n\nFrecuencia relativa \n\nAlumnos \n\nporcentual \n\n[0, 6[ \n16 \n20% \n\n[6, 12[ \n32 \n40% \n[12, 18[ \n24 \n30% \n\n[18, 24] \n8 \n10% \n\nComo los datos están agrupados en intervalos, no es posible determinar la cantidad de \nalumnos que estudia ",
+      "cantidad_caracteres": 1183,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": " \n\n57. La alternativa correcta es B \n\n \n \nSe deben ordenar los datos de menor a mayor \n \n4, 5, 5, 6 , 6, 6, 7, 7, 7, 7, 8, 8, 8, 9, 11 \n \n \n \nCon número total de datos n = 15 \n \n\nQ1 \nQ3 \nA \n\nA) Verdadero. 2\n16\n(n + 1) = \n4\n2  = 8, es decir, el segundo cuartil se encuentra en el 8° \n\nlugar y corresponde a un 7. \n\nB) Falso. \n99\n99  16\n(n + 1) = \n100\n100\n\n\n = 15,84, como es un decimal, se promedian \n\nlos valores del 15° y del 16°  9 + 11\n\n2\n = 10, entonces el percentil 99 \n\nes 10. \nC) Verdadero. R = Q3 – Q1 \n\nQ1 = 1\n1\n(n + 1) = \n16\n4\n4 \n = 4°, en el cuarto lugar hay un 6. \n\nQ3 = 3\n3  16\n(n + 1) = \n4\n4\n\n = 12°, en el 12vo lugar hay un 8. \n\nD) Verdadero. Q3 = 12°, según los visto en C), que corresponde a un 8. \n \n \n \n58. La alternativa correcta es B \n \n \n\nProbabilidad pedida = 4\n4\n8\n2\n + \n = \n = \n52\n52\n52\n13  \n\n \n \n \n \n59. La alternativa correcta es C \n\n \n \nGanar a lo menos 1 de 3 partidos implica que lo que no podría pasar es que perdiera \nlos tres partidos, por lo que resulta más dire",
+      "cantidad_caracteres": 1291,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": " \n\n60. La alternativa correcta es A \n \n \n\nProbabilidad = 18\n17\n16\n  \n  \n20\n19\n18\n\n\n \n\nSimplificando se obtiene = 68\n\n95  \n\n \n \n \n61. La alternativa correcta es C \n \n\nTotal de casos posibles = 10 \nTotal de caras (casos favorables) = 6 \n\nProbabilidad pedida = 6\n\n10  = 0,6 = 60% \n\n \n \n62. La alternativa correcta es C \n \n \n \n \n \n \n \n \n\nGrupo I \nGrupo II \nGrupo III \nGrupo IV \nPollo asado \nEnsalada mixta \nPuré \nFruta \nPescado frito \nPalta reina \nArroz \nHelado \nBistec de Vacuno \n \n \nPanqueque \nCostillar al Horno \n \n \nBudín \n\n6\n1\n1\n1\n1\n1\n1\n1\n \n \n \n \n \n \n = \n = \n =\n4\n2\n2\n4\n64\n2\n2\n\n\n\n\n\n\n\n\n\n = (0,5)6 \n\nProbabilidad = \n\n6\n\n \n \n63. La alternativa correcta es B \n\n \n \n\n7\n7\n102\n102\n2\n = \n = \n510.000.000\n51  10\n10\n\n\n = 2 · 10-7 \n\nProbabilidad = \n\n \n\n \n64. La alternativa correcta es A \n \n\n2\n5\n6\n\n\n\n\n\n\n\n = 1 – 25\n\n36  = 11\n\nProbabilidad de Adrián = 1 - \n\n36  \n\nN° de casos favorables para Pablo: {(4, 4); (4, 5); (4, 6); (5, 4); (5, 5); (5, 6); (6, 4); \n(6, 5); (6, 6)} \n\nProbabilidad de Pa",
+      "cantidad_caracteres": 1026,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": " \n\n65. La alternativa correcta es D \n \n\nUsando diagrama de Venn se tiene \n \n \n \n \n \n \n \n \n \n \n \n \n\nCantidad total de personas = 350 \nA \nB \n\nx \n80 \n200 \n\n20 \n\n20 + 200 + 80 + x = 350  x = 50 \n\nProbabilidad pedida = 50\n1\n = \n350\n7  \n\n16 \n \n",
+      "cantidad_caracteres": 239,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.28515625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

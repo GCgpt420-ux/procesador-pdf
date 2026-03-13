@@ -1,0 +1,567 @@
+{
+  "archivo_original": "TP 03.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TP 03.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 7,
+  "fecha_procesamiento": "2026-03-07T23:07:55.891321",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n3-2 – 9-1 + 2-3 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-26"
+        },
+        {
+          "letra": "B",
+          "texto": "-8"
+        },
+        {
+          "letra": "C",
+          "texto": "1 8"
+        },
+        {
+          "letra": "D",
+          "texto": "8"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nSi a = 5\n\n, b = 2\n3   y c = 7\n\n, entonces el orden creciente es \n\n5\n\n7",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "b, c, a"
+        },
+        {
+          "letra": "B",
+          "texto": "b, a, c"
+        },
+        {
+          "letra": "C",
+          "texto": "a, b, c"
+        },
+        {
+          "letra": "D",
+          "texto": "a, c, b"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \n(PAES 2) ¿Cuál de las siguientes afirmaciones no  es válida?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Si log2 1 16 = x, entonces x = -4."
+        },
+        {
+          "letra": "B",
+          "texto": "Si 2 log x = 16, entonces x = 256."
+        },
+        {
+          "letra": "C",
+          "texto": "Si X log 1 25 = 2, entonces x = 0,2."
+        },
+        {
+          "letra": "D",
+          "texto": "Si x log 16 2,entonces x = -4 1"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nUn postre contiene x partes de helado e y partes de fruta. ¿Qué porcentaje del postre \ncorresponde a fruta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x + y 100y %"
+        },
+        {
+          "letra": "B",
+          "texto": "100x x + y %"
+        },
+        {
+          "letra": "C",
+          "texto": "100y x + y %"
+        },
+        {
+          "letra": "D",
+          "texto": "x + y 100x %"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nUna farmacia para competir en el mercado decide bajar el precio de un medicamento \nen un 20%. Pasado un tiempo requiere venderlo al precio original. ¿En qué porcentaje \ndebe subir el nuevo precio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "En un 20%"
+        },
+        {
+          "letra": "B",
+          "texto": "En un 25%"
+        },
+        {
+          "letra": "C",
+          "texto": "En un 28%"
+        },
+        {
+          "letra": "D",
+          "texto": "En un 30%"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSi f(x) = 3x  y  a  0, entonces el perímetro del triángulo rectángulo sombreado de la \nfigura adjunta  es \n \n \n\nf(x) \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8a"
+        },
+        {
+          "letra": "B",
+          "texto": "4a(1 + 10 )"
+        },
+        {
+          "letra": "C",
+          "texto": "a(4 + 10 )"
+        },
+        {
+          "letra": "D",
+          "texto": "4a + 10"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TP 03_p2_img7.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nDentro de a años Roberto tendrá (p – a) años y Andrea hace a años tenía la edad \nactual de Roberto. ¿Cuál es la suma de las edades actuales? \n \n \n\nx \na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2p + a"
+        },
+        {
+          "letra": "B",
+          "texto": "2p – a"
+        },
+        {
+          "letra": "C",
+          "texto": "2p – 2a"
+        },
+        {
+          "letra": "D",
+          "texto": "2p – 3a 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8.   Si a, b, m y n son números reales positivos y se verifica que  a\nm\n = \nb\nn   y                     \n\n2a + 3b = 6m + 9n, entonces a · b =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6mn"
+        },
+        {
+          "letra": "B",
+          "texto": "9mn"
+        },
+        {
+          "letra": "C",
+          "texto": "36mn"
+        },
+        {
+          "letra": "D",
+          "texto": "2m2 + 5mn + 3n2"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEl ingreso que genera la fabricación de x televisores, está dado por la función  \nT(x) = -x2 + 16x – 34. ¿Cuál es la cantidad de televisores que se debe fabricar para \nque el ingreso sea máximo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "30"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. La función que permite calcular la suma de los primeros n números naturales es                 \n\nf(n) = n\n\n2 (n + 1). La suma de los números naturales mayores o iguales a 20 y menores \n\nque 100 es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5.050"
+        },
+        {
+          "letra": "B",
+          "texto": "4.860"
+        },
+        {
+          "letra": "C",
+          "texto": "4.840"
+        },
+        {
+          "letra": "D",
+          "texto": "4.760"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. (PAES 2) El rectángulo A1B1C1D1 de la figura adjunta es imagen homotética del \n\nrectángulo ABCD con centro H, la razón de homotecia podría ser \n \n\n \nA \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": " = -2"
+        },
+        {
+          "letra": "B",
+          "texto": " = - 1 C1 B1 2 H"
+        },
+        {
+          "letra": "C",
+          "texto": " = 1"
+        },
+        {
+          "letra": "D",
+          "texto": " = 1 2 D1 A1 C B"
+        },
+        {
+          "letra": "E",
+          "texto": " = 2 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TP 03_p3_img5.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Al punto P(x, y) se le aplica una rotación de magnitud 180º con centro en el  \n\npunto (2, 3) y luego una traslación según el vector T(3, 2), las coordenadas resultantes \ndel punto P luego de aplicada las trasformaciones son",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(3 – x, 2 - y)"
+        },
+        {
+          "letra": "B",
+          "texto": "(4 – x, 6 - y)"
+        },
+        {
+          "letra": "C",
+          "texto": "(x + 3, y + 2)"
+        },
+        {
+          "letra": "D",
+          "texto": "(7 – x, 8 - y)"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. La figura adjunta, representa el perfil de la escalera de una casa, cuyos peldaños tienen \n\ntodos la misma altura y el mismo largo. Si AB  = 2m  y  el BCA = 30º, ¿cuál es la \n\nmedida del largo de cada peldaño? \n \n \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 3 3 2 m"
+        },
+        {
+          "letra": "B",
+          "texto": "3 6"
+        },
+        {
+          "letra": "C",
+          "texto": "3 2 B C"
+        },
+        {
+          "letra": "D",
+          "texto": "3 3"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TP 03_p4_img16.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En la figura adjunta, OABC es un cuadrado y E es el punto de intersección de la recta   \n\ny = x con la recta y = a\nx\n + \n3\n2  que pasa por el punto D. La razón entre las áreas del \n\nDOE y del cuadrado OABC es \n \n \n\ny = x \n\ny \n\nC \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 : 4"
+        },
+        {
+          "letra": "B",
+          "texto": "1 : 5"
+        },
+        {
+          "letra": "C",
+          "texto": "1 : 7"
+        },
+        {
+          "letra": "D",
+          "texto": "1 : 9"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TP 03_p4_img16.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Considerando los datos de la figura adjunta,  ¿cuál es el valor de x + y?    \n \n \n\ny = \n \n\nE \n\nD \n\n \n\nA \na \nO \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "7,5 5 9 6 4"
+        },
+        {
+          "letra": "C",
+          "texto": "28 3 x"
+        },
+        {
+          "letra": "D",
+          "texto": "13,5 y 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TP 03_p4_img16.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En la asignatura de Matemática, Pedro tiene un promedio de 5,2 con 9 notas. Si tiene \n\nque eliminar las dos notas más bajas, que son un 2,5 y un 3,0, ¿cuál es su nuevo \npromedio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,9"
+        },
+        {
+          "letra": "B",
+          "texto": "5,7"
+        },
+        {
+          "letra": "C",
+          "texto": "5,6"
+        },
+        {
+          "letra": "D",
+          "texto": "5,3"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. A una fiesta de fin de año asisten 80 hombres, 100 mujeres y 60 niños. Si hubieran \n\nasistido 30 parejas más y 20 niños más, entonces la frecuencia relativa de los niños",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumentaría en un 33,3%."
+        },
+        {
+          "letra": "B",
+          "texto": "disminuiría en un 25%."
+        },
+        {
+          "letra": "C",
+          "texto": "aumentaría en un 25%."
+        },
+        {
+          "letra": "D",
+          "texto": "se mantendría igual."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. (PAES 2) Si se tiene el conjunto de todos los números de una, dos o tres cifras \n\ndistintas que se pueden construir con los dígitos 2, 3 y 4, y de este conjunto se toma \nun número al azar,  ¿cuál es la probabilidad que este número sea impar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 5"
+        },
+        {
+          "letra": "B",
+          "texto": "1 3"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "2 3"
+        },
+        {
+          "letra": "E",
+          "texto": "3 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. (PAES 2) A un congreso asisten 60 personas de las cuales 40 sólo hablan inglés y 20 \n\nsólo alemán.  ¿Cuántos diálogos (entre 2 personas) pueden establecerse sin intérprete?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "190"
+        },
+        {
+          "letra": "B",
+          "texto": "590"
+        },
+        {
+          "letra": "C",
+          "texto": "780"
+        },
+        {
+          "letra": "D",
+          "texto": "970"
+        },
+        {
+          "letra": "E",
+          "texto": "1.770 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. \nLos romanos jugaban con un dado de 14 caras; 6 cuadradas y 8 triangulares.  Si al \nhacer rodar uno de estos dados, la probabilidad de que la cara superior sea cuadrada, \nes el doble de que sea triangular, entonces al lanzar uno de estos dados, ¿cuál es la \nprobabilidad de que la cara superior sea triangular?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 5"
+        },
+        {
+          "letra": "B",
+          "texto": "3 5"
+        },
+        {
+          "letra": "C",
+          "texto": "3 8"
+        },
+        {
+          "letra": "D",
+          "texto": "3 7"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. (PAES 2) Se puede determinar la abscisa del vértice de la parábola f(x) = x2 + px + q, \n\nsi: \n \n\n(1) se conoce el valor numérico de q. \n(2) se conoce el valor numérico de p.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. (PAES 2) Un nadador realiza varias pruebas en su especialidad de 800 m. Se puede \n\ndeterminar el promedio de los tiempos obtenidos en las pruebas, si se conoce: \n \n\n(1) el número de pruebas efectuadas. \n\n(2) la mediana y la moda de los tiempos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    }
+  ]
+}

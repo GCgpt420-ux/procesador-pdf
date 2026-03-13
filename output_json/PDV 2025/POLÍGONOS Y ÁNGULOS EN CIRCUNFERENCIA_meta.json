@@ -1,0 +1,193 @@
+{
+  "filename": "POLÍGONOS Y ÁNGULOS EN CIRCUNFERENCIA.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/POLÍGONOS Y ÁNGULOS EN CIRCUNFERENCIA.pdf",
+  "num_paginas": 25,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T16:00:53.594325",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "POLÍGONOS Y ÁNGULOS \nEN LA CIRCUNFERENCIA \n\n \n",
+      "cantidad_caracteres": 46,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 1224.9248046875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "MATEMÁTICA\n172\n\n6.\t POLÍGONOS Y CUADRILÁTEROS\n\n6.1\t POLÍGONOS\n\nUn polígono es una figura plana, cerrada, limitada por trazos llamados lados y que se intersectan sólo en sus puntos \nextremos (no se cruzan), denominados vértices.\n\nPolígono convexo: Es un polígono donde cada ángulo interior mide menos de 180º.\nPolígono cóncavo: Es aquel polígono que tiene al menos un ángulo interior mayor a 180°.\n\n6.1.2\t NOMBRES DE ALGUNOS \n\n6.1.3\t PROPIEDADES DE POLÍGONOS \n\nCONVEXOS DE n LADOS\n\nPOLÍGONOS\n\n•\t Suma de los ángulos interiores  =  180° • (n – 2)\n\n•\t Diagonales desde un vértice  =  n – 3\n\n•\t Suma de los ángulos exteriores  =  360°\n\n•\t Total de diagonales  = n • (n ‒ 3)\n2\n\nEJERCICIOS\n\n1. \t ¿Cuánto suman las medidas de los ángulos interiores de un heptágono?\n",
+      "cantidad_caracteres": 759,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "CAPÍTULO III: GEOMETRÍA I 173\n\n2. \t El número de diagonales que se pueden trazar desde un vértice en un pentágono es\n\n3. \t El número total de diagonales de un hexágono es\n\n4. \t La suma de los ángulos exteriores de un octágono es\n\n5. \t ¿En qué tipo de polígono, la suma de los ángulos interiores es igual a la suma de los ángulos exteriores?\n\n6. \t ¿Qué polígono es tal que el número total de sus diagonales es igual al número de sus lados?\n\n7. \t ¿Cuál es el número de lados de un polígono, si de cada uno de sus vértices se pueden trazar 12 diagonales?\n\nRespuestas\n1.   900º\n2.   2\n3.   9 4.   360º\n5.   Cuadrilátero\n6.   Pentágono\n7.   15\n",
+      "cantidad_caracteres": 639,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": "MATEMÁTICA\n174\n\n6.2\t POLÍGONO REGULAR\n\nEs aquel que tiene sus lados y sus \nángulos interiores respectivamente \ncongruentes. En caso contrario se dice \nque es irregular.\n\nEn todo polígono regular de n lados, su \nángulo interior        y su ángulo exterior        ’\nse calculan mediante las fórmulas:\n\n180º (n‒2)\n\nn\n=\n= 360º\n\nn\n\nOBSERVACIONES\n\n•\t Al trazar todas las diagonales correspondientes a cada vértice de un \npolígono regular, dividen a los ángulos interiores en ángulos de igual medida.\n\n•\t El hexágono regular es el único polígono regular que se puede dividir\nen seis triángulos equiláteros congruentes.\n\nEJERCICIOS\n\n1. \t ¿Cuánto mide el suplemento de un ángulo interior de un hexágono regular?\n",
+      "cantidad_caracteres": 703,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": "CAPÍTULO III: GEOMETRÍA I 175\n\n2. \t ¿Cuántos lados tiene un polígono regular cuyos ángulos interiores miden 150º?\n\n3. \t Si la suma de los ángulos interiores de un polígono regular es 1.800º, ¿cuánto mide su ángulo exterior?\n\n4. \t En el hexágono regular de la figura adjunta, ¿cuánto mide el ángulo x?\n\n5. \t En el pentágono regular de la figura adjunta, ¿cuál es la medida del ángulo      ?\n\nRespuestas\n1.   60º 2.   12\n3.   30º 4.   90º 5.   36º\n",
+      "cantidad_caracteres": 446,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": "MATEMÁTICA\n176\n\n7.   CUADRILÁTERO\n\nCuadrilátero es cualquier polígono de 4 lados.  Los Cuadriláteros convexos se clasifican en: Paralelogramos, Trapecios \ny Trapezoides.\n\nPROPIEDADES\n\n•\t La suma de los ángulos interiores es 360º.\n\n•\t La suma de los ángulos exteriores es 360º.\n\nEJERCICIOS\n\n1. \t Si en la figura adjunta, L1 , L2 , L3 y L4 son rectas, entonces ¿cuánto mide el ángulo x?\n\n2. \t En el cuadrilátero PQRS de la figura adjunta,           = 60º  y           = 100º . Entonces, la medida de la mitad de\n\t\n(x + y) es\n\nR\nS\n\ny\n\nx\n\nP\nQ\n",
+      "cantidad_caracteres": 539,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "CAPÍTULO III: GEOMETRÍA I 177\n\n3. \t En el cuadrilátero ABCD de la figura adjunta, DE⊥CE ,       ABC = 100º y            +           = 160º (A, D y E son colineales). \n\nEntonces, x mide\n\n4. \t Si en el cuadrilátero de la figura adjunta,       +     =     , entonces           es igual a\n\n5. \t En el cuadrilátero ABCD de la figura adjunta,  CM y AE son bisectrices de       DCB y       DAB, respectivamente. \n\nEntonces, el ángulo EMC mide\n\nRespuestas\n1.   30º 2.   80º 3.   10º 4.   95º 5.   20º\n",
+      "cantidad_caracteres": 493,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "texto": "MATEMÁTICA\n178\n\n7.1\t PARALELOGRAMO\n\nParalelogramo es aquel cuadrilátero que tiene dos pares de lados opuestos paralelos.\n\nCLASIFICACIÓN Y PROPIEDADES\n\nCUADRADO\nROMBO\nRECTÁNGULO\nROMBOIDE\n\nNombre\n\nPropiedades\n\nPropiedades de todo paralelogramo\n\nLados opuestos \ncongruentes\n\nÁngulos opuestos \ncongruentes\n\nLas diagonales\nse dimidian\n\nÁngulos contiguos \nsuplementarios\n\nDiagonales \nperpendiculares\n\nDiagonales \nbisectrices\n\nDiagonales \ncongruentes\n\nOBSERVACIONES\n\nSi un cuadrilátero cumple con alguna de las siguientes propiedades, entonces es un paralelogramo.\n\n•\t Sus ángulos opuestos son congruentes.\n\n•\t Sus diagonales se dimidian.\n\n•\t Sus lados opuestos son congruentes.\n\n•\t Sus ángulos contiguos son suplementarios.\n",
+      "cantidad_caracteres": 718,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "texto": "CAPÍTULO III: GEOMETRÍA I 179\n\nEJERCICIOS\n\n1. \t ¿Cuál(es) de los siguientes cuadriláteros es (son) un paralelogramo?\n\n2. \t ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)?\n\nI)\t Todo paralelogramo tiene sus lados opuestos congruentes.\nII)\t Todo paralelogramo tiene sus ángulos opuestos congruentes.\nIII)\t Dos ángulos contiguos de un paralelogramo son complementarios.\nIV)\t Las dos diagonales de todo paralelogramo son bisectrices de los ángulos interiores.\n\n3. \t En la figura adjunta, L1 // L2. ¿Cuál(es) de las siguientes proposiciones es (son) siempre verdadera(s)?\n\nI)\t ACDF es un paralelogramo.\n\nII)\t Si          = 60º entonces BCDE es un paralelogramo.\n\nIII)\t Si AB = BE y           = 90º, entonces ABEF es un cuadrado.\n\n4. \t Si se tiene un paralelogramo, ¿cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)?\n\nI)\t Sus diagonales son congruentes.\nII)\t Sus diagonales son perpendiculares.\nIII)\t Sus diagonales se dimidian.\nIV)\t Sus ángulos contiguos son suplementa",
+      "cantidad_caracteres": 1076,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "texto": "MATEMÁTICA\n180\n\n7.2\t TRAPECIO\n\nEs aquel cuadrilátero que tiene sólo un par de lados paralelos, llamados bases.\n\n7.2.1\t\nTRAPECIO ESCALENO\n\nSus lados no paralelos ( AD y BC ) son distintos \ny sus cuatro ángulos interiores son distintos.\n\nD\nC\n\nPropiedad\n\nLos ángulos  colaterales internos \nentre las bases son suplementarios\n\nB\nA\n\nAB // CD\n\n7.2.2\t\nTRAPECIO ISÓSCELES\n\nSus lados no paralelos son congruentes.\n\nD\nC\n\nPropiedades\n\nÁngulos basales congruentes.\n\nDiagonales congruentes.\n\nÁngulos opuestos suplementarios.\n\nB\nA\n\nAB // CD\n\n+\n\n7.2.3\t\nTRAPECIO RECTÁNGULO\n\nD\nC\n\nUno de sus lados no paralelos es perpendicular\na las bases\n\nPropiedad\n\nB\nA\n\nAB // CD\n",
+      "cantidad_caracteres": 649,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 0.419921875
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "CAPÍTULO III: GEOMETRÍA I 181\n\nEJERCICIOS\n\n1. \t En el trapecio de la figura adjunta,  AB // CD  y  BC = CD . Si el       BDC = 35º, entonces el        ABC mide\n\nD\n\nC\n\nA\nB\n\n2. \t Si en el trapecio isósceles ABCD de la figura adjunta,  AB // CD  y      BAD  = 40º, entonces la mitad del ángulo\n\t\n     DCB mide\n\nD\n\nC\n\nA\nB\n\n3. \t Si en el trapecio rectángulo ABCD de la figura adjunta,  AB // CD  y AD = DC, entonces la medida del ángulo\n\nBAC es\n\nD\n\nC\n\nA\nB\n",
+      "cantidad_caracteres": 451,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "texto": "MATEMÁTICA\n182\n\nEJERCICIOS\n\n4. \t En la figura adjunta, ABCD es un cuadrado y  EG // AB  . ¿Cuál(es) de las siguientes afirmaciones es (son) siempre \n\nverdadera(s)?\n\nI)\t ∆ BFC es isósceles.\n\nII)\t FG  es altura del  ∆ BFC.\n\nIII)\t Los trapecios  ABFE  y  DCFE  son congruentes.\n\n5. \t En la figura adjunta,  DC // AB . Si   AD ≅ BC  ≅ DC , ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)?\n\nI)\t ∆ BDC es isósceles.\n\nII)\t AC  es bisectriz del      DAB.\n\nIII)\t ∆ CAD ≅ ∆ DBC \n\nRespuestas\n1.   70º 2.   70º 3.   45º 4.   II\n5.   I, II y III\n",
+      "cantidad_caracteres": 548,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "texto": "CAPÍTULO III: GEOMETRÍA I 183\n\n7.3\t TRAPEZOIDE\n\nTrapezoide es aquel cuadrilátero que no tiene pares de lados paralelos. Los trapezoides se clasifican en simétricos \ny asimétricos.\n\nPROPIEDADES DE UN DELTOIDE\n\n•\t Diagonales perpendiculares.\n\n•\t Una diagonal es bisectriz.\n\n•\t La diagonal que es bisectriz, es a su vez, simetral de la otra diagonal.\n\nEJERCICIOS\n\n1. \t En la figura adjunta, DEFG es un deltoide con  GD = DE . Si       DGF = 109º y       EDF = 14º, entonces el ángulo GFE \n\nmide\n\nF\n\nE\nG\n\nD\n",
+      "cantidad_caracteres": 503,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "texto": "MATEMÁTICA\n184\n\n2. \t En el deltoide ABCD de la figura adjunta, DC = BC. Si      CBA = 135º y       DCB = 70º, entonces       BDC +       CAD =\n\n3. \t En el deltoide ABCD de la figura adjunta, AB = AD. Si       BAD = 50º y      ADC = 150º, entonces la medida del án-\n\ngulo x es\n\nC\n\nD\n\nX\nA\n\nB\n\n4. \t En el trapezoide ABCD de la figura adjunta,       DCB = 120º,       BAD = 60º y        BDC = 40º. Entonces, la medida \n\ndel       DBA es\n\nRespuestas\n1.   114º\n2.   65º\n3.   85º\n4.   60º\n",
+      "cantidad_caracteres": 482,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "texto": "CAPÍTULO III: GEOMETRÍA I 185\n\n8.   ÁNGULOS EN LA CIRCUNFERENCIA\n\n8.1\t DEFINICIÓN\n\nDado un punto O del plano y una distancia r, se llama circunferencia de centro O y radio r \nal conjunto de todos los puntos del plano que están a una distancia r del punto O.\n\n8.2\t ELEMENTOS DE UNA CIRCUNFERENCIA\n\nRADIO :\nTrazo cuyos extremos son el centro de la circunferencia y un punto de ésta ( OA ).\n\nCUERDA :\nTrazo cuyos extremos son dos puntos de una circunferencia ( DE ).\n\nDIÁMETRO :\nCuerda que contiene al centro de la circunferencia. Mide dos radios ( BC ).\n\nSECANTE :\nRecta que intersecta en dos puntos a la circunferencia ( PQ ).\n\nTANGENTE :\nRecta que intersecta a la circunferencia en un solo punto ( TM , siendo T punto de tangencia).\n\nARCO :\nEs una parte de la circunferencia determinada por dos puntos distintos de ella (arco CE).\n\nOBSERVACIONES\n\n•\t El triángulo formado por dos \nradios y una cuerda tiene por lo \nmenos dos lados iguales (∆ DOE).\n\n•\t ÁNGULO DEL CENTRO: Es todo ángulo cuyo \nvértice e",
+      "cantidad_caracteres": 1079,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "texto": "MATEMÁTICA\n186\n\nEJERCICIOS\n\n1.\t Conteste verdadero (V) ó Falso (F) a las siguientes afirmaciones:\n\na.\t ____\t En una circunferencia, una cuerda y una tangente forman un ángulo del centro.\n\nb.\t ____ \tEl radio de una circunferencia mide el doble de su diámetro.\n\nc.\t ____\t La cuerda de mayor longitud de una circunferencia es el diámetro.\n\nd.\t ____\t Por tres puntos en el plano siempre pasa una circunferencia.\n\ne.\t ____\t Dos cuerdas son congruentes, si los arcos que subtienden son\t congruentes.\n\nf.\t ____\t Si dos circunferencias son concéntricas entonces sus diámetros siempre son congruentes.\n\ng.\t ____\t Una secante contiene a una cuerda.\n\nh.\t ____\t Dos circunferencias que tienen el mismo centro son concéntricas.\n\ni.\t ____\t Dos circunferencias son congruentes si sus radios son congruentes.\n\nj.\t ____\t Un radio esta determinado por dos puntos de la circunferencia.\n\nk.\t ____\t El triángulo formado por dos radios y una cuerda de igual longitud que el radio, es equilátero.\n\n2.\t En la circunferencia ",
+      "cantidad_caracteres": 1446,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "texto": "CAPÍTULO III: GEOMETRÍA I 187\n\n8.3\t MEDIDA ANGULAR DE UN ARCO\n\nEn toda circunferencia la medida angular de un arco es igual a la medida del ángulo \ndel centro que subtiende dicho arco.\n\nD\n\nO\n\narco DE =      DOE = \n\nE\n\nO: centro de la circunferencia.\n\n8.4\t ÁNGULO INSCRITO\n\nEs todo ángulo cuyo vértice es un punto de la circunferencia y parte de sus lados \nson cuerdas de ésta.\n\nG\n\nF\n\nÁngulo Inscrito = FGH\n\nH\n\n8.4.1\t\nTEOREMA 1\n\nTodo ángulo inscrito en una circunferencia tiene como medida la mitad del ángulo del centro que subtiende \nel mismo arco. O: centro de la circunferencia.\n\nC\n\nF\n\nD\n\nA\n\nB\n\nE\nO\nO\nO\n\n1 \n2\n\nO\n\nA\nB\nA\nA\n\nB\nB\n\n8.4.2\t TEOREMA 2\n\nDos cuerdas paralelas en una circunferencia, determinan entre ellas arcos congruentes.\n\nB\n\nO\nA\n\nD\n\nC\n",
+      "cantidad_caracteres": 749,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "texto": "MATEMÁTICA\n188\n\nEJERCICIOS\n\n1. \t En la circunferencia de centro O de la figura adjunta, ¿cuánto mide     ?\n\n2. \t En la circunferencia de centro O de la figura adjunta, el arco AB mide 110°, entonces la diferencia entre los \n\nángulos BOA y BPA es\n\n3. \t En la circunferencia de centro O de la figura adjunta, 3     –     = 60º. Entonces, la medida de       es\n\n4. \t En la circunferencia de centro O de la figura adjunta,      POQ = 120°. Entonces, la medida de      +     +      es\n\n5. \t En la circunferencia de centro O de la figura adjunta,  BC // AD  y       CAD = 40º. Entonces, arco DA + arco BC =\n\nRespuestas\n1.   80º\n2.   55º\n3.   60º\n4.   180º\n5.   200º\n",
+      "cantidad_caracteres": 660,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "texto": "CAPÍTULO III: GEOMETRÍA I 189\n\n8.5\t OTROS TEOREMAS \tDE ÁNGULOS \n\nEN LA CIRCUNFERENCIA\n\n8.5.2\t TEOREMA 4\n\n8.5.1\t\nTEOREMA 3\n\nTodos los ángulos inscritos en una circunferencia \nque subtienden un mismo arco tienen igual medida.\n\nTodo ángulo inscrito en una semicircunferencia \nes recto (subtiende un arco de 180º).\n\nC\n\nB\n\nC\n\nB\n\nA\nO\n\nA\n\nD\n\nO: centro de la circunferencia\n\nBCA  =  90º \n\n= \n\n8.5.3\t TEOREMA 5\n\n8.5.4\t TEOREMA 6\n\nEn todo cuadrilátero inscrito en una circunferencia, \nlos ángulos opuestos son suplementarios.\n\nLa recta tangente a una circunferencia es perpen­\ndicular al radio en el punto de tangencia.\n\nC\nD\n\nO\nr\nQ\n\nP\n\nA\n\nB\n\nO: centro de la circunferencia\n\n+       = 180º \n+       = 180º \nQP  tangente en P => QP ⊥ OP\n",
+      "cantidad_caracteres": 725,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "texto": "MATEMÁTICA\n190\n\nEJERCICIOS\n\n1. \t En la circunferencia de la figura adjunta,      +  2     +  3     +  4     + 5     =  150°, entonces el arco  AB =\n\n2. \t En la figura adjunta, PT es tangente a la circunferencia de centro O, en T. La medida del      QPT es\n\n3. \t En la circunferencia de la figura adjunta, TQ es diámetro,      TQR = 20º. La medida del      RPQ es\n\n4. \t En la figura adjunta, el cuadrilátero  ABCD  está inscrito en la circunferencia. Si       = 2      y      –     =  50°, entonces\n\t\n    +     =\n\nRespuestas\n1.   20º\n2.   10º\n3.   70º\n4.   125º\n",
+      "cantidad_caracteres": 561,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "texto": "CAPÍTULO III: GEOMETRÍA I 191\n\n8.6\t ÁNGULO SEMI-INSCRITO\n\nEs aquel ángulo que tiene su vértice en la circunferencia ( B ), \nparte de uno de sus lados es una cuerda ( AB ) y el otro lado es \nparte de una tangente ( BC ).\n\nÁngulo Semi-inscrito = \nABC = \n\n8.6.1\t\nTEOREMA 7\n\nLa medida de todo ángulo semi-inscrito en una circunferencia es \nigual al ángulo inscrito que subtiende el mismo arco.\n\n= arco AB  \n\n2\n\nEJERCICIOS\n\n1. \t En la circunferencia de centro O de la figura adjunta, \n\n2. \t En la circunferencia de centro O de la figura adjunta, \n\nAD  es tangente en A y       DAB = 50°. Entonces, la \nmedida de        BCA +        ABO es\n\nCT  es tangente y  AB  es diámetro, entonces la medida \ndel      CAB es\n\nRespuestas\n1.   90º\n2.   38º\n",
+      "cantidad_caracteres": 737,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "texto": "MATEMÁTICA\n192\n\n8.7\t ÁNGULO INTERIOR DE LA CIRCUNFERENCIA\n\n8.7.2\t TEOREMA 8\n8.7.1\t\nÁNGULO INTERIOR\n\nEl ángulo interior de la circunferencia es aquel que \nse forma al cortarse dos cuerdas al interior de la \ncircunferencia.\n\nLa medida del ángulo interior corresponde a la \nsemisuma de los arcos que subtiende.\n\nE\n\nÁngulo Interior = \n CED = \n= arco AB  +  arco CD \n\n2\n\n8.8\t ÁNGULO EXTERIOR DE LA CIRCUNFERENCIA\n\n8.8.2\t TEOREMA 9\n8.8.1\t\nÁNGULO EXTERIOR\n\nEl ángulo exterior, está formado por dos rectas \nsecantes o tangentes, o una recta secante y una \ntangente, que se intersectan en un punto exterior \na la circunferencia.\n\nLa medida del ángulo exterior corresponde a la \nsemidiferencia de los arcos que subtiende.\n\n= arco CD ‒ arco AB\n\n2\n\nÁngulo Exterior =  CPD =\n\narco CD  >  arco AB\n",
+      "cantidad_caracteres": 783,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 8.7119140625
+        },
+        {
+          "index": 1,
+          "tipo": 1,
+          "tamanio_kb": 8.7119140625
+        },
+        {
+          "index": 2,
+          "tipo": 1,
+          "tamanio_kb": 7.623046875
+        },
+        {
+          "index": 3,
+          "tipo": 1,
+          "tamanio_kb": 7.623046875
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "texto": "CAPÍTULO III: GEOMETRÍA I 193\n\nEJERCICIOS\n\n1. \t En la circunferencia de la figura adjunta, arco AB = 100° y arco CD = 30°, entonces la medida del       x es\n\n2. \t En la circunferencia de la figura adjunta,  DP  y  PA  son secantes, arco DA = 150°, entonces la medida de arco \n\nBC es\n\n3. \t En la circunferencia de la figura adjunta, los puntos A, B, C y D pertenecen a la circunferencia y las cuerdas AC \n\ny BD se intersectan en el punto E. Si las medidas de los arcos DA y BC son 80° y 30° respectivamente, ¿cuál es \nel valor de     –    ?\n\nRespuestas\n1.   115º\n2.   70º\n3.   30º\n",
+      "cantidad_caracteres": 580,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "texto": "MATEMÁTICA\n194\n\nEJERCICIOS ADICIONALES\n\n1. \t En la circunferencia de centro O de la figura adjunta,  PA  y  PC son secantes;  AB  y  ED  son diámetros. Conteste \n\nverdadero (V) o Falso (F) a las siguientes afirmaciones\n\na.\t ____\t      APC es ángulo exterior.\n\nb.\t ____\t      ADP es ángulo semi-inscrito.\n\nc.\t ____\t      ADP es ángulo interior.\n\nd.\t ____\t      DOB es ángulo del centro.\n\ne.\t ____\t      DAB es ángulo interior.\n\nf.\t ____\t      ADB = 90°\n\ng.\t ____\t La medida del segmento AB es igual a la medida del segmento AD.\n\nh.\t ____\t      DAB =      DEB.\n\ni.\t ____\t AD  //  EB\n\nj.\t ____\t 2     AOE  =       BED +      ADE\n\nk.\t ____\t     CPA =      ADC ‒     DAB\n\n2. \t En la figura adjunta, la recta FB es tangente en el punto B a la circunferencia de centro O, donde AB  y  CE son \n\ndiámetros. Conteste verdadero (V) o Falso (F) a las siguientes afirmaciones\n\na.\t ____\t      DBF es ángulo exterior\n\nb.\t ____\t      DOB =      DBF\n\nc.\t ____\t      ADB = 90°\n\nd.\t ____\t AD = DB\n\ne.\t ____\t OE = OB\n\nf.",
+      "cantidad_caracteres": 1176,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "texto": "CAPÍTULO III: GEOMETRÍA I 195\n\n3. \t En al figura adjunta, el valor de x es\n\nx\n\n4. \t En la figura adjunta, ∆ ABC ≅ ∆ DBE  y         ACB ≅       DBA. Si los triángulos ABC y DBE no son equiláteros, entonces \n\n¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)?\n\nC\n\nE\n\nF\n\nD\n\nI)\t El ∆ ABD es isósceles\n\nII)\t El ∆ DFC es isósceles\n\nA\n\nIII)\t El ∆ BFE es isósceles\n\nB\n\n5. \t En la figura adjunta, los puntos A, B, C y D pertenecen a la circunferencia de centro O. Si el ángulo exterior BEC \n\nmide 30° y el ángulo interior BFC mide 70°, entonces el ángulo inscrito CAB mide\n\nC\n\nD\n\nF\nO\n\nE\n\nA\n\nB\n\n3.   90º\n4.   I, II y III\n5.   50º\n\nRespuestas\n1.  a. V\nb. F\nc. F\nd. V\ne. F\nf. V\ng. F\nh. V\ni. V\nj. F\nk. V\n2.  a. F\nb. F\nc. V\nd. F\ne. V\nf. F\ng. V\nh. V\ni. F\nj. V\nk. V\n",
+      "cantidad_caracteres": 763,
+      "imagenes": []
+    }
+  ]
+}

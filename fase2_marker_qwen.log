@@ -1,0 +1,33 @@
+2026-03-07 17:17:13,061 - INFO - ✅ Ollama/Qwen conectado
+2026-03-07 17:17:13,062 - INFO - 📦 Total PDFs: 1
+2026-03-07 17:17:13,062 - INFO - ✓ Ya procesados: 0
+2026-03-07 17:17:13,062 - INFO - ⏳ Pendientes: 1
+2026-03-07 17:17:13,065 - INFO - 📄 Procesando: 🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile 
+2026-03-07 17:17:19,354 - ERROR - Marker falló: Usage: marker [OPTIONS] IN_FOLDER
+Try 'marker --help' for help.
+
+Error: No such option: --batch_multiplier
+
+2026-03-07 17:17:19,354 - ERROR - ❌ Marker falló en 🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile 
+2026-03-07 17:17:19,355 - INFO - 
+============================================================
+2026-03-07 17:17:19,355 - INFO - ✅ COMPLETADO
+2026-03-07 17:17:19,355 - INFO - Procesados: 0
+2026-03-07 17:17:19,355 - INFO - Errores: 1
+2026-03-07 17:17:19,355 - INFO - Tiempo: 0.1 min
+2026-03-07 17:17:19,355 - INFO - ============================================================
+2026-03-07 17:18:07,328 - INFO - ✅ Ollama/Qwen conectado
+2026-03-07 17:18:07,328 - INFO - Progreso cargado: 0 archivos
+2026-03-07 17:18:07,329 - INFO - 📦 Total PDFs: 1
+2026-03-07 17:18:07,329 - INFO - ✓ Ya procesados: 0
+2026-03-07 17:18:07,329 - INFO - ⏳ Pendientes: 1
+2026-03-07 17:18:07,332 - INFO - 📄 Procesando: 🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile 
+2026-03-07 17:23:07,508 - ERROR - Marker timeout en /home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/2.Fillad/z Ensayos Clasificados Fillad/🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile .pdf
+2026-03-07 17:23:07,525 - ERROR - ❌ Marker falló en 🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile 
+2026-03-07 17:23:07,550 - INFO - 
+============================================================
+2026-03-07 17:23:07,550 - INFO - ✅ COMPLETADO
+2026-03-07 17:23:07,550 - INFO - Procesados: 0
+2026-03-07 17:23:07,551 - INFO - Errores: 1
+2026-03-07 17:23:07,551 - INFO - Tiempo: 5.0 min
+2026-03-07 17:23:07,551 - INFO - ============================================================

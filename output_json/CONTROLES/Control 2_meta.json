@@ -1,0 +1,196 @@
+{
+  "filename": "Control 2.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/CONTROLES/Control 2.pdf",
+  "num_paginas": 13,
+  "titulo": "",
+  "autor": "Luis Pranao",
+  "fecha_procesamiento": "2026-03-07T16:03:18.408864",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemáticas  \nMaterial : MA-16 \n \n\n \n\n \n \n \n \n \n \n \n1. \nTres décimos de una semana de 7 días corresponde a  \n \n \n\nCONTROL N° 2 \n\nA) 2 días y 1 hora \nB) 2 días, 2 horas y 4 minutos \nC) 2 días, 2 horas y 24 minutos \nD) 2 días y 12 horas \n \n \n \n \n\n-3\n1\n1  2\n\n\n\n\n\n\n\n\n2. \n\n =  \n\n \n \n\nA)  8 \nB)  5 \nC) -8 \nD) -7 \n \n \n \n3. \nEn el conjunto de los números enteros, ¿cuál(es) de las siguientes afirmaciones  \nes (son)  FALSA(S)? \n \n \n\nI) \nEl cero es par. \nII) \nEl 1 es compuesto. \nIII) \nEl cero es múltiplo de todos los números enteros. \n \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y III \n\n \n \n \n \n",
+      "cantidad_caracteres": 602,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.3955078125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 43.4931640625
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "4. \nSe tienen 2 botellas de 3\n\n4  litro que contienen agua hasta la mitad, y 3 botellas de 1\n\n2  \n\nlitro que contiene agua hasta la cuarta parte. ¿Cuántos litros de agua hay en total en \nlas 5 botellas? \n \n\nA) \n9\n8  \n\nB) 3 \nC) 9 \n\nD) 15\n\n8  \n\n \n \n \n5. \nSabiendo que un “cuadrado perfecto” es el cuadrado de un número natural, que Q, R y \nS son 3, 4 y 16, pero no necesariamente en ese orden y además que se deben cumplir \nlas siguientes condiciones: \n \n \n\n1. R es un cuadrado perfecto. \n2. S es un entero impar. \n3. R es menor que Q. \n \n \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \nQ es un cuadrado perfecto. \nII) \nR es un múltiplo de 4. \nIII) \nS es un cuadrado perfecto. \n \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \n \n \n \n6. \nLa suma de tres números enteros consecutivos es igual a 90. ¿Cuál(es) de las \nsiguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nDos de los números son primos. \nII) \nEl mayor de los números es primo. \nIII) \nUno de los números",
+      "cantidad_caracteres": 1113,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "7.   Si a = \n27   y  b = \n3 , ¿cuál de los siguientes expresiones representa un número \nirracional?  \n \n \n\nA) \na\nb  \n\nB) b\n\na  \n\nC) a + b \nD) (a + b)2   \n \n \n \n\n8. \nEl orden de los números  M = 2\n\n, N = 4\n\n  y  P = 6\n\n de menor a mayor es  \n\n2\n\n3\n\n7\n\n \n \n\nA) N, P, M \nB) M, P, N \nC) N, M, P \nD) M, N, P \n\n \n \n \n \n\n9. \nEl valor de la expresión \n7\n4 3\n7\n4 3\n\n\n\n es \n \n \nA) igual a 1. \n \nB) irracional negativo. \n \nC) irracional positivo. \n \nD) racional positivo no entero. \n \n \n \n \n10. A cada niño que ingresaba a un parque de diversiones, se le asignaba un número por \n\norden de llegada y un globo con un color distintivo. Si el primer niño que ingresó recibió \nun globo amarillo, el segundo uno azul, el tercero uno rojo, el cuarto uno verde, el \nquinto uno amarillo, el sexto uno azul, el séptimo uno rojo, y así sucesivamente, ¿de \nqué color fueron los globos que recibieron, respectivamente, los niños que ingresaron \ncon los números 96 y 101?  \n \n \n\nA) Verde y amarillo. \nB) Azul y rojo. \nC) R",
+      "cantidad_caracteres": 1046,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "11. Un camino de m kilómetros se divide en dos tramos que están en la razón 2 : 3. Si el \n\ncosto de pavimentar un kilómetro es $ p, ¿cuál es el costo de pavimentar el tramo más \nlargo? \n \n \n\nA) $ 5mp\n\n3\n \n\nB) $ 3mp\n\n5\n \n\nC) $ 2mp\n\n5\n \n\nD) $ 3m\n\n5  \n\n \n \n \n \n\n12. Si a y b son números reales positivos, ¿qué tanto por ciento es a\n\nb  de (a ∙ b)? \n\n \n\nA) 100b2% \n\n2\nb\n100 % \n\nB) \n\n2\n100\n\nC) \n\n% \n\nb\n\nD) 100a2% \n \n \n \n13. Por un artículo se paga $ 47.600, incluido un impuesto del 19%. Entonces, el valor del \n\nartículo sin impuesto es  \n \n \n\nA) $ 38.080 \nB) $ 38.556 \nC) $ 38.600 \nD) $ 40.000 \n \n \n \n \n14. Mario pide a un banco un préstamo de $ 300.000, el cual debe pagar en 12 cuotas \n\nmensuales iguales. Si el banco le cobra un interés anual del 15%, ¿cuánto debe pagar \npor cada cuota? \n \n \n\nA) $   3.750 \nB) $ 25.000 \nC) $   3.720 \nD) $ 28.750 \n\n \n4\n",
+      "cantidad_caracteres": 853,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "15. Se vende una soldadora en $ 20P perdiéndose en esta venta el Q% de su costo. Si esta \n\nsoldadora se hubiese vendido en $ 18P, ¿qué porcentaje se hubiera perdido? \n \n\nA) 9Q %\n10\n\n \n\nB) 11Q %\n10\n \n\nC) \n9Q\n20 %\n10\n\n\n\n\n\n\n\n\n \n\nD) \n9Q\n10 %\n10\n\n\n\n\n\n\n\n\n \n\n \n \n \n16. Si a = -3, entonces -a + a2 – a3 es  \n \n \n\nA)  39 \nB) -15 \nC)   21 \nD)   33 \n \n \n \n \n17. Si Andrea tiene (3n – 4) años y Claudia tiene (4n – 6) años, ¿cuál será la suma de sus \n\nedades en 6 años más? \n \n \n\nA) (7n – 10) años \nB) (7n + 2) años \nC) (7n – 4) años \nD) (13n – 4) años \n \n \n \n \n18. Si los lados de dos cuadrados miden p cm y (p – q) cm, con p > q  y  q > 0, ¿cuál es la \n\ndiferencia positiva de sus áreas? \n \n \n\nA) q2 cm2 \nB) q(2p – q) cm2 \nC) q(q – 2p) cm2 \nD) q(p – q) cm2 \n \n \n \n \n \n\n \n5\n",
+      "cantidad_caracteres": 777,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "19. Los lados de un rectángulo miden p cm y q cm. Si su área es 96 cm2 y p2 + q2 = 208, \n\n¿cuál es el valor de p – q, si p > q? \n \n\nA) 4 cm \nB) 16 cm \nC) 20 cm \nD) 4\n7 cm \n \n \n \n\n20. Un estudiante realiza los siguientes pasos para simplificar la fracción x(-4  x) - 4(-1  x)\n\n\n\n\n\n\n, \n\nx(x  3)  2(x  3)\n\ncon x  3  y  x  2. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n¿En cuál de los pasos realizados por el estudiante se cometió un error? \n \nA) Paso 1 \nB) Paso 2 \nC) Paso 3 \nD) Paso 4 \n \n \n\n   x(-4  x)  4(-1  x)\n\n\n\n\n\n\n\n \n\nx(x  3)  2(x  3)\n\nPaso 1 \n\n2\n\n2\n-4x  x  + 4 + 4x\n\n\n\n= \n\n \n\nx   3x   2x + 6\n\n\n\n\nPaso 2 \n\n2\n\n4  x\n\n\n\n= \n\n \n\n2\n\nx   5x + 6\n\n\n\nPaso 3 \n\n= (2  x)(2 + x)\n\n\n\n\n \n\n(x  3)(x  2)\n\nPaso 4 \n\n= -2 + x\n\nx  3\n\n \n\n1\n1  x\n\n\n\n21. Con x ≠ 0 y x   1, entonces \n\n = \n\n1\n1  \n\n\n\n2\n\nx\n\n \n\n1\nx  1\n\n \n\nA) \n\n \n\nx\nx + 1  \n\nB) \n\n \n\nC) -\nx\nx  1\n\n \n\n-1\nx  1\n\n \n\nD) \n\n \n\n \n\n \n6\n",
+      "cantidad_caracteres": 889,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "22. El recíproco de x en la ecuación 3\nx\nx\n2\n4\n, es \n\n \n\nA) - 6\n\n \n\n5\n\nB)  5\n\n6  \n\nC)  6\n\n \n\n5\n\nD)  3\n\n \n\n5\n\n \n \n \n \n\n23. Se sabe que   p = q  x\n\n\n, con x  -r, entonces x es  \n\nx + r\n\n \n \n\nA) \nq  rp\n\n\n,  con p  -1 \n\np + 1\n\nB) \nq + rp\n\np + 1 ,  con p  -1 \n\nC) rp  q\n\n\n,  con p  -1 \n\np + 1\n\nD) q + rp\n\np  1\n\n,  con p  1 \n\n \n \n \n \n \n24. Por la venta de A artículos en el mes de febrero se obtuvo $P, en el mes de marzo, por \n\nla venta de la misma cantidad de artículo se obtuvo $Q más. ¿Cuál es el incremento \nporcentual del precio de venta de cada artículo del mes de febrero al mes de marzo? \n \n \n\nA) \nQ\n\nA  · 100 \n\nB) \nQ  P\n\n\n · 100 \n\nA\n\nC) \nQ\n\nP  · 100 \n\nD) P  Q\n\nA\n\n · 100 \n\n \n \n \n \n \n\n \n7\n",
+      "cantidad_caracteres": 703,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "25. En un receptáculo se mezclan 10 litros de alcohol de 90° con 50 litros de alcohol de \n\n60°. ¿Cuántos litros de agua se debe agregar a la mezcla para obtener alcohol de 40°? \n \n \n\nA) 18,75 litros \nB) 32,5 litros \nC) 37,5 litros \nD) 45,5 litros \n \n \n \n \n26. Un agricultor que tenía un fundo de H hectáreas, decidió quedarse sólo con  \n\n15 hectáreas y el resto del fundo lo repartió en partes iguales entre sus tres hijos. \n¿Cuál de las siguientes expresiones representa la cantidad de hectáreas que recibió \ncada uno de sus hijos? \n \n \n\nA) H\n\n3  – 5  \n\nB) H\n\n3  – 15 \n\nC) H  5\n\n\n \n\n3\n\nD) H – 5 \n\n \n \n \n \n27. En un número de dos cifras, el dígito de las unidades es a y el dígito de las decenas es \n\nb, entonces el antecesor del número se puede representar como \n \n \n\nA) b + a – 1  \nB) 10a + b – 1  \nC) 10b + a – 1  \nD) 10b – (a – 1)  \n \n \n \n\n28.  Un tambor con arena pesa 300 kg. Si el peso del tambor es 1\n\n5  del contenido, entonces \n\nla cantidad de arena pesa \n \n \n\nA) 230 kg \nB) 240 kg \nC) 250",
+      "cantidad_caracteres": 1027,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "29. Un profesor tomó una prueba de 50 preguntas decidiendo otorgar 5 puntos por cada \n\nrespuesta correcta, restar 2 puntos por cada repuesta errada y por cada respuesta en \nblanco, 0 puntos. Si un alumno obtiene 153 puntos y tiene tres correctas por cada \nrespuesta en blanco, ¿cuántas preguntas contestó incorrectamente? \n \n \n\nA) 5 \nB) 6 \nC) 7 \nD) 8 \n \n \n \n \n30. El Oro Amarillo es una aleación que tiene 75% de oro fino, 12,5% de plata fina y \n\n12,5% de cobre. La cantidad de plata fina que tiene una pieza de oro amarillo con 15 \ngramos de oro fino es \n \n\n \nA) 2,8 gramos \nB) 1,875 gramos \nC) 2,875 gramos \nD) 2,5 gramos \n \n \n \n \n31. En el ABC de la figura adjunta, si M es punto medio del segmento AB y \n\nBCM\nMBC\n30°\n\n\n, entonces el BAC mide \n\n \n \n \n \n \n \n \n \n \n \n\nC \n\nA \nM \nB \n\nA) 30º \nB) 45º \nC) 60º \nD) 75º \n \n \n \n \n \n \n \n \n \n \n\n \n9\n",
+      "cantidad_caracteres": 844,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "32. El cuadrilátero de la figura adjunta es un rectángulo en que M y  N son puntos medios \n\nde AB  y CD , respectivamente. Si AB = 16 cm y BC = 6 cm, ¿cuál(es) de las siguientes \nproposiciones es (son) verdadera(s)? \n \n \n \n \n \n \n \n \n \n \n \n\nD \nN \nC \n\nA \nM \nB \n\nI) \nPerímetro Paralelógramo MBND\n9\n = \nPerímetro Trapecio ABND\n10  \n\nII) \nPerímetro Trapecio MBCD\n10\n = \nPerímetro Rectángulo ABCD\n11  \n\nIII) \nÁrea Triángulo BCN\n1\n = 2\nÁrea Triángulo ABC\n\n \n\n \n\n \nA) Solo III \nB) Solo I y II \nC) Solo I y III \nD) I, II y III  \n \n \n \n \n33. Según la información entregada para el trapecio de la figura adjunta, ¿cuál(es) de las \n\nsiguientes afirmaciones es (son) verdadera(s)? \n \n \n \n \n \n \n \n \n \n\n2 cm \n\n10 cm \n\n6 cm \n\n45° \n\nI) \nEl perímetro del trapecio es 38 cm. \nII) \nEl área del trapecio es 54 cm2. \nIII) \nLa mediana del trapecio mide 9 cm. \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo II y III \n\n \n \n\n \n10\n",
+      "cantidad_caracteres": 905,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "34. En la figura adjunta el triángulo ABC es isósceles, rectángulo en A, y BC es el arco de \n\ncircunferencia con centro en A. Si AB  mide a cm, ¿cuál es el área en cm2 de la figura \nachurada? \n \n \n \n \n \n \n \n\nC \n\n2\na\n2\n4\n\n \n\nA) \n\n\n\nA \nB \n\n2\na\n1\n4\n\n \n\nB) \n\n\n\n2\na\n2\n2\n\n \n\nC) \n\n\n\n2\na\n1\n2\n\n \n\nD) \n\n\n\n \n \n \n \n35. Si en la figura adjunta, ABCD es un cuadrado, BE  BC\n\n y CBE = 30º, entonces el \n\nángulo x mide  \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nE \n\nx \n\nA \nB \n\nA) 15º \nB) 20º \nC) 25º \nD) 30º \n \n \n \n \n36.  La figura adjunta muestra un cuadrado inscrito en un semicírculo de diámetro 20 cm, \n\n¿cuál es el área del cuadrado? \n \n \n\nA) 40 cm2 \nB) 56 cm2 \nC) 60 cm2 \nD) 80 cm2 \n \n \n\n \n11\n",
+      "cantidad_caracteres": 686,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "37. Una persona decide cambiar su televisor actual y comprar uno nuevo. Si el largo del \n\nnuevo televisor es un 20% menos que el largo de su televisor antiguo y el ancho del \nnuevo televisor es un 20% más que el ancho de su televisor antiguo, entonces el área \ndel nuevo televisor es  \n \n \n\nA) un 36% menor que el área del televisor antiguo. \nB) un 44% mayor que el área del televisor antiguo. \nC) un 14% menor que el área del televisor antiguo. \nD) un 4% menor que el área del televisor antiguo. \n \n \n \n38. En el triángulo de la figura adjunta, EF  es mediana, CH es transversal de gravedad. Si \n\nel área del ABC mide 48 cm2, entonces el área del AHF mide  \n \n \n \n \n \n \n \n \n \n \n \n\nC \n\nE \nF \n\nA \nH \nB \n\nA)   6 cm2   \nB)   8 cm2 \nC) 12 cm2 \nD) 16 cm2 \n \n \n \n \n39. En el cuadrado ABCD de la figura adjunta, los puntos E, F, G, H son puntos medios de \n\nAB , BC , AC y GF , respectivamente. Si AC = 8 cm, entonces el perímetro del EBH es  \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nG \nH \nF \n\nA \nB \n\nE \n\nA) 2(4 + \n2 ",
+      "cantidad_caracteres": 1079,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": "40. La figura adjunta está formada por dos cuadrados de lado 6 cm que se intersectan. Si \n\nM y N son puntos medios de los lados, ¿cuál es el área de esta figura? \n \n \n \n \n \n \n \n \n \n \n \n \n\nN \n\nM \n\nA) 36 cm2 \nB) 63 cm2 \nC) 64 cm2 \nD) 72 cm2 \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMA-16 \n\n \n13\n",
+      "cantidad_caracteres": 322,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "filename": "2091-Solucionario Ex Cátedra N°5 Matemática 2016.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/2016/SOLUCIONARIOS/2091-Solucionario Ex Cátedra N°5 Matemática 2016.pdf",
+  "num_paginas": 17,
+  "titulo": "",
+  "autor": "Compaq610",
+  "fecha_procesamiento": "2026-03-07T16:04:35.792736",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Curso: Matemática \n\n \n \n \n\nSOLUCIONARIO \nEX CATEDRA N° 5 \n \n \n \n1. La alternativa correcta es D \n \n \n\n1\n1\n  \n3\n9\n2\n3\n\n2\n9\n6\n3\n\n\n\np  = 2\n\n = 2\n\n6  = 1\n\nSi 1\n\n3 . Luego, \n\n  =  \n\n3  \n\n \n \n2. La alternativa correcta es C \n \n \n\nI) \nFalso, 5\n2\n25  4\n21\n  \n = \n = \n2\n5\n10\n10\n\n\n                \n\nII) \nFalso, 1\n-1\n-1\n · \n = \n3\n3\n9                            \n\nIII) \nVerdadero, 15\n5\n-15 + 15\n0\n-\n + \n = \n = \n = 0\n12\n4\n12\n12\n   \n\n \n \n3. La alternativa correcta es  A \n \n \n\n(-3)2 · (2 – 3) – (-23 - 12) = 9 · (-1) – (-8 – 1) = -9 – (-9) = -9 + 9 = 0 \n \n \n \n4. La alternativa correcta es E \n \n \n\nEs un problema de proporción directa, pues si recorre más distancia más gasolina \ngastará.  \n \n\n4  = 2,25, entonces 2,25\n7,5\n = \n32\nx  de donde x = 32 · 7,5\n\nSabemos que 9\n\n2,25\n \n\n \n \n \n5. La alternativa correcta es C \n \n\nI) \nVerdadera: Observando el grafico se deduce.     \nII) \nFalsa: No se sabe que pasa después de las 22 hrs.   \nIII) \nVerdadera: Basta analizar el grafico.  \n \n",
+      "cantidad_caracteres": 969,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n\n6. La alternativa correcta es A \n \n \n\n2\n2\n\n2\n0,2   0,1\n(0,2  0,1)(0,2 + 0,1)\n0,3\n3\n = \n = \n = \n = 3\n(0,2  0,1)(0,2  0,1)\n0,1\n1\n(0,2  0,1)\n\n\n\n\n\n\n\n    \n\n \n\n \n \n \n7. La alternativa correcta es C \n \n \n\nEl  1° triángulo está constituido por 3 fósforos. \nEl  2° triángulo está constituido por 7 fósforos. \nEl  3° triángulo está constituido por 11 fósforos. \n \nSu diferencia es 4 unidades y podríamos crear la formula 4n – 1 donde n = número de \nfósforos. Luego, reemplazando n por 90 nos da lo solicitado. \n \n \n8. La alternativa correcta es D \n \n\n2\n\n2\n3k  1  i(3k + 1)\n\n\n\n \n\n1  i\n3k + i\n\n\n 3k  i\n\n\n = \n\n2\n2\n3k  i  3ki + i\n\n\n\n\n = \n\n3k + i\n\n9k  + 1\n\n9k   i\n\n\n\n \n\nLuego,  \n3k+ 1 = 0 \n \n \n \n3k = 1 \n\n \n \n \nk = - 1\n\n3   \n\n \n \n9. La alternativa correcta es C \n \n \n \n\n400\n203\n\n4\n\n = 1  i\n\n\n = - 1 + i \n\n102\ni\n + i\n\n2\ni  + -i\n\n  = \n\n-1\n\ni\n\ni\n\n \n \n \n10. La alternativa correcta es E \n \n \n\nk2 – 4  < 0 \nk2 < 4 \n-2 < k < 2 \n \n \n \n \n \n \n\n2 \n \n",
+      "cantidad_caracteres": 941,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \n\n11. La alternativa correcta es C \n \n \n\n6\n5\n2   2\n\n  \n \n\nEl quinto término es \n\n7\n6\n-2   2\n\n es irracional negativo ya que es raíz de índice impar y \nsub-radical negativo. \n \n \n \n \n12. La alternativa correcta es A \n\nY el sexto término es \n\n \n \n\n2\n1\n1  x\n\n\n\n\n\n\n = 1\n1\n  \n  1\nx\n\n\n\n\n\n\n\n\n\n\n\n\n\n1 – 1\n\n = 1\n\n2\n1\n\n2\n2\n1\n  \n + \nx\nx\n\n = x-1 – x-2 \n\nx  – \n\nx  – \n\nx\n\n \n \n \n \n13. La alternativa correcta es E \n \n \n\nI) \nFalso, cuando el número es negativo. \nII) \nFalso, cuando la cifra que viene es menor a 5. \nIII) \nFalso, la aproximación por defecto y exceso no es única. \n \n \n \n \n14. La alternativa correcta es C \n \n \n\nI) \n24\n24\n = \n = 4\n1 · 2 · 3\n6\n (Verdadera) \n\nII) \n36\n36\n = \n = 6\n1 · 2 · 3\n6\n (Verdadera)  \n\nIII) \nFalsa, imposible dividirlo por 3 enteros consecutivos, para que dé entero \npues el número 27 = 3 · 3 · 3  ó  9 · 3  ó  27 · 1. \n \n \n \n15. La alternativa correcta es A \n \n \n\nSi el kilo vale $ p y sacarle los cuescos  cuesta $ k, entonces las aceitunas sin cuesco \n(desh",
+      "cantidad_caracteres": 1043,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": " \n\n16. La alternativa correcta es B \n\n \n \nSi tienes $ 3.500 y te sobraron $ 620, entonces ocupaste $ (3.500 – 620) = $ 2.880. \nSi dicha cantidad la divides por el costo de cada estacionamiento ($ 320) te dará el total \nde veces que estacionaste. \n \n \n17. La alternativa correcta es A \n\n     \n \nBasta reemplazar en cada alternativa, por ejemplo en la primera alternativa si m = -6 \n\nnos queda: -6\n-6\n-6\n6\n-42 + 48\n6\n  \n = \n + \n = \n = \n8\n7\n8\n7\n56\n56\n\n ¡Qué sorpresa! \n\n \n \n18. La alternativa correcta es A \n\n \n \nFactorizando (3y2 – 4y – 15) nos queda (3y + 5) · (y – 3). \nRecuerda que el área de un rectángulo es largo por ancho. \n \n \n \n19. La alternativa correcta es B \n\n \n \n\nTransformando a fracción impropia nos da: \n1\n1\n3\n7\n1\n  2\n = \n  \n2\n3\n2\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n donde comparando se \n\ndeduce que: a = 3\n\n2   y  b = 7\n\n3  y reemplazando nos queda: \n\n7\n7\n7\n3\n3\n3\n3\n42\n3\n14\n15  28\n13\n3\n3\n3\n3\n + \n = \n + \n = \n + \n = \n  \n = \n  \n = \n = -\n = -1\n2\n2\n2\n2\n15\n2\n5\n10\n10\n10\n3\n7\n9  14\n-5\n  \n2\n3\n6\n6",
+      "cantidad_caracteres": 1402,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": " \n\n21. La alternativa correcta es A \n \n \n\nI) \nVerdadera: Si p y q no son múltiplos de 5, entonces su producto tampoco \nlo es. \nII) \nFalsa: No siempre, por ejemplo si p = 8  y  q = 6 su resta no es múltiplo \nde 5. \nIII) \nFalsa: No siempre, mismo ejemplo anterior. \n \n \n \n22. La alternativa correcta es C \n\n \n \nUsar propiedad (multiplicación de potencias de igual base). \n \n111 – a + 1 + a + 2a + 2 = 114 +2a  \n \n \n \n \n23. La alternativa correcta es B \n \n \n\n1\n1\np\npr\nr\np\np\n = \n = \n = \n = \n1\n1\np + r\np(p + r)\np + r\nr\n + p\n + \nr\np\npr\n\n-1\n\n \n\n-1\n-1\n\n \n \n \n24. La alternativa correcta es E \n \n \n\n     Se debe cumplir k  3\n2\n = \nk + 3\n5\n\n de donde 5(k – 3) = 2(k + 3) entonces 5k – 15 = 2k + 6 \n\n     Luego, 3k = 21 así  k = 7     \n \n \n \n \n25. La alternativa correcta es C \n \n \n\nI) \nFalsa: M = 1\n\n2 a + 5 multiplicando todo por 2, nos da 2M = a + 10  \n\n2\n1\n1\na + 5\n = \n2\n4\n\n\n\n\n\n\n\na2 + 2 · 1\n\nII) \nFalsa: M2=\n\n2 a · 5 + 52           \n\nIII) \nVerdadera: En  M = 1\n\n2 a + 5 sumando sacando MCM nos da M =",
+      "cantidad_caracteres": 1025,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": " \n\n26. La alternativa correcta es B \n\n \n\nSe debe despejar x  y nos queda x = a + b\n\n2\n y para que nos dé exacto o los 2 son     \n\npares o los 2 son Impares. \n \n \n \n \n27. La alternativa correcta es D \n \n \n\nI) \nFalso, (3 + \n2 )2 = 32 + 2 · 3 · \n2  + ( 2 )2 = 9 + 6\n2  + 2 = 11 + 6\n2  \n \n\nII) \nVerdadero, \n10 + 1 · \n10  1 = \n100  1 = 10  1 = 9 = 3\n\n\n\n    \n \nIII) \nVerdadero, \n\n3 12  5 27\n3 4 · 3  5 9 · 3\n6 3  15 3\n9\n3\n = \n = \n = -\n3 3\n3 3\n3 3\n\n\n\n\n\n = -3                  \n\n3\n3\n\n \n \n28. La alternativa correcta es A \n \n \n\nResolviendo -6 + 4x ≥ -10  nos queda  4x ≥ -10 + 6,  4x ≥ -4,  x ≥ -1 \n \n \n \n \n29. La alternativa correcta es E \n \n \n\nI) \nComo P(1, 2) y T(-1, -2) su ecuación es \ny  -2\n-2  2\n = \nx  -1\n-1  1\n\n\n\n\n donde \n\ny + 2\n-4\n = \n = 2\nx + 1\n-2\n. y + 2 = 2(x + 1) así y = 2x, luego pasa por el origen, es \n\ndiámetro. Verdadera \n\nII) \nBasta calcular las pendientes entre ON   y OV  su producto debe dar -1. \n\nAsí  O(0,0)  y  N(2,1) pendiente m = 1\n\n2 ,  O(0,0)  y  V(1,-2) pendiente    ",
+      "cantidad_caracteres": 1277,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": " \n\n \n31. La alternativa correcta es A \n \n \n\nLa semi-diferencia es la mitad de la resta entre ellos y el doble de su suma es multiplicar \npor 2 dicha suma. \n     \n \n \n32. La alternativa correcta es E \n \n \n\nTaxi A: 100m paga $ 150           Taxi  B: 100m paga $ 250 \n \n200m paga $ 300                        200m  paga $ 350 \n \n300m paga $ 450 \n \n300m paga  $ 450 \n \n400m paga $ 600 \n \n400m paga  $ 550 \n \n \n \n33. La alternativa correcta es A \n \n \n      Se deduce que:   0 < t ≤ 30 paga $ 500 \n\n30 < t ≤ 60 paga $ 900 \n60 < t ≤ 90 paga $ 1.400, etc. Es del tipo parte entera. \n \n \n \n34. La alternativa correcta es C \n \n \n\nLa transversal de gravedad parte de un vértice y pasa por el punto medio del lado      \nopuesto. En este caso, parte de C(4, 2) y pasa por punto medio de AB que es (5, 5). \n\nLa ecuación es y  5\n5  2\n3\n = \n = \nx  5\n5  4\n1\n\n\n\n\n de donde 1(y – 5) = 3(x – 5) luego ordenar e igualar \n\nla ecuación a cero. \n \n \n \n35. La alternativa correcta es B \n\n \n \nHay que tener en cuenta el co",
+      "cantidad_caracteres": 1329,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": " \n\n \n36. La alternativa correcta es E \n\n \n \nf(x) = 2x pasa por el (0, 0) y (2, 4). \ng(x) = -x + 6 pasa por (0, 6) (2, 4) y (6, 0). \n \nLuego el vértice C es (2, 4) común a f(x)  y  g(x)  A(-2, 0)  y   B(6, 0) \n \n\nI) \nVerdadero: el punto C tiene como coordenadas (2, 4). \n\nII) \nVerdadero: la base mide 6  y  la altura 4 luego su área es 6 · 4\n\n2\n = 12.  \n\nIII) \nVerdadero: la base mide 8  y la altura 4, luego su área es  8 · 4\n\n= 32. \n\n2\n \n\n \n \n37. La alternativa correcta es E \n\n \n \nBasta con un contraejemplo para ver la opción incorrecta. \n-3 > -2 pero si le sacamos los valores absolutos es falsa. \n \n \n \n38. La alternativa correcta es A \n\n \n \nEs una ecuación exponencial: 5x = 52 de donde x = 2  y  el sucesor es 2 + 1. \n \n \n39. La alternativa correcta es A \n\n \n \nPor la definición de la función logaritmo, se transforma en potencia. \n\na\nlog B = x, entonces ax = B \n\n \n \n40. La alternativa correcta es B \n\n \n \nComienza con: 2 = 21 \n\nA la hora: 2 · 4 = 23 = 8 \nA las 2 horas: 2 · 4 · 4 = 25 = ",
+      "cantidad_caracteres": 1152,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": " \n\n41. La alternativa correcta es E \n\n \n \n \nPara f(x) = ax2 + bx + c, se tiene que a < 0 y c > 0 \n \n2 ceros : x1 = -1  y x2 = 5 \n \n \n \n42. La alternativa correcta es A \n \n \n\nI) \nVerdadero, trabajar con las pendientes entre A´O  y  OA . \nII) \nFalso, trabajar también con pendientes y deben salir iguales. \nIII) \nFalso, por concepto de rotación, se giró en 90º [R(0, 90) de (x, y) queda                 \n(-y, x)] \n \n \n43. La alternativa correcta es D \n\n \n \nPara que se cumplan las condiciones dadas el triangulo debe ser Isósceles donde la base \nes  AB. \n \n \n44. La alternativa correcta es C \n \n \n\nI) \nVerdadera: pues el perímetro del Hexágono es 6 unidades y el perímetro \nde cada triángulo es 3 unidades y como son 6 triángulos, el perímetro total \nes 18 unidades. \nII) \nVerdadera: pues el área de cualquier Hexágono regular es igual al área de \n6 triángulos equiláteros. \nIII) \nFalsa: pues el perímetro de la estrella es el doble del perímetro del \nhexágono. \n \n \n45. La alternativa correcta es B \n\n",
+      "cantidad_caracteres": 1381,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": " \n\n47. La alternativa correcta es D \n \n \n\nI) \nVerdadero: tiene 4 ejes de simetría. \nII) \nVerdadero: tiene 2 ejes de simetría. \nIII) \nFalso: tiene 1 eje de simetría. \n \n \n \n48. La alternativa correcta es B \n \n \n\nCentro de Simetría significa que si una figura se rota en 180° queda de la misma \nmanera. \n \n \n\nI) \nFalsa: Ningún triangulo tiene Centro de Simetría. \nII) \nVerdadera: Su centro de simetría es la intersección de las diagonales. \nIII) \nFalsa: No tiene, sólo lo tienen los polígonos regulares de cantidad de lados \npares. \n \n \n49. La alternativa correcta es D \n \n \n \n\nEs una simple proporción directa: 60 cm\n90 cm\n = \n40 cm\nx\n de donde x = 60 cm. \n\n \n \n \n50. La alternativa correcta es D \n      \n \n\nA \nB \n\nCompletando la figura con la medida de \nsus ángulos, se puede analizar cada \nopción. \n \n \n \n \n51. La alternativa correcta es A \n\nE \nO \n\nC \n\nD \n\n \n \nTrazo menor: x \n\nTrazo mayor: 5\n\n4 x = 80% \n\nNos piden trazo, menor\nx\n4\n = \n = \ntrazo, mayor\n5\n5 x\n4\n\n= 80% \n\n \n \n\n10 \n \n",
+      "cantidad_caracteres": 983,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": " \n\n52. La alternativa correcta es D \n     \n \n\nC \n\n5 \n5 \n\nQ \n\nCompletando \ncon \nlos \ndatos \ndados, \nademás, usando Pitágoras y que las \nrectas \ntangentes \nmiden \nlo \nmismo, \npodemos completarla como sigue: \n \n \n \n \n \n53. La alternativa correcta es E \n\nR \n\n15 \n8 \n\nO \n\n10 \n\n8 \n17 \n\nA \nP \nB \n\n10 \n15 \n\n \n \nCompletando con los datos dados y usando \nTeorema de Pitágoras: \n \nSabiendo que el ángulo T es recto. En los \ntriángulos STR y PST podemos usar el Teorema \nde Pitágoras, de donde la hipotenusa de cada \nuno mide 4 5 . \n \n \n \n54. La alternativa correcta es B \n \n \n\nR \n\nS \n\n4 5    \n\n8 \n4 \n\nT \n4 5    \n\n8 \n6 \n\nO   \nQ  \n10   \n10   \n\nP    \n\nComo las figuras son semejantes y si denominamos a PQ = a, entonces DC = a – 3  \n\nPodemos formar la siguiente proporción:  a  3\n6\n2\n = \n = \na\n15\n5\n\n de donde a = 5 \n\n \n \n \n55. La alternativa correcta es B \n\n \n \nCompletando la figura, usando el ángulo del centro que genera igual arco. \n \n \n \n \n \n \n \n \n \nEl triángulo PON es isósceles de base PN y el ángulo PON ",
+      "cantidad_caracteres": 1054,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": " \n\n56. La alternativa correcta es D \n \n \n\nI) \nFalso: pues se da la proporción: 3\n2\n = \n4\n6  ¡no se cumple!     \n\nII) \nVerdadero: pues:  4\n6\n = \n2\n3  ¡se cumple!     \n\nIII) \nVerdadero: pues:  2\n4\n = \n3\n6  ¡se cumple! \n\n \n \n \n \n57. La alternativa correcta es D \n\n \n \nUsando teoremas de Pitágoras y Euclides: \n \n \n \n \n \n \n \n \n\nC \n\n3 \n5 \n\nA \nB \nD \n\n4 \n9\n4   \n\n2\n9\n4\n\n\n\n\n\n\n\n = 9 + 81\n144 + 81\n225\n = \n = \n16\n16\n16  de donde \n15\nCB = 4   \n\n2\n(CB)  = 32 + \n\n \n \n58. La alternativa correcta es E \n \n \n\nUsando Teorema de Pitágoras: \n \n \n \n \n \n \n \n \n \n \n \nHay un teorema que indica que en cualquier triángulo rectángulo se cumple que: \n \n\nB \n\n15 \n\nD \n\n6\n5   \n\nC \nA \n\n3\n5   \n\nBC · AC\nCD = \n\n \n\nAB\n\n \n \n \n\n12 \n \n",
+      "cantidad_caracteres": 706,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": " \n\n59. La alternativa correcta es C \n \n \n\nSe forman dos conos de radio 3 cm y altura 3 cm. \n \n\nLuego V = 1\n\n3  · r2 · h  = 1\n\n3  · 32 · 3 = 27\n\n3  = 9 cm3 \n\n \nDe donde el volumen total es 2 · 9 cm3 = 18 cm3 \n \n \n \n60. La alternativa correcta es E \n\n \n \nBasta analizar un cubo (dado) y tener claro los conceptos de caras paralelas y vértice \nopuestos. \n \nHay 3 caras paralelas (arriba – abajo; adelante – atrás, la \npintada y su opuesta) y hay sólo un vértice opuesto (ver dibujo \nA con P). \n \n \n \n \n61. La alternativa correcta es C \n\nP \n\nA \n\n \n \nHallémosla girar en torno a PQ , y así se \nforman los conos. \n \n \n \n \n \n \n \n \n62. La alternativa correcta es B \n\nP \n\nQ \n\n \n \nSiempre en un dado común, las caras opuestas suman 7, entonces todas suman 21. \n\nSi el 1 queda abajo, los otros suman 20 no sirve no es primo. \n\nSi el 2 queda abajo, los otros suman 19 sirve es primo. \n\nSi el 3 queda abajo, los otros suman 18 no sirve no es primo. \n\nSi el 4 queda abajo, los  otros suman 17 sirve es primo.",
+      "cantidad_caracteres": 1186,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": " \n\n63. La alternativa correcta es A \n\n \n \nEl problema se reduce a encontrar la razón, entre que no sea rosa ni clavel y el total. \n\nQue no sea rosa y clavel: m – r – c  y el total es m. \n \n \n64. La alternativa correcta es C \n\n \n \nCorresponde a la suma de la probabilidad de cada una. \n\nP(auto) = 1\n1\n1\n1\n1\n · \n · \n · \n · \n2\n2\n2\n2\n2  = 1\n\n32        P(caminando) = 1\n1\n1\n1\n1\n · \n · \n · \n · \n2\n2\n2\n2\n2  = 1\n\n32         \n\nResultado final: 1\n1\n2\n1\n + \n = \n = \n32\n32\n32\n16  \n\n \n \n \n65. La alternativa correcta es D \n\n \n \nSi k = 2 se dan 3 casos: CCS, CSC, SCC. \n \nSi k = 4 se dan 2 casos: CCC, SSS. \n \nComo se lanzan 3 monedas, el total de casos es 23 = 8, luego quedan 3 casos. (k = 6) \n\nConcluyendo para k = 2  y  para k = 6 hay el mismo número de casos. \n \n \n \n66. La alternativa correcta es B \n\n \n \nCasos Favorables:(1, 2) (2, 5) (3, 2) (4, 5) son los casos donde su multiplicación es un \n\ndivisor de 60. Luego casos favorables 4  y casos posibles son 7. \n\n \n \n67. La alternativa correcta es D \n \n \n   ",
+      "cantidad_caracteres": 1196,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": " \n\n68. La alternativa correcta es D \n\n     \n \nSean a  y  b  los 2 tiempos de carreras que faltan: \n\n25 + 28 + 27 + a + b < 27\n5\n, entonces 80 + a + b < 135, luego a + b < 55 \n\nHay sólo una opción donde la suma es menor que 55. \n \n \n69. La alternativa correcta es E \n\n \n \n\nQ2 = 2 · n\n2 · 120\n = \n = 60\n4\n4\n \n \nQ3 = 3 · n\n3 · 120\n = \n = 90\n4\n4\n \n\nLuego se analiza la tabla y se deduce donde están el 60 y el 90. \n\nTener en cuenta que Q2 corresponde a la mediana. \n \n \n70. La alternativa correcta es C \n \n \n\nI) \nVerdadera: pues 33 1\n\n3 % = 1\n\n3  y  1\n\n3  de 12 es 4 que son los menores de                  \n\n120 cm. \nII) \nVerdadera: pues  al ordenarlos quedan al centro el 122 y el  124. \nIII) \nFalso: pues no hay moda (ninguno de los números se repite). \n \n \n71. La alternativa correcta es D \n\n \n \nC : S : V : S = 12 : 13 : 9 : 11 usando razones, se llega a 45 · k = 360º donde k = 8. \n\nEntonces, las personas viudas corresponden a V = 9 · 8 = 72º. \n \n \n \n72. La alternativa correcta es D \n \n\nP(3) = 1\n",
+      "cantidad_caracteres": 1247,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": " \n\n73. La alternativa correcta es E \n \n\nDado N(, ) siendo N(51, 15) \n\nRecordar que P(X < Z) = \nx  \nP\n\n\n\n\n\n\n\n\n\n   \n\n \n\nI) \nVerdadera, ya que  = 51,   = 15 y x = 39 \nII) \nVerdadera, ya que P(x < 39) = P(X < -0,8) = P(X > 0,8) \nIII) \nVerdadera, por simetría de la gráfica. \n \n \n \n \n74. La alternativa correcta es B \n\n \n \n(1) Insuficiente, con el 13 · 13 = 169 no resulta (basta con éste contraejemplo). \n\n(2) Con esta opción es suficiente, ningún número primo tiene raíz exacta. \n \n \n \n75. La alternativa correcta es E \n\n \n \n(1) No es suficiente, pues no se sabe el total de monedas. \n\n(2) Tampoco es suficiente, sólo se tiene la razón y no la cantidad total de dinero. \n \nCon ambos datos tampoco sirve, no se sabe la cantidad total de monedas. \n \n \n \n76. La alternativa correcta es D \n\n \n \n \n(1) Es suficiente pues se deduce que n es par, y con ello se puede calcular lo solicitado. \n\n(2) También es suficiente, pues se deduce que n es par. \n \n \n \n \n77. La alternativa correcta es C \n\n \n \n",
+      "cantidad_caracteres": 1201,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": " \n\n78. La alternativa correcta es C \n\n \n \n(1) No es suficiente, sólo se tiene un ángulo. \n\n(2) Tampoco es suficiente, sólo se tiene una distancia. \n \nCon ambas juntas se puede resolver usando el triángulo 30°, 60° y 90°. \n \n \n79. La alternativa correcta es E \n\n \n \n(1) No es suficiente, no se puede deducir nada. \n\n(2) Tampoco es suficiente, puede ser que formen un ángulo que no sea de 90º. \n \nCon ambas juntas, tampoco sirve, pues deben pertenecer al menos al mismo plano. \n \n \n80. La alternativa correcta es D \n\n \n \n\n(1) Es suficiente, pues  P(verde) = 0,6 = 6\n12\n = \n10\n20 , luego hay 12 verdes y 8 azules. \n\n(2) Es suficiente, pues Az + Ve = 20 y  Az = 2\n\n3 Ve se puede resolver como sistema. \n\n      \n      \n      \n\n17 \n \n",
+      "cantidad_caracteres": 728,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 9.8330078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    }
+  ]
+}

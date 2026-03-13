@@ -1,0 +1,205 @@
+{
+  "filename": "Solucionario Ma 14.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/SOLUCIONARIOS/Solucionario Ma 14.pdf",
+  "num_paginas": 15,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T16:01:36.372013",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemáticas  \nMaterial : MA-15 \n \n\n \n \n \n \n \n \n \n \n \n \n \n\nCUADERNO DE EJERCICIOS N° 14 \n\nPERÍMETROS Y ÁREAS II \n\n \nCircunferencia: Es el conjunto de todos los puntos de un plano que \nequidistan de otro punto llamado centro. \n \nCírculo: Es el conjunto de todos los puntos de la circunferencia y de los \ninteriores a la misma. \n \n \n \n \n \n \n \n\nEn la figura: \n \nO: centro \nr: radio \nd: diámetro \nd \n\nr \nO \n\n \nÁrea del círculo  \n \n: Sr2 \nLongitud de la circunferencia : 2Sr = dS \n\n \n \n \nEJEMPLOS \n \n1. \nSean dos círculos, uno de radio r y el otro de diámetro d. Si r : d = 1 : 4, \nentonces las áreas de estos círculos están, respectivamente, en la razón \n \nA) 1 : 2 \nB) 1 : 4 \nC) 1 : 8 \nD) 1 : 16 \nE) 1 : 64 \n \n \n2. \nEl perímetro del cuadrado de la figura adjunta es 4a cm. ¿Cuál es la longitud de la \ncircunferencia inscrita? \n \nA) a cm \n\n= ¥\n⇒\nr = K y\nd = \"\"\n\n¥\n\nLa razón de sus\náreas será\n:\n\nzr\nserá :\nITM'\n\n=\n^\n\n^\n\n?\n\n×\n1T(2n)\n\n'\n4\n\n1\nLado = a\n\nB) \na\n2 S cm \n\na\n\nC) aS cm \nD) 2aS cm \n \n\nP\n=\na. IT [cm]",
+      "cantidad_caracteres": 1001,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 45.138671875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 2.974609375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 17.2431640625
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n\n \nSector circular: Es la parte del círculo limitada por dos radios y el arco \ncomprendido. \n \n \n \n \n \n \n \n \n\nEn la figura: \n \nr: radio del sector BOA \nL: longitud del arco AB \nD: medida del ángulo central \n\nB \n\nr \n\nL \n\nD \n\nO \n\nr \n\nA \n\nS D  \n\nLongitud del arco AB = L: \nr\n180°\n\nS D  + 2r \n\nPerímetro del sector circular: L + 2r = \nr\n180°\n\n2\nr\n360°\n\nS\nD  \n\nÁrea del sector circular: \n\n \n \nEJEMPLOS \n \n1. \nEn la circunferencia de centro O de la figura adjunta, el ángulo AOB mide 72°. \n¿Qué parte de la circunferencia es el arco que subtiende este ángulo? \n \n\nA) 1\n\n3  \n\n72°\n= ÷\n360°\n\nB) \n1\n4  \n\nO \n\nA \n\nC) 1\n\n72J\n\n5  \n\nD) 1\n\n6  \n\nB \n\nE) \n1\n8  \n\n \n \n2. \nLas circunferencias de centro O y P son congruentes y tangentes entre sí. \nSabiendo que el triángulo OQP es equilátero del perímetro igual a 12 cm, ¿cuál es \nel área de la zona sombreada, si se considera S = 3? \n \n \n\nIr\n\n-\n- 4\n\nL\n\nA) 10 cm2 \nB) 20 cm2 \nC) 30 cm2 \nD) 40 cm2 \n\n2\n2\n64\nfoó\n2\n2\n\nO \nP \n\n')\n\n= 2.(TIZÍ- ¿ xp)\n\nAsombrada\n\n- sí )\n\n=\n2. (",
+      "cantidad_caracteres": 1041,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \nCorona circular: Es la posición limitada de dos circunferencias concéntricas. \n \n \n \n \n \n \n \n \n \n \n\nR \n\nEn la figura: \n \nr: radio de la circunferencia menor \nR: radio de la circunferencia mayor \n \n\nr \n\nÁrea de la corona: \n \nA = S(R2 ± r2) \nPerímetro de la corona: \nP = 2S(R + r) \n\n \n \n \n \nEJEMPLOS \n \n \n1. \nEl área del cuadrado ABCD de la figura adjunta es igual a a2. ¿Cuál es el área de \nla corona circular? \n \n\n↳L\n= a\n\n-\n_ ¥\n\n°\n\n. r\n\n2\na\n\nS  \n\n•\n\nD \nC \n\nA) \n\n2\n\nR =\narz\n%\n\n2\na\n\nS  \n\nB) \n\n3\n\n2\n•\na\n\n2\na\n\nS  \n\nAurora = i. ( (¥12 - (E)\n\n'\n\nC) \n\n8\n\nA \nB \n\n= I. ( E\n\n- ¥ )\n\n2\na\n\nS   \n\n= Tú\n\nD) \n\n4\n\n4\n\n \n \n \n2. \n¿Cuál es el área de la corona circular en la circunferencia, si se sabe que T es \npunto de tangencia y AB = 4? \n \n \n\nteopitígoras\n\n:\n\nA \nB \nT \n\n→R? oí = 4\n\n2\n\n2\n\nA) 2S \nB) 3S \nC) 4S \nD) 5S \nE) Ninguna de las anteriores \n \n\n'\n\nÍTRER\n\n¡\nµ\n\n^\n\n!\n\nR\nAurora -\n- T.fr?rY\n\nR\n\n=\n41T\n\n3 \n \n",
+      "cantidad_caracteres": 893,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": " \nSegmento circular: Es la parte del círculo limitada entre una cuerda y su \narco. \n \n \n \n \n \n \n \n \n \n\nA \n\ncuerda AB: arco BCA \nÁrea segmento circular es igual a:  \nÁrea sector AOB ± Área 'AOB \n \nPerímetro segmento circular es \nigual a: \n\nC\n\nD\n\nO\n\nr\n\nD\n\nSr \n\nB\n\nAB  + \n  2\n360\n\n \n\n \n \nEJEMPLOS \n \n \n1. \nEl cuadrado inscrito de la figura adjunta tiene un área igual a 36 cm2. ¿Cuál es el \nárea de la zona sombrada? \n \n\n1=6\n\n→\n\n= 14.4T\n\n= 1+(1811--36)\n\n= ¡ (A ①- A )\n\n- Ó)\n\n-GET\n\nAsombrada\n\nS\n§\n·\n\u0010\n¨\n¸\n©\n¹  cm2 \n\nA) 9\n  1\n2\n\n=\nE- F- 9\n[cní]\n\n=\n9 (¥\n\nS\n§\n·\n\u0010\n¨\n¸\n©\n¹  cm2 \n\n-1) [cm']\n652\n6\n\nB) 9\n  2\n2\n\nS\n§\n·\n¨\n¸\n©\n¹  cm2 \n\nC) 9\n + 1\n2\n\n.\n6\nam\n\nD) 9(S - 1) cm2 \n \n \n \n \n2. \nEn la circunferencia de centro O de la figura adjunta, el radio OQ  mide 12 cm. \n¿Cuál es el área, en cm2, de la figura sombreada, si el ángulo PQO mide 60°? \n \n \n\n. 144 - (E)\n\n?53\n= 241T- 3653 [cm']\n\nA sombreada = 611T(12}- A AEquilátero\n=\n161T\n\n5-12\n\n= 12121T\n\n- 353) [cm]\n\nA) 72(   3)\nS \u0010\n \n\n§\n·\nS \u0010\n¨\n¸\n©\n¹\n\nB) \n3\n72\n  2\n\n ",
+      "cantidad_caracteres": 1094,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": " \nTrapecio circular: Es la porción del plano limitada por dos circunferencias \nconcéntricas y dos radios. \n \n \n \n \n \n \n \n \n \n \n \n\nEn la figura: \n \nr: radio de la circunferencia menor \nR: radio de la circunferencia mayor \nD: ángulo central \n\nB \nD \nR \n\nr \n\nD \nO \n\nC \n\nA \n\nD\n\nÁrea trapecio circular: S(R2 ± r2) 360\n\nq  \n\nPerímetro trapecio circular: arco AB + arco CD + 2(R ± r) \n\n \n \n \nEJEMPLOS \n \n \n1. \nSegún la información entregada en el sector circular de la figura adjunta, ¿cuál es \nel área del trapecio circular? \n \n \n\n2 \n\nAs = ?\n\n8 \n\nA) 6S \nB) 8S \nC) 9S \nD) 10S \nE) 12S \n \n \n \n \n \n2. \nLa figura adjunta muestra dos circunferencias concéntricas de radios 3 y 6, \nrespectivamente. Si D = 60°, ¿cuál es el área de la zona sombrada? \n \n \n\n.IT/1i-8YAs--1g1T.36\n=\n61T\n\nO \n60° \n\n8 \n\n2 \n\nA) 6S \nB) 9S \nC) 12S \nD) 18S \nE) 24S \n \n \n\n120°\n\n= }\nqó Í\n\nD O \n\n360°\n\nO\n\nyo\n\n.\n\n\\\n\nAsombrada =\nG-ñ(62-34\n\n. 27\n= 181T\n\n=\n3- IT\n\n5 \n \n",
+      "cantidad_caracteres": 920,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "EJERCICIOS \n \n1. \n¿Cuál es la longitud de una circunferencia circunscrita a un cuadrado cuya área \nmide 100 cm2?  \n \n \n\n↳Ewan\n\nA) 50 cm \nB) 100 cm \nC) 5\n2 S cm \n\n, ¡\n10¢\nPerímetro ④= d. IT\nno\n\nD) 10\n2 S cm \nE) 50S cm \n \n \n \n \n \n2. \nLa longitud de la circunferencia de centro O de la figura adjunta es kS cm. Si  \nAB = OB, ¿cuál es el perímetro del triángulo ABO? \n \n \n \n \n \n \n \n \n \n \n\n= 1052.1T [cm]\n\nto\n|\nComo\nKT = ZITM\n\n,\n¥\n\nO \n\nradio\n\n=\nM\n\nluego AABO\nÍ\n\nB \n\nes equilátero\n\n.\n\" =\n\nµ\n\nr\n\nPerímetro AABO =3 r =3 (E)\n\nA \n\n= 3¥\n\nA) k cm \nB) 3k cm \n\nC) k\n\n2  cm \n\nD) 2\n\n3 k cm \n\nE) \n3\n2 k cm \n\n \n \n\n6 \n \n",
+      "cantidad_caracteres": 601,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "3. \nLaV\u0003FLUFXQIHUHQFLDV\u0003GH\u0003FHQWUR\u00032\u0003\\\u00032¶\u0003GH\u0003OD\u0003ILJXUD\u0003DGMXQWD\u0003WLHQHQ\u0003SHUtPHWURV\u0003LJXDO\u0003D\u0003\n8S cm y 2kS cm, respectivamente. Si la longitud de AB  es igual a la longitud de \n\nBO' , ¿cuál es la longitud de OO' ? \n \n \n \n \n \n \n \n \n \n \n \n\n= 81T\nSr\n\n= 4\n\nSi\nP,\n\n,\n\nPz = ZKIT →\nrz = r\n= BÓ = AB\n\n=\n4 + ktk\n\n'\n\nLuego\n00\n\n2¶ \nO \n\nte\n=\n4 +2K\n\n4\nte\n\nA \nB \n\nA) (4 + 2k) cm \nB) (2 + 2k) cm \nC) (8 + 2k) cm \nD) (4 + k) cm \n\n \n \n \n \n \n4. \nEn \nel \ncírculo \nde \ncentro \nO \nde \nla \nfigura \nadjunta, \nOA  \nA \nCF  \ny  \narco AB = arco BC = arco CD = arco EF. ¿Qué parte del círculo es la superficie \nachurada? \n \n \n \n \n \n \n \n \n \n \n \n\nF \n\n/\n\nE \n\nA\nA\n3A\nA\n\n= %\n\n•\nA\n\nO \n\nA \n\n8 A\n\n-\nA\nA\n\nA\nA\n\nD \n\nB \n\n1\n1\n\nC \n\nA) \n1\n2  \n\nB) 1\n\n3  \n\nC) \n1\n4  \n\nD) 3\n\n8  \n\nE) \n5\n8  \n\n \n \n \n\n7 \n \n",
+      "cantidad_caracteres": 751,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "5. \nLas circunferencias de la figura adjunta con centro en C y en D son congruentes y \ntangentes entre sí. Si ABCD es un rectángulo de perímetro 6a, ¿cuál es el área de \nla superficie sombreada? \n \n \n \n \n \n \n \n \n \n \n\nC \nD \n\na\na\nal\nL\n\na\na\n\nmi\nr\n20\n\nA \nB \n\nA sombreada\n=\n2- ¥\n\n1T. oí\n\nA) aS \nB) a2S \nC) 2a2S \n\n=\n3-2Tú\n\nD) 3\n\n2 a2S \n\n \n \n \n6. \nLos lados de cierto triángulo miden 8 cm, 15 cm y 16 cm. Si cada lado disminuye \nsu longitud en k centímetros, resulta un triángulo que se puede inscribir en un \nsemicírculo. ¿Cuál es el valor de k? \n \n \n\nSi el A\nse puede\n\ninscribir\nen\nun semicírculo\nentonces es rectángulo .\n\nLuego\ndebe verificar Pitágoras\n\nA) 1 \nB) 2 \nC) 3 \nD) 4 \n\n:\n\n(8-KÍ t (15 -KÍ\n= ( 16 - KÍ\n\n,\ndonde K=3\n\nse tiene la terna pitagórica\n5,12,\n13\n.\n\n \n \n \n7. \nEl cuadrado ABCD de la figura adjunta tiene perímetro igual a 32 cm. Si O, P, Q y \nR son los centros de las circunferencias tangentes del cuadrado y tangentes entre \nsí, ¿cuál es el área de la superficie sombreada? \n \n \n \n \n \n \n ",
+      "cantidad_caracteres": 1181,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "8. \nSean A y B dos cuadrados de modo que el perímetro de A es el 50% del \nperímetro de B. ¿En qué razón están las áreas de los círculos inscritos en A y B, \nrespectivamente? \n \n \n\n= 8A\n\nSea Pa\n= Ya\n>\nPps\n\nLado de B\n= 2a\n\nA) 1 : 2 \nB) 1 : 4 \nC) 3 : 4 \nD) 1 : 8 \nE) 1 : 16 \n \n \n \n \n \n \n9. \nEl cuadrado MNPQ de la figura adjunta tiene el perímetro igual a 4c y está \ndividido en cuatro cuadrados. Si los arcos de la figura son semicircunferencias, \n¿cuál(es) de las siguientes expresiones representa(n) el área de la superficie \nsombreada? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nlado A\n=\na\ny\n\nluego\n\n°]\n\nA\n\na\n\nÁrea B = T.ci\nÁrea A\n=\nñ (E)\n\n'\n\n= Ti\n.\n\n4\nAsí\nÁrea A\n\n= # µ\n\nÁrea B\n\nAsombrada\n= 2\nt\n\nQ \nP \n\n+\n(II\n\n'\n\n=\n2.(E)\n\n+ I. IT\n\n. c'\n\nc-\n=\nz\n\n2\n=,\n\n16\n\n+ ÍÍ\nI )\n16\n\n=\nE\n§\nz\n\n8E + CYT\n=\n\nN \nM \n\n16\n\n'\nc' ( 8 +1T)\n\n=\n\nII)\n16\n\n2\n2\nc\nc\n + \n16\n2\nS\n \n\nI) \n\n2\n2\nc\n + 16c\n\n16\nS\n \n\nII) \n\n2\nc\n + 8)\n16\n\u000bS\n \n\nIII) \n\n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y III \nE) Solo II y III \n \n \n \n\n9 \n \n",
+      "cantidad_caracteres": 982,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "10. En la circunferencia de centro O de la figura adjunta, AB  y DC  son diámetros \n\nperpendiculares y EF  es bisectriz del ángulo BOC. Si el arco CO y el arco OD son \nsemicircunferencias, ¿qué porcentaje es del círculo la superficie achurada? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n*\nEL sector OBF es la\noctava parte del círculo\n\nC\nO\n* * ÉI\n+\n=\nde radio %\n\nF \nC \n\n= ¥\n\n=;\n\nO\nD\n!\n\n• ¥\nAún\n=\nIT (1)\n\n'\n\n= Tú\n\nA \n\nB \nO \n\nr\n2\n4\n\nson\n1-\nde la superficie del\n\nluego\n\n4\ncírculo\n\nE \n\nD \n\n.\n\nEntres el % total\nde la superficie\n\n= f-\n\n1- f-\n\n= 37,5%\n\nA) 22,5% \nB) 25,0% \nC) 33,3% \nD) 35,0% \nE) 37,5% \n \n \n \n \n \n \n11. Una circunferencia está inscrita en un trapecio isósceles cuyas bases tienen \n\n= 0,375\n\na charada\nes\nf-\n\nlongitudes m y n, con m > n. ¿Cuál de las siguientes expresiones representa la \nlongitud del radio de la circunferencia? \n \n \n\n: i.\na µ:ni\n\nA) \nmn  \n\n¡\n\n\"\n\n\"\n\n%\n\n•,\n\"a\n\nB) \nmn\n\n2\n \n\n- Ey:(ni.\n\n%\n±\n:\n\nC) 2\nmn  \n\nD) mn\n\n2  \n\n \n \n \n\nPitágoras\n\noír\n\n4mn\n=\n4 rí\n7\n7\n7\n\nI\nM -n\nl\n1- MI\n\n4\n\n1\n\npm\nmn\n=\n2M",
+      "cantidad_caracteres": 1032,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "12. En la circunferencia de centro O y diámetro igual 2 cm, el ángulo QOP mide 60°. \n\n¿Cuál es el área del triángulo TPQ? \n \n \n \n \n \n \n \n \n \n \n \n \n\nQ \n\n1\nTi\n1\n\nT \n\nE\n60°)\n(»\n\nP \nO \n\n.\n1\n\nQ\nA OPQ\nes equilátero\n\nde lado 2\n\nsu área\nes 53 cuf\n\nA\nA\n6A = 53 →A = ¥\n*\nT\n\nA) \n3\n3  \n\n- FÉ\n\n.\n\nATPQ\n= ZA = §\n\nB) \n3\n4  \n\n.\n\n.\nA\n\n.\n\nA\n\ncena\n\n.\n\n.\n\n.\n\n.\n- \"\n\nA\nµ\nA\n\nC) \n2\n3  \n\n.\n\n. .\n\np\n\n☐\n\nD) \n5\n2  \n\n \n \n \n \n \n13. Las dos circunferencias de la figura adjunta son tangentes entre si y tangentes a \n\nla recta L en los puntos P y Q. Si los radios de las circunferencias miden 18 cm y \n8 cm, ¿cuánto mide PQ ? \n \n \n \n \n \n \n \n \n \n \n \n\n•\n18\n\n8\n\n*\n•\n\n18\n\n8\n\nL \n\nMT\npq\n\nP \nQ \n\n-\n-1\n\nA) 20 cm \nB) 22 cm \nC) 23 cm \nD) 24 cm \nE) 26 cm \n \n \n\n\"\n\n(18×8)\n\n18-8=10\n\n→\n\nPQ\n\nPor pitágoras PQ = 24\n\n11 \n \n",
+      "cantidad_caracteres": 775,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "14. Si el perímetro del cuadrado ABCD de la figura adjunta mide 48 cm, ¿cuál es el \n\nárea de la corona circular? \n \n \n \n \n \n \n \n \n \n \n \n \n\nt\nLado = 12cm\n\nD \nC \n\ncírculo mayortiene radio\n6k\n\npq\n\n12\nCírculo\nmenor tiene radio\n6\n\n•\nÁrea\ncorono\n=\nIT (GEET-62\n\nA \nB \n\n12\n\n=\n361T creí\n\nA) 36 cm2 \nB) 72 cm2 \nC) 24S cm2 \nD) 36S cm2 \nE) 48S cm2 \n\n-\n\n \n \n \n \n \n15. En la figura adjunta la circunferencia de radio r es tangente a las dos \n\nsemicircunferencias menores y a la semicircunferencia mayor. Si AB  = BC  = R, \n¿cuál de las siguientes relaciones es correcta? \n \n \n \n \n \n \n \n \n\nr \n\nµ\n\n-\n.\nM\n%\n\n\"\n\no\n\nR-2n\n\n•\nr.\n¥\nR\n\nA \nB \nC \n\nA) \nR\nr = 2  \n\nB) \nR\nr = 3  \n\nEI\nR- r\n\nC) \nR\nr = 4  \n\nr\n÷\n\nD) \nR 2\nr = \n2\n \n\nE) \nR 3\nr = \n2\n \n\nPitágoras\n\n:\n\n+RÍ\n\n( R-ni + (E.¡ = #\n\n \n\n= ¥ + Rrtrí\n\nE-zrrtrit#\n\npí =\n312m |\n\n: R\n\nR = 3M\n\n12 \n \n",
+      "cantidad_caracteres": 816,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": "16. La figura adjunta corresponde a un semicírculo de diámetro AB  y centro O. Si AO  \n\nmide 4 cm, con S = 3,  ¿cuántos cm2 de área tiene la figura sombreada? \n \n \n \n \n \n \n \n \n \n \n\nC Pak\n4\n\n%\n\n/\n\nA \nO \nB \n\n4\n\ny\n\na la de un cuadrado\n\nEL área sombreada equivale\n\nA) 16 \nB) 6S \nC) 8S \nD) 16S \n \n \n \n \n \n17. En el rectángulo ABCD de la figura adjunta, las tres circunferencias tienen radio \n\nde lado 4cm\n\n1\n2   y son tangentes entre si y tangentes al rectángulo. Si AB = 5\n\n2 , entonces AD = \n\n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nÓÉO\n\n}\n\n✗\n\n< - - - - -\n✓\nL a\n_ , ⑧\n⑥\n\n-\n- -\n-\n-\n-\n- , _ .\n%\nOf,\n42\n%\n%\n0242\n\nI\n\nA \nB \n\n÷\n03\n\nA) 1 + 7\n\n2\n \n\nB) 1 + 7\n\n3\n \n\n1\nkit#¡\n\n=\n1\n\nh,\n\nC) 1 + 7\n\n4\n \n\nni\n\n_\n1-E- %\n•\n\n-\n\nD) \n7\n1 + 3  \n\nOn\n3/4\n02\n\nhh,\n=\nFf\n\nY\n\nE) \n7\n1 + 4  \n\nluego\n✗\n= 12+4=+12\n\n \n \n \n\nAD =\n1-1\n7\n\n4\n\n13 \n \n",
+      "cantidad_caracteres": 799,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": "ylado\n\n= 4cm\n\n18. Si el cuadrado ABCD de la figura adjunta tiene un área de 16 cm2 y los arcos AB y \n\nDA son semicircunferencias. ¿Cuánto mide el área achurada? \n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\n4\n\"\n\nii.\n\n2\n\n¡\n\nFinalmente el área admirada\nes equivalente a\n\nA \nB \n\n°\n\ni)\nA\n- AK\n= AF\n2A A\n- A µ\nt\nt\nI -\nIT . sí\n\nA) 2(S + 1) cm \nB) 2(S + 2) cm \nC) 2(2S + 1) cm \nD) 2(2S + 2) cm \n\n=\n4 -ñ\n-\n_\n\n. 22\n4\n\nz\n(21T-4)\n\n2. IT\n\nül\nA\n-2 A\n= A\nt\n\n \n \n \n \n19. Las circunferencias de la figura adjunta son concéntricas y AB  es el diámetro de \n\n4- 18 -21T)\n= 21T-4\n21T +4\nante\n\nla circunferencia mayor. Se puede determinar el área de la superficie sombreada, \nsi se sabe que: \n \n \n \n \n \n \n \n \n \n \n \n \n\nB \n\nA \n\nEL área\nde la superficie\n\nsombreada equivale\n\n(1) el área del círculo menor. \n(2) el área del círculo mayor. \n \n\na la mitad\n\ndel círculo mayor , luego\n\nbasta\n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \n \nE) Se requiere información adicional  \n \n \n",
+      "cantidad_caracteres": 1029,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": "20. En la figura adjunta, el arco BA es una semicircunferencia de radio OD. Se puede \n\ndeterminar qué porcentaje del área del semicírculo es el área de la zona \nsombreada, si se sabe que: \n \n \n \n \n \n \n \n \n \n \n\nC \n\nD \n\nA \n\nO \nB \n\n.\nSi\nC)Doc = 60°\n\n(1) Suficiente\n\n.\n\nEL área sombreada\nes equivalente\na la de un sector circular de ¢ central 120°\n\n(1) (DOC = 60° \n\n(2) OC  A AB  y arco CD = 2 arco DA \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \n \nE) Se requiere información adicional  \n \n \n\nÍD\n= 2DÁ\n\n.\nSi OCL AE y\n\n(2) Suficiente\n\naÉSE\n\n,\nEL área sombreada\nes\nequivalente a la de\n\nRESPUESTAS EJEMPLOS \n \n \n \n \n \n \n \n \n \n \n\nPágina \nEJEMPLO \n1 \n2 \nPágina 1 \nB \nC \nPágina 2 \nC \nB \nPágina 3 \nD \nC \nPágina 4 \nA \nD \n\nun\nsector circular de\n\n4 central 120°\n\n.\n\nPágina 5 \nA \nD \n\n \nRESPUESTAS EJERCICIOS PÁGINA 6 \n\n \n1.   \nD \n6.   \nC \n11. \nB \n16. \nA \n2.   \nE \n7.   \nA \n12. \nA \n17. \nE \n3.   \nA \n8.   \nB \n13. \nD \n18. \nB \n4.   \nD \n9.   \nD \n14. \nD \n19.",
+      "cantidad_caracteres": 1177,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.701171875
+        }
+      ]
+    }
+  ]
+}

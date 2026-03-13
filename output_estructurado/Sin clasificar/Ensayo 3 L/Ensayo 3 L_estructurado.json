@@ -1,0 +1,1571 @@
+{
+  "archivo_original": "Ensayo 3 L.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/4.Tesla/Ensayos/Lenguaje/Ensayo 3 L.pdf",
+  "materia": "Sin clasificar",
+  "num_paginas": 38,
+  "fecha_procesamiento": "2026-03-07T22:38:24.711138",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. ¿Con qué intención se menciona el cuento de Hansel y Gretel en el primer párrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Señalar el primer caso conocido de breadcrumbing."
+        },
+        {
+          "letra": "B",
+          "texto": "Comentar el origen del término breadcrumbing."
+        },
+        {
+          "letra": "C",
+          "texto": "Comparar las migas de pan con las migas virtuales."
+        },
+        {
+          "letra": "D",
+          "texto": "Justificar el uso de migas de pan para dejar un rastro."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. ¿Cuál(es) de los siguientes casos se puede(n) considerar como breadcrumbing? \n \nI. Aparecer de vez en cuando con una propuesta en WhatsApp que nunca se lleva a cabo \nII. Dejar un ‘me gusta’ en Instagram, pero ignorar los mensajes. \nIII. Desaparecer abruptamente de la vida de una persona.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. De acuerdo con el texto, ¿cuál de los siguientes enunciados es falso en relación con \nel breadcrumbing?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Es un fenómeno nuevo surgido en un contexto en el que son frecuentes las relaciones virtuales."
+        },
+        {
+          "letra": "B",
+          "texto": "Puede generar angustia, frustración y sensación de vacío cuando la atención desaparece."
+        },
+        {
+          "letra": "C",
+          "texto": "Consiste en dejar muestras de atención sin que haya una intención de concretar una relación presencial."
+        },
+        {
+          "letra": "D",
+          "texto": "Las relaciones disfuncionales o tóxicas como el breadcrumbing pueden producir adicción."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. Según los expertos, quienes dejan “migas de afecto”:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no saben qué es lo que pueden esperar del otro."
+        },
+        {
+          "letra": "B",
+          "texto": "suelen ser personas realmente muy ocupadas."
+        },
+        {
+          "letra": "C",
+          "texto": "coquetean con varias personas al mismo tiempo."
+        },
+        {
+          "letra": "D",
+          "texto": "pueden ser personas inseguras o con baja autoestima. 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. ¿Qué relación se puede establecer entre los párrafos 12 y 13 con el resto del texto? \n \nAmbos párrafos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "justifican psicológicamente la necesidad de abordar el breadcrumbing a tiempo."
+        },
+        {
+          "letra": "B",
+          "texto": "relatan situaciones que son consideradas migas de atención según las expertas."
+        },
+        {
+          "letra": "C",
+          "texto": "describen recomendaciones de especialistas para enfrentar el breadcrumbing."
+        },
+        {
+          "letra": "D",
+          "texto": "explican cómo detectar que alguien no podrá acudir a un encuentro específico."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. A partir de lo expuesto en el párrafo 11, se concluye que la expresión “progresión \norgánica” se refiere a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "la inversión de tiempo, energía y emociones que realiza alguien en una relación que está empezando."
+        },
+        {
+          "letra": "B",
+          "texto": "el desarrollo positivo que se logra en una relación gracias a que una persona pone todo su esfuerzo."
+        },
+        {
+          "letra": "C",
+          "texto": "el florecimiento de relaciones que se inician en contextos offline y continúan en las redes sociales."
+        },
+        {
+          "letra": "D",
+          "texto": "el avance natural de una relación en la que ambas partes demuestran interés en la misma medida."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. ¿Cuál de las siguientes opciones resume las señales que permiten detectar el \nbreadcrumbing?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La falta de consistencia y la intermitencia en las demostraciones de interés."
+        },
+        {
+          "letra": "B",
+          "texto": "La imposibilidad de concretar un encuentro por temor al compromiso afectivo."
+        },
+        {
+          "letra": "C",
+          "texto": "La dificultad para entablar conversaciones extensas mediante redes sociales."
+        },
+        {
+          "letra": "D",
+          "texto": "La formulación de respuestas vagas con un lenguaje elogioso y positivo. 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. ¿Cuál es la postura del emisor acerca de la crítica?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Es una responsabilidad social en tanto contribuye al desarrollo democrático."
+        },
+        {
+          "letra": "B",
+          "texto": "Es un derecho, pero también implica cumplir con ciertas obligaciones éticas."
+        },
+        {
+          "letra": "C",
+          "texto": "Es un imperativo ético esencial en el avance de la práctica y de la reflexión teórica."
+        },
+        {
+          "letra": "D",
+          "texto": "Es un deber con el cual los intelectuales y educadores tienen que cumplir."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. ¿Cómo se puede sintetizar la idea que sostiene el emisor con respecto al hecho de ser \ncriticado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No le agrada, pero intenta aceptarlo con humildad."
+        },
+        {
+          "letra": "B",
+          "texto": "Lo considera como un imperativo ético en democracia."
+        },
+        {
+          "letra": "C",
+          "texto": "Lo acepta como una oportunidad de corregir un error."
+        },
+        {
+          "letra": "D",
+          "texto": "Le produce resistencia porque no soporta a los críticos."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. ¿Qué quiso decir el autor con la expresión “es imposible agradar a griegos y a \ntroyanos” formulada en el cuarto párrafo? \n \nEl trabajo de un intelectual",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "puede ser aceptado por algunos y rechazado por otros."
+        },
+        {
+          "letra": "B",
+          "texto": "implica enfrentarse con quienes sostienen ideas en contra."
+        },
+        {
+          "letra": "C",
+          "texto": "lo convierte en vanidoso e intolerante hacia las críticas."
+        },
+        {
+          "letra": "D",
+          "texto": "produce inevitablemente envidia en algunas personas."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Según el autor, quien hace algo en la sociedad debe practicar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "la vanidad."
+        },
+        {
+          "letra": "B",
+          "texto": "la justicia."
+        },
+        {
+          "letra": "C",
+          "texto": "la sabiduría."
+        },
+        {
+          "letra": "D",
+          "texto": "la humildad. 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. ¿Qué relación se puede establecer entre los párrafos 5 y 6 de la lectura?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El párrafo 5 plantea que es necesario que la crítica cumpla con ciertos deberes; mientras que el párrafo 6 menciona uno de esos deberes."
+        },
+        {
+          "letra": "B",
+          "texto": "El párrafo 5 expresa que es importante considerar a la práctica de criticar como un derecho; mientras que el párrafo 6 fundamenta esta idea."
+        },
+        {
+          "letra": "C",
+          "texto": "El párrafo 5 explica cuándo se puede considerar que una crítica es constructiva, mientras que el párrafo 6 señala una característica de esta."
+        },
+        {
+          "letra": "D",
+          "texto": "El párrafo 5 increpa a quienes ejercen el derecho a la crítica faltando a la ética; mientras que el párrafo 6 da un ejemplo de una práctica poco ética."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Según el autor, son deberes de todo intelectual que practique la crítica: \n \nI. No mentir sobre lo criticado. \nII. Apoyarse en lo que oyen de otros. \nIII. Conocer el objeto de la crítica. \nIV. Aclarar si se critica solo un texto o toda la obra.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I y III"
+        },
+        {
+          "letra": "B",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "C",
+          "texto": "I, III y IV"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II, III y IV"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. A partir de lo leído, se puede inferir que para el autor:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "un problema grave de la democracia es que el derecho a no ser criticado no está garantizado."
+        },
+        {
+          "letra": "B",
+          "texto": "la verdad es un valor esencial en nuestra sociedad debido a que la democracia se basa en ella."
+        },
+        {
+          "letra": "C",
+          "texto": "se requiere que el trabajo intelectual tenga un mayor reconocimiento y menos cuestionamientos."
+        },
+        {
+          "letra": "D",
+          "texto": "la mentira es un mal hábito que debe ser erradicado en forma urgente entre los intelectuales."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. ¿Qué función tiene la interrogante planteada en el párrafo 9?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Poner en duda la calidad del trabajo que realizan algunos críticos."
+        },
+        {
+          "letra": "B",
+          "texto": "Denunciar ciertas afirmaciones falsas sobre la práctica educativa."
+        },
+        {
+          "letra": "C",
+          "texto": "Discutir con quienes se han atrevido a criticar el trabajo del propio autor."
+        },
+        {
+          "letra": "D",
+          "texto": "Reprobar las malas prácticas de algunos críticos que falsean la verdad. 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Considerando el planteamiento del autor, su posición es:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "crítica, porque emite un juicio ético sobre la labor de criticar."
+        },
+        {
+          "letra": "B",
+          "texto": "especulativa, porque reflexiona en términos puramente teóricos."
+        },
+        {
+          "letra": "C",
+          "texto": "desconfiada, porque duda del trabajo serio de los intelectuales."
+        },
+        {
+          "letra": "D",
+          "texto": "ofensiva, porque descalifica con fuerza a quienes lo han criticado. 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. ¿Cuál es la función del primer párrafo en relación con el resto de la lectura?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Motivar al lector a recorrer los paisajes de Chile en busca de pájaros carpinteros."
+        },
+        {
+          "letra": "B",
+          "texto": "Describir las especies de pájaros carpinteros que existen en Chile y su hábitat."
+        },
+        {
+          "letra": "C",
+          "texto": "Explicar la manera en que se puede detectar la presencia de pájaros carpinteros."
+        },
+        {
+          "letra": "D",
+          "texto": "Presentar a los pájaros carpinteros destacando su relevancia en la naturaleza."
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. ¿Por qué se dice que los pájaros carpinteros cumplen un rol fundamental en los \necosistemas donde habitan?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque actúan como verdaderos arquitectos del paisaje modificando su entorno a través de las cavidades."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque están emparentados con los Piciformes, uno de los grupos de aves más antiguos que existen."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque controlan las plagas y las cavidades que generan para hacer sus nidos sirven de refugio a otras especies."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque las especies que forman parte de esta familia de aves poseen curiosas adaptaciones morfológicas."
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. ¿A qué se deben las adaptaciones morfológicas que caracterizan a los carpinteros?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A sus necesidades de alimentación."
+        },
+        {
+          "letra": "B",
+          "texto": "A que son aves estrictamente forestales."
+        },
+        {
+          "letra": "C",
+          "texto": "A su superioridad sobre otras aves del entorno."
+        },
+        {
+          "letra": "D",
+          "texto": "A su dependencia de la madera. 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. ¿Con qué intención se cita a Franco Villalobos en el contexto del sexto párrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Explicar cómo evolucionaron los pájaros carpinteros en su morfología para adaptarse al medio ambiente."
+        },
+        {
+          "letra": "B",
+          "texto": "Destacar una de las cualidades de los pájaros carpinteros que los convierte en especies claves para los ecosistemas."
+        },
+        {
+          "letra": "C",
+          "texto": "Especificar a qué se dedica la Red de Observadores de Aves y Vida Silvestre de Chile (ROC)."
+        },
+        {
+          "letra": "D",
+          "texto": "Confirmar que los carpinteros poseen un cráneo especialmente adaptado para resistir los golpes a la madera."
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. ¿Qué característica NO es propia de los pájaros carpinteros?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Poseen una lengua que se recoge dando la vuelta al cráneo."
+        },
+        {
+          "letra": "B",
+          "texto": "Presentan dedos enfrentados en sus patas para agarrarse."
+        },
+        {
+          "letra": "C",
+          "texto": "Nidifican sobre las ramas y troncos de bosques nativos."
+        },
+        {
+          "letra": "D",
+          "texto": "Tienen plumas rígidas en la cola para estabilizarse en los troncos."
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. De los párrafos 8 y 9, se infiere que los pájaros carpinteros:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se distribuyen en casi todo el territorio nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "dependen de otras especies para su sobrevivencia."
+        },
+        {
+          "letra": "C",
+          "texto": "son buenos indicadores de la calidad de los bosques."
+        },
+        {
+          "letra": "D",
+          "texto": "favorecen el desarrollo de otras especies del bosque."
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. En el párrafo 5, ¿cuál es la función de la información contenida en los paréntesis?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Señalar cuál es el nombre científico de las especies de aves que se mencionan."
+        },
+        {
+          "letra": "B",
+          "texto": "Aclarar información sobre las características que distinguen al pájaro carpintero."
+        },
+        {
+          "letra": "C",
+          "texto": "Ejemplificar el rol que cumplen los pájaros carpinteros en su medio ambiente."
+        },
+        {
+          "letra": "D",
+          "texto": "Comentar un aspecto interesante de las aves que podría emocionar al lector."
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. ¿Cuál es la principal amenaza que enfrentan actualmente los pájaros carpinteros?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Los choques con vidrios y otras estructuras presentes en las ciudades."
+        },
+        {
+          "letra": "B",
+          "texto": "La posibilidad de ser depredados por animales domésticos como gatos."
+        },
+        {
+          "letra": "C",
+          "texto": "Los incendios forestales que se producen durante los veranos."
+        },
+        {
+          "letra": "D",
+          "texto": "Los cambios en el uso del suelo en los ambientes donde habitan. 15"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. ¿Qué función cumple el primer párrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Destacar el rol de Violeta Parra en la literatura chilena."
+        },
+        {
+          "letra": "B",
+          "texto": "Comentar que el amor está presente en todas las obras de arte."
+        },
+        {
+          "letra": "C",
+          "texto": "Introducir el tema del amor en la obra poética de Violeta Parra."
+        },
+        {
+          "letra": "D",
+          "texto": "Resumir los tipos de amor que desarrolla Violeta Parra en sus canciones."
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. De acuerdo con el planteamiento de la autora, un elemento que marcó la poética \namorosa de Violeta Parra fue:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "su experiencia de vida, es decir, sus propias vivencias amatorias."
+        },
+        {
+          "letra": "B",
+          "texto": "la sensibilidad femenina derivada de la cercanía con otras cantoras."
+        },
+        {
+          "letra": "C",
+          "texto": "su preferencia musical concentrada en las tonadas y los boleros."
+        },
+        {
+          "letra": "D",
+          "texto": "la dedicación al estudio de otros discursos estéticos sobre el amor."
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. Según la autora, el primer momento de la poesía de Violeta Parra se relaciona con:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "la pasión amorosa que despertó en ella el suizo Gilbert Favre."
+        },
+        {
+          "letra": "B",
+          "texto": "el apego a la tradición folklórica, especialmente a la tonada."
+        },
+        {
+          "letra": "C",
+          "texto": "la plenitud creativa, marcada por formas más personales y únicas del amor."
+        },
+        {
+          "letra": "D",
+          "texto": "una transición, donde prima el sentido trágico del amor."
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. En el contexto del segundo párrafo, ¿con qué intención se utiliza la palabra “decir” \nentre comillas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Para referirse a la visión que Violeta Parra expresa sobre el amor en sus canciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Para reforzar la calidad poética de las letras de las canciones de Violeta Parra."
+        },
+        {
+          "letra": "C",
+          "texto": "Para indicar la ironía con la que se analizará la poesía amorosa de Violeta Parra."
+        },
+        {
+          "letra": "D",
+          "texto": "Para expresar el sentido problemático que tiene el sentimiento amoroso en el arte. 18"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. ¿Cuál es el propósito de mencionar Las últimas canciones de Violeta Parra en el tercer \npárrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ejemplificar una de las obras de la autora que tiene más canciones amorosas."
+        },
+        {
+          "letra": "B",
+          "texto": "Confirmar que las pulsiones de amor y dolor no son excluyentes en su poesía."
+        },
+        {
+          "letra": "C",
+          "texto": "Sintetizar que Violeta Parra desarrolló un concepto de amor violento y trágico."
+        },
+        {
+          "letra": "D",
+          "texto": "Demostrar que el amor es un motivo central en la obra poética de Violeta Parra."
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. ¿Cuál es el tema fundamental que se aborda en el texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La importancia de la vida sentimental en la creación poética femenina."
+        },
+        {
+          "letra": "B",
+          "texto": "La influencia de las tonadas y los boleros en la obra de Violeta Parra."
+        },
+        {
+          "letra": "C",
+          "texto": "Las intensas relaciones amorosas que mantuvo la cantante Violeta Parra."
+        },
+        {
+          "letra": "D",
+          "texto": "Las características y etapas de la poesía amorosa de Violeta Parra."
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. ¿Cómo es la actitud del emisor del texto con respecto a Violeta Parra?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "De valoración, porque destaca los aspectos centrales de su poesía."
+        },
+        {
+          "letra": "B",
+          "texto": "De objetividad, porque describe los hechos que formaron parte de su vida."
+        },
+        {
+          "letra": "C",
+          "texto": "De admiración, porque enfatiza su importancia en la literatura chilena."
+        },
+        {
+          "letra": "D",
+          "texto": "De obsesión, porque conoce detalles de la vida íntima de la autora. 19"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. Según el texto, Celina falleció a causa de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "un accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "que se suicidó."
+        },
+        {
+          "letra": "C",
+          "texto": "una intoxicación."
+        },
+        {
+          "letra": "D",
+          "texto": "tuberculosis."
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. ¿Qué tipo de relación era la que tenía el narrador con Mauro y Celina?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Familiar, eran hermanos unidos por su afición a salir a bailar."
+        },
+        {
+          "letra": "B",
+          "texto": "Laboral, cada uno por separado había sido un antiguo cliente."
+        },
+        {
+          "letra": "C",
+          "texto": "De amistad, los apreciaba, aunque eran de distinta clase social."
+        },
+        {
+          "letra": "D",
+          "texto": "Amorosa, los dos hombres estaban enamorados de Celina."
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. ¿Cuál es la profesión de Marcelo Hardoy?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Médico."
+        },
+        {
+          "letra": "B",
+          "texto": "Abogado."
+        },
+        {
+          "letra": "C",
+          "texto": "Taxista."
+        },
+        {
+          "letra": "D",
+          "texto": "Psicólogo. 23"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. ¿De qué se trata el siguiente fragmento?  \n \n         Todo esto ocurría, pero yo estaba otra vez con Celina y Mauro en el Luna Park, bailando en \nel Carnaval del cuarenta y dos, Celina de celeste que le iba tan mal con su tipo achinado, Mauro \nde palmbeach y yo con seis whiskies. Me gustaba salir con Mauro y Celina para asistir de costado \na su dura y caliente felicidad. Cuanto más me reprochaban estas amistades, más me arrimaba a \nellos (a mis días, a mis horas) para presenciar su existencia de la que ellos mismos no sabían nada. \n\n         Me arranqué del baile, un quejido venía de la pieza trepando por las puertas. \n\n         —Esa debe ser la madre —dijo el loco Bazán, casi satisfecho.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Un desdoblamiento que sufre el doctor Hardoy mientras está bailando."
+        },
+        {
+          "letra": "B",
+          "texto": "Un delirio del doctor Hardoy producido por el consumo de alcohol."
+        },
+        {
+          "letra": "C",
+          "texto": "Un recuerdo que el doctor Hardoy evoca en medio del velorio de Celina."
+        },
+        {
+          "letra": "D",
+          "texto": "Una realidad paralela vivida por los personajes de Marcelo, Celina y Mauro."
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. En relación con el ambiente que describe el narrador cuando Celina estaba viva, se \npuede concluir que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "muestra la ciudad de Buenos Aires invadida de hechos fantásticos."
+        },
+        {
+          "letra": "B",
+          "texto": "se recrea la vida cotidiana de la clase acomodada de Buenos Aires."
+        },
+        {
+          "letra": "C",
+          "texto": "expone las tensiones culturales entre el mundo rural y la urbe bonaerense."
+        },
+        {
+          "letra": "D",
+          "texto": "corresponde a la vida nocturna de los salones de baile de Buenos Aires."
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. Del último párrafo se infiere que Celina era una mujer:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "perteneciente a una buena familia."
+        },
+        {
+          "letra": "B",
+          "texto": "que se dedicaba a bailar en locales nocturnos."
+        },
+        {
+          "letra": "C",
+          "texto": "que fingía ser profundamente hogareña."
+        },
+        {
+          "letra": "D",
+          "texto": "proveniente de algún país extranjero."
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. Con respecto al tema de la muerte, la visión expresada en el texto puede calificarse \ncomo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "alegre y esperanzadora, pues perder a Celina impulsa a Mauro a vivir de nuevo."
+        },
+        {
+          "letra": "B",
+          "texto": "cercana y predecible, pues para Mauro y Celina la muerte forma parte del día a día."
+        },
+        {
+          "letra": "C",
+          "texto": "triste y melancólica, pues Mauro y Marcelo viven la pérdida de Celina con dolor."
+        },
+        {
+          "letra": "D",
+          "texto": "espiritual y liberadora, pues dejar de existir representa una salvación para Celina. 24"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. ¿Cuál es la idea principal del primer párrafo en relación con la totalidad del texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La reserva cognitiva se puede fortalecer a lo largo de la vida."
+        },
+        {
+          "letra": "B",
+          "texto": "Debemos prevenir las enfermedades neurodegenerativas."
+        },
+        {
+          "letra": "C",
+          "texto": "El cerebro es un órgano asombroso capaz de regenerarse."
+        },
+        {
+          "letra": "D",
+          "texto": "La reserva cognitiva actúa como un almacén de recursos."
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. De acuerdo con la lectura, ¿qué es la reserva cognitiva?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Son los componentes físicos del cerebro heredados genéticamente, como el tamaño y cantidad de neuronas."
+        },
+        {
+          "letra": "B",
+          "texto": "Es la habilidad que tenemos de pensar, aprender y recordar con claridad a lo largo de nuestras vidas."
+        },
+        {
+          "letra": "C",
+          "texto": "Se compone de las actividades gracias a las cuales el cerebro se vuelve más ágil y creativo."
+        },
+        {
+          "letra": "D",
+          "texto": "Es la capacidad cerebral de compensar los efectos de una lesión o una enfermedad neurodegenerativa."
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. ¿Con qué intención se compara al cerebro con una computadora en el tercer párrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Para justificar la idea de que proteger nuestro cerebro es fundamental para mantener una buena salud cognitiva."
+        },
+        {
+          "letra": "B",
+          "texto": "Para explicar la diferencia entre la reserva cerebral, equivalente al hardware, y la reserva cognitiva, similar a un software."
+        },
+        {
+          "letra": "C",
+          "texto": "Para reflexionar sobre los avances tecnológicos que posibilitan la comprensión de fenómenos complejos como la mente."
+        },
+        {
+          "letra": "D",
+          "texto": "Para enfatizar las tremendas capacidades de flexibilidad y adaptabilidad que posee nuestro cerebro."
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. ¿Cuál es la relación entre los párrafos 6 y 7 del texto?  \n \n\n \nEl párrafo 6: \n \n\nEl párrafo 7:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "explica un estudio que David Snowden aplicó a un grupo de monjas. destaca un caso específico de dicho estudio y sus resultados."
+        },
+        {
+          "letra": "B",
+          "texto": "expone las ideas de David Snowden sobre el funcionamiento cerebral. relata un evento que confirmó la teoría de Snowden."
+        },
+        {
+          "letra": "C",
+          "texto": "describe una investigación de David Snowden referida a las capacidades cognitivas. compara la situación de la hermana Mary con las otras monjas de la investigación."
+        },
+        {
+          "letra": "D",
+          "texto": "insiste en la relación entre la salud cognitiva del cerebro y las actividades que ejercitan la memoria. profundiza en la importancia de entrenar el cerebro para vivir hasta los 101 años como la hermana Mary. 27"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. Según el texto, ¿qué importancia tiene el estudio de las monjas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Permitió levantar información sobre qué actividades resultan más favorables para prevenir el Alzheimer."
+        },
+        {
+          "letra": "B",
+          "texto": "Sus resultados demostraron que el estilo de vida de las monjas es el más apropiado para desarrollar estudios."
+        },
+        {
+          "letra": "C",
+          "texto": "Es la evidencia científica más clara que existe sobre el poder de la reserva cognitiva para proteger el cerebro."
+        },
+        {
+          "letra": "D",
+          "texto": "Reveló que todavía tenemos mucho que aprender sobre las enfermedades neurodegenerativas."
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. El caso de la hermana Mary permite concluir que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "actividades como leer, escribir y memorizar rezos son efectivas para combatir la depresión, otro de los grandes enemigos de la salud cognitiva."
+        },
+        {
+          "letra": "B",
+          "texto": "donar nuestro cerebro a la ciencia puede ayudar a producir importantes descubrimientos sobre las capacidades cognitivas de las personas."
+        },
+        {
+          "letra": "C",
+          "texto": "es posible que las personas logren envejecer en forma digna sin manifestar enfermedades físicas o deterioro cognitivo."
+        },
+        {
+          "letra": "D",
+          "texto": "reforzar nuestra reserva cognitiva es útil para evitar sufrir los síntomas de enfermedades neurodegenerativas como el Alzheimer."
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. ¿Cuál(es) de las siguientes opciones sirve(n) para enriquecer la reserva cognitiva? \n \nI. Actividades que exijan concentración, memoria y estrategia. \nII. Actividades que nos permitan aprender algo nuevo. \nIII. Actividades que nos gusten y en las que interactuemos con otros.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. ¿Cuál es el propósito del texto leído?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Contar un interesante estudio realizado en los años 80 que explica nuestro cerebro."
+        },
+        {
+          "letra": "B",
+          "texto": "Describir los efectos positivos de realizar actividades intelectualmente desafiantes."
+        },
+        {
+          "letra": "C",
+          "texto": "Explicar cómo es posible mantener la salud cerebral gracias a la reserva cognitiva."
+        },
+        {
+          "letra": "D",
+          "texto": "Demostrar que aprender cosas nuevas es un factor determinante para la felicidad. 28"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. ¿Cuál es el sentido de la frase “mente ocupada, mente saludable por más tiempo”?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Es necesario hacer crucigramas y aprender varios idiomas para prolongar el tiempo de vida."
+        },
+        {
+          "letra": "B",
+          "texto": "Fortalecer la reserva cognitiva realizando ciertas actividades ayuda a la salud de nuestro cerebro."
+        },
+        {
+          "letra": "C",
+          "texto": "Quien se dedica a construir su reserva cognitiva, no tendrá tiempo para desarrollar enfermedades."
+        },
+        {
+          "letra": "D",
+          "texto": "Tener una mentalidad positiva como las monjas del estudio, influye en la salud cognitiva. 29"
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. ¿Cuál es la intención comunicativa del texto anterior?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Exponer la política exterior adoptada en Chile."
+        },
+        {
+          "letra": "B",
+          "texto": "Proponer soluciones al problema de la seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Alertar sobre los peligros del narcotráfico en Chile."
+        },
+        {
+          "letra": "D",
+          "texto": "Criticar el gobierno del presidente Gabriel Boric."
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. Según la encuesta de AthenaLab, ¿qué problemas de seguridad nacional son \nprioridad en Chile, tanto para la población general como para los expertos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El terrorismo y la guerrilla."
+        },
+        {
+          "letra": "B",
+          "texto": "La migración y la trata de personas."
+        },
+        {
+          "letra": "C",
+          "texto": "La corrupción y el lavado de dinero."
+        },
+        {
+          "letra": "D",
+          "texto": "El narcotráfico y el crimen organizado. 32"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. ¿Con qué objetivo el emisor menciona la encuesta de Percepciones sobre Política \nExterior y Seguridad Nacional de AthenaLab?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Complementar su visión con respecto a la política exterior de Chile."
+        },
+        {
+          "letra": "B",
+          "texto": "Demostrar las prioridades ciudadanas en el ámbito de la seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Expresar su acuerdo con los resultados obtenidos sobre la seguridad."
+        },
+        {
+          "letra": "D",
+          "texto": "Sensibilizar a la ciudadanía acerca de las amenazas a la seguridad."
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 51,
+      "enunciado": "51. ¿Cómo evalúa el emisor la labor del gobierno del presidente Boric en materia de \nseguridad?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Le parece que no ha sintonizado con el clamor de la ciudadanía."
+        },
+        {
+          "letra": "B",
+          "texto": "Cree que no tendrá éxito dada la coyuntura en que vivimos."
+        },
+        {
+          "letra": "C",
+          "texto": "Considera que debería procurar adoptar estrategias diferentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Piensa que le ha causado un dramático deterioro al país."
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 52,
+      "enunciado": "52. El emisor hace referencia a la teoría del contrato social con el fin de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "denunciar la negligencia del Estado chileno en la lucha contra la delincuencia."
+        },
+        {
+          "letra": "B",
+          "texto": "recordar un rasgo esencial que define a un Estado que se declara democrático."
+        },
+        {
+          "letra": "C",
+          "texto": "exponer uno de los fundamentos en los que se sustenta el Estado republicano."
+        },
+        {
+          "letra": "D",
+          "texto": "justificar la creación del Estado desde el punto de vista de la teoría política."
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 53,
+      "enunciado": "53. ¿Cuál(es) de las siguientes acciones corresponde(n) a lo que propone el emisor para \nenfrentar los problemas de seguridad nacional? \n \nI. Potenciar la agenda con Estados Unidos y con la Unión Europea. \nII. Abordar la integración regional en conjunto con el fenómeno migratorio. \nIII. Reorientar la labor de las agregadurías policiales.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III 33"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 54,
+      "enunciado": "54. ¿Qué relación se establece entre el párrafo 11 con los párrafos 12, 13 y 14?  \n \nEl párrafo 11",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "plantea la necesidad de profundizar en la cooperación internacional y los siguientes, especifican las medidas que se podrían adoptar al respecto."
+        },
+        {
+          "letra": "B",
+          "texto": "defiende el valor de la unidad nacional y los siguientes, mencionan ejemplos de países que han logrado derrotar al narcotráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "define una de las prioridades de la política exterior actual y los siguientes, explican las acciones que se deberían implementar en el futuro."
+        },
+        {
+          "letra": "D",
+          "texto": "describe la situación de Chile en materia de seguridad y los siguientes, comparan la realidad chilena con otros países latinoamericanos."
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    },
+    {
+      "numero": 55,
+      "enunciado": "55. ¿A qué se refiere el emisor cuando dice que “siendo el enemigo tan poderoso, está \nclaro que la simple acción nacional es totalmente insuficiente”?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A que, ante la asociación entre el crimen organizado, el terrorismo y la guerrilla, es imposible que en la zona sur se pueda derrotar la delincuencia."
+        },
+        {
+          "letra": "B",
+          "texto": "A que, debido a la expansión del narcotráfico en todos los países de la región, el crimen solo puede ser combatido con el apoyo de Estados Unidos."
+        },
+        {
+          "letra": "C",
+          "texto": "A que, considerando la magnitud del problema del narcotráfico y del crimen organizado en la región, un país no tiene la capacidad para enfrentarlo."
+        },
+        {
+          "letra": "D",
+          "texto": "A que los detractores del gobierno de Gabriel Boric continuarán exigiendo mayor eficacia en la lucha contra el narcotráfico para defender la democracia."
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    },
+    {
+      "numero": 56,
+      "enunciado": "56. ¿Desde cuándo estarían definidas tanto las prioridades en materia de política exterior \ncomo las principales amenazas para nuestra seguridad, según el emisor?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2019."
+        },
+        {
+          "letra": "B",
+          "texto": "2020."
+        },
+        {
+          "letra": "C",
+          "texto": "2021."
+        },
+        {
+          "letra": "D",
+          "texto": "2022."
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    },
+    {
+      "numero": 57,
+      "enunciado": "57. ¿Cuál de las siguientes opciones podría funcionar como un título alternativo para el \ntexto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Consecuencias del narcotráfico y el crimen organizado en Latinoamérica."
+        },
+        {
+          "letra": "B",
+          "texto": "Percepciones de la ciudadanía sobre seguridad nacional y política exterior."
+        },
+        {
+          "letra": "C",
+          "texto": "Acciones para combatir los principales problemas de seguridad en Chile."
+        },
+        {
+          "letra": "D",
+          "texto": "Medidas anunciadas por el presidente Boric en materia de seguridad. 34"
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    },
+    {
+      "numero": 58,
+      "enunciado": "58. ¿Con qué intención se amplía la imagen de la mano en el mouse?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ilustrar cómo se realiza el trabajo de oficina."
+        },
+        {
+          "letra": "B",
+          "texto": "Ejemplificar en qué consiste la ergonomía."
+        },
+        {
+          "letra": "C",
+          "texto": "Graficar la correcta postura de las muñecas."
+        },
+        {
+          "letra": "D",
+          "texto": "Persuadir sobre la importancia de cuidar la salud."
+        }
+      ],
+      "pagina": 37,
+      "imagenes": [
+        "Ensayo 3 L_p37_img0.jpg"
+      ]
+    },
+    {
+      "numero": 59,
+      "enunciado": "59. En relación con la implementación del espacio de trabajo es correcto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La altura de la silla debe ajustarse para permitir estirar las piernas."
+        },
+        {
+          "letra": "B",
+          "texto": "El teclado y el mouse deben ubicarse a un brazo de distancia."
+        },
+        {
+          "letra": "C",
+          "texto": "El escritorio debe contar con espacio suficiente para la organización."
+        },
+        {
+          "letra": "D",
+          "texto": "La parte superior de la pantalla debe estar al nivel de los ojos."
+        }
+      ],
+      "pagina": 37,
+      "imagenes": []
+    },
+    {
+      "numero": 60,
+      "enunciado": "60. ¿Qué elemento del texto permite confiar en la información entregada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El logo de Pictoline."
+        },
+        {
+          "letra": "B",
+          "texto": "El uso de lenguaje técnico."
+        },
+        {
+          "letra": "C",
+          "texto": "La indicación de la fuente."
+        },
+        {
+          "letra": "D",
+          "texto": "La fecha de publicación."
+        }
+      ],
+      "pagina": 37,
+      "imagenes": []
+    },
+    {
+      "numero": 61,
+      "enunciado": "61. A partir de la lectura, se infiere que las personas que trabajan en oficina:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tienden a ser descuidadas con su salud física y mental."
+        },
+        {
+          "letra": "B",
+          "texto": "están expuestas a sufrir dolores y molestias a la columna."
+        },
+        {
+          "letra": "C",
+          "texto": "realizan poca actividad física fuera del horario laboral."
+        },
+        {
+          "letra": "D",
+          "texto": "pasan horas en posturas rígidas que tensionan sus músculos. 37"
+        }
+      ],
+      "pagina": 37,
+      "imagenes": []
+    },
+    {
+      "numero": 62,
+      "enunciado": "62. ¿Qué posturas se deberían evitar en la oficina? \n \nI. Encorvarse hacia un lado. \nII. Apretar los músculos. \nIII. Cruzar las piernas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 38,
+      "imagenes": []
+    },
+    {
+      "numero": 63,
+      "enunciado": "63. ¿Cómo se podría sintetizar el mensaje que transmite la infografía?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Trabajar en oficina puede hacer que tus sueños se conviertan en realidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Adaptar tu lugar de trabajo para que tenga las condiciones óptimas depende de ti."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantener una postura adecuada mientras trabajas ayuda a cuidar tu salud."
+        },
+        {
+          "letra": "D",
+          "texto": "Mientras más horas dediques a tu trabajo de oficina más arriesgas tu salud."
+        }
+      ],
+      "pagina": 38,
+      "imagenes": []
+    },
+    {
+      "numero": 64,
+      "enunciado": "64. ¿Qué hábito permite mantener una mejor postura durante el día?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Comenzar a practicar parkour (entrenar usando obstáculos)."
+        },
+        {
+          "letra": "B",
+          "texto": "Levantarse y descansar 2 minutos cada media hora."
+        },
+        {
+          "letra": "C",
+          "texto": "Elegir una silla que cuente con soporte para la columna."
+        },
+        {
+          "letra": "D",
+          "texto": "Tomar pausas activas y realizar estiramientos."
+        }
+      ],
+      "pagina": 38,
+      "imagenes": []
+    },
+    {
+      "numero": 65,
+      "enunciado": "65. ¿Cuál de las siguientes opciones podría ser otro título para el texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Posturas adecuadas en la oficina."
+        },
+        {
+          "letra": "B",
+          "texto": "Hábitos saludables en el trabajo."
+        },
+        {
+          "letra": "C",
+          "texto": "Cambios favorables de autocuidado."
+        },
+        {
+          "letra": "D",
+          "texto": "Conductas seguras en la oficina. 38"
+        }
+      ],
+      "pagina": 38,
+      "imagenes": []
+    }
+  ]
+}

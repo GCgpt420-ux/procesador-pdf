@@ -1,0 +1,124 @@
+{
+  "filename": "NÚMEROS ENTEROS.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/NÚMEROS ENTEROS.pdf",
+  "num_paginas": 18,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T16:00:53.323256",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "NÚMEROS ENTEROS \n\n \n",
+      "cantidad_caracteres": 20,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 1224.9248046875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "MATEMÁTICA\n22\n\n1.\t NÚMEROS NATURALES  \t\n \t \t\n\t\nCARDINALES Y ENTEROS\n\n1.1\t\nDEFINICIONES DE LOS CONJUNTOS NUMÉRICOS\n\nLos elementos del conjunto   = {1, 2, 3, 4, 5,…} se denominan “Números Naturales”.\n\nLos “Números Cardinales” corresponden a la unión del conjunto de los números naturales \ncon el cero. \n = {0, 1, 2, 3, 4, 5,…} =  U {0}\n\nLos elementos del conjunto  = {…,-2, -1, 0, 1, 2,…} se denominan “Números Enteros”.\n\nLos elementos del conjunto \n = {1, 2, 3...} se denominan “Números Enteros Positivos”.\n\nLos elementos del conjunto \n = {…, -3, -2, -1} se denominan “Números Enteros Negativos”.\n\nLos elementos del conjunto \n = {0, 1, 2, 3...} se denominan “Números Enteros No Negativos”.\n\nLos elementos del conjunto \n = {…-3, -2, -1, 0} se denominan “Números Enteros No Positivos”.\n\nEl cero no es negativo ni positivo.\nOBSERVACIÓN\n",
+      "cantidad_caracteres": 832,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 23\n\n1.2\t VALOR ABSOLUTO\n\nEl valor absoluto de un número entero n representa la distancia que existe entre este número y el cero.\n\nSe simboliza |n|\n\nDefinición:\n\n|n|  =\nn, si n es un entero no negativo.\n\n-n, si n es un entero negativo.\n\nOBSERVACIONES\n\n| x |  =     x2\n\n| a – b | = | b – a |\n\n-3\n-1\n1\n-2\n0\n2\n3\n\n| a · b | = | a |·| b |\n\n| x |  =  | -x |\n\n|-3|  =  -(-3)  =  3\n|-3|  =  3\n\n| a : b | = | a |:| b | , b ≠ 0\n\n1.3\t OPERATORIA EN ℤ\n\n1.3.1\t\nADICIÓN\n\nPara sumar números de igual signo, se suman los valores absolutos de ellos conservando el signo.\n\nPara sumar dos números de distinto signo, se restan sus valores absolutos y al resultado se le agrega el signo del \nnúmero con mayor valor absoluto.\n\n1.3.2\t\nMULTIPLICACIÓN\n\nSi se multiplican dos números de igual signo el resultado es siempre positivo.\nSi se multiplican dos números de distintos signo el resultado siempre es negativo.\nEl neutro aditivo es 0, opuesto de x es –x y el neutro multiplicativo es",
+      "cantidad_caracteres": 1004,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": "MATEMÁTICA\n24\n\nEJERCICIOS\n\n1. Al calcular -9 + 28 se obtiene\n\n6. El cuociente entre 20 y -5 es\n\n2. Al calcular 18 + -27 se obtiene\n\n7. El cuociente entre -36 y 4 es\n\n3. Al calcular -15 + (-18) se obtiene\n\n8. El cuociente entre -144 y -36 es\n\n4. El producto entre -6 y 3 es\n\n9. El resultado de -10 + 6 - 8 es\n\n10. El resultado de (-4) . (-6) . (-3)\n\n5. El producto entre -8 y -9 es\n",
+      "cantidad_caracteres": 381,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 25\n\n11. El resultado de ((-9) . (-2)) : 6 es\n\n16. -| -20 | : | -4 | = \n\n12. -| -4 | = \n\n17. | -5 | - | -7 | + | 2 | =\n\n18. | 5 | . | -3 | . | -2 | =\n\n13. | 7 | + | -8 | =\n\n19. (-3) . 8 . | -5 | =\n\n14. | -11 | - | -18 | =\n\n15. | -5 | . | -7 | = \n\n20. | 4 - 9 | - | 6 . (-2)| - | (-18) : (-2)| = \n\n16.  -5 17.  0\n18.  30 19.  -120 20.  -16\n\nRespuestas\n1.  19\n2.  -9\n3.  -33\n4.  -18\n5.  72\n6.  -4\n7.  -9\n8.  4\n9.  -12\n10.  -72 11.  3\n12.  -4 13.  15 14.  -7\n15.  35\n",
+      "cantidad_caracteres": 502,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": "MATEMÁTICA\n26\n\n1.4\t ORDEN EN ℤ\n\nLos números enteros están “ordenados” de manera que un número es mayor que otro cuando se encuentra a la \nderecha de él.\n\n-3\n-4\n4\n-1\n1\n-2\n0\n2\n3\n\nDados dos números enteros cualesquiera a y b, se define la relación “mayor que” (>) entre a y b como:\n\na > b si y solo si (a – b) es un entero positivo.\n\n1.4.1\t\nPROPIEDADES DE ORDEN\n\nDados los números enteros a, b y c, se cumplen las siguientes propiedades:\n\nTricotomía:\t\nentre a y b se cumple sólo una de las siguientes relaciones\n\t\n\t\na < b      ó       a > b       ó       a = b\n\nTransitiva:\t\nsi   a < b   y    b < c, entonces   a < c.\n\nOBSERVACIONES\n\na < b <=> b > a\n\nAditiva:\t\t\na < b   <=>   a + c < b + c\n\nSi a ≥ b,\nentonces | a – b | = a – b\n\nSi a ≤ b,\nentonces | a – b | = b – a\n\nMultiplicativa:\t\nsi    c > 0,    a < b   <=>   a · c < b · c\n\t\n\t\nsi    c < 0,    a < b   <=>   a · c > b · c\n",
+      "cantidad_caracteres": 873,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 27\n\nEJERCICIOS\n\nEn la recta numérica de la figura adjunta se ubican los números a, b, c y d   .\n\nb\nd\na\n0\nc\n\nEn relación a esta recta, conteste verdadero (V) o falso (F) a las siguientes afirmaciones:\n\n1. ___ a > b.\n\n2. ___  d < c.\n\n3. ___  b ≤ d.\n\n4. ___  b – a > 0.\n\n5. ___  | d – c | = d – c.\n\n6. ___  | d – b | = d – b.\n\n7. ___  –a – b < 0.\n\n8. ___  3a > 2b.\n\n9. ___  a – c < b – c.\n\n10. ___  bc < dc.\n\n11. ___  a + b < c + d.\n\n12. ___  | a | > | b |.\n\n13. ___  El orden decreciente de los números p = | -12 |,    q = | 2 |,    r = -| -3 |,    s = -(-| -6|),   es p, s, q, r.\n\nRespuestas\n1. F\n2. V\n3. V\n4. V\n5. F\n6. V\n7. F\n8. F\n9. V\n10. V\n11. V\n12. V\n13. V\n",
+      "cantidad_caracteres": 699,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "texto": "MATEMÁTICA\n28\n\n1.5\t SUCESOR, ANTECESOR, NÚMEROS PARES,\n\t\nNÚMEROS IMPARES Y CUADRADOS PERFECTOS\n\nSea n un número entero, entonces:\n\n•\t El sucesor de n es (n + 1).\n\n•\t El antecesor de n es (n – 1).\n\n•\t El entero 2n es siempre par. {…-4, -2, 0, 2, 4…}\n\n•\t El entero (2n – 1) es siempre impar. {…-3, -1, 1, 3…}\n\nOBSERVACIÓN\n\n•\t El entero (2n + 1) es siempre impar.\n\n•\t Son pares consecutivos 2n y 2n + 2.\n\nEl cero es un número \nentero par.\n\n•\t Son impares consecutivos 2n + 1 y 2n + 3.\n\n•\t El cuadrado perfecto de n es n2, con n > 0. {1, 4, 9, 16, 25, 36, 49…}\n\nEJERCICIOS\n\n1. Si al antecesor de -3 se le resta el sucesor de -6, se obtiene\n\n2. Si al sucesor impar de -1 se le resta el antecesor de 6, se obtiene\n\n3. La diferencia entre un número entero y su sucesor respectivamente, es siempre igual a\n\n4. Al dividir el antecesor par de -16 con el sucesor par de 0, se obtiene\n\n5. El producto del cuadrado perfecto de 7 con el cuadrado perfecto de 2, se escribe como\n\n6. Si a es par y b impar, determinar",
+      "cantidad_caracteres": 1260,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 29\n\n1.6\t POTENCIA DE BASE ENTERA\n\nY EXPONENTE ENTERO NO NEGATIVO\n\nOBSERVACIONES\n\nan  =  a · a · a · ... · a , con a       y  n   \n\n0n  =  0,  con n    \n  \n\nn  factores\n\n1n  =  1,  con n    \n\na0 = 1, a ≠ 0\n\n00 no está definido\n\n1.6.1\t\nSIGNOS DE UNA POTENCIA DE BASE NEGATIVA\n\nSi a < 0 entonces:\n\nOBSERVACIÓN \n\nPositiva, si n es par\n\nSi a < 0 y n es par,\nentonces an ≠ -an\n\nNegativa, si n es impar\nan   =\n\nEJERCICIOS\n\n1.  -32 =\n\n5.  -70 =\n\n2.  (-4)2 =\n\n6.  010 =\n\n3.  (-2)3 =\n\n7.  1100 =\n\n4.  (-5)0 =\n\n8.  -23 =\n\nRespuestas\n1. -9\n2. 16\n3. -8\n4. 1\n5. -1\n6. 0\n7. 1\n8. -8\n",
+      "cantidad_caracteres": 606,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "texto": "MATEMÁTICA\n30\n\n1.6.2\t\nPROPIEDADES DE LAS POTENCIAS\n\nDados a y b números enteros, m y n enteros positivos, se cumplen las siguientes propiedades:\n\nMultiplicación\nde potencias de igual base\n\nDivisión\nde potencias de igual base\n\nMultiplicación\nde potencias de igual exponente\n\nan · am  =  an+m\n\nan  :  am =  an–m ,  a ≠ 0\n\nan  ·  bn  =  ( a · b )n\n\nDivisión\nde potencias de igual exponente\n\nPotencia\nde una potencia\n\nm   =  an.m\n\n( an )\n\nan  :  bn  =  ( a  :  b )n  ,  b ≠ 0\n\nEJERCICIOS\n\n1.  52  ·  53  =\n\n5.  ( -3 )3  ·  ( 2 )3  =\n\n6.  ( 12 )4  :  ( -4 )4  =\n\n2.  -48  ·  44  =\n\n7.  ( -24 )  ·  ( -4 )4  =\n\n3.  ( -6 )4  ·  63  =\n\n8. ( -32 ) 3 =\n\n4.  95  :  ( -9 )3  =\n\nRespuestas\n1. 55\n2. -412\n3. 67\n4. -92\n5. -63\n6. (-3)4\n7. -84\n8. -36\n",
+      "cantidad_caracteres": 735,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 31\n\n1.7\t PRIORIDAD DE LAS OPERACIONES\n\nAl realizar distintas operaciones a la vez, se debe respetar el siguiente orden:\n\n1.\t Resolver los paréntesis.\n\n2.\t Realizar las potencias.\n\n3.\t Realizar multiplicaciones y/o divisiones de izquierda a derecha.\n\n4.\t Realizar adiciones y/o sustracciones.\n\nEJERCICIOS\n\n1.  4   ·  3  -  3  =\n\n4.  -18 + 6 : 3 - 12 : -2 =\n\n5.  6 . (-12) : 4 + 6  . 3 =\n\n2.  4    ·  ( -22 )  +  1  =\n\n3.  5 - 5 (8 - 4 . 2) =\n\n6.  4 . (-32 ) + 8 : 4 - 5  .  (-2)  =\n",
+      "cantidad_caracteres": 520,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "texto": "MATEMÁTICA\n32\n\n7.  Al resolver  ( -2 )4  +  5  -  ( 12  -  14  :  2)2  se obtiene\n\n8.  | -3 |3    +  (  5  -  ( -4 ) )2   =\n\n9.  ( 22  +  3 )2  -  4  (  1  +  2  ( -2  - 3))  =\n\n10.  6  {  -(  2  -  9)  -  2  [  5  -  8  -  (-9  - 2)]}  =\n\nRespuestas\n1. 9\n2. -15\n3. 5\n4. -10\n5. 0\n6. -24\n7. -4\n8. 108\n9. 85\n10. -54\n",
+      "cantidad_caracteres": 314,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 33\n\n1.8\t MÚLTIPLOS Y DIVISORES\n\nDados los números enteros a y b, b es divisor de a (o factor de a) si existe un número entero c tal que: a = b · c.\n\nSi b es divisor de a entonces a es múltiplo de b.\n\nALGUNAS REGLAS DE DIVISIBILIDAD\nUN NÚMERO ENTERO ES DIVISIBLE:\n\nOBSERVACIONES\n\nPOR\nCUANDO\n\n•\t Todo número entero es múltiplo de si \nmismo.\n\n2\nTermina en cifra par.\n\n•\t El cero es múltiplo de todos los números \nenteros.\n\n3\nLa suma de sus cifras es múltiplo de 3.\n\n•\t Los múltiplos de un número entero n \nse obtienen multiplicando n por cada \nnúmero entero. \nM(n) = {…-3n, -2n, -1n, 0n, 1n, 2n, 3n…}.\n\n4\nEl número formado por las dos últimas cifras \nes múltiplo de cuatro ó termina en doble cero.\n\n5\nTermina en 0 o 5.\n\n•\t Todo número entero, distinto de cero, es \ndivisor de si mismo.\n\n6\nEs divisible por dos y por tres a la vez.\n\n•\t El número uno es divisor de todo número.\n\n8\nEl número formado por las tres últimas cifras \nes múltiplo de ocho o termina en tripl",
+      "cantidad_caracteres": 1286,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "texto": "MATEMÁTICA\n34\n\n2.\t¿Son todos los múltiplos de 24 números pares?\n\n3.\t¿Son todos los múltiplos de 27 números impares?\n\n4.\tLa cuarta parte de la suma de los primeros cuatro múltiplos positivos de cuatro es:\n\n5.\t¿Cuál es el menor valor que puede tomar Z, para que el número de cuatro digitos 38Z6 sea divisible por tres?\n\n6.\t¿Cuál es la menor cifra que debe colocarse en el espacio vacío, para que el número de 5 cifras 7_201 sea \n\ndivisible por 9?\n\nRespuestas\n1. Sí\n2. Sí\n3. No\n4. 10\n5. 1\n6. 8\n",
+      "cantidad_caracteres": 491,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 35\n\n1.9\t NÚMEROS PRIMOS, COMPUESTOS\n\t\nY DESCOMPOSICIÓN EN FACTORES PRIMOS\n\nNÚMEROS PRIMOS\n\nSon aquellos enteros positivos que tienen sólo dos divisores positivos distintos. \nLos primeros números primos son: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37,…\n\nOBSERVACIONES\n\nEl número 1 no es \nprimo ni compuesto.\n\nNÚMEROS COMPUESTOS\n\nSi un número n es \nprimo, sus únicos \ndivisores positivos son \n1 y n.\n\nSon todos los enteros positivos mayores que uno que no son primos, es \ndecir, son aquellos que tienen más de dos divisores positivos distintos. \nLos primeros números compuestos son: 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20,…\n\nTEOREMA FUNDAMENTAL DE LA ARITMÉTICA\n\nTodo número compuesto se puede expresar de manera única como un producto de números primos, llamada \ntambién factorización prima de un número.\n\nDado el número compuesto N = ad be cf, con a, b, c, números primos distintos y d, e, f números naturales, entonces \nla cantidad de divisores positivos de N ",
+      "cantidad_caracteres": 1118,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "texto": "MATEMÁTICA\n36\n\n2.\tLa diferencia entre el mayor número primo menor que 10 y el menor número compuesto, respectivamente, es\n\n3.\tAl sumar los 6 primeros números primos, se obtiene\n\n4.\tUn número entero se llama “socio” si su antecesor y sucesor son números primos. Entonces, ¿cuántos números \n\n“socios” hay entre 1 y 20?\n\n5.  La descomposición en factores primos del número 540 es\n\nRespuestas\n1. 8\n2. 3\n3. 41\n4. 4\n5. 22 · 33 · 5\n",
+      "cantidad_caracteres": 425,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 37\n\n1.10\t MÍNIMO COMÚN MÚLTIPLO\n\nEl m.c.m. de dos o más números naturales es el menor número natural, que es múltiplo común de todos ellos.\n\n1.11\t MÁXIMO COMÚN DIVISOR\n\nEl M.C.D. de dos o más números naturales es el mayor número natural, que es divisor común de todos ellos.\n\nOBSERVACIÓN\n\n   Si el M.C.D de dos números es 1, entonces el m.c.m es el producto de ellos.\n\n1.11.1\t\nCÁLCULO DEL m.c.m Y M.C.D. MEDIANTE DESCOMPOSICIÓN\nEN FACTORES PRIMOS\n\nSe debe descomponer los números dados en factores primos.\n\nEl m.c.m. se obtiene como producto de todos los factores primos, con sus respectivos exponentes. En el caso de \nexistir factores primos comunes se considera aquel que posea el exponente mayor.\n\nEl M.C.D. se obtiene como producto de los factores primos comunes considerando aquel que posea el exponente \nmenor.\n\nEJERCICIOS\n\n1.  ¿Cuál es la descomposición prima del número 90?\n\n2.  ¿Cuál es la descomposición prima del número 24?\n\n3.\t¿Cuál es el m.c.m. ent",
+      "cantidad_caracteres": 1041,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "texto": "MATEMÁTICA\n38\n\n4.\t¿Cuál es el M.C.D. entre 24 y 90? \n\n5.\t¿Cuál es el m.c.m. de 5 y 7?\n\n6.\tEl M.C.D. de 3 y 5 es\n\n7.  Hay terrenos de 60, 48, 84 y 36 hectáreas, los cuales serán subdivididos en parcelas de igual superficie. Entonces, \n\ncada una de estas tendrá una superficie máxima de:\n\n8.  Tres autitos giran en una autopista de juguete. Uno de ellos demora 4 segundos en dar una vuelta entera, otro de \n\nellos demora 6 segundos y el tercero 8 segundos. Si los tres parten de la meta al mismo tiempo, ¿a los cuántos \nsegundos se encuentran por segunda vez, si los tres autitos giran en forma continua?\n\nRespuestas\n1. 2 · 32 · 5 2. 23 · 3 3. 23 · 32 · 5\n4. 6\n5. 35\n6. 1\n7. 12\n8. 48\n",
+      "cantidad_caracteres": 682,
+      "imagenes": []
+    }
+  ]
+}

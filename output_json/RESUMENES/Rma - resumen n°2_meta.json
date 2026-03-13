@@ -1,0 +1,195 @@
+{
+  "filename": "Rma - resumen n°2.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/RESUMENES/Rma - resumen n°2.pdf",
+  "num_paginas": 10,
+  "titulo": "",
+  "autor": "angel vargas soto",
+  "fecha_procesamiento": "2026-03-07T16:03:31.320155",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\n \n\n \n\n \n\n \n \n\nab \nb2 \n\nb \n\n \n\n \n\n \n\na2 \nab \n\na \n\n \n\n \n\n \n\na \n\nb \n\n \n\n \n\n \n\n(a + b)2 = a2 + 2ab + b2 \n\n \n\n \n\n \n\n \nRESUMEN RMA-02 \n\nÁLGEBRA I \n\nNombre \n\nCurso \n\nProfesor \n",
+      "cantidad_caracteres": 172,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.15234375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.1416015625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 4,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n\n \n\n \n\nÁLGEBRA \n\n \n\n \n\n \nTérmino algebraico \n Expresión formada por números, letras, o bien, números y letras.  \n Es posible distinguir Factor Numérico y Factor Literal. \nEjemplo:   –3xy2 \n\n \n \n  Factor Numérico: -3 \n \n \n  Factor literal: xy2 \n\nExpresiones algebraicas \n\n \nExpresión formada por dos o más términos algebraicos, \n\nespaciadas por adiciones y/o sustracciones. \n\nClasificación de las Expresiones Algebraicas \n\n \n Monomio: Es una expresión algebraica que tiene solo un término algebraico.  \n2xy2  \n Binomio: Es una expresión algebraica que tiene solo dos términos algebraicos. 3x2 – 2y \n Trinomio: Es una expresión algebraica que tiene solo tres términos algebraicos. 4x2 + 5x – 3  \n Multinomio: Es una expresión algebraica que tiene más de tres términos algebraicos.  \n\n4x4 + 2x2y – 3xy2 + x \n\nTérminos semejantes: \n\n \nTérminos algebraicos que tienen el mismo factor \n\nliteral. \n2a3b2; -5a3b2; 3a3b2 \n\nPágina 2 \n",
+      "cantidad_caracteres": 932,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \n\n \n\n \nOPERATORIA \n\n \n\n \nSe debe \n\n \n\n 5x2 + 3x2 – 20x2 = -12x2 \n\nreducir \ntérminos \nsemejantes \n\nADICIÓN \n\n -7 + ab3 – 1 + 4ab3 = -8 + 5ab3 \n \n\n \n\n \nSe multiplican todos los términos entre sí, es decir, se debe multiplicar \n\ntérmino a término. \n\n \n \nMonomio por \n\n \n5xy3 · 4xy = 5 · 4 · x · x · y3 · y = 20x2y4 \n\nmonomio \n\n \n \n\nMULTIPLICACIÓN \n\n \nMonomio por \n\n \n4a(5 – 2b3) = 4a · 5 – 4a · 2b3 = 20a – 8ab3 \n\nbinomio \n \n\n \n\n \nBinomio por \n\n \n(2 – x)(3 + y) = \n2 · 3 + 2 · y – x · 3 – x · y = \n6 + 2y – 3x – xy  \n\nBinomio \n\n \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nPágina 3 \n",
+      "cantidad_caracteres": 579,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": " \n\n \n\n \n\nObservaciones: \n (b – a)2 = (a – b)2 \n (-a – b)2 = (a + b)2 \n (-a + b)2 = (b – a)2 \n\n \n\nCuadrado de binomio \n(a + b)2 = a2 + 2ab + b2 \n\n \n\n(a – b)2 = a2 – 2ab + b2 \n\n \n\n \n\nObservaciones \n (a – b)(a + b) = (a + b)(a – b) \n (a – b)(a + b)  (b – a)(a + b) \n\n \n\nSuma por su diferencia \n(a – b)(a + b) = a2 – b2 \n\n \n\n \n\n \n\n \n\nProductos \n\nNotables \n\n \n\nBinomio con término común \n(x + a)(x + b) = x2 + (a + b)x + ab \n\n \n\n \n\n \n\nCuadrado de trinomio \n(a + b + c)2 = a2 + b2 + c2 + 2ab + 2ac + 2bc \n\n \n\n \n\n \n\nObservación: \n(-a – b – c)2 = (a + b + c)2 \n\n \n\nCubo de binomio \n(a + b)3 = a3 + 3a2b + 3ab2 + b3 \n\n \n\n(a – b)3 = a3 – 3a2b + 3ab2 – b3 \n\nObservación: \n\n (a – b)(a + b) = -(b – a)(a + b)  \n \n \n\nProducto Notable \nEjemplo \n\nCuadrado de Binomio \n(3a – b)2 = (3a)2 – 2 · 3a · b + b2 = 9a2 – 6ab + b2 \n\nSuma por su Diferencia \n(4x – 3y)(4x + 3y) = (4x)2 – (3y)2 = 16x2 – 9y2 \n\nBinomio con Término \n\nComún \n(x + 7)(x + 3) = x2 + (7 + 3)x + 7 · 3 = x2 + 10x + 21 \n\nCuadrado de Trinomio \n(3 +",
+      "cantidad_caracteres": 1270,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": " \n\n \nTIPOS DE FACTORIZACIONES \n \n \n\n \nFactor Común \n\n \n\n ac + ad = a(c + d) \n (a + b)c + (a + b)d = (a + b)(c + d) \n \n \n \n \n \n \nFactorización de Binomios \n\n \nDiferencia de cuadrados \na2 – b2 = (a – b)(a + b) \n \n\n \nDiferencia de cubos \na3 – b3 = (a – b)(a2 + ab + b2) \n \n\n (2 Términos) \n\n \nSuma de cubos \na3 + b3 = (a + b)(a2 – ab + b2) \n\n \n \n \n \n \n \nFactorización de \n\n \nTrinomio cuadrado perfecto \na2 + 2ab + b2 = (a + b)2 \na2 – 2ab + b2 = (a – b)2 \n \n \nTrinomio de la forma \nx2 + px + q = (x + a)(x + b) \ncon p = a + b y q = a · b \n \n\nTrinomios \n(3 Términos) \n\n \n \n\n \nTrinomio de la forma  \n\nax2 + bx + c = (ax + p)(ax + q)\n\na\n \n\ncon b = p + q  y  a · c = p · q \n \n \nFactorización por  \nagrupación de términos  \n \n\n \n\nFactorizar polinomios de tres o más términos  \n\nagrupándolos convenientemente. \n \n \n\nPágina 5 \n",
+      "cantidad_caracteres": 817,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": " \n\n \n\nFRACCIONES ALGEBRAICAS \n\n \n\nSon expresiones de la forma P(x)\n\nQ(x)  donde P(x) y Q(x) son polinomios. \n\n \nSimplificación de una fracción algebraica \n \n \n\nTipo de Fracción \n\nAlgebraica \nProcedimiento \nEjemplo \n\n \nNumerador y \ndenominador \nMonomios. \n \n\n \nSe \nsimplifican \nlos \nfactores comunes. \n \n\n \n\n12ab\n\n6a\n = 2b \n\n \nNumerador y/o \ndenominador no \nmonomios. \n \n\n \nSe \nfactoriza \nel \nnumerador \ny/o \nel \ndenominador \ny \nse \nsimplifican los factores \ncomunes. \n \n\n \n\n2\nx  + x  6\n\nx + 3\n(x + 3)(x  2)\n = \n = \n3(x  2)\n3\n\n\n\n\n\n3x  6\n \n\n \n \n \n\nOPERATORIA CON FRACCIONES ALGEBRAICAS \n\n \n\nOperación \nEjemplo \n\nb  (a  b)\n = \n3a\n\n\n\n\nb\na  b\n  \n3a\n3a\n = \n\na\nc\na  c\n  \n = \nb\nb\nb\n\n\n\n \n\nb  a + b\n\n3a\n\n = 2b  a\n\n\n \n\nAdición \n\n3a\n\na\nc\na  d  b  c\n \n \n = \nb\nd\nb  d\n\n\n\n\n\n \n5a  2 + 3b  7\n10a + 21b\n = \n = \n14\n14\n\n\n5a\n3b\n + \n7\n2\n \n\n2\n5a\n3b\n  \n8\na + b\n \n\nMultiplicación \na\nc\na  c\n  \n = \nb\nd\nb  d\n\n\n\n\n \n\n2\n2\n5a   3b\n15a b\n = \n = \n8(a + b)\n8(a + b)\n\n\n\n2\n5\n3x\n : \nx\n4\n \n\nDivisión \na\nc\na\nd\n : \n ",
+      "cantidad_caracteres": 1073,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": " \n\n \nECUACIÓN DE PRIMER GRADO O ECUACIONES LINEALES \n\n \n\n \n\nEcuación de Primer Grado \n\n \n\nToda ecuación que puede ser escrita de la forma: \n\n \n\nax + b = 0, con a  0 \n\n \n\n \n\n \n\n \n\nEcuaciones \n\nEcuación con \n\nEcuaciones \nfraccionarias \n\nenteras \n\ncoeficientes \n\n \n\nliterales \n\n \n\n \n\nx\n3\n + 5 = \nm\n2m\n4\n \n2(3x + a) – (x + 5) = 3b \n\n2(4x – 6) = 30 – x \n\n \n\n \n\nANÁLISIS DE LAS SOLUCIONES PLANTEADAS EN PRIMER GRADO \n\n \n\nCantidad de \n\nCondición \nEjemplo \nObservación \n\nSoluciones \n\nEl coeficiente \n\n \n\nnumérico de la \n\nSolución \n\nvariable x debe \n\na  0 \n5x + 7 = 15  5x – 8 = 0 \n\núnica \n\nser distinto de \n\n \n\ncero. \n\n \n\n \n\nSi se decide \nresolver la \necuación, se \nobtiene una \nexpresión \nnumérica \nverdadera. \n\nax + b = 0 \n\n3x – 7 + x = 2x – 10 + 2x + 3 \n\nInfinitas \n\na = 0 y  \n\n \n\n 4x – 7 = 4x – 7  \n\nsoluciones \n\nb = 0 \n\n \n\n                                                \n\n       -7 = -7 \n\n  \n\nSi se decide \nresolver la \necuación, se \nobtiene una \nexpresión \nnumérica falsa. \n \n\n5x – 2 + x = 7 – 4x",
+      "cantidad_caracteres": 1099,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": " \n\n \n\nANÁLISIS DE LAS SOLUCIONES DE ECUACIONES CON VALOR \n\nABSOLUTO \n\n \n\nCondición \nCantidad de \n\nSoluciones \nEjemplo \nResolución \n\n \nc = 0 \n\n \n|5x + 7| = 0 \n\n \n5x + 7 = 0 \n\nSolución única \n\n \n\n \n\n \n\n \n|2x + 3| = 5 \n\n \n2x + 3 = 5  y  2x + 3 = -5 \n\n|ax + b| = c \n\n    c > 0 \nDos soluciones \n\n \n\n \n\n \n|x + 3| = -6  \nExpresión Falsa \n  Solución vacía \n\n \n|x + 3| = -6 \n\nc < 0 \nNo existe \n\nsolución \n\n \n \n\n \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nPágina 8 \n",
+      "cantidad_caracteres": 472,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": " \n\n \n\nPLANTEAMIENTOS \n\n \n\nTraducción a Lenguaje Algebraico \n\nEnunciado \nLenguaje Algebraico \n\n El doble de un número a \n El duplo de un número a \n Dos veces un número a \n\n2a \n\n El triple de un número b \n Tres veces el número b \n3b \n\n El cuádruplo de un número c \n Cuatro veces un número c \n4c \n\n n veces el número d \n El producto entre los números n y d \nnd \n\n El cuadrado de un número x \n La segunda potencia de un número x \nx2 \n\n El cubo de un número y \n La tercera potencia de un número y \ny3 \n\n La cuarta potencia de un número w \nw4 \n\n \na – b \n\n La diferencia entre a y b \n El exceso de a sobre b \n a disminuido en b unidades \n\n c aumentado en d unidades \nc + d \n\n La semisuma entre los números x e y \nx + y\n\n2\n \n\n La semidiferencia entre los números x e y \nx  y\n\n\n \n\n2\n\n x es a unidades mayor que y \nx= y + a, o bien, x – a = y \n\n w es a unidades menor que z \nw=z - a, o bien, w + a = z \n\na\nb  \n\n El cociente entre a y b \n\n El doble de x más y \n2x + y \n\n El triple de n",
+      "cantidad_caracteres": 1079,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": " \n\n \n\nProblemas de Planteo \n\nTipo de \nProblema \nEstrategia \nObservaciones \n\nLa fracción a\n\nSe multiplica la \n\n \n\nb  de \n\na\nb   · x \n\nfracción por el \n\nFracciones \n\nnúmero. \n\nun número x \n\nc, b y a son las cifras \n\nde las unidades, \ndecenas y centenas, \n\nDígitos \nNotación Ampliada \nabc = a · 102 + b · 101 + c · 100 \n\nrespectivamente. \n\n \n\nEdad pasada \n(hace b años) \nEdad actual \nEdad futura \n(dentro de c años) \n\n \n\n \n\n \n\nEdades \n\nLínea de Tiempo \n\n \n\nx - b\nx \nx + c \n\n \n\na y b: Tiempo de  \ntrabajo individual \n\nx: Tiempo de trabajo   \nsimultáneo \n\nEcuación de \n\n1\n1\n1\n = \n + \nx\na\nb  \n\nTrabajos \nSimultáneos \n\nTrabajo \nsimultáneo \n\na, b y x deben estar \nen la misma unidad de \ntiempo \n\nd: Distancia \n\nv: Velocidad \n\nMóviles \nEcuación de \n\nDistancia \nd = v · t \n\nt: Tiempo \n\nMovimiento Rectilíneo \nUniforme \n\na y b: Valores (costos)  \nunitarios. \n\nc: Valor (costo) total \n\nMezclas \nEcuación de \n\nMezcla \nax + b(n - x) = c \n\nn: Cantidad total de  \nobjetos \n\nx y n - x: Cantidad de  \nobjetos de cada t",
+      "cantidad_caracteres": 1021,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

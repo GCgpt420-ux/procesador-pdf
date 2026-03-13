@@ -1,0 +1,615 @@
+{
+  "filename": "TR 06.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TR 06.pdf",
+  "num_paginas": 10,
+  "titulo": "",
+  "autor": "Usuario",
+  "fecha_procesamiento": "2026-03-07T16:02:07.910379",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nMatemática  \nTALLER REPASO – GEOMETRÍA PROPORCIONAL \nMaterial: TR06  \n\n \n \n\n \n \n \n \n\n \n\n \n\n \n \n\n \nGEOMETRÍA PROPORCIONAL \n \nEJERCICIOS DE DESARROLLO \n \n \n \n1. \nSea el segmento AB, tal que C es punto medio de AB  y D a su vez es punto medio de \n\nAC . ¿Cuál es la razón entre CD  y BD ? \n \n \n \n \n \n \n \n2. \nABC y DEF son dos triángulos semejantes. ¿Qué criterio o criterios demuestran esa \nsemejanza? \n \n \n\nF \n\n \n\nC \n\n \n \n \n \n \n \n \n \n \n3. \nSea el ABC de la figura adjunta, rectángulo en C. Si DE  es simetral de AB , entonces \n¿cuál es el orden correcto para la semejanza entre el ABC y DBE? \n \n \n \n \n \n \n \n \n \n\n \n\n10 \n\n5 \n4 \n\n \n\n \n\nD \nE \n\n14 \n\n7 \n\nA \nB \n\nC \n\nE \n\nA \nD \nB \n",
+      "cantidad_caracteres": 682,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.2236328125
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.2236328125
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.2119140625
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.2119140625
+        },
+        {
+          "index": 9,
+          "tipo": 3,
+          "tamanio_kb": 98.0693359375
+        },
+        {
+          "index": 10,
+          "tipo": 3,
+          "tamanio_kb": 0.3701171875
+        },
+        {
+          "index": 11,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n \n\n4. \nEn la siguiente figura L1 // L2 // L3. ¿Cuáles son los valores de x e y? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n5. \n¿Cuál(es) de los siguientes pares de figuras son siempre semejantes? \n \n \n\n10 cm \n\ny \n\n2 cm \n\nx \n\n3 cm \n8 cm \n\nL3 \n\nL1 \nL2 \n\nI) \nDos cuadrados de área 36 cm2 y 81 cm2. \nII) \nDos rombos, cada uno de perímetro 40 cm. \nIII) \nDos circunferencias, una de radio 3 cm y la otra de área 12 cm2. \nIV) \nDos rectángulos de perímetros iguales. \n\nV) \nDos hexágonos regulares de áreas   5 3\n\ncm2 y 3 3\n\ncm2    \n\n2\n\n4\n\n \n \n6. \nEn la figura adjunta L1 // L2 // L3, ¿cuál es el valor de x + y? \n \n \n \n \n \n \n \n \n \n \n \n \n7. \nSi en la siguiente figura AB  // DE , entonces ¿cuál es el valor de x + 3? \n \n \n \n \n \n \n \n \n \n \n \n\nL1 \n\n4 \n2 \n\nx \n\nL2 \n\n6 \ny \n\n8 \n\nL3 \n\nC \n\n12 \n\n8  \n\nD \nE \n\nx – 2  \n\nx + 2  \n\nA \nB \n\n2 \n \n",
+      "cantidad_caracteres": 809,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.212890625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.212890625
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.224609375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.2041015625
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.2041015625
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.171875
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.19140625
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.1953125
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.1962890625
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.185546875
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.138671875
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.1376953125
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.1826171875
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.1826171875
+        },
+        {
+          "index": 14,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \n \n\n8. \nSimón al atardecer nota que su sombra mide 4 metros. Si Simón tiene una estatura de \n1,50 metros, entonces ¿cuál será la medida de la sombra de un poste de 4 metros de \naltura? \n \n \n \n \n \n \n \n \n \n9. \nEn la figura adjunta L1 y L2 se intersecta en O, a su vez L3 y L4 las intersectan en los \npuntos A, B, C y D. ¿Cuál debe ser el valor de x para que L3 y L4 sean paralelas? \n \n \n \n \n \n \n \n \n \n \n \n \n \n10. En el rectángulo ABCD de la figura adjunta, se ha trazado la diagonal BD  y los \n\nD \nC \n\nL1 \n\nx \nx + 2 \n\nO \n\nx + 4 \nx – 1  \n\nB \n\nL2 \n\nA \n\nL4 \nL3 \n\nsegmentos EH y FG. ¿Cuál es el área del trapecio achurado en función de a y b? \n \n \n \n \n \n \n \n \n \n \n \n11. En el triángulo ABC de la figura adjunta, rectángulo en C, ¿cuáles son los valores de \n\nD \nH \nG \nC \n\nb \n\nA \nE \nF \nB \n\na \na \na \n\nAC  y BC ? \n \n \n \n \n \n \n \n \n \n \n \n\nC \n\nA \nD \nB \n\n4 \n9 \n\n3 \n \n",
+      "cantidad_caracteres": 854,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.1640625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1640625
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.240234375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.240234375
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.1533203125
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.15234375
+        },
+        {
+          "index": 6,
+          "tipo": 3,
+          "tamanio_kb": 0.10546875
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.142578125
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.142578125
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.1533203125
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.1533203125
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.2119140625
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.2177734375
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.2177734375
+        },
+        {
+          "index": 14,
+          "tipo": 4,
+          "tamanio_kb": 0.2177734375
+        },
+        {
+          "index": 15,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": " \n \n\n12. Si en el ABC, rectángulo en C, AC  // DF  y EF  // BC , tal como muestra la figura \n\nadjunta. ¿Cuál es el valor del segmento CF? \n \n \n \n \n \n \n \n \n \n \n \n13. El segmento de recta que une dos puntos de un mapa mide 4,8 cm. Si este mapa fue \n\nC \n\nF \n\n4 cm \n2 cm \n\n1 cm \n\nA \nD \nB \nE \n\nG \n\n2 cm \n\nconstruido en una escala 1 : 40.000, ¿cuál es la distancia real que hay en línea recta en \nmetros, entre estos dos puntos? \n \n \n \n \n \n \n \n \n \n \n14. En un mapa la distancia en línea recta entre dos ciudades P y Q es 6,5 cm. Si la \n\ndistancia real en línea recta entre estas dos ciudades es 1.950 kilómetros, ¿en qué \nescala fue diseñado el mapa? \n \n \n \n \n \n \n \n \n \n \n \n15. Un terreno rectangular de 320 m2 de área, está representado en un plano por un \n\ndiseño rectangular de 20 cm2 de área. ¿En qué escala esta hecho el terreno? \n \n \n \n \n \n \n \n \n \n \n \n\n4 \n \n",
+      "cantidad_caracteres": 859,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.2001953125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.2119140625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": " \n \n\nEJERCICIOS DE SELECCIÓN MÚLTIPLE \n\n \n \n \n \n1. \n¿Cuál(es) de los siguientes segmentos AC están divididos por el punto B en la razón  \n5 : 2? \n \n \n\nx + 5 \nx + 2 \n\nA)  \n \n \n \nB)  \n \n \n \n \nC)  \n \n \n \nD) \nTodas las anteriores \n \n \n \n \n \n \n \n \n2. \n¿En cuál(es) de los siguientes casos existe semejanza de triángulos? \n \n \n \n \nI)  \n \n \n \nII) \n \n \n \nIII) \n \n \n \n \n \n \n \n \n \n \n\nA \nB \nC \n\n15 \n6 \n\nA \nB \nC \n\n20 \n\nA \nB \nC \n8 \n\nC \n\nC \n\nC \n\nB \n\nE \n\n \n\n \n\nO \n \n \n\nE \nD \n\nD \n\n \n\nA \n\n \nA \nB \n\nA \n\nD \n\nB \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo II y III \n\n \n \n \n\n5 \n \n",
+      "cantidad_caracteres": 569,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.1474609375
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1474609375
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1474609375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.1474609375
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.15234375
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.15234375
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.15234375
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.1845703125
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.146484375
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.1787109375
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.271484375
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.2744140625
+        },
+        {
+          "index": 14,
+          "tipo": 4,
+          "tamanio_kb": 0.1787109375
+        },
+        {
+          "index": 15,
+          "tipo": 4,
+          "tamanio_kb": 0.1787109375
+        },
+        {
+          "index": 16,
+          "tipo": 4,
+          "tamanio_kb": 0.27734375
+        },
+        {
+          "index": 17,
+          "tipo": 4,
+          "tamanio_kb": 0.2802734375
+        },
+        {
+          "index": 18,
+          "tipo": 4,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 19,
+          "tipo": 4,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 20,
+          "tipo": 4,
+          "tamanio_kb": 0.1865234375
+        },
+        {
+          "index": 21,
+          "tipo": 4,
+          "tamanio_kb": 0.1826171875
+        },
+        {
+          "index": 22,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 23,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": " \n \n\n3. \nSea el rectángulo ABCD, con E punto medio de CD , como muestra la figura adjunta. \n¿Cuál de las siguientes relaciones es verdadera? \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \nE \n\nF \n\nA \nB \n\nA) ABE  CFE \nB) BCE  CFE \nC) CFE  CFB \nD) EBC  ABE \n \n \n \n4. \nSi dos triángulos ABC y DEF son semejantes, en ese orden, y AB = 3DE, entonces es \ncorrecto que  \n \n \n\nA) Área ABC = 3 ∙ área DEF \nB) BAC = 3 ∙ EDF \n\nC) Perímetro ABC = 3 ∙ perímetro DEF \nD) AC = 3 ∙ EF \n \n \n \n5. \nSi en la siguiente figura BI, CH, DG y EF son paralelas entre sí, entonces se cumple que \n \n \n \n \n \n \n \n \n \n \n \n\nF \n\nG \n\nH \n\nI \n\nA \n\nB \nC \nD \nE \n\nA) \nAB\nAH\n = \nBI\nHC  \n\nB) BC\nBD\n = \nCH\nDG  \n\nC) CD\nDE\n = \nDG\nEF  \n\nD) HC\nGD\n = \nHA\nGA  \n\n6 \n \n",
+      "cantidad_caracteres": 720,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.1455078125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1455078125
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1572265625
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.1572265625
+        },
+        {
+          "index": 4,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": " \n \n\n6. \n¿En cuál(es) de los siguientes casos x = 4, si se sabe que L1 // L2 // L3? \n \n \n \nI) \n \n \n \nII) \n \n \n \nIII) \n \n \n \n \n \n \n \n\nL1 \n\nL1 \n\nL1 \n\n2 \nx \n\n3 \nx \n\n6 \nx \n\nL2 \n\nL2 \n\nL2 \n\n2 \n\n6 \n\n8 \n\n12 \n\nL3 \n\nL3 \n\nL3 \n\n8 \n\n8 \n\nA) Solo II \nB) Solo I y II \nC) Solo II y III \nD) Ninguna de ellas \n \n \n \n \n \n7. \nEn el ABC de la figura adjunta, BC  // DE . Si AB = 32 cm, BC = 40 cm, AD = 24 cm y \nAE = 18 cm, entonces el perímetro del trapecio DBCE es \n \n \n \n\nC \n\nA) 80 cm \nB) 82 cm \nC) 84 cm \nD) 88 cm \n \n \n \n \n \n \n \n \n8. \nUna mosca vuela en línea recta desde el punto A, como muestra la figura adjunta. Si \ncuando está en B ha recorrido 5 m y se ubica a una altura del suelo de 4 m, entonces \n¿a qué altura se encontrará cuando haya recorrido 10 m más y llegue al punto C? \n \n \n \n \n\nE \n\nA \nD \nB \n\nC \n\nA) 6 m \nB) 10 m \nC) 12 m \nD) 15 m \nE) 60 m \n \n \n \n \n\nB \n\n4 m \n5 m \n\nA \n\n7 \n \n",
+      "cantidad_caracteres": 874,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.2099609375
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.212890625
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.212890625
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.14453125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.1484375
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.1845703125
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.1474609375
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.169921875
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.169921875
+        },
+        {
+          "index": 9,
+          "tipo": 3,
+          "tamanio_kb": 3.396484375
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.142578125
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.142578125
+        },
+        {
+          "index": 12,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": " \n \n\n9. \nPara que los triángulos ABC y EDC de la figura adjunta sean semejantes en ese orden, \nbasta que se cumplan por si solo que \n \n \n \n \n \n \n \n \n \n \n \n \n\nC \n\nE \nD \n \n\n \n\nA \nB \n\nI) \nDE sea mediana \nII) \n =  \nIII) \nE y D sean puntos medios de AC  y BC , respectivamente. \n \n \n\nA) Solo I y II \nB) Solo I y III \nC) Solo II y III \nD) I, II y III \n \n \n \n10. ¿Cuál(es) de los siguientes triángulos ABC es (son) rectángulo en C? \n \n \n \n \nI) \n \n \n \nII) \n \n \n \nIII) \n \n \n \n \n \n \n \n \n \n \n\nA \n\nC \n\nC \n\n8 \n\nA \n\n4 \n\nD \n32 \n\nC \n\n4 \n\n6 \n\nD \n\n12 \n\n8 \n\nA \nB \nD \n\n9 \n4 \n\nB \n\nB \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \n \n \n \n \n \n\n8 \n \n",
+      "cantidad_caracteres": 636,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.1953125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1953125
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1953125
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.14453125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.18359375
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.185546875
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.18359375
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.18359375
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.185546875
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 12,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": " \n \n\n11. Un mapa está diseñado en la escala 1 : 25.000.000, esto es, a cada centímetro en el \n\nmapa corresponde, en la realidad a 25.000.000 cm. Si la distancia real, en línea recta, \nentre dos ciudades P y Q es 840 km, ¿cuál es la distancia representada en el mapa? \n \n\nA) 0,0336 cm \nB) 0,336 cm \nC) 3,36 cm \nD) 33,6 cm \n\n \n \n12. La distancia entre dos pueblos es 7,2 kilómetros. Dicha distancia aparece representada \n\nen el plano por un segmento que mide 3,6 milímetros. ¿Cuál de las siguientes es la \nescala con la que está construido el mapa? \n \n\nA) 1 : 2.000.000 \nB) 1 : 200.000 \nC) 1 : 20.000 \nD) 1 : 2.000 \n \n \n \n13. Si 13,75 cm de un plano equivalen a 66 kilómetros, entonces una carretera que en \n\nlínea recta mide 12 kilómetros tiene que estar representada en el mapa por un \nsegmento que mide \n \n\nA) 2,5 cm \nB) 5 cm \nC) 20 cm \nD) 25 cm \n \n \n14. En el ABC, rectángulo en C de la figura adjunta CD  es altura. Se puede calcular la \n\nlongitud de AD , si se sabe que: \n \n \n \n \n \n \n \n \n\nC \n\n(1",
+      "cantidad_caracteres": 1196,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.2119140625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.2119140625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": " \n \n\n15. Sea el rectángulo ABCD con DB  diagonal como muestra la figura adjunta.  \n\nSi EF  // AB , se puede calcular el área del trapecio FECD, si se sabe que: \n \n \n\nD \nC \n\n(1) BF = 3 cm \n(2) BD = 9 cm \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2)  \nE) Se requiere de información adicional \n \n \n \n \nRESPUESTAS \n\nE \nF \n\nA \nB \n\n \n \nEJERCICIOS DE DESARROLLO \n \n\n1. \n1\n3  \n6. \n44\n\n3  \n11. \n2 13  y 3 13  \n\n2. \nAA, LAL, LLA> \n7. \n13 \n12. \n2 cm \n\n3. \nABC  EBD \n8. \n32\n\n3  m \n13. \n1.920 m \n\nx = 8\n\n5  cm;   \n\n4. \n\n9. \n4  \n14. \n1 : 30.000.000 \n\ny = 15\n\n4  cm \n\n5. \nI) , III) , V) \n \n10. \nab\n\n2  \n15. \n1 : 400 \n\n \n \n \nEJERCICIOS DE SELECCIÓN MÚLTIPLE PÁG. 5 \n \n\n \n \n  \n \n \n \n \n\n1. \nB \n6. \nD \n11. \nC \n2. \nC \n7. \nC \n12. \nA \n3. \nB \n8. \nC \n13. \nA \n4. \nC \n9. \nD \n14. \nC \n5. \nD \n10. \nC \n15. \nE \n\n \n \nMA-TR06 \n\n \n \n \n\nPuedes complementar los contenidos de esta guía visitando nuestra web \n\nhttp://www.pedrodevaldivia.cl/ \n\n10 \n \n",
+      "cantidad_caracteres": 977,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.1572265625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1572265625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

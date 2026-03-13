@@ -1,0 +1,1379 @@
+{
+  "archivo_original": "6488-JMA-PAES2-OL-08-2022 (7).pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/2022/6488-JMA-PAES2-OL-08-2022 (7).pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 22,
+  "fecha_procesamiento": "2026-03-07T23:14:57.506851",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nCuatro amigas, Emmy, Nena, Pauli y Xime nacieron en años distintos: 2002, 2003, \n2005 y 2007, no necesariamente en ese orden. Si se sabe que la menor no es Emmy ni \nXime y que Emmy es 3 años menor que Pauli, ¿cuál de las siguientes afirmaciones es \nverdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nena nació el año 2007"
+        },
+        {
+          "letra": "B",
+          "texto": "Pauli nació el año 2005"
+        },
+        {
+          "letra": "C",
+          "texto": "Emmy nació el año 2003"
+        },
+        {
+          "letra": "D",
+          "texto": "Xime nació el año 2002"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn un estante de la biblioteca de determinado colegio, hay 80 libros, en que la cuarta \nparte son de matemática, la quinta parte son de física, 20 son de química y el resto de \nbiología. ¿Qué parte de los libros de este estante son de biología?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 10"
+        },
+        {
+          "letra": "B",
+          "texto": "1 5"
+        },
+        {
+          "letra": "C",
+          "texto": "3 10"
+        },
+        {
+          "letra": "D",
+          "texto": "2 5"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nMeses antes que comenzara la pandemia, Tobías pesaba 72 kg y, hoy en día, su peso \nes de 84 kg. Según esto se puede afirmar correctamente que, durante dicho período \nTobías ha aumentado su peso en",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16 2 3 %"
+        },
+        {
+          "letra": "B",
+          "texto": "20%"
+        },
+        {
+          "letra": "C",
+          "texto": "25%"
+        },
+        {
+          "letra": "D",
+          "texto": "33 1 3 % 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nDe los s estudiantes de 4°EM de un colegio, el x% son hombres. Si el y% de los \nhombres obtuvo un puntaje superior a 700 puntos en un ensayo tipo PAES, ¿cuál de las \nsiguientes expresiones representa el número de estudiantes hombres que a lo más \nobtuvo 700 puntos en dicho ensayo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "xys 100"
+        },
+        {
+          "letra": "B",
+          "texto": "(x + y)s 100"
+        },
+        {
+          "letra": "C",
+          "texto": "x(1 y)s "
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nObserva la tabla adjunta usada en informática \n \n \n\n1 byte \n8 bits \n1 kilobyte \n1024 byte \n1 megabyte \n1024 kilobyte \n1 gigabyte \n1024 megabyte \n1 terabyte \n1024 gigabyte \n\n \n \n \n \n \n \nLa medida, en gigabytes, de un archivo de 2.000 bytes es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "53 · 2-30"
+        },
+        {
+          "letra": "B",
+          "texto": "103 · 2-30"
+        },
+        {
+          "letra": "C",
+          "texto": "53 · 2-26"
+        },
+        {
+          "letra": "D",
+          "texto": "103 · 2-26"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \n¿Cuál es el valor de 10-2n, si se sabe que 103n = 27?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 3"
+        },
+        {
+          "letra": "B",
+          "texto": "1 9"
+        },
+        {
+          "letra": "C",
+          "texto": "1 27"
+        },
+        {
+          "letra": "D",
+          "texto": "1 81 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nDado: \n \nS = 1 + 2 + 3 + 4 + … + 49 + 50 \nT = 51 + 52 + 53 + … + 99 + 100 \n \nSi la suma de los enteros positivos de 1 a 50 es S y la suma de los enteros positivos de \n51 a 100 es T, entonces ¿cuál de las siguientes proposiciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "T = 25"
+        },
+        {
+          "letra": "B",
+          "texto": "T = S + 50"
+        },
+        {
+          "letra": "C",
+          "texto": "T = S + 100"
+        },
+        {
+          "letra": "D",
+          "texto": "T = S + 2.500 2b 3 2"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nLos número enteros positivos a y b son tales que 8(24a) = \n\n. ¿Cuál de las siguientes \n\n2\n\nafirmaciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "b = a + 1"
+        },
+        {
+          "letra": "B",
+          "texto": "b = a + 2"
+        },
+        {
+          "letra": "C",
+          "texto": "b = 2a + 1"
+        },
+        {
+          "letra": "D",
+          "texto": "b = 2a + 2"
+        },
+        {
+          "letra": "E",
+          "texto": "b = 2a + 3"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Si N = \n1\n1\n1\n1  \n1  \n1  \n2\n3\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n, entonces N es un número",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "irracional positivo menor que 1."
+        },
+        {
+          "letra": "B",
+          "texto": "irracional negativo mayor que -1."
+        },
+        {
+          "letra": "C",
+          "texto": "racional positivo menor que 1."
+        },
+        {
+          "letra": "D",
+          "texto": "racional positivo mayor que 1."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. ¿Cuál de las siguientes expresiones es igual a log2 \n75 , si se sabe que log2 5 = m  y \nlog2 3 = n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m + 0,5n"
+        },
+        {
+          "letra": "B",
+          "texto": "0,5(m + n)"
+        },
+        {
+          "letra": "C",
+          "texto": "0,5(m + 2n)"
+        },
+        {
+          "letra": "D",
+          "texto": "(2m + n)0,5 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Se puede determinar el valor numérico de la expresión c-0,6, si se sabe que: \n \n\n(1) c2 = 1.024 \n\n(2) \n5 c  = 2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Si k > 0 y 2a + 4b = \nk , entonces (a + 2b)\nk  =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4k"
+        },
+        {
+          "letra": "B",
+          "texto": "2k"
+        },
+        {
+          "letra": "C",
+          "texto": "k 2"
+        },
+        {
+          "letra": "D",
+          "texto": "k 4"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Dada la operación \n definida por a \n b = \nab\na + b  para valores positivos de a y b. Si \n\n1\n1\n1\n \n \n = \na\nb\n2 , y \n1\n1\na \n \n = \na\n2 , entonces ¿cuál es el valor de b?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Don Segismundo tiene 60 años de edad y sus hijas, 20, 18 y 16. ¿Hace cuántos años la \n\nedad de don Segismundo y la suma de las edades de sus hijas, respectivamente, \nestaban en la razón 3 : 2?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 años"
+        },
+        {
+          "letra": "B",
+          "texto": "8 años"
+        },
+        {
+          "letra": "C",
+          "texto": "9 años"
+        },
+        {
+          "letra": "D",
+          "texto": "10 años 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Si a, b y c son números positivos y \n\nc\n\nes igual a  a-1?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3c 2 2 1"
+        },
+        {
+          "letra": "B",
+          "texto": "3b c"
+        },
+        {
+          "letra": "C",
+          "texto": "bc 3 2 9b"
+        },
+        {
+          "letra": "D",
+          "texto": "c"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Si q(r – 1) – p = p – 4, entonces r =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2p q 4 q  "
+        },
+        {
+          "letra": "B",
+          "texto": "2p + q 4  p"
+        },
+        {
+          "letra": "C",
+          "texto": "2p 4   q 1"
+        },
+        {
+          "letra": "D",
+          "texto": "2p + q 4  q"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. La hipotenusa h y un cateto a de un triángulo rectángulo son enteros consecutivos. \n\n¿Cuál de las siguientes expresiones representa el cuadrado del otro cateto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2h – 1"
+        },
+        {
+          "letra": "B",
+          "texto": "2h + 1"
+        },
+        {
+          "letra": "C",
+          "texto": "h2 – 1"
+        },
+        {
+          "letra": "D",
+          "texto": "2h2 – 1"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Si k disminuido en 20 no es menor que la tercera parte de w, entonces ¿cuál de las \n\nsiguientes desigualdades es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "k  w + 60 3"
+        },
+        {
+          "letra": "B",
+          "texto": "k  w 3 + 60"
+        },
+        {
+          "letra": "C",
+          "texto": "k  w + 20 3"
+        },
+        {
+          "letra": "D",
+          "texto": "k  w + 60 3"
+        },
+        {
+          "letra": "E",
+          "texto": "k  w 3 + 60 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En la figura adjunta, la suma de los números de la fila A es igual que la suma de los \n\nnúmeros de la columna B. ¿Cuál es la suma de los números de la fila A? \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nB \n\n3t2 \n\nt2+2 \nA \n\n \n\n5 \nt4 \n\n3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "13"
+        },
+        {
+          "letra": "C",
+          "texto": "14"
+        },
+        {
+          "letra": "D",
+          "texto": "15"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p9_img0.jpg"
+      ]
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. ¿A cuánto debe ser igual la suma a + b para que el sistema ax + 2y = 2\n\nx + y = b  admita \n\ninfinitas soluciones?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. La diferencia entre dos números es 1\n\n2 . Si la suma de estos dos números es S, ¿cuál es \n\nel menor de estos números en términos de S?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "S 1  2 1 S 2 "
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "2S 1  2"
+        },
+        {
+          "letra": "D",
+          "texto": "2S 1  4 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Si la diferencia de las raíces de la ecuación x2 + 2mx = 7 es 8, entonces el valor entero \n\npositivo de m es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Para determinar la rapidez con que el ser humano olvida información fue efectuado un \n\ntest, en que listas de palabras eran leídas a un grupo de personas y, en un momento \nposterior, se verificaba cuántas de esas palabras eran recordadas. Después de haberse \ntomado el test una gran cantidad de veces, un análisis mostró que el porcentaje P de \npalabras recordadas, en función del tiempo T, en minutos después de haberse leído las \npalabras a las personas está dado por la expresión P = -18log(T + 1) + 86. Después de \n9 minutos, ¿qué porcentaje de la información será recordada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "86%"
+        },
+        {
+          "letra": "B",
+          "texto": "78%"
+        },
+        {
+          "letra": "C",
+          "texto": "72%"
+        },
+        {
+          "letra": "D",
+          "texto": "68%"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. La recta que pasa por los puntos A y B de la figura adjunta es la gráfica de una función \n\nde la forma f(x) = ax + b. El punto de intersección de la gráfica con el eje y tiene \nordenada \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nB \n\n6 \n\n3 \n\nA \n\nx \n\n2 \nn",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 – n"
+        },
+        {
+          "letra": "B",
+          "texto": "n – 2"
+        },
+        {
+          "letra": "C",
+          "texto": "4 – n"
+        },
+        {
+          "letra": "D",
+          "texto": "12 – 3n"
+        },
+        {
+          "letra": "E",
+          "texto": "3n 12   n 2 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p10_img0.jpg"
+      ]
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. En la secuencia: 5, 5k, 5k2, 5k3, …, el primer término es 5 y a continuación, cada \n\ntérmino es k veces el anterior. Si la suma de los tres primeros términos es 15, ¿cuál de \nlos siguientes puede ser el menor valor de k?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "0"
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        },
+        {
+          "letra": "E",
+          "texto": "2"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. La parábola de la figura adjunta, es la representación gráfica de la función  \n\ny = (1 + x)(5 – x). Si C es el vértice de la parábola y el triángulo ABC es isósceles de \nbase AB, ¿cuál es su área? \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nC \n\nB \nA \n\n0 \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "27"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p11_img0.jpg"
+      ]
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Con una honda, un muchacho lanzó al aire una piedra que recorrió una trayectoria \n\nparabólica y en los puntos que la piedra ocupa son colocados en un sistema de ejes \n\n2\nx\n10  + 3x. \n\ncartesianos, obedeciendo las coordenadas a la siguiente función: y = -\n\nSabiendo que x es la distancia horizontal desde el punto de lanzamiento e y la altura a \npartir del suelo, ambas en metros, se puede afirmar correctamente que la distancia \nhorizontal que la piedra recorre hasta caer al suelo y la altura máxima que alcanza, son \nrespectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 m y 30 m"
+        },
+        {
+          "letra": "B",
+          "texto": "30 m y 22,5 m"
+        },
+        {
+          "letra": "C",
+          "texto": "32,5 m y 20 m"
+        },
+        {
+          "letra": "D",
+          "texto": "100 m y 30 m 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. x1 y x2 son las raíces de la ecuación x2 + x – k = 5. Se puede determinar el valor de la \n\nconstante k, si se sabe que: \n \n\n(1) x1 + x2 = -1 \n(2) x2 – x1 = 9",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. En el triángulo ABC de la figura adjunta, las longitudes de AD  y DB , están \n\nrespectivamente en la razón 3 : 2, el área del triángulo ADE es 9 y el área del triángulo \nAEC es 7. ¿Cuál es el área del triángulo BCE? \n \n \n \n \n \n \n \n \n \n \n \n \n\nC \n\nE \n\nA \nD \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 1 3"
+        },
+        {
+          "letra": "B",
+          "texto": "4 2 3"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "5 2 3 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p12_img0.jpg"
+      ]
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. El mapa en que se muestra un área silvestre protegida utiliza la escala 1 : 200.000. En \n\nla figura adjunta se muestra la forma de esta área protegida, en que las medidas \nindicadas representan valores en centímetros y en que ABEG es un rectángulo y BCDE \nes un trapecio. En la realidad, ¿cuánto mide la superficie de esta área silvestre \nprotegida? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n15 \n\nG \n\nF \n\nA \n\n6 \n\n5 5  \n\n12 \n\nB \n\nE \n\nC \nD \n\n3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "108 km2"
+        },
+        {
+          "letra": "B",
+          "texto": "210 km2"
+        },
+        {
+          "letra": "C",
+          "texto": "240 km2"
+        },
+        {
+          "letra": "D",
+          "texto": "444 km2"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p13_img0.jpg"
+      ]
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. En la figura adjunta, los triángulos ABC y EDC son equiláteros. Si AE = k, ¿cuál es el \n\nperímetro de la figura? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nE \n\nC \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,5 k"
+        },
+        {
+          "letra": "B",
+          "texto": "3,0 k"
+        },
+        {
+          "letra": "C",
+          "texto": "3,5 k"
+        },
+        {
+          "letra": "D",
+          "texto": "4,0 k 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p13_img0.jpg"
+      ]
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. En la circunferencia de centro O y diámetro AB de la figura adjunta, PQRS es un \n\nrectángulo de área 64. Si OP = 2PS, ¿cuál es el área del círculo? \n \n \n \n \n \n \n \n \n \n \n \n \n\nS \nR \nM \n\nA \nB \n\nP \nO \nQ",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "52"
+        },
+        {
+          "letra": "B",
+          "texto": "60"
+        },
+        {
+          "letra": "C",
+          "texto": "80"
+        },
+        {
+          "letra": "D",
+          "texto": "84"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p14_img0.jpg"
+      ]
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. El cuadrado de la figura adjunta tiene perímetro 40. Si  = 60°, ¿cuáles son las \n\ncoordenadas del punto P? \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nP \n\n \n\n0 \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(10, 5 3 )"
+        },
+        {
+          "letra": "B",
+          "texto": "(15, 5 3 )"
+        },
+        {
+          "letra": "C",
+          "texto": "(5 + 5 3 , 5 3 )"
+        },
+        {
+          "letra": "D",
+          "texto": "(10 + 5 3 , 5 3 ) 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p14_img0.jpg"
+      ]
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. Un teleférico transporta turistas entre las cumbres A y B de dos cerros. La altitud de la \n\ncumbre A es de 500 m, la altitud de la cumbre B es de 800 m y la distancia entre las \nrectas verticales que pasan por A y B es de 900 m. En la figura adjunta, T representa el \nteleférico en un momento de su ascenso y x e y representan, respectivamente, los \ndesplazamientos horizontal y vertical en metros, hasta ese momento. ¿Cuál es el \ndesplazamiento horizontal del teleférico, cuando su desplazamiento vertical es de  \n20 m? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nB\n\nT\n\ny \n\nA \n\nx\n\n800 m\n\n500 m \n\n900 m",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "90 m"
+        },
+        {
+          "letra": "B",
+          "texto": "80 m"
+        },
+        {
+          "letra": "C",
+          "texto": "70 m"
+        },
+        {
+          "letra": "D",
+          "texto": "60 m"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p15_img0.jpg"
+      ]
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. En la figura adjunta se muestra como la recta L pasa por los vértices A, B y C de tres \n\ncuadrados cuyas áreas son: A1, A2 y A3. Si A1 = 16 y A2 = 64, entonces A3 =  \n \n \n \n \n \n \n \n \n \n \n \n \n\nC \n\nB \n\nA \n\nA1 \nA2 \nA3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "256"
+        },
+        {
+          "letra": "B",
+          "texto": "225"
+        },
+        {
+          "letra": "C",
+          "texto": "196"
+        },
+        {
+          "letra": "D",
+          "texto": "169 15"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p15_img0.jpg"
+      ]
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. En el triángulo rectángulo PQR de la figura adjunta, QRP = 60°, PR  // MN // ST  y  \n\nPM = MS = SQ. Si PR = 6, ¿cuál es el área de la región achurada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "6 3 R N T P M S Q"
+        },
+        {
+          "letra": "D",
+          "texto": "12 3"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p16_img1.jpg"
+      ]
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. En el cubo de la figura adjunta la diagonal PQ mide 12 cm. ¿Cuál es el área del cubo? \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nP \n\nQ",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "27 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "64 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "125 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "288 cm2 16"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p16_img1.jpg"
+      ]
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. Un estanque cilíndrico de dimensiones interiores, radio r y altura h, estaba lleno de \n\nagua, la cual fue vaciada completamente en un estanque que estaba vacío y con forma \nde paralelepípedo rectangular, como se indica en la figura adjunta y con dimensiones \ninteriores, 2r de ancho y h de largo. ¿Qué altura alcanza el agua en el segundo \nestanque? \n \n \n \n \n \n \n \n \n \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 2"
+        },
+        {
+          "letra": "B",
+          "texto": "r 2 "
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "r 2 "
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p17_img0.jpg"
+      ]
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. Sabiendo que cos 23° = 0,92, ¿cuál es el valor de la expresión sen 23° + cos 67°\n\n4  tg 23°\n\n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,23"
+        },
+        {
+          "letra": "B",
+          "texto": "0,45"
+        },
+        {
+          "letra": "C",
+          "texto": "0,46"
+        },
+        {
+          "letra": "D",
+          "texto": "0,67"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. En el triángulo rectángulo ABC de la figura adjunta, BC = 5,  tg  = 5\n\n8 , DB = n + 2 y \n\nAD = 2n. La tangente de  es igual a  \n \n \n \n \n \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 4   A D B"
+        },
+        {
+          "letra": "B",
+          "texto": "4 5"
+        },
+        {
+          "letra": "C",
+          "texto": "5 3"
+        },
+        {
+          "letra": "D",
+          "texto": "3 5 17"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p17_img0.jpg"
+      ]
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. A un triángulo PQR de vértices P(0, 3); Q(4, 5) y R(2, 2) se le aplicó una homotecia de \n\ncentro (a, b) y razón de homotecia c. Se puede determinar la imagen de P, si se sabe \nque: \n \n\n(1) a2 = 9  y  a = b \n(2) c3 = -27",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p18_img0.jpg"
+      ]
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. En cierta universidad, los exámenes se califican con un mínimo igual a 0, y un máximo \n\nigual a 100%. Si un estudiante obtuvo 87%, 64% y 78% en tres exámenes, ¿cuánto \ndebe obtener en un cuarto examen para que su promedio (media aritmética) sea de \n80%?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "91%"
+        },
+        {
+          "letra": "B",
+          "texto": "90%"
+        },
+        {
+          "letra": "C",
+          "texto": "89%"
+        },
+        {
+          "letra": "D",
+          "texto": "88%"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. La tabla adjunta muestra algunos de los datos que se obtuvieron después de encuestar \n\na un grupo de funcionarios jóvenes de menos de 34 años de edad que trabajan en \ncierta empresa. Con respecto a los datos de esta tabla, ¿cuál de las siguientes \nafirmaciones es verdadera? \n \n \n \n \n \n \n \n \n \n \n \n\nEdad en años \nFrecuencia \nFrecuencia \nacumulada \n[18 - 21[ \n4 \n \n[21 - 24[ \n \n17 \n[24 - 27[ \n25 \n \n[27 - 30[ \n \n \n[30 – 33] \n10 \n80",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No se encuestó a personas de 33 años."
+        },
+        {
+          "letra": "B",
+          "texto": "La marca de clase del segundo intervalo es 22 años y 5 meses."
+        },
+        {
+          "letra": "C",
+          "texto": "El rango de la variable edad es 15 años."
+        },
+        {
+          "letra": "D",
+          "texto": "El intervalo [24 - 27[ es el de mayor frecuencia. 18"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p18_img0.jpg"
+      ]
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. De un conjunto X de datos numéricos sólo se sabe que estos datos son 10. ¿Cuál de las \n\nsiguientes afirmaciones es siempre verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La desviación estándar es cero."
+        },
+        {
+          "letra": "B",
+          "texto": "La varianza y la desviación estándar son distintas."
+        },
+        {
+          "letra": "C",
+          "texto": "La varianza es mayor que la desviación estándar."
+        },
+        {
+          "letra": "D",
+          "texto": "La varianza es positiva, si los datos son distintos."
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. La tabla adjunta muestra las edades en años de un grupo de mujeres residentes en un \n\nasilo. Si el segundo cuartil de las edades es 80, ¿cuál es el menor valor posible de x? \n \n \n \n \n \n \n \n \n \n\nEdad en años \nNúmero de \n\nmujeres \n90 \n2 \n85 \n3 \n80 \n3 \n70 \n1 \n60 \nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p19_img0.jpg"
+      ]
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. ¿Cuál es el rango intercuartil del conjunto de datos: 40, 60, 10, 80, 13, 15, 18, 75, 30, \n\n80, 25?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20"
+        },
+        {
+          "letra": "B",
+          "texto": "40"
+        },
+        {
+          "letra": "C",
+          "texto": "50"
+        },
+        {
+          "letra": "D",
+          "texto": "60"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. Un grupo de estudiantes de enseñanza básica está formado por 3 niñas y 9 niños. Si se \n\neligen de entre estos estudiantes, tres al azar, ¿cuál es la probabilidad que sean  \n3 niños?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "21 55"
+        },
+        {
+          "letra": "B",
+          "texto": "5 11"
+        },
+        {
+          "letra": "C",
+          "texto": "16 35"
+        },
+        {
+          "letra": "D",
+          "texto": "40 110 19"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. En una caja hay 7 cubos, todos de igual peso y tamaño. De estos cubos, 4 son verdes y \n\n3 son amarillos. Si de la caja se extrae un cubo al azar y sin que éste se haya repuesto \nse saca otro cubo, ¿cuál es la probabilidad que estos dos cubos sean de colores \ndiferentes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 7"
+        },
+        {
+          "letra": "B",
+          "texto": "3 7"
+        },
+        {
+          "letra": "C",
+          "texto": "4 7"
+        },
+        {
+          "letra": "D",
+          "texto": "5 7"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. Veinte alumnos de un curso tuvieron que rendir una prueba de Matemáticas que sólo \n\ntenía dos preguntas de desarrollo, una de álgebra y la otra de geometría. Si 12 \nalumnos \ncontestaron \ncorrectamente \nla \npregunta \nde \nálgebra, \n9 \ncontestaron \ncorrectamente la pregunta de geometría y 16 contestaron correctamente al menos una \nde las dos preguntas, ¿cuál es la probabilidad de que si se escoge uno de estos \nalumnos al azar, éste haya contestado correctamente ambas preguntas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20%"
+        },
+        {
+          "letra": "B",
+          "texto": "25%"
+        },
+        {
+          "letra": "C",
+          "texto": "40%"
+        },
+        {
+          "letra": "D",
+          "texto": "50%"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 51,
+      "enunciado": "51. Una máquina que se desreguló está produciendo piezas perfectas y defectuosas. Si de \n\ncierto lote de 12 piezas, 4 resultaron defectuosas y de este lote se retiraron \naleatoriamente 2 piezas, ¿cuál es la probabilidad que la segunda resulta defectuosa, \ndado que la primera resultó perfecta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 11"
+        },
+        {
+          "letra": "B",
+          "texto": "4 33"
+        },
+        {
+          "letra": "C",
+          "texto": "6 33"
+        },
+        {
+          "letra": "D",
+          "texto": "8 33 20"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 52,
+      "enunciado": "52. En una tómbola hay n bolitas. Si la probabilidad de extraer al azar una bolita roja está \n\ndada por n  6\n\n3\n\n, ¿cuál es el mayor valor que puede tomar n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 53,
+      "enunciado": "53. ¿Cuántos triángulos quedan determinados por los puntos distintos A, B, C, D y E de la \n\ncircunferencia adjunta? \n \n \n \n \n \n \n \n \n \n \n \n\nE \nD \n\nC \n\nB \nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "20"
+        },
+        {
+          "letra": "D",
+          "texto": "25"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": [
+        "6488-JMA-PAES2-OL-08-2022 (7)_p21_img0.jpg"
+      ]
+    },
+    {
+      "numero": 54,
+      "enunciado": "54. Un salón donde se va a dictar una conferencia tiene 3 puertas de entrada. Dependiendo \n\ndel número de personas que espera ingresar en un momento dado, el administrador \npuede dar la orden de que abran solo una puerta, dos puertas, o bien, las tres puertas. \n¿De cuántas maneras se pueden abrir las puertas para permitir el ingreso?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "9 21"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 55,
+      "enunciado": "55. Los sueldos de 3 médicos que trabajan en una clínica son distintos, debido a razones \n\ntales como horario de trabajo y especialidad. Se puede determinar el sueldo de cada \nuno de estos médicos, si se sabe que: \n \n\n(1) la media aritmética de los 3 sueldos es $ 1.840.000 \n(2) uno de los médicos gana $ 240.000 más que otro.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 22"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    }
+  ]
+}

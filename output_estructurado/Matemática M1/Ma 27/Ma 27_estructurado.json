@@ -1,0 +1,768 @@
+{
+  "archivo_original": "Ma 27.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 27.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 9,
+  "fecha_procesamiento": "2026-03-07T23:03:56.882345",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nDos vectores son iguales si tienen igual longitud o módulo. \n\nII) \nRestar dos vectores v1 y v2 (en ese orden) equivale a sumar el primero con el \n\ninverso   aditivo del segundo vector. \n\nIII) \nDos vectores en un plano son paralelos si forman el mismo ángulo con \n\nrespecto a una recta de referencia común.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 27_p1_img3.jpg",
+        "Ma 27_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn la figura adjunta, el vector resultante de u + w – v tendrá la dirección y sentido \nindicado en",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": "u v w"
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 27_p1_img3.jpg",
+        "Ma 27_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEl vector 3x se muestra en la figura adjunta, entonces el vector -x es el que se muestra \nen",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": "3 x"
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 27_p1_img3.jpg",
+        "Ma 27_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nSean  a = (2, 3)  y   b = (-7, 2)  entonces 2a + b =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-3, 8)"
+        },
+        {
+          "letra": "B",
+          "texto": "(5, 9)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-3, -8)"
+        },
+        {
+          "letra": "D",
+          "texto": "(-10, 10)"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5.  \nEl módulo o magnitud del vector w = (-1, -3) es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-10"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "7"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nLa forma canónica del vector (2, 5) es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2ˆi - 5 j"
+        },
+        {
+          "letra": "B",
+          "texto": "2ˆj + 5 i"
+        },
+        {
+          "letra": "C",
+          "texto": "2ˆi + 5ˆj"
+        },
+        {
+          "letra": "D",
+          "texto": "-2ˆi – 5ˆj"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi v = 3i – 5j  y  w= -2i + 3j, entonces la magnitud del vector (v – w) es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "13"
+        },
+        {
+          "letra": "C",
+          "texto": "89"
+        },
+        {
+          "letra": "D",
+          "texto": "13 – 5"
+        },
+        {
+          "letra": "E",
+          "texto": "5 – 13"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn la figura adjunta se representa el vector v, ¿cuál es el valor de 2 v ? \n\n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 13"
+        },
+        {
+          "letra": "B",
+          "texto": "52 4"
+        },
+        {
+          "letra": "C",
+          "texto": "52 v"
+        },
+        {
+          "letra": "D",
+          "texto": "12 3 x -6 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 27_p2_img2.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nDados los puntos P(2, 3) y Q(-2, 8), ¿cuál es el módulo del vector PQ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "41"
+        },
+        {
+          "letra": "B",
+          "texto": "5"
+        },
+        {
+          "letra": "C",
+          "texto": "11"
+        },
+        {
+          "letra": "D",
+          "texto": "41"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. ¿Cuál es la magnitud del vector v = \n\n7,2\n\n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11"
+        },
+        {
+          "letra": "B",
+          "texto": "3 2"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "11"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. En la figura adjunta están representados los vectores a y b. ¿Cuál(es) de los gráficos \n\npresentados en I), en II) y en III) representa(n) la suma de estos dos vectores? \n \n\ny \n\n \n \n \n \n \n \n \n \n \nI) \nII) \nIII) \n \n \n \n \n \n \n \n \n \n\na \n\nx \nb \n\ny \n\ny \n\ny \n\nb \n\na \n\na \n\na \n\nb \nb \n\nx \n\nx \nx \n\n(Fuente: DEMRE, Publicación 2010)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 27_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Si a = (-3, 4) y b = (5, -1), entonces ¿cuál(es) de las siguientes afirmaciones es (son) \n\nverdadera(s)? \n \n\nI) \n2a + b = (-1, 7) \nII) \nb – a = (8, -5) \nIII) \na\nb\n\n = 13",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Si el vector (x, -y) pertenece al segundo cuadrante, entonces ¿cuál de las siguientes \n\nafirmaciones es FALSA?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x 0 y "
+        },
+        {
+          "letra": "B",
+          "texto": "x3 < 0"
+        },
+        {
+          "letra": "C",
+          "texto": "(-y)3 < 0"
+        },
+        {
+          "letra": "D",
+          "texto": "x2 y3 < 0"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Sean los vectores \n\n\nv\n2, 3\n\n y  u = (1, -1), entonces \n3 v\n3 u\n\n es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 + 6"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "52"
+        },
+        {
+          "letra": "D",
+          "texto": "3 6 "
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15.  En la figura adjunta, OABC es un cuadrado de lado 3 cm, OB  y AC  son diagonales. \n\n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\ny \n\nI) \nAC  y  OB tienen igual módulo. \n\nB \nC \n\nII) \nOA + AB + BC = OC \n\n \n\nIII) \nOB se puede representar por 3 i + 3 j .",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III O x A 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 27_p4_img2.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Sean v = (a – b, 4) y  w = (5, a + b). Si v = w, entonces a · b es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-9"
+        },
+        {
+          "letra": "B",
+          "texto": "- 9 4"
+        },
+        {
+          "letra": "C",
+          "texto": "9 4"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. En la figura adjunta se representan los vectores a y b, entonces b – a =  \n \n \n\ny \n\n3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(5, 6)"
+        },
+        {
+          "letra": "B",
+          "texto": "(1, 0)"
+        },
+        {
+          "letra": "C",
+          "texto": "(1, -6)"
+        },
+        {
+          "letra": "D",
+          "texto": "(5, -6)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 27_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Considere los vectores p (6, -4), q (2, 9), r (5, -2) y s (3, 7). ¿Cuál(es) de las siguientes \n\na \n\n3 \nx \nb \n-2 \n\n-3 \n\nafirmaciones es (son) verdadera(s)? \n \n\nI) \nEl vector (q – r ) se encuentra en el segundo cuadrante. \n\nII) \nEl vector (s – 2 p ) se encuentra en el tercer cuadrante. \n\nIII) \np + q = r + s",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III (DEMRE. Publicación 2017)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Las componentes de los vectores u y v son (-3, 4) y (12, 5), respectivamente. Si            \n\nw = -( u + v), entonces ¿cuáles son las coordenadas de w?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-9, -9)"
+        },
+        {
+          "letra": "B",
+          "texto": "(5, 13)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-5, 13)"
+        },
+        {
+          "letra": "D",
+          "texto": "(9, 9) 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. ¿Cuál de las siguientes expresiones representa siempre la distancia entre un punto    \n\nP(a, b) y el origen del sistema cartesiano lR2?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a + b"
+        },
+        {
+          "letra": "B",
+          "texto": "a b "
+        },
+        {
+          "letra": "C",
+          "texto": "2 2 a b "
+        },
+        {
+          "letra": "D",
+          "texto": "2a + 2b"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Dados los puntos A = (5, -4) y B = (-1, 4), ¿cuál es el módulo del vector AB?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "5"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "100"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. El vector w es igual a la suma de los vectores u y v de la figura adjunta. ¿Cuál es el \n\nmódulo de w? \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "17"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "25 1 v"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 27_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Sean los vectores a(-5, 4) y b(1, -3), ¿cuál(es) de los siguientes vectores se encuentran \n\n-2 \n\n1 \nx \n\nu \n\n-5 \n\nen el cuarto cuadrante? \n \n\nI) \nb  -  a \nII) \na  - 3b \nIII) \n-2b + a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. En la figura adjunta se muestra el vector v. Si el vector w = (a, 1) tiene una longitud \n\nequivalente al 25% de la longitud de v, entonces a = \n \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "41 4 4"
+        },
+        {
+          "letra": "B",
+          "texto": "41 16"
+        },
+        {
+          "letra": "C",
+          "texto": "16 v 9"
+        },
+        {
+          "letra": "D",
+          "texto": "3 4 3 x"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 27_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Si el vector v es igual a la suma de los vectores a, b y c de la figura adjunta, entonces v \n\nse ubica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "en el primer cuadrante."
+        },
+        {
+          "letra": "B",
+          "texto": "en el cuarto cuadrante."
+        },
+        {
+          "letra": "C",
+          "texto": "en el eje x."
+        },
+        {
+          "letra": "D",
+          "texto": "en el tercer cuadrante. y 3 a"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 27_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. En el sistema cartesiano se tienen a los vectores a = (-3, 4), b = (5, 2), c = (-4, -3) y     \n\n1 \n\nb \n\n1 \n\n4 \nx \n\n-3 \n\nc \n\n-5 \n\nd = (1, -5). ¿Cuáles vectores tienen igual magnitud?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a y c"
+        },
+        {
+          "letra": "B",
+          "texto": "a y b"
+        },
+        {
+          "letra": "C",
+          "texto": "a y d"
+        },
+        {
+          "letra": "D",
+          "texto": "b y c 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. El triángulo ABC de la figura adjunta es equilátero de lado 6a. Si CD\nAB\n\n y AE es \nbisectriz del ángulo CAB. ¿Cuál(es) de las siguientes afirmaciones es (son) FALSA(S)? \n \n\nI) \nBG = 2a\n3  \n\nC \n\nII) \nBG + GC = 4a\n3  \n\n \n\nIII) \nGA + 2GE = 0 \n\n \n\nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III G A B D"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 27_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Dados los vectores a = (5, u)  y  b = (4, 3), con u > 0, ¿cuál de los siguientes números \n\nes el valor de u para que la longitud de a sea el triple de la longitud de b?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 2"
+        },
+        {
+          "letra": "B",
+          "texto": "5 10"
+        },
+        {
+          "letra": "C",
+          "texto": "5 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2 5"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. En la figura adjunta, los puntos A, C, D y B son los vértices de un cuadrilátero. ¿Cuál(es) \n\nde las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \n(DB + BA) es igual a DA. \n\nA \n\nII) \n(DB + BA + AC) es igual a CD. \n\nIII) \n(DB + BA + AC + CD) es el vector nulo. \n \n\nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 27_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. Un vector anclado en el origen tiene módulo igual a 7 unidades, y la abscisa de su \n\n \n\nC \nD \n\nextremo es 2. ¿Cuál es la coordenada de la segunda componente, sabiendo que está \nubicado en el cuarto cuadrante?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "3 5"
+        },
+        {
+          "letra": "C",
+          "texto": "-5"
+        },
+        {
+          "letra": "D",
+          "texto": "-3 5 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    }
+  ]
+}

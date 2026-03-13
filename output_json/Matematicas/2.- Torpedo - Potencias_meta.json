@@ -1,0 +1,22 @@
+{
+  "filename": "2.- Torpedo - Potencias.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/z. Resumenes - Varios/Matematicas/2.- Torpedo - Potencias.pdf",
+  "num_paginas": 1,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T14:52:17.500623",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nDATOS \n\n𝑎𝑛 → a: base   n: exponente \n\nExponente positivo: \n\n𝑎𝑛= 𝑎∗𝑎∗𝑎∗𝑎∗… ∗𝑎 → n veces \n\nExponente negativo: \n\n𝑎−𝑛= 1\n\n𝑎𝑛, 𝑐𝑜𝑛 𝑎≠0 \n\nExponente cero \n\n𝑎0 = 1, 𝑐𝑜𝑛 𝑎≠0 \n\nOJO → 00 𝑦 0−𝑛, 𝑁𝑂 𝐸𝑋𝐼𝑆𝑇𝐸𝑁 \n\n \n\nPROPIEDADES \n\nMultiplicación de potencias de igual base \n\n𝑎𝑛∗𝑎𝑚= 𝑎𝒏+𝒎  \n\nDivisión de potencias de igual base \n\n𝑎𝑛\n\n𝑎𝑚= 𝑎𝒏−𝒎, 𝑐𝑜𝑛 𝑎≠0 \n\n \n\nMultiplicación de potencias de igual exponente \n\n𝑎𝑛∗𝑏𝑛= (𝑎∗𝑏)𝑛 \n\nDivisión de potencias de igual exponente \n\n𝑎𝑛\n\n𝑛\n\n𝑏𝑛= (𝑎\n\n𝑏)\n\n, 𝑐𝑜𝑛 𝑏≠0 \n\nPotencias de una potencia \n\n(𝑎𝑛)𝑚= 𝑎𝒏∗𝒎  \n\n \n\n \n \n\n1 \n \n",
+      "cantidad_caracteres": 536,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 107.51171875
+        }
+      ]
+    }
+  ]
+}

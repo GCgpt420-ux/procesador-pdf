@@ -1,0 +1,57 @@
+{
+  "archivo_original": "TAM 14.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/SOLUCIONARIOS/TAM 14.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 6,
+  "fecha_procesamiento": "2026-03-07T23:08:19.621909",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1.  \n\nCuando tenga a años, tendré n veces la edad \nque tenía hace b años, ¿cuál de las siguientes \nserá mi edad en b años más? \n\nSolucionario \n\n \n\n \n\n \n\na = n(x - b)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a + 2bn n       años a = xn – bn a + bn n = x"
+        },
+        {
+          "letra": "B",
+          "texto": "n a        años n a + bn n + b = a + 2bn"
+        },
+        {
+          "letra": "C",
+          "texto": "a + nb n       n años"
+        },
+        {
+          "letra": "D",
+          "texto": "an + b n       años Alternativa correcta: A)"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. \n\nSolucionario \n\nSi f(x) = \nx + 1\nx  1\n\n y g(x) = \nx  1\nx + 1\n\n\n, \n\n \n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nx  1  + 1\nx + 1\n\nx  1 + x + 1\n\nx + 1\n\n\nentonces f(g(x))\n\ng(f(x))  = \n\n \n\nx + 1\n\n\n\n \nx + 1  x + 1\n\nx  1  x  1\n\nx  1   1\nx + 1\nx + 1   1\nx  1\nx + 1  + 1\nx  1\n\n \n\nf(g(x))\ng(f(x))  = \n\n \n\n =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-x2   x + 1 + x 1"
+        },
+        {
+          "letra": "B",
+          "texto": "x x 1"
+        },
+        {
+          "letra": "C",
+          "texto": "1 x   x 1 2 1"
+        },
+        {
+          "letra": "D",
+          "texto": "2x x = -x -2 = -x2 = 1 x 2 2x Alternativa correcta: A)"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    }
+  ]
+}

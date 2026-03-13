@@ -1,0 +1,395 @@
+{
+  "archivo_original": "TR 05.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TR 05.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 10,
+  "fecha_procesamiento": "2026-03-07T23:05:38.278400",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEn la figura adjunta el área de cada círculo es 4. ¿Cuál es el perímetro del \ncuadrado ABCD? \n \n \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "32"
+        },
+        {
+          "letra": "C",
+          "texto": "64"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TR 05_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn la figura adjunta, M y N son puntos medios de los lados del cuadrado de lado a. \n¿Qué porcentaje de la superficie en blanco es la superficie achurada? \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "75%"
+        },
+        {
+          "letra": "B",
+          "texto": "60%"
+        },
+        {
+          "letra": "C",
+          "texto": "50%"
+        },
+        {
+          "letra": "D",
+          "texto": "37,5% M"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TR 05_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \n¿Cuál es el perímetro del rectángulo ABCD de la figura adjunta, sabiendo que sus \nlados son números naturales mayores que 1 y que las áreas de los rectángulos \nGFHD, AEFG y EBCH, son respectivamente, 24 cm2, 12 cm2 y 18 cm2? \n\nN \n\na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "30 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "32 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "36 cm D H C G F A B E 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TR 05_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEl cuadrilátero ABCD de la figura adjunta es un cuadrado de perímetro 24 cm. ¿Cuál \nes el área de la figura achurada, si los arcos AB y AD son semicircunferencias?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( - 2) cm2"
+        },
+        {
+          "letra": "B",
+          "texto": " cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "18 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "16 cm2 D C"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TR 05_p7_img2.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nSi O es el centro del círculo de la figura adjunta y OA = AB = 12 cm, ¿cuál es el \nárea del sector AOB? \n\n \n\n \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "24 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "36 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "72 cm2"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TR 05_p7_img2.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn la figura adjunta se muestran dos sectores circulares con centro en O, además se \nindican las longitudes de sus radios. ¿Qué porcentaje del área del sector mayor, es \nel área del sector achurado, sabiendo que  = 45°? \n\nB\n\nA\nO",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12%"
+        },
+        {
+          "letra": "B",
+          "texto": "15%"
+        },
+        {
+          "letra": "C",
+          "texto": "20%"
+        },
+        {
+          "letra": "D",
+          "texto": "22,5%"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TR 05_p7_img2.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEn el plano cartesiano un cuadrado tiene sus vértices ubicados en los puntos (0,0), \n(1,-1), (2,0) y (1,1). ¿Cuál es el área del cuadrado? \n\n\n\n1 cm \n5 cm \n0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "2 2"
+        },
+        {
+          "letra": "C",
+          "texto": "4 2"
+        },
+        {
+          "letra": "D",
+          "texto": "4 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TR 05_p7_img2.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nSi el perímetro de un triángulo ABC es P, en que AB = AC = 2BC, entonces la \nlongitud de BC es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p 6"
+        },
+        {
+          "letra": "B",
+          "texto": "p 5"
+        },
+        {
+          "letra": "C",
+          "texto": "p 4"
+        },
+        {
+          "letra": "D",
+          "texto": "p 2"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEl cuadrilátero de la figura adjunta es un cuadrado y el círculo inscrito él tiene un \ndiámetro igual a 2a. ¿Cuál es el área de la superficie sombreada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4a2(1 – )"
+        },
+        {
+          "letra": "B",
+          "texto": "a2(4 – 2)"
+        },
+        {
+          "letra": "C",
+          "texto": "4a2(1 + )"
+        },
+        {
+          "letra": "D",
+          "texto": "a2(4 – )"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "TR 05_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. La figura adjunta esta formada por un rectángulo y dos semicírculos. De acuerdo a \n\nla información entregada en la figura, ¿cuál es el valor de su área?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "205"
+        },
+        {
+          "letra": "B",
+          "texto": "180 + 25"
+        },
+        {
+          "letra": "C",
+          "texto": "90 + 25"
+        },
+        {
+          "letra": "D",
+          "texto": "180 + 12,5 18"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "TR 05_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. En la figura adjunta O es el centro del círculo y vértice del cuadrado OPQR. ¿Qué \n\n28 \n\nparte del área del cuadrado es la figura sombreada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 4  P O"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "4  4"
+        },
+        {
+          "letra": "D",
+          "texto": "2 3 4  Q R 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "TR 05_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En el cuadrado ABCD se ha inscrito otro cuadrado en que M y N son puntos medios \n\nde \n  y\nAD\n  CD , respectivamente. ¿Qué parte del cuadrado ABCD es el cuadrilátero \nsombreado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 4 C D N"
+        },
+        {
+          "letra": "B",
+          "texto": "1 5"
+        },
+        {
+          "letra": "C",
+          "texto": "1 6 M"
+        },
+        {
+          "letra": "D",
+          "texto": "1 8 B A"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Según la información entregada en la figura adjunta, ¿cuál es el área del trapecio \n\nABCD, si se sabe que  = 45°?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14"
+        },
+        {
+          "letra": "B",
+          "texto": "15"
+        },
+        {
+          "letra": "C",
+          "texto": "16"
+        },
+        {
+          "letra": "D",
+          "texto": "18"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "TR 05_p9_img2.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. El cuadrilátero de la figura adjunta es un cuadrado de perímetro 32. Si las \n\n\n\n10\n\nD \nC \n\n2\n2  \n\nB \n\nA \n\ncircunferencias son congruentes, tangentes entre sí y tangentes a los lados del \ncuadrado. ¿Cuál es el área de la superficie achurada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2(8 – )"
+        },
+        {
+          "letra": "B",
+          "texto": "16(8 – )"
+        },
+        {
+          "letra": "C",
+          "texto": "6(8 – )"
+        },
+        {
+          "letra": "D",
+          "texto": "8(8 – )"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "TR 05_p9_img2.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. En la figura adjunta se han dibujado 4 semicircunferencias cuyos centros son los \n\n \n\n \n\npuntos medios de los lados del cuadrado de área 4n2. ¿Cuál es el perímetro de la \nfigura achurada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2n"
+        },
+        {
+          "letra": "B",
+          "texto": "4n"
+        },
+        {
+          "letra": "C",
+          "texto": "6n"
+        },
+        {
+          "letra": "D",
+          "texto": "8n 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "TR 05_p9_img2.jpg"
+      ]
+    }
+  ]
+}

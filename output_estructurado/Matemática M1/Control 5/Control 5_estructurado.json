@@ -1,0 +1,949 @@
+{
+  "archivo_original": "Control 5.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/CONTROLES/Control 5.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 14,
+  "fecha_procesamiento": "2026-03-07T23:09:43.568151",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSi a = \n3\n0,\n y  b = \n9\n1,\n, entonces el valor de \n1\n1\nab\n  \na\nb\n\n\n\n\n\n\n\n\n  es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 16"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "5 3"
+        },
+        {
+          "letra": "D",
+          "texto": "4 3"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nMario compra una puerta rectangular que mide 2 metros de alto por 70 cm de ancho. \nPara su instalación hubo que recortar el alto en 4 cm y el ancho en 5 cm. ¿Cuál es el \nárea de la puerta después de los cortes, en metros cuadrados?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12.740"
+        },
+        {
+          "letra": "B",
+          "texto": "12.640"
+        },
+        {
+          "letra": "C",
+          "texto": "1,2640"
+        },
+        {
+          "letra": "D",
+          "texto": "1,2740"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEl precio al contado de una lavadora es $ 200.000. Si el precio a crédito sube a  \n$ 250.000, ¿cuál es el porcentaje de aumento?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30%"
+        },
+        {
+          "letra": "B",
+          "texto": "25%"
+        },
+        {
+          "letra": "C",
+          "texto": "20%"
+        },
+        {
+          "letra": "D",
+          "texto": "125%"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn un grupo de personas, toda persona come carnes y/o verduras. El 80% come carnes \ny el 30% come verduras. Si 50 personas comen carnes y verduras, ¿cuántas personas \ncomen solo carne?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "500"
+        },
+        {
+          "letra": "B",
+          "texto": "400"
+        },
+        {
+          "letra": "C",
+          "texto": "350"
+        },
+        {
+          "letra": "D",
+          "texto": "100"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nLa tabla adjunta indica la cantidad de alcohol que se mezcla con la gasolina para formar \ncada una de las cuatro mezclas. \n \n \n \n \n\nMezcla \nLitros de Alcohol \nLitros de Gasolina \nA \n50 \n200 \nB \n100 \n500 \nC \n125 \n475 \nD \n150 \n600 \n\n \n \n \n \n \n \nSegún la información entregada en la tabla, ¿cuál de las siguientes afirmaciones es \nverdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La mezcla A es la que tiene menor grado alcohólico."
+        },
+        {
+          "letra": "B",
+          "texto": "La mezcla B es la que tiene mayor grado alcohólico."
+        },
+        {
+          "letra": "C",
+          "texto": "La mezcla B tiene el mismo grado alcohólico que la D."
+        },
+        {
+          "letra": "D",
+          "texto": "La mezcla C es la que tiene mayor grado alcohólico."
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Control 5_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSi 2a = c  y  5b = d, con c y d números enteros, ¿cuál de las siguientes expresiones es \nigual a (2a-1 ∙ 5b-1)-2? \n \n \n\n2\n1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(cd 2)  2 2 100"
+        },
+        {
+          "letra": "B",
+          "texto": "c d"
+        },
+        {
+          "letra": "C",
+          "texto": "- cd 5"
+        },
+        {
+          "letra": "D",
+          "texto": "-2(cd – 2) 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \n6\n6\n  \n2 + 2\n2  2\n\n\n = \n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "0"
+        },
+        {
+          "letra": "C",
+          "texto": "-6 2 + 12"
+        },
+        {
+          "letra": "D",
+          "texto": "-6 2 – 12"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nDado S = 612 – 611,  T = 512 – 511   y  P = 3011, entonces S · T =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20P"
+        },
+        {
+          "letra": "B",
+          "texto": "24P"
+        },
+        {
+          "letra": "C",
+          "texto": "20P2"
+        },
+        {
+          "letra": "D",
+          "texto": "20P11"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nUna persona debe recorrer k km en 4 días. Si el primer día recorre 2\n\n7  del total, el \n\nsegundo día 1\n\n5  de lo que no ha recorrido y el tercer día la mitad del resto, entonces el \n\ncuarto día debe recorrer",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 k 70"
+        },
+        {
+          "letra": "B",
+          "texto": "2k 7"
+        },
+        {
+          "letra": "C",
+          "texto": "5k 7"
+        },
+        {
+          "letra": "D",
+          "texto": "66k 70 n+3 n+2 n 5 5  ="
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Las medidas de los lados de un rectángulo son p cm y q cm. Si su perímetro y área son \n\n12 cm y 7 cm2, respectivamente, ¿cuál es el valor de p2 + q2?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "22"
+        },
+        {
+          "letra": "B",
+          "texto": "31"
+        },
+        {
+          "letra": "C",
+          "texto": "36"
+        },
+        {
+          "letra": "D",
+          "texto": "130"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. La solución de la ecuación en x, px + 3 = -4, es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 -p , para todo p"
+        },
+        {
+          "letra": "B",
+          "texto": "1 -p , para todo p ≠ 0"
+        },
+        {
+          "letra": "C",
+          "texto": "7 -p , para todo p ≠ 0"
+        },
+        {
+          "letra": "D",
+          "texto": "-1 – p, para todo p"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. El conjunto solución de la inecuación 3x  2\nx\n  3  \n  1\n12\n4\n\n\n\n\n es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "{26}"
+        },
+        {
+          "letra": "B",
+          "texto": "[26, +["
+        },
+        {
+          "letra": "C",
+          "texto": "]-, 26]"
+        },
+        {
+          "letra": "D",
+          "texto": "lR 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Cristina va a la feria y compra seis kilos de fruta entre naranjas y frutillas. Si el kilo de \n\nnaranjas cuesta el doble que el kilo de frutillas y compra el doble de kilos de frutillas \nque de naranjas, ¿cuál es el precio del kilo de frutillas, si en esta compra gasta  \n$ 4.000?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 500"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 800"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 1.500"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 1.800"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Don Renato tiene m años de edad y su hijo n años. ¿En cuántos años más don Renato \n\ntendrá el doble de la edad de su hijo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "En n m 2        años"
+        },
+        {
+          "letra": "B",
+          "texto": "En (m + 2n) años"
+        },
+        {
+          "letra": "C",
+          "texto": "En (2m – n) años"
+        },
+        {
+          "letra": "D",
+          "texto": "En (m – 2n) años"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. A una vidriería se le encarga confeccionar una ventana rectangular cuyo largo es el \n\ndoble del ancho. Si el precio del metro cuadrado de vidrio es $ 5.000 y el precio del \nmarco de aluminio es $ 12.000 por metro lineal, ¿cuál es la ecuación que nos permite \ncalcular el ancho x de la ventana, si el costo total es $ 100.800?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10.000x2 + 72.000x + 100.800 = 0"
+        },
+        {
+          "letra": "B",
+          "texto": "10.000x2 + 36.000x – 100.800 = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "10.000x2 + 72.000x – 100.800 = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "5.000x2 + 72.000x – 100.800 = 0 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Un insecto colocó 1.000 huevos y de ellos nacieron 1.000 crías. Si cada día se mueren \n\n5 crías, ¿cuál de las siguientes funciones relaciona la cantidad c de crías que le quedan \ndespués de transcurridos x días?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "c(x) = 1.000 – x"
+        },
+        {
+          "letra": "B",
+          "texto": "c(x) = 1.000 - 5x"
+        },
+        {
+          "letra": "C",
+          "texto": "c(x) = 1.000 + 5x"
+        },
+        {
+          "letra": "D",
+          "texto": "c(x) = 5x – 1.000 3 2x + py = - 2"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. En el sistema \n\n, ¿qué valores deben tener p y q, respectivamente, para \n\nqx  y = 4\n\n\nque la solución del sistema sea 3, -1\n4\n\n\n\n\n\n\n\n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 y 4"
+        },
+        {
+          "letra": "B",
+          "texto": "3 y -4"
+        },
+        {
+          "letra": "C",
+          "texto": "-3 y 4"
+        },
+        {
+          "letra": "D",
+          "texto": "-3 y -4"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Si f(p) = p2 + 2p – 3  y  g(p) = p – 3, entonces f(g(p)) =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p2 – 4p"
+        },
+        {
+          "letra": "B",
+          "texto": "p2 + 4p"
+        },
+        {
+          "letra": "C",
+          "texto": "p2 – p"
+        },
+        {
+          "letra": "D",
+          "texto": "p2 – 2p + 1"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. En la figura adjunta a\n1\n3\n\n\n y b\n1\n3\n\n\n. ¿Cuál es la ordenada del vértice de la \nparábola, si la intersección de la parábola con el eje de las ordenadas es 2? \n \n \n \n \n \n \n \n \n\ny \n\nx \n\nb \na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "5 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Control 5_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. La figura adjunta, representa la parábola asociada a la función cuadrática  \n\ng(x) = ax2 + bx + c, cuyo dominio es el conjunto de los números reales. \n \n \n \n \n \n \n \n \n \n \n\ny \n\n6 \n\n2 \n-3 \n\nx \n\n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \ng(-4) = g(3) \n\nII) \nLa ecuación del eje de simetría es x = - 1\n\n2 . \n\nIII) \nc\nb\n  \na\na\n\n = -7",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Control 5_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Dada la función h con dominio el conjunto de los números reales, definida por  \n\nh(x) = -45 + 6x + 3x2, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s), \ncon respecto a h? \n \n \n\nI) \nSu gráfico intersecta al eje x en los puntos (-5, 0) y (3, 0). \nII) \nEl vértice de la parábola asociada a h es V(-1, -48). \nIII) \nSi -5 < x < 3, entonces h(x) > 0.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Control 5_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Las edades en años de un niño (x) y su padre (y) son tales que 5  x  10 y  \n\n30  y  40. ¿Cuál de las siguientes afirmaciones es siempre verdadera? \n \n \n\ny  es 1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El menor valor que puede tomar la expresión x 6 ."
+        },
+        {
+          "letra": "B",
+          "texto": "La diferencia positiva de las edades no puede ser mayor a 35 años."
+        },
+        {
+          "letra": "C",
+          "texto": "El mayor valor que puede tomar la expresión x y es 8."
+        },
+        {
+          "letra": "D",
+          "texto": "El padre tiene 10 años más que el hijo."
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Dados los vectores u y v tal que u – v = (-3, -1) y 3u + v = (-13, -3), ¿cuál de las \n\nsiguientes coordenadas corresponde a v?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-4, -1)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-4, 0)"
+        },
+        {
+          "letra": "C",
+          "texto": "(2, 0)"
+        },
+        {
+          "letra": "D",
+          "texto": "(-1, 0)"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. El trazo de la figura adjunta, intercepta a los ejes en los puntos (3, 0) y (0, 6). \n\n \n \n \n \n \n \n \n \n\ny \n\n6 \n\nx \n3 \n\nSi al trazo se le realiza primero una rotación en 180º con respecto al origen (0, 0), y \ndespués un desplazamiento de 2 unidades hacia abajo, ¿cuál de los siguientes gráficos \nrepresenta mejor esta situación?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": "y y y -3 -6 -3 x -2 x x -3 -6 -8 y 3 6 x 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Control 5_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. Si al triángulo ABC de vértices A(1,1), B(2,1) y C(2,1 + 3) de la figura adjunta, se \n\naplica una simetría central con respecto a B, se obtiene el triángulos A’B’C’. Si a \ncontinuación, se somete a una rotación positiva en 90° con centro en C’, ¿cuáles serán \nlas coordenadas de A’’?  \n \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(2 3, 2 3)   C"
+        },
+        {
+          "letra": "B",
+          "texto": "(2 + 3, - 3)"
+        },
+        {
+          "letra": "C",
+          "texto": "( 3, -1)"
+        },
+        {
+          "letra": "D",
+          "texto": "(2 + 3, -2)"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "Control 5_p9_img1.jpg"
+      ]
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. En el triángulo ABC de la figura adjunta, DE // FG // AB . Si CD : DF : FA  = 3 : 2 : 2, \n\nA \nB \n\nx \n\nentonces x mide \n \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "7 x + 2 D E x + 5 F G"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "Control 5_p9_img1.jpg"
+      ]
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. Se tienen dos postes perpendiculares al suelo. El menor de ellos mide 2 m y proyecta \n\nB \nA \n\nuna sombra sobre el suelo de 0,5 m y en ese mismo instante, el poste mayor proyecta \nuna sombra de 2,5 m. Entonces, la altura del poste mayor mide",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 m"
+        },
+        {
+          "letra": "B",
+          "texto": "6,5 m"
+        },
+        {
+          "letra": "C",
+          "texto": "10 m"
+        },
+        {
+          "letra": "D",
+          "texto": "12 m 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. En la figura adjunta, ABCD es un paralelogramo y E es un punto que se encuentra en la \n\nprolongación del trazo DC. Dos triángulos son equivalentes si tienen igual área, \nentonces NO son necesariamente equivalentes los triángulos \n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \nE \n\nF \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ABC y ABE"
+        },
+        {
+          "letra": "B",
+          "texto": "AEC y BEC"
+        },
+        {
+          "letra": "C",
+          "texto": "ACD y ABC"
+        },
+        {
+          "letra": "D",
+          "texto": "AFC y BFE"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "Control 5_p10_img0.jpg"
+      ]
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. En la figura adjunta, ABCD y PQRS son paralelogramos semejantes en ese orden dado. \n\nSi DC  mide 3 cm menos que PQ , entonces ¿cuál es la medida de AB ? \n \n \n \n \n \n \n \n \n \n \n\nR \nS \n\n6 \n   \nD  \n\nC  \n\n \n   \n\n15 \n   \n   \nP \n\nB  \nA  \n Q",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "2 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "15 7 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "6 7 cm"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "Control 5_p10_img0.jpg"
+      ]
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. Dados los vectores  a = \n5\n3, 2\n\n\n\n\n\n\n\n  y  b = \n8\n-\n, -10\n9\n\n\n\n\n\n\n\n, entonces 6 a – 9 b =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(10, -75)"
+        },
+        {
+          "letra": "B",
+          "texto": "(26, -75)"
+        },
+        {
+          "letra": "C",
+          "texto": "(26, 105)"
+        },
+        {
+          "letra": "D",
+          "texto": "(10, 105) 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. En la figura adjunta, L1 // L2 // L3 y L4, L5, L6 son transversales. De acuerdo con los \n\ndatos proporcionados en ella, ¿cuál es el valor de x? \n \n \n \n\nL1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 2 2 m 3n"
+        },
+        {
+          "letra": "B",
+          "texto": "2 3 L2"
+        },
+        {
+          "letra": "C",
+          "texto": "3 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": [
+        "Control 5_p11_img0.jpg"
+      ]
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. La tabla adjunta muestra algunos de los datos que resultaron después de encuestar a \n\nx \n\n6m \n\nn \n\nL3 \n\nL4 \nL5 \nL6 \n\n50 niñas de un cuarto medio sobre el número de su calzado. Con respecto a la tabla, \n¿cuál(es) de las siguientes afirmaciones es (son) FALSA(S)? \n \n\nI) \nLa frecuencia relativa acumulada del intervalo [38, 40[ es 11\n\n50 . \n\nII) \nEl percentil 50 se encuentra en el intervalo [36, 38[. \nIII) \nEl intervalo modal del número de calzado es [36, 38[. \n\n \n \n \n \n \n\nFrecuencia \n\nN° de \ncalzado \nFrecuencia Frecuencia \n\nFrecuencia \nacumulada \n\nrelativa \nacumulada \n[32, 34[ \n2 \n \n \n \n[34, 36[ \n \n \n14 \n \n[36, 38[ \n \n0,4 \n \n \n[38, 40[ \n11 \n \n \n \n[40, 42[ \n \n \n \n \n\nrelativa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": [
+        "Control 5_p11_img0.jpg"
+      ]
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. En un estudio de los resultados de una P.D.T. de matemática obtenidos por los alumnos \n\nde los cuartos medios de un colegio, se construyó el gráfico adjunto, donde los \nintervalos son de la forma [a, b[ y el último de la forma [c, d]. ¿Cuál(es) de las \nsiguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nEl intervalo modal es [750, 850]. \nII) \nEl número de alumnos considerados en el estudio es 161. \nIII) \nLa mediana de los puntajes se encuentra en el intervalo [450, 550[. \n \n \n \n \n \n\nFrecuencia \nAcumulada \n\n43 \n45",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Ninguna de ellas"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "Control 5_p12_img0.jpg"
+      ]
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. A un grupo de personas se les pregunta el número de hijos que tienen, los resultados \n\n38 \n\n18 \n\n10 \n\n5 \n\n2 \n\npuntajes \n\n150 \n250 \n350 \n450 \n550 \n650 \n750 \n850 \n\nse encuentran en la tabla adjunta. Si el promedio de hijos de esta muestra es 1,8, \n¿cuál es el valor de n? \n \n \n \n \n \n \n \n\nNº de hijos \nFrecuencia \n0 \n1 \n2 \n3 \n4 \n\n2 \n15 \n27 \n\n3 \nn",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "1 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "Control 5_p12_img0.jpg"
+      ]
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. Cuando se lanzan 3 dados normales, ¿cuál es la probabilidad de obtener más de 16 \n\npuntos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 36"
+        },
+        {
+          "letra": "B",
+          "texto": "1 54"
+        },
+        {
+          "letra": "C",
+          "texto": "1 72"
+        },
+        {
+          "letra": "D",
+          "texto": "5 108"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. En una encuesta se consultó a 120 personas por el tipo de monedas que se \n\nencontraban comprando. Ochenta personas estaban comprando dólares, sesenta \ncompraban euros y veinte personas otras monedas que no eran ni dólares ni euros. Si \nse hubiese escogido una de estas personas al azar, ¿cuál es la probabilidad de que \nhubiese comprado dólares y euros?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 3"
+        },
+        {
+          "letra": "B",
+          "texto": "1 4"
+        },
+        {
+          "letra": "C",
+          "texto": "1 5"
+        },
+        {
+          "letra": "D",
+          "texto": "1 6"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. El disco de la figura adjunta está dividido en cuatro sectores iguales pintados de colores \n\ndiferentes: azul, blanco, verde y rojo.  Al hacer dos lanzamientos, ¿cuál es la \nprobabilidad de caer por lo menos una vez en el sector rojo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 2"
+        },
+        {
+          "letra": "B",
+          "texto": "7 16 Azul Rojo"
+        },
+        {
+          "letra": "C",
+          "texto": "3 4 Blanco Verde"
+        },
+        {
+          "letra": "D",
+          "texto": "3 8 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "Control 5_p13_img0.jpg"
+      ]
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. Ramiro y Gonzalo están matriculados en un curso de fotografía. Desde que comenzó el \n\ncurso, la asistencia a clases de Ramiro ha sido de un 80% y la de Gonzalo de un 60%, \nsiendo independientes sus ausencias. Si se elige un día al azar en que se haya \nimpartido el curso, ¿cuál es la probabilidad de que al menos uno de ellos haya asistido \na clases?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,92"
+        },
+        {
+          "letra": "B",
+          "texto": "0,88"
+        },
+        {
+          "letra": "C",
+          "texto": "0,75"
+        },
+        {
+          "letra": "D",
+          "texto": "0,70 MA33 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    }
+  ]
+}

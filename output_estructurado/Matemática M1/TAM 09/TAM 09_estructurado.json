@@ -1,0 +1,231 @@
+{
+  "archivo_original": "TAM 09.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/SOLUCIONARIOS/TAM 09.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 7,
+  "fecha_procesamiento": "2026-03-07T23:08:05.533103",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nLas notas obtenidas por un alumno en la asignatura de historia son: 4,3 ; 6,1; 7,0; \n6,1; 6,8 y 6,1. ¿Cuál debe ser la nota mínima coeficiente dos que debe obtener en su        \núltima prueba para que su promedio sea igual a la moda actual de sus notas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6,1"
+        },
+        {
+          "letra": "B",
+          "texto": "6,2"
+        },
+        {
+          "letra": "C",
+          "texto": "6,3"
+        },
+        {
+          "letra": "D",
+          "texto": "6,4 Solucionario 4,3 + 6,1 + 7 + 6,1 + 6,8 + 6,1 + 2x = 8 · 6,1 (moda : 6,1) 2x = 48,8 – 36,4 x = 6,2 Alternativa correcta: B)"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nLa tabla adjunta, muestra la cantidad de personas por casa al realizar una encuesta en \nuna población. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa media aritmética y la mediana son iguales. \nII) \nLa muestra es bimodal. \nIII) \nUna de las modas es igual a la mediana. \n \n\nNº de personas \n\nFrecuencia \nabsoluta (F) \n1 \n5 \n\npor casa  (xi)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III 2 20 3 30 4 30 5 5 6 10 Solucionario Modas: 2 y 3 5 + 2 20 + 3 30 + 4 30 + 5 5 + 6 10 340 x = = 100 10      = 34 Me = 3 Alternativa correcta: D) 1"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "TAM 09_p1_img1.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi la mediana de los datos de la tabla adjunta es 22,5, ¿cuál es el valor de q?  \n\n \n \n\nDato \n5 \n10 \n15 \n20 \n25 \n30 \n35 \n40 \nFrecuencia \n11 \nq \n10 \n4 \n12 \n7 \n7 \n4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "5"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "60 Solucionario Para que la mediana sea 22,5, ésta debe ser el promedio entre 20 y 25 y desde el dato 25 en adelante hay (12 + 7 + 7 + 4 = 30) datos. Luego, 11 + q + 10 + 14 = 30  q = 5 Alternativa correcta: B)"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TAM 09_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nLa media aritmética de 6 números enteros positivos y distintos es 12. ¿Cuál será el    \nmayor valor que puede tomar uno de los números?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "55"
+        },
+        {
+          "letra": "B",
+          "texto": "57"
+        },
+        {
+          "letra": "C",
+          "texto": "59"
+        },
+        {
+          "letra": "D",
+          "texto": "60 Solucionario (1) x1 + x2 + x3 + x4 + x5 + x6 = 6 · 12 = 72 Sea x6 el mayor dato, este ocurre cuando x1 + x2 + x3 + x4 + x5 es mínimo, es decir, cuando x1 = 1 ; x2 = 3 ; x3 = 3 ; x4 = 4 ; x5 = 5 15 + x6 = 72  x6 = 57 Alternativa correcta: B) 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEl promedio de 4 números enteros es 25. Si a esos números se le agregan otros dos  \nenteros, a  y  b, el promedio de los 6 números es 36. ¿Cuál es el promedio de a  y  b?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11"
+        },
+        {
+          "letra": "B",
+          "texto": "61"
+        },
+        {
+          "letra": "C",
+          "texto": "58"
+        },
+        {
+          "letra": "D",
+          "texto": "116 Solucionario (1) x1 + x2 + x3 + x4 = 4 · 25 = 100 (2) 100 + a + b = 6 · 36  a + b = 216 – 100 = 16 Por lo tanto, a + b 116 = 2 2 = 58 Alternativa correcta: C) 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nUna empresa tiene 3 proveedores distintos para la compra de ordenadores, los cuales   \npueden resultar buenos o defectuosos. Con datos anteriores que se tienen, se \nconstruye la tabla adjunta que indica las frecuencias de ordenadores buenos o \ndefectuosos, provenientes de los diferentes proveedores. \n \n\n¿Cuál es la probabilidad que un ordenador defectuoso, elegido al azar, proceda del \nproveedor 1?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,25"
+        },
+        {
+          "letra": "B",
+          "texto": "0,03 Proveedor Estado Proveedor 1 Proveedor 2 Proveedor 3"
+        },
+        {
+          "letra": "C",
+          "texto": "3 29 Buenos 0,26 0,30 0,32 Defectuosos 0,03 0,05 0,04"
+        },
+        {
+          "letra": "D",
+          "texto": "0,12 Solucionario La probabilidad pedida es P = 0,03 0,03 = 0,03 + 0,05 + 0,04 0,12 = 0,25 Alternativa correcta: A)"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TAM 09_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn una familia con dos hijos se sabe que hay algún varón (sin especificar el orden), \n¿cuál es la probabilidad que el otro también sea varón?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 2"
+        },
+        {
+          "letra": "B",
+          "texto": "1 4"
+        },
+        {
+          "letra": "C",
+          "texto": "1 3"
+        },
+        {
+          "letra": "D",
+          "texto": "2 3 Solucionario El espacio muestral original {VV, VD, DV, DD} Se reduce a {VV, VD, DV}, caso favorable: {VV} P = 1 3 Alternativa correcta: C) 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nLa probabilidad que una persona sufra de obesidad es 0,60 y la probabilidad que sufra \nproblemas coronarios y obesidad es 0,2. ¿Cuál es la probabilidad que una persona \nestando obesa sufra problemas coronarios?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 25"
+        },
+        {
+          "letra": "B",
+          "texto": "1 5"
+        },
+        {
+          "letra": "C",
+          "texto": "1 3"
+        },
+        {
+          "letra": "D",
+          "texto": "3 5 Solucionario Sean los eventos: O: Sufrir obesidad C: Sufrir problemas coronarios Entonces, P(O) = 0,6  P(C y O) = 0,2 0,6 = 1 P(O) = 0,2 Por lo tanto, P(C/O) = P(C y O) 3 Alternativa correcta: C)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Una caja contiene 8 esferas verdes, 3 azules y 9 rojas. Al extraer 3 de ellas, sin \n\nreposición, ¿cuál es la probabilidad que sean todas de diferentes colores?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "27 1000"
+        },
+        {
+          "letra": "B",
+          "texto": "18 95"
+        },
+        {
+          "letra": "C",
+          "texto": "6 95"
+        },
+        {
+          "letra": "D",
+          "texto": "81 500 Solucionario P(V, A, R) = 8 3 9 20 19 18   Pero V, A, R tiene 3! = 6, posibles órdenes, luego P = 8 3 9 6 20 19 18    = 18 95 Alternativa correcta: B) 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    }
+  ]
+}

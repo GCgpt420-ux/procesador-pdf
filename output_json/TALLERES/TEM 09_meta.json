@@ -1,0 +1,456 @@
+{
+  "filename": "TEM 09.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 09.pdf",
+  "num_paginas": 8,
+  "titulo": "RAÍCES I",
+  "autor": "Privado",
+  "fecha_procesamiento": "2026-03-07T16:01:40.969541",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nMATEMÁTICAS \nTALLER DE EJERCITACIÓN Nº 09 \nPROBABILIDAD Y ESTADÍSTICA I \n\n  \n \n \n \n \n \n \n \n \n \n \n \n \n1. \n¿Qué es necesario hacer primero para obtener la mediana de p puntajes de una prueba? \n \n \n\n \nTEM-09 \n\nA) Conocer la suma de los p puntajes \nB) Calcular la moda y la media aritmética \nC) Calcular el rango de los puntajes  \nD) Ordenar los puntajes de menor a mayor o de mayor a menor   \n \n \n \n \n2. \n¿Cuál es la media aritmética de los siguientes números: 0,16;  0,24;  0,18;  0,22;  0,20? \n \n \n\nA) 1 \nB) 0,50 \nC) 0,20   \nD) 0,02 \n \n \n \n3. \nAl realizar una encuesta de la cantidad de personas que viven por casa se obtuvieron los \ndatos de la tabla adjunta, con respecto a esta información, ¿cuál(es) de las siguientes \nafirmaciones es (son) verdadera(s)? \n \n \n\nA) La media aritmética y la mediana son iguales. \nB) La muestra es bimodal.   \nC) El promedio es igual a la 3. \nD) La encuesta fue realizada a 120 personas \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nFrecuencia \n\nNº de personas \n\nabsoluta \n\npor casa",
+      "cantidad_caracteres": 1053,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 1.1884765625
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.2705078125
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 98.0693359375
+        },
+        {
+          "index": 4,
+          "tipo": 3,
+          "tamanio_kb": 0.3701171875
+        },
+        {
+          "index": 5,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "4. \nEl gráfico de la figura adjunta, muestra los precios de distintos frutos secos. ¿Cuál de las \nsiguientes afirmaciones es verdadera? \n \n\nA) P y M valen lo mismo. \nB) Un kilo de N más un kilo de A vale $ 14.500.    \nC) En promedio un kilógramo de estos frutos vale $ 6.500.  \nD) La moda son las almendras \n \n \n \n \n \n \n \n \n \n \n \n \n \n5. \nEl promedio de los cuatro 4° medios de un colegio es 5,9, si los promedios de cada curso \ny su cantidad de alumnos está dado en la siguiente tabla, el valor de x es \n \n \n\n \n\nValor  \n\nA \n\n8.000 \n\nN \n\n3.250 \n\nA: Almendras \nN: Nueces \nP: Pasas \nM: Maní \n\nP \nM \n\n500 \n\n100 \n200 \n500 \nGramos \n\n1.000 \n\nA) 6,5 \nB) 6,0 \nC) 6,1 \nD) 6,4 \n \n \n \n \n \n \n6. \nEl gráfico circular de la figura adjunta muestra el número de alumnos por idioma en una \nacademia que tiene 300 alumnos. ¿Cuál de las siguientes afirmaciones es verdadera? \n \n \n \n \n \n \n \n \n \n \n\n4o \nx  \nNo alumnos \nA \n5,0 \n30 \nB \n6,5 \n20 \nC \nx \n25 \nD \n6,0 \n25 \n\nChino \n\n120 \nFrancés  \n\n \n\n30 \n\nAlemán  \n\n60 \nInglés   \n",
+      "cantidad_caracteres": 1206,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.26953125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.26953125
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.26953125
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.26953125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.208984375
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.208984375
+        },
+        {
+          "index": 6,
+          "tipo": 3,
+          "tamanio_kb": 0.10546875
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.1630859375
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.1728515625
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.171875
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.2080078125
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.16015625
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 14,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 15,
+          "tipo": 4,
+          "tamanio_kb": 0.2119140625
+        },
+        {
+          "index": 16,
+          "tipo": 4,
+          "tamanio_kb": 0.2138671875
+        },
+        {
+          "index": 17,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 18,
+          "tipo": 4,
+          "tamanio_kb": 0.408203125
+        },
+        {
+          "index": 19,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "7. \nLa tabla adjunta muestra los resultados por intervalos, que obtuvieron 30 alumnos de un \ncurso en un ensayo de PSU, con respecto a estos datos, ¿cuál de las siguientes \nafirmaciones es verdadera? \n \n\nA) El intervalo modal es el mismo donde se ubica la mediana.   \nB) El 50% de los alumnos tiene un puntaje desde 550 puntos, hasta un puntaje menor \n\na 750. \nC) La frecuencia relativa del tercer intervalo es aproximadamente 30%. \nD) El promedio de los puntajes es de 575 puntos \n \n \n\nIntervalo  \nFrecuencia  \n[450 – 550[ \n8 \n[550 – 650[ \n10 \n[650 – 750[ \n5 \n[750 – 850[ \n7 \n\n \n \n \n \n \n \n8. \n¿Cuál de los siguientes gráficos representa la información entregada en la tabla adjunta? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nIntervalo  \nFrecuencia  \n[14 – 18[ \n8 \n[18 – 22[ \n5 \n[22 – 26[ \n7 \n[26 – 30[ \n3 \n\nI) \nII) \nIII) \n\nfac  \n\nf  \n\nf  \n\n•\n\n8 \n\n8 \n\n23 \n\n•\n•\n\n•\n\n7 \n\n7 \n\n20 \n\n5 \n\n5 \n\n•\n\n13 \n\n•\n\n3 \n\n3 \n\n•\n\n•\n\n8 \n\nx\n•\n\nx\n\n16 \n20 \n24 \n\n28 \n\nx\n\n14 18 \n22 \n30 \n\n26 \n\n14 \n18 \n22 \n\n26 \n\n30 \n\n \nA) Solo I y ",
+      "cantidad_caracteres": 1285,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.197265625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.189453125
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1826171875
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 0.10546875
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.1630859375
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.1640625
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.1728515625
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.171875
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.138671875
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 14,
+          "tipo": 4,
+          "tamanio_kb": 0.138671875
+        },
+        {
+          "index": 15,
+          "tipo": 4,
+          "tamanio_kb": 0.1376953125
+        },
+        {
+          "index": 16,
+          "tipo": 4,
+          "tamanio_kb": 0.1376953125
+        },
+        {
+          "index": 17,
+          "tipo": 4,
+          "tamanio_kb": 0.1875
+        },
+        {
+          "index": 18,
+          "tipo": 4,
+          "tamanio_kb": 0.171875
+        },
+        {
+          "index": 19,
+          "tipo": 4,
+          "tamanio_kb": 0.2041015625
+        },
+        {
+          "index": 20,
+          "tipo": 4,
+          "tamanio_kb": 0.1376953125
+        },
+        {
+          "index": 21,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "10. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a la variable “tiempo que \n\nse requiere para responder un test”? \n \n\nA) \nEs cualitativa continua  \nB) \nEs cuantitativa continua  \nC) \nEs cualitativa nominal \nD) \nEs cuantitativa discreta \n \n \n \n11. La mediana de un conjunto de ocho números enteros pares consecutivos es 11. ¿Cuál es \n\nel menor de estos ocho números? \n\n \n\nA)   2 \nB)   4 \nC)   6 \nD) 10 \n \n \n \n12. Se lanza un dado cierta cantidad de veces, y con los valores obtenidos se construye la \n\ntabla de frecuencias que se adjunta.  Si  la media aritmética de los valores es 3,5, el \nnúmero total de lanzamientos es \n\nx f \n\n \nA) 24   \nB) 25 \nC) 26 \nD) 27 \n \n \n \n \n \n \n \n13. La tabla adjunta muestra el número de alumnos que cursan un ramo en un \n\n1 5 \n\n2 3 \n\n3 5 \n\n4 n \n\n5 6 \n\n6 4 \n\npreuniversitario. Con relación a estos datos, ¿cuál de las siguientes afirmaciones \nes verdadera? \n \n\nA) \nLa media aritmética es 700. \nB) \nLa moda es Matemática.    \nC) \nLa mediana es 1.400. \nD",
+      "cantidad_caracteres": 1145,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "14. Al lanzar simultáneamente 5 monedas 95 veces, se obtuvieron los resultados indicados en \n\nel gráfico de la figura adjunta. ¿Cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nA) La mediana es 2,5. \nB) En 30 lanzamientos se obtuvieron exactamente dos sellos. \nC) La mediana no es mayor que la media aritmética.   \nD) La moda es 30. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n15. El gráfico de la figura adjunta muestra la altura en metros del vuelo de un águila en \n\nFrecuencia \n\n \n\n30 \n\n25 \n\n20 \n\n15 \n\n10 \n\n5 \n\n1 \n2 \n3 \n4 \n5 \n\nNº de caras \n\nfunción del tiempo. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nEl vuelo es ascendente desde los 10 hasta los 25 segundos, de 35 a los                  \n50 segundos y a partir de los 65 segundos. \nII) \nA los 20 y a los 55 segundos el águila se encuentra, aproximadamente, a  \n65 m del suelo. \nIII) \nLa altura máxima, en este intervalo de tiempo,  la alcanza a los 50 segundos. \n \n \n\n100 \n\nA) Solo I y III \nB) Solo I y II \nC)",
+      "cantidad_caracteres": 1284,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.1806640625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.244140625
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.1630859375
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.1669921875
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.166015625
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.1318359375
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.130859375
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.2197265625
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 1.3212890625
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.2138671875
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.1650390625
+        },
+        {
+          "index": 14,
+          "tipo": 4,
+          "tamanio_kb": 0.146484375
+        },
+        {
+          "index": 15,
+          "tipo": 4,
+          "tamanio_kb": 0.17578125
+        },
+        {
+          "index": 16,
+          "tipo": 4,
+          "tamanio_kb": 0.17578125
+        },
+        {
+          "index": 17,
+          "tipo": 4,
+          "tamanio_kb": 0.224609375
+        },
+        {
+          "index": 18,
+          "tipo": 4,
+          "tamanio_kb": 0.25
+        },
+        {
+          "index": 19,
+          "tipo": 4,
+          "tamanio_kb": 0.255859375
+        },
+        {
+          "index": 20,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "16. En la tabla adjunta se muestra la distribución de frecuencias en años, de un grupo de \n\npersonas. De acuerdo con la información entregada, ¿cuál de las siguientes afirmaciones \nes verdadera? \n  \n\nA) \nEl percentil 75 pertenece al intervalo [30,35[.  \nB) \nLa mayor edad del primer intervalo es 25 años.  \nC) \nLa mediana de las edades se encuentra en el intervalo modal.   \nD) \nEl promedio es igual a 30,4 años. \n \n \n \n \n \n \n \n \n \n \n17.  En la tabla adjunta se muestra la distribución de frecuencias acumulada de un conjunto \n\nEdad \nFrecuencia \n[20,25[ \n20 \n[25,30[ \n12 \n[30,35[ \n22 \n[35,40[ \n18 \n[40,45[ \n8 \n\nde datos. Según los datos de la tabla, ¿cuál de las siguientes afirmaciones es siempre \nverdadera? \n \n \n \n \n\nDato \nFrecuencia \nacumulada \n[6,12[ \n2 \n[12,18[ \n5 \n[18,24[ \n10 \n[24,30] \n14 \n\nA) El total de datos es 31 \nB) El intervalo modal es [24,30[ \nC) El 50% de los datos es mayor o igual que 18    \nD) El promedio de los datos que pertenecen a [18,24[ es 20 \n \n \n18.  La ojiva del gráfic",
+      "cantidad_caracteres": 1637,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 21.22265625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "19.  En el gráfico de frecuencia acumuladas adjunto se muestran las edades de 40 alumnos de \n\n2º año de Ingeniería, donde los intervalos son de la forma [a, b[, excepto el último que \nes de la forma [c, d]. ¿Cuál de las siguientes afirmaciones es verdadera? \n \n \n \n \n \n \n \n \n \n \n \n \n\nA) Los alumnos que tienen 20 años son 15. \nB) El intervalo modal es [20,21[.    \nC) El 50% de los estudiantes tiene a lo menos 21 años. \nD) Hay más alumnos de 20 años que alumnos de 21 años. \n \n \n \n20. Con respecto a la siguiente gráfica de frecuencia acumulada porcentual de la figura \n\nadjunta en que se muestran pesos de 100 niños, si los intervalos son de la forma [a, b[, \nexcepto el último que es de la forma [c, d], ¿cuál de las siguientes afirmaciones es \nverdadera? \n \n \n \n \n\nA) La mediana es 25. \nB) Veinte niños pesan 10 kg.  \nC) La amplitud de los intervalos es 40. \nD) El intervalo modal es [10 – 20[.     \n \n \n \n \n \n21. \nLos cuartiles de un conjunto de datos son 30, 60 y 80 respectivamente. ¿Cuál de l",
+      "cantidad_caracteres": 1248,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.0341796875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 18.9501953125
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": " \n22. Aproximadamente, el 50% de los datos, de una muestra se encuentra entre \n \n\nA) El primer cuartil y la mediana. \nB) El primer y el tercer cuartil.    \nC) El dato de menor valor y el primer cuartil. \nD) El primer cuartil y el dato de mayor valor. \n \n \n23. Si en un grupo de datos la mediana es m, ¿cuál de las siguientes afirmaciones es siempre \n\nverdadera? \n \n\nA) El percentil 75 es 4 m\n3\n\n. \n\nB) El percentil 40 es menor o igual a m.    \nC) El dato que tiene mayor frecuencia es m. \nD) El mayor de los datos es mayor que m. \n\n \n \n \n24. El gráfico adjunto corresponde a un diagrama de caja y bigotes (box plot). ¿Cuál de las \n\nsiguientes afirmaciones es siempre verdadera? \n \n \n \n \n \n \n \n \n\n40 \n50 \n60 \n70 \n80 \n90 \n\nA) El rango intercuartílico es mayor que 10 y menor que 30.   \nB) El cuartil 1 es mayor que 60. \nC) El 50% de los datos es menor o igual que 60. \nD) El 25% de los datos son mayores que 60. \n \n \n25. La figura adyacente corresponde a un diagrama de caja y bigotes (box plot). Respe",
+      "cantidad_caracteres": 1405,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.125
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

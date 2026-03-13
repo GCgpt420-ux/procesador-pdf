@@ -1,0 +1,139 @@
+{
+  "archivo_original": "Tomo 2 Biología.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/3.Preu Uc Ciencias/Biologia/Comun/Tomos (materia + ejercicios)/Tomo 2 Biología.pdf",
+  "materia": "Sin clasificar",
+  "num_paginas": 58,
+  "fecha_procesamiento": "2026-03-07T22:26:06.576821",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. En una investigación del año 2010, un equipo a cargo de Min Chen publicó el \n\ndescubrimiento de un nuevo tipo de clorofila presente en algas y cianobacterias de \nAustralia. Esta fue bautizada como clorofila F y se caracteriza por poder absorber energía \nde la luz roja muy cercana al infrarrojo, una parte del espectro que se creía inaccesible \npara la fotosíntesis. Los organismos que presentan este tipo de clorofila se encuentran \nen lugares profundos del océano donde casi no hay disponibilidad de luz solar. Otro \nposible beneficio es que la luz de esa longitud de onda es más penetrante, por lo que \npodría alcanzar lugares más profundos en los tejidos, aumentando así el rendimiento \nfotosintético de los organismos que presenten esta variedad de clorofila. \nLa parte subrayada del texto corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Una teoría"
+        },
+        {
+          "letra": "B",
+          "texto": "Un modelo"
+        },
+        {
+          "letra": "C",
+          "texto": "Una inferencia"
+        },
+        {
+          "letra": "D",
+          "texto": "Una conclusión"
+        }
+      ],
+      "pagina": 51,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. ¿Qué se puede afirmar correctamente respecto a la siguiente cadena trófica?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El krill es una especie de productor marino."
+        },
+        {
+          "letra": "B",
+          "texto": "Esta cadena trófica consta de siete niveles tróficos."
+        },
+        {
+          "letra": "C",
+          "texto": "Los peces grandes corresponden a depredadores tope."
+        },
+        {
+          "letra": "D",
+          "texto": "El zooplancton está incluido en el nivel trófico conocido como “consumidores”."
+        },
+        {
+          "letra": "E",
+          "texto": "Los tiburones constituyen el nivel trófico que presenta el mayor nivel energético."
+        }
+      ],
+      "pagina": 56,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. La biogénesis y el desarrollo de los cloroplastos en cuanto a número y tamaño, está \n\ninfluenciada por una serie de parámetros ambientales. A partir de esto, un equipo de \ninvestigación monta un experimento en el que someten a tres cultivos de células \nvegetales de la misma especie a tres condiciones diferentes de temperatura para \nposteriormente evaluar los cambios que podrían ser inducidos por este factor, \nmanteniendo el resto de los parámetros ambientales constantes para los tres cultivos. Los \nresultados se muestran en las siguientes imágenes: \n \n\n \n \n\nA partir de estos resultados ¿cuál de las siguientes alternativas corresponde una \nconclusión correcta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A 25 °C las células alcanzarán su máxima tasa fotosintética."
+        },
+        {
+          "letra": "B",
+          "texto": "El número de cloroplastos aumenta al aumentar la temperatura."
+        },
+        {
+          "letra": "C",
+          "texto": "A 25 °C se observa la mayor cantidad de mitocondrias."
+        },
+        {
+          "letra": "D",
+          "texto": "A 10 °C se observan más cloroplastos que a 40 °C. 48"
+        }
+      ],
+      "pagina": 52,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. Si iluminamos una especie de planta en tres grupos y estudiamos sus eficiencias \n\nfotosintéticas en distintas longitudes de onda, obtenemos lo que se muestra en la tabla \nadjunta: \n\n                 Grupo \n     Variables \n\nGrupo A \nGrupo B \nGrupo Control \n\nColor iluminación (nm) \nVioleta (450 nm) \nVerde (520 nm) \nLuz Solar \n\nRendimiento \nfotosintético \n(Unidades arbitrarias) \n\n65 \n10 \n50 \n\n \n\nA partir de los datos presentados en la tabla, ¿cuál de las siguientes inferencias es \ncorrecta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La luz solar contiene todos los espectros que la planta puede absorber."
+        },
+        {
+          "letra": "B",
+          "texto": "Las plantas producirán menos glucosa si se irradian con luz verde que con luz solar."
+        },
+        {
+          "letra": "C",
+          "texto": "La fotólisis del agua se favorece más en presencia de luz verde que de luz violeta."
+        },
+        {
+          "letra": "D",
+          "texto": "Hay una relación proporcional entre la longitud de onda y la tasa fotosintética. 49"
+        }
+      ],
+      "pagina": 53,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. Los líquenes corresponden a un grupo de simbiontes entre un alga y un hongo. En un \n\nestudio, respecto del impacto del azufre en la sobrevida de los líquenes provenientes de \nla zona cordillerana del Maule, un grupo de científicos chilenos diseña un protocolo \nexperimental (variables de temperatura, presión, luminosidad y oxígeno constantes) \nbasado en lo que se observa en la imagen: \n\n \nLuego de obtener resultados y la conclusión de que “las concentraciones crecientes de \nazufre afectan la sobrevida de los líquenes estudiados”, publican su investigación en una \nprestigiosa revista. Luego de unos días, los editores les informan de un error muy \nimportante en la experimentación. A partir del recuadro, y de lo propuesto por los \neditores, ¿qué es correcto inferir sobre la ejecución de este experimento?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Poseen un número de ejemplares por concentración mayor a lo ideal."
+        },
+        {
+          "letra": "B",
+          "texto": "Deben tener distintos ejemplares entre una concentración y otra."
+        },
+        {
+          "letra": "C",
+          "texto": "Deben expresar los grupos en concentraciones decrecientes."
+        },
+        {
+          "letra": "D",
+          "texto": "Falta un grupo que no sea expuesto a concentraciones de azufre."
+        },
+        {
+          "letra": "E",
+          "texto": "Los tiempos de exposición deben ser diferentes entre cada concentración. 50"
+        }
+      ],
+      "pagina": 54,
+      "imagenes": [
+        "Tomo 2 Biología_p54_img0.jpg"
+      ]
+    }
+  ]
+}

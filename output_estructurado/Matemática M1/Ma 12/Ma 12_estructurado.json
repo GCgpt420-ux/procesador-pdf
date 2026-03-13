@@ -1,0 +1,889 @@
+{
+  "archivo_original": "Ma 12.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 12.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 8,
+  "fecha_procesamiento": "2026-03-07T23:04:05.513581",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEn la circunferencia de centro O de la figura adjunta, LM es diámetro, el ONM mide \n\nCUADERNO DE EJERCICIOS N° 12 \n\nÁNGULO EN LA CIRCUNFERENCIA \n\n48°. ¿Cuál es la medida del LON? \n\n \n \n\nM",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "96°"
+        },
+        {
+          "letra": "B",
+          "texto": "48°"
+        },
+        {
+          "letra": "C",
+          "texto": "24°"
+        },
+        {
+          "letra": "D",
+          "texto": "132° O N L"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 12_p1_img4.jpg",
+        "Ma 12_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn la circunferencia de centro O de la figura adjunta, AOB = 55°. Entonces, \n\nBTA + BPA  es \n \n \n\nP \n\nT\nO",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "220°"
+        },
+        {
+          "letra": "B",
+          "texto": "110°"
+        },
+        {
+          "letra": "C",
+          "texto": "55°"
+        },
+        {
+          "letra": "D",
+          "texto": "27,5°"
+        },
+        {
+          "letra": "E",
+          "texto": "22,5°"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 12_p1_img4.jpg",
+        "Ma 12_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn la circunferencia de centro O de la figura adjunta, AC  es diámetro. La medida del \nx es  \n\nB \nA \n\nC \n\n \n\nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30°"
+        },
+        {
+          "letra": "B",
+          "texto": "35°"
+        },
+        {
+          "letra": "C",
+          "texto": "50°"
+        },
+        {
+          "letra": "D",
+          "texto": "70°"
+        },
+        {
+          "letra": "E",
+          "texto": "90°"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 12_p1_img4.jpg",
+        "Ma 12_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn la circunferencia de centro O y diámetro PQ  de la figura adjunta, la medida del \n\nx \n\n70° \n\nO \n\nA \n\nAOB es  \n\nP",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "42,5°"
+        },
+        {
+          "letra": "B",
+          "texto": "70°"
+        },
+        {
+          "letra": "C",
+          "texto": "85°"
+        },
+        {
+          "letra": "D",
+          "texto": "100°"
+        },
+        {
+          "letra": "E",
+          "texto": "170° 35° 50° A O B Q"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 12_p1_img4.jpg",
+        "Ma 12_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn la circunferencia de la figura adjunta, los arcos AB, BC y CD son congruentes y \nDFA mide 84º. Entonces, la medida del CEB es \n\nF \n\n \n \n \n\nE \n\n84°",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "84°"
+        },
+        {
+          "letra": "B",
+          "texto": "56°"
+        },
+        {
+          "letra": "C",
+          "texto": "42°"
+        },
+        {
+          "letra": "D",
+          "texto": "28°"
+        },
+        {
+          "letra": "E",
+          "texto": "14° x A D B C"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 12_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSi en la circunferencia de centro O de la figura adjunta, BC = BO, con AC  y BD \ndiámetros, entonces la medida del ángulo ACD es \n \n \n\nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "45°"
+        },
+        {
+          "letra": "B",
+          "texto": "90°"
+        },
+        {
+          "letra": "C",
+          "texto": "15°"
+        },
+        {
+          "letra": "D",
+          "texto": "60°"
+        },
+        {
+          "letra": "E",
+          "texto": "30° A O C D (Fuente: DEMRE, Publicación 2013)"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 12_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEn la circunferencia de centro O de la figura adjunta, AB  es lado de un hexágono \nregular inscrito en esta circunferencia y OBC = 70°. Entonces, la medida del APB es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "130°"
+        },
+        {
+          "letra": "B",
+          "texto": "100°"
+        },
+        {
+          "letra": "C",
+          "texto": "80°"
+        },
+        {
+          "letra": "D",
+          "texto": "60°"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 12_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn la figura adjunta, el cuadrilátero ABCD está inscrito en la circunferencia. Entonces, \nel valor del x es \n\nC \nO \n\nP \n\nB \nA \n\n \n \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "35°"
+        },
+        {
+          "letra": "B",
+          "texto": "40°"
+        },
+        {
+          "letra": "C",
+          "texto": "45°"
+        },
+        {
+          "letra": "D",
+          "texto": "90°"
+        },
+        {
+          "letra": "E",
+          "texto": "faltan datos. 40° 60° 35° x A B 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 12_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEn la circunferencia de centro O de la figura adjunta, AB  es un diámetro y el \n\nABD = 80°. Entonces, el BCD mide \n\n \n \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10°"
+        },
+        {
+          "letra": "B",
+          "texto": "20°"
+        },
+        {
+          "letra": "C",
+          "texto": "50°"
+        },
+        {
+          "letra": "D",
+          "texto": "90°"
+        },
+        {
+          "letra": "E",
+          "texto": "100°"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 12_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. L es tangente en P a la circunferencia de la figura adjunta. Si la razón entre los arcos \n\nA \nB \nO \n\nQP, RQ y  PR es 4 : 3 : 2 respectivamente, entonces la medida del x es \n\n \n \n\nL \nP",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80°"
+        },
+        {
+          "letra": "B",
+          "texto": "120°"
+        },
+        {
+          "letra": "C",
+          "texto": "160°"
+        },
+        {
+          "letra": "D",
+          "texto": "170°"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 12_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Los puntos A, B y C pertenecen a la circunferencia de centro O de la figura adjunta. \n\nx \n\nR \n\nQ \n\nEntonces, la medida de  es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "270°"
+        },
+        {
+          "letra": "B",
+          "texto": "240°"
+        },
+        {
+          "letra": "C",
+          "texto": "210°"
+        },
+        {
+          "letra": "D",
+          "texto": "160°"
+        },
+        {
+          "letra": "E",
+          "texto": "120°"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 12_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En la circunferencia de centro O de la figura adjunta, AD  y BE  son diámetros. Si  \n\n \n\n50º \nO \n\nC \n\n70º \n\nA \n\nB \n\narco DE = arco BC y   = 72º, entonces la medida de  es \n \n \n\nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9°"
+        },
+        {
+          "letra": "B",
+          "texto": "18°"
+        },
+        {
+          "letra": "C",
+          "texto": "36°"
+        },
+        {
+          "letra": "D",
+          "texto": "72°"
+        },
+        {
+          "letra": "E",
+          "texto": "108°  O A D  B C 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 12_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. En la circunferencia de centro O de la figura adjunta, arco BC = 1\n\n3 arco DA. Si DOA \n\nmide 90º, entonces el valor del BEA es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60°"
+        },
+        {
+          "letra": "B",
+          "texto": "90°"
+        },
+        {
+          "letra": "C",
+          "texto": "100°"
+        },
+        {
+          "letra": "D",
+          "texto": "120°"
+        },
+        {
+          "letra": "E",
+          "texto": "130°"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 12_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En la figura adjunta, AB  es diámetro de la circunferencia de centro O y AO = CD. \n\nA \n\nB \n\nE \n\nO \n\nC \n\nD \n\n¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n \n\nI) \nAB  // CD  \nII) \nBOC = DOA \n\nIII) \nOCD es equilátero. \n \n\nO",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 12_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. En la circunferencia de centro O de la figura adjunta, BC y  BA son tangentes a la \n\nA \nB \n\nC \nD \n\ncircunferencia. Si arco AC = 130°, entonces la mitad de ABC es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25°"
+        },
+        {
+          "letra": "B",
+          "texto": "40°"
+        },
+        {
+          "letra": "C",
+          "texto": "45°"
+        },
+        {
+          "letra": "D",
+          "texto": "50° A B O"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 12_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En la circunferencia de la figura adjunta, la medida del DEC es \n\nC \n\n \n \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10°"
+        },
+        {
+          "letra": "B",
+          "texto": "20°"
+        },
+        {
+          "letra": "C",
+          "texto": "40°"
+        },
+        {
+          "letra": "D",
+          "texto": "60°"
+        },
+        {
+          "letra": "E",
+          "texto": "120° E 60º A C 80º 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 12_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. En la circunferencia de la figura adjunta, PT es tangente en T. La medida del ángulo x \n\nes \n \n\nT \nP",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "65°"
+        },
+        {
+          "letra": "B",
+          "texto": "75°"
+        },
+        {
+          "letra": "C",
+          "texto": "100°"
+        },
+        {
+          "letra": "D",
+          "texto": "130°"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 12_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. En la figura adjunta, \nAB  BC\n\n y O es el centro de la circunferencia. Si  \narco AD = arco EB, entonces la medida del ángulo  es  \n \n\n25° \n\n40° \n\nx \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10°"
+        },
+        {
+          "letra": "B",
+          "texto": "20°"
+        },
+        {
+          "letra": "C",
+          "texto": "40°"
+        },
+        {
+          "letra": "D",
+          "texto": "60°"
+        },
+        {
+          "letra": "E",
+          "texto": "80°"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 12_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. En la figura adjunta, A, B, C y D son puntos que pertenecen a la circunferencia, BC es \n\nB \nO \nD \n\n \n\n\n\n\n\n30º \n\nE \n\nC \n\nsecante, arco DAB = 210°. Entonces,  +  =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "200°"
+        },
+        {
+          "letra": "B",
+          "texto": "190°"
+        },
+        {
+          "letra": "C",
+          "texto": "180°"
+        },
+        {
+          "letra": "D",
+          "texto": "170°"
+        },
+        {
+          "letra": "E",
+          "texto": "160°"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 12_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En la figura adjunta, CD  es un diámetro de la circunferencia de centro O. Si el  \n\nD \n\n \n\nC \n\n \n\nA \n\nB \n\n85° \n\nAOD = 40°, el arco AD y el arco DB son congruentes, entonces ¿cuál(es) de las \n\nsiguientes afirmaciones es (son) FALSA(S)? \n \n \n \nI) \nCAO = 20º \n\nA \n\nII) \nCBO = BOD \n\nIII) \n2AOB = ACB \n \n \n\nO \nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III B 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 12_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Se han marcado cinco puntos en la circunferencia de la figura adjunta. ¿Cuál de las \n\nsiguientes NO es una pareja de ángulos congruentes? \n \n \n\nD \nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "EBD y ECD"
+        },
+        {
+          "letra": "B",
+          "texto": "BAC y CDB"
+        },
+        {
+          "letra": "C",
+          "texto": "DAC y DBC"
+        },
+        {
+          "letra": "D",
+          "texto": "EAD y ECD"
+        },
+        {
+          "letra": "E",
+          "texto": "DAB y EAC"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 12_p6_img13.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Según la circunferencia de la figura adjunta. ¿Cuál(es) de las siguientes afirmaciones es \n\nC \n\nA \n\nB \n\n(son) verdadera(s)? \n \n\nI) \nSi CA = CD y BC = BD, entonces ACD  CDB. \nII) \nSi AC = BD y \nDAB\nCBA\n\n, entonces DAB  CBA. \nIII) \nSi \nBAC\nDCA\n\n y \nBDC\nDBA\n\n, entonces ABE  CDE. \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 12_p6_img13.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. En la circunferencia de la figura adjunta, la medida del ángulo exterior AGC es \n \n \n\nE \n\nB \n\nD \n\nA \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25°"
+        },
+        {
+          "letra": "B",
+          "texto": "50°"
+        },
+        {
+          "letra": "C",
+          "texto": "70°"
+        },
+        {
+          "letra": "D",
+          "texto": "100°"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 12_p6_img13.jpg"
+      ]
+    },
+    {
+      "numero": 24,
+      "enunciado": "24.  En la figura adjunta PR y SU  son diámetros de la circunferencia que se intersectan en \n\nF \n\nB \n\n10º \n\nE \n\nG \nC \n\n60º \n\nD \n\nO, el punto Q pertenece a ella y los segmentos QS y PR se intersectan en T. Si  \nQTR = 114° y  QOU = 84°, entonces la medida de   es \n\nQ \n\n \n \n\nU",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "36°"
+        },
+        {
+          "letra": "B",
+          "texto": "42°"
+        },
+        {
+          "letra": "C",
+          "texto": "66°"
+        },
+        {
+          "letra": "D",
+          "texto": "72°"
+        },
+        {
+          "letra": "E",
+          "texto": "57° O T  R P S (Fuente: DEMRE. Publicación 2017) 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 12_p6_img13.jpg"
+      ]
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. En una circunferencia de centro O, PS  y PR la intersectan en los puntos Q, S y R, el \n\npunto O está en PS  y T está en la circunferencia, tal como se muestra en la figura \n\nadjunta. Si la medida de PQ  es igual al radio de la circunferencia y \nSPR = 10° , \n\nentonces la medida de QTS es \n\nT",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "70°"
+        },
+        {
+          "letra": "B",
+          "texto": "90°"
+        },
+        {
+          "letra": "C",
+          "texto": "80°"
+        },
+        {
+          "letra": "D",
+          "texto": "75°"
+        },
+        {
+          "letra": "E",
+          "texto": "85° S P O Q R (Fuente: DEMRE, publicación 2016)"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 12_p7_img1.jpg"
+      ]
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. Siendo A, C y D puntos que pertenecen a la circunferencia de centro O y B, C y D son \n\npuntos colineales de la figura adjunta, se puede conocer el valor del ángulo DCO, si se \nsabe que: \n \n\nD \n\n(1) DBA = 40° \n\n(2) COA = 100° y BA tangente en A.  \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 12_p7_img1.jpg"
+      ]
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. En la circunferencia de centro O de la figura adjunta, AC  y BD  son diámetros. Se \n\nO \n\nB \n\nA \n\npuede conocer la medida del ángulo x, si se sabe que: \n \n\n(1) arco CD  = 120° \n(2) CDB + BAC = 60° \n\nC \nD \n\nx \nO",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional A B 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 12_p7_img1.jpg"
+      ]
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. En la circunferencia de centro O de la figura adjunta, AB  es diámetro y L es tangente \n\nen C. Se puede determinar la medida del CBA, si se sabe que: \n\n \n\n(1) AB = 2AC \n(2) ACL = 150° \n\nB \n\nO",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 12_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. En la figura adjunta, el cuadrilátero ABCD está inscrito en la circunferencia. Se puede \n\nL \n\nA \n\nC \n\ndeterminar la medida del CDA, si se sabe que: \n\n \n\nC \n\n(1) BCD = 120° \n\nB \n\n(2) DAB = 60° \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 12_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. En la circunferencia de centro O de la figura adjunta, AC  es diámetro. Se puede \n\nA \n\nconocer la medida del , si se sabe que: \n\n \n\nA \n\n(1) BOC = 2 \n\n \nB \n\n(2) ABO =  \n\n \n\nO",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional C RESPUESTAS"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 12_p8_img0.jpg"
+      ]
+    }
+  ]
+}

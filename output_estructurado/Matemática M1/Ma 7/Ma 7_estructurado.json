@@ -1,0 +1,825 @@
+{
+  "archivo_original": "Ma 7.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 7.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 8,
+  "fecha_procesamiento": "2026-03-07T23:04:01.057275",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSi 2x + 1 = x – 5, entonces x2 + 1 es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-35"
+        },
+        {
+          "letra": "B",
+          "texto": "37"
+        },
+        {
+          "letra": "C",
+          "texto": "-11"
+        },
+        {
+          "letra": "D",
+          "texto": "-6"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEl valor de x en la ecuación -{3 – [3 – (3x – 2)] + 5} = 12 – 4x es \n \n\nCUADERNO DE EJERCICIOS N° 7 \nECUACIONES DE PRIMER GRADO",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "9"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEl valor de x en la ecuación 2x\n3x\nx\n-1\n  \n + \n = \n5\n4\n10\n4\n\n es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-1"
+        },
+        {
+          "letra": "B",
+          "texto": "-5"
+        },
+        {
+          "letra": "C",
+          "texto": "0"
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        },
+        {
+          "letra": "E",
+          "texto": "10"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEl recíproco de x en la ecuación 3x + 2\n2x - 3\nx + 5\n + \n = \n6\n2\n5\n   es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 5"
+        },
+        {
+          "letra": "B",
+          "texto": "- 3 5"
+        },
+        {
+          "letra": "C",
+          "texto": "5 3"
+        },
+        {
+          "letra": "D",
+          "texto": "-1 2 3"
+        },
+        {
+          "letra": "E",
+          "texto": "2 1 3"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn la ecuación 2\n\n15 ,\n\nel valor del opuesto de x es \n\n5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-5"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "-5 13"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSi 3t + 1\n\n2\n = 5, entonces 2t + 1 es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8,3"
+        },
+        {
+          "letra": "B",
+          "texto": "13"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "3"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \n¿Cuál(es) de las siguiente(s) ecuaciones es (son) reductible(s) a una ecuación de \nprimer grado? \n \n\nI) \n2(x + 3)2 – 4x = 2x2 + 4 \nII) \n(x – a)(x + a) = x(x – a), con a  0 \nIII) \n(x – 2)3 + 2x = x3 + 6x2 + 1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEl valor de x en la ecuación 0,1x + 0,5x – 0,25 = 0,75 es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,3"
+        },
+        {
+          "letra": "B",
+          "texto": "1,6"
+        },
+        {
+          "letra": "C",
+          "texto": "1,3"
+        },
+        {
+          "letra": "D",
+          "texto": "1,6 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9.  \nPara cancelar una deuda de $ 4.800, Victoria paga con 15 monedas de $ 100 y  \n16 monedas de $ 50. ¿Cuántas monedas de $ 500 necesitará Victoria para cancelar el \nsaldo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "5"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. El inverso aditivo de x en la ecuación 0,16x + 0,25x + 2 = 0,3 , es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-25"
+        },
+        {
+          "letra": "B",
+          "texto": "-4"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "15"
+        },
+        {
+          "letra": "E",
+          "texto": "25"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Si 2  x\n\n\n\n = 4,  entonces 5  x\n\n\n\n es igual a \n\nx  5\n\n2  x",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-4"
+        },
+        {
+          "letra": "B",
+          "texto": "-1 4"
+        },
+        {
+          "letra": "C",
+          "texto": "1 4"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "14 5 5x – 3 = 2"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. El opuesto del inverso multiplicativo de x en la ecuación 4\n\nx  es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2 5"
+        },
+        {
+          "letra": "B",
+          "texto": "-5 2"
+        },
+        {
+          "letra": "C",
+          "texto": "1 5"
+        },
+        {
+          "letra": "D",
+          "texto": "2 5"
+        },
+        {
+          "letra": "E",
+          "texto": "5 2 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Si T = 2m – 6n, entonces -2m es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-(T + 6n)"
+        },
+        {
+          "letra": "B",
+          "texto": "-(T – 6n)"
+        },
+        {
+          "letra": "C",
+          "texto": "2T + 12n"
+        },
+        {
+          "letra": "D",
+          "texto": "-0,5T – 6n"
+        },
+        {
+          "letra": "E",
+          "texto": "0,5T + 6n"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Para que el valor de b en la ecuación a + 2b = 10  sea igual al opuesto de -3, el valor \n\ndel inverso aditivo de a debe ser",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-16"
+        },
+        {
+          "letra": "B",
+          "texto": "-4"
+        },
+        {
+          "letra": "C",
+          "texto": "-8"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "16"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. La solución de la ecuación 3 ∙ 10-2 ∙ x = 0,024 ∙ 102 es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,008"
+        },
+        {
+          "letra": "B",
+          "texto": "0,08"
+        },
+        {
+          "letra": "C",
+          "texto": "800"
+        },
+        {
+          "letra": "D",
+          "texto": "80"
+        },
+        {
+          "letra": "E",
+          "texto": "8"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Si (p  b)\n3(p + b)\n = \n5\n20\n\n, entonces p es siempre igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7b"
+        },
+        {
+          "letra": "B",
+          "texto": "b - 7"
+        },
+        {
+          "letra": "C",
+          "texto": "2b"
+        },
+        {
+          "letra": "D",
+          "texto": "0"
+        },
+        {
+          "letra": "E",
+          "texto": "2b 5 (Fuente: DEMRE, Publicación 2017) 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. ¿Cuál es el conjunto solución de la ecuación 2x + 3 = 7?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "{2}"
+        },
+        {
+          "letra": "B",
+          "texto": "{2, 5}"
+        },
+        {
+          "letra": "C",
+          "texto": "{-5}"
+        },
+        {
+          "letra": "D",
+          "texto": "{5}"
+        },
+        {
+          "letra": "E",
+          "texto": "{-5, 2}"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. El valor de x en la ecuación 3ax – 2a = a + 3x, es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a a 1  para todo a real."
+        },
+        {
+          "letra": "B",
+          "texto": "a a 1  para todo a real distinto de 1."
+        },
+        {
+          "letra": "C",
+          "texto": "a a + 1 para todo a real."
+        },
+        {
+          "letra": "D",
+          "texto": "a a + 1 para todo a real distinto de -1."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa ecuación: 3(x – 5) + 10 = 2x – 5, tiene solución única. \nII) \nLa ecuación: 4(5x + 2) – 6(3x + 1) = 2(x + 1), tiene infinitas soluciones. \nIII) \nLa ecuación: 7x – 3(1 – x) = 2(5x + 5) – 4, no tiene solución.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y IIII"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 2 bx ax + b = a a – b, con a  0, tiene solución única si"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. La ecuación \n\n \n\nI) \na = b \nII) \na > b \nIII) \na  b \n \n\nEs (son) verdadera(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "solo I."
+        },
+        {
+          "letra": "B",
+          "texto": "solo II."
+        },
+        {
+          "letra": "C",
+          "texto": "solo III."
+        },
+        {
+          "letra": "D",
+          "texto": "solo II y III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III. 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Si 1\n\n2 x – 6q = kx,  entonces x es siempre igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12q + 2k"
+        },
+        {
+          "letra": "B",
+          "texto": "12q 1 2k  , para todo k."
+        },
+        {
+          "letra": "C",
+          "texto": "6q 1 2k  , para todo k."
+        },
+        {
+          "letra": "D",
+          "texto": "6q 1 + 2k , si k  - 1 2 ."
+        },
+        {
+          "letra": "E",
+          "texto": "12q 1 2k  , si k  1 2 ."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Un camionero llevaba x sacos de harina en su camión. En la primera parada de su \n\nrecorrido descargó 2\n\n3  de los sacos. En una segunda parada descargó 20 sacos, \n\nquedando en el camión la cuarta parte de la cantidad original. ¿Cuál de las siguientes \necuaciones permite determinar el número de sacos que llevaba antes de la primera \nparada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 1 x x x 20 3 4   "
+        },
+        {
+          "letra": "B",
+          "texto": "2 1 x x x 20 3 4   "
+        },
+        {
+          "letra": "C",
+          "texto": "2 1 x x x 20 3 4   "
+        },
+        {
+          "letra": "D",
+          "texto": "2 1 x 20 x 3 4  "
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Un niño escogió un número, le sumó 12 y luego dividió el resultado por 2, obteniendo \n\nsu edad. Si su hermano menor tiene 12 años y la diferencia entre las edades de ambos \nes 2 años, entonces el número que escogió el niño es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "14"
+        },
+        {
+          "letra": "E",
+          "texto": "16 (Fuente: DEMRE, Publicación 2012) 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Doña Catalina compró 7 regalos del mismo valor y pagó por ellos 21 veces x.  Si el \n\nmonto que canceló por cada regalo fue de $ 4.200, ¿cuál es el valor de x?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "200"
+        },
+        {
+          "letra": "B",
+          "texto": "420"
+        },
+        {
+          "letra": "C",
+          "texto": "1.400"
+        },
+        {
+          "letra": "D",
+          "texto": "2.100"
+        },
+        {
+          "letra": "E",
+          "texto": "14.000"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. La fórmula ºK = 5\n\n9  (ºF – 32º) + 273º relaciona grados Kelvin (ºK) y grados  \n\nFahrenheit (ºF).  Al despejar ºF  se obtiene",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ºF = 9 5 (ºK – 273º) + 32º"
+        },
+        {
+          "letra": "B",
+          "texto": "ºF = 9 5 (ºK + 273º) – 32°"
+        },
+        {
+          "letra": "C",
+          "texto": "ºF = 5 9 (ºK – 273º) + 32º"
+        },
+        {
+          "letra": "D",
+          "texto": "ºF = 9 5 (ºK – 273º) – 32º"
+        },
+        {
+          "letra": "E",
+          "texto": "ºF = 9 5 (ºK + 273º) + 32º"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. Una persona, el mes pasado, pagó por su plan de telefonía móvil para llamadas \n\ninternacionales $24.600. Si el cargo fijo es $ 12.000 y el cobro por minuto o fracción de \nél es $ 150, entonces ¿cuánto tiempo utilizó dicho mes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 hora y 45 minutos"
+        },
+        {
+          "letra": "B",
+          "texto": "1 hora y 40 minutos"
+        },
+        {
+          "letra": "C",
+          "texto": "1 hora y 12 minutos"
+        },
+        {
+          "letra": "D",
+          "texto": "1 hora y 24 minutos"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. Sean \na, \nb, \nx, \ny \nnúmeros \nreales \npositivos. \nSe \npuede \ndeterminar \nque                     \na% de x = b% de y, si se sabe que: \n \n\n(1)  x\nb\n = \ny\na  \n\n(2)  ax – by = 0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Se puede determinar que la expresión  2(a – 2c) + 3b es igual a 5b, si sabe que: \n \n\n(1)  a = b \n(2)  c = a + b",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. Se puede determinar el valor de a en la ecuación |x + a| = 2, si se sabe que: \n\n \n(1)  x = -1 \n(2)  a > 0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. Dada la ecuación 2x + 2a\n1\n = \nb\n4x\n2\n. Se puede determinar que el valor de x es positivo, si \n\nse sabe que: \n \n(1)  a y b  son números negativos. \n\na\n > 0\nb  1\n\n  \n\n(2)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional RESPUESTAS"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    }
+  ]
+}

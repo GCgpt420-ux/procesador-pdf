@@ -1,0 +1,1658 @@
+{
+  "filename": "Tomo 1 Biología.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/3.Preu Uc Ciencias/Biologia/Comun/Tomos (materia + ejercicios)/Tomo 1 Biología.pdf",
+  "num_paginas": 106,
+  "titulo": "",
+  "autor": "Omar Naranjo Marcos",
+  "fecha_procesamiento": "2026-03-07T14:52:25.511947",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 51.8173828125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPRESENTACIÓN \n \nLa Prueba de Acceso a la Educación Superior (PAES) es el instrumento que permite ingresar \nactualmente a las universidades adscritas al sistema de admisión. \n \nLas Pruebas de Acceso a la Educación Superior en Ciencias, al igual que las Bases Curriculares de \nCiencias del MINEDUC, incorporan dos aspectos: uno referido a las Habilidades Científicas y el \notro referido al Conocimiento de la Ciencia; el primero, común a los tres ejes (Biología, Física y \nQuímica) y el segundo, diferenciado para cada uno de ellos. \n \nAdemás, las PAES consideran las Habilidades Científicas: Observar y plantear preguntas (OPP), \nPlanificar y conducir una investigación (PCI), Procesar y analizar la evidencia (PAE), Evaluar y \nComunicar, las que funcionan como elementos transversales e integradores. Estos elementos son \naplicables y evaluables en todas las áreas temáticas de dicha prueba. \n \nEl temario de la Prueba de Acceso a la Educación Superior se estructura p",
+      "cantidad_caracteres": 1926,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\nEL MÉTODO CIENTÍFICO \n \nEl método científico organiza la forma de adquirir conocimiento del ser humano, por lo tanto, se \npuede definir como el conjunto de etapas que hay que recorrer para obtener un conocimiento válido \ndesde el punto de vista científico, utilizando para esto instrumentos que resulten fiables. Lo que \nhace este método es minimizar la influencia de la subjetividad del investigador en su trabajo, \ngenerando un procedimiento sistematizado que también permite reducir e identificar de forma \noportuna cualquier error. \n \nEn relación con esto, antiguamente se concebía el método científico como un proceso lineal, sin \nembargo, ahora se entiende como un proceso multidimensional, el cual se puede observar en el \nsiguiente esquema: \n \n\n \n \nEntre cada una de las etapas, se presentan las habilidades del pensamiento científico, y para poder \nidentificarlas, es importante comprender que implica cada uno de los paso",
+      "cantidad_caracteres": 1618,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 67.9736328125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\n¿Qué es una variable? \n\nSon aquellos factores, características o propiedades que pueden influir en el experimento. \nEstas variables pueden ser controladas, modificadas o medidas dependiendo de cómo se \nplantee la relación entre ellas. \n\nVariable independiente \n\nVariable dependiente \n\nVariable controlada \n\nRepresenta un factor que se \nmodifica en un experimento \n(manejado \npor \nel \nexperimentador). A menudo \nesta \nvariable \nes \nrepresentada con una X en \nuna ecuación, por lo tanto, \nse ubica en el eje de las \nabscisas \nen \nun \ngráfico \ncartesiano. \n\nRepresenta un factor cuyo \nvalor depende de cómo se \nmodifica \nla \nvariable \nindependiente. A menudo \nes representada con la letra \nY en una ecuación, por lo \ntanto, se ubica en el eje de \nlas ordenadas en un gráfico \ncartesiano. Por otro lado, la \nvariable \ndependiente \nes \naquello que se busca medir \nen el experimento. \n\nSon aquellos factores que se \nmantienen fijos, cons",
+      "cantidad_caracteres": 1949,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 1.6181640625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 2.9169921875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.203125
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 3.0439453125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.2236328125
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 2.9619140625
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 29.4990234375
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\nAplicación: \n\n \nSe observa que luego de algunas horas, la cantidad de colonias bacterianas presentes en la \nplaca de cultivo disminuye considerablemente. \nObservación inicial: Al aplicar una concentración de X, la cantidad de bacterias disminuye. \n\n \n\n \n \nII. Definición y planteamiento del problema \nSe produce a partir de la observación, formulación y organización de la idea de investigación, \ncomenzando por la observación inicial del hecho y de los conocimientos ya existentes. \n \n▪ Pregunta científica: corresponde a la pregunta central de la investigación. En ella es posible \n\nencontrar las variables implicadas en el fenómeno observado. Esta pregunta se formula durante \nel proceso del planteamiento y definición del problema, para luego dar paso a la hipótesis. \n \n\nAplicación: \n\n \nA partir de las observaciones del fenómeno ocurrido en las placas de cultivo se puede \nproponer una pregunta de investigación acorde a lo o",
+      "cantidad_caracteres": 1750,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 29.328125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\nAplicación: \n\n \nUna vez planteada la pregunta investigación a partir de las observaciones del fenómeno se \npuede plantar una hipótesis que intente dar una respuesta a dicha pregunta. \nHipótesis: El medicamento X reduce el crecimiento de colonias bacterianas de manera \ndependiente de la concentración, es decir, a mayor concentración, mayor será la inhibición \ndel crecimiento bacteriano. \n\n \n \n \nIV. Objetivo de investigación:  \n\nIndica qué es lo que se va a determinar o medir, cómo se va a determinar o medir \nexperimentalmente y cuál es el propósito del procedimiento. Resume la idea central y finalidad de \nla investigación. \n \nLos objetivos se refieren también al tipo de conocimientos o fin que se desean alcanzar, y se debe \ntener cuidado en su formulación. El objetivo bien construido logra transmitir en pocas palabras la \nintención del investigador responsable del proyecto, para ello se elaboran enunciados que excluyen",
+      "cantidad_caracteres": 2763,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\n \n \nEjemplos de verbos para construir un objetivo de investigación: \n\nTipo de investigación \nCuantitativa \nCualitativa \nTecnológica \nDescriptiva \nExplicativa \nExploratoria \nAnalizar \nCalcular \nIdentificar \n\nComprobar \n\nConocer \nDetectar \n\nInterpretar \nComprender \n\nDesarrollar \n\nDiseñar \nAdaptar \nConstruir \nTransformar \n \n\nDemostrar \nDeterminar \n\nIndagar \nSondear \n\nIndagar \nDescribir \n\nExaminar \n\nEstablecer \nRelacionar \n\nMedir \n\nDefinir \n\nExplorar \n\nAplicación: \n\n \nPosteriormente a la redacción de la hipótesis y de la elección del tipo de investigación que \nse desea realizar, es necesario redactar un objetivo experimental. \nObjetivo: Determinar el efecto inhibidor del medicamento experimental X sobre el \ncrecimiento de colonias bacterianas y establecer si este efecto depende de la concentración \naplicada. \n\n \n \nV. Experimentación \nSe dice del diseño intencionado de un procedimiento que busca manipular las variables que",
+      "cantidad_caracteres": 2200,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\nMicroscopio \nPermite observar organismos, células y estructuras no visibles a simple \nvista. \nPotenciómetro \nMide la acidez o alcalinidad de una solución. \n\nPlacas de Petri \nCultiva microorganismos, tejidos o células en un medio de cultivo. \n\n \n\nAplicación: \n\n \nCon el objetivo de investigación claro se puede diseñar un experimento que incluya \nlos materiales y el procedimiento adecuado. \nMateriales:  \n\n• \nPlacas de cultivo con agar y colonias bacterianas de una cepa específica. \n• \nMedicamento experimental X en solución. \n• \nSolución salina estéril o agua destilada para diluciones. \n• \nPipetas y puntas estériles. \n• \nPlacas de Petri. \n• \nIncubadora ajustada a la temperatura óptima de crecimiento bacteriano. \n• \nRegla o software para medir zonas de inhibición. \n• \nAlcohol 70% y guantes para asepsia. \nProcedimiento:  \n1. Preparación de diluciones del medicamento X: \n\n• \nPreparar una serie de diluciones del medicamento X",
+      "cantidad_caracteres": 1837,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\nAplicación: \n\n \nVariables en estudio: \n\n1. Variable independiente: \n\n• \nLa concentración del medicamento X. \n2. Variable dependiente: \n\n• \nEl crecimiento de colonias bacterianas, medido por el número de colonias \nvisibles o el tamaño de la zona de inhibición. \n3. Variables controladas: \n\n• \nCepa bacteriana utilizada. \n• \nTiempo de incubación. \n• \nTemperatura y condiciones de incubación. \n• \nVolumen de solución aplicada en cada sección. \n\n \n\n \n\n \nLa culminación del proceso experimental consiste en la recolección de datos, que llamaremos \nresultados experimentales. \n \n\nAplicación: \n\n \nSe registran las observaciones durante el experimento en términos de número de \ncolonias bacterianas observadas frente a las distintas concentraciones de X que se \naplicaron a las muestras. \nEstos datos se pueden ordenar en una tabla de datos: \n\n \n\nConcentración de \n\nNúmero de \n\nZona de inhibición \n\nObservaciones \n\nX (mg/mL) \n\ncolonias \nob",
+      "cantidad_caracteres": 1231,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\n              \n   Conceptos de exactitud y precisión: \n \nCorresponden a cualidades de métodos o instrumentos empleados en ciencia. La precisión es \nla capacidad de un instrumento de dar el mismo resultado en diferentes mediciones llevadas a \ncabo bajo las mismas condiciones. Es una cualidad que debe ser evaluada en el corto plazo, \nde tal manera de seleccionar el mejor instrumento para cumplir con nuestros objetivos. Por \notro lado, la exactitud es la capacidad de un instrumento de dar el resultado real de una medición, \nes decir, qué tan cerca está la medición del valor real. \nLa exactitud se relaciona con la proximidad de los resultados de las mediciones realizadas con \nrespecto al valor verdadero. La precisión se relaciona con repetibilidad o reproductibilidad de \n\n \n \nVI. Análisis de resultados  \nEs el proceso sistemático y objetivo de examinar y evaluar los datos recopilados durante una \ninvestigación. Este análi",
+      "cantidad_caracteres": 2119,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 133.763671875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 3.0283203125
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.283203125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\nRelación entre variables \n\nSe entiende que la relación entre variables conlleva que si una \nde estas cambia (variable independiente), por consecuencia, la \notra (variable dependiente) también lo hará. Esta relación puede \nser directamente proporcional, inversamente proporcional, con \ncorrelación positiva, correlación negativa o nula. \n\nEs posible modelar este tipo de relaciones de manera gráfica: \n\nInversamente proporcional \n\nDirectamente proporcional \n\nEs posible modelarla a través de una \nfunción racional, este tipo de relación es \nposible reconocerla ya que, al subir o \naumentar una de las variables, la otra \ndisminuye y viceversa.  \n \n\nEs posible modelarla a través de una función \nlineal, este tipo de relación es posible \nreconocerla ya que, al subir o aumentar una \nde las variables, la otra también lo hará. \n\ny = kx \n \nDonde k es una constante que presenta la \npendiente del gráfico, la que se obtiene \nconsiderand",
+      "cantidad_caracteres": 1842,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 2.552734375
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.8466796875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 5.7001953125
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 57.4287109375
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 1.2626953125
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 43.083984375
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 1.25390625
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 1.2568359375
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.3359375
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 1.5087890625
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.6044921875
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 10.2666015625
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.326171875
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\n \n\nTabla de datos \nGráfico\n\n \n\n \n \n\nEn el contexto de una investigación científica, comunicar resultados de manera clara y \ncomprensible es fundamental. Para ello, se utilizan diversas formas de representación gráfica, \ncada una con características y utilidades específicas. A continuación, se describen algunas de \nlas principales formas de representación, junto con ejemplos prácticos para cada una: \n\nTablas \n\nCaracterísticas: \n\nUtilidad: \n\n•\nOrganiza datos en filas y columnas. \n•\nPermite \nmostrar \nuna \ngran \ncantidad \nde \ninformación de forma estructurada. \n•\nIdeal para resúmenes numéricos o categóricos. \n\n•\nFacilitar la comparación directa \nde valores. \n•\nOrdenar los datos obtenidos. \n \n\nEjemplo: Un estudiante desea comprobar la relación entre el estiramiento de un resorte y \nla fuerza elástica de un resorte según la Ley de Hooke, para ello mide el estiramiento del \nresorte a medida que se aumenta gradualmente la mas",
+      "cantidad_caracteres": 1029,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 36.2578125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 47.01171875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.2783203125
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.2578125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 1.0380859375
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 44.8974609375
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.994140625
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.2314453125
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.8828125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\n \n\nGráfico de dispersión \n\n \n\nCaracterísticas: \n\nUtilidad: \n\n \n\n•\nMuestra puntos que representan la relación \nentre dos variables. \n•\nCada eje representa una variable continua. \n\n•\nAnalizar correlaciones o patrones \nen conjuntos de datos. \n\n \n\n \n\n \n\nEjemplo: En el estudio de la absorción intestinal de \nnutrientes, se puede medir el contenido calórico de \nlas heces en función de la actividad enzimática de las \nmicrovellosidades intestinales, para dos condiciones \nalimentarias diferentes, cuyos resultados pueden \npresentarse en un gráfico de dispersión como el de la \nsiguiente figura: \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nGráfico de línea \n\n \n\nCaracterísticas: \n\nUtilidad: \n\n \n\n•\nConecta puntos con líneas para mostrar cambios \ncontinuos en una variable. \n•\nUtiliza ejes X e Y, con X representando a la \nvariable independiente. \n\n•\nVisualizar tendencias y cambios a \nlo largo del tiempo. \n\n \n\n \n\n \n\n \n\nEjemplo: La solubilidad representa la ",
+      "cantidad_caracteres": 1301,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 1.759765625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 38.0390625
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.8740234375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.2685546875
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.623046875
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 2.0703125
+        },
+        {
+          "index": 6,
+          "tipo": 3,
+          "tamanio_kb": 68.0146484375
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.994140625
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.8203125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\n \n \n \n\nGráfico de barras \n\nCaracterísticas: \n\nUtilidad: \n\n•\nUsa barras verticales u horizontales para comparar \ncategorías. \n•\nLa altura o longitud de la barra indica la magnitud. \n \n\n•\nComparar datos categóricos o \ndiscretos. \n\nEjemplo: Se han realizado estudios que \nbuscaron establecer la relación entre \nciertos hábitos, como el de fumar, \nsobre la fertilidad masculina. En este \ncontexto de investigación, se puede \nmedir la concentración espermática de \ntres grupos de hombres (G1: no \nfumador, G2: fumador poco habitual, \nG3: \nfumador \nfrecuente), \ncuyos \nresultados se pueden representar en \nun gráfico de barras: \n\nGráfico de datos segmentados \n\nCaracterísticas: \n\nUtilidad: \n\n•\nRepresenta proporciones de varias categorías en \nun gráfico rectangular. \n•\nLa altura y el ancho de las áreas representan \ncantidades relativas. \n\n•\nÚtil \npara \nmostrar \nproporciones \ncomplejas \nentre categorías. \n\n \nEjemplo: Se ha observado q",
+      "cantidad_caracteres": 1322,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 2.1904296875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 1.0947265625
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.2890625
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.841796875
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 9.4326171875
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 1.8798828125
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 1.0595703125
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.255859375
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.8427734375
+        },
+        {
+          "index": 9,
+          "tipo": 3,
+          "tamanio_kb": 12.3212890625
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\n \n \n \n\nGráfico circular o de torta \n\nCaracterísticas: \n\nUtilidad: \n\n•\nRepresenta \nproporciones \nde \nun \ntotal \nusando \nsegmentos de un círculo. \n•\nCada segmento del gráfico circular tiene un tamaño \nproporcional a su porcentaje dentro del conjunto total. \n\n•\nVisualizar la relación entre \nlas partes y el todo de una \nserie de datos. \n\n \nEjemplo: La calcopirita es un mineral formado por cobre \n(Cu), hierro (Fe) y azufre (S) utilizado en la industria para \nobtener cobre. Su fórmula química es CuFeS2. La \ncomposición de este mineral en porcentaje en masa \npuede ser representada en un gráfico circular como el \nde la siguiente figura: \n\nGráfico de barras contrastables \n\nCaracterísticas: \n\nUtilidad: \n\n•\nPermite comparar dos o más conjuntos de datos \nen categorías similares. \n•\nSe utilizan barras agrupadas o apiladas. \n\n•\nVisualizar la relación entre las \npartes y el todo de una serie \nde datos. \n\nEjemplo:  En el estudio de l",
+      "cantidad_caracteres": 1305,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 1.9111328125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 1.3564453125
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.2890625
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.841796875
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 15.23828125
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 1.1376953125
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.8388671875
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.3115234375
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.7314453125
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 137.96484375
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\n           Concepto de replicabilidad \n \nEn el contexto de una investigación científica, la replicabilidad hace referencia a la \ncapacidad de repetir un mismo experimento bajo las mismas condiciones, y así obtener los \nmismos resultados. Es fundamental en la aplicación del método científico, así como un \naspecto fundamental en la realización de una investigación. La replicabilidad permite la \nposibilidad de que otros equipos de científicos, con los mismos recursos y utilizando las \nmismas técnicas y metodologías, logren llegar a las mismas conclusiones. \n\n \nVII. Conclusiones \nSon argumentos y afirmaciones relativas a datos de mediciones experimentales y de la lógica (reglas \ny procedimientos para discernir si un razonamiento es correcto -válido- o incorrecto -inválido-). Se \nobtienen a partir del análisis de resultados. \n \n \n\n         ¿Es lo mismo concluir que inferir?  \n \nLa respuesta es no. Las inferencias se basan ",
+      "cantidad_caracteres": 2023,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 2.248046875
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\nCONCEPTOS NECESARIOS EN CONTEXTO CIENTÍFICO \n\n \n\nEn el ámbito científico, existen conceptos que son fundamentales para explicar fenómenos \nnaturales y formular explicaciones precisas sobre el mundo que nos rodea. Aunque estos \ntérminos a menudo y de forma coloquial se utilizan de manera intercambiable, cada uno tiene \nun significado y una función específica dentro del proceso científico. A continuación, te \npresentamos las diferencias clave entre ellos: \n\n \n\n \n\n \n\n \n\n \n \n\nLEY \n\nPRINCIPIO \n\n \n\n \n\nUn principio es una regla o fundamento \ngeneral que orienta las leyes y teorías en \nla ciencia. Puede ser más amplio que una \nley y puede tener menos especificidad \nmatemática, ya que no se limita a ciertas \ncondiciones. Siendo una afirmación \nfundamental, al igual que las leyes \ncuentan con evidencias de carácter \ndirecto o primario. \n\nUna ley es una descripción precisa y \ngeneral de un fenómeno que ocurre \nde manera consiste",
+      "cantidad_caracteres": 2063,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 1.435546875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 1.5537109375
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1943359375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 1.6142578125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.2529296875
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 1.876953125
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.1962890625
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.291015625
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 2.31640625
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.1953125
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.228515625
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 1.85546875
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.1962890625
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.208984375
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\nConcepto \nDefinición \nPropósito \nEvidencias \nCaracterísticas \n\nPrincipio \nFundamento general que guía \n\nOrientar las \nleyes y teorías. \n\nGeneralmente directas, \n\nSuele ser más amplio que una ley, pero \n\nel estudio de fenómenos. \n\nreplicables \n\nmenos específico. \n\nEjemplo: principio de conservación de la energía, principio de incertidumbre. \n\nLey \nDescripción de un fenómeno \n\nExplicar qué \n\nocurre. \nDirectas, replicables \nSe expresa generalmente de forma \nmatemática y no explica por qué ocurre. \n\nobservado. \n\nEjemplo: Ley de conservación de la masa, leyes de newton, ley de Mendel. \n\nTeoría \nExplicación de un conjunto de \n\nExplicar por qué \n\nIndirectas, difícil de \nreplicas o no replicables \n\nSe basa en evidencias científicas. Se \n\nfenómenos observados. \n\nocurre. \n\npuede modificar. \n\nEjemplo: Teoría evolutiva, teoría celular, teoría cinética de los gases, teoría de la deriva continental. \n\nSabias que….  \n¿En qué se dife",
+      "cantidad_caracteres": 1865,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 1.759765625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.3271484375
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.5185546875
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 1.7841796875
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \nVIII. Comunicación o socialización \nImplica la presentación y difusión de los resultados de una investigación por medio de \ncomunicaciones orales, pósteres, conferencias, publicaciones, etc. La secuencia que lleva a la \npresentación de resultados de forma oral se puede dividir en elaboración del resumen, construcción \ndel material gráfico, presentación y defensa de los resultados.  \n \n \n \n\n \n \nPara poder hacer la socialización de los resultados a toda la comunidad se utilizan las herramientas \nvistas en el apartado de análisis de resultados, como gráficos y tablas de datos. \n \n\nAplicación: \n\n \nEste tipo de experiencias realizadas en un laboratorio se pueden comunicar mediante un \ninforme científico, que incluye: introducción con hipótesis y objetivos, materiales y métodos, \nresultados con tablas y/o gráficos, discusiones, conclusiones y sugerencias para futuros \nexperimentos. \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \nXVII",
+      "cantidad_caracteres": 1002,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 258.3388671875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 121.0322265625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 57.1015625
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nACTIVIDADES \n \nA continuación, se presenta un set de preguntas correspondientes a ejemplos de preguntas PAES \npublicadas por el DEMRE, donde se aplican algunas de las habilidades científicas para su resolución.  \n \nPregunta 1 \nÁrea temática: Organismo y ambiente \nConocimiento de la ciencia: Ecosistemas \nHabilidad científica: Procesar y analizar la evidencia, PAE \nCriterio de evaluación: Identificar conclusiones o inferencias a partir de los resultados en contextos \ncientíficos. \n \nEl gráfico representa la relación entre la productividad primaria neta y la temperatura ambiente en \nel crecimiento de un bosque joven.  \n \n\n \n \nDe acuerdo con la información, ¿cuál de las siguientes opciones es una inferencia correcta?  \n \nA) A temperaturas inferiores a los 0 °C, la vegetación estudiada gasta más energía en su \n\nmetabolismo, por lo que no hay productividad primaria neta.  \nB) A temperaturas superiores a los 40 °C, la vegetació",
+      "cantidad_caracteres": 1905,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 11.5595703125
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nsitúan como el primer eslabón de las cadenas alimentarias, a partir de las cuales la energía fluye \nhacia los productores. Factores ambientales como la temperatura pueden influir sobre el \nrendimiento fotosintético, e indirectamente sobre la productividad primaria neta de los productores \nque forman parte de los ecosistemas de los cuales forman parte. \n \nEn este contexto, al analizar el gráfico, es posible observar que la PPN varía de forma diferente en \ntres tramos de temperatura. En el tramo entre los -10 °C y 0 °C la variación es prácticamente nula, \nmientras entre los 0 °C y aproximadamente los 40 °C la PPN se incrementa con la temperatura. A \ntemperaturas superiores a 40 °C la PPN decae. Estos cambios pueden ser explicados en función de \ncómo afecta la temperatura al rendimiento fotosintético. Por ejemplo, en el tramo de temperatura \nmás bajo, la variación es mínima y con bajos valores de PPN, probablemente debido a",
+      "cantidad_caracteres": 3420,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nDefensa \nPara responder esta pregunta, es esencial comprender las características de los componentes de \nuna investigación científica, especialmente el concepto de hipótesis y cómo se formula. Además, es \ncrucial identificar correctamente las variables derivadas del procedimiento experimental propuesto \npor el grupo de estudiantes. \n \nUna hipótesis es una posible respuesta a una pregunta de investigación basada en hechos reales \nque explica la relación entre la variable independiente y la variable dependiente de manera clara y \nespecífica. Debe ser simple y establecida previamente al estudio. La hipótesis guía el estudio y debe \nser sometida a prueba para ser aceptada o rechazada. \n \nEn el diseño experimental, se consideran tres tipos de variables: independiente (el factor que se \ncontrasta), dependiente (el factor que se mide) y controlada (el factor que se mantiene constante \npor decisión de los investigadores). \n \nCon",
+      "cantidad_caracteres": 2344,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nPregunta 3 \nÁrea temática: Reacciones químicas y estequiometría. \nConocimiento de la ciencia: Características de las soluciones químicas en cuanto a sus \ncomponentes y propiedades. \nHabilidad científica: Evaluar \nCriterio de evaluación: Evaluar la coherencia o pertinencia entre las explicaciones, teorías, leyes, \nmarcos conceptuales, modelos, preguntas, problemas, predicciones, hipótesis, variables, diseños, \nprocedimientos, inferencias, evidencias y conclusiones en contextos científicos. \n \nUna estudiante de segundo año medio lee en Internet que, al mezclar sal de mesa con agua, esta \nconduce la corriente eléctrica. Para comprobarlo, la estudiante determinó la conductividad eléctrica \nde soluciones de distinta concentración. Los datos los presentó en la siguiente tabla: \n \n\nNúmero de \nmediciones \nMasa de sal de mesa (g) \nConductividad eléctrica promedio \n\n(μS cm-1) \n6 \n0,049 \n100 \n6 \n0,490 \n1000 \n6 \n5,370 \n10000 \n6 \n10,",
+      "cantidad_caracteres": 3025,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \nEl enunciado dice que se mide la conductividad eléctrica de soluciones de distinta concentración, \npero la tabla solo nos indica la cantidad de soluto en la solución y se desconoce la de solvente, por \nlo tanto, no puedo determinar la concentración para cada cantidad de sal mostrada. \n \nSegún lo establecido y respecto a los señalado en la tabla, el cuestionamiento valido para el \nexperimento realizado por el estudiante corresponde a la opción C) \n \n¿Qué se necesita saber y saber hacer para responder correctamente esta pregunta? \nDebes saber analizar críticamente información científica en un contexto científico, tal como el \nexperimento realizado por el estudiante y así contrastarla con los conocimientos previos. Para ello, \nnecesitas saber relacionar y seleccionar datos cuantitativos o cualitativos de manera correcta. En \nparticular, en esta pregunta necesitas evaluar datos cuantitativos o cualitativos considerando la ",
+      "cantidad_caracteres": 1169,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "texto": "PRESENTACIÓN \n\nLa Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) \nconsidera que la enseñanza de la Biología es esencial para formar ciudadanos que puedan enfrentar \nlos desafíos globales del siglo XXI. La Biología no sólo fomenta la comprensión de los sistemas \nvivos, sino que también promueve habilidades críticas como el pensamiento científico, la resolución \nde problemas complejos y la toma de decisiones informadas. Además, juega un papel clave en la \npromoción de la sostenibilidad, permitiendo que los estudiantes comprendan la interconexión \nentre los ecosistemas, la biodiversidad y el bienestar humano. En este sentido, la educación \nbiológica se convierte en una herramienta fundamental para abordar problemas globales como el \ncambio climático, la seguridad alimentaria y la salud, formando una ciudadanía más consciente y \ncomprometida con la construcción de un futuro sostenible. \n\nEn Chile, el Departamento de Evaluación, Medición y Registro E",
+      "cantidad_caracteres": 2824,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nÍndice \n\nÁrea temática: Organización estructura y actividad celular ............................................................................. 1 \n\nCapítulo 1: La célula ................................................................................................................................................. 1 \n\nObjetivos de aprendizaje: ............................................................................................................................ 1 \n\n1.1.  Célula procarionte ................................................................................................................................ 1 \n\n1.2. Célula eucarionte animal ...................................................................................................................... 2 \n\n1.3. Célula eucarionte vegetal ...................................................................................................................",
+      "cantidad_caracteres": 4748,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n1.11. Meiosis ............................................................................................................................................... 30 \n\n1.11.1. Meiosis I o Reduccional ........................................................................................................... 31 \n\n1.11.2. Meiosis II (Meiosis ecuacional) .............................................................................................. 33 \n\n1.11.3. Comparación entre el proceso de mitosis y meiosis ......................................................... 34 \n\nEjercicios de selección única ................................................................................................................ 36 \n\nCapítulo 2: Biotecnología ...................................................................................................................................... 39 \n\nObjetivos de aprendizaje: .........................",
+      "cantidad_caracteres": 3433,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nÁrea temática: Organización estructura y \nactividad celular \n\nCapítulo 1: La célula \n\nObjetivos de aprendizaje: \n\n• \nReconocer y analizar la estructura y función de los principales organelos y estructuras \ncelulares en células procariontes y eucariontes (animales y vegetales). \n• \nIdentificar y describir las características estructurales distintivas de células como el \nenterocito, la célula muscular esquelética, la neurona y las células secretoras pancreáticas, \nestableciendo cómo estas adaptaciones estructurales permiten que cada tipo celular \ncumpla eficientemente con su función específica en el organismo. \n \n\nEntre todos los seres vivos se pueden reconocer dos tipos de células: procariontes y eucariontes, \nlos cuales se diferencian en el nivel de compartimentalización (organización de espacios) que existe \nal interior de ellas. \n\n1.1.  Célula procarionte \n\nLos procariontes presentan formas variables y \nreciben diferen",
+      "cantidad_caracteres": 1431,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 335.0556640625
+        }
+      ]
+    },
+    {
+      "numero": 29,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nLas células procariontes o procariotas (del latín: pro = antes; y del griego: karyon = núcleo) \nno poseen organelos formados por membranas, y cuentan con un único cromosoma (ADN) \nque se encuentra disperso en el citosol. Este tipo celular constituye organismos unicelulares, \ncomo las bacterias, y se reproducen por fisión, como se representa en el siguiente esquema: \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n1.2. Célula eucarionte animal \nLa célula animal es una célula eucarionte que contiene organelos celulares membranosos y no \nmembranosos que la definen y diferencian de otras clases de células.   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 2 \n",
+      "cantidad_caracteres": 719,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 293.9912109375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 146.927734375
+        }
+      ]
+    },
+    {
+      "numero": 30,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n1.3. Célula eucarionte vegetal \nLa célula vegetal también es una célula eucarionte y \nposee casi todos los organelos que tiene una célula \nanimal. Sin embargo, existen diferencias entre las \ncélulas vegetales y las animales, como la ausencia de \nlos centríolos y la presencia de algunos organelos \nexclusivos de este tipo de células, como son la pared \ncelular, \nuna \ngran \nvacuola \ny \nlos \nplastidios \n(cloroplastos). \n \n \n \n \n \n \n\n1.4. Estructuras de una célula animal y vegetal \nMembrana plasmática: Estructura que rodea a la célula y la separa del medio externo. Permite el \nintercambio de materiales y energía con el entorno. Es selectiva, por ello impide el paso de algunas \nmoléculas y permite el de otras, garantizando la integridad y la estabilidad del medio celular inter- \nno. Está compuesta de fosfolípidos y proteínas que participan en el transporte de sustancias. \n \nCitoplasma: Líquido viscoso al interior de la célula,",
+      "cantidad_caracteres": 2261,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.8759765625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 56.6943359375
+        }
+      ]
+    },
+    {
+      "numero": 31,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nRetículo endoplasmático liso (REL): Tiene la misma estructura del RER, pero carece de ribosomas. \nEn el se sintetizan los lípidos que forman parte de las membranas celulares y, en algunas células, \nadquiere funciones más específicas, como la síntesis de hormonas esteroidales. La mayoría de las \ncélulas tienen REL, pero este es más abundante, por ejemplo, en las células del hígado, que tienen \nla función de neutralizar determinadas sustancias tóxicas, como alcoholes, pesticidas y drogas, \ninactivándolas y facilitando su eliminación. El REL especializado de la célula muscular recibe el \nnombre de Retículo Sarcoplasmático, el cual almacena calcio. \n \nAparato de Golgi: Está formado por un conjunto de bolsas membranosas planas llamados sacos, \nlos cuales se encuentran apilados unos sobre otros. Se ubica después de los retículos. En este \norganelo, algunas proteínas y lípidos producidos en los retículos son modificados y luego",
+      "cantidad_caracteres": 1512,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 744.193359375
+        }
+      ]
+    },
+    {
+      "numero": 32,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nLisosomas: Son vesículas membranosas que contienen enzimas digestivas. \n \nFunción de los lisosomas \n \n\n• Digestión de   materiales   que   ingresan por \nendocitosis. \n• Realizan la autofagia celular digiriendo las \nmembranas celulares excedentes y aquellos \norganelos viejos o defectuosos, generando \nla renovación celular. \n• Digestión \nde \nmateriales \nextracelulares \nmediante liberación de enzimas al medio \ncircundante (caso del osteoclasto, en el \ntejido óseo). \n• En los anfibios, realizan la autofagia del \ncitoplasma de las células (autolisis) de la cola \ndel renacuajo, para que éste se transforme \nen un adulto. \n \n \n \n \n \n \nPeroxisomas: Pequeñas vesículas membranosas que se originan a partir del REL. En estas vesículas, \ndeterminadas enzimas degradan las sustancias tóxicas derivadas del metabolismo celular, como por \nejemplo el peróxido de hidrógeno (H2O2), tóxico para la célula. También, los peroxisomas oxidan \nlos á",
+      "cantidad_caracteres": 1901,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 68.2763671875
+        },
+        {
+          "index": 1,
+          "tipo": 1,
+          "tamanio_kb": 202.0224609375
+        }
+      ]
+    },
+    {
+      "numero": 33,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nCitoesqueleto: El citoesqueleto está presente en todas las células eucariontes. Está formado por \nproteínas que unen los filamentos del citoesqueleto entre sí y con las membranas de la célula. Esta \nestructura mantiene la forma de la célula, le da resistencia mecánica, participa en el movimiento \ncelular, sostiene y mueve los organelos y participa también en la división celular. El citoesqueleto \nde la neurona recibe el nombre de Neurofibrillas. \n\nEstos filamentos son de tres tipos: microtúbulos, microfilamentos y filamentos intermedios. \n\nA) Microtúbulos \n\nEstructuras huecas formadas por una proteína llamada tubulina. Estas estructuras pueden \naumentar o disminuir su longitud y cambian de posición en el citoplasma, lo que permite modificar \nla forma de la célula y redistribuir los organelos. \n\nB) Microfilamentos \n\nEstán compuestos de macromoléculas de actina, proteína intracelular más abundante en los \norganismos eucari",
+      "cantidad_caracteres": 1860,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 116.3369140625
+        }
+      ]
+    },
+    {
+      "numero": 34,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nLas células pueden presentar 3 tipos de apéndices motores: \n\n \n\n• Cilios: Prolongaciones cortas y numerosas, constituidas por \nmicrotúbulos. Presentes en algunas membranas mucosas y en \nprotozoos como el paramecio. \n\n \n\n \n\n• Flagelo: Prolongación de mayor longitud, única o par, en forma de \nlátigo. Se observa en bacterias, protozoos y en el espermatozoide. \n\n \n\n \n\n• Pseudópodos: Prolongaciones del cuerpo celular, que se expanden y \ncontraen. Constituidas por las proteínas miosina y actina. Se \nencuentran en los glóbulos blancos y en protozoos como las amebas. \n \n \n \n \n \n\n1.5. Célula eucarionte vegetal \nLa célula vegetal también es una célula eucarionte y posee casi todas las estructuras exclusivas que \ntiene una célula animal. Sin embargo, existen diferencias entre las células vegetales y las animales, \ncomo la ausencia de los centríolos y la presencia de algunos organelos exclusivos de este tipo de \ncélulas, como son la",
+      "cantidad_caracteres": 1419,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 46.9267578125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 43.6748046875
+        }
+      ]
+    },
+    {
+      "numero": 35,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nVacuola central \nEstructura delimitada por una membrana. Contiene una \nsolución compuesta por iones, azúcares, aminoácidos y, \nen algunos casos, proteínas. En células vegetales son de \ngran tamaño. Además, posee enzimas digestivas que \ndesempeñan una función similar a la de los lisosomas en \nlas células animales. Su presencia, combinada con la \npared celular, genera las condiciones de turgencia que \nhacen posible que las plantas permanezcan erguidas. \n\n \n\n \n\n \n\nPared celular \nEstructura \nexterna \nde \nlas \ncélulas \nvegetales, \nestá \nconstituida \nprincipalmente \npor \ncelulosa, \npolisacáridos y proteínas. La principal \nfunción de la pared celular en vegetales \nes dar rigidez y mantener la turgencia de \nlas plantas evitando la ruptura de la \ncélula. También permiten el contacto \nentre citoplasmas de diferentes células \nvegetales. \n\n \n\n1.6. Los virus \n\n \nSon parásitos intracelulares obligados y para actuar como un ser vivo ut",
+      "cantidad_caracteres": 1956,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 94.076171875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 313.89453125
+        }
+      ]
+    },
+    {
+      "numero": 36,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nSon considerados como “organismos al límite de la vida” ya que no poseen estructura celular, es \ndecir, son estructuras que corresponden al límite entre la “materia viva” y la “materia inerte”. \n\nLa ausencia de metabolismo es una de las principales características que le impide a los virus crecer, \ndesarrollarse y reproducirse de manera autónoma. \n\nEstructura de un virus \n\n \n \n \n \n \n \n \n \n \n \n \n \nCiclo de un virus \n\nCiclo reproductivo para el virus bacteriano denominado bacteriófago lambda (fago lambda (λ)). Este \nse utiliza como modelo general para ejemplificar el mecanismo de infección de los virus. \n\n \n\n \n \n\n 9 \n",
+      "cantidad_caracteres": 689,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 138.58984375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 345.1083984375
+        }
+      ]
+    },
+    {
+      "numero": 37,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n1.7. Características de algunos tipos celulares \n\n \n\nLos organismos pluricelulares como los seres humanos presentan una gran diversidad de células. \nAunque todas estas comparten características básicas, como la presencia de membrana plasmática \ny material genético, su forma y organización varían notablemente según la función que \ndesempeñan en el organismo. Esta especialización estructural permite a las células llevar a cabo \ntareas específicas que son fundamentales para el funcionamiento del cuerpo y la mantención de la \nhomeostasis. \n\n \n\nCélulas del epitelio intestinal: Enterocitos \n\nCorresponden a células epiteliales del intestino, encargadas de funciones como la absorción de \nnutrientes, de agua y electrolitos al interior del organismo, y la secreción de proteínas hacia la \ncavidad o luz intestinal.  Anatómicamente, presentan microvellosidades las que aumentan el área \nde absorción de nutrientes. \n\nDentro de sus func",
+      "cantidad_caracteres": 1926,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 48.689453125
+        }
+      ]
+    },
+    {
+      "numero": 38,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nCélula muscular esquelética: miocito \n\nLos miocitos que conforman el tejido muscular esquelético son los responsables del movimiento \nde tipo voluntario. Estas células están asociadas íntimamente a los huesos mediante los tendones. \nEste tipo de células son en realidad sincitios, es decir, citoplasma rodeado por membrana que \nincluye varios núcleos, algo así como “células fusionadas”. \n\nSuelen ser muy alargadas y se caracterizan por poseer un citoesqueleto muy desarrollado que \npermite el acortamiento de la fibra muscular, lo cual provoca directamente la contracción muscular \nresponsable del movimiento. \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nComo ya se mencionó, presentan un citoesqueleto muy desarrollado, principalmente formado por \nfilamentos de actina y de miosina. Estas se asocian en haces denominados miofibrillas, las cuales \nestán rodeadas por membranas del retículo endoplasmático liso, denominado específicamente \nc",
+      "cantidad_caracteres": 1902,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 93.302734375
+        }
+      ]
+    },
+    {
+      "numero": 39,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nCélula nerviosa: neurocito o neurona \n\nLa neurona es el principal componente del sistema nervioso. Se caracteriza por poseer un núcleo y \nuna o más prolongaciones, una de ellas denominada axón. Debido a su alto grado de especialización \nse encuentran fuera del ciclo celular (G0), por ende, no se reproducen por mitosis como sí lo hacen \notros tipos de tejidos. Su principal función se centra en la conducción y propagación del impulso \nnervioso, una señal de naturaleza electroquímica que puede comunicarse de una neurona a otras \ncélulas, como neuronas, músculos y glándulas, mediante el contacto estrecho entre ambas células \nconocidas como sinapsis. \n\n \n \n\n \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nEsta comunicación es posible gracias a los neurotransmisores, sustancias químicas de naturaleza \nproteica y aminoacídica producidos por las neuronas, específicamente en los corpúsculos de Nissl, \nlos cuales corresponden a retículo endopla",
+      "cantidad_caracteres": 1212,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 69.1650390625
+        }
+      ]
+    },
+    {
+      "numero": 40,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nCélulas secretoras pancreáticas: pancreocito \n\nEl páncreas es un órgano con función glandular mixta: función exocrina y función endocrina. \n \n\nFunción exocrina \n\nLa porción exocrina comprende células que están \nespecializadas en la síntesis y secreción del compo- \nnente acuoso (una disolución de bicarbonato) y \nproteico (enzimas digestivas), función que depende \nde las células acinares. Debido a esta función en este \ntipo de células se observa un alto desarrollo de RER \ny Aparato de Golgi. \n\nFunción endocrina \n\nLa \nporción \nendocrina \ncomprende \ncélulas \nespecializadas en hormonas de tipo proteicas como \nla \ninsulina \ny \nel \nglucagón, \nlas \ncuales \nson \nfundamentales para la homeostasis de la glicemia. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n13 \n",
+      "cantidad_caracteres": 831,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 150.595703125
+        }
+      ]
+    },
+    {
+      "numero": 41,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nEjercicios de selección única \nSeleccione la alternativa correcta para cada pregunta. \n\n1. Durante la década de los 80 nació una nueva corriente de estudio llamada medicina física, que, \n\nentre sus múltiples áreas de desarrollo, proponía la hipótesis de que algunas lesiones como \nheridas, fracturas o quemaduras podían mejorar sus índices de rehabilitación y recuperación \nmediante la irradiación de los tejidos con láser infrarrojo de baja frecuencia. \n\nCon el objetivo de poner a prueba dicha hipótesis, \nun grupo de científicos desarrolla un estudio \nexperimental donde se sometió a 24 ratas hembra \ndivididas en cuatro grupos (A, B, C y D), de acuerdo \ncon la siguiente tabla: \n\nGrupo A \nControl (sin luz infrarroja) \n\nGrupo B \n4 J/cm2 \nGrupo C \n8 J/cm2 \nGrupo D \n16 J/cm2 \n\nLa estimulación infrarroja se realizó diariamente, por 15 días ininterrumpidos. Posteriormente, \nse extrajeron muestras de tejido hepático de los grupos e",
+      "cantidad_caracteres": 1634,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 183.0859375
+        }
+      ]
+    },
+    {
+      "numero": 42,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n2. Múltiples estudios han demostrado los efectos positivos del consumo de creatina en el \n\ndesempeño muscular de deportistas desde amateurs hasta los de alto rendimiento. El \nprincipal beneficio tiene que ver con que la creatina es un compuesto nitrogenado que se \ncombina con fosfato, dando origen a fosfocreatina. Este compuesto es de vital importancia en \nel metabolismo energético durante la contracción muscular y la recuperación post \nentrenamiento ya que participa en la reposición de ATP a partir de ADP mediado por la enzima \ncreatinquinasa. Este aumento de la síntesis de ATP se produce por un incremento de la \nactividad mitocondrial a nivel del musculo esquelético y que, al ser combinado con \nentrenamiento aeróbico, produce adaptaciones celulares que aumentan el número y tamaño \nde estos organelos. \n¿Cuál de las siguientes opciones expresa correctamente los efectos del consumo de creatina \nen deportistas? \n\n \n\n \n\n \n\n",
+      "cantidad_caracteres": 1018,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 245.0634765625
+        }
+      ]
+    },
+    {
+      "numero": 43,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n3. Investigadores están estudiando la función del retículo endoplasmático liso (REL) en células \n\nhepáticas de ratones sometidos a una dieta alta en grasas. En un experimento el equipo de \ninvestigación concluye que hubo un descenso en la función de este organelo en las ratas \ntratadas. \n\nAl respecto, ¿cuál de las siguientes opciones representa un parámetro cuantificable que pudo \nllevar a la conclusión del equipo? \n\nA) Producción de ATP para el metabolismo celular. \nB) Síntesis de proteínas destinadas de secreción. \nC) Transporte de proteínas al aparato de Golgi. \nD) Detoxificación y síntesis de lípidos. \n\n \n \n \n \n4. En un laboratorio, un grupo de estudiantes analiza la estructura celular de plantas que crecen \n\nen suelos salinos. En un experimento observan que las células vegetales tienen vacuolas \ncentrales muy grandes y contienen altas concentraciones de iones. \n\nA partir de estas observaciones, ¿cuál de las siguient",
+      "cantidad_caracteres": 1907,
+      "imagenes": []
+    },
+    {
+      "numero": 44,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nÁrea temática: Herencia y evolución \n\nCapítulo 1: Material genético y reproducción celular \n\nObjetivos de aprendizaje: \n\n• \nComprender y explicar las características generales del ciclo celular (mitosis y meiosis) y \nsu importancia biológica. \n• \nComprender y analizar los diferentes métodos de manipulación genética y su impacto en \ndiversos ámbitos de la vida cotidiana \n \n\n1.1. Núcleo celular \nEl núcleo es el centro de control celular. Está \nlimitado por una membrana doble llamada \ncarioteca o envoltura nuclear, la cual cuenta con \nuna serie de poros. Al conjunto de poros nucleares \nse les llama complejo poro. La membrana es \nsemipermeable, incluso posee un potencial \neléctrico a cada lado. \n\nEn el núcleo se encuentra ADN, ARN, proteínas y \nenzimas que participan en los distintos procesos \nnucleares, como replicación y transcripción. El \nADN que normalmente se encuentra parcialmente \ncondensado en el núcleo se le denomin",
+      "cantidad_caracteres": 1339,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 193.9443359375
+        }
+      ]
+    },
+    {
+      "numero": 45,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n1.2 Compactación del ADN y formación de cromatina \nEl \nADN \nque \nnormalmente \nse \nencuentra parcialmente condensado \nen el núcleo se le denomina \ncromatina (cromosoma simple, es \ndecir, con un solo ADN). \n\nLas macromoléculas de ADN son \nextensas, y aun así se encuentran en \nel interior del núcleo celular. Esto se \ndebe a que están parcialmente \ncondensadas, gracias a la ayuda de \nun grupo de proteínas conocidas \ncomo \nhistonas. \nEstas \nproteínas \npermiten que el ADN se enrolle \nsobre ellas formando una especie de \ncollar de cuentas, cada cuenta se \nconoce como nucleosoma.  \n\nCuando la cromatina se ha duplicado y se condensa da origen a los cromosomas. Las cromátidas se \nencuentran unidas en un sector llamado constricción primaria o centrómero. \n\nA los extremos de cada cromátida se les denomina telómeros. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n18 \n",
+      "cantidad_caracteres": 926,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 158.2099609375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 112.0458984375
+        }
+      ]
+    },
+    {
+      "numero": 46,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n1.3. Cromosomas homólogos \nEs un par de cromosomas iguales en forma, tamaño y \nposición de centrómero. Son los que tienen los \nmismos genes, aunque en distintas versiones, \ndenominadas \nalelos \n(genes \nalelos). \nUn \nlocus \ncorresponde al lugar físico que ocupa un gen, plural \nloci. \n\n \n\n \n\n \n\n \n\n \n\n \n\n1.4. Cariotipo y cariograma \nEl cariotipo es el conjunto de cromosomas característicos de una determinada especie de \norganismos, un cariotipo se diferencia de otro por la forma, número y dimensiones de los \ncromosomas que lo componen. Por otro lado, un cariograma corresponde a la representación \ngráfica de los cromosomas de una célula. \n\nPor ejemplo, la siguiente imagen representa el cariograma de la especie humana, en esta imagen \npuede apreciarse que los cromosomas están ordenados por tamaño y posición del centrómero. El \núltimo par corresponde al par sexual (par 23), el cual es diferente en hombres y en mujeres. \n\n \n\n \n",
+      "cantidad_caracteres": 1031,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 93.0087890625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 263.529296875
+        }
+      ]
+    },
+    {
+      "numero": 47,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n1.5. Cromosomas somáticos y sexuales \nLos cromosomas somáticos o autosómicos corresponden a todos los cromosomas del individuo, \nexcepto los cromosomas sexuales y son iguales en forma y tamaño en hombres y en mujeres. \n\nLos cromosomas sexuales o heterocromosomas corresponden a los cromosomas que determinan \nel sexo del individuo. Se identifican con X e Y. En mujeres los cromosomas sexuales son iguales \nXX y en hombres son diferentes XY. \n\n1.6. Células haploides y diploides \nCélula haploide \n\n• \nPresenta sólo un juego de cromosomas, todos diferentes entre sí. \n• \nNo presenta cromosomas homólogos. \n• \nEl símbolo utilizado para identificar este tipo de célula es “n” (“n” \nsignifica un solo juego de cromosomas). \n• \nEjemplo de célula haploide: Gametos o células sexuales. En el caso \nhumano, los gametos presentan sólo 23 cromosomas. \n\n \n\nCélula diploide \n\n• \nPresenta dos juegos de cromosomas, dispuestos en pares \nhomólogos. \n",
+      "cantidad_caracteres": 1281,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 72.0263671875
+        }
+      ]
+    },
+    {
+      "numero": 48,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n1.7 Ciclo celular \nLas células eucarióticas pasan a través de una secuencia regular, repetitiva de crecimiento y división \ndenominada ciclo celular. El ciclo celular se divide en dos fases principales: interfase y división \ncelular. Esta última a su vez está constituida por la mitosis (fase M) y la citocinesis (división del \ncitoplasma). Antes de que una célula pueda comenzar la mitosis y dividirse efectivamente, la célula \ndebe prepararse. Estos procesos preparatorios ocurren durante la interfase, en la cual se distinguen \ntres etapas: G1, S y G2. \n\nLos detalles del ciclo pueden cambiar de \nacuerdo con el tipo celular, pero ciertas \ncaracterísticas son universales. Primero, \nel ADN debe ser cuidadosamente \nreplicado (copiado) y los cromosomas así \nreplicados deben ser segregados o \nseparados en dos células. \n\nLa mayoría de las células también \nduplican su masa y sus organelos \ncitoplasmáticos en cada ciclo celular. \nRec",
+      "cantidad_caracteres": 1978,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 270.2216796875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 83.8212890625
+        }
+      ]
+    },
+    {
+      "numero": 49,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nproliferación celular. Sin embargo, aunque las células que están en G0 cumplen una función \nespecífica no pierden el potencial proliferativo, ya que bajo determinados estímulos pueden volver \nal ciclo celular. \n\nEn el adulto existen células que no presentan actividad proliferativa como es el caso de la mayoría \nde las neuronas y células musculares. Estas células se diferencian entrando a un estado de máxima \nespecialización, con lo cual pierden totalmente el potencial proliferativo, en condiciones normales, \nningún estímulo las hace volver al ciclo celular, por lo tanto, permanecen toda su existencia en G0. \n\nFase G1: Es un período de alta actividad bioquímica. La célula aumenta de tamaño e incrementa la \ncantidad de proteínas (enzimas y microtúbulos para el huso mitótico), ribosomas, mitocondrias y el \nresto de las estructuras celulares. \n\nDurante la fase G1 la célula evalúa su ambiente, su tamaño y cuando las condicion",
+      "cantidad_caracteres": 1943,
+      "imagenes": []
+    },
+    {
+      "numero": 50,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n1.7.2. Mitosis \nLa mitosis corresponde a la división del núcleo. Esta tiene distintas funciones dependiendo del tipo \nde organismo que la realice: reproducción asexual en algunos organismos unicelulares eucariontes \no regeneración de tejidos y proliferación celular (crecimiento) en organismos pluricelulares. Se \ncaracteriza por mantener iguales tanto el contenido nuclear (2n) como la cantidad de ADN (2c). \n\nEsto significa que las células hijas son idénticas entre sí y con la célula progenitora. Este proceso se \ndivide en etapas, diferenciadas por los fenómenos que ocurren en cada una de ellas. \n\nEtapas \nCaracterísticas \nEjemplo \n\n• Los cromosomas siguen compactándose y \npueden ser vistos al microscopio. \n• Los centrosomas migran hacia los polos y \nentre ellos se genera el huso mitótico, \nformado  por microtúbulos. \n• Se desarticula la carioteca, el aparato de \nGolgi, el retículo endoplásmico y el \nnucléolo. \n• Las fibras",
+      "cantidad_caracteres": 1761,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 100.9375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 43.4345703125
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 51.9228515625
+        }
+      ]
+    },
+    {
+      "numero": 51,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n• En esta etapa el huso mitótico se \ndesarticula y las cromátidas se agrupan en \nlos polos, se desenrollan y asumen el \naspecto de cromatina. \n• La membrana nuclear se reorganiza, \nalrededor de los cromosomas y se \nreconstituye el nucléolo. \n• En el interior de la célula es posible \nobservar   dos núcleos diploides idénticos. \n4n: tetraploide (dos pares de juegos de \ncromosomas en dos núcleos por separado). \n4c: ADN en forma de cromosomas simples. \n\nTelofase \n\n \n\n \n\n1.7.3. Citocinesis o citodiéresis \nLa citocinesis o división del citoplasma usualmente está en progreso antes de que la división nuclear \nse complete, puede comenzar en anafase o en telofase. \n\n¿La citodiéresis ocurre de la misma manera en células animales y vegetales? \n\n• \nEn animales es por estrangulación del \ncitoplasma gracias a la acción de un anillo \ncontráctil de actina y miosina. \n\n \n\n \n\n \n\n \n\n \n\n \n\n• \nEn \nvegetales \ngracias \na \nvesículas \nmembranosas",
+      "cantidad_caracteres": 1199,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 55.5068359375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 174.5244140625
+        },
+        {
+          "index": 2,
+          "tipo": 1,
+          "tamanio_kb": 46.1845703125
+        }
+      ]
+    },
+    {
+      "numero": 52,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n1.7.4. Cantidad de ADN (c) \nEn genética se define como valor “c” a la cantidad de ADN que contiene un genoma haploide \n(compuesto por un único juego cromosómico). \n\nLa especie humana tiene dos copias de cada uno de sus 23 cromosomas, que habitualmente se \nexpresa como 2n=46, por lo tanto, es una especie diploide (2n). Con dos juegos de 23 cromosomas, \nuno recibido del padre y otro de la madre. \nEl valor “c” es la cantidad de ADN \ncorrespondiente a uno de estos juegos \nque en la especie humana son de 23 \ncromosomas. \n\nPor ejemplo, una célula diploide con \ncromosomas simples o no duplicados, su \ncantidad de ADN es 2c. En cambio, esta \nmisma \ncélula \ncon \nsus \ncromosomas \nduplicados (cada uno, formado por dos \ncromátidas), la cantidad de ADN es 4c.  \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n25 \n",
+      "cantidad_caracteres": 879,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 8.005859375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 137.8984375
+        }
+      ]
+    },
+    {
+      "numero": 53,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n1.8. Regulación del ciclo celular \nTodos estos procesos celulares (interfase y mitosis) poseen mecanismos de control que son \nregulados por diversos factores, fundamentalmente por proteínas que se sintetizan a partir de \ngenes específicos. El ciclo celular presenta puntos clave donde controla los procesos celulares para \niniciar o no una división. \n\n \n\nLos genes que regulan el ciclo celular se dividen en tres grupos: \n\na. Genes que codifican proteínas para el ciclo celular, como por ejemplo tubulinas que forman parte \nde los microtúbulos que forman el huso mitótico. \n\nb. Genes que codifican proteínas como las ciclinas y quinasas dependientes de ciclina (Cdk) que \nregulan positivamente el ciclo (protooncogenes) activando la proliferación celular. Estas proteínas \nson fundamentales en la promoción de las etapas de G1 a S y de G2 a mitosis. \n\nc. Genes que codifican proteínas que regulan negativamente el ciclo, también llama",
+      "cantidad_caracteres": 1930,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 146.5185546875
+        }
+      ]
+    },
+    {
+      "numero": 54,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n1.9. Mutaciones \nCada ser humano está formado por millones de células, en algunas de las cuales ocurren cambios \nen la información genética. Algunos de estos cambios son reparados, mientras que otros se \nmantienen y se heredan a las células hijas. Estos cambios o alteraciones en el material genético se \nconocen con el nombre de mutaciones. \n\nLas mutaciones son alteraciones en el material genético (ADN, cromosomas, cariotipo) producto \nde un daño mal reparado. \n\nAunque muchas mutaciones puedan originarse en nuestras células somáticas, estas no se heredan \na la descendencia. Sólo se traspasan a la descendencia si la mutación ocurre en el material genético \nde los gametos. \n\nLas mutaciones pueden ser: Naturales (espontáneas) o Inducidas (provocadas artificialmente por \nagentes mutágenos). \n\nEl efecto de las mutaciones es variado, mientras que algunas pueden ser beneficiosas, otras son \nperjudiciales, mientras que otras pued",
+      "cantidad_caracteres": 1995,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 143.11328125
+        }
+      ]
+    },
+    {
+      "numero": 55,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\ntumores malignos. Este fenómeno se denomina metástasis y es propio de la mayoría de los tipos \nde cáncer.  \n\n1.10.1. Causas \nEn muchos casos la causa del cáncer tiene un componente hereditario, pero existen factores \nambientales que pueden actuar como agentes que pueden producir mutaciones en el ADN. \nAlgunos de ellos son la contaminación, la exposición a rayos UV, el consumo de tabaco o la \ninhalación de ciertas sustancias químicas, entre otros. Por otro lado, existen evidencias de que la \ninfección de ciertos virus está asociada a algunos tipos de cáncer, como es el caso del virus del \npapiloma humano, que puede provocar cáncer cérvico uterino. \n\nTodos los factores, ya sean químicos, físicos o biológicos, que causan algún tipo de cáncer se \ndenominan agentes carcinógenos. \n\n \n\n1.10.2. Genes y cáncer \nActualmente se conocen dos grupos de genes cuya alteración puede generar cáncer: \n\nProtooncogenes: Grupo de genes cuya f",
+      "cantidad_caracteres": 2038,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 19.947265625
+        }
+      ]
+    },
+    {
+      "numero": 56,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nSin embargo, si las mutaciones afectan a los protooncogenes, estos pueden quedar activados sin \nposibilidad de ser regulados negativamente, en cuyo caso pasan a llamarse oncogenes. \n\n \n\nEn otras situaciones, las mutaciones pueden afectar a los genes supresores de tumores o \nantioncogenes, de tal forma que su expresión es inactivada. Debido a esto, al no haber señales de \ndetención o regulación negativa sobre el avance del ciclo celular, las células se reproducen sin \ncontrol generando tumores. \n\n \n\n \n\n1.10.3. ¿Qué diferencia existe entre el proceso de apoptosis y necrosis? \nLa muerte celular es un proceso básico para el mantenimiento de la homeostasis en organismos \npluricelulares. No obstante, no todas las células mueren de manera idéntica ni por las mismas \nrazones. En la naturaleza existen dos mecanismos bien conocidos, la necrosis y la apoptosis, los \ncuales representan formas diferentes en cuanto a su regulación y c",
+      "cantidad_caracteres": 1708,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.388671875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.6455078125
+        }
+      ]
+    },
+    {
+      "numero": 57,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n• Necrosis: En este mecanismo las células se hinchan y sufren un deterioro de su estructura y \norganización, así como el progresivo cese de sus funciones (síntesis de proteínas y ácidos nucleicos, \nrespiración celular, etc.) que acaba por impedir su viabilidad y conduce al rompimiento de la \nmembrana plasmática y la lisis celular. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n1.11. Meiosis \nCuando cada cromosoma es duplicado por replicación del ADN (etapa S) las copias gemelas de cada \ncromosoma se mantienen al principio estrechamente asociadas y son denominadas cromátidas \nhermanas. En una división celular normal (mitosis), cada una de las cromátidas hermanas se separa \nen la anafase y se convierte en un cromosoma individual, por lo que cada una de las dos células \nhijas recibirá una copia de cada cromosoma paterno y otra de cada cromosoma materno. \n\nEn contraste, un gameto haploide producido por la división de una célula di",
+      "cantidad_caracteres": 1803,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 316.681640625
+        }
+      ]
+    },
+    {
+      "numero": 58,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n1.11.1. Meiosis I o Reduccional \nSe le llama reduccional porque reduce a la mitad el número de cromosomas en las células hijas, \ntransformando una célula diploide (2n) en dos células haploides (n). Esto ocurre durante la anafase \nI, donde los cromosomas homólogos se separan, llevando un representante de cada par hacia polos \nopuestos de la célula. A diferencia de la mitosis, las cromátidas hermanas permanecen juntas en \nesta etapa, asegurando que el número de cromosomas se divida entre las células hijas. Este paso \nes esencial para mantener la ploidía de la descendencia. \n\nProfase I (2n, 4c) \n• Es la fase más larga de la meiosis. \n\n• Los cromosomas homólogos se unen en forma específica, gen por gen (sinapsis). \n\n• Los pares homólogos formados se conocen como bivalentes o tétradas. \n\n• Ocurre el intercambio de material genético entre cromosomas homólogos, proceso conocido \ncomo recombinación genética o crossing over. Este",
+      "cantidad_caracteres": 1463,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 31.7666015625
+        }
+      ]
+    },
+    {
+      "numero": 59,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nMetafase I (2n, 4c) \n\n• Los pares de cromosomas homólogos se alinean sobre \nel ecuador. \n• Un homólogo de cada par mira hacia cada uno de los \npolos de la célula. \n\n \n\n \n\n \n\n \n\n• La ordenación de los pares homólogos es al azar y se denomina permutación cromosómica. Es \nla segunda fuente de variabilidad genética. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nAnafase I (2n, 4c) \n• Se produce la separación de los cromosomas homólogos, \nsiendo traccionados hacia los polos opuestos de la célula, \npor la acción de las fibras del huso meiótico. \n\n \n\n \n\n \n\n \n32 \n",
+      "cantidad_caracteres": 619,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 76.5361328125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 99.498046875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 204.587890625
+        }
+      ]
+    },
+    {
+      "numero": 60,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nTelofase I + Citodiéresis I (n, 2c) \n• En esta etapa se reconstituyen las envolturas nucleares \n(1) alrededor de cada polo celular, y las dos células \nresultantes, luego de la citocinesis, son haploides.  \n\n• Por ejemplo, si se trata de una célula humana: las dos \ncélulas hijas tendrían 23 cromosomas cada una, estando \ncada cromosoma constituido por dos cromátidas. En \ncuanto a la cantidad de ADN, las 2 células hijas \npresentaran 2c ADN, cada una. \n\n \n\n1.11.2. Meiosis II (Meiosis ecuacional) \nSe conoce como ecuacional porque conserva el número de cromosomas en las células hijas, \nmanteniendo su estado haploide (n). Durante esta etapa, las cromátidas hermanas de cada \ncromosoma se separan y migran hacia polos opuestos, similar a lo que ocurre durante la mitosis. \nEste proceso asegura que cada célula hija reciba una cromátida de cada cromosoma, manteniendo \nla cantidad cromosómica constante tras la división, pero dividiend",
+      "cantidad_caracteres": 1713,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 71.9580078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 49.1865234375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 53.087890625
+        }
+      ]
+    },
+    {
+      "numero": 61,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\nAnafase II (2n, 2c) \nSe produce la separación las cromátidas hermanas, \ndirigiéndose cada cromátida a los polos opuestos. \n\n \n\n \n\n \n\n \n\n \n\n \n\nTelofase II + citodiéresis II (n, c) \nCada célula origina dos células hijas, luego de la \nreconstitución de la envoltura nuclear alrededor de cada \npolo celular y de la división del citoplasma. El resultado \nfinal de la telofase II, y por ende de la meiosis, es la \nformación de cuatro células hijas haploides (n) a partir de \nuna célula madre o germinal diploide (2n). \n\nCada una de las células hijas haploides, presenta c ADN. \n\n \n\n \n \n\n1.11.3. Comparación entre el proceso de mitosis y meiosis \nExisten al menos dos diferencias significativas en la forma en la que los cromosomas se separan en \nla meiosis II y en la mitosis: \n\nDurante la mitosis y la meiosis II, las cromátidas hermanas están unidas solamente a nivel de los \ncentrómeros, en tanto que en cada uno de los cinetocoros fo",
+      "cantidad_caracteres": 1436,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 54.9912109375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 62.6103515625
+        }
+      ]
+    },
+    {
+      "numero": 62,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nCriterio de comparación \nMitosis \nMeiosis \n\nSe da en células… \nSomáticas \nGerminales \n\nN° de divisiones de núcleo \n1 \n2 \n\nProcesos que generan \nvariabilidad \nNo \nSí \n\nDa lugar a \nDos \ncélulas \ndiploides \nidénticas entre  \n\nCuatro células haploides \n(gametos o células sexuales) \n\nsí e iguales a la progenitora. \n\n \n\n• Crecimiento corporal \nen pluricelulares. \n• Reparación y regeneración \nde  tejidos. \n• Reproducción asexual. \n\n• Producción de gametos. \n• Permite mantener la diploidía  \nde la especie. \n• Genera variabilidad genética. \n\nFunción biológica \n\n \n\n \n\n \n\n \n35 \n",
+      "cantidad_caracteres": 679,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 72.8427734375
+        }
+      ]
+    },
+    {
+      "numero": 63,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nEjercicios de selección única \nSeleccione la alternativa correcta para cada pregunta. \n\n1. El gen p53, conocido como “el guardián del genoma”, es un supresor tumoral que desempeña \n\nun papel importante en la interrupción de la división celular (mitosis) cuando hay daño \nextensivo en el ADN. \n\nEn un laboratorio se desarrolla un experimento en el cual se cultivan dos líneas celulares \nhumanas (A y B) donde A fue sometida a un tratamiento previo donde se suprimió la función \nde p53 y B es un cultivo control que mantiene las copias del gen p53 funcionales. Ambos \ncultivos fueron sometidos a radiación gama con el objetivo de dañar su ADN y luego se \nmonitoreó el índice mitótico de cada uno de ellos obteniéndose los resultados expuestos a \ncontinuación. \n\nRespecto a lo anterior, ¿cuál de las siguientes afirmaciones corresponde a una conclusión \ncoherente con los datos obtenidos? \n\nA) El gen p53 promueve la división mitótica en",
+      "cantidad_caracteres": 1262,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 11.890625
+        }
+      ]
+    },
+    {
+      "numero": 64,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n2. La meiosis fue descubierta y descrita por primera vez en 1876 por el biólogo alemán Oscar \n\nHertwig (1849-1922), quien trabajaba estudiando huevos del erizo de mar. La idea fue \ncomplementada a nivel cromosomal por el zoólogo belga Édouard van Beneden (1846-1910) \nen trabajos con huevos de gusanos parásitos Ascaris, donde observó que los cromosomas no \nse dividían de la misma manera que en la mitosis durante la anafase, sino que se separaban de \nsus pares homólogos disminuyendo el número de cromosomas en la primera división, para \nposteriormente volver a dividirse mediante un proceso simple similar al mitótico. Este proceso \ncompleto daba como resultado 4 células con la mitad del material genético de las células \nparentales (haploides). \n\nA partir de los antecedentes expuestos. ¿Cuál de las siguientes opciones corresponde a una \npregunta que podría haber movilizado las investigaciones que llevaron a la comprensión del",
+      "cantidad_caracteres": 2223,
+      "imagenes": []
+    },
+    {
+      "numero": 65,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n4. Un grupo de estudiantes realiza un experimento para medir la cantidad de ADN en células de \n\nun organismo durante las diferentes fases de la meiosis. Durante el trabajo, los estudiantes \nmiden la cantidad de ADN (c) en una célula que está experimentando meiosis. Observan que \nen la profase I la cantidad de ADN es 4c, luego de la primera citodiéresis la cantidad disminuye \na 2c, pero después de la telofase II, 2 de las células hijas tienen una cantidad de ADN de 2c \nmientras que las 2 restantes no presentan ADN. \n\nRespecto a lo anterior, ¿cuál de las siguientes alternativas representa la etapa del proceso \ndonde se produjo el problema que llevó a estos resultados? \n\nA) Profase II \nB) Metafase I \nC) Anafase II \nD) Profase I \n\n \n \n \n \n \n5. Un equipo de investigadores está estudiando el efecto de mutaciones en los genes reguladores \n\ndel ciclo celular, en células cancerígenas humanas. El trabajo utiliza cultivos celulares",
+      "cantidad_caracteres": 1782,
+      "imagenes": []
+    },
+    {
+      "numero": 66,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nCapítulo 2: Biotecnología \n\nObjetivos de aprendizaje: \n\n• Explicar los principios básicos de la biotecnología y la ingeniería genética, especialmente en  \nsus aplicaciones en la generación de fármacos, clonación de organismos, mejora de cultivos y \ndiseño de vestuario. \n\nLa biotecnología corresponde a la aplicación o modificación de los sistemas biológicos o sus \nderivados, con el fin de generar y/o modificar productos y servicios de uso humano, como \nalimentos enriquecidos en nutrientes, organismos para extraer contaminantes (biorremediación), \nmejoramiento de cultivos, obtención de antibióticos, entre otros. \n\n2.1. Ingeniería genética \nMuchas veces, lo que se quiere es transferir las \ncaracterísticas de un organismo a otro, por \nejemplo, \nla \ncapacidad \nde \nresistir \nbajas \ntemperaturas del pez Koi podría ser transferida a \nuna planta de interés comercial para que resista \nlas heladas. Esta transformación es posible gr",
+      "cantidad_caracteres": 2543,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 20.2705078125
+        }
+      ]
+    },
+    {
+      "numero": 67,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n2.2. Enzimas de restricción y vectores de clonación-expresión \nLas primeras técnicas de la ingeniería \ngenética fueron posibles gracias al \ndescubrimiento de las enzimas de \nrestricción, las cuales tienen actividad \nnucleasas (cortan ácidos nucleicos). \nEstas enzimas se presentan de manera \nnatural al interior de bacterias como \nEscherichia coli, donde se desempeñan \ncomo un sistema de defensa contra \nADN exógeno producto de la infección \nde algunos virus (bacteriófagos o \nfagos). Son empleadas como tijeras \nmoleculares para cortar y aislar de \nmanera específica genes de interés. \n\n \n\n                                                                         Sistema de restricción-metilación de bacterias \n\nLas enzimas de restricción: \n• Cortan en secuencias específicas de reconocimiento. \n\n• Generan dos patrones de corte: extremos cohesivos o extremos romos. \n\n• Cuando generan extremos cohesivos, se suelen denominar “pegaj",
+      "cantidad_caracteres": 1386,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 475.087890625
+        },
+        {
+          "index": 1,
+          "tipo": 1,
+          "tamanio_kb": 25.0947265625
+        }
+      ]
+    },
+    {
+      "numero": 68,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nPor otro lado, un vector de clonación-expresión es una macromolécula de ADN capaz de replicarse \n(multiplicarse) de forma autónoma. Para transformación bacteriana, se emplean plásmidos, \nmacromoléculas de ADN circular extracromosomales que se presentan de manera natural en las \nbacterias. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nEste tipo de vectores cuentan con un origen de replicación (sitio ori), sitio de corte (clonado \nmúltiple) y genes de selección. Estos últimos confieren a las bacterias que han incorporado al vector \nla capacidad de crecer en presencia de antibióticos como ampicilina o en un medio con carencia de \nnutrientes. Algunos vectores también permiten la expresión de los transgenes, es decir, permiten \nque podamos obtener proteínas (por ejemplo) a partir de este transgén de forma directa. \n\n2.3. Metodología básica empleada en ingeniería genética \nLa obtención de un organismo transgénico consiste en la incorporación d",
+      "cantidad_caracteres": 1904,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 33.98046875
+        }
+      ]
+    },
+    {
+      "numero": 69,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n3. Ligar e introducir: el gen cortado y aislado debe ser ligado a un vector de clonación-expresión y \nser introducido al interior de un hospedador, por ejemplo, una bacteria. El objetivo de este paso \nconsiste en obtener múltiples copias del gen para asegurar el éxito del proceso de obtención del \ntransgén. Una vez se ha cortado el gen de interés y el vector de clonación, se procede a ligarlo con \nuna enzima llamada ADN ligasa, dando origen al ADN recombinante. \n\n4. Clonar: una vez introducido el vector de clonación al interior de una bacteria, este organismo \ncomenzará a reproducirse, junto con el plásmido recombinante, actuando como una especie de \nreactor bacteriano. De esta forma, se obtendrán miles de copias del gen mediante la obtención de \nclones bacterianos (población de bacterias con el mismo material genético). \n\n5. Seleccionar: se siembran las bacterias en medio de selección que contienen antibióticos o que \nc",
+      "cantidad_caracteres": 2087,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 391.5146484375
+        }
+      ]
+    },
+    {
+      "numero": 70,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nTransformación genética vegetal \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n(A) En este caso, se nos muestra que la incorporación de genes en una especie vegetal puede \nlograrse mediante infección con la bacteria transformante Agrobacterium tumefaciens, la cual \nnaturalmente incorpora genes exógenos en células vegetales. (B) El otro método consiste en \ntransformar células vegetales empleando biobalística, donde partículas de oro cubiertas del gen \nde interés bombardean a la célula vegetal para introducir el gen de interés. En ambos casos, se \nobtienen plantas transformadas. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n43 \n",
+      "cantidad_caracteres": 681,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 211.3916015625
+        }
+      ]
+    },
+    {
+      "numero": 71,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n2.4. Aplicaciones de biotecnología \nSe distinguen cuatro ramas fundamentales de las aplicaciones biotecnológicas: \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n44 \n",
+      "cantidad_caracteres": 263,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 35.7568359375
+        }
+      ]
+    },
+    {
+      "numero": 72,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n2.5. Producción de OGM \nLa producción de organismos genéticamente modificados (OGM) se ha convertido en uno de los \nobjetivos primordiales de diversas industrias, especialmente la alimentaria. La creciente demanda \nde la población mundial y la baja disponibilidad alimentaria han construido un escenario en el cual \nla biotecnología y la ingeniería genética proponen soluciones mediante la producción de OGM de \nacuerdo con las necesidades planteadas. No obstante, aún existe temor por parte de la población \nhacia el consumo de este tipo de productos, sumado al exceso de información errónea que circula \npor las redes, creando creencias y prejuicios hacia la biotecnología e ingeniería genética, lo cual ha \nmantenido un debate a nivel mundial respecto a la utilización de tecnologías de mejoramiento \ngenético en el rubro alimentario, el cual está lejos de terminar. \n\n \n\n \n\n \n\n \n45 \n",
+      "cantidad_caracteres": 953,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 290.0654296875
+        }
+      ]
+    },
+    {
+      "numero": 73,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n2.6. Terapia génica y celular \nLa terapia génica consiste en la \nmanipulación genética en tratamiento \nmédico de enfermedades debidas a \ngenes mutados cuya función está \nafectada. Se emplean virus como \nvectores \nde \ntransformación \npara \nintroducir genes exógenos en pacientes \nde enfermedades genéticas. Los virus \nson útiles en este aspecto, ya que \nnaturalmente \nposeen \nmecanismos \ninfecciosos donde pueden inyectar \nmaterial genético exógeno al interior de \ncélulas humanas. Básicamente, consiste \nen transformar células del paciente con \nlos genes que queremos introducir para \nrestituir una función perdida. Estas células son injertadas en el paciente, con el “gen reparado”. \nExisten dos modalidades en la terapia génica: \n\nA. Ex vivo: se infectan células extraídas de paciente, las cuales son transformadas empleando un \nvector viral. Luego, las células con el gen terapéutico son reinyectadas en el paciente. \n\nB. In vivo: ",
+      "cantidad_caracteres": 2424,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 56.484375
+        }
+      ]
+    },
+    {
+      "numero": 74,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nEjercicios de selección única \nSeleccione la alternativa correcta para cada pregunta. \n\n1. Se ha desarrollado una técnica para producir plantas transgénicas que producen mayor número \n\nde estomas y de todo el mecanismo bioquímico asociado a su función con respecto a plantas \nnormales de la misma especie. Los estomas son estructuras presentes en las hojas de las plantas \nque permiten el intercambio gaseoso entre los tejidos vegetales y el ambiente, principalmente \nde O2 y CO2. Cada estoma está formado por dos células llamadas células oclusivas que rodean \nun poro central. Cuando estas células se separan, el poro se abre, lo que permite que el \nintercambio gaseoso. \nEl momento en que los estomas se abren o permanecen cerrados depende de múltiples factores \ncomo, por ejemplo: la humedad ambiental, la temperatura o la luminosidad ambiental. Con \nrespecto a esto último hay que recordar que vemos a las plantas de color verde p",
+      "cantidad_caracteres": 2012,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 67.376953125
+        }
+      ]
+    },
+    {
+      "numero": 75,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n2. Las plantas que hoy forman parte de nuestra dieta son totalmente diferentes de sus \n\nantepasados de vida silvestre. Durante el desarrollo de la civilización humana hemos ido \nseleccionando y modificando mediante cruces controlados entre los individuos con mejores \ncaracterísticas para nuestro interés. Este largo proceso ha dado paso a estrategias y tecnologías \nmucho más avanzadas como las que se empezaron a desarrollar a finales de los años 20 del \nsiglo pasado, donde científicos descubrieron que se podían inducir mutaciones exponiendo a \nlas plantas a agentes mutagénicos físicos como los rayos x, entre otros. \n\nEstas mutaciones ocurren de manera completamente azarosa y de vez en cuando pueden \noriginar la aparición de una característica de interés para el humano. Esta nueva característica \nes seleccionada y multiplicada para dar origen a nuevos productos de consumo como el pomelo \nrosado, obtenido a partir de mutaci",
+      "cantidad_caracteres": 2791,
+      "imagenes": []
+    },
+    {
+      "numero": 76,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n4. Un grupo de investigadores desarrolla una bacteria modificada genéticamente para degradar \n\nplásticos en ambientes contaminados. Para ello, introducen genes que codifican enzimas \ncapaces de descomponer polímeros plásticos en compuestos más simples que las bacterias \npueden metabolizar. Luego usan estas bacterias modificadas para tratar áreas contaminadas \ncon residuos plásticos. Al respecto, ¿cuál de las siguientes alternativas es un beneficio potencial \nde esta aplicación biotecnológica? \n\nA) Producción de energía renovable a partir de residuos plásticos. \nB) Sustitución total del uso de plásticos por materiales biodegradables. \nC) Eliminación de contaminantes plásticos sin generar subproductos tóxicos. \nD) Incremento en la velocidad de síntesis de polímeros plásticos en ambientes industriales. \n\n \n\n5. En la industria farmacéutica, se utiliza Escherichia coli modificada genéticamente para producir \n\ninsulina humana.",
+      "cantidad_caracteres": 1475,
+      "imagenes": []
+    },
+    {
+      "numero": 77,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nCapítulo 3: Evolución \n\nObjetivos de aprendizaje: \n\n• \nComprender los aportes de Lamarck, Darwin y Wallace al estudio de los mecanismos \nevolutivos. \n• \nAnalizar las evidencias que respaldan la evolución biológica desde diferentes disciplinas \ncientíficas. \n\n3.1. Conceptos básicos empleados en Evolución \nAl momento de estudiar Evolución es importante tener clara una serie de conceptos que ayudarán \na su correcta comprensión.  \n\nAdaptación biológica: Corresponde a todo rasgo que incrementa la probabilidad de sobrevivencia \nde una especie, el cual es heredable y persistente en el tiempo a lo largo de las generaciones.  \n\nADN: Ácido desoxirribonucleico, el cual contiene la información necesaria (genes) para expresar \nlas funciones biológicas necesarias para una entidad biológica en particular (célula, virus). Es la \nprincipal molécula de la herencia, mediante la cual se heredan ciertas características y funciones \ndesde los",
+      "cantidad_caracteres": 2828,
+      "imagenes": []
+    },
+    {
+      "numero": 78,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nDivergencia evolutiva: Proceso mediante el cual se producen dos o más especies diferentes a partir \nde un ancestro común cercano.  \n\nDogma central de la Biología Molecular: Es una teoría que \nindica que el flujo de información genética va desde el \nADN hasta el ARN (transcripción), y desde el ARN a las \nproteínas (traducción). Para el caso de los retrovirus, es \ndecir, aquellos que cuentan con ARN como macromolécula \nde la información genética, la información entre ADN y \nARN es bidireccional, es decir, se puede sintetizar ADN \ndesde ARN (transcripción inversa).  \n\n \n\n \n\n \n\n \n\n \n\nEra geológica: Es una unidad de medida geocronológica de la Tierra, mediante las cuales se \norganizan los tiempos geológicos, es decir, los eventos sucedidos durante la formación de nuestro \nplaneta. \n\nEspeciación: Proceso mediante el cual una población biológica da origen a una o más especies \ndiferentes, producto del aislamiento reproductivo. ",
+      "cantidad_caracteres": 2183,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 42.9794921875
+        }
+      ]
+    },
+    {
+      "numero": 79,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nGenes alelos: Corresponden a cada una de las versiones de un determinado gen. En organismos \ndiploides suelen presentarse de a pares, donde cada miembro de los cromosomas homólogos porta \ncon un alelo, pudiendo ser iguales o diferentes. \n\nGen dominante: Es aquel alelo cuya expresión genética enmascara al del alelo recesivo. Para que \nsu expresión sea visible, sólo requiere de una copia de este alelo. \n\nGen recesivo: Corresponde a aquel alelo cuya expresión genética requiere que se presente en \nhomocigosis, es decir, que ambas copias del gen sean iguales. Si se acompaña de un alelo \ndominante, su expresión queda enmascarada, es decir, no es visible en el fenotipo. \n\nGenotipo: Dotación genética de un organismo. \n\nHerencia: Transmisión de las características de los progenitores a los descendientes, mediante \nmecanismos que involucran el flujo de genes que codifican para dichas características. \n\nHeterocigosis: En este caso,",
+      "cantidad_caracteres": 2948,
+      "imagenes": []
+    },
+    {
+      "numero": 80,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\ny traspasan sus genes a la descendencia, mientras que aquellos con los fenotipos menos aptos, \ntienden a reproducirse menos. \n\n \n\n3.2. Teorías evolutivas \nHubo una época en que se creyó que no existía la evolución, sino la creación divina de especies, en \nla diversidad existente, para satisfacer las necesidades humanas. Dichas especies permanecían \ninmutables, sin experimentar ningún cambio a través del tiempo (fijismo o creacionismo), a menos \nque se produjera una catástrofe. \n\nPosteriormente surgió el Evolucionismo, que plantea que las especies derivan unas de otras por \ntransformaciones.   La existencia de la evolución es un hecho del que no se tiene ninguna duda en \nel ámbito científico y del cual ya había evidencias considerables antes del desarrollo de la biología \nmolecular. \n\nEvolución, en el ámbito biológico, es un término que se refiere al cambio que experimentan las \nespecies en períodos extensos de tiempo. \n\n",
+      "cantidad_caracteres": 2492,
+      "imagenes": []
+    },
+    {
+      "numero": 81,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nSegún Lamarck, un ambiente cambiante causa que un organismo altere su comportamiento, lo que \nprovoca el uso o desuso de algunos órganos o partes del cuerpo. A través de generaciones, un \nórgano o estructura corporal podría aumentar su tamaño si este es muy usado, o podría \nempequeñecerse hasta desaparecer si no se le da uso. Su hipótesis requiere que los organismos \ntraspasen los caracteres adquiridos durante su vida a sus crías. Por ejemplo, Lamarck sugirió que el \nlargo cuello de las jirafas se desarrolló cuando un ancestro de cuello corto lo estiró para alcanzar \nlas hojas que se ubicaban a mayor altura. De esta forma las crías heredarían este nuevo carácter y \ncada generación tendría entonces cuellos más largos. Lamarck también pensó que todos los \norganismos tenían una fuerza o energía vital que los llevaba a cambiar hasta alcanzar una forma \nperfecta a lo largo del tiempo. \n\nPostulados de la Teoría de los caracter",
+      "cantidad_caracteres": 1669,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 200.64453125
+        }
+      ]
+    },
+    {
+      "numero": 82,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\nExisten organismos que se reproducen y la progenie hereda características de sus \nprogenitores, existen variaciones de características si el medio ambiente no admite \na todos los miembros de una población en crecimiento. Entonces, aquellos miembros \nde la población con características menos adaptadas (según lo determine su medio \nambiente) morirán con mayor probabilidad. De esta forma, aquellos miembros con \ncaracterísticas mejor adaptadas sobrevivirán más probablemente. \n\nDarwin, El origen de las especies \n\n \n\n3.2.3. Teoría de la selección natural de Darwin-Wallace \nCharles Darwin fue un naturalista de origen británico, que planteó la Teoría evolutiva de la \nselección natural, en la misma época, pero independiente del trabajo de Wallace. Todo comenzó \ncon un viaje de 5 años que hizo en el bergantín Beagle.  \n\nEn 1831 este se dirigió a América del Sur, en donde Darwin estudió animales, plantas, fósiles y \nformaciones ",
+      "cantidad_caracteres": 2306,
+      "imagenes": []
+    },
+    {
+      "numero": 83,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nPlanteamientos de Darwin-Wallace: \n\n• El principal mecanismo por el que ocurre la evolución es la reproducción diferencial, lo que \nsignifica que cierto tipo de individuos de una población deja más descendientes que otros, con lo \nque sus características fenotípicas se van haciendo cada vez más frecuentes.  \n\n• Generalmente, los individuos que más descendientes dejan son los mejores adaptados al \nambiente en que viven, vale decir, los que tienen mayores probabilidades de sobrevivir en dicho \nambiente. \n\n• Para que lo anterior sea posible es una condición necesaria que exista variabilidad en las \npoblaciones. \n\n• La evolución, según esta teoría, consiste en un cambio de las proporciones fenotípicas en las \npoblaciones (se van haciendo más y más frecuentes ciertos fenotipos, aquellos que permiten dejar \nmás descendencia). \n\n• Si un rasgo fenotípico confiere mayor probabilidad de sobrevivir en un ambiente, pero no de \nrepro",
+      "cantidad_caracteres": 1730,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 149.578125
+        }
+      ]
+    },
+    {
+      "numero": 84,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n• La selección natural actúa sobre la variabilidad genética. \n\n• Cada individuo en una población es portador de distintos alelos responsables de su fenotipo.  \n\n• La selección natural actúa sobre estas variedades de genes. \n\n• Los individuos mejor adaptados, sobreviven y dejan más descendientes y sus caracteres se \nextienden dentro de la población. \n\n• Los peores adaptados dejan menos descendientes y sus genes van desapareciendo. \n\n• Estos cambios progresivos se acumulan en el tiempo produciendo cambios en las poblaciones \nque dan lugar a nuevas variedades, razas y especies. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n57 \n",
+      "cantidad_caracteres": 677,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 97.55078125
+        }
+      ]
+    },
+    {
+      "numero": 85,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n3.3. Evidencias evolutivas \n\n3.3.1. Registro fósil \nQuizás \nla \nevidencia \nmás \nimportante de la evolución es el \ndescubrimiento, identificación e \ninterpretación de fósiles, restos o \nhuellas \ndejados \nen \nrocas \nsedimentarias por organismos que \nen algún momento existieron.  \n\nLos registros fósiles muestran una \nprogresión desde los primeros \norganismos \nunicelulares \nhasta \notros unicelulares y pluricelulares \nque \nhabitan \nen \nla \nTierra \nactualmente.  \n\nEl \nregistro \nfósil \nentonces \ndemuestra que la vida evolucionó a \nlo largo del tiempo, generalmente \nrevelan una sucesión de formas en \nlos organismos y aportan las \nevidencias más directas de la teoría \nde \nla \nevolución \norgánica, \nmostrando frecuentemente una \ndireccionalidad. Es decir, que las \nformas de plantas y animales más \nsimples generalmente preceden a las más complejas y que los estratos de fósiles más recientes \npresentan un parecido más acentuado con l",
+      "cantidad_caracteres": 1295,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 211.9345703125
+        }
+      ]
+    },
+    {
+      "numero": 86,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n3.3.2. Anatomía comparada \nSe basa en el estudio comparado de la morfología y anatomía de los seres vivos. En este aspecto \ndebemos distinguir entre órganos homólogos, órganos análogos y vestigiales. \n\nA) Órganos homólogos  \n\nSon órganos con un mismo origen evolutivo y estructuras semejantes pero diferentes para realizar \nfunciones distintas. La comparación de detalles estructurales de características encontradas en \nórganos distintos, pero de organismos relacionados revela similitud.  \n\nEsas características derivan de la misma estructura presente en un ancestro común y se denominan \ncarácter homólogo (la condición se llama homología). La homología se debe a un proceso de \nevolución divergente o adaptación de un mismo órgano a finalidades y medios distintos: volar, \nnadar, trepar, etc. Ejemplo de esto es la composición ósea de una extremidad superior en \nmamíferos: ala para un murciélago, aleta para una ballena, brazo en",
+      "cantidad_caracteres": 1072,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 36.9833984375
+        }
+      ]
+    },
+    {
+      "numero": 87,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nOtro ejemplo de homología estructural, la podemos encontrar en la forma de las hojas de diferentes \nespecies vegetales: \n\nPara cada uno de los casos presentados, las hojas se han modificado adaptativamente confiriendo \nventajas a las especies que las presentan. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n60 \n",
+      "cantidad_caracteres": 411,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 427.9189453125
+        }
+      ]
+    },
+    {
+      "numero": 88,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nB) Órganos análogos \n\nSon aquellas estructuras con diferente origen evolutivo pero que presentan un aspecto semejante \npor tener una finalidad similar. Por ejemplo, el ala de un insecto y el ala de un ave.  \n\nLa analogía indica una evolución convergente por adaptación de estructuras diferentes a un mismo \nmedio o finalidad (función).  \n\n \n\nC) Órganos vestigiales \n\nSe trata de órganos atrofiados, sin función alguna en la actualidad, pero que puede revelar la \nexistencia de antepasados para los que estos órganos eran necesarios. Un buen ejemplo lo tenemos \nen los restos de las extremidades posteriores del esqueleto de las ballenas que revelan su pasado \ncuadrúpedo. \n\n \n\n \n61 \n",
+      "cantidad_caracteres": 749,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 291.6552734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 515.951171875
+        }
+      ]
+    },
+    {
+      "numero": 89,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n3.3.3. Embriología \nConsiste en la comparación de las etapas del desarrollo embrionario entre distintas especies. Antes \nsolo era desde el punto de vista anatómico, ahora se consideran los distintos genes participantes \nen este proceso. Se sabe que los mismos genes regulan las primeras etapas del desarrollo en los \nmamíferos, por lo tanto, son muy parecidos físicamente hablando en estas mismas etapas. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n3.3.4. Bioquímica y biología molecular \n\nEn la actualidad, una de las formas más \nefectivas de medir la semejanza entre \ndiferentes especies a partir de la \nbioquímica \nes \nel \nanálisis \nde \naminoácidos. Este consiste en comparar \nla semejanza en la secuencia de \naminoácidos de proteínas presentes en \nestas especies. Cuanto más semejante \nla cadena de aminoácidos, las especies \nserán más semejantes. En el ejemplo de \nla tabla, se puede ver que el chimpancé \nno \npresenta \ndiferencia \nen ",
+      "cantidad_caracteres": 1463,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 193.3896484375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 13.03125
+        }
+      ]
+    },
+    {
+      "numero": 90,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\n \n\n3.3.5. Análisis filogenético \nUn árbol filogenético es una representación de tipo arborescente (es decir, que asemeja un árbol), \nla cual muestra las diferentes relaciones evolutivas entre poblaciones o especies, u otras entidades \nbiológicas, que se cree tienen un ancestro común, el cual puede ser cercano o no. Los árboles \nfilogenéticos son útiles porque nos permiten establecer relaciones de forma gráfica, sin embargo, \nestos actúan como hipótesis, y no deben tomarse como hechos definitivos. \n\nEn general, mientras más cercano sea el \nancestro común, más relacionadas están \nlas especies (como es el caso de A y B), en \ncaso contrario, tienden a ser más lejanos \nen términos evolutivos (caso de A con E). \n\nExisten diferentes formas de representar \nun mismo árbol filogenético, lo cual no \ncambia la información contenida en este. \nMientras más lejana sea la divergencia \nque da origen a las especies, más lejano es \neste",
+      "cantidad_caracteres": 1115,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 70.7080078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 39.5361328125
+        }
+      ]
+    },
+    {
+      "numero": 91,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\n¿Cómo interpretar un árbol filogenético?  \n\nPara interpretar correctamente estos modelos de representación, es necesario tener en cuenta lo \nsiguiente: \n\n1. Las especies de interés suelen presentarse en las puntas de la rama de cada árbol. \n2. Las ramas se conectan entre sí representando la historia evolutiva de las especies involucradas. \n3. La separación de dos ramas corresponde a eventos de divergencia evolutiva. Estos puntos se \n\nconocen como nodos, los cuales representan ancestros comunes recientes.  \n4. Las ramas de los árboles representan una amplia serie de ancestros que se extienden desde una \n\nespecie hasta la siguiente. \n5. Un clado es una agrupación que contiene un antepasado común y todas las especies \n\ndescendientes, sea que estén vivas o extintas, de dicho antepasado. Por ejemplo: \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n64 \n",
+      "cantidad_caracteres": 926,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 11.5615234375
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 7.001953125
+        }
+      ]
+    },
+    {
+      "numero": 92,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nPor ejemplo, consideremos el siguiente árbol filogenético para las especies A, B, C, D y E: \n\n \n\nSi analizamos este árbol, encontramos que: \n\n• Las especies A y B presentan un ancestro común reciente, lo cual puede ser interpretado \ncomo señal de un alto grado de parentesco.  \n• Las especies C y D presentan un ancestro común reciente, diferente al de A y B, lo cual puede \nser interpretado como señal de un alto grado de parentesco.  \n• La especie E es la menos emparentada con el resto de las especies, aunque comparte un \nancestro común reciente con dichas especies. \n• Se representan cuatro eventos de divergencia evolutiva (representados por los nodos del \nesquema). \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n65 \n",
+      "cantidad_caracteres": 768,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 36.0322265625
+        }
+      ]
+    },
+    {
+      "numero": 93,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n3.3.6. Biogeografía \nEl conocimiento de que los \ncontinentes \nestuvieron \nen \nalgún momento conectados y \nque se han separado es muy \nútil \npara \nexplicar \nciertos \naspectos de la biogeografía en \nel estudio de la distribución \ngeográfica de organismos en el \npasado y presente. La deriva \ncontinental \n(movimiento \naleatorio \nde \nlas \nmasas \nterrestres en la superficie \nterrestre) ha jugado un rol muy \nimportante en la evolución de \ndistintos organismos.  \n\nCuando el continente único Pangea se formó, juntó especies terrestres que habían evolucionado \nseparadamente unas de otras, llevando a la competencia y extinción de algunas. \n\nLa vida marina fue afectada negativamente hablando, en parte por la falta de costa (consecuencia \nde la existencia de un solo continente).  La Pangea se separó en distintas masas terrestres hace 180 \nmillones de años. A medida que los nuevos continentes empezaron a separarse, las poblaciones se \n",
+      "cantidad_caracteres": 1292,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 67.7080078125
+        }
+      ]
+    },
+    {
+      "numero": 94,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n3.4. Selección natural \nEs un mecanismo evolutivo en el cual los miembros de una población que poseen características \nmás exitosas en su ambiente tienen mayor probabilidad de sobrevivir y reproducirse. Por lo tanto, \nlas sucesivas generaciones la proporción de características favorables aumentan en la población. \nComo resultado la selección natural conduce a un cambio evolutivo adaptativo. \n\nImportante: La selección natural puede actuar u operar sólo sobre las características expresadas \nen el fenotipo, por lo tanto, la unidad de selección es el fenotipo completo, es decir, el organismo \ncompleto.  \n\nEjemplo de Selección Natural: El caso de la polilla moteada del abedul \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nEsta especie de polilla se caracteriza porque presenta dos variantes de tonalidad: clara y oscura. El \nabedul es un árbol cuyo tronco es de tonalidad clara. Para las polillas de variante clara esto es \nventajoso porq",
+      "cantidad_caracteres": 1900,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 513.5419921875
+        }
+      ]
+    },
+    {
+      "numero": 95,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n3.4.1 Tipos de selección natural \n\n \n\na. Selección direccional \nFavorece los caracteres mayores o \nmenores, es decir, a uno de los \nextremos, y con el tiempo el \nfenotipo promedio de desplaza. \n\n \n\n \n\n \n\n \n\n \n\nb. Selección estabilizadora \nFavorece \nel \nvalor \no \nfenotipo \npromedio del carácter.   El fenotipo \npromedio no cambia y la variabilidad \nfenotípica disminuye. \n\n \n\n \n\n \n\n \n\n \n\nc. Selección disruptiva \nFavorece los valores mayores y \nmenores, es decir, a los fenotipos de \nlos extremos.   Con el tiempo, las \npoblaciones \nse \ndividen \nen \ndos \nfenotipos. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n68 \n",
+      "cantidad_caracteres": 658,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.248046875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 191.97265625
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 182.076171875
+        }
+      ]
+    },
+    {
+      "numero": 96,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nd. Selección sexual \nEs un tipo especial de selección que se ejerce sobre ciertas características de un animal para ser o \nno elegido para aparearse.  \n\nSe considera que la selección sexual es la principal causa de dimorfismo sexual (diferencias \nmorfológicas entre machos y hembras de una misma especie).  \n\nEl dimorfismo sexual es más marcado en especies poligínicas, donde pocos machos engendran a la \nmayoría de la progenie. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nd.1. Selección intersexual: Los individuos de un \nsexo escogen con qué individuos del sexo opuesto \nse van a aparear. En muchas especies animales, en \ngeneral, es la hembra quien escoge al macho con \nquien se reproducirá. Para que esto suceda, el \nmacho se ve favorecido por ciertos atributos para \natraer a la hembra, y es a través de la elección de \nestos atributos que la hembra se aparea. Estos \nincluyen apariencia física (dimorfismo sexual) y \nconducta como el ",
+      "cantidad_caracteres": 1137,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 298.267578125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 108.736328125
+        }
+      ]
+    },
+    {
+      "numero": 97,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nd.2. \nSelección \nintrasexual: \nEsta \nes \nuna \ncompetencia directa entre dos machos por \nconquistar a una misma hembra. En este caso, dos \nmachos se enfrentan a un duelo en el cual el \nganador se aparea con la hembra. Por ejemplo, en \nel caso de cabras o ciervos que luchan con sus \ncornamentas. \n\n \n\n \n\n \n\n3.5. Factores que afectan el proceso evolutivo \n \n\n3.5.1. Mutaciones \nCorresponden a cambios a nivel del ADN, lo cual puede producir la aparición de nuevas variantes \nalélicas para un determinado gen. Todas las mutaciones ocurren de manera impredecible y \nespontánea, aunque su frecuencia puede incrementarse por factores ambientales (mutágenos). \nCorresponde a una fuente de variabilidad genética en todo tipo de organismos. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n70 \n",
+      "cantidad_caracteres": 833,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 55.822265625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 131.814453125
+        }
+      ]
+    },
+    {
+      "numero": 98,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n3.5.2 Selección natural \nMecanismo evolutivo en el cual los miembros de una determinada población que poseen \ncaracterísticas más ventajosas al medioambiente tienen mayores probabilidades de sobrevivir y \nreproducirse. Por lo tanto, en las generaciones sucesivas la proporción de alelos más favorables \naumenta en la población. \n\n \n\n \n\n3.5.3. Flujo génico \nLas migraciones entre poblaciones causan un movimiento de alelos o flujo genético. El flujo de \ngenes (entrada o salida de los alelos del reservorio genético) puede introducir nuevos genes o \nalterar la frecuencia alélica de la población. \n\n \n\n \n\n \n\n \n71 \n",
+      "cantidad_caracteres": 679,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 127.7919921875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 49.87890625
+        }
+      ]
+    },
+    {
+      "numero": 99,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n3.5.4. Apareamiento no aleatorio \nSe presenta cuando los individuos de una especie seleccionan a sus parejas con base al fenotipo \n(con lo cual seleccionan el genotipo correspondiente), pueden inducir el cambio evolutivo en la \npoblación. Dada la variabilidad que existe al interior de una población, la probabilidad de cada \nindividuo de reproducirse dependerá de sus rasgos visibles (fenotipo). Aquellas características que \nsean más ventajosas pueden implicar un incremento en la probabilidad de reproducirse del \nindividuo que porta los genes (genotipo) responsables de dichas características. En el caso del \napareamiento no aleatorio, este puede ser selectivo o no selectivo, dependiendo si los individuos \nprefieren aparearse con otros del mismo fenotipo o fenotipos diferentes, respectivamente. \n\n \n\n \n\n3.5.5. Deriva génica \nEs un mecanismo evolutivo que consiste en el cambio de la frecuencia alélica de una población \nproduc",
+      "cantidad_caracteres": 1538,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 35.4501953125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 95.0400390625
+        }
+      ]
+    },
+    {
+      "numero": 100,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\na. Efecto cuello de botella \nSe describe como un caso extremo de deriva génica, la cual se caracteriza por una disminución \ndrástica del tamaño poblacional producto de un factor seleccionador muy intenso, por ejemplo, un \nincendio o un terremoto. Esto provoca que pocos individuos pasen a la siguiente generación, junto \ncon sus alelos. \n\n \n\n \n\n \n\nDada la magnitud del efecto cuello de botella \nsobre la población, pueden producirse dos \nefectos. El primero, que la población afectada \nrecupere un tamaño adecuado y persista en el \ntiempo. El segundo, si la población no logra \nrecuperarse, eventualmente puede llegar a \nextinguirse. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n73 \n",
+      "cantidad_caracteres": 735,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 117.7373046875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 35.1904296875
+        }
+      ]
+    },
+    {
+      "numero": 101,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nb. Efecto fundador  \nEs otro fenómeno asociado a un caso de deriva génica extrema. Consiste en que un pequeño grupo \nde individuos se aparta de la población inicial, iniciando una colonia. Esta nueva colonia queda \naislada de la población original. Existe la posibilidad de que los miembros de esta nueva colonia no \nrepresenten toda la diversidad genotípica y fenotípica de la población original, es decir, que las \nfrecuencias alélicas entre esta colonia y la población que le dio origen sean muy diferentes. En \ncasos extremos, algunos alelos pueden no estar presentes en la nueva colonia. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n74 \n",
+      "cantidad_caracteres": 709,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 183.4521484375
+        }
+      ]
+    },
+    {
+      "numero": 102,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\nEjercicios de selección única \nSeleccione la alternativa correcta para cada pregunta. \n\n \n1. En un estudio sobre poblaciones fragmentadas de una especie de ave, los investigadores \n\nanalizaron cómo la deriva génica afecta la variación genética. Al respecto, ¿cuál de las siguientes \nafirmaciones describe correctamente el efecto de la deriva génica que se esperaría observar en \npoblaciones pequeñas y aisladas de la especie estudiada? \n \n\nA) Introducción de nuevos alelos mediante migración genética. \nB) Incremento en la variación genética debido a la selección natural. \nC) Pérdida de alelos raros por eventos aleatorios en generaciones sucesivas. \nD) Aumento de la variabilidad genotípica en la población debido al apareamiento selectivo. \n \n \n2. En un bosque tropical, un investigador está estudiando una población de escarabajos que varían \n\nen color desde claro hasta oscuro. Inicialmente, la distribución del color de los esca",
+      "cantidad_caracteres": 1677,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 19.744140625
+        }
+      ]
+    },
+    {
+      "numero": 103,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n3. Un equipo de investigación trabaja en un experimento para analizar el impacto de mutaciones \n\nen el proceso evolutivo de una población de bacterias. Se expusieron bacterias a diferentes \nniveles de radiación ultravioleta (UV) para inducir mutaciones y observar su efecto en la tasa \nde supervivencia y la aparición de nuevas adaptaciones en ambientes de estrés térmico. Los \nresultados del experimento se resumen en la siguiente tabla: \n \n\nCondición \nNivel de \nradiación UV \n\nFrecuencia de \n\nTasa de \nsupervivencia \n\nNúmero de \nadaptaciones \n\nmutación \n\nobservadas \nGrupo control \nS/radiación \n0,001 \n95 \nNo \n\n(%) \n\n \nExposición \n\n5 J/m2 \n0,01 \n80 \nSi \n\nmoderada \n\nExposición alta \n10 J/m2 \n0,05 \n50 \nSi \n\n \nExposición \n\n20 J/m2 \n0,10 \n10 \nNo \n\nextrema \n\n \n\n¿Cuál de las siguientes conclusiones del experimento podría ser replicada de manera confiable \nmediante un procedimiento similar? \n\nA) Las mutaciones inducidas por radiación",
+      "cantidad_caracteres": 1542,
+      "imagenes": []
+    },
+    {
+      "numero": 104,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n4. En un tipo de roedor el fenotipo del color de pelaje, el alelo Q codifica para el color negro, \n\nmientras que el alelo q codifica el color blanco. Cuando un organismo presenta la combinación \ngenotípica Qq presenta un color intermedio (gris). Se analiza el efecto de la aparición de un \nfelino depredador sobre la frecuencia genotípica de una población de estos roedores, \nencontrando los siguientes resultados: \n\n \n\nDe acuerdo con estos resultados, es correcto concluir que: \n\nA) La presencia del depredador ha convertido al fenotipo blanco en un rasgo que favorece la \n\nsobrevivencia. \nB) La variabilidad genética de la población ha aumentado producto de la fuerza seleccionadora. \nC) La presencia del factor seleccionador produce un fenómeno de selección disruptiva. \nD) El depredador actúa como una fuerza seleccionadora sobre la población biológica. \n\n \n\n \n \n \n \n \n\n \n77 \n",
+      "cantidad_caracteres": 946,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 28.091796875
+        }
+      ]
+    },
+    {
+      "numero": 105,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n5. Las ballenas francas y los tiburones ballena se encuentran entre los mayores animales marinos \n\nconocidos. Estos animales tienen un cuerpo hidrodinámico con formas muy similares. Además, \nambos son animales filtradores, que se alimentan de grandes cantidades de pequeños \norganismos presentes en el agua. Sin embargo, las ballenas francas australes pertenecen al \ngrupo de los mamíferos, mientras que los tiburones ballena pertenecen al grupo de los peces \ncartilaginosos. La semejanza entre el tamaño, el formato del cuerpo y el modo de alimentación \nde esas dos especies de animales se debe a un proceso evolutivo conocido como: \n\n \nA) Convergencia adaptativa.  \nB) Divergencia adaptativa.   \nC) Radiación adaptativa.  \nD) Coevolución. \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n78 \n",
+      "cantidad_caracteres": 853,
+      "imagenes": []
+    },
+    {
+      "numero": 106,
+      "texto": "Preuniversitario UC \n© Pontificia Universidad Católica de Chile \n\n \n\n 1 \n",
+      "cantidad_caracteres": 73,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.861328125
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+2026-03-07 14:52:10,368 - INFO - Iniciando procesamiento por lote... Timeout: 6 horas
+2026-03-07 14:52:10,368 - INFO - Total de PDFs encontrados: 332
+2026-03-07 14:52:10,368 - INFO - Ya procesados: 0
+2026-03-07 14:52:10,368 - INFO - Pendientes: 332
+2026-03-07 15:09:59,606 - INFO - Progreso cargado: 60 PDFs ya procesados
+2026-03-07 15:09:59,606 - INFO - Iniciando procesamiento por lote... Timeout: 6 horas
+2026-03-07 15:09:59,607 - INFO - Total de PDFs encontrados: 332
+2026-03-07 15:09:59,607 - INFO - Ya procesados: 60
+2026-03-07 15:09:59,607 - INFO - Pendientes: 272
+2026-03-07 16:05:19,360 - INFO - 
+============================================================
+2026-03-07 16:05:19,360 - INFO - ✅ PROCESAMIENTO COMPLETADO
+2026-03-07 16:05:19,360 - INFO - Tiempo transcurrido: 0.92 horas
+2026-03-07 16:05:19,360 - INFO - PDFs procesados: 272
+2026-03-07 16:05:19,360 - INFO - Errores: 0
+2026-03-07 16:05:19,360 - INFO - Total en base de datos: 332
+2026-03-07 16:05:19,360 - INFO - ============================================================

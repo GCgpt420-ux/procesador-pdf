@@ -1,0 +1,162 @@
+{
+  "filename": "TAM 07.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/SOLUCIONARIOS/TAM 07.pdf",
+  "num_paginas": 6,
+  "titulo": "",
+  "autor": "Usuario",
+  "fecha_procesamiento": "2026-03-07T16:02:27.791684",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "C u r s o: Matemática \n\n \n\nMaterial: TAM-07 \n\n \n\n \n\nSOLUCIONARIO TAM-07 \n\n \n\n1.  \n\n \n\n \n \n\n \n\n2. \n\n \n\n \n\nPágina 1 \n\n \n",
+      "cantidad_caracteres": 118,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 21.2802734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.333984375
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "3. \n\nB) \n\n \n \n\n \n\n \n\n4. \n\n \n\n \n \n\nPágina 2 \n\n \n",
+      "cantidad_caracteres": 47,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.677734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 33.359375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 1.193359375
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "5. \n\n \n\n \n6.                                                                                                                                                       \n\n \n7. \n\n \n\n \n\nPágina 3 \n\n \n",
+      "cantidad_caracteres": 191,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 32.986328125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 34.23828125
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 26.5009765625
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "8. \n\n \n\n \n \n\n9. \n\n \n\n \n \n\n10. \n\n \n\n \n\nPágina 4 \n\n \n",
+      "cantidad_caracteres": 51,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0732421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 19.4814453125
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 42.4443359375
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "11. \n\n \n\n \n12. \n\n \n13. \n\n \n\nPágina 5 \n\n \n",
+      "cantidad_caracteres": 41,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 22.859375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 51.072265625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 27.623046875
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "14. \n\n \n\nSi n! = 1 · 2 · 3 · 4...... · (n – 1) · n, \n\nSolucionario \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nm\nm  n\n ! + 2\n !\nn\nn\nm\nm + n\n ! + \n !\nn\nn\n\n \n\nm\nm\n! + 2\n  1 !\nn\nn\nm\nm\n! + \n  1 !\nn\nn\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nentonces al simplificar \n\n \n\n \n\n \n\n \n\n \n\nse obtiene \n\nSi m\n\nn = u; u! + 2(u  1)!\n\n\n \n\n \n\n \nA) 1 \n\nu! + (u + 1)!\n\n \n\nB) \nn\nm  \n\n\n\n\n\n = (u  1)!\n\n (u + 2)\n\n(u  1)!u + 2(u  1)\n(u  1)!u + (u  1)!u\n\n \n\n \n\n(u  1)!\n\n u(u + 2)\n\n \n\nC) mn \n\n= 1\n\nu  = n\n\nD) \nm\n\n \n\nm  \n\nn  \n\n \n\n \n\nAlternativa correcta: E) \n\n \n\n \n\n \n\n15. \n\n \n\n \n\nPágina 6 \n\n \n",
+      "cantidad_caracteres": 596,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 26.443359375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

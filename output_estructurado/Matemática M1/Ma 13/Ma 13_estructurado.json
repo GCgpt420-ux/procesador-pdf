@@ -1,0 +1,721 @@
+{
+  "archivo_original": "Ma 13.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 13.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 9,
+  "fecha_procesamiento": "2026-03-07T23:03:32.793599",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSi AC = 5 cm y BC = 4 cm, entonces el perímetro del ABC de la figura adjunta es \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "15 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "41 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "(9 + 41 ) cm"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 13_p1_img4.jpg",
+        "Ma 13_p1_img3.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \n¿Cuál es el área de un triángulo rectángulo isósceles cuya hipotenusa mide 4 cm? \n \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "4 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "8 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "2 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "4 cm2"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi en la figura adjunta, el ángulo ABD mide 45°, entonces el perímetro del cuadrilátero \nABCD es \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24 + 10 2 6"
+        },
+        {
+          "letra": "B",
+          "texto": "14 + 10 2 D"
+        },
+        {
+          "letra": "C",
+          "texto": "14 + 5 2 5 2"
+        },
+        {
+          "letra": "D",
+          "texto": "21 + 5 2 A B"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 13_p1_img4.jpg",
+        "Ma 13_p1_img3.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn la figura adjunta, AB = BC = 5, CD = 4  y  DA = 3. El área del cuadrilátero ABCD es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 25 3 + 6 C"
+        },
+        {
+          "letra": "B",
+          "texto": "4 25 3 + 12 D"
+        },
+        {
+          "letra": "C",
+          "texto": "2 25 3 + 6"
+        },
+        {
+          "letra": "D",
+          "texto": "2 25 3 + 12 A B"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 13_p2_img5.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEl triángulo ABC de la figura adjunta es isósceles y rectángulo en A, entonces  \nAD =  \n \n \n \n \n \n \n \n \n \n\nC \n\nD \n\n10\n \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "10"
+        },
+        {
+          "letra": "E",
+          "texto": "5 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 13_p2_img5.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn el cuadrilátero ABCD de la figura adjunta, DA   AB  y CD   BD . Si  \nAB = CD = DA = 4, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n \n\nC \n\nD \n\nI) \nPerímetro ABD = 12\n2  \n\nII) \nÁrea BCD = 8\n2  \nIII) \nPerímetro BCD = 4(1 + \n2  + 3 )",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III A B 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 13_p2_img5.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nLa figura adjunta es un cuadrado formado por tres rectángulos congruentes de \nperímetro 16 cm cada uno. ¿Cuánto mide el área del cuadrado ABCD? \n \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "144 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "81 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "64 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "36 cm2"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 13_p3_img4.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn la figura adjunta, el perímetro del rectángulo ABCD es 26 cm y el área del cuadrado \nAEFD es 16 cm2. ¿Cuánto mide el área del rectángulo EBCF? \n \n \n\nA \nB \n\nD \nC \n\nF",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "16 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "20 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "24 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "28 cm2"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 13_p3_img4.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nLa figura adjunta está formada por un cuadrado y un rectángulo que tienen igual \nperímetro. Si el lado del cuadrado mide m y el ancho del rectángulo mide n, ¿cuánto \nmide el largo del rectángulo? \n \n \n \n \n \n \n \n\nA \nB \n\nE \n\nn",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m – 2n"
+        },
+        {
+          "letra": "B",
+          "texto": "m + 2n"
+        },
+        {
+          "letra": "C",
+          "texto": "2m – n"
+        },
+        {
+          "letra": "D",
+          "texto": "4m – 2n"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 13_p3_img4.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Si la diagonal de un cuadrado mide x\n2 , ¿cuánto mide el semiperímetro de otro \ncuadrado cuya área es el doble del primero?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4x"
+        },
+        {
+          "letra": "B",
+          "texto": "x 2"
+        },
+        {
+          "letra": "C",
+          "texto": "4x 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2x 2"
+        },
+        {
+          "letra": "E",
+          "texto": "8x 2 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. En la figura adjunta, los rectángulos son congruentes, en donde a = \n. Entonces, el \n\nperímetro de la figura es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30a"
+        },
+        {
+          "letra": "B",
+          "texto": "26a"
+        },
+        {
+          "letra": "C",
+          "texto": "24a"
+        },
+        {
+          "letra": "D",
+          "texto": "18b"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 13_p4_img5.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En la figura adjunta, ¿cuánto suman los perímetros de todos los cuadrados ubicados \n\nb \n\na \n\nsobre la hipotenusa del triángulo rectángulo de catetos 8 y 15?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "68"
+        },
+        {
+          "letra": "B",
+          "texto": "51"
+        },
+        {
+          "letra": "C",
+          "texto": "46"
+        },
+        {
+          "letra": "D",
+          "texto": "34"
+        },
+        {
+          "letra": "E",
+          "texto": "17"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 13_p4_img5.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. La figura adjunta está formada por un trapecio rectángulo y un cuadrado, ¿cuál es el \n\n8 \n\n15 \n\nárea del cuadrado achurado? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n12 cm \n13 cm \n\n9 cm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "16 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "25 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "36 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "64 cm2 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 13_p4_img5.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. P1, P2, P3 y P4 corresponden a los perímetros de las figuras sombreadas formadas en \n\ncada uno de los rectángulos congruentes de la figura adjunta. ¿Cuál(es) de las \nsiguientes afirmaciones es (son) siempre verdadera(s)? \n \n\nI) \nP1 > P2  \nII) \nP3 > P2  \nIII) \nP1 = P3 \nIV) \nP3 = P4 \n \n \n \n \n  \n \n\n \n\n  P1 \n      P2 \n P3 \n   P4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo III y IV"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 13_p5_img9.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. En el cuadrado de lado a de la figura adjunta, ¿cuál(es) de las siguientes expresiones \n\nrepresenta(n) el área de la región achurada? \n \n \n\nI) \na2 – b2  \nII) \n2b2 + a2 – 2ab  \nIII) \na2 – 2[b(a + b)] \n      \n\nb \n\na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 13_p5_img9.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En la figura adjunta, ABCD es un rectángulo, AD = 3 cm, AB = 8 cm y E es punto \n\nb \n\nmedio de AB . Si FEDG es un cuadrado, ¿cuál es el perímetro del hexágono BCDGFE? \n \n \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "22 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "25 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "28 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "30 cm G A B E F 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 13_p5_img9.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. El pentágono PQRST de la figura adjunta, está formado por el rectángulo PQRT de área \n\nigual a 180 cm2 y el triángulo TRS, QR = 15 cm, UR = 4 cm y TS = 10 cm. Si el área \ntriángulo URS = A1, área triángulo TUS = A2 y área triángulo TRS = A3, entonces \n¿cuál(es) de las siguientes proposiciones es (son) verdadera(s)? \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nS \n\nT \nR \n\nU \n\nP \nQ \n\nI) \nA1 : A3 = 1 : 3  \nII) \nA2 : A3 = 2 : 3 \nIII) \nA2 + A3 = 36 cm2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 13_p6_img6.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. ¿Cuál es el área del rombo ABCD de la figura adjunta, si AD = 20 cm y  \n\nBD = 24 cm? \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "512 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "384 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "280 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "192 cm2 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 13_p6_img6.jpg"
+      ]
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. En la figura adjunta, ABCD y EFGH son cuadrados de lado a, ¿cuál(es) de las siguientes \n\nproposiciones es (son) verdadera(s)? \n \n \n \n\nH \nG \n\nI) \na( 2  1)\nx = \n2\n\n\n \n\nD \nE \n\nII) \na 2\nx 2 = a  2\n\n \n\nIII) \n4a\n4x = \n  2a\n2\n\n\n \n\nE \n\nF \n\n \n \n \n \n\nx \n\nA \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 13_p7_img5.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Las diagonales de un trapecio isósceles miden 13 cm y su altura mide 5 cm. ¿Cuál es el \n\nB \n\nárea de este trapecio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "64 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "65 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "80 cm2"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. El trapecio PQRS de la figura adjunta está formado por el cuadrado PTRS y por el \n\ntriángulo isósceles TQR. Si SQ = 12\n5 , ¿cuál es el área del triángulo SQR? \n \n \n \n \n \n \n \n \n\nR \nS \n\nT \nQ \nP",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "64"
+        },
+        {
+          "letra": "B",
+          "texto": "72"
+        },
+        {
+          "letra": "C",
+          "texto": "96"
+        },
+        {
+          "letra": "D",
+          "texto": "128"
+        },
+        {
+          "letra": "E",
+          "texto": "144 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 13_p7_img5.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Si el perímetro del hexágono regular de la figura adjunta es igual a 12a, entonces el \n\nperímetro de la zona achurada es \n \n \n\nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11a D F"
+        },
+        {
+          "letra": "B",
+          "texto": "(3 + 3 )a"
+        },
+        {
+          "letra": "C",
+          "texto": "(2 + 3 )a A C"
+        },
+        {
+          "letra": "D",
+          "texto": "(6 + 3 )a"
+        },
+        {
+          "letra": "E",
+          "texto": "(6 + 2 3 )a"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 13_p8_img8.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Para elevar volantines se utiliza un carrete circular que tiene 2,7 metros de hilo, el cual \n\nB \n\nequivale a cuatro vueltas y media. Si  = 3, ¿cuál es el diámetro del carrete?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "15 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "20 cm"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. En \nel \ntriángulo \nPQR \nde \nla \nfigura \nadjunta \nse \npuede \ndeterminar \nque  \nQR2 = PQ2 + PR2, si se sabe que: \n \n \n \n \n \n \n \n \n \n \n\nR \n\nP \nQ \n\n \n\n(1) PQR + QRP = 90° \n\n(2) PQR = QRP",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 13_p8_img8.jpg"
+      ]
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. El cuadrilátero ABCD de la figura es un rectángulo y el triángulo AED es isósceles, cuya \n\nárea es el 25% del área del rectángulo. Se puede determinar el área del trapecio ABCE, \nsi se sabe que: \n \n \n \n \n \n \n \n \n\nD \nC \nE \n\nA \nB \n\n(1) \nDE = EC = 4 \n(2) \nAE = 4\n2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional RESPUESTAS"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "Ma 13_p9_img3.jpg"
+      ]
+    }
+  ]
+}

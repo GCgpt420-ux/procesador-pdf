@@ -1,0 +1,692 @@
+{
+  "filename": "T 02.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/T 02.pdf",
+  "num_paginas": 56,
+  "titulo": "",
+  "autor": "Rosa Martínez",
+  "fecha_procesamiento": "2026-03-07T16:02:18.115609",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \nTUTORIA N°2 \n\n \nÁLGEBRA \n\n \n2022 \n\n \n \n \n \n \n \n \n \n \n\n \n \n",
+      "cantidad_caracteres": 105,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "INSTRUCCIONES GENERALES \n\n \nEl material presentado a continuación incluye una serie de ejercicios \nrelacionados con el eje temático de Álgebra, y que han sido diseñados según las pautas \ndadas por DEMRE para la Prueba de Acceso a la Educación Superior, tanto para la prueba \nobligatoria (PAES1) como para la prueba electiva (PAES2). \n\n \nDado lo anterior, las preguntas que corresponden a PAES2 serán \nindicadas expresamente con esta misma sigla en negrita, entre paréntesis, colocada al inicio \ndel texto de la pregunta, de modo que, si solo vas a rendir la prueba obligatoria, puedes no \nhacer estos ejercicios. \n \n \n\nINSTRUCCIONES ESPECÍFICAS \n \n\nPara el desarrollo de este material tenga presente: \n\n1. \nLa siguiente tabla contiene una serie de símbolos, los que puede consultar durante el \ndesarrollo de los ejercicios. \n\n \n \n es menor que \n  es congruente con \n \n \n es mayor que \n  es semejante con \n \n \n es menor o igual a \n  es perpendicular a \n    \n \n es mayor o igual a \n  es distinto de \n \n",
+      "cantidad_caracteres": 1668,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "4.  \nEl intervalo [p, q] es el conjunto de todos los números reales mayores o iguales a p y \nmenores o iguales a q; el intervalo ]p, q] es el conjunto de todos los números  reales \nmayores que p y menores o iguales a q; el intervalo [p, q[ es el conjunto de todos los \nnúmeros reales mayores o iguales a p y menores que q; y el intervalo ]p, q[ es el \nconjunto de todos los números reales mayores que p y menores que q. \n \n5. \nEn las preguntas de suficiencia de datos no se pide que dé la solución al problema, \nsino que decida si los datos proporcionados en el enunciado del problema más los \nindicados en las afirmaciones (1) y (2) son suficientes para llegar a esa solución. \n\n \n\nConsiderando lo anterior, usted deberá marcar la letra: \n \n\nA) (1) por sí sola, si la afirmación (1) por sí sola es suficiente para responder a la \n\npregunta, pero la afirmación (2) por sí sola no lo es. \nB) (2) por sí sola, si la afirmación (2) por sí sola es suficiente para responder a la \n\npregunta, pero la afirm",
+      "cantidad_caracteres": 1517,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "1. \n5 {a – 2[b – a]} + 4b = \n \n\nA) 15a – 3b \nB) 15a – 6b \nC)   5a – 6b \nD)     a – b \n \n \n \n2. \na(a + b) + b(a – b) = \n \n\nA) a2 + 2ab + b2 \nB) 2a2 + 2ab – b2 \nC) a2 + 2ab – b2 \nD) 2ab – b2 \n \n \n \n \n3. \n6(x + y + z) – 3(x – y – z) =  \n \n\nA)  3x + 9y + 9z \nB)  3x – 6y + 9z \nC) -3x + 9y + 6z \nD)  3x + 9y – 9z \n \n \n \n4. \n3(x + y) – 4x + 5(x – y) + 6(y – x) = \n \n\nA) 2y – x  \nB) y – x  \nC) 2(2y + x) \nD) 2(2y – x)  \n \n \n \n \n5. \nSi m = -3  y  n = 6, entonces -[-m + n – (m – n)] = \n \n \n\nA) -18 \nB) -12 \nC)  12 \nD)  18 \n \n \n \n \n \n \n \n \n\n4 \n \n",
+      "cantidad_caracteres": 537,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "6. \n¿Qué valor toma la expresión m2 – m-2 + m, cuando m = -2? \n \n \n\nA) \n1\n1  4\n\n \n\nB) \n1\n1 + 4  \n\nC) \n3\n1 + 4  \n\nD) \n3\n1  4\n\n \n\n \n \n \n7. \nSi m = 0,1  y  n = 0,01, entonces el valor de n + m : n – m es \n \n\nA)  9,910 \nB)  0,100 \nC)  0,010 \nD) -0,089 \n \n \n \n8. \nSi a = 0,2;  entonces a + a2 + a3 + a4  =  \n \n\nA) 0,0692 \nB) 0,2496 \nC) 0,2640 \nD) 0,6096 \n \n \n \n \n\n9. \nSi  a  y b son dos números enteros de modo que a + 8 = b\n2\n, entonces el antecesor de \n\n(-a) es \n \n \n\nA) -2b – 7 \nB) -2b – 9 \nC)  2b + 7 \nD) -2b + 7 \n \n \n \n \n \n \n \n \n \n \n \n\n5 \n \n",
+      "cantidad_caracteres": 543,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "10. Si  a  y b son dos números reales mayores que 3, tal que a = b, ¿cuál de las siguientes \n\nigualdades es FALSA? \n \n\nA) ab = ab  \nB) a + b = 2a \n\nC) a\nb\nb\na\na\nb\n\n\n\n \n\nD) a + b\nb + a\n = \na\nb\n \n\n \n \n\n3   y   b = 1\n\n11. Si a = 1\n\n37 , entonces el valor de 5a + 2b es \n\n \n\nA) 1,715   \n\nB) 1,716  \n\nC) 1,720  \n\nD) 1,719  \n \n \n\n12. Si a-1 = 3  y  b-1 = 4,  entonces \nab\n\n = \n\n1\n1\n + \na\nb\n\nA) \n7\n12  \n\nB) 12\n\n7  \n\nC) \n1\n12  \n\nD) \n1\n84  \n\n \n \n \n \n\n\n\n1\n\n13. Si  \n2\nx\n3\n\n, entonces \n\n2\nx\nx\nx\n\n\n es igual a  \n\n\n\n \n\nA) 39\n\n8   \n\nB)   3 \n\nC) 26\n\n27  \n\nD) \n 16\n\n27  \n\n \n \n \n \n \n\n6 \n \n",
+      "cantidad_caracteres": 579,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "14. Si 504  = a2bc3, con a, b, c números primos, entonces a + b – c = \n \n \n\nA)  6 \nB) -2 \nC)  8 \nD)  2 \n \n \n \n \n \n15. Si  x +  y = 3   e    x · y = -4,  entonces   x2 + y2  es igual a  \n \n \n\nA) 17 \nB) 39 \nC) 63 \nD) \n -9 \n \n \n \n \n \n16. Si a + b = 10  y ab = 16, entonces el valor de (a2 – ab + b2) es igual a \n \n \n\nA) 52 \nB) 48 \nC) 64 \nD) 84 \n \n \n \n \n \n\n17. Si \nCB\nV\nD\nT\n\n\n, con T y C ≠ 0, entonces la expresión para B es \n\n \n\nA) \nTV D\n\n\n \n\nC\n\nB) \nT(V  D)\n\n\n \n\nC\n\nC) \nT(V + D)\n\nC\n \n\nD) TV + D\n\nC\n \n\n \n \n \n \n\n7 \n \n",
+      "cantidad_caracteres": 516,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "18. Si  q es un número real mayor que 1, entonces \n4\n5q + q  es igual a \n\n \n\n2\n5q  + 4\n\nA) \n\nq\n \n\nB) 5q + 4\n\nq\n \n\nC) 5q + 4 \nD) 9q \n \n \n \n \n19. Si  ab = ba – 4, entonces (32)1 = \n \n \n\nA) -3 \nB) -2 \nC) -1 \nD) -4 \n \n \n \n \n \n20. En los números reales se define  ab = 2a + ab – b.  Si 5  m = m3, entonces ¿cuál \n\nes el valor de m? \n \n \n\nA)  -7 \nB) 10 \nC) 13 \nD)   7 \n \n \n \n \n \n21. Si se define  a # b = a3 – 5b y  a  b = a2 – b2, entonces el valor de (3 # 2)  (-2  0) \n\nes \n \n \n\nA) 273 \nB) \n -92 \nC)   40 \nD) 928 \n\n \n \n \n \n \n \n\n8 \n \n",
+      "cantidad_caracteres": 538,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "22. Para r y s números racionales distintos de cero, con r  ±s, se define la operación \n\nr\ns\ns\nr\ns\nr\ns\ns\nr\n\n\n\n. El valor de 1\n1\n2\n3\n\n es \n\n\n\n\n\n\n \n\nA) 1\n\n6   \n\nB) 2\n\n5  \n\nC) 3\n\n5  \n\nD) 3\n\n7  \n\n \n \n\n-1\n\n23. Si a =  1\n\n-1\na  a\n1  \n\n\n\n = \n\n5 , entonces \n\na + a\n\n \n\nA) \n25\n26  \n\nB)  5\n\n6  \n\nC) 12\n\n13  \n\nD) 25\n\n13  \n\n \n \n \n\n\n\n\n2\n3\n\n4\na\na\na\n\n\n\n \n\n24. Si  a = 0,1, entonces  \n\nA) -0,99 \nB) -0,90 \nC) -0,09 \nD)  0,09 \n\n \n \n \n \n25. Si t = \n2  – 1, entonces t2 + 2t + 2 es igual a \n \n\nA)   3 \nB)   2 \nC) \n2   \n\nD) \n2  – 1 \n \n \n \n\n9 \n \n",
+      "cantidad_caracteres": 538,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "26. ¿Cuál de las siguientes expresiones describe los términos de la secuencia 1\n\n2 , 2\n\n5 , 3\n\n10 , \n\n4\n17 , 5\n\n26 ,…. para los números enteros positivos n? \n\n \n \n\n3n\n\nA) \n\n  \n\n2\n\nn  + 1\n\nn\n\nB) \n\n \n\n2\n\nn  + 1\n\nC) n + 1\n\nn + 3  \n\n2\nn + 1\n\nD) \n\n \n\nn\n\n \n \n \n \n27. Sabiendo que a, b y c son números cardinales, m y n son números naturales tales que \n\nm = 2ª  3b  y n = 2ª  3c, entonces se puede afirmar correctamente que \n\n \n \nA) m  n es siempre un número impar. \nB) m + n es siempre un número impar \nC) Si m y n tienen el mismo número de divisores, entonces b = c. \nD) Si m ≠ n, ellos pueden tener el mismo número de divisores. \n \n \n \n\n28. (PAES2) Se puede afirmar que a  b  = -1\nb  a\n\n\n\n, si se sabe que:  \n\n \n(1) a > b \n\n(2) a = b + 1  \n\n \nA) (1) por sí sola \nB) (2) por sí sola    \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n \n \n \n \n \n \n\n10 \n \n",
+      "cantidad_caracteres": 914,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "\n\n\n\n\n\n\n, entonces s\n\n2\nb\n\n4\na\nb\n\n\n\n\n\n\n\n29. Si s = \n\n  y  t = \n\nt  =  \n\na\n\n \n \n\n2\na\nb\n\n\n\n\n\n \n\nA) \n\nB)  1 \n\n8\na\nb\n\n\n\n\n\n \n\nC) \n\n6\na\nb\n\n\n\n\n\n \n\nD) \n\n \n \n \n \n30. En el último campeonato de futbol el equipo de Las Panteras perdió a partidos, empató \n\nb partidos y ganó el resto. Si T es la cantidad total de partidos que jugó el equipo, \nentonces la cantidad de partidos que ganó el equipo de Las Panteras es \n\n \n \nA) T + a + b \nB) a + b – T \nC) T – a – b \nD) T – a + b \n\n \n \n \n31. Si al término -W se le agrega p se obtiene (q – p). ¿Cuál de las siguientes expresiones \n\nes igual a W? \n \nA) -q – 2p \nB) \n  q – 2p \nC) -q \nD)  2p – q     \n\n \n \n \n32. Si m y n son dos números reales no nulos, ¿cuál(es) de las siguientes expresiones  \n\nes (son) siempre mayor(es) que m2 – 2mn? \n \n\nI) \n(m – n)2 \nII) \nm(m – 2n) \nIII) \nm – 2n \n \n\nA) Solo I     \nB) Solo III \nC) Solo I y II \nD) Solo I y III \n \n \n\n11 \n \n",
+      "cantidad_caracteres": 922,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": " \n33. (a – 0,2b)2 = \n\n \nA) a2 – 0,2b2 \nB) a2 – 0,4ab + 0,04b2      \nC) a2 – 0,04b2 \nD) a2 + 0,4ab + 0,04b2 \n \n \n \n\n2\n1\nx\n  \nx\n3\n\n\n\n\n\n\n\n\n34. \n\n =  \n\n \n\n2\nx\n\nA) \n1\nx  – 2\n\n3  + \n\n9   \n\n2\nx\n\n2\n1\n\n + 2\n\nB) \n\n3 x + \n\n9   \n\nx\n\n2\nx\n\n2\n1\n\n – 2\n\nC) \n\n3  + \n\n9       \n\nx\n\n2\nx\n\n2\n1\n\n9  – 3\n\nD) \n\n2  – \n\n \n\nx\n\n \n \n \n \n35. (4 – x)3 = \n \n\nA) 64 – 48x - 12x2 – x3 \nB) 64 – x3 \nC) 64 + 16x + 12x2 – x3 \nD) 64 – 48x + 12x2 – x3 \n \n \n \n \n\n3\n1\nab\nab\n\n\n\n\n\n\n\n\n\n36. \n\n \n\n \n\n3\n3\n3\n1\na b\n3ab\nab\na b\n\n\n\n \n\nA) \n3\n3\n\n3\n3\n3\n1\na b\n3ab\nab\na b\n\n\n\n \n\nB) \n3\n3\n\n2\n2\n3\n3\n3\n1\na b\n3a b\na b\na b\n\n\n\n \n\nC) \n3\n3\n2\n2\n\n3\n3\n1\na b\na b\n\n \n\nD) \n3\n3\n\n \n \n\n12 \n \n",
+      "cantidad_caracteres": 639,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": " \n37. (x + 3) (x – 4) = \n \n\nA) x2 – 12 \nB) x2 – 3x + 12 \nC) x2 – x + 12 \nD) x2 – x – 12 \n \n \n \n38. (a + b) (b – a) = \n  \n\nA) a2 – b2 \nB) b2 + a2 \nC) b2 – a2 \nD) b2 + 2ab + a2 \n \n \n \n39. La factorización de 2x2 – 9x – 5 es \n  \n\nA) (2x + 1)(x + 5) \nB) (2x + 1)(x – 5) \nC) (2x – 1)(x – 5) \nD) (x – 1)(2x – 5) \n\n \n \n \n\n3\n\nx\n1\nx\nx\n1\n\n\n\n\n \n\n40. Para x2 – x + 1 > 0,  \n\n2\n\n  \n\nA) x + 1 \nB) x – 1  \nC) 1 – x  \n\nD) \n1\nx\n1\n\n \n\n \n \n\n2\n2\n\n2\na\nb\n\n\n\n\n\n41.  Si a  b, y ambos  distintos de cero, entonces \n\n \n\n\n\n\na\nb\n\n \n\nA) \na\nb\na\nb\n\n\n \n\nB) a\nb\na\nb\n\n\n \n\nC) a\nb\nb\na\n\n\n \n\nD) \n1\na\nb\n\n \n\n \n \n \n\n13 \n \n",
+      "cantidad_caracteres": 599,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": "2\n\n2\n3x\n4x\n4\nx\nx\n6\n\n\n\n\n\n\n42.  Con x  2 y x  3, entonces  \n\n \n\n \n\nA) 3x + 2\n\nx + 3  \n\nB) 3x + 2\n\nx  3\n\n \n\nC) \nx  2\nx + 3\n\n\n \n\nD) x + 2\n\nx + 3  \n\n \n \n \n\n3\n2\n\n3\n2\nx\nx\n6x\n2x\n5x\n3x\n\n\n\n\n\n \n\n43.  Si x > 0 y distinto de 3, entonces  \n\n \n\nA) \nx + 2\n2x  1\n\n \n\nB) \nx  2\nx + 1\n\n\n \n\nC) 2x  1\n\n\n \n\nx + 1\n\nD) \nx + 2\n2x + 1  \n\n \n \n \n \n44.  En los números reales, ¿cuál es el conjunto de todos los números x, para los cuales la \n\n2\n\n2\nx  + 4x  12\n\n\n se indetermina? \n\nexpresión  \n\nx  + 4\n\n \n\nA) {-2, 2} \nB) {-4} \nC) {-6, 2} \nD)  \n\n \n \n \n45. ¿Cuál de las siguientes expresiones NO es equivalente a la expresión 6x2 + 15x – 9? \n \n\nA) 3x(2x + 5) – 9  \nB) 3(2x – 1)(x + 3) \nC) 3(2x2 – 3) + 5x  \nD) -3(1 – 2x)(x + 3) \n \n \n \n\n14 \n \n",
+      "cantidad_caracteres": 730,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": "46.  Se podría factorizar como un cuadrado de binomio si se suma a Q = ax2 + axz – az2,  \n\ncon a > 0, la siguiente expresión \n \n\nA) 2axz + az2 \nB) axz + 2az2 \n\nC) axz – 2az2 \nD) ax2 + axz – az2 \n \n \n \n47.  Si A = x3 – x2a + a3, ¿cuál(es) de las siguientes expresiones se puede(n) factorizar \n\ncomo un cubo de binomio? \n \n\nI) \nA + 3xa2 – 2x2a – 2a3 \nII) \nA – 2a3 \nIII) \nA – 2(xa2 + x2a + a3) \n \n\nA) Solo I \nB) Solo II \nC) Solo I y III \nD) Solo II y III \n \n \n \n\n48.  Con a, b y c distintos de cero, 1\n1\n1\n + \n \n \n =\na\nb\nc\n\n \n\n \n\nA) bc + ac + ab\n\nabc\n \n\nB) bc + ac  ab\n\n\n \n\nabc\n\nC) \na + b  c\n\n\n \n\nabc\n\nD) bc  ac + ab\n\nabc\n\n \n\n \n \n \n\n49.  Con t  0, \n2\n4\n1\n1\n1\nt\nt\nt\n\n\n \n\n \n\n3\n2\n\n6\nt\nt\n1\nt\n\n\n \n\nA) \n\n3\n2\n\n4\nt\nt\nt\nt\n\n\n \n\nB) \n\n3\n\n4\n2t\n1\nt\n\n\n \n\nC) \n\n3\n2\n\n4\nt\nt\n1\nt\n\n\n \n\nD) \n\n \n \n\n15 \n \n",
+      "cantidad_caracteres": 793,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": "50.  Con a, b y c  0, a\nb\nc\nbc\nac\nab\n\n\n \n\n \n\n2\n2\n2\na\nb\nc\nabc\n\n\n \n\nA) \n\nB) ab\nbc\nac\nabc\n\n\n \n\n2\n2\n2\na b\nab\nbc\nabc\n\n\n \n\nC) \n\n2\n2\n2\na\nb\nc\nabc\n\n\n \n\nD) \n\n \n \n \n \n \n\n2\n\n2\nx\nx\n2\nx\n2\n: x\n4\nx\n7x\n12\n\n\n\n\n\n\n\n \n\n51.  Si x  {-4, -3, -2}, entonces  \n\n \n\nA) \nx\n1\nx\n3\n\n\n \n\nB) \nx\n1\nx\n3\n\n\n \n\nC) \nx\n1\nx\n3\n\n\n \n\nD) x\n2\nx\n2\n\n\n \n\n \n \n \n \n \n\n2\n\n52.  Con x  \n5\n1\n,\n,2\n3\n2\n\n\n\n\n\n\n\n\n\n2\n3x\nx\n10\n9x\n15\n: 2x\n2\nx\nx\n2\n\n\n\n\n\n\n\n \n\n, entonces  \n\n \n\nA) 2\n\n3  \n\nB) 2(x + 1)\n\n3\n \n\nC) 3\n\n2  \n\nD) \n2\n3x + 5  \n\n \n \n \n \n \n \n\n16 \n \n",
+      "cantidad_caracteres": 529,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": "53. (2x + 3y)2 – (2x – 3y)2 = \n \n \n\nA)   0 \nB) 24xy      \nC) 24x2y2 \nD)   6y2 \n \n \n \n \n54. (p + q + r)2 – (p – q – r)2 =  \n \n \n\nA) (2q + 2n)2  \nB) 4q2 + 4r2  \nC) 2p(q + r) \nD) 4p(q + r)     \n \n \n \n \n55. Factorizando la expresión (m + n)2 + (m + n)  se obtiene \n \n \n\nA) m2 + n2 + m + n \nB) 2(m + n)2  \nC) (m + n) (m + n + 1)      \nD) (m + n)3 \n \n \n \n \n56. (a + b)2 – (a + b)(a – b) = \n \n\nA) 2a + 2b2 \nB) 2b(a + b)     \nC) 2a(a – b) \nD) 2a – 2b \n \n \n \n\n57. \n2\n(2  3)\n\n = \n \n\nA) 7\n4 3\n\n \n\nB) 4 + 2 3  \nC) 5 \nD) 7 \n \n \n \n\n17 \n \n",
+      "cantidad_caracteres": 526,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "texto": "2\n( a \n b)  \n ( b + a)( a \n b)\n\n\n\n= \n\n58. \n\n \n\nA) -2\nab  \n\nB) 2\nab  \n\nC) 2a – 2\nab  \n\nD) 2b – 2\nab      \n \n \n \n \n\n1\n1\n + \na  b\na + b\n1\n1\n  \na + b\na  b\n\n\n\n59. Si a2  b2, entonces   \n\n = \n\n\n\n\n \n \n\nA) \n 2a\n\nb  \n\nB) \n  a\n\nb  \n\nC) - a\n\nb   \n\nD)   b\n\na  \n\n \n \n \n \n \n60. Si los valores numéricos de (p – q)2 y (p + q)2 son iguales, entonces ¿cuál(es) de las \n\nsiguientes igualdades NO necesariamente es (son) verdadera(s)? \n \n \n\nI) \np – q = 0 \nII) \np = q \nIII) \npq = 0 \n \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II     \n\n \n \n \n \n \n \n\n18 \n \n",
+      "cantidad_caracteres": 551,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "texto": "-1\nx   1\ny\nx\ny\n  \ny\nx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n61. Con x e y ≠ 0;  x\ny\n\n, entonces \n\n= \n\n\n\n \n\nA) 1 + y\n\nx      \n\nB) \nx\ny  \n\nC) \n1\nx + y  \n\nD) \nx\nx + y  \n\n \n \n \n \n\n62. Con u y v ≠ 0, u ≠-v,  entonces 1\n1\nu\n + \n · \nu\nv\nu + v\n\n\n\n\n\n\n\n\n\n\n\n\n\n = \n\n \n \n\nA) \n1\nv      \n\nB) \nu\nv  \n\nC) \nv\nu  \n\nD) 1\n\nu  \n\n \n \n \n \n \n\nt\n\n2\n2\ns\n\n63. Con s y t ≠ 0; s\nt\n\n, entonces \n\n – \n\n =  \n\n2\n\ns  + st\n\ns   t\n\n\n \n \n\nA) \ns  t\nt(s + t)\n\n\n \n\nB) \ns  t\ns(s + t)\n\n\n \n\n2\n2\ns   st  t\n\n\n\n \n\nC) \n\ns(s + t)\n\n2\n2\ns   st + t\ns(s + t)(s  t)\n\n\n\nD) \n\n\n      \n\n \n \n\n19 \n \n",
+      "cantidad_caracteres": 553,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "texto": "2 = \n \n\n2 – y\n\n64. Si  y + x   = 8   y   x – y =  2, entonces  x\n\nA) \n   6 \nB) 16     \nC) 28 \nD) 36 \n \n \n \n \n\n2\n1\n\n65. Si n + 1\n\nn  = 4, entonces n2 + \n\n = \n\nn\n\n \n\nA) 10 \nB) 12 \nC) 14     \nD) 16 \n\n \n \n \n66. ¿Cuál(es) de los siguientes binomios es un divisor de la expresión 6x2 – xy – 15y2? \n\n \n\nI) \n2x – 5y \nII) \n3x – 5y \nIII) \n2x + 3y \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo II y III     \n\n \n \n \n67. La superficie de un rectángulo es 2a2 + 7a + 3. Entonces, si uno de los lados es         \n\n(2a + 1) el otro es \n \n\nA) (a – 1) \nB) (a + 3)      \nC) (2a – 1) \nD) (2a + 6) \n\n \n \n \n\n2\n4x   1\n\n68. Si x  1\n\n\n\n = \n\n2 , entonces \n\n1  2x\n\n \n\nA) 2x + 1 \nB) -(2x + 1)     \nC) -2x + 1 \nD) 2x – 1  \n\n \n \n\n20 \n \n",
+      "cantidad_caracteres": 711,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "texto": "69. La factorización de x2 – z2 + y2 – 2xy es \n \n \n\nA) (x + y – z)(x + y – z) \nB) (x – y + z)(x – y – z)     \nC) (x – y – z)(x – y – z) \nD) (x + y – z)(x – y + z) \n \n \n \n \n70. La expresión  a3 – 2a + 2b – b3, NO es equivalente a \n \n \n\nA)  a3 – 2(a – b) – b3 \nB)  (a – b)[a2 + ab + b2 – 2] \nC)  a(a2 – 2) – b(b2 – 2) \nD)  (a – b)[a2 – ab – b2 + 2]     \n \n \n \n \n71. ¿Cuál de las siguientes expresiones es equivalente a xy3 – xy4 + x2y2? \n \n \n\nA) xy(y2 – y3 + xy)     \nB) xy(xy2 – xy3 + xy) \nC) xy(y2 – y3 + 1) \nD) xy(y3 – y4 + 1) \n \n \n \n \n\n4\n3\n\n, con a2  b2  y  P = a2 + ab + b2, entonces el valor de N\n\n2\n2\na   ab\n\n\n\n72. Si N = \n\nP  cuando a = 2 \n\na   b\n\n\n\ny b = -1 es \n \n\nA)  1\n\n2  \n\nB)  2      \n\nC)  2\n\n3  \n\nD)  7\n\n3  \n\n \n \n \n \n \n \n\n21 \n \n",
+      "cantidad_caracteres": 743,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "texto": "2\n2\n2a  + ab  b  + a + b\n3a + 2b  (a + 3b  1)\n\n\n\n\n =  \n\n73. Si  2a – b   -1, entonces \n\n \nA)   a – b  \nB) 2a – b  \nC) 2a + b \nD)   a + b      \n \n \n \n \n \n \n\n74. Con a2  b2, entonces  \n2\n2\n2\n2\na\nb\na\nb\na\nb\na\nb\n\n\n\n\n\n\n\n \n\n \n\nA) \n2\n2\n2a\na\nb\n\n\n    \n\nB) \n2\n2\na\na\nb\n\n\n \n\nC) \n2\n2\n2b\na\nb\n\n\n \n\nD) \n2\n2\n1\na\nb\n\n\n \n\n \n \n \n \n \n \n \n75. Si el área de una figura plana se representa por alguna de las siguientes expresiones \n\nalgebraicas, entonces ¿cuál(es) de las siguientes proposiciones es (son) verdadera(s)? \n \n\nI) \nSi A = x2 + 8x + 16, entonces la figura puede ser un cuadrado de lado       \n(x + 4). \nII) \nSi A = x2 – 25, entonces la figura puede ser un cuadrado de lado (x – 5). \nIII) \nSi A = x2 + 9x + 18, entonces la figura puede ser un rectángulo donde uno \nde sus lados es (x + 3). \n \n\nA) Solo I \nB) Solo II \nC) Solo I y III     \nD) Solo II y III \n \n \n \n\n22 \n \n",
+      "cantidad_caracteres": 869,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "texto": "2\n\nx   6x + 9\n\n\n\nw  z\n  -(z + w)\n(3  x)\n\n\n\n\n\n-1\n\n76. Si x  3,  w  z,  \n\n = \n\n2\n\n2\n2\n\nz   w\n\n\n\n \n\nA) –z – w  \nB)  1      \nC)  0 \nD)  z + w \n \n \n \n\n2\n\n2x   18\n\n\n\n2\n5x  15\n\n\n\nx + 1\n\n77. Si  M = \n\n;  P = \n\n;  Q = \n\n,  con x > 3, entonces \n\n2\n\n2\n\n2x   12x + 18\n\n\n\n9  6x + x\n\n\n\nx   2x  3\n\n\n\n¿cuál de las siguientes opciones es siempre FALSA? \n \n \n\nA)  P = 5M \nB)  Q > M \nC)  Q > P \nD)  P < M     \n\n \n \n \n\n2\n2\n\n2\n(x + y)   (xy + 1)\n\n\n\n78. Si x  1  e  y  1, entonces al simplificar \n\n se obtiene \n\n(x   1)(1  y)\n\n\n\n\nA) 1 + y \nB) 1 + x \nC) 1 – x  \nD) x + y \n\n     \n \n \n\n2\n2\n\n3\n3\nm  + n  + 5\n\n79. Si  m + n = mn = 5, entonces  \n\n=  \n\nm  + n  + 10\n\nA)  1\n\n5  \n\nB)  1\n\n3      \n\nC)  2\n\n3  \n\n4  \n\nD)  7\n\n \n \n \n \n \n\n23 \n \n",
+      "cantidad_caracteres": 727,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 24,
+      "texto": "y  = 1   e   y + 1\n\n80. Si y  0,  z  0,  x + 1\n\nz  = 1, entonces el valor de xyz es \n\n \n\nA) -2 \nB) -1     \nC)  1 \n\nD)  1\n\n2   \n\n \n \n \n\n81. Si x es un número entero positivo diferente de -3, entonces x + 2\n\nx + 3   es igual a \n\n \n\nA) \n2\n3   \n\nB) x + 2\n\n3   \n\nC) 1\n2\n + \n3\nx + 3   \n\nD) 1 – \n1\nx + 3       \n\n \n \n \n \n\nx + 6\nA\nB\n = \n + \nx  3\nx + 2\nx   x  6\n\n\n\n\n82. Si  x  {3, -2},  y  \n\n,  entonces A + B = \n\n2\n\n \n\nA) -1 \nB) \n  0 \nC)  1      \n\nD) 9\n\n5  \n\n \n \n \n\n3\n\n3\n2\nx   x\n\n\n es una fracción no indeterminada, su simplificación corresponde a \n\n83. Si \n\nx  + 2x  + x\n\n \n\nA) \nx + 1\nx  1\n\n \n\nB) \nx  1\nx + 1\n\n\n     \n\nC) \n-1\n2x  \n\n2\n-1\n\nD) \n\n \n\n2x\n\n \n \n\n24 \n \n",
+      "cantidad_caracteres": 661,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 25,
+      "texto": "84. (PAES2) Se puede determinar que el desarrollo del producto (x + b)(x + c) es un \n\ntrinomio cuadrado perfecto, si se sabe que: \n \n\n(1) b + c = 1 \n(2) 4bc = 1 \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2)    \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n\n2\n2\np  + 2pq + q\n\n85. (PAES2) Si p  q, se puede determinar el valor numérico \n\nq  p\n\n, si se sabe \n\nque: \n \n\n(1) p – q = 4 \n\n(2) p + q = 5 \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2)     \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n\n2\n2\nx  - y\n\n86. (PAES2) Se puede determinar el valor numérico de la expresión \n\nx + y , con x  -y, si \n\nse sabe que: \n \n\n(1) x + y = 10 \n(2) x – y = 2 \n \n\nA) (1) por sí sola \nB) (2) por sí sola  \nC) Ambas juntas, (1) y (2)      \nD) Cada una por sí sola, (1) o (2) \nE) Se requiere información adicional \n \n \n\n2\n\n2\nk(k\n 9)\nk  + 3 k\n\n\n está definida, si se sabe \n\n87. (PAES2) Se puede determina",
+      "cantidad_caracteres": 1210,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 26,
+      "texto": "88. “La semisuma de q y p es igual al exceso del cubo de p sobre el triple de q” es \n\nequivalente  a  \n \n\nA) \n3\nq + p = p   3q\n2\n\n \n\nB) \n3\nq + p = p   3q\n2\n\n \n\nC) q + p = p3 – 3q \n\nD) \n3\nq + p = 3p  q\n2\n\n \n\n \n \n \n \n \n89. “El triple del antecesor de un número entero x es igual al doble del número, más  \n\n2 unidades” es equivalente  a  \n \n \n\nA) 3x – 1 = 2x + 2 \nB) 3x – 1 = 2(x + 2) \nC) 3x + 1 = 2x + 2 \nD) 3(x – 1) = 2x + 2 \n \n \n \n \n90. Si a un número x se le agregan 100 unidades se obtiene el doble del mismo número \n\nmás 10 unidades. La ecuación que expresa este enunciado es  \n \n\nA) x + 100 = 10 \nB) x – 100 = 2x +  10 \nC) x + 100 = 2x +  10 \nD) x – 100 = 2x + 10 \n \n \n \n \n91. Por x helados que se compran, se deben pagar $g. Si todos los helados tienen el mismo \n\nprecio, ¿cuál de las siguientes expresiones representa cuánto se debe pagar, en pesos, \npor tres helados adicionales? \n \n\nA) \n3\ng + x  \n\nB) \ng(x + 3)\n\nx\n \n\nC) g + 3 \n\nD) x(x + 3)\n\ng\n \n\n \n \n \n\n26 \n \n",
+      "cantidad_caracteres": 971,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 27,
+      "texto": "92. ¿Cuál de las siguientes ecuaciones es una ecuación reductible a una ecuación de primer \n\ngrado? \n \n\nA) (x – 1) (x + 2) = -x(x + 3) \nB) x2 + 2x = x(5 – x) \nC) 2x(x + 4) = (2x + 1)(x – 3) \nD) x2 + 2x – 3 = x(x + 1)(x – 1)  \n \n \n \n93. Sea la ecuación en x, (a + 5)x2 + (b – 2)x + (c + 4) = 0, ¿qué condición debe \n\ncumplirse para que sea una ecuación de primer grado? \n \n\nA) c   -4  \nB) b  2 \nC) a  -5  y  b   2 \nD) a = -5 y b  2  \n \n \n \n \n94. ¿Cuál de las siguientes expresiones representa a x, en la ecuación de primer grado      \n\n2(a + 1) = bx – 3a?  \n \n\nA) 5a\n2\nb\n\n\n, con b  0. \n\nB) 5a\n2\nb\n\n\n, con b  0 \n\nC) 5a\n2\nb\n\n\n, con b  lR \n\nD) \na\n2\nb\n\n\n, con b  0 \n\n \n \n \n \n95. ¿Cuál de las siguientes expresiones representa el valor de x en la ecuación de primer \n\ngrado  2x – 3p = px + 1?  \n \n \n\nA) 1 \nB) 4p – 1 \n\nC) 3p + 1\n\n2  p\n\n; p  2      \n\nD) 3p + 1\n\np  2\n\n; p  2 \n\n \n \n \n\n27 \n \n",
+      "cantidad_caracteres": 900,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 28,
+      "texto": "96. Si \n\n\nw\nq\nw\nq\n1 w\n3\n6\n8\n4\n\n\n\n\n\n, entonces q es siempre igual a \n\n \n\nA) 25 w\n14\n \n\nB) \n10 w\n11\n\n \n\nC) \n22 w\n17\n\n \n\nD) \n17 w\n22\n\n  \n\n \n \n \n\n97. Si 4,2 x = 42  y  6,4 ∙ 100 = w, entonces w\n\nx  =  \n\n \n\nA)        6,4 \nB)       64 \nC) 64000      \nD) 32000 \n \n \n \n \n98. El recíproco de x en la ecuación 5(x + 2) – 3 = x + 4 es \n \n\nA) - 4\n\n3  \n\nB)  11\n\n4  \n\nC)  4\n\n11  \n\nD)  4\n\n3  \n\n \n \n\n99. Con respecto a la siguiente tabla, si B\n\nA  es constante, entonces y\n\nx  = \n\n \n\nA)   8  \n\nA \nB \n4 \n12 \nx \n24 \n1\n2  \ny \n\nB) 16\n\n3  \n\nC)  8\n\n3   \n\nD) \n3\n16   \n\n2 \n6 \n\n \n \n\n28 \n \n",
+      "cantidad_caracteres": 573,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 29,
+      "texto": "100. Si la gráfica de las variables x e y es una hipérbole equilátera, y cuando x = 4, y = 6, \n\nentonces ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \nx e y son inversamente proporcionales \nII) \nSi x = 8, entonces y = 3. \nIII) \nSi x = 10, entonces y = 15. \n \n \n\nA) Solo I y II * \nB) Solo II y III \nC) Solo I y III \nD) I, II y III \n \n \n \n \n101. ¿Cuál de los siguientes gráficos representa mejor a las variables x e y que están en \n\nproporcionalidad inversa? \n \n \n \n \nA) \n \n \n \nB) \n \n \n \nC) \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \nD) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nY \n\nY \n\nY \n\nX \n\nX \n\nX \n\nY \n\nX \n\n29 \n \n",
+      "cantidad_caracteres": 628,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 30,
+      "texto": "102. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s) con respecto de las \n\ntablas de P, Q y R? \n \n \n \n \n \n \n \n \n \n \n \n\nP \nX \nY \n2 \n6 \n3 \n9 \n4 \n12 \n5 \n15 \n\nQ \nX \nY \n4 \n1 \n5 \n2 \n6 \n3 \n7 \n4 \n\nR \nX \nY \n3 \n4 \n4 \n3 \n6 \n2 \n\n8 \n3\n2  \n\nI) \nLas variables X e Y de la tabla P están en proporcionalidad directa y su \nconstante de proporcionalidad es 3. \nII) \nLas variables X e Y de la tabla Q están en proporcionalidad directa. \nIII) \nLas variables X e Y de la tabla R están en proporcionalidad inversa y su \nconstante de proporcionalidad es 12. \n \n \n\nA) Solo I \nB) Solo III \nC) Solo I y II \nD) Solo I y III  \n \n \n \n103. La ecuación x(x + 1) = x2 + 5 es equivalente a la ecuación 2x + k = 8. Entonces, el \n\nvalor de k es \n \n \n\nA)  2 \nB)  1 \nC) -2 \nD) -1  \n \n \n \n\n104. El valor de x en la ecuación  x\n3(x  5)\n3\n  \n = \n4\n2\n4\n\n\n es \n\n \n\nA) \n33\n- 5  \n\nB)  27\n\n5  \n\nC)  56\n\n11  \n\nD)  27\n\n2   \n\n \n \n \n\n30 \n \n",
+      "cantidad_caracteres": 907,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 31,
+      "texto": "105. El valor de x en la ecuación literal  4a – b(x – 1) = 2(a + x)  es \n \n \n\nA) 2a\nb\n2\nb\n\n\n, con b  2 \n\nB) \na\nb\n2\nb\n\n\n, con b  - 2 \n\nC) 2a\nb\n2\nb\n\n\n, con b  - 2 \n\nD) 2a\nb\na\nb\n\n\n, con b  -a \n\n \n \n \n \n\n106. ¿Cuál es el valor de n en la expresión 2 + n\n\nn  3\n\n, si se sabe que el doble de esta expresión \n\nes igual a 1,3 ? \n \n \n\nA) -12 \nB) -6 \nC) -3 \nD) 12 \n\n \n \n \n107. En la ecuación  4m – 2 = 3u + 2, el valor de u es \n \n\n)\n1\nm\n(\n4\n\n \n\nA) \n3\n\nm\n4\n4 \n \n\nB) \n3\n\nC) \n4 + 4m\n\n3\n \n\n1\nm\n4\n\n \n\nD) \n3\n\n   \n \n \n\n108. Si m  6\n\n\n = m\n\n2  , entonces la mitad de  m  es \n\n3\n\n \n\nA) -12 \nB) -24 \nC)   -6 \nD)    2 \n\n    \n \n \n\n31 \n \n",
+      "cantidad_caracteres": 632,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 32,
+      "texto": "109. La solución de la ecuación x + 5\n3  2x\nx\n  \n = \n4\n2\n6\n\n\n es \n\n \n\nA) - 3\n\n11  \n\nB)  3\n\n17  \n\nC) -13 \n\nD)  3\n\n13  \n\n \n \n \n \n\n110. Si 3\n\nx  – 12 es igual a 1\n\nx , entonces ¿cuál es el valor de x? \n\n \n\nA) \n1\n4  \n\nB) \n1\n6     \n\nC) 1\n\n2  \n\nD)  3 \n \n \n \n\n3\n2\n1\n2\n1\n = \n  \nx  2\nx   8\n2x  + 4x + 8\n\n\n\n\n111. El conjunto solución de la ecuación \n\n es \n\n \n\nA)  \nB) lR – {0} \nC) lR – {2}      \nD) lR – {-2, 2} \n \n \n\n2\nx + 2\n2\n\n\n\n\n\n\n\n112. En la ecuación x + 1\n2\n\n\n\n\n\n\n\nx\n1\n2\n\n\n\n\n\n\n\n\n = \n\n,  x es igual a \n\n \n\nA) \n  5 \n\nB)  5\n\n2  \n\nC) -2 \n\nD) - 5\n\n2  \n\n \n \n \n \n \n \n\n32 \n \n",
+      "cantidad_caracteres": 587,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 33,
+      "texto": "113. En la ecuación literal  a3x – b3x – ab = a2 + b2, x es igual a \n\n \n\nA) \n1\na  b\n\n; para todo a  lR y b  lR \n\nB) \n1\na + b ; para  a = b \n\nC) \n1\na  b\n\n; para a  b      \n\nD) \n1\na + b ; para a  b \n\n \n \n \n114. Si  m y n son diferentes de cero en la ecuación  x2 + n2 = (m – x)2, entonces x =  \n \n\nA) m  n\n\n\n \n\n2\n\n2\n2\nm   n\n\n\n \n\nB) \n\n2\n\n2\n2\n\n2\nm   n\n\n\n \n\nC) \n\n2m\n\n2\n2\nm   n\n\n\n     \n\nD) \n\n2m\n\n \n \n \n\n115. Si m + 2n = 30, ¿cuál es el valor de m\n2n\n2n\nm\n5\n3\n5\n3\n\n\n\n? \n\n \n\nA)   8 \nB) 16 \nC) 18 \nD) 20 \n \n \n \n\n116. ¿Cuál es  el valor de 5P – 6, si 2Q(5P – 6) = 15P – 18 y \n3\nQ\n2\n\n? \n\n \n\nA) 0,0 \nB) 1,5 \nC) 0,5 \nD) 0,4 \n\n \n \n \n \n \n \n\n33 \n \n",
+      "cantidad_caracteres": 646,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 34,
+      "texto": "117. En la ecuación 3(x + k) – 2(x + 5) = 8k, ¿cuál debe ser el valor de k para que la \n\nsolución sea x = 5? \n \n\nA)  0 \nB)  1 \nC) -1 \nD)  2 \n\n \n \n118. Si  la  solución de la ecuación en x,  3a + x(3 – a) = a (x + 5) es -4, ¿cuál es el valor \n\nde a? \n \n \n\nA)  2 \nB)  1 \nC)  0,5 \nD) -1 \n\n \n \n\n119. En la ecuación 2\n6\n + 8 = \nx\nx , el recíproco de x es \n\n \n\nA) \n  1\n\n2  \n\nB) - 1\n\n2  \n\nC)   4 \nD) -2 \n\n \n \n120. La solución de  la ecuación en x, 4(x + k) – (x + 3) = 6x + k, pertenece a los reales \n\npositivos, si el valor de k es \n \n\nA) igual a 1. \nB) todo número real. \nC) menor que 1. \nD) mayor que 1. \n \n \n\n121. ¿Qué valor debe tener x para que la suma entre \n6\nx\n2\n\n  y \n2\nx\n3\n\n\n8\nx\n5x\n6\n\n\n, \n\n\n sea igual a \n2\n\nsi x  {-3, -2}? \n \n\nA) - 3\n\n2  \n\nB) - 1\n\n2  \n\nC)  5\n\n2  \n\nD) -2 \n \n \n\n34 \n \n",
+      "cantidad_caracteres": 794,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 35,
+      "texto": " \n122. Dada la ecuación en x, ax = bx + c, ¿cuáles de  las siguientes afirmaciones son \n\nsiempre verdaderas? \n \n\nI) \nLa solución de la ecuación es positiva. \nII) \nLa ecuación siempre tiene solución. \nIII) \nLa solución de la ecuación es menor que 1. \n \n\nA) Solo I y II \nB) Solo II y III \nC) Solo I y III \nD) Ninguna de las opciones anteriores \n \n \n \n123. ¿Cuáles de las siguientes afirmaciones son verdaderas para la ecuación 2x + 6 = 4(x + 5)? \n \n\nI) \nTiene solución única. \n\nII) \nEl recíproco de x es 1\n\n7 . \n\nIII) \nLa solución pertenece al conjunto de los números enteros. \n \nA) Solo I y II \nB) Solo I y III \nC) Solo II y III \nD) I, II y III \n \n \n\n124. El conjunto solución de la ecuación  \nx\n5\n1\n6\nx\nx\n6\nx\n6\n\n\n\n\n\n\n es \n\n \n\n \nA) {6} \nB) {-6} \nC)  \nD) {0} \n \n \n \n \n\n125. (PAES2) Si  1 + 1\nx + 1\n = \nx\nx\n, con x ≠0, entonces x =  \n\n \n \n\nA) cualquier valor real, excepto el cero \nB) 1 solamente \nC) ningún valor real \nD) cualquier valor real \n \n \n \n \n\n35 \n \n",
+      "cantidad_caracteres": 964,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 36,
+      "texto": "126. (PAES2) En la ecuación 8x + 2(x + 1) = 7(x – 2) + 3(x + 1) + 13  se puede afirmar \n\nque \n \n \n\nA) su solución es -2. \nB) su solución es 3. \nC) su solución es -1. \nD) admite infinitas soluciones. \n \n \n \n127. (PAES2) ¿Qué condición debe cumplir el parámetro p, para que la ecuación             \n\n5px – 3 = 4x + p, no tenga solución? \n \n\nA) \n4\np\n5\n\n \n\nB) \n4\np\n5\n\n \n\nC) \n4\np\n5\n\n \n\nD) \n4\np\n5\n\n, p  -3 \n\n \n \n \n128. (PAES2) Dada la ecuación en x, 6x + t + 3 = tx + 4t, ¿cuál(es) de las siguientes \n\nafirmaciones  es (son) verdadera(s)? \n \n\nI) \nSi t = 6 la ecuación tiene infinitas soluciones. \nII) \nSi t = 1, la ecuación tiene única solución. \nIII) \nSi t  1, la ecuación no tiene solución. \n \n\nA) Solo II \nB) Solo I y II \nC) Solo II y III \nD) Solo I y III \n\n \n \n \n129. (PAES2) Sea la ecuación en x, 2t + x(4 – t) = 5(x + 2), ¿cuál(es) de las siguientes \n\nafirmaciones es (son) verdadera(s)? \n \n\nI) \nSi t  -1, la ecuación tiene solución única. \nII) \nSi t = -1, la ecuación no tiene solución. \nIII",
+      "cantidad_caracteres": 1120,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 37,
+      "texto": "130. (PAES2) Dada la ecuación en x, \n1\nax\nbx\nc\n\n\n en que a, b y c son números reales no \n\nnulos, ¿cuál de las siguientes afirmaciones es siempre verdadera? \n\n \nA) Si a + b = 0, la ecuación tiene infinitas soluciones. \nB) Si a = -b, entonces la ecuación no tiene solución. \nC) El conjunto solución de la ecuación puede ser {0}. \nD) La suma ac + bc nunca tendrá el valor 0. \n \n \n \n \n \n131. (PAES2) Para que la ecuación de primer grado en x,  m2x = mn + n2x tenga solución \n\núnica se debe cumplir que \n\n \n\nA) \n2\n2\nmn\nm\nn\n\n\n \n\nB) m2 – n2 > 0 \nC) m ≠ 0 ó n ≠ 0 \nD) m ≠ n y m ≠ -n \n\n \n \n \n \n \n132. Si el triple del recíproco de un número, disminuido en la unidad es igual al recíproco del \n\nmismo número, ¿cuál de las siguientes afirmaciones es FALSA? \n \n\nA) El recíproco es el 25% del número. \nB) El producto del número y su recíproco es igual a -1. \nC) La diferencia positiva entre el número y su recíproco es 1,5. \nD) El cuociente entre el número y su recíproco es mayor que el número. \n \n \n \n \n\n133.",
+      "cantidad_caracteres": 1153,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 38,
+      "texto": "134. Catalina salió de compras y gastó 5\n\n7  del dinero que llevaba. Luego retiró de un cajero \n\nautomático 3\n\n2  del dinero que no gastó. ¿Qué fracción del dinero que tiene ahora debe \n\nvolver a retirar del cajero para igualar la cantidad del dinero que tenía antes de \ncomenzar a comprar? \n\n \n \n\nA) 2\n\n \n\n3\n\nB) 3\n\n5  \n\nC) 2\n\n7  \n\nD) 2\n\n5  \n\n \n \n \n135. (PAES2) La expresión (7t – 3u) es igual a 0, si se sabe que: \n \n\n(1) u\n\nt  = 2,3  \n\n(2) u = 7\n\n3   y  t = 1 \n\n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas (1) y (2) \nD) Cada una por sí sola (1) ó (2)     \nE) Se requiere información adicional \n \n \n136. (PAES2) En la igualdad p = 2q – 2 el valor de p es 8, si se sabe que: \n \n\n(1) q = 5 \n\n(2) q = p – 3 \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n \n \n \n\n38 \n \n",
+      "cantidad_caracteres": 885,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 39,
+      "texto": "137. (PAES2) Sea la ecuación ax + b = cx, en x, donde a, b y c son números enteros \n\npositivos y diferentes entre sí. Se puede determinar que la solución de la ecuación es \nun entero, si se sabe que: \n \n\n(1) c > a \n(2) b es múltiplo de c. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas (1) y (2) \nD) Cada una por sí sola (1) ó (2) \nE) Se requiere información adicional \n \n \n138. (PAES2) Dada la ecuación ax + b = c, con a, b y c números reales, se puede \n\ndeterminar que tiene dos soluciones reales y distintas, si se sabe que: \n \n\n(1) a  0 \n(2) c es un número natural. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas (1) y (2) \nD) Cada una por sí sola (1) ó (2) \nE) Se requiere información adicional \n \n \n \n139. Un padre decide repartir su herencia entre sus hijos, por lo cual a cada uno le \n\ncorresponden $(5A + 6B). Si tres de sus hijos renuncian a la herencia, a cada uno de \nlos restantes le corresponde $(8A + 3B), entonces si A ≠ B, ¿cuántos hijos tiene el \npadre?",
+      "cantidad_caracteres": 1124,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 40,
+      "texto": "140. El contenido de agua de un estanque de acopio es dos tercios de su capacidad. Si se \n\nagregan p litros más de agua, su contenido aumenta hasta los cuatro quintos de su \ncapacidad. ¿Cuál de las siguientes expresiones corresponde a la capacidad total del \nestanque? \n \n\n-1\n4\n2\np\n  \n5\n3\n\n\n\n\n\n\n\n\nA) \n\n \n\n-1\n2\n4\np\n  \n3\n5\n\n\n\n\n\n\n\n\nB) \n\n \n\nC) \n4\n2\np  \n  \n5\n3\n\n\n\n\n\n\n\n\n\n \n\nD) 5 2 + p\n4 3\n\n\n\n\n\n\n\n\n \n\n \n \n \n141. En un concurso, por cada respuesta correcta se gana $ p y por cada respuesta \n\nincorrecta se pierde $ q, (p > q). Si una persona responde en total p preguntas y de \nellas q son correctas, ¿cuánto dinero ganó? \n\n \nA) $ q2  \nB) $ p2     \nC) $ q2 – pq \nD) $ q(p – q)  \n \n \n \n142. Los lados de un rectángulo son (x + 2) y (x – 1). ¿Qué valores puede tomar x para que \n\nel perímetro del rectángulo sea igual a 18 unidades? \n \n\nA) 17\n\n2  \n\nB) 19\n\n2  \n\nC) 3 \nD) 4 \n \n \n \n143. Para elaborar un postre de frutas se requieren 2 kg de chirimoya y 1 kg de naranjas. Si \n\n5 kg de ",
+      "cantidad_caracteres": 1201,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 41,
+      "texto": "144. (PAES2) Si A, B y C son números reales positivos, con A\nB\n\n, en la fórmula 1\n1\n1\nA\nB\nC\n\n\n, \n\nse puede determinar el valor de C, si se conoce: \n \n\n(1) el valor de \n1\nB\nA\n\n. \n\n(2) el valor de A y B. \n\n \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas (1) y (2) \nD) Cada una por sí sola (1) ó (2) \nE) Se requiere información adicional \n \n \n145. (PAES2) Se puede determinar el valor de k, si se sabe que: \n \n\n(1) k es positivo. \n(2) la tercera parte del cubo de k es 9. \n\n \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas (1) y (2) \nD) Cada una por sí sola (1) ó (2) \nE) Se requiere información adicional \n \n \n146. Un niño compra 20 cuadernos, unos de 60 hojas y los otros de 80 hojas. Si en total hay \n\n1.440 hojas. ¿Cuántos cuadernos de 80 hojas compró? \n\n \nA)   8 \nB) 10 \nC) 12 \nD) 14 \n \n \n \n\n147. Se vende una bandeja de 100 pasteles en $ 130p. Si se gasta la mitad de los $ 130p en \n\ncacao para fabricar chocolates y éstos se venden al doble de los pasteles, ¿cuánto \n",
+      "cantidad_caracteres": 1088,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 42,
+      "texto": "148. En una biblioteca hay estantes con subdivisiones donde caben 7 libros de las mismas \n\ndimensiones. Si llega una partida de 600 de esos libros y se va completando \nordenadamente las subdivisiones. ¿Cuál es el menor número de libros que faltaría para \ntener sólo subdivisiones llenas? \n\n \nA) 1 \nB) 2 \nC) 5 \nD) 6 \n\n \n\n \n \n\n149. Una piscina tiene agua hasta 3\n\n5  de su capacidad, si le sacan 120 litros de agua llega \n\nhasta la mitad, ¿cuál es la capacidad total de la piscina? \n \n\nA) \n    300 litros \nB) \n    800 litros \nC) 1.000 litros \nD) 1.200 litros \n \n \n \n \n\n150. Para el cumpleaños de su hijo, Fernanda comprará bebidas de \n1\n1 2  litro. Si cada niño \n\nconsume en promedio 1\n\n4  de litro y asistirán 22 niños, ¿cuántas botellas debe comprar \n\ncomo mínimo? \n\n \nA) 3 \nB) 4 \nC) 5 \nD) 6 \n \n \n \n \n151. Don Felipe tiene 3 tambores iguales, llenos de leche fresca y la vende a $ 600 el litro. \n\nUn cliente le compró dos tercios de un tambor cancelando $ 15.600 por todo. ¿Cuántos \nlitros de leche l",
+      "cantidad_caracteres": 1105,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 43,
+      "texto": "152. Si se reparten 12 conservas por caja quedan 8 conservas fuera, y si se reparten 16 por \n\ncaja, sobra una caja. ¿Cuántas conservas se desean guardar? \n\n \nA) 80 \nB) 72 \nC) 32 \nD)   6 \n\n \n \n \n153. Cristián tiene 95 monedas iguales y las reparte en tres cajas de manera que cada una \n\ntiene dos tercios de la anterior, ¿cuánto tiene la caja que tiene más monedas? \n \n\nA) 20 \nB) 45 \nC) 35 \nD) 40 \n\n \n \n \n154. Un trozo de madera de 425 cm se corta varias veces de forma  tal que después de cada \n\ncorte se toma el trozo mayor que corresponde a los 3\n\n5  del trozo inmediatamente \n\nanterior. Luego del tercer corte el largo del trozo mayor es \n \n\nA)   30,6 cm \nB)   61,2 cm \nC)   91,8 cm \nD) 153 cm \n \n \n \n155. Fernando tiene una gran cartulina en forma rectangular de 56 cm de ancho y 252 cm \n\nde largo y desea recortar cuadrados en él. Entonces, ¿cuáles serían las medidas de \ndicho cuadrado para que sea el de mayor longitud? \n\n \nA)   4 cm \nB)   7 cm \nC) 14 cm \nD) 28 cm \n\n \n \n\n156. Paulina cuenta d",
+      "cantidad_caracteres": 1210,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 44,
+      "texto": "157. Dos semáforos encienden en color rojo con intermitencias de 1,2 minutos y  \n\n54 segundos, respectivamente. Si a las 12:00 horas 17 minutos se encuentran ambos \nencendidos,  ¿a qué hora estarán ambos encendidos simultáneamente? \n \n \n\nA) 12:00 horas, 18 minutos, 56 segundos \nB) 12:00 horas, 20 minutos, 36 segundos \nC) 12:00 horas, 19 minutos \nD) 12:00 horas, 19 minutos, 48 segundos \n \n \n \n158. En un disco digital se pueden grabar 2 horas en SHD o 4 horas en HD o 6 horas en HQ. \n\nDespués de grabar 32 min en SHD y 44 min en HD. ¿Cuánto tiempo se puede grabar \nen HQ? \n \n\nA) 2 h y 55 min \nB) 3 h  \nC) 3 h y 18 min   \nD) 4 h y 45 min \n \n \n \n \n159. Un grupo de 5 estudiantes decide recorrer 1.200 km para ir a ver un partido de la \n\nselección chilena. Los primeros dos tercios del trayecto lo realizan en camioneta. El \n20% del resto lo realizan caminando, hasta que un auto los lleva durante un trayecto \nque corresponde a las tres cuartas partes de lo que aún queda por recorrer, finalmente \nll",
+      "cantidad_caracteres": 1690,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 45,
+      "texto": "161. Un alambre de 91 m de longitud se corta en cuatro trozos, de modo que cada trozo \n\ntiene una longitud igual a la del trozo anterior aumentado en su mitad. ¿Cuál es la \nlongitud, en metros, del trozo más corto?  \n \n\nA)   7,2 \nB) 10,6 \nC) 11,2 \nD) 16,4 \n \n \n \n \n \n\n162. Dos hermanos han sacado bolitas de una caja. Uno sacó 4\n\n7  de las bolitas, y el otro sacó \n\n7\n9  de las bolitas que quedaban en la caja. Al final quedaron en la caja solo 10 bolitas, \n\n¿cuántas bolitas había inicialmente en la caja? \n\n \n \nA)   42 \nB)   68 \nC)   85 \nD) 105   \n\n \n \n \n \n \n163. Un señor deja una herencia para repartir entre sus cuatro hermanos, tres tíos, dos \n\nprimas y su empleada. Si cada hermano recibió la octava parte de la herencia, cada tío \nla octava parte de lo que recibió cada hermano y cada prima la mitad de lo que recibió \ncada tío, entonces ¿qué parte de la herencia recibió su empleada? \n\n \n \n\nA) 23\n\n32  \n\nB)  7\n\n8  \n\nC)  9\n\n32  \n\nD) Ninguna de las anteriores \n \n \n\n45 \n \n",
+      "cantidad_caracteres": 979,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 46,
+      "texto": "164. En un consultorio se atiende aproximadamente a 1.200 personas semanalmente, de los \n\ncuales la mitad son niños de hasta un año, un cuarto son niños que superan el año y no \nsobrepasan los 10 años, un quinto tiene entre 10 y 18 años y el resto son mayores de \n\nedad, de los cuales 2\n\n3  son hombres. Entonces, ¿qué parte de los que se atienden \n\nsemanalmente son mujeres mayores de edad? \n \n \n\nA) \n1\n20  \n\nB) \n1\n30  \n\nC) \n1\n60  \n\nD) \n1\n12  \n\n \n \n \n165. Fernando ha decidido repartir sus 1.500 hectáreas de campo entre sus hijos, al mayor \n\nle entrega 2\n\n5  del total, al segundo 4\n\n9  del resto, al más pequeño 4\n\n5  de lo que resta y \n\ndejando el resto para áreas comunes. ¿Cuántas hectáreas quedarán para áreas \ncomunes? \n \n\n \nA) 100 \nB) 200 \nC) 400 \nD) 500 \n \n \n \n \n\n8  de su sueldo en telefonía, 1\n\n166. Consuelo gasta mensualmente 1\n\n10  en locomoción, 1\n\n4  en el \n\nsupermercado y el resto lo ahorra. Este mes redujo su gasto de telefonía a la mitad, en \nlocomoción gastó el doble y en supe",
+      "cantidad_caracteres": 1158,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 47,
+      "texto": "167. En cierta ciudad 21\n\n25  del total de calles están pavimentadas, pero si se pavimentan  \n\n30 calles más, entonces 9\n\n10  del total estarían pavimentadas. ¿Cuántas calles tiene esta \n\nciudad? \n \n \n\nA) 384 \nB) 480 \nC) 500 \nD) 580 \n \n \n \n \n168. Francisco trabaja todos los fines de semana como empaquetador en un supermercado. \n\nDel total de propinas que recibió el fin de semana pasado, gastó un tercio en revistas y \nla mitad del resto en artículos de aseo. Si le sobraron $ 19.000, ¿cuál(es) de las \nsiguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLo que gastó en conjunto entre revistas y artículos de aseo es el doble del \ndinero que le sobró. \nII) \nSi las revistas hubieran tenido un 20% de descuento, a Francisco le \nhubieran sobrado $ 22.800. \nIII) \nFrancisco ganó en propinas $ 57.000. \n \n \n\nA) Solo III \nB) Solo I y III \nC) Solo II y III \nD) I, II y III \n \n \n\n169. El ahorro mensual de Juan es de $120.000, que corresponde a 1\n\n6  de su sueldo. \n\n¿Cuánto gasta Juan en un trimestre",
+      "cantidad_caracteres": 1288,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 48,
+      "texto": "171. El  sueldo  de  Antonio  es  9\n\n10   del sueldo de Eduardo. La diferencia de los sueldos es  \n\n$ 50.000. ¿Cuál es el sueldo de Antonio? \n \n \n\nA) $ 550.000 \nB) $ 500.000 \nC) $ 400.000 \nD) $ 450.000 \n \n \n \n172. Benjamín compró una caja que contiene 300 ampolletas, en el viaje a su casa pierde un \n\ncuarto de ellas, del resto vende un quinto, ¿cuántas ampolletas le quedan a Benjamín? \n \n \n\nA)   75 \nB)   90 \nC) 180 \nD) 200 \n \n \n \n173. (PAES2) En un curso de 60 alumnos, 20 son hombres. Se puede determinar el número \n\nde hombres que reprobaron el curso, si se sabe que: \n \n\n(1) en total reprobaron 30 alumnos. \n\n(2) aprobó el 50% del total de mujeres. \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n174. Felipe estaba un poco aburrido en una sala y se puso a contar a las personas, entonces \n\ndijo que: “Si al quíntuplo de la cantidad de personas le restamos 6, entonces sería lo \nmismo que ",
+      "cantidad_caracteres": 1147,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 49,
+      "texto": "175. Si la diferencia de dos números es 14.560 y el doble del mayor es 60.000, entonces \n\n¿en cuánto excede el número 76.543 al menor de los dos números? \n \n\nA) 61.103 \nB) 61.983 \nC) 60.000 \nD) 62.104 \n\n \n \n \n \n176. Sergio compró una docena de carpetas, 1 cuaderno, 3 gomas y 8 lápices. El cuaderno \n\nle costó $ 500, cada lápiz $ 300 menos que el cuaderno, cada carpeta $ 300 más que el \ncuaderno y cada goma el 20% del cuaderno, ¿cuál(es) de las siguientes afirmaciones  \nes (son) verdadera(s)? \n \n \n\nI) \nLo pagado entre cuaderno y gomas, fue la mitad que lo cancelado por los \nlápices. \nII) \nLo que pagó Sergio por las carpetas equivale a 6 veces lo que pagó por los \nlápices. \nIII) \nLo que pagó por las carpetas equivale a lo que pagó por el resto de los \nútiles. \n \n \n\nA) Solo II \nB) Solo I y II \nC) Solo II y III \nD) Solo I y III \n \n \n \n \n177. El precio de venta de 5 kilógramos de uva es $p, mientras que 8 kilógramos de plátano \n\ncuestan $m. ¿Cuál es el precio que se deberá pagar por 2 kilos ",
+      "cantidad_caracteres": 1129,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 50,
+      "texto": "178. María va al mercado y compra 5 kg de pescado en $p y 6 kg de mariscos en $m. La \n\nexpresión que representa el precio de 1 kg de pescado y 1 kg de marisco es \n \n \n\nA) p\nm\n + \n5\n6  \n\nB) 5p + 6m \nC) p + m \n\nD) p\nm\n + \n6\n5  \n\n \n \n \n \n179. En una liquidación se compran 5 bluejeans y 3 poleras en $ 74.400. Si las poleras antes \n\nde la liquidación costaban $6.000 y tienen un 20% de descuento, ¿cuánto habría que \npagar por 3 bluejeans y 4 poleras? \n \n \n\nA) $ 58.000 \nB) $ 55.200 \nC) $ 55.600 \nD) $ 56.000 \n\n \n \n \n \n180. Se tienen dos clases de café: A de $ 5.600/kg y B de $ 8.000/kg. ¿Cuántos kilógramos \n\nde cada clase de café hay que poner para obtener 60 kilógramos de mezcla a $ 7.040? \n \n \n\nA) A : 24 kg; B : 36 kg \nB) A : 16 kg; B : 44 kg \nC) A : 36 kg; B : 24 kg \nD) A : 26 kg; B : 34 kg \n \n \n \n \n\n181. Si el cuociente de inteligencia se representa por IQ y está dado por \n100m\nIQ\nc\n\n, siendo \n\nm la edad mental y c la edad cronológica, entonces la edad mental de un niño de  \n10 años, que ",
+      "cantidad_caracteres": 1094,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 51,
+      "texto": "182. La diferencia entre dos números es 55 y están en la razón de 16 : 5, ¿cuál es el \n\nnúmero menor? \n \n \n\nA) 75 \nB) 80 \nC) 50 \nD) 25 \n \n \n \n \n183. Si al doble de un número se le suma 3 y este resultado se eleva al cuadrado, el \n\nresultado que se obtiene es el mismo que cuando se suma 33 al cuádruplo del \ncuadrado del número. ¿Cuál(es) de las siguientes afirmaciones es (son) FALSA(S) con \nrespecto al número? \n \n\nI) \nEs un número par. \nII) \nEs un número primo \nIII) \nEs un número racional entero. \n \n \n\nA) Solo I y II \nB) Solo II y III \nC) I, II y III \nD) Ninguna de ellas \n \n \n \n184. En un número de dos cifras el dígito de las decenas es tres unidades mayor que el \n\ndígito de las unidades. Si la suma de las cifras es 7, entonces el número es \n \n\nA) 34 \nB) 52 \nC) 25 \nD) 61 \n \n \n \n \n185. En un número de tres cifras, el dígito de las decenas es el promedio del dígito de las \n\nunidades y las centenas, mientras que el dígito de las unidades es el triple del dígito de \nlas centenas, que es x. ",
+      "cantidad_caracteres": 1088,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 52,
+      "texto": "186. Las dos cifras de un número son pares consecutivos. Si el número es igual a 7 veces la \n\nsuma de sus cifras, entonces el número es \n \n\nA) 24 \nB) 46 \nC) 42 \nD) 64 \n \n \n \n \n187. La suma de los dígitos de un número de dos cifras es 9. Si se invierten las cifras resulta \n\nun número que excede en 27 unidades al número original, entonces ¿cuál es el número \noriginal? \n \n \n\nA) 81 \nB) 36 \nC) 63 \nD) 45 \n\n \n \n \n \n \n188. Santiago y Temuco están aproximadamente a 680 km. Si A sale de Santiago en auto y \n\nconduce por una hora a una velocidad promedio de 60 km, para posteriormente \naumentar a una velocidad de 100 km por 3 horas, ¿a qué velocidad debe recorrer el \nresto del trayecto si desea hacer el viaje completo en 6 horas? \n \n \n\nA) 100 km/h \nB) 120 km/h \nC) 180 km/h \nD) 160 km/h \n\n \n \n \n \n \n189. Jorge y Luis viajan en autos diferentes desde el punto A hacia el B. Si parten al mismo \n\ntiempo, Jorge va a una velocidad promedio de 100 km/h, mientras Luis viaja a  \n90 km/h, ¿cuántas horas deben ",
+      "cantidad_caracteres": 1131,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 53,
+      "texto": "190. A y B parten desde el mismo punto para realizar un trayecto de 500 km. A parte a las \n\n8:00 horas conduciendo a una velocidad promedio de 80 km/h, mientras que B parte a \nlas 10:00 horas conduciendo a 120 km/h, en promedio. ¿Cuál(es) de las siguientes \nafirmaciones es (son) verdadera(s)? \n \n\nI) \nSe encuentran a las 6 horas de conducción de A. \nII) \nB no alcanza a A antes de llegar al final del trayecto. \nIII) \nA llega a destino a las 14 horas 15 minutos. \n \n\nA) Solo III \nB) Solo I y III \nC) Solo II y III \nD) I, II y III \n \n \n \n191. Un padre tiene el doble de la edad que tiene su hija y en 6 años más tendrá solo los \n\n13\n\n7  de la edad que tendrá ella. ¿Cuál es la diferencia positiva de sus edades actuales? \n\n \n\nA) 30 años \nB) 36 años \nC) 38 años \nD) 40 años \n \n \n \n192. La suma de las edades actuales de un padre y su hijo es 70. Si el padre tenía 30 años \n\ncuando nació su hijo, entonces la edad actual del hijo es \n \n\nA) 20 años \nB) 10 años \nC) 30 años \nD) 25 años \n\n \n \n \n193. Cuand",
+      "cantidad_caracteres": 1229,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 54,
+      "texto": "194. Cuando nació Francisco su padre tenía 25 años y la edad que su padre tenía hace  \n\n20 años es igual a la mitad de la edad que Francisco tendrá en 20 años más. ¿Cuánto \nsuman sus edades actuales? \n \n \n\nA) 10 años \nB) 35 años \nC) 40 años \nD) 45 años \n\n \n \n \n \n \n195. Dentro de 8 años la edad de Pablo será el doble de la edad de Benjamín. Si hace 2 años \n\nla edad de Pablo era el triple de la edad de Benjamín. ¿Cuánto suman sus edades en la \nactualidad? \n \n \n\nA) 44 años \nB) 32 años \nC) 40 años \nD) 42 años \n \n \n \n \n196. Pablo y Mario hacen el mismo trabajo. Pablo se demora por sí mismo 5 horas, mientras \n\nMario se demora 4 horas. ¿Cuánto tiempo se demorarán, aproximadamente, en hacer \njuntos el trabajo? \n \n \n\nA) 2 horas 20 minutos \nB) 2 horas 13 minutos \nC) 1 hora 45 minutos \nD) 2 horas 36 minutos \n \n \n \n197. Dos satélites artificiales recorren la misma órbita en torno a la Tierra. El primero de \n\nellos lo hace con una velocidad de 3000 km/min empleando 1 hora y 20 minutos en dar \nuna v",
+      "cantidad_caracteres": 1229,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 55,
+      "texto": "198. Don Juan tiene 60 años de edad y sus hijos 20, 18 y 16 años. ¿Hace cuántos años la \n\nsuma de las edades de los hijos era 2\n\n de la edad que tenía Don Juan? \n\n3\n\n \n\nA) 4 \nB) 5 \nC) 6 \nD) 7 \n\n \n \n \n \n199. Sabiendo que Moisés es 6 años mayor que Daniel y que el año 2000 la suma de sus \n\nedades era la cuarta parte de la suma de las edades en 2015, ¿en qué año la suma de \nsus edades será el doble de la correspondiente al año 2015? \n \n\nA) 2045 \nB) 2025 \nC) 2030 \nD) 2035 \n\n \n \n \n \n200. (PAES2) Entre Pablo, Nicolás y Ricardo se comieron 2,5 kg de asado. Se puede \n\ndeterminar quién fue el que comió más, si se sabe que: \n \n\n(1) Nicolás comió el doble que Pablo y el triple que Ricardo. \n(2) Ricardo comió menos que Pablo y éste menos que Nicolás. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas (1) y (2) \nD) Cada una por sí sola (1) ó (2) \nE) Se requiere información adicional \n \n \n \n \n\n \n \n \n\n55 \n \n",
+      "cantidad_caracteres": 915,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 56,
+      "texto": "CLAVES EJERCICIOS \n \n \n\n1 \nB \n26 \nB \n51 \nC \n76 \nB \n101 \nC \n126 \nD \n151 \nA \n176 \nB \n\n2 \nC \n27 \nC \n52 \nA \n77 \nD \n102 \nD \n127 \nC \n152 \nA \n177 \nB \n\n3 \nA \n28 \nD \n53 \nB \n78 \nA \n103 \nC \n128 \nA \n153 \nB \n178 \nA \n\n4 \nD \n29 \nA \n54 \nD \n79 \nB \n104 \nB \n129 \nD \n154 \nC \n179 \nB \n\n5 \nA \n30 \nC \n55 \nC \n80 \nB \n105 \nC \n130 \nB \n155 \nD \n180 \nA \n\n6 \nC \n31 \nD \n56 \nB \n81 \nD \n106 \nA \n131 \nD \n156 \nA \n181 \nB \n\n7 \nA \n32 \nA \n57 \nA \n82 \nC \n107 \nA \n132 \nB \n157 \nB \n182 \nD \n\n8 \nB \n33 \nB \n58 \nD \n83 \nB \n108 \nC \n133 \nA \n158 \nC \n183 \nD \n\n9 \nD \n34 \nC \n59 \nC \n84 \nC \n109 \nD \n134 \nD \n159 \nC \n184 \nB \n\n10 \nA \n35 \nD \n60 \nD \n85 \nC \n110 \nB \n135 \nD \n160 \nD \n185 \nA \n\n11 \nC \n36 \nB \n61 \nA \n86 \nB \n111 \nC \n136 \nD \n161 \nC \n186 \nC \n\n12 \nD \n37 \nD \n62 \nA \n87 \nC \n112 \nD \n137 \nE \n162 \nD \n187 \nB \n\n13 \nC \n38 \nC \n63 \nD \n88 \nA \n113 \nC \n138 \nC \n163 \nD \n188 \nD \n\n14 \nC \n39 \nB \n64 \nB \n89 \nD \n114 \nD \n139 \nD \n164 \nC \n189 \nA \n\n15 \nA \n40 \nA \n65 \nC \n90 \nC \n115 \nB \n140 \nA \n165 \nA \n190 \nB \n\n16 \nA \n41 \nB \n66 \nD \n91 \nB \n116 \nA \n141 \nA \n166 \nD \n191 \nB \n\n17 \nB \n42",
+      "cantidad_caracteres": 1549,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

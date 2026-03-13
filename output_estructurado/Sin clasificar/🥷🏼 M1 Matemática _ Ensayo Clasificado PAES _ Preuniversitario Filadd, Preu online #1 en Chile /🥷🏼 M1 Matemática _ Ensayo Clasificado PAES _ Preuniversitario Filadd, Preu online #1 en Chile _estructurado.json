@@ -1,0 +1,1171 @@
+{
+  "archivo_original": "🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile .pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/2.Fillad/z Ensayos Clasificados Fillad/🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile .pdf",
+  "materia": "Sin clasificar",
+  "num_paginas": 34,
+  "fecha_procesamiento": "2026-03-07T22:25:37.243806",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. El resultado de la expresión \n es igual a:\n\n−4 −(−5) ⋅2\n\n−14",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "14"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. Un jarro de jugo nos permite llenar  vasos de \n cada uno. ¿Cuántos vasos de \nse necesitarán para llenar  jarros de igual capacidad que el anterior?\n\n4\n250 ml\n200 ml\n3\n\n4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. Si \n. Entonces el resultado de \n es:\n\na = 1,3\na2\n\n1,4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,6"
+        },
+        {
+          "letra": "B",
+          "texto": "1,7"
+        },
+        {
+          "letra": "C",
+          "texto": "1,9"
+        },
+        {
+          "letra": "D",
+          "texto": "​8 3 ​6 1 ​8 1"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. Un estudiante dedica \n del día para dormir, \n del día para ir al colegio, \n del día para comer\n\ny el resto del día lo dedica al tiempo libre, ¿qué fracción del día la dedica a dicho tiempo libre?\n\n​3\n1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "​3 2"
+        },
+        {
+          "letra": "B",
+          "texto": "​8 2"
+        },
+        {
+          "letra": "C",
+          "texto": "– 2 –"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. En un monedero hay \n monedas de \n y  de \n. Estas \n monedas representan dos\nquintos del total del dinero que hay en su interior, ¿cuánto dinero hay en el monedero?\n\n21\n$10\n8\n$50\n29\n\n$ 244",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$488"
+        },
+        {
+          "letra": "B",
+          "texto": "$610"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 1525"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. El \n del \n de \n es igual a:\n\n40 %\n10 %\n3750\n\n150",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "375"
+        },
+        {
+          "letra": "B",
+          "texto": "1500"
+        },
+        {
+          "letra": "C",
+          "texto": "1875"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. Por recomendación médica, un niño debe aumentar su masa corporal en un \n. Si su peso\nactual es de 15 kg, ¿cuál deberá ser su nueva masa corporal, en kilogramos, para cumplir con\nla recomendación médica?\n\n20 %\n\n16",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "17"
+        },
+        {
+          "letra": "B",
+          "texto": "18"
+        },
+        {
+          "letra": "C",
+          "texto": "19"
+        },
+        {
+          "letra": "D",
+          "texto": "– 3 –"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. En la página web de un supermercado, se publica la siguiente imagen:\n\nCon respecto a la información dada en la imagen, ¿cuál es el porcentaje de descuento que\nofrece el supermercado en la compra de forros para cuadernos universitarios?\n\n1,\n%\n3ˉ",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 %"
+        },
+        {
+          "letra": "B",
+          "texto": "25 %"
+        },
+        {
+          "letra": "C",
+          "texto": "33, % 3ˉ"
+        },
+        {
+          "letra": "D",
+          "texto": "– 4 –"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. En la siguiente expresión:\n\nx ⋅1,30 ⋅1,30 ⋅0,25\n\nx ​\n\n¿qué pueden representar dichas multiplicaciones respecto al valor de ?\n\n0,30\n0,25",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dos aumentos de y una disminución de . 0,30 0,75"
+        },
+        {
+          "letra": "B",
+          "texto": "Dos aumentos de y una disminución de . 30 % 75 %"
+        },
+        {
+          "letra": "C",
+          "texto": "Dos aumentos del y luego, una disminución del . 30 % 25 %"
+        },
+        {
+          "letra": "D",
+          "texto": "Dos aumentos del y luego, una disminución del ."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Observa la siguiente cuadrícula y los cuadrados ennegrecidos en ella:\n\n¿Cuántos cuadrados blancos hay que ennegrecer para que la porción de cuadrados negros\naumente al \n?\n\n50 %\n\n6",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "−2 ​ + ​ (4 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. La medida del largo de un rectángulo es igual al quíntuplo de la medida de su ancho. Si su\n\n5 cm\na\na\n\nancho mide \n, con \n un número entero positivo, entonces ¿cuál de las siguientes\nexpresiones representa el área del rectángulo en \n?\n\ncm2\n\n5a + 1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "52a + 1"
+        },
+        {
+          "letra": "B",
+          "texto": "25a + 1"
+        },
+        {
+          "letra": "C",
+          "texto": "25 + 1 a"
+        },
+        {
+          "letra": "D",
+          "texto": "​ ⋅ ​ ⋅ ​ 2 3 3 4 4"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. ¿Cuál de las siguientes expresiones representa a \n?\n\n​\n3 3\n\n2 ⋅",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "​ 6 12"
+        },
+        {
+          "letra": "B",
+          "texto": "​ 4 24"
+        },
+        {
+          "letra": "C",
+          "texto": "​ 12 24"
+        },
+        {
+          "letra": "D",
+          "texto": "​ ( ​ −2 ​ 3"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. ¿Cuál de los siguientes valores corresponde a \n?\n\n​ −\n​\n8\n3\n\n0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "​2"
+        },
+        {
+          "letra": "B",
+          "texto": "– 6 –"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. En un laboratorio se observa que una bacteria se triplica cada \n minutos. Si inicialmente se\ntienen \n bacterias, la cantidad de bacterias que se obtienen en  horas corresponde a:\n\n15\n1000\n2\n\n3002",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 ⋅103"
+        },
+        {
+          "letra": "B",
+          "texto": "3 ⋅1000 2"
+        },
+        {
+          "letra": "C",
+          "texto": "3 ⋅10 8 3"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Francisca quiere comprar un scooter eléctrico y ha ahorrado una cierta cantidad de dinero. Su\n\n$15 000\n\nhermana le presta el doble de lo que tiene ahorrado, pero aún le faltan \n para cumplir\nsu objetivo.\n\n¿Cuál de las siguientes expresiones representa el valor del scooter eléctrico que desea\nFrancisca?\n\n2x + 15 000",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2x −15 000"
+        },
+        {
+          "letra": "B",
+          "texto": "3x + 15 000"
+        },
+        {
+          "letra": "C",
+          "texto": "3x −15 000"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Considere un rectángulo de largo \n y ancho \n. Si se aumenta el largo al doble y el\nancho en \n, ¿cuál es la relación correcta entre el área original del rectángulo \n y la\nnueva área del cuadrilátero \n que se obtiene? \n\n2a\n(a + 2)\n(3a + 6)\nA\n\n​\nA\n​′\n\nA = 8A\n′",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A = 4A ′"
+        },
+        {
+          "letra": "B",
+          "texto": "A : 16 = A ′"
+        },
+        {
+          "letra": "C",
+          "texto": "A : 2 = A ′"
+        },
+        {
+          "letra": "D",
+          "texto": "– 7 –"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. ¿Cuál de las siguientes ecuaciones representa el siguiente enunciado: \"El triple de un número,\n\ndisminuido en 12 es igual al doble del mismo número aumentado en 4\"?\n\n3x + 12 = 2x + 4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3x −12 = 2x + 4"
+        },
+        {
+          "letra": "B",
+          "texto": "3(x −12) = 2(x + 4)"
+        },
+        {
+          "letra": "C",
+          "texto": "3x −12 = 2(x + 4)"
+        },
+        {
+          "letra": "D",
+          "texto": "– 8 –"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. El siguiente gráfico representa la relación entre el precio \n (en pesos) que cuesta una\ndeterminada cantidad  de kilogramos de papas. \n\ny\nx\n\n$6850\n\n¿Cuántos kilogramos compró Verónica si pagó \n?\n\n13,7 kg",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "13,3 kg"
+        },
+        {
+          "letra": "B",
+          "texto": "12,4 kg"
+        },
+        {
+          "letra": "C",
+          "texto": "6,85 kg"
+        },
+        {
+          "letra": "D",
+          "texto": "– 9 –"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p10_img0.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En una obra de construcción, \n trabajadores pueden completar una tarea en \n días. Si se\nreduce el número de trabajadores a , ¿cuántos días se necesitarán para completar la misma\ntarea, suponiendo que todos los trabajadores tienen la misma eficiencia?\n\n12\n15\n9\n\n18",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "días 20"
+        },
+        {
+          "letra": "B",
+          "texto": "días 22"
+        },
+        {
+          "letra": "C",
+          "texto": "días 25"
+        },
+        {
+          "letra": "D",
+          "texto": "días"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. En la actualidad, Fernando tiene el doble de la edad que tuvo su hermana hace  años. Si en\n\n3\n5\n\nun año más la suma de sus edades será igual a  décadas, ¿cuáles serán las edades de\nFernando y su hermana, respectivamente, dentro de  años?\n\n3\n\n30\n18",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "y 30 20"
+        },
+        {
+          "letra": "B",
+          "texto": "y 31 17"
+        },
+        {
+          "letra": "C",
+          "texto": "y 33 21"
+        },
+        {
+          "letra": "D",
+          "texto": "y"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Una asignatura tiene tres pruebas. Las notas de un estudiante en las dos primeras fueron \n\n3,2\n4,2\n\ny \n. ¿Cuál de las siguientes opciones permiten determinar las notas que puede sacar el\nestudiante en la tercera prueba para asegurar que aprobará la asignatura con nota mayor o\nigual a \n?\n\n4,0\n\n​ ≥4,0\n3\n3,2 + 4,2 + x",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,2 + 4,2 + x ≥4,0"
+        },
+        {
+          "letra": "B",
+          "texto": "​ > 4,0 3 3,2 + 4,2 + x"
+        },
+        {
+          "letra": "C",
+          "texto": "3,2 + 4,2 + x < 4,0"
+        },
+        {
+          "letra": "D",
+          "texto": "– 10 –"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Jacinta revisó en su alcancía y notó que podía comprar exactamente  golosinas por un valor\n\n4\n$P ​\nn\n​\n$320\n$D\n\nde \n cada una, pero que le faltaba dinero si quería comprar \n chocolates de \n cada\nuno. ¿Cuál de las siguientes expresiones permitirá determinar el menor monto \n de dinero\nque Jacinta deberá conseguir para poder comprar los chocolates que ella quiere?\n\n4P",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "​ 320 ⋅n n ⋅320 −4P"
+        },
+        {
+          "letra": "B",
+          "texto": "(P −320)(4 −n)"
+        },
+        {
+          "letra": "C",
+          "texto": "4P −320 ⋅n"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. En una prueba de Física de \n preguntas y \n puntos en total, Coni contesta sólo \npreguntas y obtiene \n puntos.\n\n70\n280\n60\n180\n\n2\n4\n\nSi cada respuesta incorrecta resta  puntos, cada respuesta correcta equivale a  puntos y las\nomitidas no restan puntos, ¿cuántas preguntas incorrectas respondió Coni?\n\n10",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15"
+        },
+        {
+          "letra": "B",
+          "texto": "17"
+        },
+        {
+          "letra": "C",
+          "texto": "30"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. El triple de un número, aumentado en \n unidades, resulta igual al cuádruple de otro número\ndisminuido en  unidades. Si la suma de estos números es igual a \n, ¿cuáles son ambos\nnúmeros?\n\n21\n5\n12\n\n5\n7",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "y 2 10"
+        },
+        {
+          "letra": "B",
+          "texto": "y −3 15"
+        },
+        {
+          "letra": "C",
+          "texto": "y 1 11"
+        },
+        {
+          "letra": "D",
+          "texto": "y – 11 –"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. Sean dos números tales que, si se aumenta el primero de ellos en el triple del segundo, se\n\n39\n93\n\nobtiene \n, y si se aumenta el segundo en el triple del primero, se obtiene \n, ¿cuál de las\nsiguientes afirmaciones es verdadera?\n\n30 %",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Uno de los números es el del otro. 93"
+        },
+        {
+          "letra": "B",
+          "texto": "El producto entre los números es igual a . 33"
+        },
+        {
+          "letra": "C",
+          "texto": "La diferencia positiva entre los números es igual a . 10"
+        },
+        {
+          "letra": "D",
+          "texto": "El cociente entre el mayor de ellos y el menor es igual a ."
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. Joaquín contrató un plan para su teléfono celular por el que cancela un cargo fijo mensual y un\n\n$10 750\n15\n$11 000\n20\nc x\n( )\n\nvalor por cada minuto utilizado. La cuenta del primer mes de contrato fue de \n, en los\nque utilizó \n minutos de su plan móvil. El mes siguiente, el valor a pagar por su plan fue de\n, habiendo usado \n minutos de su plan. ¿Cuál de las siguientes funciones modela el\ncosto \n del plan para su teléfono celular?\n\nc x = x + 10 000\n( )",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "c x = 50x −10 000 ( )"
+        },
+        {
+          "letra": "B",
+          "texto": "c x = 50x + 10 000 ( )"
+        },
+        {
+          "letra": "C",
+          "texto": "c x = 500x −10 000 ( )"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. En un recital de música urbana, Jason tiene que escoger entre dos posibilidades para comprar\n\nlas entradas. Una de las opciones es adherirse a una promoción en la que debe pagar\n\n$18 000\n$7000\n\n por un producto y \n por cada una de las entradas, mientras que al pagar las\nentradas en la boletería del recital, deberá cancelar \n por cada una de ellas. ¿Cuál de\nlas siguientes expresiones permitirá encontrar la cantidad \n de entradas que Jason debe\ncomprar, para que ninguna de las ofertas sea más conveniente que la otra?\n\n$10 000\n\nn\n​\n\n(18 000 −10 000)n = 7000",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18 000 + 10 000n = 7000n"
+        },
+        {
+          "letra": "B",
+          "texto": "﻿7000n + 18 000 = 10 000n﻿"
+        },
+        {
+          "letra": "C",
+          "texto": "(﻿18 000 −7000)n = 10 000n﻿"
+        },
+        {
+          "letra": "D",
+          "texto": "– 12 –"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. El costo fijo en una boleta del gas es de \n mensuales, más \n por metro cúbico de\nconsumo. Si una persona paga por el consumo del mes \n, ¿cuántos metros cúbicos de\ngas consumió ese mes?\n\n$2700\n$2500\n$52 700\n\n10",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15"
+        },
+        {
+          "letra": "B",
+          "texto": "17"
+        },
+        {
+          "letra": "C",
+          "texto": "20"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. Un negocio ha desarrollado la siguiente fórmula para conocer el nivel del gasto mensual \n\nG\nx ​\n\nque tiene confeccionar  unidades de un artículo:\n\n﻿G(x) = 10x −40 000﻿\n2\n\n¿Cuántos artículos se deben confeccionar en un mes para que el gasto de la empresa sea\n\n$60 000\n\n ?\n\n50",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80"
+        },
+        {
+          "letra": "B",
+          "texto": "100"
+        },
+        {
+          "letra": "C",
+          "texto": "200"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. Considera la función  cuyo dominio es el conjunto de los números reales, definida por\n\nf\nf(x) = ax + bx + c\n2\na > 0\n\n, con \n, ¿cuál de las siguientes afirmaciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El recorrido de la función son todos los reales positivos. f X"
+        },
+        {
+          "letra": "B",
+          "texto": "La gráfica de la función no intersecta al eje . f I IV"
+        },
+        {
+          "letra": "C",
+          "texto": "El eje de simetría de la función recorre el cuadrante y ."
+        },
+        {
+          "letra": "D",
+          "texto": "El mínimo de la función se produce en la ordenada del vértice. f f(x) = ​ + 2x −7 k x2"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. En un fábrica de frascos de vidrio se realizan dos tipos de tapas metálicas circulares: las del\n\n1\nA\nr\n2\n25 %\n1\n\ntipo , de área \n y radio ; y las del tipo , cuya área es un \n más grande que el área de\nla tapa tipo .\n\n2\nr\n​\n\n¿Cuál es el radio de las tapas tipo  expresado en términos de  ? \n\n​r\n2\n5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "​5r"
+        },
+        {
+          "letra": "B",
+          "texto": "​ 2 ​2 ​r 5"
+        },
+        {
+          "letra": "C",
+          "texto": "​r 5 2"
+        },
+        {
+          "letra": "D",
+          "texto": "– 14 –"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. La circunferencia de la figura tiene centro en \n y su perímetro es igual \n.\n\n​\n﻿OAB\nO\n​\nO\n​\ncm\n​\n\nA\n\n​\nB\n\nSi se sabe que \n y \n pertenecen a la circunferencia y que el triángulo \n es rectángulo\nen \n, ¿cuál es la altura de este triángulo respecto a \n, medida en \n? \n\n3\n​2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 ​2"
+        },
+        {
+          "letra": "B",
+          "texto": "18"
+        },
+        {
+          "letra": "C",
+          "texto": "36"
+        },
+        {
+          "letra": "D",
+          "texto": "– 15 –"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p16_img0.jpg"
+      ]
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. El triángulo \n es obtusángulo en \n. El segmento \n mide \n veces la longitud del\nsegmento \n. Además, \n es hipotenusa del triángulo \n.\n\nABC\nA\nAC\n1,5\nAD\nBC\nBCD\n\nABC\n\n¿Qué valor tiene el perímetro del triángulo \n?\n\n40",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "unidades. 48"
+        },
+        {
+          "letra": "B",
+          "texto": "unidades. 54"
+        },
+        {
+          "letra": "C",
+          "texto": "unidades. 60"
+        },
+        {
+          "letra": "D",
+          "texto": "unidades. – 16 –"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. Para la construcción de una maqueta, se usarán   cajas cúbicas del mismo tamaño, como la\n\n5\n\nque se presenta en la siguiente imagen:\n\nEstas cajas se apilarán una encima de otra, formando una torre. Si se necesita forrar toda la\nsuperficie externa de la torre con papel decorativo, de manera de simular un edificio en la\nmaqueta, ¿cuántos centímetros cuadrados de papel se necesitan?\n\n30 400",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "31 600"
+        },
+        {
+          "letra": "B",
+          "texto": "33 600"
+        },
+        {
+          "letra": "C",
+          "texto": "35 200"
+        },
+        {
+          "letra": "D",
+          "texto": "– 17 –"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p18_img0.jpg"
+      ]
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. Una caja con forma de paralelepípedo recto tiene una base rectangular, donde su largo mide\n\n40 cm\n25 cm\n\n y el ancho mide \n. En su interior se colocan, sin dejar espacio libre, varios\nbloques idénticos entre sí de forma cúbica, de \n de arista, tal como se muestra en la\nsiguiente imagen:\n\n5 cm\n\nSi la altura de la caja mide el doble del ancho, ¿cuál es el número máximo de bloques cúbicos\nque caben dentro de la caja?\n\n320",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "400"
+        },
+        {
+          "letra": "B",
+          "texto": "640"
+        },
+        {
+          "letra": "C",
+          "texto": "800"
+        },
+        {
+          "letra": "D",
+          "texto": "– 18 –"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p19_img0.jpg"
+      ]
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. Observa la siguiente figura formada por cubos unitarios:\n\n¿Cuántos cubos unitarios, idénticos a los de la figura, se deben agregar para que la figura\nresultante sea un cubo que conserve las dimensiones de la figura dada, pero que sea hueco\nen su interior?\n\n90",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "116"
+        },
+        {
+          "letra": "B",
+          "texto": "﻿140"
+        },
+        {
+          "letra": "C",
+          "texto": "180"
+        },
+        {
+          "letra": "D",
+          "texto": "– 19 –"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": [
+        "🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p20_img0.jpg"
+      ]
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. ¿Cuál es el punto simétrico del punto \n respecto al eje \n?\n\nR ​\nx = t\n\n(2t + 1,−2)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(t + 1,−2)"
+        },
+        {
+          "letra": "B",
+          "texto": "(2t + 1,2)"
+        },
+        {
+          "letra": "C",
+          "texto": "(t,−2)"
+        },
+        {
+          "letra": "D",
+          "texto": "– 20 –"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. En la figura se muestran dos circunferencias de igual radio \n y \n. ¿Cuál es el vector\ntraslación que permite trasladar la circunferencia \n a la misma posición de la circunferencia \n?\n\nA\n​\nB\n​\nA\n​\nB\n​\n\nA\n​\nB\n​\n\n¿Cuál es el vector traslación que permite trasladar la circunferencia \n a la misma posición de\nla circunferencia \n?\n\n(h −m, k −n)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(k −n, h −m)"
+        },
+        {
+          "letra": "B",
+          "texto": "(n −k, m −h)"
+        },
+        {
+          "letra": "C",
+          "texto": "(m −h, n −k)"
+        },
+        {
+          "letra": "D",
+          "texto": "– 21 –"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": [
+        "🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p22_img0.jpg"
+      ]
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. ¿Cuál de las siguientes afirmaciones es verdadera con respecto al hexágono regular? \n\nR(0,240°)\nA\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Al aplicar la rotación , el vértice coincide con la posición que ocupaba el vértice . R(0,−180°) B D"
+        },
+        {
+          "letra": "B",
+          "texto": "Al aplicar la rotación , el vértice coincide con la posición que ocupaba el vértice . R(0,240°) R(0,120°)"
+        },
+        {
+          "letra": "C",
+          "texto": "Al aplicar dos rotaciones, y a continuación , los vértices coinciden con sus posiciones originales. R(0,270°) R(0,120°) R(0,60°)"
+        },
+        {
+          "letra": "D",
+          "texto": "Al aplicar dos rotaciones, y a continuación , los vértices coinciden con las posiciones obtenidas al aplicar . – 22 –"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. Sean \n números reales no nulos tales que \n. Considere que al punto\n se le aplica una traslación según vector \n, luego una\nsimetría con respecto al eje de las ordenadas, y finalmente una rotación de \n en sentido\nantihorario, respecto al origen. Como resultado de estas transformaciones resulta el punto\n\nm, n\nm = n\n\nS\n​ = (m −n,n)\n1\n= (n,m −n)\nw\n\n90∘\n\nS\n​ = (h,k)\n2\n\n.\n\nh\n​\nk ​\nm\n​\nn\n​\n\nPamela desarrollo paso a paso el problema anterior para poder determinar los valores de  y\n\n en función de \n y , cometiendo un error en uno de los siguientes pasos:\n\n​w\nS\n\nPaso 1: Aplicar la traslación según el vector \n al punto \n::\n\n​1\n\nS\n​ +\n= (m −n,n) −(n,m −n)\n1\nw\n\n \n\n= (m −n) −n,n −(m −n)\n(\n)\n\n= (m −2n,2n −m)\n\nY\n​\n\nPaso 2: Aplicar la simetría axial al punto obtenido en el paso anterior, respecto al eje \n:\n\n(m −2n,2n −m) →(2n −m,2n −m)\n\n  \n\n90∘\n\nPaso 3: Aplicar la rotación respecto al origen en \n al punto obtenido en el paso anterior:\n\n(2n −m,2n −m) →(m −2n,2n −m)\n\n  \n\nPaso 4: Reconocer las coordenadas finales\n\nh = m −2n y k = 2n −m\n\n \n\n¿En cuál de los pasos anteriores se cometió el error?\n\n1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Paso 2"
+        },
+        {
+          "letra": "B",
+          "texto": "Paso 3"
+        },
+        {
+          "letra": "C",
+          "texto": "Paso 4"
+        },
+        {
+          "letra": "D",
+          "texto": "Paso – 23 –"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. En la tabla adjunta se muestra el registro de los tiempos que tardó un grupo de \n\n300\n\n estudiantes en completar un desafío.\n\n[4, 6[\n\n¿Cuál es la frecuencia del intervalo \n?\n\n270",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "195"
+        },
+        {
+          "letra": "B",
+          "texto": "105"
+        },
+        {
+          "letra": "C",
+          "texto": "30"
+        },
+        {
+          "letra": "D",
+          "texto": "– 24 –"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": [
+        "🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p25_img0.jpg"
+      ]
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. El gráfico de la figura adjunta muestra la evolución de las utilidades de una ISAPRE desde el\n\n2011\n2016\n\naño \n al año \n:\n\n6\n\n¿Cuál es la media aritmética en esos  años, en miles de millones?\n\n$60",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$65"
+        },
+        {
+          "letra": "B",
+          "texto": "$70"
+        },
+        {
+          "letra": "C",
+          "texto": "$75"
+        },
+        {
+          "letra": "D",
+          "texto": "– 25 –"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": [
+        "🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p26_img0.jpg"
+      ]
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. Una profesora registró los puntajes obtenidos de sus \n estudiantes en una prueba,\nordenados de menor a mayor:\n\n20\n\n55, 59, 60, 61, 62, 63, 65, 66, 68, 69, 70, 71, 73, 74, 75, 76, 78, 80, 85, 90\n\nUna colega de la profesora afirma lo siguiente: “El primer cuartil de este conjunto de datos\ncorresponde al valor \n”\n\n63\n\nRespecto de esta afirmación, ¿cuál de las siguientes alternativas es la correcta?\n\n5\n20\n4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Es correcta, porque el primer cuartil siempre corresponde al valor en la posición si hay datos, ya que se dividen en partes iguales."
+        },
+        {
+          "letra": "B",
+          "texto": "Es incorrecta, porque el primer cuartil no es necesariamente uno de los datos, sino un valor que puede estimarse entre dos posiciones. 25 %"
+        },
+        {
+          "letra": "C",
+          "texto": "Es incorrecta, porque el primer cuartil es mayor o igual al de los datos. 63 25 %"
+        },
+        {
+          "letra": "D",
+          "texto": "Es correcta, porque el valor es mayor al de los datos. – 26 –"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. La siguiente tabla muestra la distribución de los puntajes obtenidos por un grupo de\n\n0\n200\n\nestudiantes en un examen que tiene una escala de  a \n puntos.\n\nDe acuerdo con la información presentada, ¿cuál de las siguientes afirmaciones es correcta?\n\n[120, 160[",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El tercer cuartil de los puntajes se encuentra en el intervalo . 40 % 120"
+        },
+        {
+          "letra": "B",
+          "texto": "Como máximo el de la muestra tiene un puntaje inferior a puntos. 90 [120, 160["
+        },
+        {
+          "letra": "C",
+          "texto": "El percentil de los puntajes se encuentra en el intervalo . 85 % 160"
+        },
+        {
+          "letra": "D",
+          "texto": "Más del de la muestra obtuvo un puntaje inferior a puntos. – 27 –"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": [
+        "🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p28_img0.jpg"
+      ]
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. El siguiente diagrama representa la distribución de los datos correspondientes a los tiempos\n\n49\n\nque demoraron en terminar una determinada tarea un grupo de \n estudiantes.\n\nRespecto a la figura anterior, ¿cuál de las siguientes afirmaciones es siempre verdadera?\n\n50 %",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El de los estudiantes demoran un tiempo que es menor que la media de los datos. 80"
+        },
+        {
+          "letra": "B",
+          "texto": "Al menos un estudiante demora minutos en completar la tarea. 100 80"
+        },
+        {
+          "letra": "C",
+          "texto": "Hay más estudiantes que demoran minutos que estudiantes que demoran minutos. 100"
+        },
+        {
+          "letra": "D",
+          "texto": "El valor del rango intercuartil de los datos es ."
+        }
+      ],
+      "pagina": 29,
+      "imagenes": [
+        "🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p29_img0.jpg"
+      ]
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. Un experimento aleatorio tiene solo  resultados posibles, \n, \n y \n, todos excluyentes entre\nsí. ¿Qué se puede afirmar correctamente siempre sobre las probabilidades de los resultados\nposibles de este experimento?\n\n3\nA B\n​\nC\n​\n\nP(A) = P(B) = P(C)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "P(A) + P(B) = 1 −P(C)"
+        },
+        {
+          "letra": "B",
+          "texto": "P(A) + P(B) + P(C) = 3"
+        },
+        {
+          "letra": "C",
+          "texto": "P(A) + P(B) < P(C)"
+        },
+        {
+          "letra": "D",
+          "texto": "– 28 –"
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. Se tiene una moneda cargada de modo que la probabilidad de que al lanzarla se obtenga cara\n\n0,35\n3\n\nes igual a \n. Si se lanza la misma moneda  veces, ¿cuál es la probabilidad de que salga\nprimero cara, luego sello y finalmente cara?\n\n0,35 ⋅0,35 ⋅0,35",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,65 ⋅0,35 ⋅0,35"
+        },
+        {
+          "letra": "B",
+          "texto": "0,65 ⋅0,65 ⋅0,35"
+        },
+        {
+          "letra": "C",
+          "texto": "0,65 ⋅0,65 ⋅0,65"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. Considera una urna con \n bolitas entre amarillas, azules y rojas, todas del mismo tipo. Al\n\n36\n\n​3\n2\n\nsacar una bolita al azar de la urna, la probabilidad de que esta sea amarilla o azul es \n.\n\n¿Cuántas bolitas rojas hay en la urna? (Pregunta tipo DEMRE)\n\n1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "31"
+        },
+        {
+          "letra": "C",
+          "texto": "34"
+        },
+        {
+          "letra": "D",
+          "texto": "– 29 –"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    }
+  ]
+}

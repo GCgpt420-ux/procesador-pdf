@@ -1,0 +1,59 @@
+{
+  "filename": "5.- Torpedo - Lentes.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/z. Resumenes - Varios/Fisica/5.- Torpedo - Lentes.pdf",
+  "num_paginas": 2,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T14:52:17.239478",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nLENTES → REFRACTAN la luz \n\nRAYOS NOTABLES – LENTE CONVERGENTE \n\n \n\nhttp://bit.ly/37c4cGw \n\nRAYOS NOTABLES – LENTE DIVERGENTE \n\n \n\nhttp://bit.ly/37c4cGw \n\nIMÁGENES FORMADAS (Los rayos notables  \n\nC1 \n\nC2 \n\nC1 \n\nC1 \nC1 \n\n \nhttps://bit.ly/3b9vbmW \n\n1 \n \n",
+      "cantidad_caracteres": 255,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 107.51171875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 3.6787109375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 1.978515625
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 3.953125
+        },
+        {
+          "index": 4,
+          "tipo": 3,
+          "tamanio_kb": 2.0244140625
+        },
+        {
+          "index": 5,
+          "tipo": 3,
+          "tamanio_kb": 277.73046875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n\nLENTE CONVERGENTE \nSi el objeto se encuentra \nSu imagen es \nEntre C y el infinito \nInvertida, real y de menor tamaño \nEn C \nInvertida, real y de igual tamaño \nEntre C y F \nInvertida, real y de mayor tamaño \nEn F  \nNo se produce imagen  \nEntre F y V \nDerecha, virtual y de menor tamaño \n \n\nLENTE DIVERGENTE \nSi el objeto se encuentra \nSu imagen es \nEn cualquier posición \nDerecha, virtual y de menor tamaño \n \n\n \n \n\n2 \n \n",
+      "cantidad_caracteres": 423,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 107.51171875
+        }
+      ]
+    }
+  ]
+}

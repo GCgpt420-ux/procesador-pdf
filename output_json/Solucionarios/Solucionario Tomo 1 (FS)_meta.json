@@ -1,0 +1,117 @@
+{
+  "filename": "Solucionario Tomo 1 (FS).pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/3.Preu Uc Ciencias/Fisica/Comun/Tomos (Materia + Ejercicios)/Solucionarios/Solucionario Tomo 1 (FS).pdf",
+  "num_paginas": 12,
+  "titulo": "",
+  "autor": "Vicente Jesus Caceres O'Neill",
+  "fecha_procesamiento": "2026-03-07T14:52:34.110871",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "I. \nÁrea temática. ONDAS \n\nTema 1. Características de las ondas \n\nActividad 1.4 Ejercicios propuestos (Pág. 42) \n\nN° \nClave \nDefensa \n1 \nD \nPara resolver el problema, utilizamos la relación de rapidez de propagación \nque viene dada por: 𝑣𝑣=\n𝑑𝑑\n𝑡𝑡 , donde “d” es la distancia, “v” es la rapidez de \npropagación de la onda y “t” es el tiempo. Para este caso se nos pide la \ndistancia donde se produjo la descarga eléctrica, entonces de la relación de \nrapidez podemos despejar dicha distancia quedando 𝑑𝑑= 𝑣𝑣∗𝑡𝑡, reemplazando \nlos datos se tiene que 𝑑𝑑= 340\n𝑚𝑚\n\n𝑠𝑠∗8𝑠𝑠 = 2720 metros. Alternativa correcta D. \n\n2 \nC \nLa figura muestra una onda que se propaga hacia la derecha. Dado que la \nonda avanza y la forma de la onda desciende en esa zona, el punto P está \ndescendiendo en ese instante. Por tanto, la dirección y sentido del \nmovimiento de P corresponde al punto Z. La alternativa correcta es la C. \n3 \nA \nPara ordenar de forma creciente las frecuencias debemos calcularlas \nutilizando su definic",
+      "cantidad_caracteres": 2580,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "texto": "Como la rapidez aumento y la frecuencia no cambia, necesariamente también \naumento la longitud de onda por la relación 𝑣𝑣= 𝜆𝜆∗𝑓𝑓, donde si la frecuencia \nes mantiene constante y conservar la igualdad si la velocidad aumenta la \nlongitud de onda debe aumentar. Por lo que la alternativa correcta es la B. \n3 \nA \nEl gráfico muestra tres ondas electromagnéticas propagándose por el vacío, \ntodas viajan con la misma rapidez (la velocidad de la luz), pero tienen distintas \nlongitudes de onda. Como la frecuencia está relacionada con la longitud de \nonda a través de la relación 𝑣𝑣=  𝜆𝜆∗𝑓𝑓, una mayor longitud de onda implica \nmenor frecuencia. Al observar el gráfico, vemos que P tiene la mayor longitud \nde onda, seguida por R y luego Q con la menor. Eso implica que P es la de \nmenor frecuencia y Q es la de mayor frecuencia. Relacionando esto con el \nespectro electromagnético podríamos clasificar que: \n-Q tiene mayor frecuencia (Rayos X) \n-R tiene una frecuencia intermedia en comparación (Luz visi",
+      "cantidad_caracteres": 3093,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "fue que las galaxias se estaban alejando del punto de observación, es decir, \ndel planeta Tierra. Por lo tanto, correcta es la B. \n3 \nC \nEn esta situación, la luz se propaga desde un medio con menor índice de \nrefracción hacia otro con mayor índice, lo que implica que, al atravesar la \ninterfaz, los rayos deben refractarse acercándose a la normal. Observando el \ncomportamiento de los rayos, se aprecia que el rayo P se refracta \nacercándose a la normal, lo cual es coherente con el paso de un medio menos \ndenso a uno más denso, es decir, es compatible con la situación. En cambio, \nel rayo Q atraviesa la interfaz sin desviarse, lo que solo sería posible si ambos \nmedios tuvieran el mismo índice de refracción, por lo que resulta \nincompatible. Finalmente, el rayo R se refracta alejándose de la normal, lo \nque contradice la ley de refracción en este contexto, siendo también \nincompatible. Por lo tanto, los rayos incompatibles con la situación planteada \nson Q y R. Por lo que, la alternativa",
+      "cantidad_caracteres": 2969,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": "2 \nD \nEl rayo incidente mantiene su inclinación de 60 grados respecto con la recta \nPQ, al variar el espejo en 10 grados en sentido antihorario y esquematizando \nla normal se obtiene que el rayo reflejado con la recta PQ forman un ángulo \nde 40 grados. \n\n3 \nC \nEn la figura se observa un rayo de luz que incide sobre un espejo cóncavo, \nacercándose de forma casi paralela al eje óptico. Aunque no es exactamente \nparalelo, su comportamiento se asemeja al de un rayo marginal, es decir, un \nrayo que incide lejos del eje en una zona más curva del espejo. Según las leyes \nde la óptica geométrica, los rayos que inciden paralelos al eje óptico en un \nespejo cóncavo se reflejan pasando por el foco. Sin embargo, los rayos \nmarginales se desvían ligeramente de este punto ideal debido a la aberración \nesférica: en lugar de converger en el foco, lo hacen un poco antes, es decir, \nentre el vértice y el foco. Por ello, el rayo reflejado mostrado en la figura \ncorta el eje en ese tramo. En consecuencia,",
+      "cantidad_caracteres": 2387,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 15.162109375
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": " \n\nTema 4. Formación de imágenes en lentes  \n\nActividad 5.5 Ejercicios propuestos (Pág. 86) \n\nN° \nClave \nDefensa \n1 \nA \nLa miopía es un defecto visual en el que los rayos de luz convergen antes de \nla retina, causando dificultad para ver objetos lejanos. Esto ocurre porque el \nojo es demasiado largo o la córnea es muy curva, lo que provoca un exceso \nde convergencia. Para corregirlo, se usa una lente divergente, que dispersa \nlos rayos de luz antes de que ingresen al ojo, moviendo el punto de enfoque \nhacia la retina. La alternativa correcta es la A. \n2 \nB \nEn el sistema óptico descrito, compuesto por dos lentes convergentes de \nigual distancia focal f = 20 cm y separadas 80 cm entre sí, se ubica un objeto \na 40 cm a la izquierda de la primera lente. Dado que esta distancia equivale a \n2f, la primera lente forma una imagen real, invertida e igual en tamaño, \nubicada a 40 cm al otro lado de la lente, es decir, justo en el centro entre \nambas lentes. Esta imagen intermedia pasa a actuar ",
+      "cantidad_caracteres": 1343,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 1.205078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 424.626953125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "3 \nC \nEn la figura se muestra un lente convergente con un objeto ubicado entre el \nfoco F1 y el lente. En esta configuración, los rayos de luz al atravesar el lente \nse desvían de tal forma que no se cruzan realmente, sino que sus \nprolongaciones hacia atrás se intersectan, lo que da origen a una imagen \nvirtual. Esta imagen se forma en el mismo lado del objeto, es derecha (no \ninvertida) y de mayor tamaño, ya que los rayos se están separando al salir del \nlente. Esta situación es característica de los lentes convergentes cuando el \nobjeto está más cerca del lente que el foco. Por lo tanto, la alternativa \ncorrecta es la C. Como indica la figura: \n\n \n\nI. \nÁrea temática. MECÁNICA  \n\nTema 1. Primera ley de newton: Ley de inercia. \n\nActividad 1.8 Ejercicios propuestos (Pág. 95) \n\nN° \nClave \nDefensa \n1 \nB \nRecordemos que para que un cuerpo tenga MRU, la fuerza neta sobre él debe \nser cero. Es decir, todas las fuerzas que actúan sobre el cuerpo deben estar \nen equilibrio, de modo que no hay",
+      "cantidad_caracteres": 2193,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 11.0625
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "externa aplicada sobre el cuerpo más allá del peso y la normal, siendo la \nfuerza Neta NULA.  \n \n\nTema 2. Tipo de fuerzas  \n\nActividad 2.6 Ejercicios propuestos (Pág. 105 y 106) \n\nN° \nClave \nDefensa \n1 \nC \nPara determinar la constante del resorte utilizamos la relación de la ley de \nHooke: \n𝐹𝐹=  𝑘𝑘∗𝑥𝑥 \nReemplazando datos se obtiene: \n75 𝑁𝑁= 𝑘𝑘∗0,03 𝑚𝑚 \n𝑘𝑘=\n75𝑁𝑁\n0.03 𝑚𝑚 = 2500 N/m \n \nHay que mencionar que en el sistema internacional la distancia se mide en \nmetro, por ende, si la información entrega fue en centímetros se debe realizar \nsu conversión recordando que 1 metro = 100 centímetros.  \nLa alternativa correcta es la C. \n2 \nB \nCORREGIR EN CLAVIJERO (ALTERNATIVA CORRECTA B) \nLa situación diagramada corresponde a: \n\n \nPara describir la situación algebraicamente utilizamos la relación de la ley de \nHooke,  \n𝐹𝐹=  𝑘𝑘∗𝑥𝑥 \nComo en estos casos el resorte llega a una posición de equilibrio y la única \nfuerza que interactúa es el peso, sabemos que F = P = m * g \nComo la constante del resorte",
+      "cantidad_caracteres": 1554,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 26.9306640625
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "Multiplicando las masas en los paréntesis se obtiene: \n\n𝑚𝑚1 ∗ 𝐿𝐿𝑓𝑓2 −𝑚𝑚1 ∗ 𝐿𝐿𝑖𝑖= 𝑚𝑚2 ∗ 𝐿𝐿𝑓𝑓1 − 𝑚𝑚2 ∗ 𝐿𝐿𝑖𝑖 \nReemplazando por los valores conocidos queda: \n\n2 * 0,213 – 2Li = 3,3 * 0,2 – 3,3 Li \n\n0,426 – 2Li = 0,66 – 3,3 Li \nOrdenando la ecuación se obtiene: \n\n3,3 Li – 2 Li = 0,66 – 0,426 \n\n1,3 Li = 0,234 \n\nLi = \n0,234\n1,3  = 0,18 metros = 18 centímetros. \n\nComo la alternativa aparece en centímetros, corresponde realizar la \nconversión para comprobar, siendo correcta la alternativa B.   \n3 \nB \nEn el sistema de poleas descrito, se deben considerar todas las fuerzas que \nactúan desde los distintos elementos para contar cuántas están presentes. \nPrimero la persona ejerce una fuerza hacia abajo sobre la cuerda, lo que \ntambién transmite una tensión hacia el sistema, por tanto, la polea superior \nrecibe tres tensiones: una desde la persona, otra desde la polea inferior, y \nademás está sujeta al techo, que reacciona con una fuerza hacia arriba. En la \nsegunda polea también se pueden observar t",
+      "cantidad_caracteres": 1914,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 28.986328125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "con mayor adherencia o rugosidad en contacto con la superficie. Por lo tanto, \nla alternativa correcta es la B. \n \n\nTema 3. Segunda ley de Newton: Ley de fuerza  \n\nActividad 3.3 Ejercicios propuestos (Pág. 111 y 112) \n\nN° \nClave \nDefensa \n1 \nD \nCuando un cuerpo se mueve con rapidez constante, esto significa que su \naceleración es cero, y por lo tanto, la fuerza neta que actúa sobre él también \ndebe ser nula, según la segunda ley de Newton (𝐹𝐹𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛= 𝑚𝑚∗𝑎𝑎). Por lo tanto, \nla alternativa correcta es D. \n2 \nC \nDe los comentarios realizados por los estudiantes, podemos evidenciar su \nveracidad o error de manera textual: \n\n- \nEstudiante 1: asevera que “siempre” el movimiento se produce en la \ndirección y sentido de la fuerza externa aplicada sobre, lo cual es un \nerror. La aceleración del cuerpo será en la dirección y sentido de la \nfuerza neta aplicada, no necesariamente su movimiento. Un cuerpo \npuede estar en movimiento en una dirección diferente a la de la fuerza \naplicada (por ejemp",
+      "cantidad_caracteres": 2781,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "texto": "Para el eje Y: 𝑃𝑃𝑇𝑇> 𝐹𝐹 (Con los valores 3N > 2N) por lo que actúa una fuerza \nde 1N como resultante en dirección paralela al plano inclinado y hacia abajo. \n \nEn las afirmaciones es correcto enunciar que el bloque se deslizara por el \nplano inclinado con aceleración constante por tanto la alternativa correcta es \nla B. \n5 \nC \nEn este sistema, tres vehículos idénticos de masa 4M cada uno se encuentran \nunidos y se mueven sobre una superficie sin roce. Se aplica una fuerza de \nmagnitud 3F al vehículo del extremo trasero, lo que genera una aceleración \ncomún a todo el sistema. Como la fuerza neta es igual a la masa total por la \naceleración (𝐹𝐹𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛= 𝑚𝑚∗𝑎𝑎), se considera una masa total de 12M (la suma de \nlas tres masas). Aplicando la segunda ley de Newton se obtiene 3𝐹𝐹= 12𝑀𝑀∗\n𝑎𝑎, y al despejar, se concluye que la aceleración del sistema es 𝑎𝑎=\n𝐹𝐹\n4𝑀𝑀. Por lo \ntanto, la alternativa correcta es la C. \n \n\nTema 4. Tercera ley de Newton: Acción y reacción   \n\nActividad 4.3 Ejercicios pro",
+      "cantidad_caracteres": 2718,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "texto": "Para encontrar el par acción-reacción, se debe considerar que este debe \ntener el mismo modulo, estar en la misma dirección, pero debe tener un \nsentido contrario, en ese sentido la única imagen gráfica que cumple con esos \nrequisitos es la de la opción D. \n5 \nD \nLa correcta determinación de las fuerzas de contacto entre los bloques se \nbasa en la Segunda y Tercera Ley de Newton. La Segunda Ley (F = ma) \npermite calcular la aceleración del sistema y cómo se distribuye la fuerza \naplicada entre los bloques. La Tercera Ley establece que cada bloque ejerce \nuna fuerza sobre el siguiente, y este responde con una fuerza de igual \nmagnitud y dirección opuesta, asegurando la interacción entre ellos. Otras \nleyes, como la de gravitación universal o la de Hooke, no son relevantes en \neste caso, ya que no hay fuerzas gravitacionales entre los bloques ni \ndeformaciones elásticas. Por tanto, la alternativa correcta es D. \n \n\nTema 5. Presión en sólidos, líquidos y gases.    \n\nActividad 5.10 Ejercic",
+      "cantidad_caracteres": 3104,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "texto": "4 \nB \nLa presión que un líquido ejerce sobre el fondo de un recipiente depende \núnicamente de la altura de la columna de líquido, según la expresión 𝑃𝑃=  𝜌𝜌∗\n𝑔𝑔∗ℎ, donde 𝜌𝜌 es la densidad del líquido, g la aceleración de gravedad y h la \naltura. Si el contenido de un tambor cilíndrico A lleno de agua se vacía \ncompletamente en otro tambor B de mayor radio y altura, el agua se \ndistribuye en una mayor base, por lo que la altura alcanzada por el líquido \nserá menor que la inicial. Al disminuir la altura, también disminuye la presión \nejercida sobre el fondo. Por tanto, la nueva presión será menor que la presión \ninicial, y la alternativa correcta es B. \n5 \nD \nCuando se abre un orificio en un recipiente lleno de agua, el líquido sale \nimpulsado por la presión ejercida por la columna de agua en ese punto. Esta \npresión hidrostática actúa en todas las direcciones, pero el chorro de agua \nsale siempre perpendicular a la superficie del recipiente en el lugar donde se \nencuentra el orificio. E",
+      "cantidad_caracteres": 1314,
+      "imagenes": []
+    }
+  ]
+}

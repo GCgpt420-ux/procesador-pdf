@@ -1,0 +1,144 @@
+{
+  "filename": "TAM 09.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/SOLUCIONARIOS/TAM 09.pdf",
+  "num_paginas": 7,
+  "titulo": "",
+  "autor": "lenovo",
+  "fecha_procesamiento": "2026-03-07T16:02:26.669816",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "C u r s o: Matemática \n\n \n \n \n \n \n \n\nMaterial: TAM-09 \n\nSOLUCIONARIO TAM-09 \n\n \n \n1. \nLas notas obtenidas por un alumno en la asignatura de historia son: 4,3 ; 6,1; 7,0; \n6,1; 6,8 y 6,1. ¿Cuál debe ser la nota mínima coeficiente dos que debe obtener en su        \núltima prueba para que su promedio sea igual a la moda actual de sus notas? \n \n \n\nA) 6,1 \nB) 6,2  \nC) 6,3 \nD) 6,4 \n\n \n \n \n\nSolucionario \n \n4,3 + 6,1 + 7 + 6,1 + 6,8 + 6,1 + 2x = 8 · 6,1  (moda : 6,1) \n2x = 48,8 – 36,4 \nx = 6,2 \n \nAlternativa correcta: B) \n \n \n2. \nLa tabla adjunta, muestra la cantidad de personas por casa al realizar una encuesta en \nuna población. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa media aritmética y la mediana son iguales. \nII) \nLa muestra es bimodal. \nIII) \nUna de las modas es igual a la mediana. \n \n\nNº de personas \n\nFrecuencia \nabsoluta (F) \n1 \n5 \n\npor casa  (xi) \n\n \nA) Solo II \nB) Solo III \nC) Solo I y III \nD) Solo II y III  \n \n \n \n\n2 \n20 \n\n3 \n30 \n\n4 \n30 \n\n5 \n5 \n\n6 \n",
+      "cantidad_caracteres": 1155,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "3. \nSi la mediana de los datos de la tabla adjunta es 22,5, ¿cuál es el valor de q?  \n\n \n \n\nDato \n5 \n10 \n15 \n20 \n25 \n30 \n35 \n40 \nFrecuencia \n11 \nq \n10 \n4 \n12 \n7 \n7 \n4 \n \n \nA)   4 \nB)   5  \nC)   7 \nD) 60 \n\n \n \n \n\nSolucionario \n \nPara que la mediana sea 22,5, ésta debe ser el promedio entre 20 y 25  y desde el dato \n25 en adelante hay (12 + 7 + 7 + 4 = 30) datos.  \nLuego, 11 + q + 10 + 14 = 30  q = 5 \n \nAlternativa correcta: B) \n \n \n \n \n \n4. \nLa media aritmética de 6 números enteros positivos y distintos es 12. ¿Cuál será el    \nmayor valor que puede tomar uno de los números? \n\n \nA) 55 \nB) 57  \nC) 59 \nD) 60 \n\n \n \n \n\nSolucionario \n \n(1) x1 + x2 + x3 + x4 + x5 + x6 = 6 · 12 = 72 \nSea x6 el mayor dato, este ocurre cuando x1 + x2 + x3 + x4 + x5 es mínimo, es decir, \ncuando  \nx1 = 1 ; x2 = 3 ; x3 = 3 ;  x4 = 4 ; x5  = 5  \n15 + x6 = 72   x6 = 57 \n \nAlternativa correcta: B) \n \n \n \n\n2 \n \n",
+      "cantidad_caracteres": 893,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "5. \n \n\nD) \n\n \n \n \n \n \n6. \nEl promedio de 4 números enteros es 25. Si a esos números se le agregan otros dos  \nenteros, a  y  b, el promedio de los 6 números es 36. ¿Cuál es el promedio de a  y  b? \n \n \n\nA)   11 \nB)   61 \nC)   58  \nD) 116 \n \n \n\nSolucionario \n \n(1) x1 + x2 + x3 + x4 = 4 · 25 = 100 \n(2) 100 + a + b  = 6 · 36  a + b = 216 – 100 = 16 \n\nPor lo tanto, a + b\n116\n = \n2\n2\n = 58 \n\n \nAlternativa correcta: C) \n \n \n\n3 \n \n",
+      "cantidad_caracteres": 429,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 12.45703125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 1.2041015625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "7. \nUna empresa tiene 3 proveedores distintos para la compra de ordenadores, los cuales   \npueden resultar buenos o defectuosos. Con datos anteriores que se tienen, se \nconstruye la tabla adjunta que indica las frecuencias de ordenadores buenos o \ndefectuosos, provenientes de los diferentes proveedores. \n \n\n¿Cuál es la probabilidad que un ordenador defectuoso, elegido al azar, proceda del \nproveedor 1? \n\n \nA) 0,25 \nB) 0,03 \n\n      Proveedor \nEstado  \n\nProveedor  1 \nProveedor 2 \nProveedor 3 \n\nC) \n3\n29  \n\nBuenos \n0,26 \n0,30 \n0,32 \nDefectuosos \n0,03 \n0,05 \n0,04 \n\nD) 0,12 \n\n \n \n \n\nSolucionario \n\nLa probabilidad pedida es P = \n0,03\n0,03\n = \n0,03 + 0,05 + 0,04\n0,12  = 0,25 \n\n \nAlternativa correcta: A) \n \n \n \n8. \nEn una familia con dos hijos se sabe que hay algún varón (sin especificar el orden), \n¿cuál es la probabilidad que el otro también sea varón? \n\n \n\nA) \n1\n2  \n\nB) \n1\n4  \n\nC) 1\n\n3   \n\nD) 2\n\n3   \n\n \n \n \n\nSolucionario \nEl espacio muestral original {VV, VD, DV, DD} \nSe reduce a {VV, VD, DV",
+      "cantidad_caracteres": 1074,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "9. \nLa probabilidad que una persona sufra de obesidad es 0,60 y la probabilidad que sufra \nproblemas coronarios y obesidad es 0,2. ¿Cuál es la probabilidad que una persona \nestando obesa sufra problemas coronarios? \n\n \n\nA) \n3\n25  \n\nB)  1\n\n5  \n\nC)  1\n\n3   \n\nD)  3\n\n5  \n\n \n \n\nSolucionario \n \nSean los eventos: \nO: Sufrir obesidad \nC: Sufrir problemas coronarios \nEntonces, \nP(O) = 0,6   P(C y O) = 0,2 \n\n0,6  = 1\n\nP(O)\n = 0,2\n\nPor lo tanto, P(C/O) = P(C y O)\n\n3  \n\nAlternativa correcta: C) \n \n \n10. Una caja contiene 8 esferas verdes, 3 azules y 9 rojas. Al extraer 3 de ellas, sin \n\nreposición, ¿cuál es la probabilidad que sean todas de diferentes colores? \n \n\nA) \n27\n1000  \n\nB)   18\n\n95  \n\nC)   6\n\n95  \n\nD)  81\n\n500  \n\n   \n \n\nSolucionario \n \n\nP(V, A, R) = 8\n3\n9\n  \n  \n20\n19\n18\n\n\n \n\nPero V, A, R tiene 3! = 6, posibles órdenes, luego \n\nP = 8\n3\n9\n  \n  \n  6\n20\n19\n18\n\n\n\n = 18\n\n95  \n\n \nAlternativa correcta: B) \n \n \n \n \n\n5 \n \n",
+      "cantidad_caracteres": 929,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "11. \n\nD) \n\n \n \n \n \n12.  \n \n\nC) \n\n \n \n13. \n\n \n\n \n\n \n \n \n \n \n\n6 \n \n",
+      "cantidad_caracteres": 65,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 10.5693359375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 15.3662109375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 15.9609375
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 1.0830078125
+        },
+        {
+          "index": 4,
+          "tipo": 3,
+          "tamanio_kb": 1.4228515625
+        },
+        {
+          "index": 5,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "14.  \n\n \n\n \n \n \n \n15.  \n \n\n \n\n \n \n \n \n\nTAM-09 \n\n7 \n \n",
+      "cantidad_caracteres": 53,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.6240234375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 19.6044921875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "filename": "TAM 16.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/SOLUCIONARIOS/TAM 16.pdf",
+  "num_paginas": 6,
+  "titulo": "",
+  "autor": "Usuario",
+  "fecha_procesamiento": "2026-03-07T16:02:33.944467",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nC u r s o: Matemática \n\n \n\nMaterial: TAM-16 \n\n \nSOLUCIONARIO TAM-16 \n\n \n\n1.  \n\n \n \n\n2. \n\n \n\n \n \n\n3. \n\nA) 7,2 \nB) 3 + \n3  \n\nC) \n3  \n\nD) 2 + \n3  \n \n\nB \n\n \n \n\nPágina 1 \n\n \n",
+      "cantidad_caracteres": 172,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 19.658203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 18.8935546875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 10.1513671875
+        },
+        {
+          "index": 4,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "4. \n\nSolución: \n\nDesarrollando la ecuación se tiene: \n\nx(3x + 7) + 9 – 5x(a + bx) = 9 \n\n3x2 + 7x + 9 – 5ax – 5bx2 = 9 \n\nx2(3 – 5b) + x(7 – 5a) = 0 \n\nEl discriminante debe ser igual a cero \n\n = (7 – 5a)2 – 4(3 – 5b) · 0 = 0 \n\n = 49 – 70a + 25a2 = 0 \n\n = 25a2 – 70a + 49 = 0 \n\n2\n70  70   4  49  25\n\n50\n\n\n\n\n \n\n \n\na = \n\n \n \n\n2\n2\n70  7 (10   100)\n\n50\n\n\n \n\n \n\na = \n\n \n\na = 7\n\n5  y b cualquier valor distinto de 3\n\n \n\n5  \n\nAlternativa correcta: C \n\n \n\n5. \n\n \n\n \n \n\n \n\n6. \n\n \n\n \n \n\nPágina 2 \n\n \n",
+      "cantidad_caracteres": 496,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 5.501953125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 13.708984375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 14.482421875
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \n\n7. \nDe un primer año de ingeniería se sabe que, aprobó Cálculo el 70%, aprobó Álgebra el \n80% y el 60% aprobó ambos ramos. Si 120 alumnos aprobaron Álgebra, ¿cuántos \nalumnos reprobaron ambos ramos? \n\nA) 15  \nB) 30 \nC) 45 \nD) 60 \n\n \n \n\nCálculo \nÁlgebra \n\nSolucionario \n\n \n\n10% \n20% \n60% \n\n \n\nSi X: es el total de alumnos \n\n10% \n\nAprueban álgebra (60% + 20%) \n\n \n\n80\n100  · x = 120  x = 150 \n\nReprueban ambos ramos 10% de x = 10\n\n100  · 150 = 15 \n\n \n\nAlternativa correcta: A) \n\n \n\n8. \n\n \n\n¿Qué valor debe tener c  en la ecuación 4x2 – \n13x + c = 0, para que la mayor de sus raíces \n(soluciones), sea también solución de la \necuación 2x2 – 5x – 3 = 0? \n\nSolucionario \n\n \n\n \n\n \n\n2\n(2x)   5(2x)  6  = 0\n2\n\n\n \n\n \n\n \n\n \n\n(2x + 6)  (2x + 1)  = 0\n2\n\n\n \n\n \n\n \n\nA) \n  3 \nB) \n  2 \nC) \n  1 \nD) -2 \n \n \n\n \n\nx1 = 3 ;  x2 = - 1\n\n2  \n\n \n\n \n\n36 – 39 + c = 0 \n\n \n\nc = 3 \n\n \n\n \n\n \n\nAlternativa correcta: A) \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nPágina 3 \n\n \n",
+      "cantidad_caracteres": 931,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "9. \n\n \n \n\n \n\n10. \n\n \n\n \n \n\n11. \n\n \n\n \n \n\n \n\n \n\n \n\nPágina 4 \n\n \n",
+      "cantidad_caracteres": 63,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 25.4140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 17.8857421875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 13.6611328125
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "12. \n\n \n\n \n \n\n13. \n\n \n\n \n \n\n14. Si en la siguiente tabla se determina la probabilidad que falta en cada fila, entonces se \n\nobtiene que x + y + z + w es igual a \n\n \n\nFILA \nP(A) \nP(B) P(A B) P(AB) \n\n \n\nA)  3\n\nI \n1\n2  \n1\n3  \n1\n4  \nx \n\n2  \n\nB)  6\n\n5  \n\nII \n3\n10  \n7\n10  \ny \n\n1\n5  \n\nC) 61\n\n30   * \n\n1\n5  \n1\n2  \n\nIII \n1\n4  \nz \n\nD) 73\n\n30  \n\n3\n5  \n1\n10  \n7\n10  \n\nIV \nw \n\n \n\n \n\nPágina 5 \n\n \n",
+      "cantidad_caracteres": 386,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 14.8671875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 22.8271484375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": " \n\nSolucionario \n\nDel cuadro se tiene: P(AB) = P(A) + P(B) – P(AB) \n\nI) x = 1\n\n4  = 7\n\n3  - 1\n\n2  + 1\n\n12  \n\n10  - y  y = 8\n\nII) 1\n\n5  = 3\n\n10  + 7\n\n10  \n\n5   z = 9\n\nIII) 1\n\n2  = 1\n\n4  + z - 1\n\n20  \n\n10   w = 2\n\nIV) \n7\n10  = w + 3\n\n5  - 1\n\n10  \n\nLuego, x + y + z + w = 61\n\n30  \n\nAlternativa correcta: C) \n\n \n\n \n\n \n\n15. \n\n \n\n \n\nPágina 6 \n\n \n",
+      "cantidad_caracteres": 345,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.5693359375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

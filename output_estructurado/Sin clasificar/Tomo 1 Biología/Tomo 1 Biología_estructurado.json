@@ -1,0 +1,131 @@
+{
+  "archivo_original": "Tomo 1 Biología.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/3.Preu Uc Ciencias/Biologia/Comun/Tomos (materia + ejercicios)/Tomo 1 Biología.pdf",
+  "materia": "Sin clasificar",
+  "num_paginas": 106,
+  "fecha_procesamiento": "2026-03-07T22:26:07.554065",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. Se ha desarrollado una técnica para producir plantas transgénicas que producen mayor número \n\nde estomas y de todo el mecanismo bioquímico asociado a su función con respecto a plantas \nnormales de la misma especie. Los estomas son estructuras presentes en las hojas de las plantas \nque permiten el intercambio gaseoso entre los tejidos vegetales y el ambiente, principalmente \nde O2 y CO2. Cada estoma está formado por dos células llamadas células oclusivas que rodean \nun poro central. Cuando estas células se separan, el poro se abre, lo que permite que el \nintercambio gaseoso. \nEl momento en que los estomas se abren o permanecen cerrados depende de múltiples factores \ncomo, por ejemplo: la humedad ambiental, la temperatura o la luminosidad ambiental. Con \nrespecto a esto último hay que recordar que vemos a las plantas de color verde porque estas \nabsorben principalmente luz roja y azul, reflejando la verde que nuestros ojos captan y nuestro \ncerebro interpreta. Si se ilumina una planta con luz roja a saturación, llegará a un punto máximo \nde fotosíntesis y los estomas se abrirán en función de la actividad fotosintética, de tal manera \nque su apertura también se ve saturada. Si tras ello se ilumina con luz azul a saturación, los \nestomas se abrirán más, sobrepasando ese límite de saturación, tal como se muestra en el \nsiguiente gráfico: \n\n \n\nA partir de toda la información entregada, una inferencia coherente sería:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Las plantas transgénicas aumentarían su porcentaje de intercambio gaseoso al ser expuestas a luz roja y azul."
+        },
+        {
+          "letra": "B",
+          "texto": "Las plantas transgénicas aumentarían su apertura estomática en presencia de luz azul."
+        },
+        {
+          "letra": "C",
+          "texto": "Las plantas transgénicas disminuirían su apertura estomática en presencia de luz azul."
+        },
+        {
+          "letra": "D",
+          "texto": "El aumento del número de estomas no reportará ningún beneficio para la especie modificada genéticamente. 47"
+        }
+      ],
+      "pagina": 74,
+      "imagenes": [
+        "Tomo 1 Biología_p74_img0.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. Las plantas que hoy forman parte de nuestra dieta son totalmente diferentes de sus \n\nantepasados de vida silvestre. Durante el desarrollo de la civilización humana hemos ido \nseleccionando y modificando mediante cruces controlados entre los individuos con mejores \ncaracterísticas para nuestro interés. Este largo proceso ha dado paso a estrategias y tecnologías \nmucho más avanzadas como las que se empezaron a desarrollar a finales de los años 20 del \nsiglo pasado, donde científicos descubrieron que se podían inducir mutaciones exponiendo a \nlas plantas a agentes mutagénicos físicos como los rayos x, entre otros. \n\nEstas mutaciones ocurren de manera completamente azarosa y de vez en cuando pueden \noriginar la aparición de una característica de interés para el humano. Esta nueva característica \nes seleccionada y multiplicada para dar origen a nuevos productos de consumo como el pomelo \nrosado, obtenido a partir de mutaciones del pomelo blanco, característico por su amargor \nintenso. \n\nHoy existen más de 2.000 especies de alta demanda en el mundo que se obtuvieron por \nmutagénesis por radiación, entre ellas, diversos tipos de arroz, lechugas, porotos, etc. \n\nDe acuerdo con lo anterior, ¿cuál de las siguientes aseveraciones corresponde a una \nobservación coherente con la línea investigativa descrita en el texto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Las plantas actuales son distintas a las plantas del pasado."
+        },
+        {
+          "letra": "B",
+          "texto": "La cantidad de plantas comestibles ha ido aumentando a lo largo del tiempo."
+        },
+        {
+          "letra": "C",
+          "texto": "Las mutaciones, eventualmente pueden derivar en características beneficiosas para los humanos."
+        },
+        {
+          "letra": "D",
+          "texto": "La dieta humana se basa en alimentos de origen vegetal."
+        }
+      ],
+      "pagina": 75,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. Un equipo de investigación trabaja en un experimento para analizar el impacto de mutaciones \n\nen el proceso evolutivo de una población de bacterias. Se expusieron bacterias a diferentes \nniveles de radiación ultravioleta (UV) para inducir mutaciones y observar su efecto en la tasa \nde supervivencia y la aparición de nuevas adaptaciones en ambientes de estrés térmico. Los \nresultados del experimento se resumen en la siguiente tabla: \n \n\nCondición \nNivel de \nradiación UV \n\nFrecuencia de \n\nTasa de \nsupervivencia \n\nNúmero de \nadaptaciones \n\nmutación \n\nobservadas \nGrupo control \nS/radiación \n0,001 \n95 \nNo \n\n(%) \n\n \nExposición \n\n5 J/m2 \n0,01 \n80 \nSi \n\nmoderada \n\nExposición alta \n10 J/m2 \n0,05 \n50 \nSi \n\n \nExposición \n\n20 J/m2 \n0,10 \n10 \nNo \n\nextrema \n\n \n\n¿Cuál de las siguientes conclusiones del experimento podría ser replicada de manera confiable \nmediante un procedimiento similar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Las mutaciones inducidas por radiación UV siempre aumentan la tasa de supervivencia en todas las condiciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Las exposiciones moderadas a radiación UV pueden favorecer la aparición de nuevas adaptaciones sin una reducción crítica en la supervivencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Las mutaciones inducidas por radiación UV no afectan la tasa de supervivencia de las bacterias ni la aparición de adaptaciones."
+        },
+        {
+          "letra": "D",
+          "texto": "Las exposiciones extremas a radiación UV producen un aumento significativo en la tasa de supervivencia y en la aparición de nuevas adaptaciones. 76"
+        }
+      ],
+      "pagina": 103,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. Un grupo de estudiantes realiza un experimento para medir la cantidad de ADN en células de \n\nun organismo durante las diferentes fases de la meiosis. Durante el trabajo, los estudiantes \nmiden la cantidad de ADN (c) en una célula que está experimentando meiosis. Observan que \nen la profase I la cantidad de ADN es 4c, luego de la primera citodiéresis la cantidad disminuye \na 2c, pero después de la telofase II, 2 de las células hijas tienen una cantidad de ADN de 2c \nmientras que las 2 restantes no presentan ADN. \n\nRespecto a lo anterior, ¿cuál de las siguientes alternativas representa la etapa del proceso \ndonde se produjo el problema que llevó a estos resultados?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Profase II"
+        },
+        {
+          "letra": "B",
+          "texto": "Metafase I"
+        },
+        {
+          "letra": "C",
+          "texto": "Anafase II"
+        },
+        {
+          "letra": "D",
+          "texto": "Profase I"
+        }
+      ],
+      "pagina": 65,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. Las ballenas francas y los tiburones ballena se encuentran entre los mayores animales marinos \n\nconocidos. Estos animales tienen un cuerpo hidrodinámico con formas muy similares. Además, \nambos son animales filtradores, que se alimentan de grandes cantidades de pequeños \norganismos presentes en el agua. Sin embargo, las ballenas francas australes pertenecen al \ngrupo de los mamíferos, mientras que los tiburones ballena pertenecen al grupo de los peces \ncartilaginosos. La semejanza entre el tamaño, el formato del cuerpo y el modo de alimentación \nde esas dos especies de animales se debe a un proceso evolutivo conocido como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Convergencia adaptativa."
+        },
+        {
+          "letra": "B",
+          "texto": "Divergencia adaptativa."
+        },
+        {
+          "letra": "C",
+          "texto": "Radiación adaptativa."
+        },
+        {
+          "letra": "D",
+          "texto": "Coevolución. 78"
+        }
+      ],
+      "pagina": 105,
+      "imagenes": []
+    }
+  ]
+}

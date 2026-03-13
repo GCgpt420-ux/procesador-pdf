@@ -1,0 +1,27 @@
+{
+  "filename": "Desafío N° 7.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/DESAFIOS/Desafío N° 7.pdf",
+  "num_paginas": 1,
+  "titulo": "",
+  "autor": "Preuniversitarios",
+  "fecha_procesamiento": "2026-03-07T16:00:57.559055",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nC U R S O : MATEMÁTICA \n\n \n \n \n \n \n1. \nSi A + B = 120, B + C = 100 y C + D = 160, entonces A + D = \n \n \n\nMATERIAL  DESAFÍO Nº 07 \n\nA) 120 \nB) 140 \nC) 160 \nD) 180 \nE) 200 \n \n \n2. \nEn la siguientes secuencia: 5, 7, 14, 16, 32,…, el valor del cuádruplo del octavo término \nmenos el décimo primer término es  \n \n \n\nA) -22 \nB) \n  22 \nC)   2-1 \nD) (-2)2   \nE) ninguna de las anteriores. \n\n \n \n3. \nLa cifra de las unidades de 3106 es  \n \n \n\nA) 1 \nB) 2 \nC) 3 \nD) 7 \nE) 9 \n  \n \n4. \nLa suma de dos ángulos exteriores de un triángulo es igual a 270º. Si el lado mayor \nmide 48 cm, ¿cuánto mide el trazo que une el circuncentro con el centro de gravedad? \n \n \n\nA)   6 cm  \nB)   8 cm \nC) 12 cm  \nD) 16 cm \nE) 20 cm \n \n \n \nRespuestas:   1 D     2 A       3 E \n4 B \n",
+      "cantidad_caracteres": 754,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.3798828125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    }
+  ]
+}

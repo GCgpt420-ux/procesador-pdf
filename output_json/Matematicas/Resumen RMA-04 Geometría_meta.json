@@ -1,0 +1,190 @@
+{
+  "filename": "Resumen RMA-04 Geometría.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/z. Resumenes - Varios/Matematicas/Resumen RMA-04 Geometría.pdf",
+  "num_paginas": 10,
+  "titulo": "",
+  "autor": "Ximena",
+  "fecha_procesamiento": "2026-03-07T14:52:20.153435",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\n \n\n \n\n \n\n \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \nRESUMEN RMA-04 \n\n \n\nGEOMETRÍA II \n\nNombre \n\nCurso \n\nProfesor \n",
+      "cantidad_caracteres": 114,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 492.5390625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n\n \nFiguras Semejantes  \n \nDos figuras son semejantes si sus lados homólogos son proporcionales y sus ángulos \ncorrespondientes son congruentes. \n\n \n\nSEMEJANZA DE TRIÁNGULOS \nABC   PQR si y solo si \n\n \n \n \n \n \n\n \nA  P   \n\nR \n\nB  Q   \n\n \n \n\nC \n\nC  R   \n\nLados homólogos proporcionales \n\nA \nB \n \n \n \n \n\nAB\nBC\nCA\n=\n=\nPQ\nQR\nRP  \n\nP \nQ \n\n \n\n \n \n \n \n\nC \nR \n\nTEOREMA FUNDAMENTAL \n \nSi A  P  ; B  Q,  entonces ABC  PQR \n\nA \nB \nP \nQ \n \n \n \n \n\n \n \n \n \n\nC \n\n \nCorolario 1 \n \nSi DE // AB , entonces ABC  DEC  \n\n \n \n\nE \nD \n\n \nA \n\n \n\n \n\nB \n\n \n \n \n\nC \n\nCorolario 2 \n \nSi EDC  CAB, entonces ABC  DEC \n\n \n\n \n \n \n\nD \n\nE \n\n \n\nB \n\nA \n\n \n \n \n\nE \nD \n\n \n\n \n\nCorolario 3 \n \nSi  DE // AB , entonces ABC  DEC \n\nC \n\n \n \n\n \n\n \n\nB \n\nA \n\nPágina 2 \n \n",
+      "cantidad_caracteres": 774,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \n\n \n\nCRITERIOS DE SEMEJANZA \n\n \n \n\n \n \nLAL (Lado-Ángulo-Lado) \n\nR \n\n \n\nC \n\nk · b \n\nSi  A  P  y  AC\nAB\n=\nPR\nPQ ,  \n\nb \n\nA \nB \n\nc \n\nP \nQ \nk · c \n\nentonces ABC   PQR \n\n \n\n \n \n\nC \n\nLLL (Lado- Lado -Lado) \n\nR \n\n \n\nk · q \n\nk · p \n\nq \np \n\nSi  AB\nBC\nCA\n=\n=\nPQ\nQR\nRP\n\n,  \n\nP \nQ \n\nr \n\nA \nB \n\nk · r \n\nentonces ABC  PQR \n\n \n \n \n \n \n\n \nLLA> (Lado- Lado –Ángulo Mayor) \n\nC \n\n \n\nR \n\nSi C  R  y  \nAC\nAB\n=\nPR\nPQ , donde  \n\nk · q \n\nq \n\nPQ > PR; AB > AC, \n\nA \nB \n\nr \n\nP \nQ \n\nk · r \n\nentonces  PQR  ABC     \n\n \n\n \n\n \n\n \n\nPágina 3 \n \n",
+      "cantidad_caracteres": 529,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": " \n\n \nPROPORCIONALIDAD PARA EL PERÍMETRO Y ÁREA DE TRIÁNGULOS SEMEJANTES \n\n \n \n \n \n\nC \n\nC’ \n\nb \n\nb’ \n\nb\nt\nh\n=\n=\nb'\nt\nh\n = …  \n\nPerímetro ΔABC\nPerímetro ΔA'B'C'  \n\nc\na\n\n=\n\ntc \ntc’ \n\n \n\nc'\na'\n\nA \nc \nB \nA’ \nc’ \nB’ \n\n \n \n \n \n\nC \n\nC’ \n\n2\n2\n2\n\nb \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nÁrea ΔABC\nÁrea ΔA'B'C'  = \n\nb\nt\nh\n=\n=\nb'\nt\nh\n'\n\nb’ \n\nc\na\n\n = ... \n\ntc \ntc’ \n\nc\na'\n\nA \nc \nB \nA’ \nc’ \nB’ \n\n \nObservación: \n \nLa proporcionalidad para el perímetro y el área es válida también en polígonos \nsemejantes. \n \n \n \n\n \n\n \n\nP(ABCDEF)\nP(A'B'C'D'E'F') = a\n\na'  = b\n\nb'  = c\n\nc'  = … \n\nA \nB \n\na \n\nA’ \nB’ \n\na’ \n\nb’ \n\nb \n\n \n\nF’ \n\nC´ \n\nF \n\nC \n\n2\n\n\n\n\n\n\na\na'\n = \n\n2\n\n\n\n\n\n\nb\nb'\n= \n\n2\n\n\n\n\n\n\nc\nc'\n= … \n\nA(ABCDEF)\nA(A'B'C'D'E'F')  = \n\nc’ \n\nc \n\nE’ \nD’ \n\nE \nD \n\n \n\n \n\n \n\n \n\nPágina 4 \n \n",
+      "cantidad_caracteres": 781,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": " \n\nTEOREMA DE THALES \n\n \n \n \n\nA \nD \n\nL1  \n\nSi L1 // L2 // L3, entonces AB\nDE\n = \nBC\nEF   \n\nB \nE \n\nL2  \n\nC \nF \n\nL3  \n\n \n\nTEOREMA DE LA BISECTRIZ INTERIOR \n\n \n \n \n \n\nC \n\n  \n\nSi CD  es bisectriz, entonces AC\nBC\n = \nAD\nBD   \n\nA \nD \nB \n\n \n\nTEOREMA DE EUCLIDES \n\n \n\n \n \n \n \n \n\nC \n\n2\nc\nh   = p  q \n\n \n\nhc \n \n\nb \na \n\nb2 = q  c \n\np \n \n \n\nq \n\nA \nD \nB \n\nc \n\na2 = p  c \n\nhc = a  b\n\n\n \n\nc\n\n \n\n \n\n \n\nPágina 5 \n \n",
+      "cantidad_caracteres": 410,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": " \n\nTEOREMA DE LAS CUERDAS \n\n \n\n \n \n \n\nAB y CD \ncuerdas \ny \nP \npunto \nde \nintersección de ellas. \n\nC \nB \n\n \n \nAP · PB = CP · PD \n\nP \n\nA \nD \n\n \n\n \n\n \n\nTEOREMA DE LAS SECANTES \n\n \n\n \n \n \n\nB \n\nAP  y  BP  secantes, con C y D puntos de \nintersección con la circunferencia. \n\nD \n\n \n \nAP · CP = BP · DP \n\nP \n\nC \n\nA \n\n \n\n \n\n \n\nTEOREMA DE LA TANGENTE Y LA SECANTE \n\n \n \n\n \n \n \n\nT \n\nTP  \ntangente \ny \nAP  \nsecante \na \nla \ncircunferencia. \n\n \n \nTP2 = AP · BP \n \n\nP \n\nA \nB \n\n \n\n \n\nPágina 6 \n \n",
+      "cantidad_caracteres": 480,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": " \n\n \nDIVISIÓN DE TRAZOS \n\n \n\nDIVISIÓN INTERNA \n\n \n \nAP\nm\n = \nPB\nn\n\n \n \n\n \n\n \nDonde: \n\nmt \nnt \nA \nP \nB \n\n \nAP = mt \nPB = nt \nAB = (m + n) · t \nt = constante \n\n \n\n \n\nDIVISIÓN ÁUREA O DIVINA \n\nNúmero áureo \n\n \n\n = AB\n\nAP  = 1 + 5\n\n2\n  1,618034 \n\n \n\nSi AB\n\nPB ,  con PA > PB, entonces la razón AB\n\nAP  = AP\n\nAP  , se denomina razón áurea. \n\n \n\nA \nB \nP \n\n \n\nISOMETRÍAS \n\n \n\nTRASLACIONES \n\n \n \n \n\n \n \nAl ABC de la figura se le aplicó una \n\nC \nC’ \n\nt \n\nt \n\nB’ \nB \n\ntraslación de vector t  obteniéndose el \n\nt \n\nA’B’C’. \n\nA \n\nA’ \n\n \n\n \nOBSERVACIONES:  \n\n Una figura que se traslada jamás rota, es decir, el ángulo que forma con la \n\nhorizontal no varía. \n \n No importa el número de traslaciones que se realicen siempre es posible \n\nresumirlas en una única traslación. \n\nPágina 7 \n \n",
+      "cantidad_caracteres": 780,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": " \n\n \n \n\nROTACIONES \n \n \n \n \n \nRotación en 90° (antihoraria) \n\n \n \n \n \n\ny \n\n90° \n\nx \n\nrespecto del origen \n\n \n \nR(0,90°) se tiene A(x,y)  A’(-y, x) \n\n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \nR(0,180°) se tiene A(x,y)  A’(-x, -y) \n\ny \n\n180° \n\nx \n\nRotación en 180° (antihoraria) \n\nrespecto del origen \n \n \n \n\n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n\ny \n\nRotación en 270° (antihoraria) \n\n270° \n\nrespecto del origen \n\nx \n\n \n \n \n \n \n\nR(0,270°) se tiene A(x,y)  A’(y, -x)  \n\n \nR(0,270°) = R(0, -90°) \n\n \n \n\n \n\n \n\n \n\n \n\nPágina 8 \n \n",
+      "cantidad_caracteres": 518,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": " \n\n \n\n \n\nSIMETRÍAS \n\n \n\nSIMETRÍA CENTRAL \n\n \nO: Centro de simetría  \n \n\n \n\nQ \n\nP’ \nR’ \n\nOP = OP’ \n\nO \n\nOQ = OQ’ \n\nQ’ \nP \nR \n\nOR = OR’ \n\n \n\n \n\n \nObservación: \nUna simetría central es equivalente a una rotación en 180°. \n \n\n \n \n \n\nSIMETRÍA AXIAL \n\n \n \n \nOP = OP’          L  PP ’ \n\n \n \n\nL: Eje de Simetría \nL \nQ \n\nQ’ \nO’ \n\nO \n\nR \nP \n\nO’Q = O’Q’   y   L  QQ ’ \n\nP’ \n\nO’’ \n\nO’’R = O’’R’      L  RR ’ \n\nR’ \n\n \n\n \n \n\n \nObservaciones: \n \n\n No es posible superponer mediante traslaciones y/o rotaciones, los triángulos congruentes \n\nPQR y P’Q’R’. \n\n Los puntos de la recta L permanecen invariantes ante una reflexión. \n\n \n\n \n\nPágina 9 \n \n",
+      "cantidad_caracteres": 635,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": " \n\n \n\nEJE DE SIMETRÍA \n\n \n\n Existen figuras que no tienen ejes de simetría. \n\n Existen figuras que tienen solo un eje de simetría. \n\n Existen figuras que tienen más de un eje de simetría. \n\n La circunferencia tiene infinitos ejes de simetría. \n\n \n \n \n \n \n \n \n \n \n\n \n\n \n\nUn eje de \n\nDos ejes de \n\nNo tiene ejes de \n\nsimetría \n\nsimetría \n\nsimetría \nA \n\n \n\n \n\nRombo \nRomboide \n\n \n\n \n\nCENTRO DE SIMETRÍA  \n\n \n El centro de simetría es único. \n\n No todas las figuras tienen centro de simetría. \n\n En una circunferencia el centro de simetría es el centro de la circunferencia. \n\n Los triángulos no tienen centro de simetría.  \n\n Todos los paralelógramos tienen centro de simetría. \n\n \n\n \n \n \n\nC \n\na \n\nC \nA’ \n\na \na \n\na \n\nP \nD \n\nP \n\na \n\nB’ \n\nB \n\na \na \n\na \n\nB \nA \n\na \n\nC’ \n\nA \n\nP no es centro de \n\nP centro de simetría \n\nsimetría \n\nA'P   PA  \n\nAP  PD \n\n \n\nPágina 10 \n \n",
+      "cantidad_caracteres": 871,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

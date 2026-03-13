@@ -1,0 +1,360 @@
+{
+  "archivo_original": "TAM 18.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TAM 18.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 4,
+  "fecha_procesamiento": "2026-03-07T23:06:56.821836",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nFernando, en el presente mes de Octubre, sumó a los años que tiene, los meses que ha \nvivido obteniendo como resultado 524. ¿En qué mes nació Fernando?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Febrero"
+        },
+        {
+          "letra": "B",
+          "texto": "Marzo"
+        },
+        {
+          "letra": "C",
+          "texto": "Mayo"
+        },
+        {
+          "letra": "D",
+          "texto": "Junio"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \n¿Cuál es el área del triángulo que forman las gráficas de las funciones f(x) = -2x + 12 y \ng(x) = x, con el eje de las abscisas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "24"
+        },
+        {
+          "letra": "D",
+          "texto": "36"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn la figura adjunta, CAD = 60° y DCA = 20°. ¿Cuánto mide el ángulo DEF? \n\n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "90°"
+        },
+        {
+          "letra": "B",
+          "texto": "95°"
+        },
+        {
+          "letra": "C",
+          "texto": "100°"
+        },
+        {
+          "letra": "D",
+          "texto": "105° E F D A B D"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "TAM 18_p1_img3.jpg",
+        "TAM 18_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \n¿Cuál es el área de un rectángulo ABCD en el cual, AB = 3x – 2y + 3,  BC = 2x + y – 1, \nCD = x + y,  y  DA = 4?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "27 8"
+        },
+        {
+          "letra": "B",
+          "texto": "9 2"
+        },
+        {
+          "letra": "C",
+          "texto": "28"
+        },
+        {
+          "letra": "D",
+          "texto": "14"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn la figura adjunta, ABCD es un cuadrado de lado 2 y ABE es equilátero. ¿Cuánto \nmide EF ? \n   \n \n\nD \nC \nE F",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "1 – 3"
+        },
+        {
+          "letra": "C",
+          "texto": "2 – 3"
+        },
+        {
+          "letra": "D",
+          "texto": "2 + 3"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TAM 18_p2_img1.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEl círculo de centro O de la figura adjunta tiene perímetro igual a 4u. Si  \nAC = CO = OD = DB, entonces  ¿cuál es el área de la figura achurada? \n \n \n\nA \nB \n\n \n\nH \nG \nS \nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 u2"
+        },
+        {
+          "letra": "B",
+          "texto": "4 u2"
+        },
+        {
+          "letra": "C",
+          "texto": "5 u2"
+        },
+        {
+          "letra": "D",
+          "texto": "6 u2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TAM 18_p2_img1.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nPara construir una pared cuadrada de 7 metros de lado, sobraron 79 ladrillos, y si el \nlado de la pared hubiese medido 5 metros, habrían sobrado 2.479 ladrillos. Si el lado \nmidiese 6 metros, ¿cuántos ladrillos sobrarían?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1.179"
+        },
+        {
+          "letra": "B",
+          "texto": "1.279"
+        },
+        {
+          "letra": "C",
+          "texto": "1.339"
+        },
+        {
+          "letra": "D",
+          "texto": "1.379 C D O B A E F P Q 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn el cuadrado ABCD de la figura adjunta, DF = AB y el ángulo CDF mide 60°. ¿Cuánto \nmide el ángulo EFD? \n \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "22,5°"
+        },
+        {
+          "letra": "B",
+          "texto": "30°"
+        },
+        {
+          "letra": "C",
+          "texto": "37°"
+        },
+        {
+          "letra": "D",
+          "texto": "45° E F"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TAM 18_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nDos números naturales consecutivos son tales que, su suma es igual a la cuarta parte \ndel menor, más los cinco tercios del mayor. ¿Cuál es el sucesor de la suma de estos \nnúmeros? \n \n\nB \nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "21"
+        },
+        {
+          "letra": "B",
+          "texto": "20"
+        },
+        {
+          "letra": "C",
+          "texto": "19"
+        },
+        {
+          "letra": "D",
+          "texto": "18"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Si un banco A presta dinero con interés compuesto mensual del 13,2%, el banco B lo \n\nhace con un interés compuesto trimestral del 12,7% y el banco C presta dinero con \ninterés compuesto mensual del 12,6% mensual, entonces ¿cuál(es) de las siguientes \nafirmaciones es (son) verdadera(s) con respecto a la conveniencia de pedir un \npréstamo? \n \n\nI) \nEl banco B conviene más que el A. \nII) \nEl banco C conviene menos que el B. \nIII) \nLos bancos A y C convienen más que el B.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Una dama pidió al vendedor de una tienda 4 pañuelos de seda y n pañuelos corrientes. \n\nEl precio de los pañuelos de seda es el doble de los pañuelos corrientes. El vendedor \nconfundió el pedido y despachó n pañuelos de seda y 4 pañuelos corrientes. Esta \nconfusión dio lugar a que el valor de la compra aumentase en un 50%. ¿Cuál es el \nvalor de n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "14"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "16"
+        },
+        {
+          "letra": "E",
+          "texto": "18 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En el rectángulo ABCD de la figura adjunta, las áreas de los triángulos ABE, BCE y CDE \n\nson 6, 3 y 4, respectivamente. ¿Cuál es el área del triángulo AED? \n \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "9"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "7 E"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TAM 18_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Para pesar 92 kg de porotos se usaron pesas de 4 kg, 5 kg y 6 kg. Si se ocuparon las \n\nA \nB \n\ntres pesas, ¿cuál pudo ser el máximo número de pesas que se utilizó?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "19"
+        },
+        {
+          "letra": "B",
+          "texto": "20"
+        },
+        {
+          "letra": "C",
+          "texto": "22"
+        },
+        {
+          "letra": "D",
+          "texto": "23"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Un empleado gasta 0,83 de su sueldo. Si solo hubiese gastado 0,36  de su sueldo le \n\nhabrían quedado $ 372.000 más de lo que le quedó. ¿Cuánto dinero gastó?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 620.000"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 640.000"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 660.000"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 680.000 n + 0,25 n 2  49 7 n 1 7 7"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    }
+  ]
+}

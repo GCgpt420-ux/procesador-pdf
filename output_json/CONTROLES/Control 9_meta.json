@@ -1,0 +1,226 @@
+{
+  "filename": "Control 9.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/CONTROLES/Control 9.pdf",
+  "num_paginas": 18,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T16:03:04.110952",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2026.16015625
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2266.0205078125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2003.947265625
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2123.1806640625
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2016.9306640625
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 1929.537109375
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2055.55078125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 1880.3486328125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 1899.6796875
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 1904.228515625
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 1878.1904296875
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 1891.8427734375
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 1929.57421875
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2035.677734375
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2113.375
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 1940.638671875
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2120.95703125
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "texto": "",
+      "cantidad_caracteres": 0,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2297.9658203125
+        }
+      ]
+    }
+  ]
+}

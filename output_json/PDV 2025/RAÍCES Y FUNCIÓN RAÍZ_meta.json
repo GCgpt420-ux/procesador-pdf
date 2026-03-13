@@ -1,0 +1,192 @@
+{
+  "filename": "RAÍCES Y FUNCIÓN RAÍZ.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/RAÍCES Y FUNCIÓN RAÍZ.pdf",
+  "num_paginas": 23,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T16:00:53.456866",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "RAÍCES Y FUNCIÓN RAÍZ \n\n \n",
+      "cantidad_caracteres": 26,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 1224.9248046875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "MATEMÁTICA\n404\n\n1.\t POTENCIAS, ECUACIÓN \t \t\n\t\n\t\n\t\nEXPONENCIAL\n\nPROPIEDADES DE LAS POTENCIAS\n\nSea a ∈ ℝ – {0} y m, n ∈ ℤ. Entonces:\n\n1.1\t\nPRODUCTO DE POTENCIAS DE IGUAL BASE:\n\nam · an = am + n\n\n1.2\t\nCUOCIENTE DE POTENCIAS DE IGUAL BASE:\n\nam : an = am – n\n\nEJERCICIOS\n\n1.\t a2x-9 · a3-x =\n4.\t -93m+1 : 92m-5 =\n\n2.\t -5n-1 · 54n-2 =\n5.\t c4 · c3x-1 · cx+1 =\n\n3.\t b5y-6 : b2-y =\n6.\t 11n+2 · 11n–3 · 11n =\n",
+      "cantidad_caracteres": 398,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "405\nCAPÍTULO IX: ÁLGEBRA Y FUNCIONES III\n\nx + 1\n3\n\n2\n2x - 1\n\n2\n\n3\n•\n=\n\n7.\t x3 : x2+a · x3a+2 =\n11.\n\n2\n\n3x - 2\n\n3\n\n12.\n=\n(0,4)x  · (0,4)x-2 \n\n8.\t a7 · ab-1 · b2 : a5 =\n\n(0,4)x-1  · (0,4)x-3 \n\n3\n\n3\n4n +1\n\n2n - 3\n4\n\n:\n\n4\n\n9.\t 72n-1 ( 7n+3 - 73n-4) =\n\n13.\n\n=\n\n3\n3\n\n2n - 1\n5 - n\n\n·\n\n4\n4\n\n3n+1 · 3n-5 =\n14.   63n  - 62n \n\n10.   3n · 3n-1 \n\n62n  - 6n =\n\nn\n3\n4\n\n13.\n14.  6n\n\n4\n9\n\n1.  ax - 6\n2.  -55n - 3 3.  b6y - 8\n4.  -9m + 6 5.  c4x + 4 6.  113n - 1 7.  x2a + 3 8.  a3 . b\n9.  73n + 2  - 75n - 5 10.  27\n11.  \n12.  0,16\n\nRespuestas\n",
+      "cantidad_caracteres": 527,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": "MATEMÁTICA\n406\n\nSean a, b ∈ ℝ – {0} y m, n ∈  ℤ. Entonces:\n\n1.3\t PRODUCTO DE POTENCIAS DE IGUAL EXPONENTE\n\nam · bm = (a · b)m\n\nam\nm\na\nbm\nb\n=\n\n1.4\t CUOCIENTE DE POTENCIAS DE IGUAL EXPONENTE\n\n1.5\t POTENCIA DE UNA POTENCIA\n\n(am)n = am · n\n\nEJERCICIOS\n\n1.\t Conteste verdadero (V) o falso (F) a las siguientes afirmaciones.\n\n-3\n2\n3\n= 27\n\na.\t ___\t (-32)3 = -36\n\nf.\t ___\t\n\n8\n\nb.\t ___\t (2-3)4  =\n12\n1\n2\n\ng.\t ___\t 23 · 23 = 46\n\nc.\t ___\t (5-3)5 = (55)-3\n\nh.\t ___\t 43 = 82\n\nd.\t ___\t 22   = 26\n3\n\ni.\t ___\t 52 · 2-2 = 100\n\ne.\t ___\t -42 = 16\n\nj.\t ___\t Si aa = 1, entonces a = 0\n",
+      "cantidad_caracteres": 564,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": "407\nCAPÍTULO IX: ÁLGEBRA Y FUNCIONES III\n\n2.\t ax + 1 · bx + 1  =\n7.\t (qn - 1 )n + 1  =\n\n1\n4\na-2 -3\n.\n\n8.                            =\n3.\t -32n - 1 · 22n - 1  =\n\na\na\n.\n\n4.\t\n=\n3\n5\n\n5\n3\n\n9.\t (x3)-2 . (x4)2  =\n\n5.\t  \n=\n81b+3\n\n10.\t   (z2)3 . (w-3)-4  \n\n3b+3\n\n=\n\n(z-2)2 . (w-2)-1  \n\n2n\n2n\n:\n\n16\n25\n\n6.\t\n=\n4\n5\n\n11.\t   9m-1 . 27m  \n\n=\n\n812m \n\n2.\t (a . b)x + 1\n3.\t -62n - 1\n4.\t 1\n5.\t33b+9\n6.\t\n7.\tqn2 -1\n8.\t64 . a6\n9. x2\n10.  (z . w)10\n11.  3-3m - 2\n25\n16\n\nn\n\nRespuestas\n1.\ta. V   b. V   c. V   d. F   e. F   f. F   g. F   h. V   i. F   j. F\n",
+      "cantidad_caracteres": 532,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": "MATEMÁTICA\n408\n\nSean a, b ∈ ℝ – {0} y m, n ∈ ℤ. Entonces:\n\n1.6\t\nPOTENCIAS DE IGUAL BASE\n\nam = an ⇔ m = n, con a distinto de -1 y 1\n\na = b ⇒ an = bn, con n par\na = b ⇔ an = bn, con n impar\n\n1.7\t\nPOTENCIAS DE IGUAL EXPONENTE\n\n1.8\t\nECUACIÓN EXPONENCIAL\n\nEcuación exponencial es aquella que tiene la incógnita o las incógnitas en el exponente de una o más potencias.\n\nPara resolver una ecuación exponencial se debe reducir cada miembro de la igualdad a una potencia y luego \nigualar las bases, aplicando las propiedades correspondientes.\n\nLas bases deben ser distintas de cero, uno y menos uno.\n\nEJERCICIOS\n\n1.\t Conteste verdadero (V) o falso (F) a las siguientes afirmaciones.\n\na.\t ___\t Si x2 = y2, entonces x = y, con x e y ∈ ℝ.\n\nd.\t ___\t Si x0 = 1, entonces x = 0.\n\nb.\t ___\t Si x3 = y3 , entonces x = y, con x e y ∈ ℝ.\n\ne.\t ___\t x0 = 1, para todo x ∈ ℝ.\n\nc.\t ___\t Si x3 = 33, entonces x = 3.\n\nf.\t ___\t Si x = y, entonces xn = yn, con x ≠ 0 y n ∈ ℕ\n",
+      "cantidad_caracteres": 947,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "409\nCAPÍTULO IX: ÁLGEBRA Y FUNCIONES III\n\n-3a\n2a + 4\n4\n5 =\n\n2.\t Si\t\n\t\n                 , entonces -a +\n=\n2\n3\n\n3\n2\n\n3.\t Si (0,2)-2x : 125-3x = 53(x – 1), entonces x =\n\n4.\t Si 3a + 3a + 1 + 3a + 2 = 39, entonces 3a + 1 es\n\nx\n4\n2- 5 x\n\n5.\t La solución de la ecuación (0,00001)   \t           =  \t            es\n1\n10\n\n6.\t En la ecuación                =                     , ¿cuál es el valor de x?\n2\n49\n7\n4\n\nx+2\n-x+3\n\n2.\t-\n3.\t-\n4. 4\n5.\tx = 2 6.\tx = 8\n16\n5\n3\n8\n\nRespuestas\n1.\ta. F b. V c. V d. F e. F f. V \n",
+      "cantidad_caracteres": 503,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "texto": "2.\t FUNCIÓN EXPONENCIAL\n\nLa función f: ℝ→ℝ+ definida por f(x) = ax, con a ∈ ℝ+ y a ≠ 1 se denomina función exponencial.\n\nPROPIEDADES\n\n1.\t El Dominio es: Df = ℝ.\n\n = ℝ+.\n\n2.\t El Recorrido es: Rf\n\n3.\t La función exponencial es biyectiva.\n\n4.\t La gráfica intersecta al eje de las ordenadas en el punto (0,1).\n\n5.\t Si a > 1, entonces f(x) = ax es creciente.\n\n6.\t Si 0 < a < 1, entonces f(x) = ax es decreciente.\n\n7.\t La gráfica no intersecta al eje de las abscisas.\n\n2.1\t\nGRÁFICAS DE LA FUNCIÓN EXPONENCIAL\n\ny\n\ny\n\nf(x) = ax\n\nf(x) = ax\n\n0 < a < 1\n\n1 < a\n\n1\n\n1\n\nx\n\nx\n",
+      "cantidad_caracteres": 561,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 3.021484375
+        },
+        {
+          "index": 1,
+          "tipo": 1,
+          "tamanio_kb": 2.6455078125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "411\nCAPÍTULO IX: ÁLGEBRA Y FUNCIONES III\n\nEJERCICIOS\n\n1.  Conteste verdadero (V) o falso (F) a las siguientes afirmaciones.\n\ne.\t ___\t Si f(x)= 4x + 1, entonces f(-3) = 2-4.\n\na.\t ___\t Si f(x)= 5-x, entonces la función\n\t\n\t\nes decreciente.\n\nf.\t ___\t La función f(x) =               es decreciente.\n1\n9(\n\n(\n\nx\n\nb.\t ___\t Si f(x)= 2-x, entonces f(2) < f(-2).\n\n2\n3(\n\n(\n\nx\n\n1\n3x\n\nc.\t ___\t La gráfica de f (x) =           intersecta al eje \n\ng.\t ___\t El recorrido de la función f(x) =          es el \t\n\n\t\n\t\nde la ordenadas en el punto (1, 0).\n\n\t\nconjunto de los números reales positivos.\n\n1\n5x\n\nd.\t ___\t Si f(x)= 4x + 1, entonces la función\n\t\n\t\nes creciente.\n\nh.\t ___\t La función f: ℝ→ℝ+ definida por f (x) =           \t \t\n\n            es biyectiva.\n\n2.  La figura adjunta, muestra la gráfica de la función f(x) = 2x. Escriba la ecuación correspondiente a cada gráfica\n\na.\nb.\nc.\n\nRespuestas\n1.  a. V\nb. V\nc. F\nd. V\ne. V\nf. V\ng. V\nh. V\n2.  a. y= 2x - 1\nb. y= 2x + 1\nc.  y= 2x-1 + 1\n",
+      "cantidad_caracteres": 972,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 4.7060546875
+        },
+        {
+          "index": 1,
+          "tipo": 1,
+          "tamanio_kb": 5.5439453125
+        },
+        {
+          "index": 2,
+          "tipo": 1,
+          "tamanio_kb": 4.5966796875
+        },
+        {
+          "index": 3,
+          "tipo": 1,
+          "tamanio_kb": 3.9638671875
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "3.\t RAÍCES\n\n3.1\t\nDEFINICIONES\n\na\nn\n\nDEFINICIÓN 1: Si n es un entero par positivo y a es un real no negativo, entonces            es el único real b, \nno negativo, tal que bn = a\n\n= b ⇔ bn = a, b ≥ 0\na\nn\n\na\nn\n\nDEFINICIÓN 2: Si n es un entero impar positivo y a es un real cualquiera, entonces            es el único real b tal que \nbn = a\n\na\nn\n= b ⇔ bn = a, b ∈ \n\nOBSERVACIONES\n\nNO ES REAL.\na\nn\n\nSi n es un entero par positivo y a es un real negativo, entonces\n\na\nn\nk\n\nLa expresión           , con a real no negativo, se puede expresar como una potencia de exponente fraccionario.\n\na\nn\nk = an\n\nk\n\nSe define para todo número real a:\n\na2 = a\n",
+      "cantidad_caracteres": 639,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 0.482421875
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "413\nCAPÍTULO IX: ÁLGEBRA Y FUNCIONES III\n\nEJERCICIOS\n\n1.\t                 =\n-125\n3\n\n8.\t                      =\n\n(-625)2\n\n(\n\n(\n\n4\n2.\t                =\n256\n\n2\n\n9.\t \n\n1\n4\n\n1\n2\n\n=\n-\n\n5\n3.\t                =\n-243\n\n10.                            =\n\n2    \n\n(   2 -    3 )\n\n2\n3\n\n1\n3\n\n11.   Si  a > 0,   a    .  a      =  \n\n3\n4.\t                \n125\n\n64 =\n\n5.\t                     =\n0,008\n3\n4\n\n12.\t              =\n\n516\n\n13.\t\n\n5+2\n- 5 5) =\n5\n-(3\n\n6.\t                 =\n5,4\n\n7.\t                          =\n0,3 . 2,7\n\n14.\t\n2 - 6\n+ 2\n2 -    3   \n3\n4\n=\n\nRespuestas\n1. -5\n2. 4\n3. -3\n4. \n5. 0,2 6.  \n7. 0,9\n8. 625\n9. \n10. \n11. a 12. 625 13. 0 \n14. \n5\n4\n7\n3\n1\n4\n3  -    2\n6   2 - 7   3\n",
+      "cantidad_caracteres": 668,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "texto": "MATEMÁTICA\n414\n\nPROPIEDADES\n\nSi\t\ny\t\nestán definidas en ℝ, entonces:\na\nn\nb\nn\n\n3.2\t\nMULTIPLICACIÓN DE RAÍCES DE IGUAL ÍNDICE\n\na\nn\nb\nn\na • b\nn\n•\n=\n\na\nn\na\nn\n\nb ≠ 0\n=\n\nb\nn\n,\nb\n\n3.3\t\nDIVISIÓN DE RAÍCES DE IGUAL ÍNDICE\n\nEJERCICIOS\n\n4.\t\na2\na3\n5\n5\n•\n=\n\n1.\t\n2\n4\n8\n4\n•\n=\n\n5.\t\n32\n\n3 •\n27\n\n2 •\n9\n8\n=\n\n2.\t\n-3\n3\n9\n3\n•\n=\n\n3.\t\n2\n5\n(5\n(2\n)\n)\n5\n5\n•\n=\n\n6.\t\n0,2\n0,05\n•\n=\n",
+      "cantidad_caracteres": 350,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "texto": "415\nCAPÍTULO IX: ÁLGEBRA Y FUNCIONES III\n\n3\n\n3\n\n7.\t\n=\n32\n\n11.\t\n=\n0,081\n\n3\n\n3\n\n4\n\n0,003\n\n6\n\n12\n\n8.\t\n10\n\n12.\t\n7\n7\n3\n3\n(\n(\n3\n3\n)\n)\n-\n+\n•\n=\n\n6\n=\n\n18\n\n5\n\n4\n\n9.\t   Si b > 0, \n=\nb7\n\n13.\t\n21\n21\n5\n5\n(\n(\n)\n)\n+\n-\n•\n=\n\n4\n\nb2\n\n3\n8 :\n7\n10\n=\n4\n10.\t\n\n2\n14.\t\n3\n2\n2\n3\n(\n)\n-\n=\n\n1. 2\n2. -3\n3. \n4. a\n5.\n6.\n7.  2\n8.  \n9. \n10.  \n11.   3\n12.  -20\n13.  4\n14.  30 - 12     6\n2\n3\n5\n2\n\n1\n9\n10 10\n5\n2\n\n6\nb5\n4\n9\n2\n\nRespuestas\n",
+      "cantidad_caracteres": 396,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "texto": "MATEMÁTICA\n416\n\nPROPIEDADES\n\nSi a ∈ ℝ+, m y n ∈ ℤ+, entonces:\n\nam\nn\na\nn\n=\n(\n\n(\n\nm\n\n3.4\t\nPOTENCIA DE UNA RAÍZ\n\n3.5\t\nRAÍZ DE UNA RAÍZ\n\nn\nnm\n=\nma\na\n\nEJERCICIOS\n\n5 3\n=\n3\n(\n\n(\n\n( 2\n\n(\n\n5\n\n1.\n\n4.\n\n3\n=\n\n3 6\n\n(\n\n(\n\n7 5\n=\n2\n(\n\n(\n\n-2\n\n5.\n\n2.\n\n7\n=\n\n3 2\n=\n4\n(\n\n(\n\n0,5\n=\n3\n6.\n(\n\n3.\n\n(\n",
+      "cantidad_caracteres": 272,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "texto": "417\nCAPÍTULO IX: ÁLGEBRA Y FUNCIONES III\n\n12.\n30 =\n3\n5\n\n7.\n27\n=\n4\n3\n\n13.\n8\n8 =\n.\n3\n3\n\n8.\n32\n=\n3\n5\n\n14.\n40\n2 =\n:\n4\n5\n5 4\n\n9.\n81\n=\n5\n4\n\n10.\n(0,027)\n=\n4\n3\n\n15.\nx\nx\n=\n.\n3\n3\n3\n9\n3\n13\n14\n\n16.\tSi a, b y c son reales positivos,  \n.\n:\n(\n\n(\n\n11.\n16 =\n\n=\na\nb\nc\n\n4 a . b\nc\n\n2020\n\n14.  \n15.  x\n16. \n\n3 49\n36\n\n243\n\n1530\n15\n5 27\n7 25\n3 16\n0,125\n32\n\n1. \n2. \n3. \n4.  \n5.\n6.\n7.  81 8.  8\n9. 243\n10.  81 . 10-4 11.  2\n12. \n13. 2\n\nRespuestas\n",
+      "cantidad_caracteres": 422,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "texto": "MATEMÁTICA\n418\n\nPROPIEDADES\n\n3.6\t\nAMPLIFICACIÓN Y SIMPLIFICACIÓN DEL ÍNDICE DE UNA RAÍZ\n\n    a\n    a\nn\nmn\nm\n, a  \n  y  m , n   \n=\n\n3.7\t\nPRODUCTO DE RAÍCES DE DISTINTO ÍNDICE\n\n    a\n    b\n    a\n    a\n    b\n    b\nn\nm\nm\nm\nn\nn\nm \n\n•m\n, a , b  \n  y  m , n   \n=\n=\n•\n•\n•\n\n•n\nm n\nn \n\n3.8\t\nFACTOR DE UNA RAÍZ COMO FACTOR SUBRADICAL\n\n    b\n    a\n    a\n    b\nn\nn\nn\n\n, a , b  \n  y  m , n   \n=\n•\n•\n\nEJERCICIOS\n\n1.\t Simplifique las siguientes raices\n\nd.  15 8\na.  10\n\n45 =\n=\n\n58 =\ne.  9 64 =\n\nb.  4\n\n33 =\nf.  6 81 =\n\nc.  6\n",
+      "cantidad_caracteres": 509,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "texto": "419\nCAPÍTULO IX: ÁLGEBRA Y FUNCIONES III\n\n2.\t 5\n3\n3\n5\n=\n.\n\n8.\t\n3\n3\n2\n2\n2\n=\n\n3.\t\n=\n.\n3\n(\n(\n)\n)\n6\n4\n2\n2\n\n9.\t El orden creciente de\n\n2\n3\n13\n5\n4\n2\n,\n,\n, es\n\n10.\t  El orden decreciente de\n3\n5\n26\n,\n,\n, es\n3\n6\n\n4.\t\n4\n6\na3\na5 =\n.\nSi a > 0, \n\n.\nm qn\nn rm\n\n48\n50\n72\n75\n5\n3\n5\n4\n-\n+\n-\n11.\t  \n5.\t Si m, n, q y r son reales positivos\n=\n=\n\n12.\t  7\n5\n2y\n16y3\n54y3\n250\n+\n-\n3\n3\n3\n6.\t Si b > 0, \n=\n.\n.\n3\n3\nb4\nb2\nb\n\n=\n\n7.\t Si c > 0, \n=\n.\nc   \n3 c\n4 c3\n\n6 c5\n\n2\n3\n2\n2 y\n2\n3\n13\n4\n15\n19\n5\n2\n\n8.  \n9.\n10.\n11.\n12.\n\n,\n,\n,\n,\n\n6\n5\n\n26\n\n3\n3\n\n3 4\n3 9\n6 25\n24\n4 c3\nb\nb2\n12 a19\nmn qn2 . rm2\n15 33 · 55\n\n5 2\n\n1.  a. 2    b. 25   c.             d.              e.                f.\n2.\n3.\n4.\n5.\n6.\n7.          \n3\n\nRespuestas\n",
+      "cantidad_caracteres": 690,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "texto": "MATEMÁTICA\n420\n\n3.9\t\nRACIONALIZACIÓN\n\nRacionalizar una fracción consiste en transformarla en otra equivalente cuyo denominador sea un número \nracional.\n\n,          con\ny\na\n\nCaso 1: Fracciones de la forma:\n\nb •\n    c\n\na\n\na\n\nc\n=\n\n•\n\nb •\n    c\n\nb •\n    c\nc\n\na •\n    c\n\nb \n•  c\n=\n\n,          con\na\n\nCaso 2: Fracciones de la forma:\n\n    b\nn\nm\n\nn\n\nn - m\n\n    b\n\n•\na\n\na\n\n=\n\n    b\nn\nm\n\n    b\nn\nm\n\nn\n\nn - m\n\n    b\n\nn\n\nn - m\n\na •\n\n    b\n\n=\n\nb\n\na\n\nCaso 3: Fracciones de la forma:\n,     con denominador distinto de cero y b, c    \n\n    b\n    c\n    q\n p\n\n•\n•\n\n p\n =\n•\n\n    b\n\n    q\n\n    c\n\na\na\n\n•\n\n•\n\n p\n p\n p\n\n    b\n    b\n    b\n\n    q\n    q\n    q\n\n    c\n    c\n    c\n\n•\n•\n•\n\n•\n•\n•\n\n p\na\n=\n\n    b\n\n    q\n\n    c\n\n•\n\n•\n•\n\n2\n2\n\n p\n b\n\n    q\n\n    c\n\n•\n\n•\n",
+      "cantidad_caracteres": 737,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "texto": "421\nCAPÍTULO IX: ÁLGEBRA Y FUNCIONES III\n\nEJERCICIOS\n\nRacionalice las siguientes expresiones\n\n5.\t Si x > 0, \nx\n=\nxm\n\n1.\t\n1 =\n2\n\nn\n\n6.\t Si m > 0, n > 0, \nt\n=\nm . n2\n3\n\n2.\t\n2 + \n=\n2\n\n8\n\n7.\t\n8\n=\n-\n19\n11\n\n3.\t\n54\n=\n3\n3\n\nb\nb\n4.\t\n1\n=\n53\n7\n\n=\n+\n\n−\na\na\n\n8.\t Si a y b son positivos y distintos, \n\n2\n\n5\n\n7\nx n-m\nn\nm2 · n\nt ·\nm · n\n\n3\na + b + 2   ab\na - b\n\n1.\n2.\n3.\n4.\n5. \n6.\n7. \n8.\n2 + 2\n3\n6\n19 + 11\n54\n\n2 \n\nRespuestas\n",
+      "cantidad_caracteres": 408,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "texto": "MATEMÁTICA\n422\n\nEJERCICIOS ADICIONALES\n\n:\n3n - 1\n\nn - 1\n\n(\n\n(\n\n(\n\n(\n\n2\n3\n\n2\n3\n\n6.\t\n=\n.\n3\n3\n-\n+\n29\n29\n2\n2\n\n1.\t\n\n=\n.\n\nn + 1\n\nn - 2\n\n(\n\n(\n\n(\n\n(\n\n2\n3\n\n2\n3\n\n=\n.\n.\np4   3 p2\np\n\n5\n\n2.\t 4 x - 4 . 2 x - 4\n\n7.\t Si p > 0, entonces \n\n16 x - 3\n=\n\n10 p3\n\n8.\t Si x ≥ 4, entonces \n=\n-\nx - 2\nx + 2\n(\n\n(\n\n2\n\n3.\t Si 125 5 x + 2   =  25 3x - 6, entonces x -1  =\n\na - 4\n4 ( a - 2)\n\n9.\t Si a  > 4, entonces \n4.\t Si 4x + 4x - 2 + 4 x - 3  =  138, entonces -x  =\n\n=\n\n5.\t Dada la función f, definida por f(x) = 4 x -1 - 4, ¿en qué \n\n10.\tDada la función f(x) = 2 x - 1 + 3, ¿cuál es su dominio \n\npuntos intersecta a los ejes coordenados?\n\ny recorrido, respectivamente?\n\n3\n4\n\n1.\n2.\n3.\n4.\n5.  (2,0) y (0,          ) 6.  3\n7.   p5\n8.   2 x - 2 x - 4\n9. \n10. \n2\n3\n-7\n2\n\n2x\n-1\n2\n-15\n4\n\n[\nℝy\n\na + 2\n3, + ∞ \n\n[\n\n1\n\nRespuestas\n",
+      "cantidad_caracteres": 793,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "texto": "4.\t FUNCIÓN RAÍZ CUADRADA\n\n4.1\t\nGRÁFICA DE LA FUNCIÓN RAÍZ CUADRADA\n\nf (x) = x , con x ≥ 0\n\nOBSERVACIONES\n\n•\t\nLa función es creciente.\n\n•\t\nLa función raíz cuadrada es considerada como un modelo de crecimiento lento.\n\n•\t\nLa función raíz cuadrada es biyectiva.\n\nEJERCICIOS\n\n1.\t Si la función f : \n  está definida por f (x) = x, entonces f (2) - f (3)\n\n=\n\nf (3) + f (2)\n",
+      "cantidad_caracteres": 367,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "texto": "MATEMÁTICA\n424\n\n2.\t ¿Cuál es la función raíz que representa cada uno de los siguientes gráficos, su dominio y recorrido?\n\na.\n\nf(x) =\n\nDom f =\n\nRec f =\n\ng(x) =\nb.\n\nDom g =\n\nRec g =\n\nc.\n\nh(x) =\n\nDom h =\n\nRec h =\n",
+      "cantidad_caracteres": 210,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "texto": "425\nCAPÍTULO IX: ÁLGEBRA Y FUNCIONES III\n\nd.\n\nt(x) =\n\nDom t =\n\nRec t =\n\ne.\n\nr(x) =\n\nDom r =\n\nRec r =\n\nf.\n\nq(x) =\n\nDom q =\n\nRec q =\n\ne.   r (x) = x - 2 + 1, Dr = [ 2, + ∞ [  y  Rr = [ 1, + ∞ [ \nf.   q (x) = x + 1 - 2, Dq = [ -1, + ∞ [  y  Rq = [ -2, + ∞ [ \n\nc.   h (x) = x - 2, Dh = [ 2, + ∞ [  y  Rh = \n  \nd.   t (x) = x + 1, Dt = \n   y   Rt = [ 1, + ∞ [\n\n1.   2 6 - 5\n2.   a.  f (x) = x - 2, Df = \n   y   Rf = [-2, + ∞ [    b.   g (x) = x + 1, Dg = [-1, + ∞ [  y  Rg = \n   \n\nRespuestas\n",
+      "cantidad_caracteres": 487,
+      "imagenes": []
+    }
+  ]
+}

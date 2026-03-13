@@ -1,0 +1,27 @@
+{
+  "filename": "1.- Torpedo - Ondas y sus características.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/z. Resumenes - Varios/Fisica/1.- Torpedo - Ondas y sus características.pdf",
+  "num_paginas": 1,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T14:52:17.313977",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nDEFINICIÓN ONDA \n\n“Perturbación que se repite de manera regular en el espacio y el tiempo, que se transmite sin \n\ntransporte de materia”  \n\nCARACTERÍSTICAS DE UNA ONDA \n\nhttps://bit.ly/3tX56QD \n\nLongitud de onda (𝝀): Distancia recorrida en un ciclo u oscilación.  \n\nConsideraremos un ciclo u oscilación una distancia P si esta pasa por 2 valles, 2 crestas o 3 \nnodos. \n\n \n\nFrecuencia (𝒇): Número de ciclos en la unidad de tiempo \n\n𝑓= 𝑛° 𝑑𝑒 𝑐𝑖𝑐𝑙𝑜𝑠\n\n𝑡𝑖𝑒𝑚𝑝𝑜\n \n\nPeriodo (T): Tiempo necesario para completar un ciclo \n\n𝑇=\n𝑡𝑖𝑒𝑚𝑝𝑜\n𝑛° 𝑑𝑒 𝑐𝑖𝑐𝑙𝑜𝑠 \n\nRelación Frecuencia-Período: \n\n𝑓∗𝑇= 1 ↔𝑇= 1\n\n𝑓↔𝑓= 1\n\n𝑇 \n\nRapidez de propagación (v): depende solo del medio por el que se mueve la onda \n\n𝑣= 𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑖𝑎\n\n𝑡𝑖𝑒𝑚𝑝𝑜\n= 𝜆\n\n𝑇= 𝜆∗𝑓 \n\n \n \n\n1 \n \n",
+      "cantidad_caracteres": 725,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 107.51171875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 71.0439453125
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1571 @@
+{
+  "archivo_original": "Ensayo 2 L.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/4.Tesla/Ensayos/Lenguaje/Ensayo 2 L.pdf",
+  "materia": "Sin clasificar",
+  "num_paginas": 39,
+  "fecha_procesamiento": "2026-03-07T22:38:23.664898",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. ¿Qué tienen en común los científicos Charles Darwin, Wilhelm Pfeffer y T. C. Singh?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cultivaron sus propias plantas para poder alimentarse."
+        },
+        {
+          "letra": "B",
+          "texto": "Compartían la misma preferencia por la música de la India."
+        },
+        {
+          "letra": "C",
+          "texto": "Experimentaron con la relación entre las plantas y el sonido."
+        },
+        {
+          "letra": "D",
+          "texto": "Descubrieron que la música afecta positivamente a las cosechas."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. ¿Cuál fue el primer elemento que utilizó Singh para sus experimentos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El laúd."
+        },
+        {
+          "letra": "B",
+          "texto": "El violín."
+        },
+        {
+          "letra": "C",
+          "texto": "El fagot."
+        },
+        {
+          "letra": "D",
+          "texto": "El diapasón."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. ¿Cuál es la función del párrafo 6?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Señalar los primeros experimentos que se hicieron para estudiar cómo las plantas perciben el sonido."
+        },
+        {
+          "letra": "B",
+          "texto": "Explicar leyendas de la tradición india que impulsaron a Singh a usar ragas en sus investigaciones."
+        },
+        {
+          "letra": "C",
+          "texto": "Confirmar los efectos de las ragas en las plantas mencionados en las antiguas leyendas indias."
+        },
+        {
+          "letra": "D",
+          "texto": "Destacar el valor que se le da a la música en la India como un medio de vinculación con la divinidad."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. ¿A qué conclusión llegó Singh con su experimentación?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Que el genio musical de Bach era tan bueno o mejor para los cereales que los fertilizantes."
+        },
+        {
+          "letra": "B",
+          "texto": "Que las ondas de sonido armonioso influyen en el crecimiento, floración, producción de frutos y semillas de las plantas."
+        },
+        {
+          "letra": "C",
+          "texto": "Que los humanos son capaces de percibir solo una pequeña fracción de lo que los afecta vibratoriamente."
+        },
+        {
+          "letra": "D",
+          "texto": "Que el raga tiene un sistema tonal capaz de producir en el oyente un profundo sentimiento religioso y emociones específicas. 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. ¿Qué relación se puede establecer entre los párrafos 12 y 13? \n \nAmbos párrafos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se refieren a casos fuera de la India que confirman los beneficios de la música en las plantas."
+        },
+        {
+          "letra": "B",
+          "texto": "relatan acontecimientos interesantes sobre el aumento de la productividad de las cosechas."
+        },
+        {
+          "letra": "C",
+          "texto": "describen otras experimentaciones científicas llevadas a cabo por investigadores occidentales."
+        },
+        {
+          "letra": "D",
+          "texto": "explican experiencias ocurridas en distintos lugares del mundo que llamaron la atención de Singh."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. ¿Cuál de las siguientes opciones sintetiza el contenido del texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La ciencia ha confirmado que ciertas vibraciones sonoras no afectan al ser humano."
+        },
+        {
+          "letra": "B",
+          "texto": "En la cultura india las plantas son tratadas con música sagrada para su crecimiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Las canciones tradicionales de la India son mejores que la música de Occidente."
+        },
+        {
+          "letra": "D",
+          "texto": "Diversos estudios han demostrado el efecto que produce la música en las plantas."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. ¿Con cuál de las siguientes cosechas Singh NO usó procedimientos musicales?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Arroz."
+        },
+        {
+          "letra": "B",
+          "texto": "Tabaco."
+        },
+        {
+          "letra": "C",
+          "texto": "Trigo."
+        },
+        {
+          "letra": "D",
+          "texto": "Cacahuates."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. A partir de la lectura del último párrafo, se infiere que el emisor considera que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "los sonidos producen efectos tanto en las plantas como en los humanos."
+        },
+        {
+          "letra": "B",
+          "texto": "se necesita una capacidad olfatoria especial para detectar algunas partículas."
+        },
+        {
+          "letra": "C",
+          "texto": "los sentidos humanos son limitados para sentir el perfume de la margarita."
+        },
+        {
+          "letra": "D",
+          "texto": "hay fenómenos de la naturaleza que escapan de la percepción humana. 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. ¿Cuál es el tema del texto anterior?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Una nueva radioemisora que comienza a emitir extrañas transmisiones."
+        },
+        {
+          "letra": "B",
+          "texto": "Una enfermedad muy contagiosa cuya cura son las tabletas “El Canario”."
+        },
+        {
+          "letra": "C",
+          "texto": "Una inyección que transmite una propaganda de muebles “El Canario”."
+        },
+        {
+          "letra": "D",
+          "texto": "Un hombre que disfruta de sus tranquilas vacaciones fuera de la ciudad."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. ¿Cuál es la actitud del protagonista en el tranvía al recibir el pinchazo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "De odio, pues se siente muy malhumorado."
+        },
+        {
+          "letra": "B",
+          "texto": "De confusión, pues no entendía de la situación."
+        },
+        {
+          "letra": "C",
+          "texto": "De gratitud, pues le complace recibir la inyección."
+        },
+        {
+          "letra": "D",
+          "texto": "De miedo, pues cree que lo podrían lastimar."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. ¿Cuál de los siguientes enunciados es VERDADERO con respecto a las transmisiones \nde muebles “El Canario”?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Se podían escuchar si se encendía la radio."
+        },
+        {
+          "letra": "B",
+          "texto": "Se difundían desde los tranvías que circulaban."
+        },
+        {
+          "letra": "C",
+          "texto": "Comenzaban a oírse tras tomarse una tableta."
+        },
+        {
+          "letra": "D",
+          "texto": "Sonaban dentro de la cabeza del protagonista. 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. ¿Cuál de las siguientes opciones es una crítica social que se puede asociar a la \nlectura?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La falta de acceso a los medicamentos en las farmacias."
+        },
+        {
+          "letra": "B",
+          "texto": "La poca seguridad en los medios de transporte interurbano."
+        },
+        {
+          "letra": "C",
+          "texto": "La invasión de los medios de comunicación en la vida privada."
+        },
+        {
+          "letra": "D",
+          "texto": "Los efectos secundarios que pueden tener las inyecciones."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. ¿Cómo se siente el protagonista escuchando las transmisiones de muebles “El \nCanario”?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Desesperado."
+        },
+        {
+          "letra": "B",
+          "texto": "Avergonzado."
+        },
+        {
+          "letra": "C",
+          "texto": "Malhumorado."
+        },
+        {
+          "letra": "D",
+          "texto": "Asustado."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Cuando el protagonista empieza a oír las transmisiones de muebles “El Canario” su \nmayor anhelo es:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "quedar sordo para no escuchar más la radio."
+        },
+        {
+          "letra": "B",
+          "texto": "librarse como sea del efecto de la inyección."
+        },
+        {
+          "letra": "C",
+          "texto": "comprar una tableta de muebles “El Canario”."
+        },
+        {
+          "letra": "D",
+          "texto": "llegar a darse un baño de pies bien caliente."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. A partir del desenlace del cuento se puede inferir que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "el funcionario de “El Canario” le ofrece ayuda al protagonista porque era un viejo amigo."
+        },
+        {
+          "letra": "B",
+          "texto": "todo lo ocurrido era solo una extraña alucinación del protagonista debido al exceso de calor."
+        },
+        {
+          "letra": "C",
+          "texto": "no era posible finalizar las transmisiones de muebles “El Canario” de ninguna manera."
+        },
+        {
+          "letra": "D",
+          "texto": "el negocio de la empresa consistía en vender unas tabletas para poner fin a las transmisiones."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. ¿Cómo se puede interpretar la reacción que tienen los otros pasajeros del tranvía la \nprimera vez que el protagonista viaja? \n\n \nLa sociedad",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "está habituada a los mecanismos que usan las empresas para hacer publicidad."
+        },
+        {
+          "letra": "B",
+          "texto": "disfruta de las sorpresas que pueden encontrarse en cualquier viaje en la ciudad."
+        },
+        {
+          "letra": "C",
+          "texto": "se burla de quienes se suben a los medios de transporte en camisa de manga corta."
+        },
+        {
+          "letra": "D",
+          "texto": "confía en los procedimientos médicos, aunque se realicen en espacios públicos. 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. ¿Con qué intención se menciona a Aristóteles en el contexto del primer párrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Criticar a otros filósofos que no han podido resolver el problema de la comicidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Señalar que desde los primeros tiempos el ser humano se ha hecho preguntas."
+        },
+        {
+          "letra": "C",
+          "texto": "Demostrar que la risa es un problema filosófico que se resiste a ser comprendido."
+        },
+        {
+          "letra": "D",
+          "texto": "Mencionar un ejemplo de aquellos pensadores que han intentado explicar la risa. 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. ¿Qué función tienen las preguntas planteadas en el sexto párrafo del texto?  \n \n¿Cuántas veces se habrá dicho que la risa de los espectadores, en teatro, es mayor \ncuanto más llena está la sala? ¿Cuántas veces se habrá resaltado, por otra parte, que \nmuchos efectos cómicos son intraducibles de una lengua a otra, relativos por lo tanto a \nlas costumbres e ideas de una sociedad particular?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dudar de la rigurosidad con la cual se ha analizado la risa."
+        },
+        {
+          "letra": "B",
+          "texto": "Reflexionar sobre el carácter social o grupal de la comicidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuestionar la idea de que la risa sea un fenómeno universal."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuantificar las veces en que lo cómico ha sido estudiado."
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. En relación con el texto, el segundo párrafo cumple con el propósito de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "señalar las orientaciones teóricas que guiarán el esfuerzo del autor para intentar definir el concepto de comicidad."
+        },
+        {
+          "letra": "B",
+          "texto": "explicar por qué la risa es un fenómeno complejo que se resiste a ser clasificado en términos filosóficos."
+        },
+        {
+          "letra": "C",
+          "texto": "describir el procedimiento del autor para determinar las características de la risa desde un punto de vista práctico."
+        },
+        {
+          "letra": "D",
+          "texto": "destacar tres rasgos que caracterizan al problema de la risa según los más grandes pensadores de la historia."
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. ¿Cuál es la primera particularidad de la comicidad que destaca el autor?  \n \nLa risa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tiene un significado profundamente social."
+        },
+        {
+          "letra": "B",
+          "texto": "suele provocar un estado de insensibilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "es siempre un compartir con otras personas."
+        },
+        {
+          "letra": "D",
+          "texto": "es un fenómeno intrínsecamente humano."
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. ¿Qué se afirma en el texto en relación con la risa?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Su entorno natural es la propia subjetividad humana."
+        },
+        {
+          "letra": "B",
+          "texto": "Existen pocos lugares donde es posible encontrarla."
+        },
+        {
+          "letra": "C",
+          "texto": "Permite generar una complicidad con otras personas."
+        },
+        {
+          "letra": "D",
+          "texto": "Representa un gran problema para la humanidad."
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Del fragmento leído, se infiere que para el emisor la definición de la risa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "es un desafío que se resbala, huye y se vuelve erguir."
+        },
+        {
+          "letra": "B",
+          "texto": "implica una exigencia para la filosofía contemporánea."
+        },
+        {
+          "letra": "C",
+          "texto": "se reduce solo a tres observaciones fundamentales."
+        },
+        {
+          "letra": "D",
+          "texto": "debe considerar su utilidad dentro de la sociedad. 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. En el contexto del quinto párrafo, ¿qué sentido tiene la siguiente frase? \n \nLa comicidad exige pues, para surtir todo su efecto, algo así como una anestesia \nmomentánea del corazón, pues se dirige a la inteligencia pura. \n\nLa comicidad",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "está acompañada de la insensibilidad, pues implica necesariamente desafecto o indiferencia."
+        },
+        {
+          "letra": "B",
+          "texto": "produce consecuencias a nivel intelectual, pues requiere ser comprendida por la razón."
+        },
+        {
+          "letra": "C",
+          "texto": "es un fenómeno emocional transitorio, pues afecta a las personas que están más sensibles."
+        },
+        {
+          "letra": "D",
+          "texto": "puede afectar a las personas con problemas al corazón, pues exige suspender su función. 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. A partir de la lectura, se concluye que los cronistas de Indias:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se dedicaban únicamente a transcribir la información suministrada por los indígenas."
+        },
+        {
+          "letra": "B",
+          "texto": "encontraron en el Nuevo Mundo todos los elementos mitológicos que en Europa no existían."
+        },
+        {
+          "letra": "C",
+          "texto": "son los colonizadores españoles que escribieron relatos sobre los hechos del Nuevo Mundo."
+        },
+        {
+          "letra": "D",
+          "texto": "crearon mapas donde aparecen regiones habitadas por amazonas, gigantes o caníbales."
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Según el texto, ¿quién es el primero de los cronistas de Indias que se refiere al uso \nde la hoja del tabaco en América?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Gonzalo Fernández de Oviedo."
+        },
+        {
+          "letra": "B",
+          "texto": "Cristóbal Colón."
+        },
+        {
+          "letra": "C",
+          "texto": "Bernal Díaz del Castillo."
+        },
+        {
+          "letra": "D",
+          "texto": "Fray Bartolomé de las Casas."
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. ¿Cuál es el rasgo de la literatura del Descubrimiento y la Conquista que se destaca \nen el texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La confirmación de las leyendas."
+        },
+        {
+          "letra": "B",
+          "texto": "La mezcla de realidad y fantasía."
+        },
+        {
+          "letra": "C",
+          "texto": "El plagio de autores griegos y latinos."
+        },
+        {
+          "letra": "D",
+          "texto": "La visión de un mundo muy vicioso."
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. ¿Con qué propósito se cita el Diario de Colón en el cuarto párrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Confirmar que con su escritura se da comienzo a la literatura hispanoamericana."
+        },
+        {
+          "letra": "B",
+          "texto": "Comparar la visión de Cristóbal Colón con la que revela Bernal Díaz del Castillo."
+        },
+        {
+          "letra": "C",
+          "texto": "Señalar la primera aparición que tuvieron las sirenas en la literatura occidental."
+        },
+        {
+          "letra": "D",
+          "texto": "Ejemplificar la coexistencia de hechos reales y ficticios en las Crónicas de Indias. 17"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. ¿Cuál(es) de las siguientes opciones corresponde(n) a fuentes literarias utilizadas por \nlos cronistas?  \n \nI. Mitos clásicos. \nII. Textos bíblicos. \nIII. Leyendas medievales.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. ¿Qué función cumple el recuadro que se incluye en el texto en relación con el sexto \npárrafo? \n \n\nLa fuente de la eterna juventud: \n \n“Entre ellas, a la distancia de trescientas \nveinticinco leguas de la Española, cuentan \nque hay una isla, los que la exploraron en el \ninterior, que se llama Boyuca, alias Ananeo, \nla cual tiene una fuente tan notable, que \nbebiendo de su agua, rejuvenecen los viejos”.  \n \nPedro Martín de Anglería, Historia del Nuevo \nMundo. \n \n \n\nEl Dorado:  \n \n“Y porque un indio les hizo entender que \nhabía un río donde con redes se pescaba oro, \nlo llevaron los procuradores a Castilla para \nque lo dijese al Rey”.  \n \nFray Bartolomé de las Casas, Historia de las \nIndias.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ejemplificar los mitos de la Conquista con pasajes de algunas crónicas de Indias."
+        },
+        {
+          "letra": "B",
+          "texto": "Justificar la idea de que los conquistadores encontraron un mundo sobrenatural."
+        },
+        {
+          "letra": "C",
+          "texto": "Sintetizar de qué se trataban los mitos más famosos difundidos en la Conquista."
+        },
+        {
+          "letra": "D",
+          "texto": "Demostrar la calidad literaria que alcanzaron los cronistas de Indias en el siglo XV."
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. ¿Cuál es la actitud que predomina en el texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Crítica."
+        },
+        {
+          "letra": "B",
+          "texto": "Persuasiva."
+        },
+        {
+          "letra": "C",
+          "texto": "Objetiva."
+        },
+        {
+          "letra": "D",
+          "texto": "Emotiva. 18"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. A partir del párrafo 7 se desprende que al llegar a América los conquistadores \nespañoles:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fueron testigos de la naturaleza y del hombre americanos."
+        },
+        {
+          "letra": "B",
+          "texto": "se encontraron con una naturaleza que no existía en Europa."
+        },
+        {
+          "letra": "C",
+          "texto": "todavía mantenían una concepción medieval del mundo."
+        },
+        {
+          "letra": "D",
+          "texto": "no sabían que habían descubierto un nuevo continente. 19"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. ¿Cuál es el conflicto social que se evidencia en el texto anterior?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La migración rural urbana."
+        },
+        {
+          "letra": "B",
+          "texto": "La desintegración de la familia."
+        },
+        {
+          "letra": "C",
+          "texto": "La escasez de trabajo en la ciudad."
+        },
+        {
+          "letra": "D",
+          "texto": "La pérdida del espíritu navideño. 22"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. ¿Cómo se puede interpretar la siguiente frase? \n \n“y la intuición de hallarse en la mitad de un hormiguero, de ser él mismo una hormiga \ncualquiera. Peor: una hormiga cualquiera y sin trayectoria definida”",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Chufa creía que se quedaría atrapado en el terminal."
+        },
+        {
+          "letra": "B",
+          "texto": "Chufa intuía que su existencia no tenía sentido alguno."
+        },
+        {
+          "letra": "C",
+          "texto": "Chufa se sentía perdido e insignificante en la capital."
+        },
+        {
+          "letra": "D",
+          "texto": "Chufa pensaba que era miserable como una hormiga."
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. ¿Cuál es la relación que se puede establecer entre los párrafos 4 y 5?   \n \n\n \nEl párrafo 4: \n \n\nEl párrafo 5:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "muestra las dificultades que tiene Chufa para orientarse por primera vez en la capital. explica cómo Chufa logra tomar la micro correcta preguntando."
+        },
+        {
+          "letra": "B",
+          "texto": "relata el encuentro entre Chufa y una pareja que le hace una extraña propuesta. se refiere a las razones que motivan a Chufa a aceptar la propuesta."
+        },
+        {
+          "letra": "C",
+          "texto": "revela una situación absurda que solo es posible que ocurra en las grandes ciudades. presenta un quiebre al estado de tranquilidad que sentía Chufa."
+        },
+        {
+          "letra": "D",
+          "texto": "describe el ambiente navideño de la ciudad que Chufa observa desde la micro. profundiza en las divagaciones de Chufa, es decir, su mundo interior."
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. ¿Cuál de las siguientes afirmaciones es FALSA con respecto a Chufa?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tiene veinte años."
+        },
+        {
+          "letra": "B",
+          "texto": "Le gustan los perros."
+        },
+        {
+          "letra": "C",
+          "texto": "Sus padres murieron."
+        },
+        {
+          "letra": "D",
+          "texto": "Nació en el sur. 23"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. ¿En qué consiste la petición que la pareja le hace a Chufa en la micro?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Que viaje con ellos para pasar juntos la Nochebuena y cenar en un pueblo de la costa."
+        },
+        {
+          "letra": "B",
+          "texto": "Que por un monto de dinero les cuide el departamento mientras ellos están de vacaciones."
+        },
+        {
+          "letra": "C",
+          "texto": "Que le entregue a la vecina una copia de las llaves del departamento para que ella lo cuide."
+        },
+        {
+          "letra": "D",
+          "texto": "Que vaya al departamento a ver si la cocina está prendida y la apague si es necesario."
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. ¿Por qué motivo Chufa acepta el trato que le ofrece la pareja?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque imagina que la pareja podría llegar a ser como su familia."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque le atrae la idea de estar cómodo en un departamento ajeno."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque no tiene muchas ganas de pasar la Navidad junto a su tío."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque necesita el dinero para poder comprar un perro siberiano."
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. ¿Cómo calificarías la actitud de Chufa con respecto a su llegada a la capital?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cautelosa, porque analiza con cuidado lo que ve en la ciudad."
+        },
+        {
+          "letra": "B",
+          "texto": "Paciente, porque espera que su tío lo recoja en el rodoviario."
+        },
+        {
+          "letra": "C",
+          "texto": "Ansiosa, porque no puede esperar a celebrar la Navidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Ingenua, porque no repara en los peligros que se le presentan. 24"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. ¿Qué es el Body Positive?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Una tendencia psicológica impulsada por el discurso feminista."
+        },
+        {
+          "letra": "B",
+          "texto": "Un nuevo paradigma surgido en el contexto de las redes sociales."
+        },
+        {
+          "letra": "C",
+          "texto": "Una corriente que busca la aceptación de una diversidad de cuerpos."
+        },
+        {
+          "letra": "D",
+          "texto": "Un estilo de vida que promueve el amor propio y la autocompasión."
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. En el contexto del párrafo 7, ¿para qué se citan las afirmaciones de Sanoja y Montero?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aportar experiencias que inspiren a las mujeres a aceptar su cuerpo."
+        },
+        {
+          "letra": "B",
+          "texto": "Expresar su opinión sobre los problemas del llamado body positive."
+        },
+        {
+          "letra": "C",
+          "texto": "Respaldar con evidencia la importancia del cuerpo y la salud mental."
+        },
+        {
+          "letra": "D",
+          "texto": "Comentar las proyecciones que tendría la corriente del body positive."
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. Según la influencer Bárbara Sanoja, ¿cuál es la diferencia entre amor propio y el body \npositive? \n \nEl body positive es un(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "trabajo de desarrollo personal que impulsa a las mujeres a aceptarse en lo físico y psicológico."
+        },
+        {
+          "letra": "B",
+          "texto": "movimiento social que busca representar una diversidad de cuerpos, sobre todo los marginados."
+        },
+        {
+          "letra": "C",
+          "texto": "tendencia alimenticia que debe ser guiada por nutricionistas y psicólogos especializados."
+        },
+        {
+          "letra": "D",
+          "texto": "enfoque que permite visibilizar los trastornos de la conducta alimentaria derivados de los estereotipos. 27"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. ¿Cuál es la relación entre los párrafos 1 y 2 del texto?  \n \nEl párrafo 1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "señala qué se entiende por body positive; mientras que el párrafo 2 se refiere al origen de este movimiento."
+        },
+        {
+          "letra": "B",
+          "texto": "menciona las consecuencias del body positive; mientras que el párrafo 2 plantea las causas de su masificación."
+        },
+        {
+          "letra": "C",
+          "texto": "comenta la relevancia actual del body positive; mientras que el párrafo 2 describe cómo era hace 50 años."
+        },
+        {
+          "letra": "D",
+          "texto": "resume las características del body positive; mientras que el párrafo 2 explica su relación con la tecnología."
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. ¿Qué quiere decir que el body positive “se toma las redes sociales” según se indica \nen el título de la noticia?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Que está de moda entre los influencers, pues sirve como discurso comercial."
+        },
+        {
+          "letra": "B",
+          "texto": "Que se ha vuelto popular en todo el mundo, pues tiene miles de seguidores."
+        },
+        {
+          "letra": "C",
+          "texto": "Que está revolucionando el mundo digital, pues cambió el modelo de belleza."
+        },
+        {
+          "letra": "D",
+          "texto": "Que se ha masificado en redes como Instagram, pues tiene varios representantes."
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. ¿De qué se trata la sección titulada “Nuevas tendencias”?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Especialistas que han adscrito a la corriente del body positive."
+        },
+        {
+          "letra": "B",
+          "texto": "Efectos de los estereotipos de belleza en la salud mental."
+        },
+        {
+          "letra": "C",
+          "texto": "Polémicas que ha suscitado la masificación del body positive."
+        },
+        {
+          "letra": "D",
+          "texto": "Cambios sociales impulsados por la psicología y la nutrición."
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. ¿Por qué razón la nutricionista Catalina Mena decidió crear una cuenta en Instagram?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque le preocupaba el aumento de problemas de trastornos de alimentación."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque no estaba conforme con el enfoque tradicional del área de la nutrición."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque quería cuestionar los cánones de belleza impuestos a las mujeres."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque le permitiría difundir sus terapias, talleres y asesorías nutricionales. 28"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. ¿Qué importancia tienen los estudios citados en los párrafos 4 y 13 del texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Son datos interesantes, sin embargo, no contribuyen a explicar a cabalidad el fenómeno social del body positive."
+        },
+        {
+          "letra": "B",
+          "texto": "Son estadísticas que advierten sobre los problemas de salud que se podrían evitar si se derriban los estereotipos."
+        },
+        {
+          "letra": "C",
+          "texto": "Son ejemplos que demuestran los efectos que ha tenido la corriente del body positive en la vida de las personas."
+        },
+        {
+          "letra": "D",
+          "texto": "Son evidencias que apoyan la información entregada sobre cómo los cánones de belleza inciden en la autoimagen."
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. ¿Cuál es la actitud del emisor frente al tema expuesto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Reflexiva."
+        },
+        {
+          "letra": "B",
+          "texto": "Polémica."
+        },
+        {
+          "letra": "C",
+          "texto": "Neutra."
+        },
+        {
+          "letra": "D",
+          "texto": "Suspicaz. 29"
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. ¿Cuál es la intención comunicativa del texto anterior?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Celebrar que la OMS haya eliminado la homosexualidad de la lista de Clasificación Internacional de Enfermedades."
+        },
+        {
+          "letra": "B",
+          "texto": "Reafirmar el compromiso del IPPDH con la defensa de los derechos fundamentales de la población LGBTI."
+        },
+        {
+          "letra": "C",
+          "texto": "Exponer la discriminación y violencia que viven las personas LGBTI en la región y en contexto pandémico."
+        },
+        {
+          "letra": "D",
+          "texto": "Proponer acciones para poner fin a los actos y expresiones de odio que afectan a la población LGBTI."
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. ¿Cuál es la actitud que predomina en la forma como el emisor desarrolla el tema?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Emocional, porque se compromete afectivamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Objetiva, porque se limita a plantear hechos."
+        },
+        {
+          "letra": "C",
+          "texto": "Crítica, porque defiende un punto de vista."
+        },
+        {
+          "letra": "D",
+          "texto": "Conciliadora, porque equilibra dos posturas."
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. ¿Qué función cumple la imagen en el texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Complementar la idea de que en la región del MERCOSUR los países han avanzado en políticas públicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Expresar la importancia de la promoción y protección de los derechos de las personas LGBTI en los países del MERCOSUR."
+        },
+        {
+          "letra": "C",
+          "texto": "Ilustrar el sentido que tiene el 17 de mayo para las personas LGBTI que han vivido distintos tipos de violencia."
+        },
+        {
+          "letra": "D",
+          "texto": "Sensibilizar a los lectores con la problemática de las violaciones a los derechos humanos fundamentales."
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 51,
+      "enunciado": "51. Se ha establecido el 17 de mayo como el Día Internacional contra la Homofobia, la \nBifobia y la Transfobia con el propósito de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "promover nuevas leyes que aseguren la dignidad e igualdad de las personas de la comunidad LGBTI."
+        },
+        {
+          "letra": "B",
+          "texto": "garantizar el acceso de la población LGBTI a los derechos humanos fundamentales."
+        },
+        {
+          "letra": "C",
+          "texto": "definir políticas públicas tendientes a asegurar los derechos humanos en los países del MERCOSUR"
+        },
+        {
+          "letra": "D",
+          "texto": "visibilizar y combatir la violencia y discriminación que viven las personas de la comunidad LGBTI. 32"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 52,
+      "enunciado": "52. ¿Qué relación tienen los párrafos 2 y 3 del texto respecto al acceso a los derechos \nhumanos fundamentales de la población LGBTI en los países del MERCOSUR?  \n\n \nEl párrafo 2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "indica que, aunque haya avances, se sigue atentando contra su dignidad; el párrafo 3 lo fundamenta."
+        },
+        {
+          "letra": "B",
+          "texto": "informa los desafíos que están pendientes; el párrafo 3 menciona ejemplos de algunos logros."
+        },
+        {
+          "letra": "C",
+          "texto": "plantea problemas que falta solucionar; el párrafo 3 nombra a los países que ya lo resolvieron."
+        },
+        {
+          "letra": "D",
+          "texto": "afirma que existen avances en políticas públicas; el párrafo 3 destaca las leyes aprobadas."
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 53,
+      "enunciado": "53. ¿Cuál de las siguientes opciones corresponde a la postura que sostiene el emisor \nsobre la lucha contra la discriminación y la violencia hacia las personas LGBTI?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Debería considerarse un tema prioritario en la agenda regional 2023."
+        },
+        {
+          "letra": "B",
+          "texto": "Es necesario seguir avanzando para garantizar plenamente sus derechos."
+        },
+        {
+          "letra": "C",
+          "texto": "Es un fenómeno que se sostiene dada las condiciones de profundas desigualdades."
+        },
+        {
+          "letra": "D",
+          "texto": "Se ha conseguido lo suficiente, solo se necesita mantener los esfuerzos."
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 54,
+      "enunciado": "54. ¿Qué se puede inferir a partir de la lectura?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Los derechos humanos suponen que todas las personas nacen libres e iguales en dignidad y derechos."
+        },
+        {
+          "letra": "B",
+          "texto": "La pandemia evidenció la discriminación estructural, la pobreza y la violencia que vive la población LGBTI."
+        },
+        {
+          "letra": "C",
+          "texto": "Argentina, Uruguay, Bolivia, Ecuador, Colombia y Brasil pertenecen al MERCOSUR."
+        },
+        {
+          "letra": "D",
+          "texto": "El 17 de mayo es el Día Internacional contra la Homofobia, la Bifobia y la Transfobia."
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 55,
+      "enunciado": "55. En relación con la protección y promoción de los derechos de las personas LGBTI, los \npárrafos 6 y 7 tienen el propósito de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reflexionar sobre la necesidad de continuar trabajando por la causa."
+        },
+        {
+          "letra": "B",
+          "texto": "advertir que se trata de un problema urgente de resolver en la región."
+        },
+        {
+          "letra": "C",
+          "texto": "criticar lo que han hecho los países hasta ahora pues no es suficiente."
+        },
+        {
+          "letra": "D",
+          "texto": "destacar acciones que se han tomado en los países del MERCOSUR. 33"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 56,
+      "enunciado": "56. ¿Cuál es la labor del IPPDH MERCOSUR?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Promover políticas públicas que aseguren el acceso igualitario a los derechos fundamentales de las personas LGBTI."
+        },
+        {
+          "letra": "B",
+          "texto": "Coordinar a los gobiernos para implementar leyes contra la discriminación por motivos de identidad de género y/u orientación sexual."
+        },
+        {
+          "letra": "C",
+          "texto": "Liderar investigaciones enfocadas en la visibilización de la homofobia, la bifobia y la transfobia."
+        },
+        {
+          "letra": "D",
+          "texto": "Difundir información acerca de prácticas para poner fin a los actos y expresiones de odio contra las personas LGBTI. 34"
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    },
+    {
+      "numero": 57,
+      "enunciado": "57. En el texto se afirma que el parque tiene un número limitado de visitantes diarios con \nel fin de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "promover y gestionar las visitas gratuitas de diversas organizaciones sociales."
+        },
+        {
+          "letra": "B",
+          "texto": "fomentar el aprendizaje, el deporte, la vida sana y el respeto hacia el entorno."
+        },
+        {
+          "letra": "C",
+          "texto": "generar conciencia sobre la relevancia de los recursos naturales y los animales."
+        },
+        {
+          "letra": "D",
+          "texto": "mantener el equilibrio del ecosistema cuidando a las especies que habitan el lugar."
+        }
+      ],
+      "pagina": 37,
+      "imagenes": []
+    },
+    {
+      "numero": 58,
+      "enunciado": "58. Según la lectura, ¿quiénes pueden disfrutar del parque? \n\n \nI. Adultos. \n\nII. Niños. \nIII. Mascotas. \nIV. Jóvenes.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y IV"
+        }
+      ],
+      "pagina": 37,
+      "imagenes": []
+    },
+    {
+      "numero": 59,
+      "enunciado": "59. ¿Cuál es el tema de la siguiente sección de la lectura? \n \n\nFundación Parque Tricao es una organización sin fines de lucro que promueve la creación de \n\nespacios naturales y biodiversidad, el deporte y la cultura al aire libre, con la finalidad de \n\npreservar para las generaciones futuras esta reserva privada de naturaleza. \n\n \nNuestra principal misión es el cuidado del medioambiente. Estamos abocados al rescate y \npreservación del bosque nativo y de la vegetación autóctona propia de las quebradas de la \n\nzona central de Chile. A través de los múltiples espacios y experiencias que ofrecemos, \n\nbuscamos fomentar una educación integral, siendo la naturaleza el eje central para el \n\ndesarrollo de actividades culturales y recreativas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Descripción de las actividades del parque."
+        },
+        {
+          "letra": "B",
+          "texto": "Presentación del parque y sus propósitos."
+        },
+        {
+          "letra": "C",
+          "texto": "Origen y fundamentos de la fundación."
+        },
+        {
+          "letra": "D",
+          "texto": "Problemas ambientales y soluciones. 37"
+        }
+      ],
+      "pagina": 37,
+      "imagenes": []
+    },
+    {
+      "numero": 60,
+      "enunciado": "60. A partir de lo expuesto en la sección “Misión”, ¿qué se puede inferir de la Fundación \nParque Tricao?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ofrece visitas guiadas gratuitas a colegios e instituciones sociales de todo Chile."
+        },
+        {
+          "letra": "B",
+          "texto": "Sus focos son la protección medioambiental y la educación sobre la naturaleza."
+        },
+        {
+          "letra": "C",
+          "texto": "Cumple una función destacada y de alto impacto en la zona central de Chile."
+        },
+        {
+          "letra": "D",
+          "texto": "Es el único espacio natural de la región que protege la flora y fauna autóctona."
+        }
+      ],
+      "pagina": 38,
+      "imagenes": []
+    },
+    {
+      "numero": 61,
+      "enunciado": "61. ¿Cuál es la función de la imagen en el logotipo del Parque Tricao?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Representar al ave que le da el nombre al parque."
+        },
+        {
+          "letra": "B",
+          "texto": "Ilustrar uno de los animales que habita la zona."
+        },
+        {
+          "letra": "C",
+          "texto": "Anunciar que el parque cuenta con un aviario."
+        },
+        {
+          "letra": "D",
+          "texto": "Comparar la letra “i” con un hermoso pájaro."
+        }
+      ],
+      "pagina": 38,
+      "imagenes": [
+        "Ensayo 2 L_p38_img0.jpg"
+      ]
+    },
+    {
+      "numero": 62,
+      "enunciado": "62. En el parque está prohibido: \n \nI. hacer fogatas. \nII. circular en motocicletas. \nIII. fumar. \nIV. hacer picnic.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III y IV"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 38,
+      "imagenes": []
+    },
+    {
+      "numero": 63,
+      "enunciado": "63. ¿Cuál es el objetivo de la sección “Datos importantes y tips”?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Informar lo que se necesita saber antes de visitar el parque."
+        },
+        {
+          "letra": "B",
+          "texto": "Sugerir a los visitantes que etiqueten al parque en redes sociales."
+        },
+        {
+          "letra": "C",
+          "texto": "Describir los principales atractivos que se pueden ver en el parque."
+        },
+        {
+          "letra": "D",
+          "texto": "Explicar cuáles son los requisitos para poder ingresar al parque. 38"
+        }
+      ],
+      "pagina": 38,
+      "imagenes": []
+    },
+    {
+      "numero": 64,
+      "enunciado": "64. ¿Cuál es la relación que se puede establecer entre la sección titulada “Aviario” y el \nresto del texto?   \n \nEn la sección “Aviario”:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se resumen las características más destacadas que posee el Parque Tricao."
+        },
+        {
+          "letra": "B",
+          "texto": "se reflexiona acerca de la importancia que tiene la educación medioambiental."
+        },
+        {
+          "letra": "C",
+          "texto": "se describe uno de los atractivos que ofrece el Parque Tricao a sus visitantes."
+        },
+        {
+          "letra": "D",
+          "texto": "se menciona la relevancia y el reconocimiento del Parque Tricao en el mundo."
+        }
+      ],
+      "pagina": 39,
+      "imagenes": []
+    },
+    {
+      "numero": 65,
+      "enunciado": "65. ¿Cuál de las siguientes opciones es VERDADERA con respecto al Aviario?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Está construido sobre un gran puente colgante."
+        },
+        {
+          "letra": "B",
+          "texto": "Su malla permite que las aves entren y salgan."
+        },
+        {
+          "letra": "C",
+          "texto": "Con sus 2 hectáreas es el más grande del mundo."
+        },
+        {
+          "letra": "D",
+          "texto": "Alberga a más de ochocientas aves libres. 39"
+        }
+      ],
+      "pagina": 39,
+      "imagenes": []
+    }
+  ]
+}

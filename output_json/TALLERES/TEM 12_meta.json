@@ -1,0 +1,129 @@
+{
+  "filename": "TEM 12.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 12.pdf",
+  "num_paginas": 7,
+  "titulo": "",
+  "autor": "Alvaro Martinez Martinez",
+  "fecha_procesamiento": "2026-03-07T16:02:02.019276",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "MATEMÁTICAS \nTALLER DE EJERCITACIÓN Nº 12 \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n1. \nSi el menor valor que puede tomar x es -2,2 y el mayor valor que puede tomar x es \n2,2, entonces, ¿cuál es el máximo valor entero que puede tomar f(x) = 1 – x2 ? \n\nFUNCIONES \nTEM-12 \n\n \n\n   \nA) \n  3 \nB) \n  1 \nC) -2 \nD) -3 \n \n \n \n \n2. \n¿Cuál es el valor de c, si se sabe que h(x) = 4x – 6  y  h(c) = 0? \n\n \n \nA) -6 \n\nB) - 3\n\n2  \n\nC) \n  3\n\n2  \n\nD)   2\n\n3  \n\n \n \n \n \n3. \nSi f(x) = (x – 1)(x + 5), ¿cuál de las siguientes proposiciones es verdadera? \n\n \n \nA) f(1) > 0 \nB) f(0) > 0 \nC) f(-1) > 0 \nD) f(-6) > 0 \n \n \n \n \n \n \n \n\n \n1\n",
+      "cantidad_caracteres": 598,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.3701171875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 16.0888671875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 121.943359375
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "4. \nLa recta de la figura adjunta esta asociada a la función h definida por \n\n \n \n\n \n\nA) \n7\n29\nh(x) = - x  \n6\n6\n\n \n\nB) \n7\n29\nh(x) = \nx  \n6\n6\n\n \n\n4 \n\nC) \n7\n17\nh(x) = - x + \n6\n6  \n\n5 \n\n-1 \n\n \n\nD) \n7\n53\nh(x) = - x + \n6\n6  \n\n-3 \n\n \n \n \n \n\n5. \nSi f(x) = ax + b con a ≠ b, entonces la expresión f(b)  f(a)\n\n\n\n es igual a \n\nb  a\n\n \nA) x \nB) a \nC) b \nD) ax \n \n \n \n \n\n6. \n¿Para qué valores de x se cumple que f(x) < 0, si se sabe que \n3x  2\nf(x) = \n4\n\n\n? \n\n \nA) -2 < x < 4 \n\nB) x < 2\n\n3  \n\nC) x < 3 \nD) x < 2 \n \n \n \n \n \n \n7. \nPara todo valor de x la función g definida como f(x) = 0,5x + 4, ¿cuál de las siguientes \nexpresiones es igual a f(6) – f(12)? \n\n \n \nA) f(18) \nB) f(6) \nC) f(0) \nD) f(-14) \n \n \n \n \n\n \n2\n",
+      "cantidad_caracteres": 707,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.0947265625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.0947265625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "8. \n¿Cuál de los siguientes puntos pertenece a la gráfica de función f(x) = 4x – 3? \n\n \n \nA) (-1,-1) \nB) (-1,1) \nC) (1,-1) \nD) (1,1) \n \n \n \n9. \nEn la figura adjunta, la recta es la representación gráfica de la función f definida por \n \n \n\nA) \n3\nf(x) = \nx + 4\n2\n \n\ny \n\nB) \n2\nf(x) = \nx + 4\n3\n \n\n4 \n\nC) \n3\nf(x) = - x + 4\n2\n \n\nD) \n2\nf(x) = - x + 4\n3\n \n\n-6 \n\nx \n\n \n \n \n10. Si f(x) es una función afín tal que f(3) = 2 y f(5) = 6, entonces la representación \n\ngráfica de la función intersecta al eje y en el punto de ordenada \n\n \n \nA) -4 \nB) \n  2 \nC)   0 \nD) -2 \n \n \n \n\n11. La recta de la figura adjunta es la representación gráfica de la función \n4\nf(x) = -\nx + 8\n3\n. \n\n¿Cuál es la longitud de PQ? \n \n \n \n \n \n \n \n \n\ny \n\nQ \n\nx \n\n \n\nP \n\nA) \n10  \nB) 10 \nC) 15 \nD) 20 \n\n \n3\n",
+      "cantidad_caracteres": 765,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "12. Si 4f(x) – 2 = 14, entonces f(16) = \n\n \n \n\nA) \n  4 \nB) \n  8 \nC) 16 \nD) 32 \n \n \n \n \n \n13. Dada la función f(x) = 3x, con dominio en el conjunto de los números reales, entonces \n\n2\nf\nx + 1   2 =\n3\n\n\n\n\n\n\n\n \n\n \nA) 3x \nB) 2x + 1 \nC) 2x + 2 \nD) 3x + 1 \n \n \n \n \n \n14. La parábola de la figura adjunta esta asociada a la función cuadrática f(x) = x2 – k. Si \n\nABCD es un rectángulo de área 20 y CD = 6, entonces k = \n \n \n \n \n \n \n \n \n \n \n \n\n \n\nD \nC \n\nA \nB \n \n\nA) \n98\n\n3  \n\nB) \n68\n\n3  \n\nC) 34\n\n3  \n\nD) 17\n\n3  \n\n \n \n \n \n\n \n4\n",
+      "cantidad_caracteres": 525,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.0947265625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.0947265625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "15. La recta de la figura adjunta esta asociada a la función C(M). El costo de producir M \n\nunidades de un medicamento específico está dado por la función C, definida por  \nC(M) = aM + b, en que a y b son constantes positivas. Si se producen M unidades, \n¿cuál de las funciones G representa el costo promedio por unidad es pesos? \n \n \n\nC \n\nA) G(M) = 800 + 300 M \n\nB) G(M) = 200\n600\n + \n3\nM  \n\n$ 1200 \n\n$ 1000 \n\nC) G(M) = 600\n200\n  \nM\n3\n\n \n\n$  800 \n\n$  600 \n\nD) G(M) = 200\n800\n + \n3\nM  \n\n \n \n \n \n \n16. El número máximo R de pulsaciones recomendada para una persona que tiene x años, \n\nM \n\n7 \n\n1 \n2 \n3 \n4 \n5 \n6 \n\ny que se encuentra haciendo ejercicios, esta dada por la ecuación  R = 176 – 0,8x. \n¿Cuál debe ser la edad de una persona que cuando se ejercita, se recomienda un \nmáximo de 140 pulsaciones? \n\n \nA) 65 años \nB) 60 años \nC) 55 años \nD) 45 años \n\n \n \n \n \n17. Dada la función g(x) = -x2 + 1, entonces ¿cuál de las siguientes expresiones tiene el \n\nmayor valor? \n\n \nA) g(-3) \nB) g(-2) \nC) g(-1",
+      "cantidad_caracteres": 1249,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "19. Mi Tío adquirió un automóvil tomando el siguiente plan de pago: $2.900.000 de pie y \n\n36 cuotas mensuales de $180.000. ¿Cuál de las siguientes funciones modela el total \ncancelado, en pesos, al cabo de n meses de haber abonado el pie? \n\n \nA) f(n) = 2.900.000 + 36 n \nB) f(n) = 2.900.000 + 180.000 n \nC) f(n) = 2.900.000 + 180.000(36 – n) \nD) f(n) = 2.900.000 + 180.000(n – 1) \n \n \n \n20. La función f cuyo dominio es el intervalo [-5,5] aparece representada en la figura \n\nadjunta. ¿Cuál es el valor de f(f(-4))? \n\n \n \nA) \n  2 \nB) \n  1 \nC)   0 \nD) -2 \n\ny \n\n2 \n\n2 \n\nx \n\n \n \n \n \n21. Si f(x) = 4, entonces f(4 – x) = \n\n-5 \n5 \n\n-2 \n\n-2 \n\n \nA) -8 \nB) \n  0 \nC)   4 \nD)   8 \n \n \n \n22. Dada la función f definida por f(x) = x – c. Si f(2) + 1 = 2, ¿cuál es el valor de f(2c)? \n\n \n \nA) 1 \nB) 2 \nC) 3 \nD) 4 \n \n \n \n23. Se han seleccionado algunos valores de las funciones f y g los cuales se representan en \n\nla tabla adjunta. ¿Cuál es el valor de g(f(4))? \n\n \n \nA) 1 \nB) 2 \nC) 3 \nD) 4 \n\nx \nf(x) \ng(x) \n\n1 \n5",
+      "cantidad_caracteres": 1059,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "24. Si f(x) = 2x2 – x  y  g(x) = 2x2 – 2, entonces ¿cuál es el valor de \n\n\n\n\n\n\n\nf 2  + g 2\ng -1   f -1\n\n? \n\n \nA) \n  4 \nB) \n  0 \nC) -3 \nD) -4 \n \n \n \n \n \n25. Si h(x) = x2 – x, entonces h(t + 1) = \n\n \n \nA) t2 – 1  \nB) t2 + 1 \nC) t2 + t \nD) t2 + t – 1  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nTEM-12 \n\n \n7\n",
+      "cantidad_caracteres": 337,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

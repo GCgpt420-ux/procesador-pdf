@@ -1,0 +1,879 @@
+{
+  "archivo_original": "Ma 10.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 10.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 8,
+  "fecha_procesamiento": "2026-03-07T23:04:27.114487",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSegún la información entregada en los triángulos de la figura adjunta, ¿cuál de las \nsiguientes afirmaciones es verdadera? \n \n \n \n \n \n \n \n \n \n\nCUADERNO DE EJERCICIOS N° 10 \n\nCONGRUENCIA DE TRIÁNGULOS \n\n65° \n65° \n\nb \nb \nb \na \na \na \n\n70° \n45° \n45° \n45° \n70° \n\n(1) \n(2) \n(3) \n(4)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) es congruente con el (2)"
+        },
+        {
+          "letra": "B",
+          "texto": "(1) es congruente con el (3)"
+        },
+        {
+          "letra": "C",
+          "texto": "(2) es congruente con el (3)"
+        },
+        {
+          "letra": "D",
+          "texto": "(2) es congruente con el (4)"
+        },
+        {
+          "letra": "E",
+          "texto": "(1) es congruente con el (4)"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 10_p1_img3.jpg",
+        "Ma 10_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn la figura adjunta, MRN  DFE. Si MN  NR\n\n, ¿cuánto mide el ángulo exterior HEF? \n \n \n \n\nF \n\nN \nM",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "56º"
+        },
+        {
+          "letra": "B",
+          "texto": "64º"
+        },
+        {
+          "letra": "C",
+          "texto": "112º"
+        },
+        {
+          "letra": "D",
+          "texto": "118º"
+        },
+        {
+          "letra": "E",
+          "texto": "124º"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 10_p1_img3.jpg",
+        "Ma 10_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3.   Si en un triángulo equilátero se dibuja una de sus bisectrices, entonces se forman  \n\n62º \n\nH \nE \nD \n\nR \n\ndos triángulos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "escalenos rectángulos congruentes."
+        },
+        {
+          "letra": "B",
+          "texto": "isósceles rectángulos congruentes."
+        },
+        {
+          "letra": "C",
+          "texto": "acutángulos escalenos congruentes."
+        },
+        {
+          "letra": "D",
+          "texto": "acutángulos congruentes."
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn la figura adjunta, el ABC es isósceles y rectángulo en C. Si AB \n CD\n\n, ¿cuál(es) de \nlas siguientes afirmaciones es (son) siempre verdadera(s)? \n \n \n\nI) \nAD   CD  \n\nII) \nAD   DB  \nIII) \nCDB  CDA \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 10_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn la figura adjunta, el triángulo ABC es isósceles de base AB y BD es bisectriz del \nABC. Si CAB = 70º,  entonces la medida de ángulo x es \n\nA \nB \n\nD \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40º"
+        },
+        {
+          "letra": "B",
+          "texto": "60º"
+        },
+        {
+          "letra": "C",
+          "texto": "75º"
+        },
+        {
+          "letra": "D",
+          "texto": "90º"
+        },
+        {
+          "letra": "E",
+          "texto": "105º"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 10_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6.   En el triángulo ABC de la figura adjunta, AB   AC   y  CD es altura. La medida del \n\nD x \n\nA \nB \n\nángulo x es \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10º"
+        },
+        {
+          "letra": "B",
+          "texto": "20º"
+        },
+        {
+          "letra": "C",
+          "texto": "40º"
+        },
+        {
+          "letra": "D",
+          "texto": "50º"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 10_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7.    El triángulo de la figura adjunta es rectángulo en Q  y  SP  SR\n\n.  Entonces, la medida \ndel x es \n\nx \n\n80º \n\nB \nA \n\nD \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30º"
+        },
+        {
+          "letra": "B",
+          "texto": "45º"
+        },
+        {
+          "letra": "C",
+          "texto": "65º"
+        },
+        {
+          "letra": "D",
+          "texto": "75º 15º S x P Q 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 10_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn la figura adjunta, el ABC es equilátero, Sb y Sc son simetrales, AE es bisectriz del \nBAC, entonces el valor de x + y  es \n\nC \n\n \n \n\nSb",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60º"
+        },
+        {
+          "letra": "B",
+          "texto": "90º"
+        },
+        {
+          "letra": "C",
+          "texto": "100º"
+        },
+        {
+          "letra": "D",
+          "texto": "120º"
+        },
+        {
+          "letra": "E",
+          "texto": "140º"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 10_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEn la figura adjunta, los ABD y BDC son isósceles de base \nAB  y BC , \n\nE \n\nF \n\nH \n\ny \n\nx \n\nA \n\nB \nG \n\nSc \n\nrespectivamente. Si E, D y C son puntos colineales y E es punto medio de AB , \nentonces x + y = \n\nC \n\n \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20º"
+        },
+        {
+          "letra": "B",
+          "texto": "80º"
+        },
+        {
+          "letra": "C",
+          "texto": "100º"
+        },
+        {
+          "letra": "D",
+          "texto": "140º"
+        },
+        {
+          "letra": "E",
+          "texto": "160°"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 10_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10.   En un triángulo acutángulo ABC se traza la altura CD , luego este segmento se prolonga \n\nD x \n\n50º \nA \nE \n\nB \n\nde manera tal que CE = 2CD y D pertenece a CE . ¿Cuál(es) de las siguientes \nafirmaciones es (son) siempre verdadera(s)? \n \n\nI) \nABC  ABE \nII) \nADC  ADE \nIII) \nADE  BDC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III (Fuente: DEMRE, Publicación 2015)"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. En la figura adjunta, CD  es una altura del triángulo ABC. ¿Cuál de las siguientes \n\nafirmaciones NO permite concluir que el triángulo ADC sea congruente con el triángulo \nBDC? \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": " = "
+        },
+        {
+          "letra": "B",
+          "texto": "D es el punto medio de AB ."
+        },
+        {
+          "letra": "C",
+          "texto": " +  = 90°"
+        },
+        {
+          "letra": "D",
+          "texto": "AC = CB"
+        },
+        {
+          "letra": "E",
+          "texto": "CD es un eje de simetría del triángulo ABC. A B   D (Fuente: DEMRE, Publicación 2014) 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 10_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En la figura adjunta, los triángulos BUT y AND son congruentes en ese orden. Si \n\nBU // AN y los segmentos BN y UG  se intersectan en T, entonces el GFN mide \n\nU",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "144º"
+        },
+        {
+          "letra": "B",
+          "texto": "140º"
+        },
+        {
+          "letra": "C",
+          "texto": "76º"
+        },
+        {
+          "letra": "D",
+          "texto": "68º"
+        },
+        {
+          "letra": "E",
+          "texto": "36º"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 10_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13.  Los segmentos AD y BC, de la figura adjunta, se intersectan en el punto O. Para \n\n68º \nB \n\nT \n\nN \n\nF \n\n76º \n\nA \n\nG \n\nD \n\ndemostrar que los triángulos AOB y COD  son congruentes, es necesario saber que \n \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "AB DC  B"
+        },
+        {
+          "letra": "B",
+          "texto": "BAO  DCO"
+        },
+        {
+          "letra": "C",
+          "texto": "AB // CD O"
+        },
+        {
+          "letra": "D",
+          "texto": "AO DO y AB DC  "
+        },
+        {
+          "letra": "E",
+          "texto": "BO CO y AO DO  "
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 10_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14.  En la figura adjunta, PTR y SVQ son congruentes en ese orden y S, T, V y P son \n\nC \n\nA \n\ncolineales. ¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)?  \n \n\nI) \nTR // VQ   \n\nS \n\nII) \nPR // SQ  \n\nR \n\nT \n\nIII) \nSQV  PRT",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 10_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15.  En la figura adjunta, los segmentos AE y BD se intersectan en C, BC  CD\n\n y AC  EC\n\n. \nSi el segmento GF pasa por el punto C, ¿cuál(es) de las afirmaciones siguientes  \nes (son) siempre verdadera(s)? \n \n\nV \n\nQ \n\nP \n\nD \n\nA \n\nI) \n\nGC \n FC \nII) \nBAC  DEC \n\nF \nC \n\nIII) \nGC \n AB\n\n  y  CF \n DE\n\n \n \n\nG",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III B E 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 10_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En la figura adjunta, el ABC es equilátero y AF = BD = CE. El criterio que permite \n\ndemostrar que los triángulos AFE, CED y BDF son congruentes es \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ALA"
+        },
+        {
+          "letra": "B",
+          "texto": "LAL"
+        },
+        {
+          "letra": "C",
+          "texto": "LLL"
+        },
+        {
+          "letra": "D",
+          "texto": "LLA> D E"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 10_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. En el cuadrilátero PQRS de la figura adjunta, PS = QS = RS, PQ = QR y SQR=2QSR. \n\nF \nB \nA \n\nEntonces, SPQ = \n\nS \n\n \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "144º"
+        },
+        {
+          "letra": "B",
+          "texto": "108º"
+        },
+        {
+          "letra": "C",
+          "texto": "90º"
+        },
+        {
+          "letra": "D",
+          "texto": "72º"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 10_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. El  ABC de la figura adjunta, es isósceles de base AB . Si AE  y  BF son bisectrices de \n\nP \nQ \n\nlos CAB  y  CBA, respectivamente y CD  es altura, entonces es FALSO afirmar que \n\n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "DPA  DPB"
+        },
+        {
+          "letra": "B",
+          "texto": "EBA  FAB"
+        },
+        {
+          "letra": "C",
+          "texto": "DCA  DCB"
+        },
+        {
+          "letra": "D",
+          "texto": "BFC  BFA"
+        },
+        {
+          "letra": "E",
+          "texto": "CF CE "
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 10_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Los puntos M, N, G y H están en los lados de los triángulos ABC y EDF a la vez, como \n\nE \n\nF \n\nP \n\nA \nD \n\nB \n\nse muestra en la figura adjunta. Si D pertenece a BC , AM = MN = NB y EF // BC , \nentonces es siempre verdadero que \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "AMH  MNF"
+        },
+        {
+          "letra": "B",
+          "texto": "BND  MNF"
+        },
+        {
+          "letra": "C",
+          "texto": "GDC  MNF"
+        },
+        {
+          "letra": "D",
+          "texto": "EGH  GCD"
+        },
+        {
+          "letra": "E",
+          "texto": "AMH  GDC G D E H A B M N F (Fuente: DEMRE, Publicación 2016) 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 10_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20.   Si P es el punto de intersección de las tres bisectrices de un triángulo equilátero. \n\n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s), respecto del punto P? \n \n\nI) \nEs vértice de seis triángulos congruentes. \nII) \nEs vértice de seis triángulos equiláteros. \nIII) \nEs vértice de seis triángulos de igual perímetro",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21.   Si en la figura adjunta, AB  // DC , AD  // BC  y los segmentos AC y BD se intersectan \n\nen M, ¿cuál(es) de las siguientes congruencias es (son) siempre verdadera(s)? \n\n \n\nI) \nAMD  CMB \nII) \nAMD  CMD \nIII) \nCDA  ABC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III D C M A B"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 10_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. En el triángulo ABC de la figura adjunta, D, E y F puntos medios, de los lados \n\nrespectivos, como muestra la figura adjunta. Si CD: AE:BF\n3:5: 4\n\n y  AE = 15 cm, \nentonces CG + AG + GF = \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "15"
+        },
+        {
+          "letra": "C",
+          "texto": "19"
+        },
+        {
+          "letra": "D",
+          "texto": "20 E F G"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 10_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. ¿Cuál de las siguientes afirmaciones es siempre verdadera?  \n \n \n\nA \nD \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dos triángulos son congruentes si son rectángulos isósceles."
+        },
+        {
+          "letra": "B",
+          "texto": "Dos rectángulos son congruentes si tienen igual área."
+        },
+        {
+          "letra": "C",
+          "texto": "Dos rombos son congruentes si tienen igual perímetro"
+        },
+        {
+          "letra": "D",
+          "texto": "Dos trapecios son congruentes si tienen dos lados de igual longitud."
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de las anteriores. 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. El cuadrilátero PQRS de la figura adjunta es un rectángulo en el cual PU\nQS\n\n, UT\nPS\n\n \n\ny RV\nQS\n\n. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nR \nS \n\nI) \nPQU\nRSV\n\n\n \nII) \nRVQ\nPUS\n\n\n \nIII) \nPUT\nSRV\n\n \n \n\nV",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 10_p7_img1.jpg"
+      ]
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. \nEn la figura adjunta, ABC es escaleno y L es simetral del lado BC. Si α = 30° y  \nβ = 75°, entonces ¿cuánto mide el x? \n\nT \n\nU \n\nP \nQ \n\nB \nL \n\n \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "135°"
+        },
+        {
+          "letra": "B",
+          "texto": "120°"
+        },
+        {
+          "letra": "C",
+          "texto": "105°"
+        },
+        {
+          "letra": "D",
+          "texto": "60°"
+        },
+        {
+          "letra": "E",
+          "texto": "45°"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 10_p7_img1.jpg"
+      ]
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. En la figura adjunta, se puede determinar que los triángulos ABD y BCD son \n\n  β \n  α \n\nA \nC \n\ncongruentes, si se sabe que: \n \n\n(1) AB = BC = CD = DA \n(2) BCD = 60º \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 10_p7_img1.jpg"
+      ]
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. En la figura adjunta, CD // AB. Se puede determinar que el triángulo ABC es \n\nA \nB \n\ncongruente con el triángulo DCB, si se sabe que: \n \n\n(1)  =  \n\nD \nC \n\n(2) AB  CD\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional   A B 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 10_p7_img1.jpg"
+      ]
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. En la figura adjunta, se puede determinar que el triángulo ABC es rectángulo, si se \n\nsabe que: \n \n \n(1) CD  es transversal de gravedad. \n\nC \n\n(2) DB  DC\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 10_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. En la figura adjunta, se puede determinar que el triángulo PQR es isósceles, si se sabe \n\nD \nA \n\nB \n \n\nque: \n \n\nR \n\n(1) RS \n PQ\n\n  \n\n(2) PRS  QRS",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 10_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. En la figura adjunta el triángulo ABC es isósceles, D y E son puntos en la base BC . Se \n\n \nS \n\nP \nQ \n\npuede determinar que  ABD ≅ ACE, si se sabe que: \n \n(1) el triángulo ADE es isósceles. \n(2) BAD = EAC \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional E C D B (Fuente: DEMRE, Publicación 2016) RESPUESTAS"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 10_p8_img0.jpg"
+      ]
+    }
+  ]
+}

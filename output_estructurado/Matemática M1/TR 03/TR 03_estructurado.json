@@ -1,0 +1,377 @@
+{
+  "archivo_original": "TR 03.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TR 03.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 9,
+  "fecha_procesamiento": "2026-03-07T23:07:13.872681",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEn un curso de m + n alumnos, p son mujeres. Si cierto día faltaron m – n hombres, \nentonces el total de hombres que asistieron está dado por la expresión",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p"
+        },
+        {
+          "letra": "B",
+          "texto": "2m – p"
+        },
+        {
+          "letra": "C",
+          "texto": "2n – p"
+        },
+        {
+          "letra": "D",
+          "texto": "2m + p"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \n¿Cómo se lee la expresión 2a2 + (2b)2?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La suma del doble del cuadrado de a y el cuadrado del doble de b."
+        },
+        {
+          "letra": "B",
+          "texto": "El cuadrado del doble del exceso de a sobre b."
+        },
+        {
+          "letra": "C",
+          "texto": "La suma de los cuadrados del doble de a y el doble de b."
+        },
+        {
+          "letra": "D",
+          "texto": "El exceso del doble de b sobre el doble de a, al cuadrado."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEl producto de dos números es 70. Si el primer factor aumenta en 3, entonces el \nproducto aumenta en 30, ¿cuál de las siguientes afirmaciones es verdadera, respecto \ndel segundo factor?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Es menor que el primer factor."
+        },
+        {
+          "letra": "B",
+          "texto": "Es un número racional no entero."
+        },
+        {
+          "letra": "C",
+          "texto": "Es un número par divisible por 5."
+        },
+        {
+          "letra": "D",
+          "texto": "Es un número múltiplo de 7."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nDos sacos de materiales de construcción son tales que, la suma de sus pesos es 90 kg \ny uno de ellos pesa 20 kg más que el otro. ¿Cuál de las siguientes afirmaciones es \nsiempre verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El saco más grande es el más pesado."
+        },
+        {
+          "letra": "B",
+          "texto": "Uno de los sacos pesa 55 kg."
+        },
+        {
+          "letra": "C",
+          "texto": "La mitad del peso de uno de los sacos es 30 kg."
+        },
+        {
+          "letra": "D",
+          "texto": "20 kilos es el peso del saco más liviano. 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nSi 3\n\n5  metros de una cañería están defectuosas y (6a + 4) metros están en buen \n\nestado, ¿cuántos metros de cañería hay que reparar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3a + 2"
+        },
+        {
+          "letra": "B",
+          "texto": "9a + 6"
+        },
+        {
+          "letra": "C",
+          "texto": "12a + 8"
+        },
+        {
+          "letra": "D",
+          "texto": "15a + 10"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nLa diferencia entre un número de tres cifras y el número con las cifras invertidas, \nrespectivamente, es 594. Si en el número original, las centenas y las decenas son el \ntriple y el doble de las unidades, respectivamente, el número original es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "321"
+        },
+        {
+          "letra": "B",
+          "texto": "369"
+        },
+        {
+          "letra": "C",
+          "texto": "642"
+        },
+        {
+          "letra": "D",
+          "texto": "963"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi la suma de las cifras de un número de dos dígitos es 7 y la cifra de las unidades es \nn, entonces el número es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10(n – 7) + n"
+        },
+        {
+          "letra": "B",
+          "texto": "10(7 – n) + n"
+        },
+        {
+          "letra": "C",
+          "texto": "10n + (7 – n)"
+        },
+        {
+          "letra": "D",
+          "texto": "10(n – 7) + 7n"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nSi Claudia es 4 años mayor que Francisco, ¿qué edad tendrá Claudia en 8 años más, si \nFrancisco hace 9 años tenía (7 + a) años?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "28 + a"
+        },
+        {
+          "letra": "B",
+          "texto": "20 – a"
+        },
+        {
+          "letra": "C",
+          "texto": "20 + a"
+        },
+        {
+          "letra": "D",
+          "texto": "28 – a 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nCuando transcurran (a + b) años, tendré el triple de la edad que tuve hace  \n(a – b) años. ¿Cuál es mi edad?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2(a + b) años"
+        },
+        {
+          "letra": "B",
+          "texto": "(3a – b) años"
+        },
+        {
+          "letra": "C",
+          "texto": "(a + b) años"
+        },
+        {
+          "letra": "D",
+          "texto": "(2a – b) años"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Si una máquina logra cortar un cristal en 4 minutos y otra máquina es un 50% más \n\nlenta. ¿Cuánto demoran las dos máquinas trabajando juntas en cortar el cristal?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 minuto 18 segundos"
+        },
+        {
+          "letra": "B",
+          "texto": "1 minuto 30 segundos"
+        },
+        {
+          "letra": "C",
+          "texto": "2 minutos 24 segundos"
+        },
+        {
+          "letra": "D",
+          "texto": "2 minutos 40 segundos"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Si Carla puede tejer un chaleco en 2 horas y Sofía puede tejerlo en 3 horas, ¿en cuánto \n\ntiempo juntas tejerían 2 chalecos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 hora 12 minutos"
+        },
+        {
+          "letra": "B",
+          "texto": "1 hora 24 minutos"
+        },
+        {
+          "letra": "C",
+          "texto": "2 horas 24 minutos"
+        },
+        {
+          "letra": "D",
+          "texto": "2 horas 30 minutos"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Sofía y Roberto parten de dos ciudades distantes 440 kilómetros a encontrarse. Si a las \n\n8 AM parte Sofía con una rapidez de 120 km/h y a las 10 AM parte Roberto, \nencontrándose a las 11 AM, ¿cuál era la rapidez de Roberto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80 km/h"
+        },
+        {
+          "letra": "B",
+          "texto": "100 km/h"
+        },
+        {
+          "letra": "C",
+          "texto": "110 km/h"
+        },
+        {
+          "letra": "D",
+          "texto": "120 km/h 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. El 20% de la suma de las edades de un nieto y su abuelo es 20 años y el 25% de la \n\ndiferencia de las edades es 10 años. Las edades del nieto y del abuelo, son \nrespectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40 años y 100 años"
+        },
+        {
+          "letra": "B",
+          "texto": "20 años y 80 años"
+        },
+        {
+          "letra": "C",
+          "texto": "30 años y 70 años"
+        },
+        {
+          "letra": "D",
+          "texto": "30 años y 80 años"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Carlos compra en la feria 6 kilos de frutas, entre naranjas y mandarinas. Si el kilo de \n\nnaranjas es $ 100 más caro que el kilo de mandarinas, se puede determinar cuánto \ngastó Carlos en mandarinas, si se sabe que: \n \n\n(1) Carlos gastó $ 3.800 en total. \n(2) 1 kilo de naranjas cuesta $ 700.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere de información adicional"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Una urna contiene solo fichas numeradas rojas y azules, se puede determinar que parte \n\nson las fichas azules numeradas impares de las rojas, si se sabe que: \n \n\n(1) 2\n\n5  son rojas. \n\n(2) 1\n\n4  de las azules tienen números impares.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere de información adicional 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    }
+  ]
+}

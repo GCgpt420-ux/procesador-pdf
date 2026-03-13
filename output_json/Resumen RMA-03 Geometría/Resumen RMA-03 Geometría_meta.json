@@ -1,0 +1,1706 @@
+{
+  "table_of_contents": [
+    {
+      "title": "RESUMEN RMA-03\nGEOMETR\u00cdA I",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          298.7300109863281,
+          446.2374267578125
+        ],
+        [
+          564.4945068359375,
+          445.5
+        ],
+        [
+          564.4945068359375,
+          510.1974182128906
+        ],
+        [
+          298.7300109863281,
+          510.1974182128906
+        ]
+      ]
+    },
+    {
+      "title": "\u00c1NGULOS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          273.4100036621094,
+          82.37109375
+        ],
+        [
+          338.7859802246094,
+          80.82421875
+        ],
+        [
+          338.7859802246094,
+          97.1094970703125
+        ],
+        [
+          272.232421875,
+          97.1094970703125
+        ]
+      ]
+    },
+    {
+      "title": "CLASIFICACI\u00d3N DE LOS \u00c1NGULOS SEG\u00daN SU POSICI\u00d3N",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          115.9453125,
+          94.74609375
+        ],
+        [
+          494.859375,
+          93.19921875
+        ],
+        [
+          494.738037109375,
+          109.2294921875
+        ],
+        [
+          114.75,
+          109.2294921875
+        ]
+      ]
+    },
+    {
+      "title": "OBSERVACIONES:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.224609375,
+          413.015625
+        ],
+        [
+          171.78392028808594,
+          411.46875
+        ],
+        [
+          171.78392028808594,
+          423.2110900878906
+        ],
+        [
+          70.224609375,
+          423.2110900878906
+        ]
+      ]
+    },
+    {
+      "title": "\u00c1NGULOS FORMADOS POR DOS RECTAS PARALELAS CORTADAS POR \nUNA TRANSVERSAL",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          74.408203125,
+          93.97265625
+        ],
+        [
+          540.0961303710938,
+          93.97265625
+        ],
+        [
+          540.0961303710938,
+          123.8695068359375
+        ],
+        [
+          74.408203125,
+          123.8695068359375
+        ]
+      ]
+    },
+    {
+      "title": "OBSERVACI\u00d3N:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.92578125,
+          468.703125
+        ],
+        [
+          157.80516052246094,
+          467.15625
+        ],
+        [
+          157.80516052246094,
+          479.4910583496094
+        ],
+        [
+          69.92578125,
+          479.4910583496094
+        ]
+      ]
+    },
+    {
+      "title": "TRI\u00c1NGULOS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          258.0,
+          95.25
+        ],
+        [
+          354.0,
+          95.25
+        ],
+        [
+          354.0,
+          114.0
+        ],
+        [
+          258.0,
+          114.0
+        ]
+      ]
+    },
+    {
+      "title": "CLASIFICACI\u00d3N DE TRI\u00c1NGULOS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          193.640625,
+          92.8125
+        ],
+        [
+          418.1360168457031,
+          92.8125
+        ],
+        [
+          418.1360168457031,
+          109.2294921875
+        ],
+        [
+          192.4453125,
+          109.2294921875
+        ]
+      ]
+    },
+    {
+      "title": "Observaci\u00f3n:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.328125,
+          609.46875
+        ],
+        [
+          144.38902282714844,
+          607.921875
+        ],
+        [
+          144.38902282714844,
+          619.5610961914062
+        ],
+        [
+          69.328125,
+          619.5610961914062
+        ]
+      ]
+    },
+    {
+      "title": "OBSERVACIONES:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5234375,
+          503.2510986328125
+        ],
+        [
+          171.7192840576172,
+          501.9609375
+        ],
+        [
+          171.7192840576172,
+          513.2110900878906
+        ],
+        [
+          70.5234375,
+          513.2110900878906
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          118.93359375,
+          529.03125
+        ],
+        [
+          232.48828125,
+          527.484375
+        ],
+        [
+          232.48828125,
+          536.765625
+        ],
+        [
+          118.93359375,
+          538.3125
+        ]
+      ]
+    },
+    {
+      "title": "Tri\u00e1ngulo Is\u00f3sceles: Tri\u00e1ngulo rect\u00e1ngulo",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          120.6199951171875,
+          527.6410827636719
+        ],
+        [
+          471.1304016113281,
+          527.09765625
+        ],
+        [
+          471.1304016113281,
+          538.69921875
+        ],
+        [
+          120.6199951171875,
+          540.24609375
+        ]
+      ]
+    },
+    {
+      "title": "DESIGUALDAD TRIANGULAR",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          208.58203125,
+          123.75
+        ],
+        [
+          402.36199951171875,
+          122.203125
+        ],
+        [
+          402.36199951171875,
+          135.989501953125
+        ],
+        [
+          207.38671875,
+          135.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "RELACI\u00d3N ENTRE EL LADO DE UN TRI\u00c1NGULO Y EL \u00c1NGULO QUE SE OPONE A \n\u00c9STE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          83.671875,
+          341.0859375
+        ],
+        [
+          530.2119750976562,
+          339.5390625
+        ],
+        [
+          530.2119750976562,
+          365.8310852050781
+        ],
+        [
+          83.671875,
+          365.8359375
+        ]
+      ]
+    },
+    {
+      "title": "CONGRUENCIA DE TRI\u00c1NGULOS\nABC  PQR",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          197.2265625,
+          93.5859375
+        ],
+        [
+          414.7734375,
+          92.0390625
+        ],
+        [
+          414.2239685058594,
+          121.6619873046875
+        ],
+        [
+          196.03125,
+          121.6619873046875
+        ]
+      ]
+    },
+    {
+      "title": "POSTULADOS DE CONGRUENCIA",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          196.82000732421875,
+          232.41796875
+        ],
+        [
+          414.9920349121094,
+          230.87109375
+        ],
+        [
+          414.9920349121094,
+          245.5794677734375
+        ],
+        [
+          196.82000732421875,
+          245.5794677734375
+        ]
+      ]
+    },
+    {
+      "title": "OBSERVACIONES",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          69.029296875,
+          83.53125
+        ],
+        [
+          167.59584045410156,
+          81.984375
+        ],
+        [
+          167.59584045410156,
+          94.84112548828125
+        ],
+        [
+          69.029296875,
+          94.84112548828125
+        ]
+      ]
+    },
+    {
+      "title": "TRIANGULO EQUIL\u00c1TERO",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          235.4765625,
+          122.9765625
+        ],
+        [
+          381.109375,
+          122.9765625
+        ],
+        [
+          381.109375,
+          136.7210693359375
+        ],
+        [
+          235.4765625,
+          136.7210693359375
+        ]
+      ]
+    },
+    {
+      "title": "TRIANGULO IS\u00d3SCELES",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          242.4499969482422,
+          305.5078125
+        ],
+        [
+          375.8529052734375,
+          305.5078125
+        ],
+        [
+          375.8529052734375,
+          318.91107177734375
+        ],
+        [
+          242.05078125,
+          318.91107177734375
+        ]
+      ]
+    },
+    {
+      "title": "POL\u00cdGONOS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          265.010009765625,
+          82.37109375
+        ],
+        [
+          347.0539855957031,
+          80.82421875
+        ],
+        [
+          347.0539855957031,
+          97.1094970703125
+        ],
+        [
+          264.462890625,
+          97.1094970703125
+        ]
+      ]
+    },
+    {
+      "title": "CUADRIL\u00c1TEROS (CONVEXOS)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          200.25,
+          80.25
+        ],
+        [
+          412.5,
+          80.25
+        ],
+        [
+          412.5,
+          99.75
+        ],
+        [
+          200.25,
+          99.75
+        ]
+      ]
+    },
+    {
+      "title": "CIRCUNFERENCIA",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          243.24609375,
+          71.9296875
+        ],
+        [
+          366.55401611328125,
+          70.3828125
+        ],
+        [
+          366.55401611328125,
+          84.989501953125
+        ],
+        [
+          243.24609375,
+          84.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "CONCEPTOS B\u00c1SICOS:",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          69.626953125,
+          82.7578125
+        ],
+        [
+          222.38401794433594,
+          82.7578125
+        ],
+        [
+          222.38401794433594,
+          99.509521484375
+        ],
+        [
+          68.431640625,
+          99.509521484375
+        ]
+      ]
+    },
+    {
+      "title": "TEOREMAS",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          268.34765625,
+          72.703125
+        ],
+        [
+          342.6379699707031,
+          71.15625
+        ],
+        [
+          342.6379699707031,
+          84.989501953125
+        ],
+        [
+          268.34765625,
+          84.989501953125
+        ]
+      ]
+    },
+    {
+      "title": "TEOREMA DE PIT\u00c1GORAS",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          218.7421875,
+          81.984375
+        ],
+        [
+          392.0625,
+          80.4375
+        ],
+        [
+          391.5500183105469,
+          97.1094970703125
+        ],
+        [
+          217.546875,
+          97.1094970703125
+        ]
+      ]
+    },
+    {
+      "title": "Tr\u00edos Pitag\u00f3ricos",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          69.626953125,
+          235.51171875
+        ],
+        [
+          184.21200561523438,
+          233.96484375
+        ],
+        [
+          184.21200561523438,
+          247.8594970703125
+        ],
+        [
+          69.626953125,
+          248.66015625
+        ]
+      ]
+    },
+    {
+      "title": "TRI\u00c1NGULOS NOTABLES",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          70.94400024414062,
+          456.71484375
+        ],
+        [
+          236.07421875,
+          455.16796875
+        ],
+        [
+          235.79998779296875,
+          473.1195068359375
+        ],
+        [
+          69.92578125,
+          473.1195068359375
+        ]
+      ]
+    },
+    {
+      "title": "Tri\u00e1ngulo Rect\u00e1ngulo Is\u00f3sceles",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          70.224609375,
+          601.34765625
+        ],
+        [
+          250.32261657714844,
+          599.80078125
+        ],
+        [
+          250.32261657714844,
+          614.7611083984375
+        ],
+        [
+          70.224609375,
+          616.04296875
+        ]
+      ]
+    },
+    {
+      "title": "TRI\u00c1NGULOS",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          258.0,
+          81.0
+        ],
+        [
+          354.0,
+          81.0
+        ],
+        [
+          354.0,
+          99.75
+        ],
+        [
+          258.0,
+          99.75
+        ]
+      ]
+    },
+    {
+      "title": "CUADRIL\u00c1TEROS",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          245.25,
+          81.0
+        ],
+        [
+          366.75,
+          81.0
+        ],
+        [
+          366.75,
+          99.75
+        ],
+        [
+          245.25,
+          99.75
+        ]
+      ]
+    },
+    {
+      "title": "CIRCUNFERENCIA Y C\u00cdRCULO",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          203.25,
+          79.5
+        ],
+        [
+          408.75,
+          79.5
+        ],
+        [
+          408.75,
+          97.5
+        ],
+        [
+          203.25,
+          97.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "TableCell",
+          27
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          31
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          24
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          243
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Figure",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          17
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Resumen RMA-03 Geometr\u00eda"
+}

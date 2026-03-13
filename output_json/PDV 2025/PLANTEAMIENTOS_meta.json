@@ -1,0 +1,58 @@
+{
+  "filename": "PLANTEAMIENTOS.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/PLANTEAMIENTOS.pdf",
+  "num_paginas": 7,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T15:09:59.612537",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "PLANTEAMIENTOS \n\n \n",
+      "cantidad_caracteres": 19,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 1224.9248046875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "MATEMÁTICA\n140\n\n11.4\t PROBLEMAS DE EDADES\n\nEn estos problemas conviene representar las \nedades de los personajes con letras diferentes \nindicando en una línea del tiempo o en \nuna tabla, sus edades pasadas, presentes \no futuras, según corresponda:\n\nEdad pasada\n(hace b años)\n\nEdad futura\n(dentro de c años)\nx ‒ b\nx\nx + c\n\nEdad\nactual\n\ny ‒ b\ny\ny + c\n\nEJERCICIOS\n\n1.\t Si al triple de la edad que tengo se resta mi edad aumentada en 8 años, tendría 28 años. ¿Qué edad tengo?\n\n2.\t La edad de una persona será c años dentro de a años. ¿Cuántos años tenía hace b años?\n\n3.\t Si el triple de la edad de una persona es 63 años, entonces la tercera parte de su edad, más un año es\n",
+      "cantidad_caracteres": 671,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "CAPÍTULO II: ÁLGEBRA 141\n\n4.\t Si la edad de una persona en y años más será x años, entonces ¿cuántos años tiene?\n\n5.\t Si al triple de la edad de Mauricio se le restan 37 años, se obtiene lo que le falta para cumplir 91 años. ¿Qué \n\nedad tendría actualmente si hubiera nacido 6 años antes?\n\n6.\t Pedro tiene el triple de la edad que tiene María y hace 12 años la edad de Pedro era el cuádruplo de la edad \n\nque tenía María. ¿Qué edad tendrá María dentro de 12 años?\n\n7.\t Un padre tiene x años y su hijo y años. ¿Dentro de cuántos años la edad del padre será el cuádruplo de la edad \n\nde su hijo?\n\n1.   18 años\n2.   c ‒ (a + b)\n3.   8 años\n4.   x ‒ y\n5.   38 años\n6.   48 años\n7.  x ‒ 4y\n3\n\nRespuestas\n",
+      "cantidad_caracteres": 699,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": "MATEMÁTICA\n142\n\n11.5\t PROBLEMAS DE TRABAJO SIMULTÁNEO\n\nSi un trabajador (o máquina) puede realizar un trabajo en un \ntiempo a y otro en un tiempo b, la ecuación que permite calcular \nel tiempo x que demoran en hacer el trabajo en conjunto es:\n\n=         + \n1\nx\n\n1\na\n\n1\nb\n\nOBSERVACIÓN\n\nLa ecuación anterior se puede generalizar para n trabajadores o máquinas\n\nEJERCICIOS\n\n1.\t Una máquina realiza un trabajo en 2 horas y otra máquina realiza el mismo trabajo en 3 horas, ¿Cuánto se \n\ndemoran las dos máquinas trabajando simultáneamente en realizar dicho trabajo?\n\n2.\t Una llave A llena un estanque vacío en 2 horas, en cambio una llave B lo llena en 6 horas y un desagüe C lo deja \n\nvacío en 3 horas. ¿En qué tiempo se llenará el estanque, si estando vacío se abren ambas llaves y el desagüe \nsimultáneamente?\n\n3.\t Rodrigo puede realizar una tarea en 15 días, mientras que Nelson la puede hacer en el triple de los días que \n\nemplearían si trabajaran los dos juntos. ¿En cuántos días realizaría la tare",
+      "cantidad_caracteres": 1093,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": "CAPÍTULO II: ÁLGEBRA 143\n\n11.6\t PROBLEMAS DE MÓVILES\n\nPara este tipo de problemas, debemos tener presente la igualdad:\n\ns  =  Recorrido\n\nv  =  Rapidez\n\ns  =  v • t\n\nt  =  Tiempo\n\nEJERCICIOS\n\n1.\t Un automovilista sale de La Serena y otro de Valdivia, distantes 1.120 km, uno hacia el otro. El primero viaja a \n\nkm\n\nkm\n\n120           y el segundo a 100            . Si ambos parten a las 8 am, ¿qué distancia los separa a las 12:00 pm., de ese \n\nh\n\nh\n\nmismo día?\n\n2.\t Dos móviles parten simultáneamente desde la Plaza de Armas en la misma dirección y sentido. Uno viaja con \n\nuna rapidez de 60           , y el otro viaja a 80          . Transcurrida 3 horas, ¿cuál será la distancia que los separa?\nkm\n\nkm\n\nh\n\nh\n\n3.\t Dos buses parten desde un terminal a la misma hora en sentidos opuestos. La rapidez de uno de ellos es\n\nkm\n\n10            menor que la del otro. Sabiendo que al cabo de 5 horas se encuentran a 1.050 km. de distancia entre \n\nh\n\nellos, ¿cuál es la rapidez del bus más lento?\n\n1.   240 k",
+      "cantidad_caracteres": 1039,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": "MATEMÁTICA\n144\n\n11.7\t PROBLEMAS DE MEZCLAS\n\nPara este tipo de problemas podemos considerar el siguiente planteamiento general:\nSi n objetos que valen c, se componen de x objetos que valen a cada uno, y n – x \nobjetos que valen b cada uno, la ecuación que permite encontrar x es:  \n\nax + b(n – x) = c\n\nEJERCICIOS\n\n1.\t Pedro ahorró dinero juntando en total 85 monedas entre monedas de $ 100 y de $ 500. Si en total ahorró\n\n$ 22.500, el dinero ahorrado en monedas de $ 100 es\n\n2.\t A una función de teatro organizada por un colegio, asistieron 1.000 personas, dejando $ 2.650.000 por la venta \n\nde entradas, las cuales eran de dos tipos: galería, que costaba $ 2.000 y platea $ 3.000. Si se vendieron entradas \nde los dos tipos, ¿cuántas personas asistieron a la platea?\n\n3.\t Valeria para su fiesta de cumpleaños compró 32 bebidas y 18 pizzas pagando en total $ 52.600. Si cada pizza \n\ncostó $ 700 más que una bebida, el precio de cada pizza es\n\n4.\t El número de adultos que asiste a un Bingo de benefice",
+      "cantidad_caracteres": 1244,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "CAPÍTULO II: ÁLGEBRA 145\n\nEJERCICIOS ADICIONALES\n\nConteste verdadero (V) o falso (F) a las siguientes afirmaciones.\n\n1.\t _____ El resultado de  10 : 2 · 5 -1  es  24\n\n2.\t _____ A · (B · C)  =  AB · AC\n\n3.\t _____ (a + b)2  =  a2 + b2\n\n4.\t _____ (2000 + 1) · (2000 – 1)  =  20002 – 1\n\n5.\t _____ (2 + i) · (2 – i) = 5\n\n6.\t _____ (a – b)2  =  a2 – 2ab – b2\n\n7.\t _____ (a – b)2  =  (b – a)2\n\n8.\t _____ 2x2 + 6x + 3  =  2(x2 + 3x + 3)\n\n9.\t _____ a2 – b2  =  (a – b)2.\n\na2 ‒ 4a + 4\n\n10.\t_____                            =  ‒4a\n\na2 ‒ 4\n\n11.\t_____ El opuesto de  x‒1 en la ecuación de 3x‒1 – 6  =  0 , es ‒2\n\n12.\t_____ El conjunto solución de  |x – 5|  =  1  es  {6, 4}\n\n13.\t_____     (‒2)2  =  ±2\n\n14.\t_____ “El doble de dos aumentado en dos es ocho”\n\nRespuestas\n1.   V\n2.   F\n3.   F\n4.   V\n5.   V\n6.   F\n7.   V\n8.   F\n9.   F\n10.   F 11.   V 12.   V 13.   F 14.   F\n",
+      "cantidad_caracteres": 858,
+      "imagenes": []
+    }
+  ]
+}

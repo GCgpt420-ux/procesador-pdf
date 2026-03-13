@@ -1,0 +1,140 @@
+{
+  "filename": "ESTADÍSTICA COMBINATORIA.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ESTADÍSTICA COMBINATORIA.pdf",
+  "num_paginas": 17,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T15:09:59.742091",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "ESTADÍSTICA Y \nCOMBINATORIA \n\n \n",
+      "cantidad_caracteres": 32,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 1224.9248046875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "MATEMÁTICA\n282\n\n5.  MEDIDAS DE DISPERSIÓN\n\nLas medidas de dispersión o medidas de variabilidad, generalmente indican la dispersión de los datos de una \nmuestra o población respecto a su valor central, salvo el rango. Mientras menor sea la medida de dispersión, más \nhomogénea será la muestra.\n\n5.1\t RANGO\n\nRango o recorrido es la diferencia entre el mayor y el menor de los datos.\n\n5.2\t DESVIACIÓN ESTÁNDAR O TÍPICA\n\nEs una medida que indica que tan alejados están en promedio, los datos respectos de la media aritmética.\n\n5.2.1 CÁLCULO DE LA DESVIACIÓN ESTÁNDAR PARA DATOS NO AGRUPADOS\n\nDonde:\t xi :   Dato\n\t\nx  :   Media aritmética\n\t\nn  :    Número total de datos\n\ni =   1 , ... , n\n\n5.2.2 CÁLCULO DE LA DESVIACIÓN ESTÁNDAR PARA DATOS AGRUPADOS EN TABLAS DE FRECUENCIA\n\nDonde:\t xi :   Dato\n\t\nfi  :   Frecuencia\n\t\nx  :   Media aritmética\n\ni =   1 , ... , n\ni  =  1 , ... , n\n\n5.2.3 CÁLCULO DE LA DESVIACIÓN ESTÁNDAR PARA DATOS AGRUPADOS EN INTERVALOS\n\nDonde:\t ci :   Marca de clase\n\t\nfi  :   Frecuen",
+      "cantidad_caracteres": 1067,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "CAPÍTULO V: PROBABILIDADES Y ESTADÍSTICA I 283\n\n5.3\t VARIANZA\n\nEs otra medida de dispersión que corresponde al cuadrado de la desviación estándar.\n\n5.3.1\t\nCÁLCULO DE LA VARIANZA PARA DATOS NO AGRUPADOS\n\ni =   1 , ... , n\nDonde:\t xi :   Dato\n\t\nx  :   Media aritmética\n\t\nn  :   Número total de datos\n\n5.3.2\t\nCÁLCULO DE LA VARIANZA PARA DATOS AGRUPADOS EN TABLAS DE FRECUENCIA\n\nDonde:\t xi :   Dato\n\t\nfi  :   Frecuencia\n\t\nx  :   Media aritmética\n\ni =   1 , ... , n\ni  =  1 , ... , n\n\n5.3.3\t\nCÁLCULO DE LA VARIANZA PARA DATOS AGRUPADOS EN INTERVALOS\n\nDonde:\t ci :   Marca de clase\n\t\nfi  :   Frecuencia\n\t\nx  :   Media aritmética\n\ni =   1 , ... , n\ni  =  1 , ... , n\n\n5.4\t PROPIEDADES DE LA DESVIACIÓN \n\nESTÁNDAR Y LA VARIANZA\n\n•\t Ambas medidas son siempre un número no negativo.\n\n•\t La       y     2 son cero sólo cuando todos los datos son iguales.\n\n•\t Si cada dato de una muestra se aumenta o se disminuye en una constante K la desviación estándar y la \nvarianza originales no cambian.\n\n•\t Si cada dato d",
+      "cantidad_caracteres": 1293,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": "MATEMÁTICA\n284\n\nEJERCICIOS\n\n1.\t El rango en el conjunto de datos {3, 7, 8, 11, 1, 10, 15, 20, 21, 22, 24, 23} es\n\n2.\t Conteste Verdadero (V) o falso (F) a las siguientes afirmaciones\n\na.\t ____\t La desviación estándar es un número real positivo o cero.\n\nb.\t ____\t La diferencia entre un dato y el promedio de la muestra puede ser negativa.\n\nc.\t ____\t El rango es una medida de dispersión.\n\nd.\t ____\t Si la varianza es igual a la desviación estándar, entonces ambas son iguales a 1.\n\ne.\t ____\t Al sumar a todos los valores de una variable un valor constante, la varianza no cambia.\n\nf.\t ____\t La varianza es la raíz cuadrada de la desviación estándar.\n\ng.\t ____\t El rango puede ser negativo.\n\nh.\t ____\t La desviación estándar es un indicador de cuanto tienden a alejarse los datos del promedio.\n\ni.\t ____\t El rango es menor que la varianza.\n\nj.\t ____\t Si todos los datos de una variable son iguales a 1, entonces el rango correspondiente a la variable es 1.\n\n3.\t De acuerdo a la tabla adjunta, conteste",
+      "cantidad_caracteres": 1227,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": "CAPÍTULO V: PROBABILIDADES Y ESTADÍSTICA I 285\n\n4.\t Al analizar los puntajes de los 4 controles realizados por Juan y Pedro, se obtuvieron los siguientes resultados:\n\nDe acuerdo con esta información, ¿cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)?\n\nI)\t Juan tiene puntajes más cercanos a su promedio.\n\nII)\t Ambos han obtenido los mismos puntajes en los controles.\n\nIII)\t Existe un error en el cálculo de las desviaciones estándar de Pedro o de Juan, porque ambos tienen \n\nel mismo promedio.\n\n5.\t Con respecto a la tabla de frecuencias adjunta, ¿cuál(es) de la siguientes proposiciones es (son) verdadera(s)?\n\nI)\t El promedio es 6.\n\nII)\t El total de datos es 5.\n\nIII)\t La desviación estándar es    12,8 .\n\n6.\t En una muestra de 20 datos se obtiene una desviación estándar igual a 1,2. Si a cada elemento de la muestra \n\nse agregan 5 unidades, entonces la nueva desviación estándar y la nueva varianza son, respectivamente\n\n7.\t Se tienen cuatro números x, y, z, w cuya varianza ",
+      "cantidad_caracteres": 1238,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": "MATEMÁTICA\n286\n6.  REPRESENTACIÓN GRÁFICA E\n      INTERPRETACIÓN DE GRÁFICOS\n\nA menudo, una representación gráfica de una distribución de frecuencias nos da una mejor idea de un estudio \nestadístico que un cuadro con números. Existen distintos tipos de gráficos, algunos de los más utilizados son:\n\n6.1\t\nGRÁFICO DE BARRAS\n\nSe utiliza para variables de tipo cualitativas y cuantitativas discretas. Consiste en una serie de barras cuyas alturas \nrepresentan la frecuencia absoluta de estos.\n\n6.2\t\nGRÁFICO CIRCULAR\n\nEl gráfico circular es utilizado en variables de tipo cualitativa y cuantitativa discreta. El gráfico consiste en un círculo \ndividido en sectores circulares cuyo ángulo del centro es proporcional a la frecuencia relativa de cada valor de \nla variable.\n\nDato 5\n\nX\nf\nfr\n\nº\n. 360º\n\na\nn\n\na\nn\n\nDato 1\na\n\nDato 1\n\nDato 4\n\nb\nn\n\nb\nn\n\n. 360º\n\nDato 2\nb\n\nc\nn\n\nc\nn\n\n. 360º\n\nDato 3\nc\n\nd\nn\ne\nn\n\nd\nn\ne\nn\n\nn : número de datos\n\n. 360º\n\nDato 4\nd\n\n. 360º\n\nDato 2\nDato 3\n\nDato 5\ne\n\n6.3\t\nHISTOGRAMA\n\nSe utili",
+      "cantidad_caracteres": 1293,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "CAPÍTULO V: PROBABILIDADES Y ESTADÍSTICA I 287\n\nEJERCICIOS\n\n1.\t El gráfico muestra el número de libros que leen anualmente un grupo de personas. Determine si es verdadera \n\n(V) o falsa (F) la afirmación planteada.\n\na.\t ____\t Hay 30 personas que leen mas de 4 libros anualmente.\n\nb.\t ____\t Hay 7 personas que leen anualmente 3 libros.\n\nc.\t ____\t La mediana es 5 libros anuales.\n\nd.\t ____\t Todos leen menos de 7 libros.\n\ne.\t ____\t La moda es 12 libros al año.\n\nf.\t ____\t Hay 13 personas que leen al año a lo más 4 libros.\n\ng.\t ____\t Hay 33 personas que leen al menos 6 libros al año.\n\n2.\t La tabla adjunta, muestra la distribución de frecuencias de las edades, en años, de los alumnos de un colegio \n\nque cursan 4to medio. ¿En cuál(es) de los siguientes gráficos queda representada la distribución de frecuencia \nde la tabla?\n\nRespuestas\n1.   a. V\nb.  V\nc. V\nd. F\ne. F f. V\ng. F\n2.   I y III\n",
+      "cantidad_caracteres": 890,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "texto": "MATEMÁTICA\n288\n\n6.4\t POLÍGONO DE FRECUENCIAS\n\nAl igual que el histograma, este gráfico, se utiliza en datos agrupados en intervalos. Para confeccionarlo, \ndebemos unir con una recta a los puntos donde se intersectan la marca clase y la frecuencia de los intervalos. \nPara “anclar” el polígono al eje horizontal, debemos agregar un intervalo de frecuencia cero, antes del primer \nintervalo y después del último intervalo. Esta idea se extiende a polígonos de frecuencia relativa.\n\n6.5\t POLÍGONO DE FRECUENCIA\n\nACUMULADA U OJIVA\n\nEste gráfico, se representa uniendo puntos referidos al límite superior y frecuencia acumulada de cada intervalo. \nPara “anclar” la Ojiva al eje horizontal, se posiciona en el límite inferior del primer intervalo.\n\nLa frecuencia de un intervalo corresponde a todas las observaciones menores que el límite superior de \nese intervalo.\n",
+      "cantidad_caracteres": 861,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 11.8623046875
+        },
+        {
+          "index": 1,
+          "tipo": 1,
+          "tamanio_kb": 21.048828125
+        },
+        {
+          "index": 2,
+          "tipo": 1,
+          "tamanio_kb": 14.4140625
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "CAPÍTULO V: PROBABILIDADES Y ESTADÍSTICA I 289\n\nEJERCICIOS\n\n1.\t El gráfico poligonal de la figura muestra el consumo (en metros cúbicos) de gas de los departamentos de un \n\nconjunto habitacional. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)?\n\nI)\t La moda es 7.\n\nII)\t Cuatro departamentos consumen exactamente 18 m3.\n\nIII)\t El menor consumo se registró en el intervalo [12 – 16[.\n\n2.\t El gráfico de frecuencias acumuladas (ojiva), de la figura; representa los resultados obtenidos por 100 alumnos \n\nen la PSU. ¿Cuál(es) de las siguiente(s) aseveraciones es (son) verdadera(s)?\n\nI)\t 69 alumnos obtuvieron menos de 650 puntos.\n\nII)\t El intervalo modal es [550 - 650[.\n\nIII)\t El 8% de los alumnos obtuvieron 450 puntos.\n\nRespuestas\n1.   Ninguna\n2.   I, y II\n",
+      "cantidad_caracteres": 772,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "texto": "MATEMÁTICA\n290\n\n6.6\t GRÁFICO DE CAJA Y BIGOTE\n\nEl diagrama de caja es una representación gráfica basada en los cuartiles, que ayuda a ilustrar una muestra de \ndatos. Para elaborar este gráfico, sólo se necesitan cinco datos: el valor mínimo, el primer cuartil, segundo cuartil \n(la mediana), el tercer cuartil y el valor máximo de la muestra. El largo de la caja es Q3 - Q1 , que corresponde \nal recorrido intercuartil.\n\n6.6.1\t\nTIPOS DE MUESTRA\n\nMUESTRA SIMÉTRICA\nLos valores intercuartílicos están igualmente dispersos.\n\nMUESTRA POSITIVAMENTE ASIMÉTRICA\nLos valores más grandes se encuentran más dispersos que los más pequeños.\n\nMUESTRA NEGATIVAMENTE ASIMÉTRICA\nLos valores más pequeños se encuentran más dispersos que los más grandes.\n",
+      "cantidad_caracteres": 737,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "texto": "CAPÍTULO V: PROBABILIDADES Y ESTADÍSTICA I 291\n\nEJERCICIOS\n\n1.\t Conteste verdadero (V) o falso (F) a las afirmaciones respecto del diagrama adjunto\n\na.\t ____\t La distribución es simétrica.\n\nb.\t ____\t Los valores mayores están más dispersos.\n\nc.\t ____\t La muestra es asimétrica.\n\nd.\t ____\t Los valores menores están más concentrados.\n\ne.\t ____\t Hay menos valores altos que bajos.\n\nf.\t ____\t La muestra presenta una asimetría negativa.\n\n2.\t En el siguiente diagrama de caja y bigotes, se muestran las estaturas (en centímetros) de los alumnos de un \n\ndeterminado curso. Conteste verdadero (V) o falso (F) a las afirmaciones\n\na.\t ____\t El 50% de los alumnos tienen estaturas \n\n\t\ndesde 169 cm a 177 cm.\n\nb.\t ____\t El rango de las estaturas es 20 cm.\n\nc.\t ____\t La distribución de las estaturas es\n\n\t\nasimétrica.\n\n3.\t Los datos de la masa en kilogramos de 12 alumnos de 3º medio de un colegio, han sido registrados en el gráfico \n\nde caja y bigotes en la figura adjunta. Conteste verdadero (V) o falso (F)",
+      "cantidad_caracteres": 1237,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "texto": "MATEMÁTICA\n292\n\n7.\t COMBINATORIA\n\n7.1\t\nTÉCNICAS DE CONTEO\n\nEl análisis combinatorio es la rama de la matemática que estudia el número de posibilidades de ocurrencia de un \nsuceso, sin necesariamente describir todas las posibilidades. Si un suceso puede ocurrir de a maneras diferentes \ny otro suceso puede ocurrir de b maneras diferentes, entonces se cumplen dos principios:\n\nPRINCIPIO MULTIPLICATIVO\n\nSi los sucesos ocurren en forma simultánea, entonces existen a • b maneras diferentes de que ocurran\nambos sucesos.\n\nPRINCIPIO ADITIVO\n\nSi los sucesos no ocurren en forma simultánea, entonces existen a + b maneras diferentes de que ocurra \nsolo uno de ellos.\n\nEJERCICIOS\n\n1.\t Al lanzar un dado y una moneda, ¿cuántos resultados distintos se pueden obtener?\n\n2.\t Si Pedro dispone de 5 lápices de pasta, 4 de tinta y 3 de grafito, entonces ¿de cuántas maneras diferentes puede \n\nelegir un lápiz para hacer una tarea?\n\n3.\t En un local de comida rápida, Patricia puede armar un combo que consiste en es",
+      "cantidad_caracteres": 1258,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "texto": "CAPÍTULO V: PROBABILIDADES Y ESTADÍSTICA I 293\n\n7.2\t FACTORIALES\n\nSea n un número natural, se llama factorial de n o n factorial, al producto de los n primeros números \nnaturales y se denota por n!.\n\nSe define:\t\n0! = 1\n\t\n\t\n1! = 1\n\t\n\t\nn! = n • ( n ‒ 1 )!\n\nSe deduce de lo anterior, que\n\nn! = n • (n - 1) • (n - 2) • ... • 3 • 2 • 1\n\nEJERCICIOS\n\n1.\t ¿Cuál(es) de las siguientes expresiones es (son) igual(es) a 4!?\n\nI)\t 2! • 2!\n\nII)\t 1! + 1! + 1! + 1!\n\nIII)\t 12 • 2\n\n2.\t ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)?\n\nI)\t 45 es divisor de 6!\n\nII)\t 720 es múltiplo de 6!\n\nIII)\t 0! es divisor de 6!\n\n3.\t El sucesor de  p  es  q. Entonces,  p!  en términos de  q  es\n\n4.\t Si se definen\t \t\n            y     \t\n               ,  entonces\t\n =\n\nRespuestas\n1.  III\n2.   I, II y III\n3.   ( q ‒ 1)!\n4.   63\n",
+      "cantidad_caracteres": 813,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "texto": "MATEMÁTICA\n294\n\n7.3\t PERMUTACIONES\n\nSe denomina permutación, a cada una de las diferentes ordenaciones que se pueden realizar con todos \nlos elementos de un conjunto.\n\nPERMUTACIÓN SIMPLE O LINEAL\n\nEl número de permutaciones que pueden hacerse con n elementos diferentes en disposición lineal, esta \ndado por.\n\nPn  =  n!\n\nPERMUTACIÓN CON REPETICIÓN\n\nEl número de permutaciones de n elementos, de los cuales, k1 son iguales, k2 son iguales,…. kr son iguales, \nestá dado por\n\nn!\n\nPrep  = \n\nk1! . k2! . ... kr! \n\nPERMUTACIÓN CIRCULAR\n\nEl número de maneras diferentes en que se pueden ordenar n elementos diferentes en disposición circular, \nestá dado por:\n\nPcircul  =  ( n  -  1) ! \n\nEJERCICIOS\n\n1.\t ¿De cuántas maneras se pueden ubicar 5 autos diferentes en fila en un estacionamiento?\n\n2.\t ¿Cuántas palabras con o sin sentido se pueden hacer con todas las letras de la palabra ELEMENTO?\n\n3.\t ¿De cuántas maneras distintas se puede sentar una familia de 7 integrantes alrededor de una mesa con 7 sillas?",
+      "cantidad_caracteres": 1045,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "texto": "CAPÍTULO V: PROBABILIDADES Y ESTADÍSTICA I 295\n\n7.4\t VARIACIONES O ARREGLOS\n\nEn un conjunto de n elementos, se denominan variaciones o arreglos a diferentes ordenaciones que se \npueden formar con r elementos (r ≤ n).\n\nVARIACIONES SIN REPETICIÓN\n\nDado un conjunto de n elementos, la cantidad de ordenaciones diferentes de r elementos que se pueden \nobtener, sin repetir, está dada por:\n\nn!\nn\n\n( r ≤ n) \nVr  =  ( n  -  r) ! \n\nVARIACIONES CON REPETICIÓN\n\nDado un conjunto de n elementos, la cantidad de ordenaciones diferentes de r elementos que se pueden \nobtener, en los cuales se puede repetir uno o más de ellos, está dada por:\n\n( r ≤ n) \nVRr  =  nr\nn\n\nOBSERVACIÓN\n\nUna permutación es un caso particular de una variación sin repetición, cuando n = r.\n\nEJERCICIOS\n\n1.\t Si en un autobús hay disponibles sólo 3 asientos y 7 personas están de pie, ¿de cuántas maneras distintas \n\npodrían ocupar esos asientos?\n\n2.\t En un campeonato de fútbol participan 8 equipos locales. ¿De cuántas maneras distintas p",
+      "cantidad_caracteres": 1221,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "texto": "MATEMÁTICA\n296\n\n7.5\t COMBINACIONES\n\nSon los diferentes grupos que se pueden formar con un total de n elementos de modo que cada grupo \ntenga r elementos, no interesando el orden de éstos.\n\nCOMBINACIÓN SIN REPETICIÓN\nDado un conjunto de n elementos, la cantidad de conjuntos de r elementos que se pueden obtener, sin \nrepetición, está dada por:\n\nn!\nn\n\n(0 ≤ r ≤ n) \n\nCr  =  ( n  -  r) !  .  r!\n\nCOMBINACIÓN CON REPETICIÓN\nDado un conjunto de n elementos, la cantidad de conjuntos de r elementos que se pueden obtener, con \nrepetición, está dada por:\n\n( n  +  r - 1) !\n=\n=\nCRr   \nn\nCr    \nn +r - 1\n\n(0 ≤ r ≤ n) \n\n( n  -  1) !r!\n\nOBSERVACIONES\n\n(\n\nr(\n\n=\nCr \nn\nn\n\n=\nCr \nCn - r   \nn\nn\nn\nn\n= 1\nCn  \nn\n= 1\nC0  \nn\n= n\nC1  \nn\n\nEJERCICIOS\n\n1.\t Para el mundial de fútbol de Brasil clasificaron 32 países. Si este torneo se jugara con la modalidad “todos \n\ncontra todos”, ¿cuántos partidos se tendrían que jugar?\n\n2.\t En un jardín infantil hay 5 cupos para 8 niños que postulan, ¿de cuántas formas se puede ocupar",
+      "cantidad_caracteres": 1352,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "texto": "CAPÍTULO V: PROBABILIDADES Y ESTADÍSTICA I 297\n\nEJERCICIOS\n\n1.\t ¿De cuántas maneras se pueden ordenar 7 personas en una fila?\n\n2.\t ¿Cuántas palabras con o sin sentido se pueden hacer con todas las letras de la palabra AMASAS?\n\n3.\t ¿De cuántas maneras se pueden sentar 5 personas alrededor de una mesa?\n\n4.\t ¿Cuántos códigos de 3 letras distintas se pueden formar con las vocales?\n\n5.\t ¿Cuántos triángulos se pueden formar con los vértices de un hexágono?\n\n6.\t ¿Cuántos códigos de dos letras, sin importar el orden se pueden formar con las vocales, si se sabe que se \n\npueden repetir las letras?\n\n7.\t En una pastelería quedan 5 pasteles distintos. ¿De cuántas maneras se pueden escoger 3 pasteles?\n\nRespuestas\n1.   7!\n2.   60\n3.   24\n4.   60\n5.   20\n6.   15\n7.   10\n",
+      "cantidad_caracteres": 765,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 24.501953125
+        }
+      ]
+    }
+  ]
+}

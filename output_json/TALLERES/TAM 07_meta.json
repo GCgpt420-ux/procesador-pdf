@@ -1,0 +1,88 @@
+{
+  "filename": "TAM 07.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TAM 07.pdf",
+  "num_paginas": 4,
+  "titulo": "46",
+  "autor": "usuario",
+  "fecha_procesamiento": "2026-03-07T16:01:53.505703",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nMATEMÁTICAS \nTALLER AVANZADO Nº 07 \n\n \n \n \n \n \n\nTAM-07 – GEOMETRÍA II \n\n \n \n \n \n \n \n \n1. \nEl rectángulo de la figura adjunta ha sido dividido en tres rectángulos cuyas áreas de \nizquierda a derecha son: 6 cm², 12 cm² y 24 cm². Si los perímetros de estos \nrectángulos son 14 cm, 16 cm y P cm respectivamente, ¿cuál es el valor de P? \n \n \n\nA) 18 \nB) 20 \nC) 24 \nD) 30 \n\n \n\n \n \n \n \n2. \nEn la figura adjunta, el triángulo ABC es rectángulo en A y los triángulos DAC, AFB y \nBEC son equiláteros. Si AC : BC = 2 : \n5  y el área del triángulo ACD es 12. ¿Cuál es el \nárea del triángulo BEC? \n \n \n\nC \nE \n\n \n\nA)  15 \nB)  16 \nC) 20  \nD) 25 \n\nD \n\nA \nB \n\n \n \n \n \n3. \nEn el gráfico de la figura adjunta, si A = (5, 3) y B = (6, 2). ¿Cuál de los siguientes es \nun posible valor de la pendiente de la recta L? \n \n\nF \n\nA)  1\n\ny \n\n3  \n\n \n\nB)  7\n\n15  \n\nA \n\nL \n\nC)  3\n\n5  \n\nD)  4\n\n5  \n\nB \n\n \n \n\nx \n",
+      "cantidad_caracteres": 881,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 98.0693359375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.3701171875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "4. \nEl siguiente cuadrado (fig. adjunta) está formado por dos tipos de ladrillos y cierta \nmuralla está formada por muchos de estos cuadrados. Si P y Q  son números enteros, \nentonces ¿cuál de las siguientes no puede ser el área de esta muralla (en unidades \ncuadradas)? \n \n\nP \nP \n\nQ \n\nA) 1.296 \nB) 1.936 \nC) 2.496 \nD) 3.136 \n \n \n \n \n5. \nEn el rectángulo ABCD de la figura adjunta, E es punto medio de AD , DF : DC = 1 : 3  \ny BG : GC = 1 : 2. ¿En qué razón están las áreas de la superficie achurada y la \nsuperficie en blanco, respectivamente, si ED = DF? \n \n\n \n\nQ \n\nQ \n\nQ \n\nA)  1\n\n5  \n\nD\nF\nC\n\nB) 11\n\n \n\n6  \n\nC) 25\n\n6  \n\nE\n\nD) 25\n\n11  \n\nG\n\n \n \n \n6. \nSabiendo que mn = -1  y  b  q, ¿cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nA\nB\n\nI) \nLa recta de ecuación y = mx + p es reflexión de la recta y = nx + p, con \nrespecto al eje y. \nII) \nLa recta de ecuación y = mx + p es paralela con la recta de ecuación  \ny = mx + q. \nIII) \nm + n = 0, si y solo m = 1 \n \n\nA) Solo II \nB) Solo",
+      "cantidad_caracteres": 1245,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "8. \n¿Cuánto mide la diagonal del cuadrado inscrito en el semicírculo (fig. adjunta), si se \nsabe que el área de este último es 12,5? \n \n\nA) 2 10  \n\n \n\nB) 2 5  \n\nC) 5\n2  \n\nD) \n10  \n \n \n \n \n9. \nEn el triángulo ABC (fig. adjunta), AD  // FE   y  FD  // AB .  Si DC = 6  y  DE = 2, \nentonces BC = \n \n \n\nC \n\n \n\nE \n\nA) \n   8 \nB)   9 \nC) 10 \nD) 11 \n \n \n \n \n \n \n10. En la figura adjunta, el arco PQ es una semicircunferencia de centro O, T es punto de \n\nD \nF \n\nA \nB \n\ntangencia y AB  es diámetro de la circunferencia. Si OT = 2 y TC = 32, ¿cuál es el área \nde la superficie achurada? \n \n \nA) 16 \nB) 48 \nC) 24 \nD) 32 \n\n \n\nA \n\nB \n\nP \nO T \nQ \nC \n\n \n \n \n \n \n11. En el triángulo PQR de la figura  adjunta se tiene que  QRP  = PST, PS = 3, ST = 6, \n\nTR = 4 y QR = 18. Entonces,  SQ : PT = \n \n \n\nR \n\nA) 3 : 1 \nB) 4 : 3 \nC) 12 : 5 \nD) 5 : 2 \n\n \n\nT \n\n \n \n \n \n\nP \nQ \nS \n\n3 \n \n",
+      "cantidad_caracteres": 865,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "12. En el siguiente sistema de coordenadas (fig. adjunta) el cuadrilátero achurado está \n\nformado  por los ejes x e y, por la recta de ecuación y = x + b (con b > 0) y por la \nrecta de ecuación x = a. ¿Cuál es el perímetro de este cuadrilátero?  \n \n \n\ny \n\nA) 2a + 2b \nB) (1 + \n2 )a + 2b \n\ny = x + b \n\nC) (2 + \n2 )a + 2b \n\n \n\nD) (1 + \n2 )b + 2a \n \n \n \n \n13. En el triángulo equilátero ABC de la figura adjunta, EG  // AC ,  GF  // AB   y   \n\nx \n\nx = a \n\nGD // BC . La suma de las longitudes de EG , GF  y GD es igual a \n \n \n\nC \n\nA) la altura del ABC. \nB) el perímetro del ABC. \nC) el área del ABC. \nD) un lado del ABC. \n \n \n \n \n \n\n \nD \n\nF \nG \n\nA E \nB \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nm\nm  n\n ! + 2\n !\nn\nn\nm\nm + n\n ! + \n !\nn\nn\n\n14. Si n! = 1 · 2 · 3 · 4...... · (n – 1) · n, entonces al simplificar \n\n se \n\nobtiene \n \n\nA) 1 \n\nB) \nn\nm  \n\nC) mn \n\nD) m\n\nn  \n\n \n \n15. El arco AB es una semicircunferencia de centro O. Si DEO = 50° y DOC = 40°, \n\n¿cuánto mide el ángulo ACE? (fig. ",
+      "cantidad_caracteres": 1089,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "archivo_original": "TAM 07.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/SOLUCIONARIOS/TAM 07.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 6,
+  "fecha_procesamiento": "2026-03-07T23:08:09.089187",
+  "preguntas": [
+    {
+      "numero": 14,
+      "enunciado": "14. \n\n \n\nSi n! = 1 · 2 · 3 · 4...... · (n – 1) · n, \n\nSolucionario \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nm\nm  n\n ! + 2\n !\nn\nn\nm\nm + n\n ! + \n !\nn\nn\n\n \n\nm\nm\n! + 2\n  1 !\nn\nn\nm\nm\n! + \n  1 !\nn\nn\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nentonces al simplificar \n\n \n\n \n\n \n\n \n\n \n\nse obtiene \n\nSi m\n\nn = u; u! + 2(u  1)!\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 u! + (u + 1)!"
+        },
+        {
+          "letra": "B",
+          "texto": "n m     = (u 1)!  (u + 2) (u 1)!u + 2(u 1) (u 1)!u + (u 1)!u (u 1)!  u(u + 2)"
+        },
+        {
+          "letra": "C",
+          "texto": "mn = 1 u = n"
+        },
+        {
+          "letra": "D",
+          "texto": "m m n Alternativa correcta: E)"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    }
+  ]
+}

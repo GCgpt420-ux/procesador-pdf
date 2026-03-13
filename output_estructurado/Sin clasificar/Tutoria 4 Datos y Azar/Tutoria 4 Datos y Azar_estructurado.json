@@ -1,0 +1,3423 @@
+{
+  "archivo_original": "Tutoria 4 Datos y Azar.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TUTORÍAS/Tutoria 4 Datos y Azar.pdf",
+  "materia": "Sin clasificar",
+  "num_paginas": 83,
+  "fecha_procesamiento": "2026-03-07T23:08:48.025562",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1.800 personas. \nIII) \nLos que utilizaron buses de empresa de turismo corresponde a 16,6%  de \nlos que usaron buses interurbanos de línea.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nII) \nSi se extraen 3 fichas al mismo tiempo, los posibles valores de X son 0, 1, \n2, 3. \nIII) \nSi se extraen 6 fichas a la vez, los posibles valores de X son 1, 2, 3.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 55"
+        }
+      ],
+      "pagina": 55,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn un colegio se les preguntó a los alumnos cual era la distancia que hay de su casa al \ncolegio. El alumno que vive más cerca del colegio está a 1 km y el alumno que vive \nmás lejos está a 21 km. Si estos datos fueron agrupados en una tabla de intervalos \ndonde la amplitud es 4 y la frecuencia es siempre el doble de la marca de clase, \n¿cuántos niños tiene el colegio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "110"
+        },
+        {
+          "letra": "B",
+          "texto": "96"
+        },
+        {
+          "letra": "C",
+          "texto": "86"
+        },
+        {
+          "letra": "D",
+          "texto": "84"
+        },
+        {
+          "letra": "E",
+          "texto": "74 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEl gráfico de la figura adjunta, muestra los resultados obtenidos al lanzar un dado, \n¿cuál(es) de las siguientes proposiciones es (son) verdadera(s)? \n \n\nI) \nEl dado se lanzó 100 veces. \nII) \nEl resultado 3, corresponde al 30% del total de lanzamientos. \nIII) \nEn igual número de veces se obtiene el resultado 3 y 5. \n \n \n \n \n \n\nN°  \nlanzamientos \n\n23 \n\n \n\n18",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 17 15 12 5 resultados 6 5 4 3 2 1 0 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nLa gráfica de la figura adjunta muestra las frecuencias acumuladas de los años de \nantigüedad de un grupo de profesionales, donde los intervalos son de la forma [ , [. \n¿Cuál de las siguientes afirmaciones es correcta? \n \n \n\nfrecuencias \nacumuladas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 profesionales aún no cumplen 1 año de trabajo."
+        },
+        {
+          "letra": "B",
+          "texto": "12 profesionales tienen entre 4 y 6 años de antigüedad."
+        },
+        {
+          "letra": "C",
+          "texto": "no hay profesionales en el intervalo [6 - 8[."
+        },
+        {
+          "letra": "D",
+          "texto": "el grupo está compuesto por 20 profesionales."
+        },
+        {
+          "letra": "E",
+          "texto": "el intervalo modal es [8 – 10[. 16 12 8 4 años 10 6 8 4 2"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nLa tabla indica la distribución de los puntajes obtenidos por los alumnos de un cuarto \nmedio en un ensayo PSU de Lenguaje.  \n \n \n \n \n \n \n             \n      \n\nIntervalos de puntaje \nFrecuencia \n[350 - 450[ \n2 \n[450 - 550[ \n8 \n[550 - 650[ \n7 \n[650 - 750[ \n12 \n[750 - 850[ \n1 \n\nDe acuerdo a la información entregada, es verdad que \n                                             \n\nI) \nla variable es cualitativa en escala ordinal. \nII) \nhay exactamente un alumno que obtuvo el puntaje máximo. \nIII) \nen el intervalo de menor puntaje se tienen dos alumnos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nSi los datos de un conjunto son números y todos ellos aumentan en la unidad, ¿cuál de \nlos siguientes estadígrafos del conjunto original también aumenta en la unidad?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La varianza."
+        },
+        {
+          "letra": "B",
+          "texto": "El rango."
+        },
+        {
+          "letra": "C",
+          "texto": "La desviación estándar."
+        },
+        {
+          "letra": "D",
+          "texto": "La media aritmética."
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas. 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSe tienen 30 datos cuya media aritmética es igual a seis. Veinte de ellos tienen un \npromedio igual a cinco, entonces ¿cuál es el promedio de los otros diez datos \nrestantes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "8"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Marcela, en su práctica profesional debe registrar los tiempos que demora en hacer una \n\nserie de controles en el laboratorio, anotando en su computador los siguientes valores \nen minutos: 12 – 15 – 12 – 18 – 20 – 14 – 16 – 12 – 11 – 21 – 10 – 19 – 12. ¿Cuál es \nel rango de los tiempos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "13"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "14,7"
+        },
+        {
+          "letra": "E",
+          "texto": "11"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. \n¿Cuál es la mediana del conjunto que se forma con los 10 números impares \nconsecutivos desde el número 5?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14"
+        },
+        {
+          "letra": "B",
+          "texto": "13"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "11"
+        },
+        {
+          "letra": "E",
+          "texto": "10"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Las edades de los primos de Juan son 8, 12, 16, 24 y 15. Según ellas es correcto \n\nafirmar que \n \n\nI) \nel promedio de las edades es 15. \nII) \nla desviación estándar es 2\n7 . \nIII) \nel rango de las edades es 7.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Una ruleta dividida en ocho secciones de igual área, cada una con un número del 1 al 8, \n\nse hace girar 100 veces, obteniéndose los resultados indicados en el gráfico de la figura \nadjunta. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nDe acuerdo a lo anterior, ¿cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nFrecuencia \n\n30 \n\n25 \n\n \n\n20 \n\n15 \n\n10 \n\n5 \n\n1 \n2 \n3 \n4 \n5 \n\n6 \n7 \n8 \n\nNúmeros \n\nI) \nLa mediana es mayor que la media aritmética. \nII) \nLa moda es mayor que la media aritmética. \nIII) \nEn 60 oportunidades se obtuvo un número primo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. La tabla adjunta muestra las preferencias de color y la cantidad para cada una de ellas \n\nque manifiesten los alumnos de un curso.  \n \n \n \n \n \n \n \n \n \n \n \n \n\nColor \nNúmero de \nrespuestas \nRojo \n1 \nNaranjo \n2 \nAmarillo \n1 \nVerde \n6 \nAzul \n3 \nÍndigo \n7 \nVioleta \n4 \n \n\n¿Cuál(es) de las siguientes proposiciones es (son) verdadera(s)? \n \n\nI) \nLa mediana es azul. \nII) \nEl rango es 6. \nIII) \nLa frecuencia de la moda es 7.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas. 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. La siguiente tabla muestra los puntajes de una prueba de matemática de un curso. \n\n¿Cuál de los siguientes gráficos representa mejor su frecuencia acumulada? \n  \n\nPuntaje \nFrec. Absoluta \nFrec. Relativa \n[0 - 10[ \n5 \n0,20 \n[10 - 20[ \n6 \n0,24 \n[20 - 30[ \n10 \n0,40 \n[30 - 40] \n4 \n0,16",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "B)"
+        },
+        {
+          "letra": "C",
+          "texto": "y y y 1,00 10 0,40 0,84 6 0,24 0,44 5 0,20 0,20 0,16 4 10 20 30 40 x x 10 20 30 40 10 20 30 40 x y y"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p9_img0.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. La siguiente tabla de frecuencias muestra el número de hermanos que tiene cada \n\n   25 \n\n   10 \n\n   21 \n\n    6 \n\n   11 \n\n    5 \n\n    5 \n\n    4 \n\nx \n\n10 20 30 40 \n\nx \n\n10 20 30 40 \n\nalumno de un curso. Si m = moda, p = promedio y q = mediana, entonces ¿cuál de las \nsiguientes opciones es correcta? \n \n \n\nCant. \nhermanos \nn° alumnos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m = p"
+        },
+        {
+          "letra": "B",
+          "texto": "p = q"
+        },
+        {
+          "letra": "C",
+          "texto": "q < m"
+        },
+        {
+          "letra": "D",
+          "texto": "m < p < q"
+        },
+        {
+          "letra": "E",
+          "texto": "m > p 1 7 3 5 1 0 1 2 3 4 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p9_img0.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. El gráfico de la figura adjunta muestra la frecuencia acumulada de una variable \n\nestadística, entonces el intervalo modal correspondiente a esta información dada es \n \n \n \n\nFrec.\nAcumulada\n\n100 \n\n96",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "[0,1["
+        },
+        {
+          "letra": "B",
+          "texto": "[1,2["
+        },
+        {
+          "letra": "C",
+          "texto": "[2,3["
+        },
+        {
+          "letra": "D",
+          "texto": "[3,4["
+        },
+        {
+          "letra": "E",
+          "texto": "[4,5["
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p10_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Si k es la media aritmética de los números 7, 10, m y 2, entonces m en términos de k \n\n80 \n\n67 \n\n60 \n\n49 \n\n38 \n\n40 \n\n20 \n\n0 \n\nx \n\n1 \n2 \n3 \n4 \n5 \n\nes",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4k – 19"
+        },
+        {
+          "letra": "B",
+          "texto": "4k + 19"
+        },
+        {
+          "letra": "C",
+          "texto": "k – 19"
+        },
+        {
+          "letra": "D",
+          "texto": "k + 19"
+        },
+        {
+          "letra": "E",
+          "texto": "3k – 19"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. ¿Cuál de las siguientes afirmaciones es verdadera con respecto al conjunto de datos:  \n\n4; 2; 6; -2; -2?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La mediana es igual a la media."
+        },
+        {
+          "letra": "B",
+          "texto": "La media es igual a la moda."
+        },
+        {
+          "letra": "C",
+          "texto": "La moda es igual a la mediana."
+        },
+        {
+          "letra": "D",
+          "texto": "Moda, mediana y media son iguales."
+        },
+        {
+          "letra": "E",
+          "texto": "Moda, mediana y media son distintas."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. La tabla adjunta muestra el peso de un grupo de alumnas de  III° medio de un colegio, \n\n¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nEl intervalo modal es el intervalo B. \nII) \nLa mediana está en el intervalo B. \nIII) \nLa media aritmética (promedio) es mayor que 60.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III Kilos Frecuencia A [40-50[ 30 B [50-60[ 25 C [60-70[ 20 D [70-80[ 15 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p10_img0.jpg"
+      ]
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. En la tabla adjunta se muestran las notas con que terminó un alumno su año escolar. \n\n¿Qué nota final obtuvo este alumno en C. Sociales?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,0"
+        },
+        {
+          "letra": "B",
+          "texto": "5,25"
+        },
+        {
+          "letra": "C",
+          "texto": "5,5"
+        },
+        {
+          "letra": "D",
+          "texto": "5,6"
+        },
+        {
+          "letra": "E",
+          "texto": "5,75"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p11_img0.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. En el siguiente histograma de frecuencias, ¿cuántas observaciones hay en el intervalo \n\nAsignatura \nNota Final \nLenguaje \n5,5 \nMatemáticas \n5,0 \nC. Sociales \nx \nBiología \n6,0 \nFísica \n5,0 \nQuímica \n6,0 \nPromedio Final \n5,5 \n\n[c,d[, si la población es de 350? \n \n \n\nf",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "100"
+        },
+        {
+          "letra": "B",
+          "texto": "150"
+        },
+        {
+          "letra": "C",
+          "texto": "75"
+        },
+        {
+          "letra": "D",
+          "texto": "50"
+        },
+        {
+          "letra": "E",
+          "texto": "200"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. En un curso de x personas, a tienen b hermanos cada uno, c tienen d hermanos cada \n\n \n\n6x \n\n4x \n\nx \n2x \n\nobservaciones \na \nb \nc \nd \ne \nf \n\nuno y el resto tienen f hermanos cada uno. ¿Cuál es la media de hermanos que tienen \nlos integrantes del curso?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "b + d + f x"
+        },
+        {
+          "letra": "B",
+          "texto": "b + d + f (x a c) x   "
+        },
+        {
+          "letra": "C",
+          "texto": "a b + c d + f x  "
+        },
+        {
+          "letra": "D",
+          "texto": "a b + c d + f (x a + c) x    "
+        },
+        {
+          "letra": "E",
+          "texto": "a b + c d + f (x a c) x      11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Los resultados obtenidos por los alumnos de un curso en una prueba de matemática \n\nfueron: 4 - 6 – 5 – 7 – 3 -  4 – 7 – 5 – 4 – 5 – 3 – 4 – 6 – 5 - 4. ¿Cuál(es) de las \nsiguientes afirmaciones es (son) verdadera(s)? \n\n \n \nI) \nLa mediana es 5. \nII) \nLa moda es 4. \nIII) \nLa media es 5.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. En un conjunto de datos numéricos, el (los) estadígrafo(s) que siempre se puede(n) \n\ndeterminar es (son) \n \n\nI) \nla moda. \nII) \nla mediana. \nIII) \nla media aritmética.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. El director de un cierto colegio desea que sus 26 profesores utilicen delantal en horario \n\nde clases. Para ello, cada profesor es consultado sobre su número de talla. Con los \ndatos obtenidos se confeccionó la tabla de distribución de frecuencias adjunta. \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa moda es 10. \nII) \nLa mediana es 50. \nIII) \nLa media aritmética es igual a la mediana. \n \n \n\nTalla  \nProfesores  \n45 \n48 \n50 \n52 \n54 \n\n2 \n10",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III 4 5 5 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p12_img0.jpg"
+      ]
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. Con respecto al siguiente conjunto de datos: 10, 10, 10, 10 y 10, ¿cuál(es) de los \n\nsiguientes estadígrafos NO es (son) igual(es) a 0? \n \n\nI) \nRango. \nII) \nMedia aritmética. \nIII) \nDesviación estándar.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. En la tabla adjunta se muestran las estaturas  de un curso de 40 alumnos. \n\n \n \n \n \n \n \n \n\nEstatura (m) \nN° de estudiantes \n[1,60 – 1,64] \n8 \n[1,65 – 1,69] \n19 \n[1,70 – 1,74] \n10 \n[1,75 – 1,79] \n3 \n\n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \n27 estudiantes miden menos de 1,70 m. \nII) \n25% de los estudiantes se encuentran en el intervalo [1,70 – 1,74]. \nIII) \nLa mediana se encuentra en el segundo intervalo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p13_img0.jpg"
+      ]
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. La tabla adjunta, muestra algunos datos que resultan de encuestar a un grupo de \n\nadolescentes sobre la cantidad de tiempo promedio diario que usan el computador. Con \nrespecto a los datos de esta tabla, ¿cuál opción es FALSA? \n \n \n \n \n \n \n \n \n \n\nTiempo en \n\nFrecuencia \nacumulada \n[0 – 1[ \n2 \n \n[1 – 2[ \n \n6 \n[2 – 3[ \n \n12 \n[3 – 4[ \n8 \n \n[4 – 5[ \n \n30 \n\nFrecuencia \n\nhoras \n\nabsoluta",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La frecuencia porcentual absoluta del intervalo [2 – 3[ es 20%."
+        },
+        {
+          "letra": "B",
+          "texto": "La marca de clase del último intervalo es 4,5."
+        },
+        {
+          "letra": "C",
+          "texto": "La marca de clase modal es menor que la media aritmética."
+        },
+        {
+          "letra": "D",
+          "texto": "El intervalo modal es [4 – 5[."
+        },
+        {
+          "letra": "E",
+          "texto": "La frecuencia acumulada para el intervalo [3 – 4[ es 20. 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p13_img0.jpg"
+      ]
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. La tabla adjunta muestra las notas obtenidas por un grupo de alumnos en una prueba \n\nde lenguaje. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa moda es 6. \nII) \nLa media aritmética redondeada a la décima es 5,2. \nIII) \nLa mediana es 6. \n \n\nNotas \nFrecuencia",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p14_img0.jpg"
+      ]
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. La tabla muestra las notas obtenidas por todos los alumnos de un curso en una prueba \n\n1 \n1 \n2 \n2 \n3 \n2 \n4 \n3 \n5 \n4 \n6 \n8 \n7 \n5 \n\n \n \n \n \n \n \n \n \n \n \n¿Cuál de las siguientes afirmaciones es FALSA? \n\nNotas  \nFrecuencia  \n[1,0 – 2,0[ \n2 \n[2,0 – 3,0[ \n3 \n[3,0 – 4,0[ \n10 \n[4,0 – 5,0[ \n15 \n[5,0 – 6,0[ \n9 \n[6,0 – 7,0] \n6",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El curso tiene 45 alumnos."
+        },
+        {
+          "letra": "B",
+          "texto": "El intervalo modal es [4,0 – 5,0[."
+        },
+        {
+          "letra": "C",
+          "texto": "La moda es 15."
+        },
+        {
+          "letra": "D",
+          "texto": "El 33,3% sacó menos de un 4,0."
+        },
+        {
+          "letra": "E",
+          "texto": "El 33,3% sacó un 5,0 o más."
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p14_img0.jpg"
+      ]
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. En la figura adjunta, ¿cuál es la frecuencia absoluta del intervalo [5,10[, si la gráfica \n\ncorresponde a las frecuencias relativas acumuladas de intervalos [ , [, de una muestra \nde 200 personas? \n \n \n\nFrecuencias Relativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50"
+        },
+        {
+          "letra": "B",
+          "texto": "100"
+        },
+        {
+          "letra": "C",
+          "texto": "75"
+        },
+        {
+          "letra": "D",
+          "texto": "50%"
+        },
+        {
+          "letra": "E",
+          "texto": "140 Acumuladas y 1,0 0,7 0,8 0,2 x 5 10 15 20 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p14_img0.jpg"
+      ]
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. En la tabla adjunta se muestra la distribución de las edades, en años, de los pacientes \n\nque asistieron a una consulta médica. Según los datos de la tabla, ¿cuál de las \nsiguientes afirmaciones es FALSA?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El total de pacientes que asistió a la consulta Edad en Frecuencia [0, 6[ 5 [6, 12[ 4 [12, 18[ 3 [18, 24[ 2 años fueron 14."
+        },
+        {
+          "letra": "B",
+          "texto": "El intervalo modal es [0,6[."
+        },
+        {
+          "letra": "C",
+          "texto": "La mediana se encuentra en el intervalo [6,12[."
+        },
+        {
+          "letra": "D",
+          "texto": "La media es, aproximadamente, 9,9 años."
+        },
+        {
+          "letra": "E",
+          "texto": "Solo 4 pacientes tienen menos de 12 años."
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p15_img0.jpg"
+      ]
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. Se hace un estudio del número de horas diarias que tienen 200 alumnos frente al \n\ncomputador en vacaciones de verano. Los datos se presentan en la tabla adjunta. \n¿Cuál(es) de las siguientes aseveraciones es (son) verdadera(s)? \n \n\nI) \nP es 60. \nII) \nLa frecuencia acumulada hasta el intervalo [6,8[ es 175. \nIII) \nLa frecuencia relativa porcentual del intervalo [4,6[ es el 30%.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p15_img0.jpg"
+      ]
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. La tabla muestra las estaturas distribuidas en intervalos de 50 niños que participan en \n\nX \nf \n[0, 2[ \n25 \n[2, 4[ \n40 \n[4, 6[ \n60 \n[6, 8[ \nP \n[8, 10[ \n15 \n[10, 12[ \n10 \n \n\nun campeonato de baby fútbol.  \n \n \n \n \n \n \n \n\nEstaturas (m) \nNúmero de niños \n\n[1,50;1,55[ \n6 \n[1,55;1,60[ \n26 \n[1,60;1,65[ \n8 \n[1,65;1,70[ \n10 \n \n\nI) \nLa mediana se encuentra en el intervalo [1,55;1,60[. \nII) \nLa mediana se encuentra en el intervalo modal. \nIII) \nMás del 30% de los niños supera 1,6 m. \n \n \n¿Cuál(es) de las siguientes aseveraciones es (son) verdadera(s)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 15"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p15_img0.jpg"
+      ]
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. ¿Cuál de las siguientes afirmaciones es verdadera con respecto a los datos de la tabla \n\nadjunta? \n \n\n                                 E S T A T U R A      (En Centímetros) \nGénero \n[150 – 164] \n[165 – 169] \n[170 – 184] \n[185 – 189] \nHombre \n2 \n3 \n8 \n12 \nMujer \n12 \n5 \n4 \n4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La tabla muestra 8 datos."
+        },
+        {
+          "letra": "B",
+          "texto": "La mediana de la estatura de los hombres está en el intervalo [185 – 189]."
+        },
+        {
+          "letra": "C",
+          "texto": "El intervalo modal de la estatura de las mujeres es [150 – 164]."
+        },
+        {
+          "letra": "D",
+          "texto": "La mediana de la estatura de las mujeres se encuentra en el intervalo [150 – 164]."
+        },
+        {
+          "letra": "E",
+          "texto": "El intervalo modal de la estatura de los hombres es [170 – 184]."
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p16_img0.jpg"
+      ]
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. La tabla adjunta muestra un estudio estadístico referente a la cantidad de exámenes de \n\nsangre requeridos en una clínica y la edad de los pacientes en un periodo determinado. \nCon respecto a lo anterior, es correcto afirmar que  \n \n \n \n \n \n \n \n \n \n \n \n\nEdad \nN° de pacientes \n[0 – 15 [ \n40 \n[15 – 30[ \n10 \n[30 – 45[ \n30 \n[45 – 60[ \n40 \n[60 – 75[ \n80",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "la frecuencia relativa porcentual del tercer intervalo corresponde a un 0,15%."
+        },
+        {
+          "letra": "B",
+          "texto": "la frecuencia relativa porcentual acumulada correspondiente a los menores de 60 años es 60%."
+        },
+        {
+          "letra": "C",
+          "texto": "el 2% de los pacientes tiene menos de 15 años."
+        },
+        {
+          "letra": "D",
+          "texto": "los pacientes desde 60 hasta 75 años equivalen al 40% del total."
+        },
+        {
+          "letra": "E",
+          "texto": "la frecuencia relativa del intervalo [15 – 30[ es 0,5. 16"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p16_img0.jpg"
+      ]
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s) con respecto a los datos \n\nque muestra la tabla adjunta? \n \n \n \n \n \n \n \n\n \nNotas finales \nCurso \n[2,0 – 2,9] \n[3,0 – 3,9] \n[4,0 – 4,9] \n[5,0 – 5,9] \n[6,0 – 7,0] \n\nA \n0 \n1 \n3 \n10 \n6 \nB \n1 \n2 \n8 \n6 \n3 \n\nI) \nEl intervalo modal del curso A es diferente al intervalo modal del curso B.  \nII) \nLa mediana del curso B está en el intervalo [4,0 – 4,9]. \nIII) \nLa marca de clase del intervalo [5,0 – 5,9] es mayor en el curso A que en el \ncurso B.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p17_img0.jpg"
+      ]
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. La tabla adjunta muestra las horas de duración de 50 rodillos de dos tipos A y B \n\nutilizados en la formación de bolas de acero. \n \n \n \n \n \n \n \n \n \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nHoras \nRodillos tipo A \nRodillos tipo B \n[0 – 10[ \n4 \n10 \n[10 – 20[ \n10 \n15 \n[20 – 30[ \n9 \n10 \n[30 – 40[ \n15 \n6 \n[40 – 50[ \n12 \n9 \n\nI) \nEl promedio de horas de duración de los rodillos del tipo A es mayor a los \ndel tipo B.  \nII) \nEl intervalo mediano de las horas se encuentra en el mismo intervalo modal \nsólo para los rodillos del tipo A. \nIII) \nEl tercer quintil de los rodillos del tipo A se encuentra en el mismo intervalo \nde la media aritmética.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 17"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p17_img0.jpg"
+      ]
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. En una encuesta a una población respecto de la pregunta, \"¿cuántas personas habitan \n\nesta casa?\", los resultados se muestran en la tabla adjunta. \n \n \n  \n \n \n \n \n \n \n \n\nNúmero de \n\nhabitantes \nFrecuencia \n\n1 \n18 \n2 \n23 \n3 \n27 \n4 \n34 \n5 \n34 \n\n¿Cuál(es) de las siguientes proposiciones es (son) FALSA(S)? \n \n\nI) \nLa moda es 4. \nII) \nLa frecuencia relativa de 4 personas que habitan en una casa es 25%. \nIII) \nEl percentil 80 es 4.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p18_img1.jpg"
+      ]
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. En la tabla de frecuencias adjunta se registra el número de personas por rango de \n\nedad. ¿Cuál de las siguientes afirmaciones es FALSA? \n \n \n \n\nEdad \nN° \n[10-14[ \n4 \n[14-18[ \n11 \n[18-22[ \n20 \n[22-26[ \n25 \n[26-30[ \n14 \n[30-34[ \n6",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "[22 - 26[ es el intervalo modal."
+        },
+        {
+          "letra": "B",
+          "texto": "La marca de clase de [14 - 18[ es 16."
+        },
+        {
+          "letra": "C",
+          "texto": "[14 - 18[ es de amplitud igual a 4."
+        },
+        {
+          "letra": "D",
+          "texto": "El 2° cuartil se ubica en [22 - 26[."
+        },
+        {
+          "letra": "E",
+          "texto": "Al menos una persona tiene 34 años."
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p18_img1.jpg"
+      ]
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. La media aritmética de los datos representados en el gráfico de la figura adjunta es 29. \n\n¿Cuál es la frecuencia correspondiente al intervalo de marca de clase 35? \n \n \n\nFrecuencia",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "8"
+        },
+        {
+          "letra": "E",
+          "texto": "40 f + 6 f + 4 f + 2 f x 50 10 20 30 40 18"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p18_img1.jpg"
+      ]
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. La tabla contiene los promedios de notas de los 3 mejores alumnos de una  generación \n\nde IV medio. Respecto a ésta información, ¿cuál de las siguientes afirmaciones es \nverdadera? \n \n \n \n\nAlumno 1 7 \n6,2 6,4 7 6,8 6,4 6,6 6,6 6,8 7 \nAlumno 2 6,8 6,0 6,6 7 6,5 6,5 6,9 6,5 7 \n7 \nAlumno 3 6,9 6,3 6,4 7 6,5 6,4 6,7 6,9 6,8 6,9",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El menor rango corresponde a las notas del alumno 1."
+        },
+        {
+          "letra": "B",
+          "texto": "Los datos correspondientes a las notas de los alumnos son todos unimodales."
+        },
+        {
+          "letra": "C",
+          "texto": "El mayor rango corresponde a las notas del alumno 3."
+        },
+        {
+          "letra": "D",
+          "texto": "La mediana de las notas correspondientes al alumno 1 es 6,6."
+        },
+        {
+          "letra": "E",
+          "texto": "El alumno 2 y el alumno 3 tienen el mismo promedio."
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p19_img1.jpg"
+      ]
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. El gráfico de la figura adjunta representa los sueldos obtenidos por 194 profesores de \n\ncierta Universidad. ¿Cuál(es) de las siguientes proposiciones es (son) verdadera(s)? \n \n\nI) \nAproximadamente el 32% de profesores gana $ 700.000 ó $ 300.000 \nII) \nLa distribución es bimodal. \nIII) \nLa mediana es $ 650.000. \n \n \n \n \n\n \n31 \n\nNº  de  Profesores \n\n28",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p19_img1.jpg"
+      ]
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. La siguiente tabla muestra la estatura de un grupo de personas. Es posible determinar \n\n25 \n\n18 \n\n13 \n\nSueldo \n(millones de \n\n0,3  0,4  0,5  0,6 0,7  0,8  0,9  1,1 \n\npesos) \n\nel valor de x, si: \n\n \n(1) La moda es 1,60. \n(2) La mediana es 1,70. \n\nEstatura \nFrecuencia \n1,60 \n8 \n1,65 \n3 \n1,70 \nx \n1,75 \n4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 19"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p19_img1.jpg"
+      ]
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. La nota mínima de aprobación en un examen es 4. Se puede determinar el número de \n\nalumnos que obtuvieron nota superior o igual a 4, si: \n \n\n(1) El curso tiene 45 alumnos y reprobaron 30. \n(2) El promedio de notas en el examen fue 4.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. Se tiene una bolsa con fichas blancas, negras, verdes y rojas de igual tamaño. Se \n\npuede determinar la moda, si: \n \n\n(1) El número total de fichas es 36. \n\n(2) Las blancas, negras y verdes tienen igual número y suman 24.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. Un estudiante rindió un examen después que sus compañeros, obteniendo una nota  \n\nde 5,1. Se puede asegurar que su nota fue superior al 50% de las notas obtenidas por \nsus compañeros, si: \n \n\n(1) Su nota es mayor que el promedio de notas de sus compañeros. \n\n(2) Su nota es mayor que la mediana.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. Dado el siguiente conjunto de datos, 2 – 3 – 7 – 4 – x –  9 – 4 – 3 - 6, se puede \n\ndeterminar el valor de x, si: \n \n\n(1) La mediana de la muestra es 4. \n(2) La mediana y la moda tienen igual valor.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 20"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. Se puede asegurar que una muestra es amodal, si: \n\n \n\n(1) El rango de la muestra es igual a 5. \n(2) La desviación típica es menor a la varianza de la muestra.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 51,
+      "enunciado": "51. Un nadador realiza varias pruebas en su especialidad de 800 m. Se puede determinar el \n\npromedio de los tiempos obtenidos en las pruebas, si se conoce: \n \n\n(1) El número de pruebas efectuadas. \n\n(2) La mediana y la moda de los tiempos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 52,
+      "enunciado": "52. Del conjunto de datos {1, 2, 2, 4, 5, 5, 6, 7, 7, 8, 9}, ¿cuál es el dato que corresponde \n\nal primer cuartil?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "1,5"
+        },
+        {
+          "letra": "D",
+          "texto": "2,5"
+        },
+        {
+          "letra": "E",
+          "texto": "3 21"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 53,
+      "enunciado": "53. De acuerdo al gráfico de la figura adjunta que representa el número de trabajadores de \n\nuna empresa y la cantidad de veces que asiste al cine en un año, donde los intervalos \nson de la forma [ , [ y el último de la forma [ , ]. ¿Cuál(es) de las siguientes \nafirmaciones es (son) verdadera(s)? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nVeces \nque \nasiste al cine \n \n\n \n\n120 \n\n90 \n\n60\n\n30 \n\n0 \n\n10 \n20 \n30 \n50 \n40 \nNº \nde \ntrabajadores \n\nI) \nLos intervalos modales corresponden a [0 – 10[  y  [30 – 40[. \nII) \nEl tercer cuartil está en el intervalo [30 – 40[. \nIII) \nEl intervalo donde se encuentra la mediana es [20 - 30[",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p22_img0.jpg"
+      ]
+    },
+    {
+      "numero": 54,
+      "enunciado": "54. La tabla muestra la distribucion de 100 datos, ¿cuál(es) de las afirmaciones es (son) \n\nverdadera(s)? \n \n \n\nI) \nEl primer cuartil está en el segundo intervalo. \nII) \nEl séptimo decil está en el intervalo [35,40[. \nIII) \nLa mediana está en el intervalo modal. \n \n\n \n\nIntervalo Frecuencia \n\n[20,25[ \n16 \n[25,30[ \n21 \n[30,35[ \n18 \n[35,40[ \n22 \n[40,45[ \n15 \n[45,50[ \n8",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 22"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p22_img0.jpg"
+      ]
+    },
+    {
+      "numero": 55,
+      "enunciado": "55. La siguiente tabla muestra el número de personas a bordo de un vehículo que pasan \n\npor cierta intersección de calles. ¿Cuáles de las siguientes afirmaciones son \nverdaderas? \n \n\nI) \nEl percentil 75 corresponde al dato 3. \nII) \nEl decil 9 corresponde al dato 4. \nIII) \nEl tercer quintil corresponde al dato 2. \n \n \n\nNº Personas \nFrecuencia \n1 \n200 \n2 \n410 \n3 \n150 \n4 \n150 \n5 \n90",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas."
+        }
+      ],
+      "pagina": 23,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p23_img0.jpg"
+      ]
+    },
+    {
+      "numero": 56,
+      "enunciado": "56. La tabla adjunta muestra las edades de un grupo de jóvenes \n\n \n \n \n \n \n \nEs correcto afirmar que \n \n\nEdades \nf \n[10 – 14[ \n5 \n[14 – 18[ \n12 \n[18 – 22[ \n23 \n[22 – 26[ \n2 \n \n\nI) \nel primer cuartil se encuentra en el segundo intervalo. \nII) \nel percentil 45 se encuentra en el tercer intervalo. \nIII) \nel rango es 12.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p23_img0.jpg"
+      ]
+    },
+    {
+      "numero": 57,
+      "enunciado": "57. La tabla muestra las notas obtenidas por todos los alumnos de un curso en una prueba \n\n \n  \n \n \n \n \n \n \n \nDe acuerdo a la tabla, es correcto afirmar que \n\nNotas  \nfrecuencia  \n[1,0 – 2,0[ \n2 \n[2,0 – 3,0[ \n3 \n[3,0 – 4,0[ \n10 \n[4,0 – 5,0[ \n15 \n[5,0 – 6,0[ \n9 \n[6,0 – 7,0] \n6",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "el primer cuartil se ubica en el intervalo [1,0 – 2,0[."
+        },
+        {
+          "letra": "B",
+          "texto": "el intervalo modal es [3,0 – 4,0[."
+        },
+        {
+          "letra": "C",
+          "texto": "la mediana se ubica en el intervalo [3,0 – 4,0[."
+        },
+        {
+          "letra": "D",
+          "texto": "el séptimo decil se ubica en el intervalo [5,0 – 6,0[."
+        },
+        {
+          "letra": "E",
+          "texto": "la media aritmética es menor que 4,0. 23"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p23_img0.jpg"
+      ]
+    },
+    {
+      "numero": 58,
+      "enunciado": "58. La estatura de un grupo de estudiantes se muestra en la tabla adjunta, según esta \n\ninformación, ¿cuál de las siguientes afirmaciones es verdadera? \n\n \n \n\nEstatura \nM. de Clase \nFrec. Abs \n[150 - 160[ \n155 \n12 \n[160 - 170[ \n165 \n8 \n[170 - 180[ \n175 \n15 \n[180 - 190] \n185 \n5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La moda es 175 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "El percentil 50 (mediana) está en el segundo intervalo."
+        },
+        {
+          "letra": "C",
+          "texto": "El percentil 70 está en el tercer intervalo."
+        },
+        {
+          "letra": "D",
+          "texto": "El percentil 35 está en el primer intervalo."
+        },
+        {
+          "letra": "E",
+          "texto": "El rango es 30 cm."
+        }
+      ],
+      "pagina": 24,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p24_img0.jpg"
+      ]
+    },
+    {
+      "numero": 59,
+      "enunciado": "59. Un estudiante que rindió la PSU de matemática en noviembre del año pasado obtuvo                \n\n667 puntos. Se puede asegurar que su puntaje fue superior al 85% de los puntajes \nobtenidos por el resto de los postulantes, si: \n \n\n(1) Su puntaje se ubica en el percentil 87. \n\n(2) Su puntaje es superior al que se ubica en el tercer cuartil.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 60,
+      "enunciado": "60. ¿Cuál es la varianza de un conjunto de 5 números pares consecutivos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "8"
+        },
+        {
+          "letra": "E",
+          "texto": "11"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 61,
+      "enunciado": "61. La desviación estándar de los datos :  x – 4;  x – 2;  x;  x + 2;  x + 4 es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "8"
+        },
+        {
+          "letra": "E",
+          "texto": "8 24"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 62,
+      "enunciado": "62. En una prueba de matemática los resultados fueron tan bajos que el profesor decidió \n\notorgar a todos 1 punto base adicional. ¿Cuál de las siguientes afirmaciones es \ncorrecta, respecto de los nuevos resultados?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El rango aumentó en una unidad."
+        },
+        {
+          "letra": "B",
+          "texto": "La varianza aumentó en una unidad."
+        },
+        {
+          "letra": "C",
+          "texto": "El promedio y la varianza aumentaron en una unidad."
+        },
+        {
+          "letra": "D",
+          "texto": "La varianza se mantuvo constante."
+        },
+        {
+          "letra": "E",
+          "texto": "La varianza disminuyó en una unidad."
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    },
+    {
+      "numero": 63,
+      "enunciado": "63. Sea p la desviación estándar de los 5 primeros números primos. Si se resta 1, a cada \n\nuno de estos números, entonces la varianza del nuevo conjunto de números es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p – 5"
+        },
+        {
+          "letra": "B",
+          "texto": "5 – p"
+        },
+        {
+          "letra": "C",
+          "texto": "(p – 5)2"
+        },
+        {
+          "letra": "D",
+          "texto": "p2"
+        },
+        {
+          "letra": "E",
+          "texto": "p2 – 5"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    },
+    {
+      "numero": 64,
+      "enunciado": "64. Si los datos de la tabla se triplican. ¿Cuál es la nueva desviación estándar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,2"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "19,8 2 5 3 5 1 3 1 3 5 2"
+        },
+        {
+          "letra": "D",
+          "texto": "9"
+        },
+        {
+          "letra": "E",
+          "texto": "19,8"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p25_img0.jpg"
+      ]
+    },
+    {
+      "numero": 65,
+      "enunciado": "65. La tabla adjunta muestra la función de probabilidad de una variable aleatoria X. Según \n\nlos datos expuestos en esta tabla, la desviación estándar es \n \n \n\nXi \nP(xi) \nX · P(xi) \n5 \n5x \n25x \n10 \n3x \n30x \n15 \n2x \n30x \n\n2\n2\n2\n(5  8,5)   0,5 + (10  8,5)   0,3 + (15  8,5)   0,2\n\n4\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": "2 2 2 (5 85) 5 + (10 85) 3 + (15 85) 2      "
+        },
+        {
+          "letra": "C",
+          "texto": "2 2 2 (5x 8,5) 0,5 + (10x 8,5) 0,3 + (15x 8,5) 0,2      "
+        },
+        {
+          "letra": "D",
+          "texto": "2 2 2 (5 8,5) 0,5 + (10 8,5) 0,3 + (15 8,5) 0,2      "
+        },
+        {
+          "letra": "E",
+          "texto": "2 2 2 (5 8,5) 5 + (10 8,5) 3 + (15 8,5) 2       25"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p25_img0.jpg"
+      ]
+    },
+    {
+      "numero": 66,
+      "enunciado": "66. Con respecto a los conjuntos: A = {1, 2, 3};  B = {3, 4, 5}  y  C = {3, 6, 9}. ¿Cuál(es) \n\nde las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa desviación estándar de los conjuntos A y B son iguales. \nII) \nLa varianza del conjunto C es equivalente a nueve veces la varianza del \nconjunto A. \nIII) \nLos elementos del conjunto C son más dispersos que los elementos de los \nconjuntos A y B.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 67,
+      "enunciado": "67. Sea a, b y c los datos de una muestra estadística, donde  corresponde a su desviación \n\nestándar; si cada dato disminuye a su tercera parte. La nueva desviación estándar es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 "
+        },
+        {
+          "letra": "B",
+          "texto": "2  3"
+        },
+        {
+          "letra": "C",
+          "texto": "9 "
+        },
+        {
+          "letra": "D",
+          "texto": "4  9"
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 68,
+      "enunciado": "68. Para los cursos de Tercero Medio A y B, se ha determinado el promedio de notas ( x ) y \n\nsus respectivas desviaciones estándar (), según se muestra en la tabla. Entonces, \n¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \nEl 3°A tiene mayor promedio que el 3°B. \nII) \nLos alumnos del 3°B tienen un rendimiento académico más heterogéneo \nque los alumnos del curso 3°A. \nIII) \nAproximadamente, el 68% del 3°A tiene promedio entre 5,0 y 6,2. \n \n \n\n3°A \n3°B",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III x  x  5,6 0,6 5,2 1,2 26"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p26_img0.jpg"
+      ]
+    },
+    {
+      "numero": 69,
+      "enunciado": "69. Para   asociar   la  nota  al  puntaje obtenido un profesor utiliza la siguiente relación \n\nNota = 0,08 · puntaje + 1,4. Si la desviación estándar de las notas es  = 2,4, \n¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa varianza de las notas es 5,76. \nII) \nLa desviación estándar de los puntajes es 30. \nIII) \nEl rango de las notas obtenidas es 6.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 70,
+      "enunciado": "70. ¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n \n\nI) \nSi la desviación estándar es 4, entonces  la varianza es 16. \nII) \nSi \ntodos \nlos \ndatos \nnuméricos \nde \nuna \npoblación \ndifieren \nen  \n2 con respecto a su promedio, entonces la varianza de esta población es \n\n2 . \nIII) \nSi la varianza es un número irracional, entonces la desviación estándar es \ntambién un número irracional.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 71,
+      "enunciado": "71. En una automotora, la desviación estándar de la cantidad de autos vendidos por día es \n\n2,5. Si la ganancia (G) se calcula como G(x) = 3.000.000x – 200.000, siendo x la \ncantidad de autos vendidos, entonces la desviación estándar de las ganancias diarias es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7.300.000"
+        },
+        {
+          "letra": "B",
+          "texto": "2.800.000"
+        },
+        {
+          "letra": "C",
+          "texto": "7.000.000"
+        },
+        {
+          "letra": "D",
+          "texto": "7.500.000"
+        },
+        {
+          "letra": "E",
+          "texto": "No se puede determinar. 27"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 72,
+      "enunciado": "72. Se puede determinar la varianza de una población, si: \n\n \n(1) El promedio de la población es 108. \n(2) Se sabe que todos los datos difieren en dos unidades del promedio.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) o (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 73,
+      "enunciado": "73. Si el cuádruplo del número de variaciones sin repetición de n objetos tomados de 3 en \n\n3 es igual al quíntuplo del número de variaciones sin repetición de (n – 1) objetos \ntomados de 3 en 3, entonces el valor de n es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "15"
+        },
+        {
+          "letra": "C",
+          "texto": "16"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        },
+        {
+          "letra": "E",
+          "texto": "25"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 74,
+      "enunciado": "74. Un consultorio cuenta con 8 médicos y 6 enfermeras, ¿de cuántas formas distintas se \n\npuede hacer un turno si deben haber 4 médicos y 3 enfermeras?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "90"
+        },
+        {
+          "letra": "B",
+          "texto": "840"
+        },
+        {
+          "letra": "C",
+          "texto": "1.400"
+        },
+        {
+          "letra": "D",
+          "texto": "71"
+        },
+        {
+          "letra": "E",
+          "texto": "50"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 75,
+      "enunciado": "75. En una oficina de isapre que tiene once ventanillas para atención al público las cuales \n\npueden estar abiertas o cerradas. ¿De cuántas formas diferentes se pueden observar \nlas ventanillas cerradas en un determinado instante, sabiendo que exactamente cuatro \nde ellas están cerradas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "340"
+        },
+        {
+          "letra": "B",
+          "texto": "330"
+        },
+        {
+          "letra": "C",
+          "texto": "320"
+        },
+        {
+          "letra": "D",
+          "texto": "310"
+        },
+        {
+          "letra": "E",
+          "texto": "300 28"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 76,
+      "enunciado": "76. ¿De cuántas maneras diferentes se podrán ubicar tres matrimonios en una fila de \n\nasientos, si cada matrimonio deben estar siempre juntos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "24"
+        },
+        {
+          "letra": "D",
+          "texto": "48"
+        },
+        {
+          "letra": "E",
+          "texto": "52"
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 77,
+      "enunciado": "77. En cierta empresa se desea crear códigos alfa- numéricos de 5 caracteres, los primeras \n\ntres posiciones son dígitos y las restantes vocales. Si los dígitos no se pueden repetir, \npero si las vocales, entonces ¿cuántos códigos distintos se pueden crear?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "103 · 25"
+        },
+        {
+          "letra": "B",
+          "texto": "720 · 25"
+        },
+        {
+          "letra": "C",
+          "texto": "103 · 20"
+        },
+        {
+          "letra": "D",
+          "texto": "720 · 20"
+        },
+        {
+          "letra": "E",
+          "texto": "Otro valor."
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 78,
+      "enunciado": "78. De cuántas maneras se pueden ubicar siete personas alrededor de una mesa redonda \n\ncon 7 sillas  si dos de ellas NO deben estar juntas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "480"
+        },
+        {
+          "letra": "B",
+          "texto": "540"
+        },
+        {
+          "letra": "C",
+          "texto": "600"
+        },
+        {
+          "letra": "D",
+          "texto": "720"
+        },
+        {
+          "letra": "E",
+          "texto": "5040"
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 79,
+      "enunciado": "79. Si una caja contiene 9 tarjetas con 6 consonantes distintas y 3 vocales distintas, \n\nimpresas en ellas, entonces ¿cuántas palabras se pueden formar con 2 vocales y  \n3 consonantes sin que dos de éstas puedan estar juntas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24"
+        },
+        {
+          "letra": "B",
+          "texto": "210"
+        },
+        {
+          "letra": "C",
+          "texto": "520"
+        },
+        {
+          "letra": "D",
+          "texto": "720"
+        },
+        {
+          "letra": "E",
+          "texto": "5040 29"
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 80,
+      "enunciado": "80. Los elementos de una población son {5, A, B, C, D}, en la tabla adjunta se muestran \n\nlos resultados de 3 muestras, de un total de 10, que se obtienen de esta población de \ntamaño 3. Si la media aritmética de esta población es 8,4, ¿cuáles son los valores de A \ny C, respectivamente? \n\n \n \n\nMuestra \nX  \n{5, A, C} \n7 \n{5, C, D} \n9 \n{A, B, C} \n8",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9 y 13"
+        },
+        {
+          "letra": "B",
+          "texto": "8 y 9"
+        },
+        {
+          "letra": "C",
+          "texto": "7 y 8"
+        },
+        {
+          "letra": "D",
+          "texto": "7 y 9"
+        },
+        {
+          "letra": "E",
+          "texto": "8 y 13"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p30_img0.jpg"
+      ]
+    },
+    {
+      "numero": 81,
+      "enunciado": "81. Un examen consta de doce preguntas, de las cuales Karina debe contestar solo siete \n\npreguntas. Si de las seis primeras preguntas debe contestar por lo menos cuatro, ¿de \ncuántas maneras diferentes podrá rendir su examen?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "256"
+        },
+        {
+          "letra": "B",
+          "texto": "266"
+        },
+        {
+          "letra": "C",
+          "texto": "231"
+        },
+        {
+          "letra": "D",
+          "texto": "396"
+        },
+        {
+          "letra": "E",
+          "texto": "403"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    },
+    {
+      "numero": 82,
+      "enunciado": "82. En un concurso de arte los participantes deben utilizar algunas de las técnicas que a \n\ncontinuación se mencionan: acuarela, aerografía, fresco, gouache, tinta y pintura al \npastel. ¿De cuántas formas distintas pueden ser elegidas dos de estas técnicas por un \nparticipante, si el orden en que se apliquen no importan?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30"
+        },
+        {
+          "letra": "B",
+          "texto": "15"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "12"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    },
+    {
+      "numero": 83,
+      "enunciado": "83. Para la ceremonia de graduación los alumnos deben ir de dos en dos. Si el curso es de  \n\n30 alumnos, ¿cuál es el número de combinaciones de parejas que se pueden formar \ncon todos los alumnos del curso, sin importar el orden?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "435"
+        },
+        {
+          "letra": "B",
+          "texto": "420"
+        },
+        {
+          "letra": "C",
+          "texto": "335"
+        },
+        {
+          "letra": "D",
+          "texto": "310"
+        },
+        {
+          "letra": "E",
+          "texto": "270 30"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    },
+    {
+      "numero": 84,
+      "enunciado": "84. En una gelatería existen 20 sabores distintos de helados. Si quiero comer una copa de \n\nhelado con tres sabores diferentes, ¿cuántas copas podría elegir, sin importar el orden?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1.140"
+        },
+        {
+          "letra": "B",
+          "texto": "2.280"
+        },
+        {
+          "letra": "C",
+          "texto": "3.420"
+        },
+        {
+          "letra": "D",
+          "texto": "4.560"
+        },
+        {
+          "letra": "E",
+          "texto": "6.840"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": []
+    },
+    {
+      "numero": 85,
+      "enunciado": "85. El entrenador de un equipo de futbol dispone de 22 jugadores y debe elegir dos de ellos \n\npara sacarlos del equipo. ¿De cuántas maneras distintas puede realizar esta elección el \nentrenador?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "20"
+        },
+        {
+          "letra": "C",
+          "texto": "231"
+        },
+        {
+          "letra": "D",
+          "texto": "462"
+        },
+        {
+          "letra": "E",
+          "texto": "484"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": []
+    },
+    {
+      "numero": 86,
+      "enunciado": "86. Se deben apilar 10 piezas de legos, entre las cuales hay 2 azules, 3 blancas, 3 rojas, \n\nuna amarilla y una verde. ¿De cuántas maneras distintas se podría realizar esta \nactividad?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18"
+        },
+        {
+          "letra": "B",
+          "texto": "36"
+        },
+        {
+          "letra": "C",
+          "texto": "72"
+        },
+        {
+          "letra": "D",
+          "texto": "25.200"
+        },
+        {
+          "letra": "E",
+          "texto": "50.400"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": []
+    },
+    {
+      "numero": 87,
+      "enunciado": "87. Una población está compuesta de 10 elementos. ¿Cuántas muestras, con orden y con \n\nreposición, de tamaño 2, se pueden extraer de la población?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "20"
+        },
+        {
+          "letra": "D",
+          "texto": "50"
+        },
+        {
+          "letra": "E",
+          "texto": "100"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": []
+    },
+    {
+      "numero": 88,
+      "enunciado": "88. En una población compuesta por los números 1, 2 y 3, ¿cuál es el mayor error muestral \n\nal extraer muestras de tamaño 2, con reposición y con orden?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "5 31"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": []
+    },
+    {
+      "numero": 89,
+      "enunciado": "89. ¿Cuántos números de tres cifras se pueden formar con los 4 menores números primos, \n\ndonde se pueden repetir los números?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16"
+        },
+        {
+          "letra": "B",
+          "texto": "32"
+        },
+        {
+          "letra": "C",
+          "texto": "256"
+        },
+        {
+          "letra": "D",
+          "texto": "128"
+        },
+        {
+          "letra": "E",
+          "texto": "64"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 90,
+      "enunciado": "90. Un \ncolegio \ntiene \n80 \nsalas \ny \nlas \nquiere \nidentificar \ncon \nun \nnúmero \nde  \ndos cifras distintas. Si utiliza los dígitos del 1 al 9, ¿cuántas salas quedan sin esa \nidentificación?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "72"
+        },
+        {
+          "letra": "B",
+          "texto": "24"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna."
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 91,
+      "enunciado": "91. ¿Cuántos números de 10 cifras se pueden formar con los números 3, 3, 5, 5, 5, 5, 5, 7, 7, 7?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "120"
+        },
+        {
+          "letra": "B",
+          "texto": "2.520"
+        },
+        {
+          "letra": "C",
+          "texto": "25.200"
+        },
+        {
+          "letra": "D",
+          "texto": "362.880"
+        },
+        {
+          "letra": "E",
+          "texto": "3.628.800"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 92,
+      "enunciado": "92. El número de teléfono de Marcela es 78778678. ¿Cuántos números telefónicos \n\ndiferentes al de Marcela existen usando los mismos dígitos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8!"
+        },
+        {
+          "letra": "B",
+          "texto": "4! ∙ 3!"
+        },
+        {
+          "letra": "C",
+          "texto": "280"
+        },
+        {
+          "letra": "D",
+          "texto": "8! 4!3! - 1"
+        },
+        {
+          "letra": "E",
+          "texto": "8! 4!3! + 1"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 93,
+      "enunciado": "93. Considerando los números 2, 3, 5, 7. Si se toman muestras de tamaño  \n\n2 sin orden, ¿cuál es el promedio de todas las medias muestrales que se pueden \nextraer?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "4,25"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "3,8"
+        },
+        {
+          "letra": "E",
+          "texto": "4,5 32"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 94,
+      "enunciado": "94. Eduardo agrupa las edades de sus amigos en muestras de tamaño 2 sin repetición. Si \n\nlas edades de sus amigos son {13, 14, 15, 16, 17}, entonces el mayor error muestral \nes",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "13,5"
+        },
+        {
+          "letra": "B",
+          "texto": "16,5"
+        },
+        {
+          "letra": "C",
+          "texto": "0"
+        },
+        {
+          "letra": "D",
+          "texto": "-1,5"
+        },
+        {
+          "letra": "E",
+          "texto": "1,5"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 95,
+      "enunciado": "95. Para \nlas \nactividades \nextraprogramáticas \ndel \nColegio \nde \nJuan \nLuis \nexisten  \n10 opciones de las cuales debe escoger tres de ellas por obligación. Si él descartó \ncuatro de ellas, porque tienen relación con bailar, ¿de cuántas formas pueden hacer su \nelección, sin importar el orden?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "720"
+        },
+        {
+          "letra": "B",
+          "texto": "120"
+        },
+        {
+          "letra": "C",
+          "texto": "20"
+        },
+        {
+          "letra": "D",
+          "texto": "15"
+        },
+        {
+          "letra": "E",
+          "texto": "6"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 96,
+      "enunciado": "96. En un torneo de natación se tienen 3 categorías diferentes, 50, 100 y  \n\n200 metros libres. Si para cada categoría existen 4 estilos: mariposa, espalda, pecho, \ncrol y un nadador solo puede competir en 2 estilos diferentes por categoría, ¿cuántas \nmaneras diferentes tiene para hacer su elección, sin orden?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "18"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "36"
+        },
+        {
+          "letra": "E",
+          "texto": "12"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 97,
+      "enunciado": "97. Se tiene una población compuesta por los elementos {100, 120, 300, 320, 400, 450}, \n\n¿cuántas posibles muestras de tamaño 3, sin orden y sin reposición, como máximo, se \npueden obtener de esta población?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "216"
+        },
+        {
+          "letra": "B",
+          "texto": "120"
+        },
+        {
+          "letra": "C",
+          "texto": "30"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        },
+        {
+          "letra": "E",
+          "texto": "15 33"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 98,
+      "enunciado": "98. Todos los elementos de una población son: P, Q y R, los cuales corresponden a \n\nnúmeros enteros positivos. En las tablas adjuntas se muestran los resultados de dos \nexperimentos realizados con esta población. En cada una se sacaron dos muestras \ndistintas de tamaño dos de la población y se registró la media de cada una de ellas. \n¿Cuál es la media aritmética de esa población? \n \n \n\nExperimento 1 \n \nExperimento 2 \nMuestra \nMedia de \nla muestra \n\n \nMuestra \nMedia de \nla muestra \n{P,Q} \n7 \n \n{P,Q} \n7 \n{P,R} \n8 \n \n{Q,R} \n5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "5,6"
+        },
+        {
+          "letra": "C",
+          "texto": "6,6"
+        },
+        {
+          "letra": "D",
+          "texto": "5,6"
+        },
+        {
+          "letra": "E",
+          "texto": "5,5"
+        }
+      ],
+      "pagina": 34,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p34_img0.jpg"
+      ]
+    },
+    {
+      "numero": 99,
+      "enunciado": "99. Se  tiene  una  población  compuesta  por  las  fichas  1,  2,  2,  4  y  7, distintas entre \n\nsí.  ¿Cuál es la cantidad de todas las posibles muestras (sin reposición), importando el \norden, de tamaño 2 que pueden extraerse  desde  esta población?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        },
+        {
+          "letra": "E",
+          "texto": "25"
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    },
+    {
+      "numero": 100,
+      "enunciado": "100. Con los elementos del conjunto {a, b, 2a, 2b, 3a, 3b, 4a, 4b}. Se obtienen muestras de \n\n2 elementos. Se puede determinar el valor esperado del promedio de las muestras, si: \n \n(1) El muestreo es sin reposición. \n(2) Se conoce el valor de a y b.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 34"
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    },
+    {
+      "numero": 101,
+      "enunciado": "101. De una población de 5 elementos distintos se extraen 10 muestras (sin reposición y sin \n\norden) de tamaño 2. Se puede determinar la media de la población, si se conoce: \n \n\n(1) La media aritmética de cada muestra. \n(2) Que las 10 muestras son todas las muestras posibles de extraer.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 35,
+      "imagenes": []
+    },
+    {
+      "numero": 102,
+      "enunciado": "102. Se puede determinar la media de una población de 10 elementos, si: \n \n\n(1) Se conoce el número de muestras de tamaño 2 que se pueden obtener de la \n\npoblación. \n(2) La suma de las medias de todas las muestras de tamaño 3 que se pueden obtener.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 35,
+      "imagenes": []
+    },
+    {
+      "numero": 103,
+      "enunciado": "103. Se puede determinar la media aritmética de una población de tamaño n de la cual se \n\nhan tomado todas las muestras de tamaño m que es posible, si se conoce: \n \n\n(1) El valor de n. \n(2) El valor de m.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 35,
+      "imagenes": []
+    },
+    {
+      "numero": 104,
+      "enunciado": "104. De \nun \ngrupo \nde \n100 \ntrabajadores \nse \ndebe \nescoger \nun \ncomité \nde  \n10 participantes para debatir en torno  a las condiciones laborales de su empresa, ¿de \ncuántas formas se puede escoger este comité? \n\n \n(1) El comité debe estar formado solo por 6 mujeres. \n\n(2) El comité debe estar formado solo por 4 hombres.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 35"
+        }
+      ],
+      "pagina": 35,
+      "imagenes": []
+    },
+    {
+      "numero": 105,
+      "enunciado": "105. En una bandeja hay a arándanos y f frutillas. Si se extraen 2 frutas al azar sin \n\nreposición, ¿cuál es la probabilidad de obtener frutas distintas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a f a + f a + f "
+        },
+        {
+          "letra": "B",
+          "texto": "a f 2 · · a + f a + f"
+        },
+        {
+          "letra": "C",
+          "texto": "a f a + f a + f 1  "
+        },
+        {
+          "letra": "D",
+          "texto": "a f 2 · a + f a + f 1  "
+        },
+        {
+          "letra": "E",
+          "texto": "a f 4 · a + f a + f 1  "
+        }
+      ],
+      "pagina": 36,
+      "imagenes": []
+    },
+    {
+      "numero": 106,
+      "enunciado": "106. En una rifa con 300 números, la cantidad de números que hay que comprar para tener \n\nun 6% de probabilidad de ganar es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20"
+        },
+        {
+          "letra": "B",
+          "texto": "18"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "10"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "pagina": 36,
+      "imagenes": []
+    },
+    {
+      "numero": 107,
+      "enunciado": "107. Una bolsa contiene 3 lápices negros y 5 azules, todos de igual peso y tamaño. Si se \n\nextrae un lápiz al azar y se devuelve a la bolsa repitiéndose varias veces este proceso, \nes correcto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "por cada 5 lápices azules extraídos, 3 son negros."
+        },
+        {
+          "letra": "B",
+          "texto": "la frecuencia relativa de extraer un lápiz negro es aproximadamente 0,375."
+        },
+        {
+          "letra": "C",
+          "texto": "si se hacen 8 extracciones, 5 veces saldrá un lápiz azul."
+        },
+        {
+          "letra": "D",
+          "texto": "al extraer un lápiz negro disminuye la probabilidad de que en la próxima extracción se obtenga también un negro."
+        },
+        {
+          "letra": "E",
+          "texto": "la probabilidad de obtener dos azules es 5 14 ."
+        }
+      ],
+      "pagina": 36,
+      "imagenes": []
+    },
+    {
+      "numero": 108,
+      "enunciado": "108. La siguiente tabla muestra la distribución de las edades de un grupo de personas que \n\ntrabajan en una pequeña tienda. Si se selecciona una persona al azar, entonces la \nprobabilidad de que la persona tenga a lo menos 26 años es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 10 Edades (x) f [17 – 25] 15 [26 – 34] 23 [35 – 43] 7 ≥ 44 5"
+        },
+        {
+          "letra": "B",
+          "texto": "3 10"
+        },
+        {
+          "letra": "C",
+          "texto": "19 25"
+        },
+        {
+          "letra": "D",
+          "texto": "7 10"
+        },
+        {
+          "letra": "E",
+          "texto": "1 36"
+        }
+      ],
+      "pagina": 36,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p36_img0.jpg"
+      ]
+    },
+    {
+      "numero": 109,
+      "enunciado": "109. La tabla muestra los resultados obtenidos en una prueba. Si se escoge un alumno al \n\nazar, ¿cuál es la probabilidad de que su nota sea menor que 4? \n \n\nNotas \nf \n[2 – 3[ \n   3 \n[3 – 4[ \n   6 \n[4 – 5[ \n 12 \n[5 – 6[ \n 10 \n[6 – 7[ \n   5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20%"
+        },
+        {
+          "letra": "B",
+          "texto": "25%"
+        },
+        {
+          "letra": "C",
+          "texto": "30%"
+        },
+        {
+          "letra": "D",
+          "texto": "35%"
+        },
+        {
+          "letra": "E",
+          "texto": "40%"
+        }
+      ],
+      "pagina": 37,
+      "imagenes": [
+        "Tutoria 4 Datos y Azar_p37_img0.jpg"
+      ]
+    },
+    {
+      "numero": 110,
+      "enunciado": "110. Dos personas piensan un número del conjunto {1, 2, 3, 4, 5, 6}, ¿cuál es la \n\nprobabilidad que piensen el mismo número? \n\n \n\n6\n1\n6\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": "1 36"
+        },
+        {
+          "letra": "C",
+          "texto": "1 6"
+        },
+        {
+          "letra": "D",
+          "texto": "1 3"
+        },
+        {
+          "letra": "E",
+          "texto": "1 2"
+        }
+      ],
+      "pagina": 37,
+      "imagenes": []
+    },
+    {
+      "numero": 111,
+      "enunciado": "111. La probabilidad de ganar un juego es 0,32 y la probabilidad de perderlo es 0,58. ¿Cuál \n\nes la probabilidad que no se haya perdido ni ganado el juego?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,90"
+        },
+        {
+          "letra": "B",
+          "texto": "0,58"
+        },
+        {
+          "letra": "C",
+          "texto": "0,32"
+        },
+        {
+          "letra": "D",
+          "texto": "0,10"
+        },
+        {
+          "letra": "E",
+          "texto": "0,00"
+        }
+      ],
+      "pagina": 37,
+      "imagenes": []
+    },
+    {
+      "numero": 112,
+      "enunciado": "112. Se tienen un dado común,  una moneda de $ 50 y otra de $ 10. Si se lanza la moneda \n\nde $ 50, luego el dado y a continuación la moneda de $ 10, ¿cuál es la probabilidad que \nsalga un sello, un número mayor que 2 y finalmente una cara?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 3"
+        },
+        {
+          "letra": "B",
+          "texto": "5 24"
+        },
+        {
+          "letra": "C",
+          "texto": "1 6"
+        },
+        {
+          "letra": "D",
+          "texto": "1 2"
+        },
+        {
+          "letra": "E",
+          "texto": "1 8 37"
+        }
+      ],
+      "pagina": 37,
+      "imagenes": []
+    },
+    {
+      "numero": 113,
+      "enunciado": "113. Al lanzar un dado, ¿cuál es la probabilidad de obtener el número 3 o un número impar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "75%"
+        },
+        {
+          "letra": "B",
+          "texto": "66 2 3 %"
+        },
+        {
+          "letra": "C",
+          "texto": "50%"
+        },
+        {
+          "letra": "D",
+          "texto": "33 1 3 %"
+        },
+        {
+          "letra": "E",
+          "texto": "25%"
+        }
+      ],
+      "pagina": 38,
+      "imagenes": []
+    },
+    {
+      "numero": 114,
+      "enunciado": "114. En un curso de 40 alumnos, la probabilidad de escoger una mujer es 3\n\n8 , ¿cuántos \n\nhombres hay en el curso?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "25"
+        },
+        {
+          "letra": "E",
+          "texto": "30"
+        }
+      ],
+      "pagina": 38,
+      "imagenes": []
+    },
+    {
+      "numero": 115,
+      "enunciado": "115. ¿Cuál es la probabilidad de que un número sacado al azar del conjunto de números   \n\n{2, 1, 4, 2, 3, 3, 4, 3, 4, 4}, sea la media aritmética de dichos números?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0"
+        },
+        {
+          "letra": "B",
+          "texto": "1 10"
+        },
+        {
+          "letra": "C",
+          "texto": "1 5"
+        },
+        {
+          "letra": "D",
+          "texto": "3 10"
+        },
+        {
+          "letra": "E",
+          "texto": "2 5"
+        }
+      ],
+      "pagina": 38,
+      "imagenes": []
+    },
+    {
+      "numero": 116,
+      "enunciado": "116. Una caja contiene 42 lápices entre negros y rojos, siendo el doble de negros que de \n\nrojos, si se escoge uno al azar, entonces ¿cuál es la probabilidad de que al sacar un \nlápiz, este sea rojo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "42 14"
+        },
+        {
+          "letra": "B",
+          "texto": "42 28 1"
+        },
+        {
+          "letra": "C",
+          "texto": "42 14"
+        },
+        {
+          "letra": "D",
+          "texto": "28 3"
+        },
+        {
+          "letra": "E",
+          "texto": "42 38"
+        }
+      ],
+      "pagina": 38,
+      "imagenes": []
+    },
+    {
+      "numero": 117,
+      "enunciado": "117. Al lanzar un dado común, ¿cuál es la probabilidad de obtener un número menor que 4 o \n\nun número impar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 6"
+        },
+        {
+          "letra": "B",
+          "texto": "2 6"
+        },
+        {
+          "letra": "C",
+          "texto": "4 6"
+        },
+        {
+          "letra": "D",
+          "texto": "3 6"
+        },
+        {
+          "letra": "E",
+          "texto": "5 6"
+        }
+      ],
+      "pagina": 39,
+      "imagenes": []
+    },
+    {
+      "numero": 118,
+      "enunciado": "118. Si se lanzan dos monedas y un dado normal, ¿cuál es la probabilidad de obtener dos \n\ncaras y un número par?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,111"
+        },
+        {
+          "letra": "B",
+          "texto": "0,125"
+        },
+        {
+          "letra": "C",
+          "texto": "0,250"
+        },
+        {
+          "letra": "D",
+          "texto": "0,500"
+        },
+        {
+          "letra": "E",
+          "texto": "0,600"
+        }
+      ],
+      "pagina": 39,
+      "imagenes": []
+    },
+    {
+      "numero": 119,
+      "enunciado": "119. En una caja hay 8 tarjetas blancas y 9 celestes. Si se extraen al mismo tiempo y al azar \n\n3 tarjetas, ¿cuál es la probabilidad de que las tres sean del mismo color?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 34"
+        },
+        {
+          "letra": "B",
+          "texto": "6 35"
+        },
+        {
+          "letra": "C",
+          "texto": "7 85"
+        },
+        {
+          "letra": "D",
+          "texto": "8 85"
+        },
+        {
+          "letra": "E",
+          "texto": "9 85"
+        }
+      ],
+      "pagina": 39,
+      "imagenes": []
+    },
+    {
+      "numero": 120,
+      "enunciado": "120. Al lanzar 3 dados comunes, ¿cuál es la probabilidad de obtener 3 números iguales?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 3"
+        },
+        {
+          "letra": "B",
+          "texto": "1 6"
+        },
+        {
+          "letra": "C",
+          "texto": "1 12"
+        },
+        {
+          "letra": "D",
+          "texto": "1 36"
+        },
+        {
+          "letra": "E",
+          "texto": "1 216 39"
+        }
+      ],
+      "pagina": 39,
+      "imagenes": []
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "filename": "TEM 14.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 14.pdf",
+  "num_paginas": 6,
+  "titulo": "",
+  "autor": "Alvaro Martinez Martinez",
+  "fecha_procesamiento": "2026-03-07T16:02:23.057803",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "MATEMÁTICAS \nTALLER DE EJERCITACIÓN Nº 14 \n\n \n \n \n \n \n \n \n \n \n\nRAÍCES-POTENCIAS \nTEM-14 \n\n\n\n\n2\n2\n\nm\nm\nn\nn\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1. \nSi m = 52   y  n = 5, entonces \n\n = \n\n\n\n3\n\nm\n\n\n\n\n\n\n\n\nn\n\nA) 5 \nB) 10       \n\nC) 1\n\n \n\n5\n\nD) \n1\n10\n\n \n\n \n \n \n2. \n¿Cuál de las siguientes expresiones es igual a 1515 ? \n\n \nA) 715 + 815 \nB) 1516 – 15  \nC) 158 + 157 \nD) 15 · 1514        \n \n \n \n3. \nSi 3n = 243, entonces 15n = \n\n \nA) 55 · 243       \nB) 5 · 243 \nC) 5 · 2435 \nD) 55 · 2435 \n \n \n \n4. \n¿Cuándo se obtiene si la suma de 13k + 13k+1 se divide por 13k? \n\n \nA) 13 \nB) 14       \nC) 13k \nD) 13k+1 \n \n \n\n \n1\n",
+      "cantidad_caracteres": 605,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.3701171875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 16.0888671875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 126.4091796875
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "5. \n1\n2\n4\n5 10\n2 10\n10\n\n\n\n\n\n\n\n = \n \n \nA) 0,5201      \nB) 0,5021 \nC) 0,5210 \nD) 0,0521 \n \n \n \n6. \nSi \n4\n2 6\n4 3\n  y  B\nA\n(3 )\n3\n4\n(2\n)\n\n\n\n\n, entonces A : B = \n\n \nA) 22       \nB) 23 \nC) 24 \nD) 32 \n \n \n \n\n\n\n\n\n\n\n\n\n2\nk\n10\n\n7. \n¿Qué valor puede tomar k en la expresión \n\npara que esta tome el valor 25? \n\n \nA) -5 \nB) -2       \nC) -1 \nD) 0,5 \nE)  1 \n \n \n \n \n \n8. \n¿Cuál de las siguientes expresiones es igual a T1 – a – b ? \n\n \n\nA) \nb a\nT\nT  \n\na b\n\n\n\n1\nT\n\nB) \n\n\n \n\nT\n\na\n\nb\nT T\n\n\n \n\nC) \n\nT\n\nD) \na\nb\nT\nT\nT\n\n\n      \n\n \n \n \n \n \n \n \n\n \n2\n",
+      "cantidad_caracteres": 549,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "9. \nSi al producto am · ap  es igual al cuociente  aq\n\nap3 , entonces m es igual a \n\n \nA) q – p – p3        \n\nB) \n2\nq\np\n\n \n\nC) q – p2 \nD) q – 2p \n \n \n\n14\n13\nC\nC\n4C\n\n\n  sea igual  512 se tiene que cumplir que \n\n10. Para la expresión \n\n \nA) C = 0,5 \nB) C = 0,2 \nC) C = 5       \nD) C = 25 \n \n \n \n\n11. Al simplificar la expresión 2 5 + 10\n\n se obtiene \n\n5\n\n \nA) 2 3  \n\nB) 2 + 2       \n\nC) 2 + 10  \n\nD) 2 + 2 5  \n \n \n \n12. \n45 + 245  320\n\n = \n \n\nA) 2 5      \n\nB) 5 2  \n\nC) 18 5  \n\nD) \n12 2\n\n \n \n \n \n\n3\n = \n \n\n13. \n3 5\n\nA) \n15\n6\n \n\nB) \n135\n6\n     \n\nC) \n45\n6\n \n\nD) \n45\n5\n \n\n \n3\n",
+      "cantidad_caracteres": 574,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "14. \n6\n\n+\n8  = \n\n3\n\n \n\nA) \n2  \n\nB) 2 2  \n\nC) 3 2       \n\nD) \n14\n\n \n\n3\n\n \n \n \n\n15. \n12\n\n = \n\n27 +\n3\n\n \n\nA) 1\n\n3  \n\nB) 1\n\n2       \n\nC) 2 \n\nD) \n1\n\n \n\n3\n\n \n \n \n16. ¿Cuál de las siguientes igualdades es correcta? \n\n \n\nA) \n5\n3\n2\n\n\n \n\nB) \n3\n6\n2\n3\n6\n\n\n  \n\nC) \n4 =\n2      \n\n3\n= 2 \n \n \n \n \n\nD) \n8\n3\n: 2\n\n5\n3\n2\n\n? \n \n \nA) No es un número entero \nB) Es un número irracional \nC) Es un número negativo \nD) Es un número NO real       \n \n \n \n \n\n17. ¿Cuál de las siguientes afirmaciones es FALSA, respecto al número \n\n \n4\n",
+      "cantidad_caracteres": 510,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "18. Si \n0,3\n\n es igual a \n3\nN\n\n, entonces N es un número  \n\n16\n\n \n \nA) entero mayor que 10, pero menor que 14.     \nB) irracional menor que 4. \nC) entero múltiplo de 16. \nD) entero divisible por 16. \n \n \n \n\n19. ¿Qué valor debe tener w para que \n\n\n2\nw\n0,3\n\n sea igual a 0? \n\n \n\nA) 1\n\n      \n\n9\n\nB) 3 \nC) 9 \n\nD) \n1\n\n \n\n3\n\n \n \n \n\n20. \n6\n3\n\n2\n2\n2\n2\n\n\n\n\n = \n\n \nA) 3 \n\nB) \n2\n\n \n\n2\n\nC) 6\n9 2\n\n \n\nD) 6\n9 2\n2\n\n        \n\n \n \n \n\nk+4\nk\n\nk+3\n2\n  2  2\n\n\n\n\n21. Al simplificar \n\n se obtiene \n\n2  2\n\n\n\n \n \n\nA) \n7\n8         \n\nB) \n7\n4  \n\nC) \n1\n8  \n\nD) 1 – 2k \n \n\n \n5\n",
+      "cantidad_caracteres": 559,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "1\n\n\n\n\n\n\n\n\n\n\n\n2\n1\n\n2\n2\n\n22. La expresión \n\n es igual a la raíz cuadrada de  \n\n \nA) 2 \nB) \n2  \n\nC) 1\n\n2  \n\nD) \n1\n\n        \n\n2\n\n \n \n\n2\n-\n\n3\n4\n8\n + 0,25 + 4  (0,5)\n\n, entonces \n\n23. Si N = \n\n \n\nA) N = 2 \nB) N = 1        \n\nC) N = 1\n\n2  \n\nD) N = 1\n\n4  \n\n \n \n \n24. El resultado de la división mn : mn-2 es igual  \n \n\nA) al doble de m. \nB) al cuadrado de m.        \nC) a la mitad de m. \nD) a m elevado a n. \n \n \n \n \n25. ¿Cuál de las siguientes expresiones representa la quinta parte de 5555? \n \n \n\nA) 1555 \nB) 5111 \nC) 5554        \nD) 4555 \n\n \n \n \n \n \n \nTEM-14 \n\n \n6\n",
+      "cantidad_caracteres": 569,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "archivo_original": "TR 07.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TR 07.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 9,
+  "fecha_procesamiento": "2026-03-07T23:05:44.793193",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nAl punto (-7, 4) se le aplicó una traslación según el vector (3, -3) obteniéndose el \npunto (x, y). La suma x + y es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-3"
+        },
+        {
+          "letra": "B",
+          "texto": "-2"
+        },
+        {
+          "letra": "C",
+          "texto": "-1"
+        },
+        {
+          "letra": "D",
+          "texto": "0"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \n¿Cuál de las siguientes proposiciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Los trapecios isósceles tienen centro de simetría."
+        },
+        {
+          "letra": "B",
+          "texto": "Los hexágonos regulares no tienen centro de simetría."
+        },
+        {
+          "letra": "C",
+          "texto": "Los romboides tienen centro de simetría."
+        },
+        {
+          "letra": "D",
+          "texto": "Los pentágonos regulares tienen centro de simetría."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi el punto P(a, b) se refleja con respecto al eje de las ordenadas, obteniéndose como \nimagen el punto Q y si Q se refleja respecto al eje de las abscisas, entonces la imagen \nes un punto de coordenadas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-a, -b)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-b, -a)"
+        },
+        {
+          "letra": "C",
+          "texto": "(a, b)"
+        },
+        {
+          "letra": "D",
+          "texto": "(b, a)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TR 07_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn el plano cartesiano el punto B(-a, b) es reflexión del punto A, respecto del eje x. Si \na > 0 y b < 0, entonces es verdad que el punto A se ubica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "en el primer cuadrante."
+        },
+        {
+          "letra": "B",
+          "texto": "en el segundo cuadrante."
+        },
+        {
+          "letra": "C",
+          "texto": "en el tercer cuadrante."
+        },
+        {
+          "letra": "D",
+          "texto": "en el cuarto cuadrante. 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TR 07_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nSi el trazo AB con A(-4, 3) y B(8, 7) se rota en 180° en torno al origen se obtiene el \ntrazo A’B’. ¿Cuáles son las coordenadas del punto medio de A’B’?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-2, -5)"
+        },
+        {
+          "letra": "B",
+          "texto": "(5, 2)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-2, 5)"
+        },
+        {
+          "letra": "D",
+          "texto": "(2, -5)"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nAl punto P(3,-2) se aplica una rotación con centro O`(-1,2) de magnitud 90º en sentido \nhorario obteniéndose como imagen P`. El punto P`se ubica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "en el cuadrante I."
+        },
+        {
+          "letra": "B",
+          "texto": "en el cuadrante II."
+        },
+        {
+          "letra": "C",
+          "texto": "en el cuadrante III."
+        },
+        {
+          "letra": "D",
+          "texto": "en el cuadrante IV."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TR 07_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEn el plano cartesiano el punto P de coordenadas (m – 1, n) se rota en 270° en sentido \nantihorario y en torno al origen, obteniéndose el punto P’. ¿Cuál es la ordenada de P’?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "–n"
+        },
+        {
+          "letra": "B",
+          "texto": "m + 1"
+        },
+        {
+          "letra": "C",
+          "texto": "m – 1"
+        },
+        {
+          "letra": "D",
+          "texto": "1 – m"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TR 07_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nSi el punto A(-s, t) se refleja en torno al eje de las abscisas se obtiene el punto B, y si \néste se refleja en torno al eje de las ordenadas se obtiene el punto C. ¿Cuáles son las \ncoordenadas de C?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-s, t)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-t, s)"
+        },
+        {
+          "letra": "C",
+          "texto": "(s, -t)"
+        },
+        {
+          "letra": "D",
+          "texto": "(t, s) 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \n¿Cuáles son las coordenadas del punto P’, simétrico al punto P(2, 2) cuando éste se \nrefleja, respecto de la recta x = -2?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(6, 2)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-6, 2)"
+        },
+        {
+          "letra": "C",
+          "texto": "(6, -2)"
+        },
+        {
+          "letra": "D",
+          "texto": "(-4, -4)"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Al punto (a, b) se le aplican dos traslaciones: la primera según el vector (-5, -2) y la \n\nsegunda según el vector (0, -4) llegando así al punto (c, d). Si c = -7 y d = 2, entonces \na + b =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-6"
+        },
+        {
+          "letra": "B",
+          "texto": "-5"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Cierto rectángulo ABCD se ubica en el primer cuadrante con AB  paralelo al eje de las \n\nabscisas. Si A(1, n), B(7, 2) y D(1, n + 3) y este rectángulo se rota en 180° en torno al \norigen, ¿cuáles son las nuevas coordenadas de C?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-1, -4)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-7, -5)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-1, -5)"
+        },
+        {
+          "letra": "D",
+          "texto": "(-7, -4)"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Un triángulo ABC de vértices A(2,2), B(8,2) y C(6, 5) se refleja respecto de la recta de \n\necuación y + 1 = 0, obteniéndose como imagen el triángulo A’B’C’. ¿Cuánto suman las \nordenadas de los vértices del triángulo A’B’C’?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-15"
+        },
+        {
+          "letra": "B",
+          "texto": "-9"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "16 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TR 07_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. En el trazo AB se tiene que A = (-3, 4) y B = (3, -4), luego el punto medio de AB  es \n\npunto de intersección de las rectas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x + y = 0 y x – y = 0"
+        },
+        {
+          "letra": "B",
+          "texto": "x + y = 1 y x – y = -1"
+        },
+        {
+          "letra": "C",
+          "texto": "x + y = 0 y x – y = 1"
+        },
+        {
+          "letra": "D",
+          "texto": "x + y = 1 y x – y = 1"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Dos rotaciones de 45° en sentido horario en torno al origen equivalen a una única \n\nrotación en sentido antihorario de n°. Según esto, n =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "45°"
+        },
+        {
+          "letra": "B",
+          "texto": "90°"
+        },
+        {
+          "letra": "C",
+          "texto": "135°"
+        },
+        {
+          "letra": "D",
+          "texto": "270°"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. En el plano cartesiano, las coordenadas de dos vértices de un triángulo equilátero son \n\n(0, 0) y (-2, 0), siendo la suma de las coordenadas para el tercer vértice negativa. Si \nse somete al triángulo a una simetría axial respecto a la recta y = 0, ¿cuáles de las \nsiguientes son coordenadas del tercer vértice?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( 3 , -1)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-1, 3 )"
+        },
+        {
+          "letra": "C",
+          "texto": "(- 3 , -1)"
+        },
+        {
+          "letra": "D",
+          "texto": "(-1, - 3 ) 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "TR 07_p8_img0.jpg"
+      ]
+    }
+  ]
+}

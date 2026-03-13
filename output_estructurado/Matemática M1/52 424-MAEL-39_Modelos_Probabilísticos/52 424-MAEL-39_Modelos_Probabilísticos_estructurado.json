@@ -1,0 +1,569 @@
+{
+  "archivo_original": "52 424-MAEL-39_Modelos_Probabilísticos.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/1.Pedro De Valdivia/M2 Matematicas/Guias/Guias/52 424-MAEL-39_Modelos_Probabilísticos.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 9,
+  "fecha_procesamiento": "2026-03-07T22:38:06.137656",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nAl lanzar un dado 5 veces, ¿cuál es la probabilidad que en 4 de los lanzamientos se \nobtenga un número primo? \n\nCUADERNO DE EJERCICIOS N°34 \nMODELOS PROBABILÍSTICOS - DISTRIBUCIÓN BINOMIAL",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "32,92 %"
+        },
+        {
+          "letra": "B",
+          "texto": "15,625 %"
+        },
+        {
+          "letra": "C",
+          "texto": "31,25 %"
+        },
+        {
+          "letra": "D",
+          "texto": "6,58 %"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nUn juego de azar tiene una distribución binomial representada por B(15;0,3). ¿Cuál de \nlas siguientes expresiones representa la probabilidad que exactamente pierda en tres \nde los intentos? \n\n \n\n12\n3\n15\n3\n\n3\n7\nC\n · \n · \n10\n10\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 3 15 3 7 · · 10 10 12                  "
+        },
+        {
+          "letra": "B",
+          "texto": "12 3 15 15 13 · 14 · 15 3 · 7 · 1 · 2 · 3 2 · 5"
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": "Todas las expresiones representan la probabilidad."
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nUn dado trucado de cuatro caras, numeradas con los números 1, 2, 3 y 4, con \nprobabilidades 0,2; 0,1; 0,3; 0,4 de salir respectivamente. Si se lanza 12 veces, ¿cuál \nes la probabilidad de que en cuatro de los lanzamientos se obtenga un número primo? \n\n \n\n8\n4\n2\n3\n495 · \n · \n5\n5\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 4 12 2 3 · · 5 5 4                  "
+        },
+        {
+          "letra": "B",
+          "texto": "4 8 2 3 495 · · 5 5            "
+        },
+        {
+          "letra": "C",
+          "texto": "8 4 12 2 3 · · 5 5 8                  "
+        },
+        {
+          "letra": "D",
+          "texto": "Página 1"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn el lanzamiento de 10 monedas normales, ¿cuál es la probabilidad de obtener \nexactamente 6 sellos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 20"
+        },
+        {
+          "letra": "B",
+          "texto": "210 1024"
+        },
+        {
+          "letra": "C",
+          "texto": "1 1024"
+        },
+        {
+          "letra": "D",
+          "texto": "1 64"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nPara aprobar un examen tipo verdadero falso de 20 preguntas se debe responder \ncorrectamente, al menos, el 90% de las preguntas. Francisco responde completamente \nal azar esta prueba, ¿cuál es la probabilidad que lo apruebe? \n\n \n\n18\n19\n20\n1\n1\n1\n190 · \n + 20 · \n + 1 · \n2\n2\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18 19 20 1 1 1 + + 2 2 2                  "
+        },
+        {
+          "letra": "B",
+          "texto": "                           0 1 2 1 1 1 1 1 · + 20 · + 190 · 2 2 2"
+        },
+        {
+          "letra": "C",
+          "texto": "20 20 20 1 1 1 190 · + 20 · + 1 · 2 2 2                  "
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn nuestro país el 15% de la población pertenece al grupo de sangre RH–, al tomar un \nmuestra al azar de 200 personas, ¿cuál es la probabilidad que el 50% de estas \npersonas pertenezcan a este grupo?  \n\n \n\n100\n100\n200\n3\n17\n · \n · \n20\n20\n100\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "100 51 50 · 400      "
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": "1 2 100 100 3 17 2 · · 20 20            "
+        },
+        {
+          "letra": "D",
+          "texto": "Página 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEn cierto país el 20% de la población se encuentra afectada por un virus, al elegir un \ngrupo de 50 personas, ¿cuál es la probabilidad que 5 de ellas se encuentren infectadas? \n\n \n\n45\n5\n50\n5\n\n1\n4\nC\n · \n · \n5\n5\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "45 5 45 5 1 4 C · · 5 5            "
+        },
+        {
+          "letra": "B",
+          "texto": "5 45 1 4 · 5 5            "
+        },
+        {
+          "letra": "C",
+          "texto": "5 45 50 5 1 4 C · · 5 5            "
+        },
+        {
+          "letra": "D",
+          "texto": "45 5 4 1 · 5 5            "
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nSe extrae seis veces, con reposición, una carta de una baraja de naipe inglés. ¿Cuál de \nlas siguientes afirmaciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La probabilidad que dos de las cartas extraídas sean pinta de corazones es 2 4 6 1 3 · · 4 4 2                   . 2 4 6 1 12 · · 13 13 4                  "
+        },
+        {
+          "letra": "B",
+          "texto": "La probabilidad que dos de las cartas extraídas sean kayser es . 6 3 4      "
+        },
+        {
+          "letra": "C",
+          "texto": "La probabilidad que ninguna de las cartas extraídas sea pinta de diamante es . 6 1 20 · 2      "
+        },
+        {
+          "letra": "D",
+          "texto": "La probabilidad que 3 de las cartas extraídas sean pinta roja, es ."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas las afirmaciones son correctas."
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nUna caja contiene 8 esferas rojas, 2 verdes y 10 blancas, se extraen 4 veces una \nesfera, con reposición, ¿cuál es la probabilidad que las 4 sean verdes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0"
+        },
+        {
+          "letra": "B",
+          "texto": "0,0001"
+        },
+        {
+          "letra": "C",
+          "texto": "0,0004"
+        },
+        {
+          "letra": "D",
+          "texto": "0,01 Página 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Un estudio realizado en cierto país sobre el hábito de consumo de alcohol arrojó que el \n\n30% de la población mayor de 18 años consume solo en reuniones sociales, al escoger \n20 personas mayores de 18 años al azar, ¿cuál es la probabilidad que el 30% de ellas \nsea un bebedor social? \n \n \n\n6\n14\n14\n3\n7\n · \n · \n10\n10\n6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ". 6 8 14 21 7 · · 100 10 6                  "
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": "    6 8 20 · 0,21 · 0,7 6       14 6 20 3 7 · · 10 10 6                  "
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": "9 11 20 · (0,21) · (0,7) 9      "
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. ¿Cuál es la probabilidad de obtener exactamente 7 sellos al lanzar 10 veces una \n\nmoneda cargada, de manera tal que la probabilidad de obtener sello es el doble de la \nprobabilidad de obtener cara? \n\n \n \n\n7\n3\n2\n1\n · \n3\n3\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 7 1 · 2 3      "
+        },
+        {
+          "letra": "B",
+          "texto": "10 7 1 120 · · 2 3      "
+        },
+        {
+          "letra": "C",
+          "texto": "7 3 2 1 7! · · 3 3            "
+        },
+        {
+          "letra": "D",
+          "texto": "10 3 1 120 · · 2 3      "
+        },
+        {
+          "letra": "E",
+          "texto": "Página 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. El 10% de las piezas de un procesador fabricados por una máquina son defectuosas, al \n\nelegir 8 de ellas, ¿cuál es la probabilidad, que como máximo, 1 de ellas sea defectuosa? \n\n \n \n\n8\n9\n\n8\n9\n1\n + \n · 9\n10\n10\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 8 1 9 8 · · 10 10            "
+        },
+        {
+          "letra": "B",
+          "texto": "8 9 8 9 1 + 8 · · 9 10 10            "
+        },
+        {
+          "letra": "C",
+          "texto": "8 8 7 9 1 + 8 · · 9 10 10            "
+        },
+        {
+          "letra": "D",
+          "texto": "8 9 7 9 1 + 8 · · 9 10 10            "
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. La probabilidad que un paciente tenga una reacción adversa a la anestesia durante una \n\nintervención quirúrgica es de 0,0001, ¿cuál es la probabilidad que, de un total de  \n200 pacientes, más de 2 sufra reacción adversa?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "    2 1998 0,0001 · 0,9999      "
+        },
+        {
+          "letra": "B",
+          "texto": "    2 1998 200 0,0001 · 0,9999 2"
+        },
+        {
+          "letra": "C",
+          "texto": "        1 199 2 198 200 200 0,0001 · 0,9999 + 0,0001 · 0,9999 1 2            "
+        },
+        {
+          "letra": "D",
+          "texto": "          200 1 199 2 198 200 200 0,9999 + 0,0001 · 0,9999 + 0,0001 · 0,9999 1 2                                "
+        },
+        {
+          "letra": "E",
+          "texto": "          200 1 199 2 198 200 200 1 - 0,9999 + 0,0001 · 0,9999 + 0,0001 · 0,9999 1 2 Página 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En una fábrica de calzado, el 8% de los pares de zapatos que fabrican tienen algún \n\ndefecto, ¿cuál es la probabilidad de que de un total de 12 pares, dos de estos sean \ndefectuosos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "66 · (0,08)2 · (0,92)10"
+        },
+        {
+          "letra": "B",
+          "texto": "66 · 82 · 9210"
+        },
+        {
+          "letra": "C",
+          "texto": "(0,08)2 · (0,92)10"
+        },
+        {
+          "letra": "D",
+          "texto": "82 · 9210"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. La probabilidad que un garzón perciba mensualmente, por concepto de propinas, más \n\nde un millón de pesos es 0,002. Si se toma un total de 100 garzones, ¿cuál es la \nprobabilidad que al menos dos de ellos reciba más de un millón de pesos, solo por \npropinas? \n\n \n\n1\n99\n2\n998\n100 · \n · \n1000\n1000\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "100 1 99 998 2 998 + 100 · · 1000 1000 1000                  "
+        },
+        {
+          "letra": "B",
+          "texto": "                          100 1 99 998 2 998 1 - + 100 · · 1000 1000 1000"
+        },
+        {
+          "letra": "C",
+          "texto": "                          100 1 99 998 2 998 1 - + · 1000 1000 1000"
+        },
+        {
+          "letra": "D",
+          "texto": "100 1 99 998 2 998 + · 1000 1000 1000                  "
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En cierta comunidad, la probabilidad que una persona viva más de 85 años es 0,001. \n\nDe un total de 80 personas, ¿cuál es la probabilidad que 50 de ellos supere esta edad? \n\n \n\n50\n30\n80\n1\n999\n · \n · \n1000\n1000\n50\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": "    50 30 80 · 0,001 · 0,999 50      "
+        },
+        {
+          "letra": "C",
+          "texto": "  30 80 999 80 · 50 1000        "
+        },
+        {
+          "letra": "D",
+          "texto": "Todas son verdaderas. Página 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Dentro de la población penal de cierto centro de detención, el 40 % de los reclusos esta \n\npor delitos menores. Al escoger una muestra al azar de 15 de los internos, ¿cuál es la \nprobabilidad que 6 de ellos se encuentre recluido por delitos menores? \n\n \n \n\n6\n9\n2\n3\n · \n5\n5\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 3 15 2 3 · · 5 5 9                  "
+        },
+        {
+          "letra": "B",
+          "texto": "6 3 9 2 3 · · 5 5 6                  "
+        },
+        {
+          "letra": "C",
+          "texto": "6 3 6 3"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. El 80% de la población de inmigrantes de cierto país se dedica al comercio ambulante. \n\nSi se escoge una muestra de 20 de estas personas al azar, ¿cuál es la probabilidad que \nmás de una de ellas no se dedique al comercio ambulante? \n\n \n \n\n19\n1\n4\n1\n20 · \n · \n5\n5\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 0 19 1 20 20 4 1 4 1 · · + · · 5 5 5 5 0 1                                    "
+        },
+        {
+          "letra": "B",
+          "texto": "                     20 19 4 4 1 + 4 · 5 5"
+        },
+        {
+          "letra": "C",
+          "texto": "20 0 19 1 20 20 4 1 4 1 1 · · + · · 5 5 5 5 0 1                                     "
+        },
+        {
+          "letra": "D",
+          "texto": "Página 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Un juego de azar consiste en lanzar cuatro veces un dado y gana premio la persona \n\nque obtenga más de dos veces un 6. Si Juan se inscribe para participar, ¿cuál de las \nsiguientes expresiones indica la probabilidad que tiene Juan de ganar premio? \n \n \n\n3\n4\n5\n1\n  \n  \n6\n6\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": "4 4 4 5 1 6 6 2 3 4                                  "
+        },
+        {
+          "letra": "C",
+          "texto": "4 4 4 5 1 5 1 5 1 + + 6 6 6 6 6 6 2 3 4                                                             2 2 3 4 4 4 4 5 1 5 1 1 + + 6 6 6 6 6 2 3 4                                                     "
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En una industria se determinó que la máquina Mx, de las piezas que ha estado \n\nproduciendo el 10% de ellas han resultado defectuosas. Si antes que se repare Mx se \nescogen 6 piezas producidas por ella, ¿cuál es la probabilidad que a lo más, una de \nestas piezas resulte defectuosa?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 5 6 6 0,9 + 0,9 0,1 0 1               "
+        },
+        {
+          "letra": "B",
+          "texto": "6 6 6 6 0,1 + 0,1 0 1              "
+        },
+        {
+          "letra": "C",
+          "texto": "5 6 6 6 0,9 + 0,9 0,1 0 1               "
+        },
+        {
+          "letra": "D",
+          "texto": "2 6 6 0,9 + 0,9 0,1 0 1               "
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Si la probabilidad de obtener éxito en un juego es 0,4. Se puede determinar la \n\nprobabilidad de ganar 5 veces, si: \n \n\n(1) la probabilidad de fracaso es 0,6. \n(2) se juega 15 veces.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional Página 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Luis responde totalmente al azar una prueba de 40 preguntas de selección múltiple, se \n\npuede determinar la probabilidad que apruebe, si: \n\n \n(1) cada una de las preguntas tiene 5 alternativas. \n(2) con el 70% de las respuestas correctas aprueba.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional RESPUESTAS"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    }
+  ]
+}

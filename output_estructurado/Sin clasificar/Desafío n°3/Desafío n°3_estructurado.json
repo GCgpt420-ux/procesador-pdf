@@ -1,0 +1,497 @@
+{
+  "archivo_original": "Desafío n°3.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/DESAFIOS/Desafío n°3.pdf",
+  "materia": "Sin clasificar",
+  "num_paginas": 6,
+  "fecha_procesamiento": "2026-03-07T23:03:25.172996",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSi en la figura adjunta L1 // L2, entonces m + n = \n \n\nL1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60°"
+        },
+        {
+          "letra": "B",
+          "texto": "80°"
+        },
+        {
+          "letra": "C",
+          "texto": "90°"
+        },
+        {
+          "letra": "D",
+          "texto": "100° m     n L2"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Desafío n°3_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nCon los datos proporcionados en la figura adjunta, se puede determinar que  =  \n \n \n\n \n\n2 \n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30°"
+        },
+        {
+          "letra": "B",
+          "texto": "22,5°"
+        },
+        {
+          "letra": "C",
+          "texto": "25°"
+        },
+        {
+          "letra": "D",
+          "texto": "18°    "
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Desafío n°3_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn la figura adjunta, AC = AB = BD. Entonces, x =  \n\n \n \n\nC \n\nD \nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60°"
+        },
+        {
+          "letra": "B",
+          "texto": "50°"
+        },
+        {
+          "letra": "C",
+          "texto": "45°"
+        },
+        {
+          "letra": "D",
+          "texto": "30°  2"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Desafío n°3_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn la figura adjunta, PS = QM = MR y MPQ = 20°. ¿Cuánto mide el ángulo PQR? \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20°"
+        },
+        {
+          "letra": "B",
+          "texto": "30°"
+        },
+        {
+          "letra": "C",
+          "texto": "40°"
+        },
+        {
+          "letra": "D",
+          "texto": "50° R M P S Q"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Desafío n°3_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn la figura adjunta, los triángulos ABC y EAD son congruentes, AC = BC y  \nBFD = 36°. ¿Cuál es la medida del x? \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60°"
+        },
+        {
+          "letra": "B",
+          "texto": "54°"
+        },
+        {
+          "letra": "C",
+          "texto": "46°"
+        },
+        {
+          "letra": "D",
+          "texto": "36° E F"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn la figura ABC  DEF. Si CAB = 80°, EDB = 40° y AC  // EF , entonces  \n\nx \n\nA \nB \nD \n\nBCA = \n\n \n\nF \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "45°"
+        },
+        {
+          "letra": "B",
+          "texto": "30°"
+        },
+        {
+          "letra": "C",
+          "texto": "60°"
+        },
+        {
+          "letra": "D",
+          "texto": "40°"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEn el paralelogramo ABCD de la figura adjunta, se tiene que QR  // AD , QPR = 60°, \n\nD \n\nA \nB \nE \n\nPRA = 20° y QP es bisectriz del ángulo DQR. Entonces, x =  \n\n \n \n\nD \nQ \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "100°"
+        },
+        {
+          "letra": "B",
+          "texto": "110°"
+        },
+        {
+          "letra": "C",
+          "texto": "120°"
+        },
+        {
+          "letra": "D",
+          "texto": "130° x P"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn la figura adjunta, ABCD es un cuadrado y BEFC es un rombo. Si FBE = 15°, \n\nA \nR \nB \n\nentonces EFD =  \n\nF",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30°"
+        },
+        {
+          "letra": "B",
+          "texto": "45°"
+        },
+        {
+          "letra": "C",
+          "texto": "60°"
+        },
+        {
+          "letra": "D",
+          "texto": "75° C D E A B Página 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEl cuadrilátero ABCD de la figura adjunta es un cuadrado y el triángulo ECD es \nequilátero. ¿Cuánto mide el ángulo CAE? \n \n \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15°"
+        },
+        {
+          "letra": "B",
+          "texto": "22,5°"
+        },
+        {
+          "letra": "C",
+          "texto": "25°"
+        },
+        {
+          "letra": "D",
+          "texto": "30° E"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. En el triángulo ABC rectángulo en C de la figura adjunta, DE // AB  y AD   FE . Si \n\nA \nB \n\nBEF : DEC = 2 : 3, ¿cuánto mide el ángulo BEF? \n\n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15°"
+        },
+        {
+          "letra": "B",
+          "texto": "20°"
+        },
+        {
+          "letra": "C",
+          "texto": "22,5°"
+        },
+        {
+          "letra": "D",
+          "texto": "36° E D"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. En la figura adjunta, ABCD es un trapecio isósceles de bases AB  y CD . Si AB = BE, \n\nA \nF \nB \n\n¿cuánto mide el ángulo CBE?  \n \n \n\nD \nC \n\nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "45°"
+        },
+        {
+          "letra": "B",
+          "texto": "47°"
+        },
+        {
+          "letra": "C",
+          "texto": "50°"
+        },
+        {
+          "letra": "D",
+          "texto": "55° 105°"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En un cuadrilátero convexo, la suma de las medidas de dos ángulos consecutivos es \n\n30° \n\nA \nB \n\n190°. ¿Cuánto mide el mayor de los ángulos formados por las bisectrices de los \notros dos ángulos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "85°"
+        },
+        {
+          "letra": "B",
+          "texto": "90°"
+        },
+        {
+          "letra": "C",
+          "texto": "95°"
+        },
+        {
+          "letra": "D",
+          "texto": "100° Página 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. En el cuadrilátero ABCD de la figura adjunta, BN y CM son bisectrices de los ángulos \n\nABC y BCD, respectivamente. ¿Cuánto suman las medidas de los ángulos BAD y \nCDA? \n \n\nN \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "4 3  M C "
+        },
+        {
+          "letra": "C",
+          "texto": "3 2  A"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En la figura adjunta, CAP = 35° y APD = 50°. ¿Cuál es la medida del ángulo \n\nB \n\nDBP? \n \n \n \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "85°"
+        },
+        {
+          "letra": "B",
+          "texto": "95°"
+        },
+        {
+          "letra": "C",
+          "texto": "105°"
+        },
+        {
+          "letra": "D",
+          "texto": "115° A C"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. En la circunferencia de centro O, M es punto medio de AD  y ABM = 35°. Entonces, \n\nB \n\nP \n\nDAC =  \n\n \n \n\nD \n\nM",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20°"
+        },
+        {
+          "letra": "B",
+          "texto": "25°"
+        },
+        {
+          "letra": "C",
+          "texto": "30°"
+        },
+        {
+          "letra": "D",
+          "texto": "35° O C A"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En la figura adjunta, PQ  es diámetro de la circunferencia circunscrita al triángulo \n\nB \n\nSQR y los ángulos PQR y PTR miden respectivamente, 20° y 85°. ¿Cuánto mide el \nángulo SQP? \n \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25°"
+        },
+        {
+          "letra": "B",
+          "texto": "30°"
+        },
+        {
+          "letra": "C",
+          "texto": "35°"
+        },
+        {
+          "letra": "D",
+          "texto": "40° Q T P S Página 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. En la circunferencia de la figura adjunta, CDB = 38°, BCA = 18° y ACD = 45°. \n\n¿Cuánto mide el ángulo DAC? \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "38°"
+        },
+        {
+          "letra": "B",
+          "texto": "45°"
+        },
+        {
+          "letra": "C",
+          "texto": "63°"
+        },
+        {
+          "letra": "D",
+          "texto": "79° D"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. En la circunferencia de la figura adjunta, ABC = 110° y DEF = 120°. Entonces, \n\nB \n\nA \n\nAGF =   \n\nE \n\n \n\nF",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "35°"
+        },
+        {
+          "letra": "B",
+          "texto": "40°"
+        },
+        {
+          "letra": "C",
+          "texto": "45°"
+        },
+        {
+          "letra": "D",
+          "texto": "50° D G C B A"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. En la circunferencia de centro O de la figura adjunta, x = 35° e y = 45°. Entonces,  \n\nz =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "140°"
+        },
+        {
+          "letra": "B",
+          "texto": "125°"
+        },
+        {
+          "letra": "C",
+          "texto": "110°"
+        },
+        {
+          "letra": "D",
+          "texto": "80°"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En la circunferencia de centro O de la figura adjunta, se ha inscrito un pentágono. Si \n\nO \n\nx \ny \n\nz \n\nel triángulo PQO es equilátero, entonces  +  =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "250°"
+        },
+        {
+          "letra": "B",
+          "texto": "210°"
+        },
+        {
+          "letra": "C",
+          "texto": "190°"
+        },
+        {
+          "letra": "D",
+          "texto": "185°  O  P Q Página 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "archivo_original": "Ensayo n° 2.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/SOLUCIONARIOS/Ensayo n° 2.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 16,
+  "fecha_procesamiento": "2026-03-07T23:11:31.007302",
+  "preguntas": [
+    {
+      "numero": 53,
+      "enunciado": "53. La alternativa correcta es B",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Falso. Los datos se ordenan según el kilometraje y no según la frecuencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Verdadero. Como la frecuencia del segundo intervalo es 7 y la suma total de las frecuencias es 35, entonces 7 1 = 35 5 = 20%."
+        },
+        {
+          "letra": "C",
+          "texto": "Falso. El intervalo es ]20, 45], es decir, NO considera el valor de 20 km, por tanto, no puede ser el mínimo del intervalo."
+        },
+        {
+          "letra": "D",
+          "texto": "Falso. Al analizar los dos primeros intervalos se incluye a 10 km (]5, 10]), por tanto, podría haber algún vehículo con exactamente 10 kilómetros de uso."
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 57,
+      "enunciado": "57. La alternativa correcta es B \n\n \n \nSe deben ordenar los datos de menor a mayor \n \n4, 5, 5, 6 , 6, 6, 7, 7, 7, 7, 8, 8, 8, 9, 11 \n \n \n \nCon número total de datos n = 15 \n \n\nQ1 \nQ3 \nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Verdadero. 2 16 (n + 1) = 4 2 = 8, es decir, el segundo cuartil se encuentra en el 8° lugar y corresponde a un 7."
+        },
+        {
+          "letra": "B",
+          "texto": "Falso. 99 99 16 (n + 1) = 100 100  = 15,84, como es un decimal, se promedian los valores del 15° y del 16°  9 + 11 2 = 10, entonces el percentil 99 es 10."
+        },
+        {
+          "letra": "C",
+          "texto": "Verdadero. R = Q3 – Q1 Q1 = 1 1 (n + 1) = 16 4 4  = 4°, en el cuarto lugar hay un 6. Q3 = 3 3 16 (n + 1) = 4 4  = 12°, en el 12vo lugar hay un 8."
+        },
+        {
+          "letra": "D",
+          "texto": "Verdadero. Q3 = 12°, según los visto en C), que corresponde a un 8."
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    }
+  ]
+}

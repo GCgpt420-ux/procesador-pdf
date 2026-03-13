@@ -1,0 +1,664 @@
+{
+  "archivo_original": "Solucionario Ma 19.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/SOLUCIONARIOS/Solucionario Ma 19.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 14,
+  "fecha_procesamiento": "2026-03-07T23:05:13.590833",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1) Verdadero\n\n55\n\nI) \nLa mediana es 57. \nII) \nEl promedio (media) es 57. \nIII) \nLa moda coincide con el promedio.  \n \n \n\n56\n56",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "Verdadero 57} Me -57 57 57 A- = 570"
+        },
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn la tabla adjunta se muestra la distribución de todos los datos de ausentismo laboral \nque se registra durante un año en una empresa. \n \n \n \n \n \n \n \n \n \n \n\nCantidad de días \n\nFrecuencia relativa de la \ncantidad de trabajadores \n[0, 3[ \n15 \nQ \n[3, 6[ \n5 \n0,2 \n[6, 9[ \nP \n0,12 \n[9, 12] \n2 \nR \n\nCantidad de \ntrabajadores \n\nde ausencias \n\n= 0,6\n\n. N = 5\n\n0,2\n\nN\n= 25 trabajadores\n= 0,08\n\nSegún los datos de la tabla, ¿cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nI) \nHubo un total de 25 ausencias durante ese año. \nII) \nUn 60% de los trabajadores se ausentó menos de 3 días ese año. \nIII) \n20 trabajadores faltaron menos de 6 días a su trabajo ese año. \n \n\nI\nFalso :\nhubo\nun total\nde\n25 trabajadores\nI\nVerdadero\n.\n<3 días\n= 15 trabajadores\n= 0,6--60%",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III II) Verdadero . < 6 días = 15+5 = 20 trabajadores. (Fuente: DEMRE, Publicación 2019)"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Solucionario Ma 19_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4.000\nincluso\n\n.\n\n> Me\n= Qa\n= PSO\n\n(1)\nSuficiente\n:\nMe\n= Qz\n\n(1) el segundo cuartil del conjunto. \n(2) el percentil cincuenta del conjunto. \n \n\n(2)\nSuficiente\n:\nMe = Pso",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEl valor central de siete múltiplos consecutivos de 3 ordenados en forma decreciente, \ncoincide con \n \n \n\n= A 1-5\natb\na +8\na 1-10\n\nz\n\n2 1\n\n18",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "solo la moda."
+        },
+        {
+          "letra": "B",
+          "texto": "solo la mediana."
+        },
+        {
+          "letra": "C",
+          "texto": "solo la media."
+        },
+        {
+          "letra": "D",
+          "texto": "la media y la mediana. 15 12 Me 9 6 3 Suma : 84 ⇒ ✗ = 8¥ = 12 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nCarlos y José deciden escalar un monte por separado, pero por el mismo sendero, \nlegando ambos a la cima que está a 1.300 m. El gráfico de la figura adjunta muestra la \ndistancia recorrida, en función del tiempo, por cada uno hasta la cima. ¿Cuál(es) de las \nsiguientes afirmaciones es (son) siempre verdadera(s)? \n \n\nVerdadero\nVerdadero\n\nI) \nJosé demoró en llegar a la cima 210 minutos. \nII) \nCarlos se detuvo 1 hora. \nIII) \nJosé y Carlos demoraron el mismo tiempo en llegar a la cima. \n \n \n\nFalso\n\nCarlos \n\n240min",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Solucionario Ma 19_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7) Verdadero\n\n[40, 45[ \n17 \n[45, 50[ \n15 \n[50, 55[ \n21 \n[55, 60[ \n10 \n[60, 65[ \n18 \n[65, 70[ \n19",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 17 Q1 = Xzs C- [ 45,50L 32 53"
+        },
+        {
+          "letra": "E",
+          "texto": "Verdadero 63 -_ Xgo C- [50155-1 81 Pijo 100"
+        },
+        {
+          "letra": "E",
+          "texto": "Verdadero (Fuente: DEMRE, Publicación 2015) 10 ese / 10% de 100 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nLas temperaturas máximas y mínimas, durante una semana del mes de febrero, están \nrepresentadas en el gráfico de la figura adjunta. ¿Cuál(es) de las siguientes \nafirmaciones es (son) FALSA(S)? \n \n \n\nI) \nEl promedio de las temperaturas máximas diarias durante la semana, fue  \n26ºC. \nII) \nLa mayor diferencia de temperaturas máximas en la semana fue 13ºC. \n\nIII) \nEl promedio de las temperaturas mínimas en los 3 últimos días de la \n\nsemana, fue 7ºC. \n\nTemperatura (ºC) \n\n \n \n \n\nmínima \nmáxima \n\n33\n\n20 \n22 \n25 \n27 \n30 \n33 \n\n30\n\n27\n\n25\n25",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Ninguna de ellas"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Solucionario Ma 19_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nCamila ha obtenido las siguientes notas en matemática 5,6; 7,0; 6,1 y 6,3.  Si debe \nrendir su última prueba la cual es coeficiente dos, ¿cuánto debe ser la nota, para que \nCamila obtenga exactamente un promedio final de 6,2 en matemática? \n \n \n\n22\n\nzo\n\n6 \n10 \n13 \n15 \n\n13\n\n10\n\n10\n\n°\n\ny\n\n5\n\n5\n\n5 \n\nLu \nMa \nMi \nJu \nVi \nDías \n\nSá \nDo \n\n✗\n: nota\nen\nla prueba\nC2\n\n.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6,0"
+        },
+        {
+          "letra": "B",
+          "texto": "6,1"
+        },
+        {
+          "letra": "C",
+          "texto": "6,2"
+        },
+        {
+          "letra": "D",
+          "texto": "6,3 5,6+7,0+6,1+6,3 + ✗+ ✗ = 6,2 ⇒ ✗= 6,1 6"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. De dos cursos en los que se aplicó la Evaluación Nº 5, uno de ellos, con 30 alumnos, \n\nTotal\n\ntuvo un promedio de 600 puntos; en el otro, con 20 alumnos, el promedio fue de  \n500 puntos. Entonces, ¿cuál es el promedio correspondiente a la totalidad de los \nalumnos de ambos cursos? \n \n \n\n50 alumnos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "560 puntos"
+        },
+        {
+          "letra": "B",
+          "texto": "570 puntos"
+        },
+        {
+          "letra": "C",
+          "texto": "580 puntos"
+        },
+        {
+          "letra": "D",
+          "texto": "590 puntos + 500.2° = 560 puntos 50 Ñ = 600 . 30 g-☐ 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Se tienen los puntajes del total de estudiantes de un curso en un examen de \n\nmatemática, los cuales se agrupan posteriormente en intervalos como se muestra en la \ntabla adjunta. ¿Cuál de las siguientes afirmaciones es FALSA?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Verdadero"
+        },
+        {
+          "letra": "D",
+          "texto": "Falso. F 720pts -7+15+17--39 Puntajes N° de alumnos [0, 9] 2 [10, 19] 4 [20, 29] 7 [30, 39] 15 [40, 50] 17 2 El intervalo moda / es"
+        },
+        {
+          "letra": "B",
+          "texto": "Verdadero 6 [ 40,50] . Total : 45 alumnos 13 c) Verdadero 28 45 Me = Xz, C- [ 30139] Total 45"
+        },
+        {
+          "letra": "A",
+          "texto": "39 alumnos obtuvieron al menos 20 puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "45 alumnos rindieron el examen."
+        },
+        {
+          "letra": "C",
+          "texto": "La mediana de los puntajes se encuentra en el intervalo [30, 39]."
+        },
+        {
+          "letra": "D",
+          "texto": "Se puede deducir que la moda de los puntajes de los alumnos se encuentra en el intervalo [40, 50]."
+        },
+        {
+          "letra": "E",
+          "texto": "6 alumnos obtuvieron a lo más 19 puntos. (Fuente: DEMRE, Publicación 2014)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Solucionario Ma 19_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. A un grupo de mujeres se le preguntó acerca de su masa corporal. Sus respuestas se \n\nresumen en el histograma de la figura adjunta, donde los intervalos son de la forma  \n[a, b[ y el último de la forma [c, d]. Según la información del gráfico es verdadero que,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 mujeres fueron entrevistadas en total."
+        },
+        {
+          "letra": "B",
+          "texto": "exactamente, un 50% de las mujeres entrevistadas tiene una masa corporal que está en el intervalo [64, 70[."
+        },
+        {
+          "letra": "C",
+          "texto": "la mediana de las masas corporales está en el intervalo [66, 68[."
+        },
+        {
+          "letra": "D",
+          "texto": "las modas de las masas corporales son 65 kg y 71 kg. Número de mujeres Masa f F C- [ 66,68L [60-62-1 3 3 Me - Xp, 7 [62-64-1 1 4 [64-66-1 7 11 6 5 [66-68-1 6 17 [68-70-1 5 22 [70-72] 3 25 3 1 62 64 72 70 68 66 60 Masa en Kg (Fuente: DEMRE, Publicación 2016) 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Solucionario Ma 19_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. En la ojiva de la figura adjunta se muestra la distribución de los puntajes de 300 \n\nestudiantes en una prueba, donde los intervalos del gráfico son de la forma [a, b[, \nexcepto el último que es de la forma [c, d]. \n \n \n\n< 550=251\n\n. ¡\n\n \n \n \n \n\n¿Cuál de las siguientes afirmaciones es siempre verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El intervalo modal es [750, 850]."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo 49 estudiantes obtuvieron menos de 650 puntos."
+        },
+        {
+          "letra": "C",
+          "texto": "181 estudiantes obtiene más de 650 puntos."
+        },
+        {
+          "letra": "D",
+          "texto": "Un 25% de los estudiantes obtiene menos de 550 puntos."
+        },
+        {
+          "letra": "E",
+          "texto": "La mediana de los puntajes se encuentra en el intervalo [750, 850]. (Fuente: DEMRE, Publicación 2019) 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Solucionario Ma 19_p6_img1.jpg",
+        "Solucionario Ma 19_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. En la tabla adjunta se agrupan las estaturas, en cm, de un grupo de personas. Con \n\nrespecto a los datos de la tabla, ¿cuál de las siguientes afirmaciones es FALSA? \n \n \n \n \n \n \n \n \n\n✗40-1×41\n\nFac\n\nEstatura (cm) \nFrecuencia \n[140, 150[ \n17 \n[150, 160[ \n24 \n[160, 170[ \n25 \n[170, 180[ \n10 \n[180, 190] \n4 \n\n.\nMe\n=\n\n17\n2\n\n41\n\n66\nD\nFalso\n\n76\nPgo\n-\nXoy\nC- [ 160,170-1\n\n80",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La mediana de la estatura se encuentra en [150, 160[."
+        },
+        {
+          "letra": "B",
+          "texto": "El intervalo modal de la estatura es [160, 170[."
+        },
+        {
+          "letra": "C",
+          "texto": "El percentil 30 de la estatura se encuentra en [150, 160[."
+        },
+        {
+          "letra": "D",
+          "texto": "El percentil 80 de la estatura se encuentra en [170, 180[."
+        },
+        {
+          "letra": "E",
+          "texto": "Al menos un 20% de la estatura no supera los 150 cm. (Fuente: DEMRE, Publicación 2018)"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Solucionario Ma 19_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. En un curso de 50 estudiantes, se escogen al azar 5 de ellos, cuyas estaturas, en cm, \n\nson: 150, 155, 160, 160 y 165. ¿Cuál(es) de las siguientes afirmaciones se puede(n) \ndeducir de esta información? \n \n \n\nI) \nEl promedio de las estaturas de los 50 estudiantes es 158 cm.  \nII) \nLa mitad de los estudiantes del curso mide más de 160 cm. \nIII) \nLa estatura de, exactamente, el 10% de los estudiantes del curso se \nubica en el intervalo [150, 165]. \n \n \n\nCon la información entregada\n\nno\nse\npuede\ninferir ninguna\nde\nestas afirmaciones",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas . (Fuente: DEMRE, Publicación 2018)"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. La distribución de pensiones en miles de pesos que recibe un grupo de adultos mayores \n\nse representa en la figura adjunta mediante el siguiente diagrama de caja y bigotes. \n¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n \n\nI) \nEl primer cuartil es $ 300.000. \nII) \nEl promedio de las pensiones es $ 650.000. \nIII) \nEl 25% de las personas del grupo gana a lo menos $ 300.000. \n \n \n\nI) Verdadero\nQa\nQz\nQz\nI) Falso . Del gráfico",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III no se puede obtener el promedio . 100 300 650 750 800 II) Falso . El 25% gana A LO MÁS"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "Solucionario Ma 19_p9_img0.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. La tabla adjunta muestra algunos datos que corresponden a una encuesta sobre el \n\nporcentaje de satisfacción por un producto, que manifestó el total de personas \nencuestadas. ¿Cuál de las siguientes afirmaciones es FALSA?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Un 50% de los encuestados tiene una satisfacción que pertenece al intervalo [75, 80[."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguna de las personas encuestadas tiene un 100% de satisfacción por el producto."
+        },
+        {
+          "letra": "C",
+          "texto": "50 personas contestaron la encuesta."
+        },
+        {
+          "letra": "D",
+          "texto": "18 personas expresaron menos del 75% de satisfacción por el producto."
+        },
+        {
+          "letra": "E",
+          "texto": "El intervalo modal es [80, 85[. > 8 50 =/ 50% Porcentajes Frecuencia Frecuencia acumulada [0, 60[ 0 [60, 65[ 5 5 [65, 70[ [70, 75[ 8 18 [75, 80[ 7 [80, 85[ 46 [85, 90[ 4 [90, 100] 0 O 5 10 25 21 50 50 (Fuente: DEMRE, Publicación 2016)"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "Solucionario Ma 19_p10_img0.jpg"
+      ]
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. El histograma de la figura adjunta, muestra una distribución de frecuencias con \n\nrespecto a los puntajes obtenidos en un Test por un grupo de alumnos, donde los \nintervalos son de la forma [a, b[. ¿Cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n \n\nVerdadero\n\nI) \nLa amplitud de cada intervalo es 3. \nII) \nEl intervalo donde se ubica la mediana es [11,5 ± 14,5[. \nIII) \nEl intervalo modal es [8,5 ± 11,5[. \n \n \n\nI)\nVerdadero\n\nMe\n= ✗34-1×35 C- [ 11,5-14,5-1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III 2 Frecuencia II) Verdadero 20 La frecuencia del intervalo 16 [ 8,5-11,5-1 es 20g es la mayor de todas 10 12 8 2 11,5 14,5 17,5 20,5 5,5 8,5 Puntajes 2,5 FAC 2 10 30 42 58 68 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "Solucionario Ma 19_p10_img0.jpg"
+      ]
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. El diagrama de cajón y bigote de la figura adjunta muestra la distribución de las masas \n\ncorporales en kilógramos de todos los alumnos del 4°A del colegio Antípodas, los que \ntienen diferentes masas entre sí. \n \n¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s), respecto de la \nmasa corporal de los alumnos del 4°A del colegio Antípodas? \n \n \n\nVerdadero\n\nI) \nEl 50% de los estudiantes tiene a lo menos una masa de 64 Kg. \nII) \nEl rango intercuartil de las masas corporales de los alumnos es 11 kg. \nIII) \nEn el intervalo [72, 93] hay más alumnos que en el intervalo [58, 61]. \n \n \n \n\nI\nVerdadero\n\n93 \n\n- Qs\n\n= Qs\n\nRango\nInterasrtil",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III = 72 - 61 = 11kg 72 Q , --75% 64 61 Qa = 50% II) Falso Q,"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "Solucionario Ma 19_p12_img0.jpg"
+      ]
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. En la escala de notas que utiliza un colegio la nota mínima es un 1 y la nota máxima es \n\n--25%\n\nCon este diagrama\nno\n\n58 \n\nse puede\nconcluir esto\n\n.\n\nun 7. Se puede determinar el rango de las notas obtenidas por los estudiantes de este \ncolegio en una prueba, si se sabe que: \n \n \n\n-\nNota\nmenor\n\n=\nNota\n\nRango\n\nmayor\n\n(1) tres estudiantes obtuvieron la nota máxima al que podría llegar en la prueba. \n(2) el promedio entre la nota más alta alcanzada en la prueba y la nota más baja \n\nobtenida, es 4. \n \n\n(1) Insuficiente\n.\nNo\nse\nconoce\nla\nnota\nmenor .\n\n(2) Insuficiente\n.\nNo\nse\nconoce\nla nota\nmás\nbaja",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional ni la más alta . = 7 Nota (1) y (a) Suficiente . Nota mayor Menor =L g- = 1+27--4 = 7-1 = b y Rango . (Fuente: DEMRE, Publicación 2019)"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "Solucionario Ma 19_p12_img0.jpg"
+      ]
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. El promedio de notas en una prueba de matemática de 10 alumnos es 4,9. Al profesor \n\nse le pierden dos pruebas. Las notas de los dos alumnos cuyas pruebas se perdieron se \npueden saber, si se sabe que: \n \n\n(1) Insuficiente\n\n.\nExisten\ninfinitos\npares\nde\n\n(1) el promedio de las notas de los dos alumnos es 5,5. \n(2) el promedio de los 8 alumnos restantes es 4,75. \n \n\nnúmeros\nque promedian 5,5.\n\n(2) Insuficiente\n.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional No es posible conocer con esta información las notas perdidas . (1) y (a) Insuficiente . 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. La renta per cápita en dólares de 5 países es: 3.000, 4.000, x, 5.000  y  8.000. Se \n\npuede conocer la renta per cápita x, si se sabe que: \n \n\n(1) Suficiente\n.\nSi\nNo\n= 4.000 entonces\n\n(1) la moda es 4.000. \n(2) la mediana es 4.000. \n \n\n✗\n= 4.000 .",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. Se puede determinar los valores de los quintiles de una muestra, si se conoce: \n \n \n\n(1) Insuficiente\n.\n\n(1) los cuartiles de la muestra. \n(2) los deciles de la muestra. \n \n\nCon\nlos\ncuantiles\nse\npuede\n\nconocer\nla\nmediana y el\npercentil\n25",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional , 50 y 75 . (2) Suficiente . Con los decile, se puede conocer todos los quntile . ( van de 10 en 10%) 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. En la tabla adjunta se muestran las edades de un grupo de personas agrupadas en \n\nintervalos. Se puede determinar el valor de r de la tabla, si se sabe que: \n \n \n \n \n \n \n \n \n \n \n\n(1) Insuficiente\n.\n\nDatos \nFrecuencia \n[10, 20[ \n5 \n[20, 30[ \n7 \n[30, 40[ \n15 \n[40, 50[ \nr \n[50, 60] \n8 \n\nse\nrequiere\nsaber\nsi\nla\n\ncantidad\nde\ndatos\nes\npar\n\no\nimpar\n\n.\n\n(2) Insuficiente\n\n.\n\nCon esto,\nr > 15\n. Pero no\nse\n\nconoce\nsu\nValor\nexacto .\n\n(1) y (2)\nAmbos insuficientes\n\n(1) la mediana está en el intervalo [40, 50[. \n(2) r es la frecuencia del intervalo modal. \n \n\n.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional (Fuente: DEMRE, Publicación 2018) RESPUESTAS"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "Solucionario Ma 19_p14_img0.jpg"
+      ]
+    }
+  ]
+}

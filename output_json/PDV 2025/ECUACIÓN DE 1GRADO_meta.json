@@ -1,0 +1,136 @@
+{
+  "filename": "ECUACIÓN DE 1GRADO.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ECUACIÓN DE 1GRADO.pdf",
+  "num_paginas": 20,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T16:00:55.577141",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "ECUACIÓN DE 1° GRADO  \n\n \n\n \n",
+      "cantidad_caracteres": 29,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 1224.9248046875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "CAPÍTULO II: ÁLGEBRA 121\n\n8.   ECUACIÓN DE PRIMER GRADO\n\nUna ecuación de primer grado (o lineal) con una incógnita es aquella de la forma  ax + b = 0 , donde x es la incógnita, \ncon a y b son números reales constantes, y a ≠ 0.\n\nLa ecuación es de primer grado porque el mayor exponente natural de la incógnita es 1.\n\nPara resolver la ecuación  ax + b = 0 , se transforma a otras ecuaciones equivalentes, aplicando el inverso aditivo de b\n\ny luego el inverso multiplicativo de a hasta obtener la solución   x  =  ‒ b\n\na\n\nOBSERVACIÓN\n\nLas ecuaciones equivalentes son aquellas que tienen el mismo conjunto solución.\n\nEJERCICIOS\n\n1.\t Una balanza queda perfectamente equilibrada cuando en uno de sus platillos hay tres libros y en el otro, un \n\nlibro y un estuche con lápices que pesa medio kilo. Sabiendo que todos los libros pesan exactamente lo mismo, \n¿cuál es la ecuación que permite determinar el peso x (en kilos) de cada libro?\n\n2.\t Si  5x – 8 = 17 , entonces  3x  es igual a\n",
+      "cantidad_caracteres": 979,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "MATEMÁTICA\n122\n\n3.\t El valor opuesto de  x  en la ecuación  15 – 6x = 30 – x  es\n\n4.\t La ecuación  3x – 6 = 0  es equivalente a la ecuación  x + t = p , entonces el valor de  t – p  es\n\n5.\t La ecuación que permite calcular el perímetro P de una circunferencia es P = 2πr, donde r es el radio de la \n\ncircunferencia. ¿Cuál es la ecuación que expresa el radio r en términos del perímetro de la circunferencia?\n\n6.\t El conjunto solución de la ecuación  0,003x = ‒0,06  es\n\n2π\n\n1\n2\n\n1.   3x = x + \n2.   15\n3.    3\n4.   ‒2\n5.   r = \n6.  ⎨‒20⎬\nP\n\nRespuestas\n",
+      "cantidad_caracteres": 552,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": "CAPÍTULO II: ÁLGEBRA 123\n\n8.1\t ECUACIÓN CON COEFICIENTES LITERALES\n\nEs una ecuación que, además de la incógnita, tiene otras letras que representan valores constantes.\n\nEJERCICIOS\n\n1.\t El valor de x en la ecuación  3(3x + a) – (x – a)  =  6(x + a)  es\n\n2.\t ¿Qué expresión se debe restar de  p + 3  para obtener  5p – 7 ?\n\n3.\t Si p y q son números positivos en la ecuación en t,  t + pq = pr ,  entonces t es negativo si se cumple que\n",
+      "cantidad_caracteres": 434,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": "MATEMÁTICA\n124\n\n4.\t Si  a2x – a = 4x – 2 ,  entonces x es igual a\n\n5.\t En la ecuación  (x + a)2 = (x – a)2 + (a + b)2 ,  4ax  es equivalente a\n\n6.\t En la ecuación  2(x + t) = 5t + 3 (x – 2) , ¿cuál debe ser el valor de  t , para que la solución sea  x = 3 ?\n\n7.\t Al despejar F en la formula  C =                       , la expresión que representa a  F  es\n5F ‒ 160\n\n9\n\n8.\t Al despejar m en la ecuación 2m- (6p - 3q) =  1  (6p - 15q), la expresión que representa a m es\n3\n\n1.   a \n2.   ‒4p + 10\n3.    r < q\n4.   (a + 2)‒1 , con a ≠  2\n5.   (a + b)2\n6.   1\n7.\n8.    4p - 4q\n9C + 160\n5\n\nRespuestas\n",
+      "cantidad_caracteres": 596,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": "CAPÍTULO II: ÁLGEBRA 125\n\n8.2\t ECUACIONES FRACCIONARIAS\n\nUna ecuación es fraccionaria cuando alguno de sus términos o todos tienen denominadores no nulos y distintos \nde uno. Para resolver este tipo de ecuaciones es recomendable aplicar el siguiente método:\n\n•\t Multiplicar los términos de la ecuación por el mínimo común múltiplo de los denominadores que aparecen.\n\n•\t Efectuar las operaciones indicadas en los paréntesis.\n\n•\t Aplicar los inversos aditivos correspondientes de manera que los términos que contienen la incógnita queden \nen un lado de la igualdad y los que no la contienen en el otro.\n\n•\t Resolver la ecuación equivalente de primer grado obtenida.\n\n•\t Comprobar el resultado con la ecuación dada.\n\nEJERCICIOS\n\n1.\t En la ecuación                  ‒ 2 = 3  , el opuesto de x es igual a\n3x ‒ 1\n\n4\n\n2.\t ¿Cuál es la raíz o solución de la ecuación         ‒ 2  =         + 4  ?\nx\n5\n\nx\n3\n\n3.\t Si        ‒         =  1 , con  a ≠ b , entonces c =\na\nb\n\na\nc\n",
+      "cantidad_caracteres": 964,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "MATEMÁTICA\n126\n\n4.\t En la ecuación   2 +        =         , el recíproco de x es\n6\nx\n\n10\n\nx\n\n5.\t En la ecuación                     ‒                    =  1 ,  el opuesto de x es\n2\n3(x ‒ 1)\n\n1\n2(x ‒ 1)\n\n6.\t ¿Cuál es el conjunto solución de la ecuación                +               =               ?\n‒x\nx ‒ 5\n\n1\nx ‒ 5\n\n‒4\nx ‒ 5\n\n7.\t Para que  x  sea un número entero en la ecuación   p =                  ,  p debe ser múltiplo de\n4(x + 3)\n\n3\n\na ‒ b\n7\n6\n\n1.   ‒7 2.   ‒45\n3.\n4.    0,5\n5.    ‒\n6.    Ø\n7.    4\nab\n\nRespuestas\n",
+      "cantidad_caracteres": 526,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "texto": "CAPÍTULO II: ÁLGEBRA 127\n\n9.\t ANÁLISIS DE LAS SOLUCIONES\n\t\nDE LA ECUACIÓN   ax + b = 0\n\nEl número de soluciones de la ecuación ax + b = 0 depende de los valores de a y b. Se pueden dar tres casos:\n\nCASO 1: Si  a ≠ 0 , la ecuación tiene solución única.\nEjemplo:\n3x + 2 = 4\n\nCASO 2: Si  a = 0  y  b = 0 , la ecuación tiene infinitas soluciones.\nEjemplo:\n3x + 4 = 3x + 4\n\nCASO 3: Si  a = 0  y  b ≠ 0 , la ecuación no tiene solución.\nEjemplo:\n3x + 3 = 3x ‒ 5\n\nEJERCICIOS\n\n1.\t La ecuación  2x + 1 = 3x + 2 , ¿tiene solución única?\n\n2.\t La ecuación  4x + 5 = (x + 2) + (3x + 2) , ¿tiene solución?\n\n3.\t La ecuación  2x + 2 = 2(x + 1) , ¿tiene infinitas soluciones?\n",
+      "cantidad_caracteres": 658,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "texto": "MATEMÁTICA\n128\n\n4.\t ¿Cuántas soluciones tiene la ecuación  3( x – 2 ) – 2x  =  x – 2 ?\n\nx\n2\n\n5.\t ¿Qué condiciones debe cumplir el parámetro t para que la ecuación  x(1 + 4t) – 24 = 3xt –       , tenga solución \n\núnica?\n\n6.\t ¿Qué condición debe cumplir el parámetro p, para que la ecuación  px – 1 = 4x + p , no tenga solución?\n\n7.\t ¿Qué condición debe cumplir el parámetro m para que la ecuación  mx + m = 2x + 2 , tenga infinitas soluciones?\n\n8.\t ¿Cuál es el conjunto solución de la ecuación                   =  ‒1  ?\nx + 3\n15 + 5x\n\n1.   Sí \n2.   No\n3.   Sí\n4.    Ninguna\n5.    t  ≠  ‒\n6.   p = 4\n7.   m = 2\n8.   Ø\n3\n2\n\nRespuestas\n",
+      "cantidad_caracteres": 633,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "texto": "CAPÍTULO II: ÁLGEBRA 129\n\n10.\t  ECUACIONES CON VALOR \t \t\n\t\n\t\n  ABSOLUTO\n\n|ax + b| = c , con a, b y c coeficientes reales, a ≠ 0.\n\nOBSERVACIONES\n\n•\t\nSi c > 0, la ecuación tiene dos soluciones.\n\nSi  c ≥ 0 , se resuelve por medio de la definición de\nvalor absoluto.\n\n•\t\nSi c = 0, la ecuación tiene una solución.\n\n•\t\nSi c < 0, la ecuación no tiene solución.\n\nEs decir:  ax + b = c      ó     ax + b = ‒c\n\nEJERCICIOS\n\n1.\t El conjunto solución de la ecuación  |2x – 4| = 6  es\n\n2.\t Las raíces o soluciones de la ecuación                  = 5  son\n2 ‒ x\n\n4\n",
+      "cantidad_caracteres": 550,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "texto": "MATEMÁTICA\n130\n\n3.\t Si  x > 0 , la raíz de la ecuación  |x – 3| – 5 = 0  es\n\n4.\t Si  |5x – 1| + 4 = 0 , entonces el conjunto solución de la ecuación es\n\n5.\t El conjunto solución de la ecuación                           = 3  , es\n2x ‒ 5  + 6\n\n2\n\n2\n\n6.\t El conjunto solución de la ecuación                = 1  , es\nx + 1\n\n7.\t ¿Cuáles son las raíces o soluciones de la ecuación      (x ‒ 2)2   =  5  ?\n\n1.   { ‒1, 5}\n2.   ‒18 y 22\n3.   8\n4.   Ø\n5.   \n6.   {‒3, 1}\n7.   x = ‒3,   y    x = 7\n5\n2\n\nRespuestas\n",
+      "cantidad_caracteres": 503,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "texto": "CAPÍTULO II: ÁLGEBRA 131\n\n11.\t PLANTEAMIENTOS\n\nEn los problemas de planteamientos aparecen expresiones o vocablos que debemos traducir a lenguaje matemático.\n\nEJERCICIOS\n\nTraduzca al lenguaje matemático: \n\na.\t El doble de un número p.\n\nb.\t El cuadrado de un número m.\n\nc.\t El triple de un número q. \n\nd.\t El cubo de un número a. \n\ne.\t El cuádruplo de un número b. \n\nf.\t La cuarta potencia de un número c.\n\ng.\t El quíntuplo de un número d. \n\nh.\t La quinta potencia de un número b. \n\ni.\t La diferencia entre m y n, respectivamente.\n\nj.\t El exceso de a sobre b es n unidades. \n\nk.\t La semisuma entre los números a y b. \n",
+      "cantidad_caracteres": 617,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "texto": "MATEMÁTICA\n132\n\nl.\t La semidiferencia entre los números m y n, respectivamente.\n\nm.\t x aumentado en a unidades.\n\nn.\t x disminuido en a unidades.\n\no.\t x es a unidades mayor que b.\n\np.\t x es a unidades menor que b.\n\nq.\t El producto de a y b.\n\nr.\t n veces el número a.\n\ns.\t El cuociente entre p y q.\n\nt.\t El doble de a más b.\n\nu.\t El triple de, c menos a.\n\nv.\t El triple de c menos a.\n\np\nq\n\nm.    x+a\nn.    x‒a\no. x‒a = b    ó    x = b+a\np.  x+a = b   ó   x = b‒a\nq.    a • b\nr.     n • a\ns.\nt.   2a + b\nu.   3 (c ‒ a) v.   3c ‒ a\n\na+b\n2\nm‒n\n2\n\na.     2p\nb.     m2\nc.      3q\nd.      a3\ne.     4b\nf.       c4\ng.     5d\nh.      b5\ni.  m‒n\nj.  a‒b = n k.  \nl.\n\nRespuestas\n",
+      "cantidad_caracteres": 667,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "texto": "CAPÍTULO II: ÁLGEBRA 133\n\nEJERCICIOS\n\n1.\t El enunciado: “el cuadrado del exceso del doble de a sobre b” se expresa por\n\n2.\t El producto del cubo de a y la undécima potencia de b, es equivalente a\n\n3.\t Hugo tiene $ x , su hermana Eliana tiene $ 20.000 más que el triple de lo que tiene Hugo. ¿Cuál es la expresión \n\nalgebraica que representa el dinero que tiene Eliana, en pesos?\n\n4.\t El enunciado: “el cuádruplo de, b disminuido en el semiproducto de a y b”, se expresa como\n\n5.\t El enunciado: “el exceso del cubo de la diferencia entre m y n sobre 5 unidades, equivale al exceso de m sobre \n\nn”, queda expresado por\n\n1.   (2a ‒ b)2\n2.   a3 • b11\n3.   3x + 20.000\n4.   4  b ‒ \n5.   (m ‒ n)3 ‒ 5 = m ‒ n\nab\n2\n\nRespuestas\n",
+      "cantidad_caracteres": 720,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "texto": "MATEMÁTICA\n134\n\n11.1\t ESTRATEGIA PARA RESOLVER\n\t\nPROBLEMAS DE PLANTEAMIENTO\n\nExisten diversos tipos de problemas de planteamientos, sin embargo en todos ellos es conveniente:\n\n•\t Leer total y cuidadosamente el problema, antes de empezar a resolver.\n\n•\t Hacer un listado de incógnitas y datos.\n\n•\t Hacer un diagrama de la situación planteada, si el caso lo requiere.\n\n•\t Plantear y resolver la(s) ecuación(es) si el caso lo requiere.\n\n•\t Comprobar la(s) solución(es).\n\n•\t Dar respuesta a la pregunta del problema.\n\nEJERCICIOS\n\n1.\t Si al cuádruplo del antecesor de w se le suma el sucesor del sucesor de w y al resultado se le resta el triple\n\nde w, resulta\n\n2.\t La diferencia entre el cuadrado de un número p y el producto de él con su quíntuplo, es igual a\n\n3.\t Si a la semisuma de m y n se le resta la semidiferencia de m y n, respectivamente, se obtiene \n\n4.\t Un número aumentado en 40 unidades es igual al doble de su antecesor. ¿Cuál es el sucesor del número? \n",
+      "cantidad_caracteres": 965,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "texto": "CAPÍTULO II: ÁLGEBRA 135\n\n5.\t El número cuyo cuádruplo excede a 35 en lo mismo que 35 excede al triple del número, es\n\n6.\t Una regla se divide en dos partes, de tal forma que el trazo mayor es el cuádruplo del trazo menor, aumentado \n\nen 8 unidades. Si dicha regla mide 28 unidades, ¿cuánto mide el trazo menor?\n\n7.\t Carlos tiene $x, su amigo Iván tiene $30.000 más que el doble de lo que tiene Carlos. Si entre los dos tienen \n\n$147.000, ¿cuánto tiene Iván?\n\n8.\t Si el lado de un cuadrado de medida a unidades disminuye en t unidades formando un nuevo cuadrado, \n\nentonces la diferencia positiva entre el área del nuevo cuadrado y el área del original, en unidades cuadradas, es\n\nRespuestas\n1.   2(w ‒ 1)\n2.   -4p2\n3.   n\n4.   43 \n5.   10\n6.   4 unidades\n7.   $108.000\n8.   2at - t2\n",
+      "cantidad_caracteres": 784,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "texto": "MATEMÁTICA\n136\n\n11.2\t PROBLEMAS CON FRACCIONES\n\nSon problemas en que se pide calcular la parte de un todo, es decir, una fracción de un número.\n\nLa fracción          de un número x se calcula multiplicando           por  x.\na\nb\n\na\nb\n\nEJERCICIOS\n\n1.\t En un supermercado hay nueve decenas de empleados. Un tercio de ellos son reponedores, cinco novenos \n\natienden en el segundo piso y el resto son cajeros. ¿Cuántos empleados atienden en las cajas?\n\n2.\t El sueldo mensual de una persona es $ M. Si gasta las tres cuartas partes y el resto lo ahorra, ¿qué expresión \n\nrepresenta el ahorro trimestral de dicha persona, en pesos?\n\n3.\t Gabriel compra un sofá a crédito en $ 5B, pagando un sexto al contado y el resto en 25 cuotas iguales. ¿Cuál \n\nes el valor de cada cuota?\n",
+      "cantidad_caracteres": 768,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "texto": "CAPÍTULO II: ÁLGEBRA 137\n\n4.\t Los        de un número, disminuidos en 5 unidades es igual a 25. ¿Cuánto es la quinta parte del número?\n2\n3\n\n1\n3\n\n2\n5\n\n5.\t Pedro, Andrea y Marcela inician un emprendimiento, aportando Andrea y Marcela, un       y         del capital \n\ninicial respectivamente, y Pedro el resto, que son $200.000. ¿Cuánto es la diferencia positiva entre los aportes \n\nde Andrea y Marcela?  \n\n6.\t Mario debe recorrer B kilómetros en tres días. Si el primer día recorre un cuarto de B, el segundo día un medio \n\ndel resto y el tercer día 21 kilómetros, ¿cuánto recorrió el segundo día? \n\n1.   10\n2.\n3.     $\n4.   9\n5.   $50.000 6.   21 kms.\n3 • M\n4\nB\n6\n\nRespuestas\n",
+      "cantidad_caracteres": 676,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "texto": "MATEMÁTICA\n138\n\n11.3\t PROBLEMAS DE DÍGITOS\n\nUn número está escrito en notación ampliada o desarrollada si se expresa como la suma de las cantidades \nque resulten de multiplicar cada dígito de dicho número por la potencia de diez correspondiente a su posición:\n...centena, decena, unidad, décima, centésima...\n\nPor ejemplo:  324,87  =   3 • 102  +  2 • 101  +  4 • 100  +  8 • 10 ‒1  +  7 • 10‒2\n\nEsta notación también recibe el nombre de notación decimal posicional.\n\nPara los problemas de dígitos debemos usar la notación \nampliada, donde en el sistema decimal un número de la \nforma cba, en que a, b y c son las cifras de las unidades, \ndecenas y centenas respectivamente, queda representado por:\n\ncba  =  c • 102  +  b • 101  +  a • 100\n\nEJERCICIOS\n\n1.\t El número entero  3.407  en notación ampliada es\n\n2.\t El desarrollo de  867,93  en notación decimal posicional es\n\n3.\t 4 • 103  +  7 • 102  +  3 • 100  +  2 • 10‒1  +  6 • 10‒2   es equivalente a\n",
+      "cantidad_caracteres": 953,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "texto": "CAPÍTULO II: ÁLGEBRA 139\n\n4.\t Si B es un número de dos dígitos, en que el dígito de las unidades es w y el dígito de las decenas es z, entonces \n\nel antecesor del antecesor de B es\n\n5.\t Los dígitos de un número de tres cifras suman 6 y el dígito de las decenas es el doble del dígito de las centenas. \n\nSi el dígito de las centenas es c, entonces el número en términos de c es\n\n6.\t La cifra de la decena de un número de dos dígitos excede en 5 a la cifra de la unidad. El cuociente del número \n\ny la suma de sus dígitos es 8, entonces el sucesor del número es\n\n7.\t Si los dígitos de un número de 3 cifras suman 20 y el dígito de las decenas es 2 veces el dígito de las unidades \n\n(m), entonces la cifra de las centenas es\n\nRespuestas\n1.   3•103 + 4•102 + 7•100 2.    8•102 + 6•101 + 7•100 + 9•10‒1 + 3•10‒2\n3.   4.703,26\n4.   10z + w ‒ 2\n5.    117c + 6\n6.   73\n7.   20 ‒ 3m\n",
+      "cantidad_caracteres": 874,
+      "imagenes": []
+    }
+  ]
+}

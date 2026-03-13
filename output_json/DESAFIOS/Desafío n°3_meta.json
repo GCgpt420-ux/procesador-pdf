@@ -1,0 +1,62 @@
+{
+  "filename": "Desafío n°3.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/DESAFIOS/Desafío n°3.pdf",
+  "num_paginas": 6,
+  "titulo": "",
+  "autor": "ange",
+  "fecha_procesamiento": "2026-03-07T16:00:56.416706",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nDESAFÍO  N° 3 \nEJE TEMÁTICO: GEOMETRÍA \n\n  \n \n \n \n \n \n \n \n \n \n1. \nSi en la figura adjunta L1 // L2, entonces m + n = \n \n\nL1 \n\nA)   60° \nB)   80° \nC)   90° \nD) 100° \n \n\nm \n \n \n\n  \n\nn \n\nL2 \n\n \n \n \n \n2. \nCon los datos proporcionados en la figura adjunta, se puede determinar que  =  \n \n \n\n \n\n2 \n\n \n\nA) 30° \nB) 22,5° \nC) 25° \nD) 18° \n\n \n\n \n \n \n\n \n \n \n \n \n3. \nEn la figura adjunta, AC = AB = BD. Entonces, x =  \n\n \n \n\nC \n\nD \nx \n\nA) 60° \nB) 50° \nC) 45° \nD) 30° \n \n\n \n2 \n\n \n \n \n \n4. \nEn la figura adjunta, PS = QM = MR y MPQ = 20°. ¿Cuánto mide el ángulo PQR? \n\nA \nB \n\n \nA) 20° \nB) 30° \nC) 40° \nD) 50° \n\nR \n\nM \n\n \n \n \n\nP \nS \nQ \n",
+      "cantidad_caracteres": 640,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 96.5654296875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.525390625
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n\n5. \nEn la figura adjunta, los triángulos ABC y EAD son congruentes, AC = BC y  \nBFD = 36°. ¿Cuál es la medida del x? \n\nC \n\n \n \n\nA) 60° \nB) 54° \nC) 46° \nD) 36° \n\nE \nF \n\n \n \n \n \n \n6. \nEn la figura ABC  DEF. Si CAB = 80°, EDB = 40° y AC  // EF , entonces  \n\nx \n\nA \nB \nD \n\nBCA = \n\n \n\nF \nC \n\nA) 45° \nB) 30° \nC) 60° \nD) 40°   \n \n \n \n \n \n \n7. \nEn el paralelogramo ABCD de la figura adjunta, se tiene que QR  // AD , QPR = 60°, \n\nD \n\nA \nB \nE \n\nPRA = 20° y QP es bisectriz del ángulo DQR. Entonces, x =  \n\n \n \n\nD \nQ \nC \n\nA) 100° \nB) 110° \nC) 120° \nD) 130° \n\nx \n\nP \n\n \n \n \n \n \n \n8. \nEn la figura adjunta, ABCD es un cuadrado y BEFC es un rombo. Si FBE = 15°, \n\nA \nR \nB \n\nentonces EFD =  \n\nF \n\n \n\nA) 30° \nB) 45° \nC) 60° \nD) 75° \n\nC \nD \n\n \n \n \n \n \n \n \n \n \n\nE \n\nA \nB \n\nPágina 2 \n \n",
+      "cantidad_caracteres": 784,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": " \n\n9. \nEl cuadrilátero ABCD de la figura adjunta es un cuadrado y el triángulo ECD es \nequilátero. ¿Cuánto mide el ángulo CAE? \n \n \n\nD \nC \n\nA) 15° \nB) 22,5° \nC) 25° \nD) 30° \n\nE \n\n \n \n \n \n \n \n10. En el triángulo ABC rectángulo en C de la figura adjunta, DE // AB  y AD   FE . Si \n\nA \nB \n\nBEF : DEC = 2 : 3, ¿cuánto mide el ángulo BEF? \n\n \n \n\nC \n\nA) 15° \nB) 20° \nC) 22,5° \nD) 36° \n\nE \nD \n\n \n \n \n \n \n11. En la figura adjunta, ABCD es un trapecio isósceles de bases AB  y CD . Si AB = BE, \n\nA \nF \nB \n\n¿cuánto mide el ángulo CBE?  \n \n \n\nD \nC \n\nE \n\nA) 45° \nB) 47° \nC) 50° \nD) 55° \n\n105° \n\n \n \n \n \n \n12. En un cuadrilátero convexo, la suma de las medidas de dos ángulos consecutivos es \n\n30° \n\nA \nB \n\n190°. ¿Cuánto mide el mayor de los ángulos formados por las bisectrices de los \notros dos ángulos?  \n \n \n\nA)   85° \nB)   90° \nC)   95° \nD) 100° \n\n \n \n \n\nPágina 3 \n \n",
+      "cantidad_caracteres": 862,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": " \n\n13. En el cuadrilátero ABCD de la figura adjunta, BN y CM son bisectrices de los ángulos \n\nABC y BCD, respectivamente. ¿Cuánto suman las medidas de los ángulos BAD y \nCDA? \n \n\nN \nD \n\nA) 3 \n\nB) \n4\n3  \n\nM \n\nC \n\n \n\nC) \n3\n2  \n\nA \n\nD) 2 \n \n\n \n \n \n14. En la figura adjunta, CAP = 35° y APD = 50°. ¿Cuál es la medida del ángulo \n\nB \n\nDBP? \n \n \n \n\nD \n\nA)   85° \nB)   95° \nC) 105° \nD) 115° \n\nA \n\nC \n\n \n \n \n \n \n \n15. En la circunferencia de centro O, M es punto medio de AD  y ABM = 35°. Entonces, \n\nB \n\nP \n\nDAC =  \n\n \n \n\nD \n\nM \n\nA) 20° \nB) 25° \nC) 30° \nD) 35° \n\nO \n\nC \n\nA \n\n \n \n \n \n \n \n \n16. En la figura adjunta, PQ  es diámetro de la circunferencia circunscrita al triángulo \n\nB \n\nSQR y los ángulos PQR y PTR miden respectivamente, 20° y 85°. ¿Cuánto mide el \nángulo SQP? \n \n\nR \n\nA) 25° \nB) 30° \nC) 35° \nD) 40° \n\nQ \n\nT \n\nP \n\n \n \n \n\nS \n\nPágina 4 \n \n",
+      "cantidad_caracteres": 853,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": " \n\n17. En la circunferencia de la figura adjunta, CDB = 38°, BCA = 18° y ACD = 45°. \n\n¿Cuánto mide el ángulo DAC? \n \n\nC \n\nA) 38° \nB) 45° \nC) 63° \nD) 79° \n\nD \n\n \n \n \n \n \n \n18. En la circunferencia de la figura adjunta, ABC = 110° y DEF = 120°. Entonces, \n\nB \n\nA \n\nAGF =   \n\nE \n\n \n\nF \n\nA) 35° \nB) 40° \nC) 45° \nD) 50° \n\nD \n\nG \n\nC \n\n \n \n\nB \nA \n\n \n \n \n19. En la circunferencia de centro O de la figura adjunta, x = 35° e y = 45°. Entonces,  \n\nz = \n\n \n \nA) 140° \nB) 125° \nC) 110° \nD)   80° \n \n \n \n \n \n20. En la circunferencia de centro O de la figura adjunta, se ha inscrito un pentágono. Si \n\nO \n\nx \ny \n\nz \n\nel triángulo PQO es equilátero, entonces  +  =  \n \n \n\nA) 250° \nB) 210° \nC) 190° \nD) 185° \n \n \n \n \n\n \n\nO \n\n \n\nP \n\nQ \n\n \n \n \n \n \n \n\nPágina 5 \n \n",
+      "cantidad_caracteres": 755,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": " \n\n \nRESPUESTAS \n\n \n \n \n\n1. \nC \n6. \nB \n11. \nA \n16. \nA \n\n2. \nB \n7. \nA \n12. \nC \n17. \nD \n\n3. \nA \n8. \nC \n13. \nD \n18. \nD \n\n4. \nC \n9. \nD \n14. \nB \n19. \nA \n\n5. \nB \n10. \nC \n15. \nA \n20. \nB \n \n\nPágina 6 \n \n",
+      "cantidad_caracteres": 195,
+      "imagenes": []
+    }
+  ]
+}

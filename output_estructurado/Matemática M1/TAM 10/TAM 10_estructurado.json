@@ -1,0 +1,379 @@
+{
+  "archivo_original": "TAM 10.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/SOLUCIONARIOS/TAM 10.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 8,
+  "fecha_procesamiento": "2026-03-07T23:08:10.817115",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nA una fiesta de fin de año asisten 80 hombres, 100 mujeres y 60 niños. Si hubieran \nasistido 30 parejas más y 20 niños más, entonces la frecuencia relativa de los niños",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumentaría en un 33,3%."
+        },
+        {
+          "letra": "B",
+          "texto": "disminuiría en un 25%."
+        },
+        {
+          "letra": "C",
+          "texto": "aumentaría en un 25%."
+        },
+        {
+          "letra": "D",
+          "texto": "se mantendría igual. Solucionario fr1 = 60 1 = 240 4 fr2 = 60 + 20 80 1 = = 240 + 60 + 20 320 4 Alternativa correcta: D)"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn la siguiente distribución de datos, los valores del primer cuartil y cuarto decil son,    \nrespectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 y 5"
+        },
+        {
+          "letra": "B",
+          "texto": "5 y 8"
+        },
+        {
+          "letra": "C",
+          "texto": "1 y 1"
+        },
+        {
+          "letra": "D",
+          "texto": "1 y 2 Dato frecuencia 0 3 1 7 2 5 3 3 4 2 Solucionario Hay n = 20 datos, entonces 4  = 5,25  Q1 = 5° + 6° PQ1 = 1 21 2 = 1  = 8,4  d4 = 8° + 9° Pd4 = 4 21 2 = 1 10 Alternativa correcta: C) 1"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \n¿Cuál(es) de los siguientes valores se puede agregar a la tabla para que la mediana  \nsea 35? \n \n \n\nI) \n20 \nII) \n30 \nIII) \n50 \n \n \n\nDato \nFrecuencia \n20 \n10 \n30 \n9 \n40 \n5 \n50 \n8 \n60 \n7",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III Solucionario Inicialmente hay 39 datos, con mediana inicial (posición 20°) = 40. Si se agrega el dato 20 ó 30, hay 40 datos con mediana como el promedio entre los datos 20 y 21, en cualquier caso Me = 30 + 40 2 = 35 Alternativa correcta: C)"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TAM 10_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn un curso mixto hay 11 varones y 10 damas. La estatura promedio de los varones es \n1,72 m y el promedio de estatura de las damas es 1,65 m. Durante el primer semestre \nun varón que medía 1,77 m fue expulsado del colegio e ingresa un nuevo alumno varón \nque mide 1,68 m. Si durante el segundo semestre un varón de 1,73 m de estatura se \nva de intercambio, ¿cuál será ahora la media aritmética (promedio) de las estaturas de \ntodos los alumnos del curso?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,60 m"
+        },
+        {
+          "letra": "B",
+          "texto": "1,68 m"
+        },
+        {
+          "letra": "C",
+          "texto": "1,69 m"
+        },
+        {
+          "letra": "D",
+          "texto": "1,70 m Solucionario Inicialmente; v1 + v2 + … + v11 = 11 · 1,72 y d1 + d2 + … + d10 = 10 · 1,65 = 16,5 Como ingresa un nuevo varón 0,09 más bajo entonces: v1 + v2 + … + v11 = 11 · 1,72 – 0,09 = 18,83 Luego, se retira un varón de estatura 1,73: v1 + v2 + … + v10 = 18,83 – 1,73 = 17,1 El nuevo promedio del curso será: 17,1 + 16,5 10 + 10 = 1,68 Alternativa correcta: B) 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nLa tabla adjunta, muestra las notas obtenidas por 5 alumnos al rendir los exámenes \nfinales de Matemática y Química.  \n \n \n \n \n \n \n \n \n \n \n \n\nAlumno \nMatemática  Química  \n\nA \n6,5 \n4,5 \n\nB \n4,5 \n5,0 \n\n \n\nC \n6,8 \n4,8 \n\nD \n2,2 \n4,2 \n\nE \n4,0 \n5,5 \n\nLa desviación estándar aproximada de las notas de Matemática es 1,69 y de las notas \nde Química es aproximadamente 0,44. De acuerdo a esta información, ¿cuál(es) de las \nsiguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \nLas notas obtenidas en Matemática están más lejos de la media aritmética \nque las obtenidas en Química. \nII) \nLos resultados de Química fueron más homogéneos. \nIII) \nLos resultados de Matemática fueron más irregulares.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III Solucionario Como M = 1,69 y Q = 0,44 Luego, M > Q y ambas asignaturas tienen promedio 4,8. Entonces, I), II) y III) son verdaderas. Alternativa correcta: D) 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TAM 10_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEl gráfico circular de la figura adjunta, muestra las preferencias de 120 personas sobre \nlas frutas que consumen en la temporada de verano: sandía (S), manzanas (M), peras \n(P), naranjas (N) y duraznos (D). Si se compraron 2.400 kilos de estas frutas, ¿cuál es \nel total de kilos de manzanas y de duraznos que se compraron? \n\n \n \n\nManzanas \nDuraznos \n\nS \n\nM",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40 53,3"
+        },
+        {
+          "letra": "B",
+          "texto": "20 20"
+        },
+        {
+          "letra": "C",
+          "texto": "300 400"
+        },
+        {
+          "letra": "D",
+          "texto": "15 20 135º 30º P D N Solucionario Al sector (M)(manzanas) le corresponde un ángulo de 45° M = 45° 1 = 360° 8 M = 1 8 · 2.400 = 300 Al sector (D)(duraznos) le corresponde un ángulo de 60° M = 60° 1 = 360° 6 M = 1 6 · 2.400 = 400 Alternativa correcta: C)"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TAM 10_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7.   Los datos ordenados corresponden al número de reservas que se hacen en un \n\nprestigioso restaurant. \n\n      48     52    58     63     68    x  \n      76     82     y \n  96     98  102 \n\n \nSi la mediana de la muestra es 73 y la media aritmética o promedio es 75, ¿cuál es el \nvalor de x + y?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "70"
+        },
+        {
+          "letra": "B",
+          "texto": "78,5"
+        },
+        {
+          "letra": "C",
+          "texto": "87"
+        },
+        {
+          "letra": "D",
+          "texto": "157 Solucionario x = 75 = 743 + x + y 12  x + y = 75 · 12 – 743 = 157 Alternativa correcta: D) 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8.  \nEn el gráfico de la figura adjunta se muestra las ventas anuales de una empresa que \nproduce 4 tipos de artículos, A, B, C y D. Si los ingresos por la venta del artículo A \nalcanzaron los 581 millones de dólares, entonces la venta total anual de esta empresa \nalcanzó en millones de dólares, la suma de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3.500"
+        },
+        {
+          "letra": "B",
+          "texto": "2.800"
+        },
+        {
+          "letra": "C",
+          "texto": "3.000"
+        },
+        {
+          "letra": "D",
+          "texto": "3.200 C 27,8% B 40% D x% A (x + 1)% Solucionario x + (x + 1) = 32,2 2x = 31,2 x = 15,6% Aplicando regla de 3 16,6%  581 100%  T Por lo tanto, T = 3.500 Alternativa correcta: A)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TAM 10_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nEl rango de un conjunto de datos puede ser un número negativo. \nII) \nUn histograma es la representación gráfica de las frecuencias relativas o \nabsolutas. \nIII) \nLa ojiva representa la frecuencia absoluta o relativa, acumulada.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III Solucionario I) Falsa El rango se determina por la diferencia entre el mayor y el menor de los datos. Por tanto, siempre es un valor positivo. II) Verdadera III) Verdadera Alternativa correcta: D) 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. La suma de las edades de los alumnos de una sala de clases es 1.258 años, y el \n\npromedio de sus edades no se altera al incorporarse un alumno de 17 años. Además, la \nedad promedio de todos sería 16 años, si cada varón tuviese 5 años más y cada mujer \n4 años menos. Si la edad promedio de los varones es 19 años, entonces ¿cuál sería el \npromedio que tendrían las mujeres, si 10 de ellas tuvieran 2 años más y otras 8 \ntuvieran 3 años menos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14,24"
+        },
+        {
+          "letra": "B",
+          "texto": "15,58"
+        },
+        {
+          "letra": "C",
+          "texto": "15,84"
+        },
+        {
+          "letra": "D",
+          "texto": "15,92 Solucionario Si el promedio no se altera se cumple que"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Un estudiante de primer año de la carrera de Derecho, tiene una probabilidad de 0,8 de \n\naprobar el ramo de Derecho Penal y una probabilidad de 0,9 de aprobar el ramo de \nDerecho Constitucional. Según esto, ¿cuál es la probabilidad que tiene que aprobar al \nmenos una de las asignaturas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,92"
+        },
+        {
+          "letra": "B",
+          "texto": "0,96"
+        },
+        {
+          "letra": "C",
+          "texto": "0,98"
+        },
+        {
+          "letra": "D",
+          "texto": "0,99 Solucionario Probabilidad = 0,8 + 0,9 – (0,8) · (0,9) = 1,7 – 0,72 = 0,98 Alternativa correcta: C) 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Un dado está cargado, de modo tal que cuando se lanza este dado, la probabilidad de \n\nobtener un número, es proporcional al mismo número. ¿Cuál es la probabilidad de \nobtener un 3, cuando se lanza este dado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 8"
+        },
+        {
+          "letra": "B",
+          "texto": "1 7"
+        },
+        {
+          "letra": "C",
+          "texto": "1 4"
+        },
+        {
+          "letra": "D",
+          "texto": "1 3 Solucionario Si P(1) = p P(2) = 2p P(3) = 3p P(4) = 4p P(5) = 5p y P(6) = 6p Entonces, p + 2p + 3p + 4p + 5p + 6p = 1  p = 1 21 Luego, como P(3) = 3p, entonces P(3) = 3 · 1 21 = 1 7 Alternativa correcta: B)"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Del conjunto de números primos menores que 10 se escogen dos al azar. ¿Cuál es la \n\nprobabilidad que al sumar los números obtenidos se obtenga como resultado un \nnúmero primo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 3"
+        },
+        {
+          "letra": "B",
+          "texto": "1 5"
+        },
+        {
+          "letra": "C",
+          "texto": "1 6"
+        },
+        {
+          "letra": "D",
+          "texto": "1 12 Solucionario Casos posibles = (2, 3); (3, 2); (2, 5); (5, 2); (2, 7); (7, 2); (3, 5); (5, 3); (3, 7); (7, 3); (5, 7); (7, 5). Casos favorables = (2, 3); (3, 2); (2, 5); (5, 2) Probabilidad = 4 12 = 1 3 Alternativa correcta: A) 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Cierto helipuerto tiene la forma del cuadrado ABCD de la figura adjunta. Si M, N, P y Q \n\nson puntos medios de los lados del cuadrado y un helicóptero se va a posar \naleatoriamente en este helipuerto, ¿cuál es la probabilidad que NO aterrice en la región \nachurada? \n \n \n\nD \nP \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,125"
+        },
+        {
+          "letra": "B",
+          "texto": "0,750"
+        },
+        {
+          "letra": "C",
+          "texto": "0,800"
+        },
+        {
+          "letra": "D",
+          "texto": "0,875 Q N A M B Solucionario Triangulando adecuadamente el cuadrado se determina que el triángulo achurado es 1 8 del cuadrado. Luego, 1 - 1 8 = 7 8 = 0,875 Alternativa correcta: D)"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "TAM 10_p8_img1.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Un dado se lanza 4 veces. Si P1 es la probabilidad de que los 4 resultados sean iguales \n\ny P2 es la probabilidad de que los 4 resultados sean diferentes, entonces P1 + P2 es \nigual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14 128"
+        },
+        {
+          "letra": "B",
+          "texto": "15 128"
+        },
+        {
+          "letra": "C",
+          "texto": "16 128"
+        },
+        {
+          "letra": "D",
+          "texto": "61 216 Solucionario 6 = 1 216 P1 = 6 6 · 1 6 · 1 6 · 1 6 = 60 P2 = 6 6 · 5 6 · 4 6 · 3 216 P1 + P2 = 60 + 1 216 = 61 216 Alternativa correcta: D) TAM-10 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    }
+  ]
+}

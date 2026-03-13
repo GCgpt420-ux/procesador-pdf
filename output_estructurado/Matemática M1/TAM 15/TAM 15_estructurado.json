@@ -1,0 +1,84 @@
+{
+  "archivo_original": "TAM 15.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/SOLUCIONARIOS/TAM 15.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 6,
+  "fecha_procesamiento": "2026-03-07T23:08:15.970087",
+  "preguntas": [
+    {
+      "numero": 6,
+      "enunciado": "6. \n\nPara el control de calidad de cierto producto se eligen 3 al azar de una caja que contiene 50 \nunidades. Por experiencias anteriores se sabe que aproximadamente el 10% de las unidades \nde la caja tiene una calidad deficiente. ¿Cuál es la probabilidad aproximada que ninguno, \nuno, o dos sean deficientes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,001"
+        },
+        {
+          "letra": "B",
+          "texto": "0,729"
+        },
+        {
+          "letra": "C",
+          "texto": "0,819"
+        },
+        {
+          "letra": "D",
+          "texto": "0,999 Solucionario 10% de 50 = 5 P(todos sean deficientes) = 5 4 3 50 49 48   P(pedida) = 1 - 5 4 3 50 49 48          0,999 Alternativa correcta: D) Página 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSi se lanza un dado normal tres veces, ¿cuál es la probabilidad de obtener tres \nresultados distintos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 3"
+        },
+        {
+          "letra": "B",
+          "texto": "1 2"
+        },
+        {
+          "letra": "C",
+          "texto": "4 9"
+        },
+        {
+          "letra": "D",
+          "texto": "5 9 Página 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. \nLa tabla muestra la distribución por sexo y edad de los trabajadores de cierta empresa. \nSi se escoge un hombre al azar, ¿cuál es la probabilidad que tenga 35 años? \n\n \n\n \n\n                Edad",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "175 Mayores a 35 años Menores o iguales a 500 35 años Sexo"
+        },
+        {
+          "letra": "B",
+          "texto": "145 hombre 175 145 500 mujer 100 80"
+        },
+        {
+          "letra": "C",
+          "texto": "320 500"
+        },
+        {
+          "letra": "D",
+          "texto": "No se puede determinar. Solucionario La tabla muestra cantidades de hombres y mujeres menores o iguales a 35 años, luego no es posible determinar cuántos tienen 35 años. Alternativa correcta: D) Página 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TAM 15_p5_img1.jpg",
+        "TAM 15_p5_img0.jpg"
+      ]
+    }
+  ]
+}

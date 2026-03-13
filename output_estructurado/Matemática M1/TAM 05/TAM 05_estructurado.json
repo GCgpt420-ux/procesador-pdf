@@ -1,0 +1,369 @@
+{
+  "archivo_original": "TAM 05.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TAM 05.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 4,
+  "fecha_procesamiento": "2026-03-07T23:07:34.029711",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n¿Cuál es un valor posible de m – n, si se sabe que m + n = 8  y  mn = 4?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "3 2"
+        },
+        {
+          "letra": "C",
+          "texto": "3 3"
+        },
+        {
+          "letra": "D",
+          "texto": "4 3"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nUna empresa se comprometió a ejecutar la construcción de un puente y culminarlo al \ncabo de n días, pero al inicio del tercer día, 5 obreros presentaron licencia médica y no \nsiguieron trabajando, por cuyo motivo se terminó la obra 6 días después del plazo \nconvenido. ¿Cuánto tiempo se tardó en la ejecución de la obra, si inicialmente partieron \ntrabajando 200 obreros?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "232 días"
+        },
+        {
+          "letra": "B",
+          "texto": "236 días"
+        },
+        {
+          "letra": "C",
+          "texto": "240 días"
+        },
+        {
+          "letra": "D",
+          "texto": "242 días n 17 5n a  = n 23 a con a > 0, un valor de n puede ser"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn la ecuación an ·",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nSi x  [-2, 3], entonces ¿cuál es el menor valor de a y el mayor valor de b para los \n\ncuales se satisface la desigualdad  a  x + 5\n\nx + 7   b?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 5 y 11 5"
+        },
+        {
+          "letra": "B",
+          "texto": "3 5 y 4 5 5 y 11"
+        },
+        {
+          "letra": "C",
+          "texto": "7 5"
+        },
+        {
+          "letra": "D",
+          "texto": "3 5 y 7 5"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \n¿Cuál es el valor de k, si se sabe que k = [(0,5)0,5 + (0,25)0,25]8?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "16"
+        },
+        {
+          "letra": "D",
+          "texto": "32"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \n¿Para qué valores de x se cumple que f(g(x)) = g(f(x)), si f(x) = x + 1  y  \ng(x) = x2 + 1?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Para x = - 1 2"
+        },
+        {
+          "letra": "B",
+          "texto": "Para x = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "Para x = 1 2"
+        },
+        {
+          "letra": "D",
+          "texto": "Para x = 0 y para x = 1"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi n = 3 7  – 1, entonces n3 + 3n2 + 3n + 3 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "7"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "7 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \n¿Cuál de los siguientes es un factor del polinomio a(b2 + c2) + b(c2 + a2)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a – b"
+        },
+        {
+          "letra": "B",
+          "texto": "ab + c"
+        },
+        {
+          "letra": "C",
+          "texto": "ab + c2"
+        },
+        {
+          "letra": "D",
+          "texto": "a2b + c"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSi m2 + n2 = 30  y  m + n = \n6 , entonces (m – n)2 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "30"
+        },
+        {
+          "letra": "C",
+          "texto": "36"
+        },
+        {
+          "letra": "D",
+          "texto": "54"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. ¿Cuál es el recorrido de la función f(x) = 3-x ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "]0, +["
+        },
+        {
+          "letra": "B",
+          "texto": "]-, 0["
+        },
+        {
+          "letra": "C",
+          "texto": "]-, 1["
+        },
+        {
+          "letra": "D",
+          "texto": "]0, 1]"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Si en este instante, el número de horas transcurridas del día es igual al triple del \n\nnúmero de horas que faltan por transcurrir, ¿qué hora es?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 P.M."
+        },
+        {
+          "letra": "B",
+          "texto": "6 P.M."
+        },
+        {
+          "letra": "C",
+          "texto": "6:30 P.M."
+        },
+        {
+          "letra": "D",
+          "texto": "19:15 P.M. 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Si  y  son las raíces (soluciones) de la ecuación x2 – x – 5 = 0, entonces ¿cuál es el \n\nvalor de \n  \n\n\n\n\n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 5"
+        },
+        {
+          "letra": "B",
+          "texto": "- 13 5"
+        },
+        {
+          "letra": "C",
+          "texto": "- 11 5"
+        },
+        {
+          "letra": "D",
+          "texto": "11 5"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. De un primer año de ingeniería se sabe que, aprobó Cálculo el 70%, aprobó Álgebra el \n\n80% y el 60% aprobó ambos ramos. Si 120 alumnos aprobaron Álgebra, ¿cuántos \nalumnos reprobaron ambos ramos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15"
+        },
+        {
+          "letra": "B",
+          "texto": "30"
+        },
+        {
+          "letra": "C",
+          "texto": "45"
+        },
+        {
+          "letra": "D",
+          "texto": "60"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Para llegar a su departamento, Felipe sube la escalera de 2 en 2 peldaños y la baja de \n\n3 en 3. Si al subir y bajar ha dado en total 60 pasos, ¿cuántos peldaños tiene la \nescalera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "36"
+        },
+        {
+          "letra": "B",
+          "texto": "48"
+        },
+        {
+          "letra": "C",
+          "texto": "60"
+        },
+        {
+          "letra": "D",
+          "texto": "72 8 6 3 x = 0, entonces n = n 3 15 x –"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Si x es un real positivo distinto de 1,  y se cumple que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50"
+        },
+        {
+          "letra": "B",
+          "texto": "60"
+        },
+        {
+          "letra": "C",
+          "texto": "70"
+        },
+        {
+          "letra": "D",
+          "texto": "80 TAM-05 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    }
+  ]
+}

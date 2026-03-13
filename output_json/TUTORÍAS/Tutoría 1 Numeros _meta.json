@@ -1,0 +1,836 @@
+{
+  "filename": "Tutoría 1 Numeros .pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TUTORÍAS/Tutoría 1 Numeros .pdf",
+  "num_paginas": 68,
+  "titulo": "",
+  "autor": "Rosa Martínez",
+  "fecha_procesamiento": "2026-03-07T16:02:35.014657",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nTUTORÍA N°1 \n\n \nNÚMEROS \n\n \n \n \n \n \n \n \n \n \n\n \n \n",
+      "cantidad_caracteres": 96,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 18.94921875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "INSTRUCCIONES ESPECÍFICAS \n \n \nEl material presentado a continuación incluye una serie de ejercicios relacionados con el eje \ntemático de Números, y que han sido diseñados según las pautas dadas por DEMRE para la \nprueba de selección universitaria, PSU. \n \n \nPara el desarrollo de este material tenga presente: \n \n1. \nLa siguiente tabla contiene una serie de símbolos, los que puede consultar durante el \ndesarrollo de los ejercicios. \n \n2. \n \n\n \n \n es menor que \n  es congruente con \n \n \n es mayor que \n  es semejante con \n \n \n es menor o igual a \n  es perpendicular a \n    \n \n es mayor o igual a \n  es distinto de \n \n \n ángulo recto \n  es paralelo a \n \n            ángulo \n  trazo AB \n \n            logaritmo en base 10 \n  pertenece a \n \n            conjunto vacío \n  valor absoluto de x \n \n \n            logaritmo base e \n \n \n         factorial de x \n \n            unión de conjuntos  \n \n         intersección de conjuntos \n \n            complemento del conjunto A                vector u \n \n   \n ",
+      "cantidad_caracteres": 1299,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "5. \nEn las preguntas de suficiencia de datos no se pide que dé la solución al problema, \nsino que decida si los datos proporcionados en el enunciado del problema más los \nindicados en las afirmaciones (1) y (2) son suficientes para llegar a esa solución. \n\n \n\nConsiderando lo anterior, usted deberá marcar la letra: \n \n\nA) (1) por sí sola, si la afirmación (1) por sí sola es suficiente para responder a la \n\npregunta, pero la afirmación (2) por sí sola no lo es. \nB) (2) por sí sola, si la afirmación (2) por sí sola es suficiente para responder a la \n\npregunta, pero la afirmación (1) por sí sola no lo es. \nC) Ambas juntas, (1) y (2), si ambas afirmaciones (1) y (2) juntas son suficientes \n\npara responder a la pregunta, pero ninguna de las afirmaciones por sí sola es \nsuficiente. \nD) Cada una por sí sola, (1) ó (2), si cada una por sí sola es suficiente para \n\nresponder a la pregunta. \nE) Se requiere información adicional, si ambas afirmaciones juntas son \n\ninsuficientes para responder a la",
+      "cantidad_caracteres": 1094,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "1. \n10 – {8 – [4 – (5 – 7)]} = \n \n \n\nA) -4 \nB) -2 \nC)  0 \nD)  4 \nE)  8   \n \n \n \n\n2. \n2\n3\n5\n + \n + \n10\n100\n10.000  = \n\n \n \n\nA) 0,0080 \nB) 0,2305   \nC) 0,2350 \nD) 0,2800 \nE) 0,5050 \n \n \n \n\n3. \n3\n5  · 0,5  : 1\n\n3  =  \n\n \n\nA) 9 \nB) 5 \nC) 0,1 \n\nD) 5\n\n3  \n\nE) 1   \n \n \n4. \n(0,05 · 0,5) : 0,5 = \n \n \n\nA)   0,5 \nB)   0,05   \nC)   0,005 \nD)   5 \nE) 25 \n \n \n \n5. \n0,36 : 0,9 · 0,4 = \n\n \nA) 1 \nB) 1,6 \nC) 0,16   \nD) 0,016 \nE) 0,81 \n \n\n4 \n \n",
+      "cantidad_caracteres": 429,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "6. \n0,0001 · (1.000 : 10-6) = \n \n \n\nA) 0,00001  \nB) 10-4 \nC) 105    \nD) 10-13 \nE) 10-7 \n \n \n \n\n7. \n1\n100  : 1.000 ∙ 0,01 =  \n\n \n\nA) 107 \nB) 10-7    \nC) 103 \nD) 10-3 \nE) 100 \n \n \n \n8. \n0,7  · 0,9 – 0,7 =  \n \n\nA) \n  0,9 \nB) \n  0,7 \nC)   0    \nD) -0,9 \nE) -0,07 \n\n \n \n \n\n2\n0,5   0,4\n\n\n =  \n\n9. \n\n0,01\n\n \nA)   0,001 \nB)   0,01 \nC)   0,1 \nD)   1 \nE) 10    \n \n \n \n\n10. 1\n5\n4\n + \n + \n2\n9\n45   es equivalente a \n\n \n\nA) 0,5 + 0,055… + 0,0888… \nB) 0,05 + 0,5… + 0,888... \nC) 0,5 + 0,555… + 0,0888…    \nD) 0,05 + 0,555… + 0,888… \nE) 0,5 + 0,5 + 0,8 \n \n\n5 \n \n",
+      "cantidad_caracteres": 548,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "11. La expresión \n2\n1,3  \n + 0,16\n3\n\n es igual a \n\n \n\nA) 0,84 \n\nB)   5\n\n6     \n\nC)  43\n\n45  \n\nD)  13\n\n6  \n\nE) 103\n\n45  \n\n \n \n\n \n\n12. \n0,75  4  2\n\n\n\n\n = \n\n1,9  3\n\n\n\n \nA) \n  1 \nB) -1    \nC)   0 \nD)   1,5 \nE) -1,5 \n \n \n\n2\n5\n + \n9\n45\n\n13. \n\n = \n\n3\n1  5\n\n\n \n\nA) 0,27  \n\nB) 0,027  \n\nC) 0,083  \n\nD) 0,83     \nE) 0,83 \n \n\n \n\n5\n4.000.000  0,00000008\n\n\n\n14. El resultado de  \n\n   es \n\n0,0000002  10\n\n\n\n \n\nA)           16   \nB)        320 \nC)   32.000 \nD) 160.000 \nE)        160 \n \n \n \n \n\n6 \n \n",
+      "cantidad_caracteres": 490,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "\n\n\n\n\n\n\n\n\n\n-1\n0,1\n0,3 + 1,1  \n\n15. El resultado de \n\n es un número \n\n2\n\n \n \n\nA) natural. \nB) entero negativo. \nC) entero no positivo. \nD) racional negativo. \nE) racional positivo.   \n \n \n \n16. Si al entero (-4) le restamos el entero (-5) resulta \n \n \n\nA) -9 \nB) \n  1    \nC) -1 \nD)   9 \nE) -5 \n \n \n17. La cuarta parte de 0,4  menos el triple de 1,3  es \n \n\nA)  38\n\n9  \n\nB)   5\n\n9  \n\nC) - 35\n\n9      \n\nD)  - 1\n\n3  \n\nE) \n - 5\n\n9  \n\n \n \n18. ¿Cuál(es) de las siguientes expresiones es (son) igual(es) a la unidad? \n \n\nI) \n2\n3\n + \n5\n5  \n\nII) \n3\n7\n  \n7\n3\n\n \n\nIII) \n12\n17\n : \n17\n12  \n\n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II   \nE) I, II y III \n\n7 \n \n",
+      "cantidad_caracteres": 665,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "19. ¿Cuál de las siguientes fracciones  es equivalente al número decimal 0,35 ? \n \n \n\nA) 16\n\n45      \n\nB) \n7\n18  \n\nC) 35\n\n10  \n\nD) 32\n\n9  \n\nE) \n36\n\n9  \n\n \n \n \n \n\n20. El opuesto de 1\n3\n2\n  \n  \n2\n4\n3\n\n\n\n\n\n\n\n\n\n es \n\n \n \n\nA)  1\n\n6   \n\nB)  2\n\n3   \n\nC) -1\n\n6  \n\nD) - 2\n\n3  \n\nE)   0    \n\n \n \n \n \n21. Si el número decimal 0,3 se resta de la mitad de la unidad y este resultado se \n\nmultiplica por el recíproco de un tercio se obtiene \n \n \n\nA)   1\n\n2  \n\nB) - 1\n\n18  \n\nC)   1 \n\nD)  - 1\n\n2    \n\nE)   1\n\n18  \n\n \n \n \n\n8 \n \n",
+      "cantidad_caracteres": 518,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "22. \nEl número (1 + (1 + ( 1 + (2)-1)-1)-1)-1 equivale al recíproco de \n \n \n\nA)  2\n\n5   \n\nB)  5\n\n8   \n\nC)  3\n\n5   \n\nD)  8\n\n5      \n\nE)  5\n\n2   \n\n        \n \n \n\n23. El número racional 7\n\n10   NO  es equivalente a \n\n \n\nA) La mitad de 7\n\n5   \n\nB) \n3\n4\n + \n10\n10  \n\nC) Un tercio de 21\n\n10  \n\nD) 29\n3\n  \n20\n4\n\n \n\nE) \n7  : 2\n20\n     \n\n \n \n \n \n\n24. \n¿Cuál(es) de las siguientes expresiones es (son) equivalente(s) al 27\n\n30  de A? \n\n \n\nI) \n9\n10 A \n\nII) \n0,90A \n\n-1\n10\n\n9\n\n\n\n\n\n\n\nIII) \n\n · A \n\n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) I, II y III    \n \n \n\n9 \n \n",
+      "cantidad_caracteres": 575,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "25. \nSi A  = \n1\n106  y B = \n3\n35 , entonces A – B = \n\n \n \n\nA) -\n3\n3030  \n\nB)   \n13\n630  \n\nC)   \n17\n630      \n\nD)   \n13\n730  \n\nE)   \n17\n730  \n\n \n \n \n\n26. \n1\n1  \n1\n2  3 + 1\n\n = \n\n\n\n\n\n \n \n\nA) -3 \n\nB)  5\n\n9  \n\nC)  3\n\n4  \n\nD) 11\n\n7  \n\nE)  3\n\n7    \n\n \n \n \n \n27. (-2-1) 2 – 4-1 =  \n \n \n\nA) \n3 \n\nB) \n-1\n\n2  \n\nC) \n1 \nD) \n0    \n\nE) \n1\n2  \n\n \n \n \n \n \n \n\n10 \n \n",
+      "cantidad_caracteres": 351,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "28. (0,1)-1 – (0,125)-1 = \n \n \n\nA) \n1\n40  \n\nB)  1\n\n4  \n\nC)  1\n\n2  \n\nD)   2     \nE) 40 \n \n \n \n29. \n2 · (10-1 + 10-2 + 10-3) – 3 · (10-2 + 10-3 + 10-1) =  \n \n\nA) \n  0,11 \nB) \n  0,111 \nC) -0,111     \nD) -0,11 \nE) -1 \n \n \n \n\n2\n6   1\n\n2\n7   1\n\n2\n5   1\n\n\n\n + \n\n\n\n = \n\n\n\n + \n\n30. \n\n6  1\n\n7  1\n\n5  1\n\n \n\n \nA) \n  9 \nB) 15 \nC) 18 \nD) 21 \nE) 27 \n \n \n \n\n-1\n-2\n\n-1\n2\n3  + 2\n\n31. La expresión \n\n equivale a \n\n3  + 2\n\n \n\nA) \n7\n52     \n\nB) \n7\n13  \n\nC)  5\n\n7  \n\nD)  1 \nE) Ninguna de las anteriores. \n \n \n \n \n\n11 \n \n",
+      "cantidad_caracteres": 504,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "1\n\n32. \nSi a = 3\n\n2 , entonces 1 + \n\n es igual a \n\n1\n1  \n\n2  a\n\n\n-1\n\n\n\n \n\nA) \n  1\n\n5   \n\nB) \n  0 \nC) \n  5   \nD) -5 \n\nE) - 1\n\n5  \n\n \n\n0\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-1\n1\n  9\n3\n\n33. \n22 – 34 – \n\n = \n\n \n\nA) \n  85 \nB) -76 \nC) -77 \nD) \n  84 \nE) No está definido.    \n \n \n \n\n34. En la recta numérica, ¿cuántos números pares hay entre 11\n\n2  y 50\n\n3 ? \n\n \n\nA) 11 \nB) 10  \nC)   6    \nD)   5 \nE)   4 \n \n \n \n\n35. Si la suma entre 5\n7\n y \n4\n3 se encuentra en la recta numérica de la posición de la figura \n\nadjunta, ¿cuál letra representa mejor la posición aproximada de dicha suma?  \n\n \n              \nA) A \nB) B \nC) C \nD) D \nE) E    \n \n \n \n \n \n \n\n|     |     |    |     |    |     |    |     |     | \nA    0    B    1    C    2    D    3    E    4 \n\n12 \n \n",
+      "cantidad_caracteres": 754,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": "36. En la recta numérica de la figura adjunta se ubican los puntos  a, b, c  y  d. ¿En cuál de \n\nlas siguientes operaciones el resultado es siempre menor que cero? \n \n \n\nA) a · b \nB) c – b  \nC) a + b + c \nD) d – c \nE) a · c + b · d    \n \n \n\na \nb \n0 \n1 \nc \nd \n\n \n37. La recta de la figura adjunta se ha dividido en partes iguales, entonces ¿cuál de las \n\nsiguientes opciones representa el mayor resultado? \n\n \n \nA) c · b \nB) a + d \nC) a · b \nD) b : a – c \nE) ca      \n\n-2 \n-1 \n0 \n1 \n2 \nb \na \nc \nd \n\n \n\n \n \n \n38. Sea m  un número entero positivo divisor de 6, n es un entero positivo divisor de 12. Si  \n\nm\nn\nx\nn\nm\n\n\n, entonces el producto entre el menor y mayor valor de x es \n\n \n \n\nA) 72 \nB) 12 \nC)   1     \nD)   0,5 \nE)   0,25 \n \n \n \n39. Se puede determinar el menor de cuatro enteros consecutivos, si: \n\n \n\n(1) La suma de ellos es 46. \n(2) El menor es múltiplo de 5. \n \n\nA) (1) por sí sola    \nB) (2) por sí sola \nC) Ambas juntas (1) y (2) \nD) Cada una por sí sola (1) ó (2) \nE) Se requiere infor",
+      "cantidad_caracteres": 1037,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": "40. Se puede afirmar que x > x2 > x3 > x4 >…, si: \n\n \n \n\n(1) 0 < x < 1 \n(2) -1 < x < 1 \n \n \n\nA) (1) por sí sola    \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n41. \nSi k es un número entero y P = 7k, entonces ¿cuál(es) de las siguientes afirmaciones \nes (son) siempre verdadera(s)? \n\n \n\nI) \n0 es múltiplo de P. \nII) \n2P es múltiplo de 28. \nIII) \n14 es divisor de P. \n\n \nA) Solo I    \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) Solo I y III \n \n \n \n42. \n¿Cuántos números enteros de dos cifras son divisibles por 6 de manera tal que la cifra \nde la decena sea el sucesor de la cifra de la unidad? \n\n \nA) Ninguno \nB) 1      \nC) 2 \nD) 3 \nE) más de 3 \n \n \n \n43. \nSi a y b son números naturales consecutivos, entonces ¿cuál de las siguientes \nafirmaciones es siempre par? \n\n \nA) 2a + b \nB) 2b + a \nC) a + b \nD) (a + 1)(b – 1)    \n\nE) \na  b\n\n\n \n\n2\n\n \n \n \n\n14 \n \n",
+      "cantidad_caracteres": 940,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": "44. Si p es un número racional y q es un número irracional, ¿cuál(es) de las siguientes \n\nafirmaciones es (son) siempre verdadera(s)? \n\n \n\nI) \np · q es un número irracional. \n\nII) \nq\np  es un número real. \n\nIII) \npq  es un número real. \n\n \nA) Solo I \nB) Solo I y II \nC) Solo II y III \nD) I, II y III \nE) Ninguna de ellas.   \n\n \n \n45. Dos números naturales a y b son pares, si: \n \n\n(1) a – 4 = b \n(2) a2 es par. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2)    \nD) Cada una por sí sola (1) ó (2) \nE) Se requiere información adicional \n \n \n46. La expresión ab + 8  es siempre positiva, si: \n \n\n(1) a > 0 \n(2) b  0 \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional     \n \n \n47. \nSe puede concluir que el producto  mn  es positivo, si: \n \n\n(1) mn2 es positivo. \n\n(2) m2n3 es positivo. \n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2)    \nD) Cada una por sí sola,",
+      "cantidad_caracteres": 1064,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": "48. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nUn número es divisible por 18 si es divisible por 6 y por 3. \nII) \nUn número es divisible por 2 y divisible por 7 a la vez, entonces es un \nmúltiplo de 14. \nIII) \nEl menor número natural que tiene por divisores a los 4 menores números \nprimos es 210. \n \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III    \nE) I, II y III \n \n \n49. Si m y n pertenecen al conjunto de los enteros, con m divisible por 3 y n divisible por \n\n4, entonces ¿cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)?  \n \n \n\nI) \nm + n es divisible por 7. \nII) \nm  n es divisible por 6. \n\nIII) \nn\nm  es racional. \n\n \n\nA) Solo II    \nB) Solo III \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n \n \n50. \nEl mínimo común múltiplo entre  a  y  b  es  36. Entonces, los valores posibles de  a  y  \nb  pertenecen al conjunto de \n \n\nI) \nlos múltiplos de 36. \nII) \nlos divisores de 36. \nIII) \nla intersección entre los múltiplos",
+      "cantidad_caracteres": 1323,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": "52. Sabiendo que k es un número impar positivo, ¿cuál(es) de las siguientes afirmaciones                   \n\nes (son) siempre verdadera(s)? \n \n\nI) \n1\nk  es un número real. \n\nII) \nk0 = 1 \nIII) \nk  es un irracional. \n \n\nA) Solo I \nB) Solo III \nC) Solo I y II     \nD) Solo I y III \nE) Ninguna de ellas. \n \n \n53. \nSi a y b son números primos distintos, ¿cuál(es) de las siguientes expresiones \npuede(n) representar número(s) primo(s)? \n \n\nI) \na + ab \nII) \n2a + 3b \nIII) \na + 2b \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) Solo II y III    \n \n \n54. Si el número a es primo, se puede determinar que a + 2 también es primo, si: \n \n\n(1) a ≥ 16 \n(2) a ≤ 19 \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional    \n \n \n55. \na, b y c son tres números primos diferentes. Se puede determinar el menor de ellos, \nsi: \n\n \n(1) Se conocen los valores de a y de b. \n(2) La suma de ellos es un número par. \n \nA) ",
+      "cantidad_caracteres": 1150,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "texto": "56. \nSi a y b son números pares consecutivos, entonces 3a – b – 4b – a = \n\n \nA) 14 \nB) \n   4 \nC) \n   2 \nD) \n -1 \nE) \n -2    \n \n \n\n57. Se puede afirmar que a  b  = -1\nb  a\n\n\n\n, si:  \n\n \n(1) a > b \n\n(2) –b > –a  \n\n \nA) (1) por sí sola \nB) (2) por sí sola    \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) o (2) \nE) Se requiere información adicional \n \n \n \n58. \n¿Cuál es el mayor número natural de dos cifras que no es par y es múltiplo de 3 y 5 a \nla vez? \n \n \n\nA) 15 \nB) 75    \nC) 85 \nD) 90 \nE) 95 \n \n \n \n\n59. \nSi el recíproco de x es un número entero que pertenece al intervalo 3 12\n,\n7 5\n\n\n\n\n\n\n\n, ¿cuál es el \n\nconjunto de los valores que puede tomar x? \n\n \nA) {1} \nB) {2} \nC) {1,2}   \n\nD) \n1\n2\n\n\n\n\n \n\nE) \n1,1\n2\n\n\n\n\n\n\n\n    \n\n \n \n \n \n \n\n18 \n \n",
+      "cantidad_caracteres": 780,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "texto": "60. Si a la fracción 4\n\n7  el numerador y el denominador se disminuye en 3, entonces la \n\nfracción resultante  \n \n \n\nA) es equivalente a la fracción original.    \nB) es menor que la fracción original.    \nC) es mayor que la fracción original. \nD) es siempre negativa. \nE) es uno. \n \n \n\n61. \nSi al numerador y denominador de la fracción 2\n\n5  se le suma el mismo número x, la \n\nfracción resultante es el recíproco de la original, entonces el valor de x es \n \nA) -7    \nB) -3 \nC) -1 \nD) 3 \nE) 7 \n \n \n \n62. \nSi 504 = a2bc3, con a, b, c primos, entonces a + b – c = \n \n\n \nA) \n  6 \nB) -2 \nC) \n  8   \nD) \n  2 \nE) -6 \n \n \n \n\nA  es constante, entonces  y\n\n63. \nCon respecto a la siguiente tabla, si B\n\nx  = \n\n \n\nA) 16 \nB)   8 \n\nA \nB \n4 \nx \n1\n2  \n2 \n\nC) \n16\n\n12 \n24 \n\n3  \n\nD)  8\n\n3  \n\ny \n\nE) \n3\n16    \n\n \n6 \n\n \n\n \n \n \n \n \n \n \n\n19 \n \n",
+      "cantidad_caracteres": 824,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "texto": "64. \nDe los siguientes números: x = 564.000.000, y = 56.400 · 103  y  z = 0,564 · 109, \n¿cuál es el orden decreciente? \n \n \n\nA) x > y > z \nB) x = z > y    \nC) x = y > z \nD) z > x > y \nE) x > z > y \n \n \n \n\n65. \nSi A = 5\n\n6  ;  B = 3\n\n4 ; C = 7\n-8   y   D = -0,8 , entonces es correcto afirmar que \n\n \n \n\nA) A < B < C < D \nB) B < C < D < A \nC) D < C < B < A    \nD) D < C < A < B \nE) C < D < B < A \n \n \n66. \nEl inverso multiplicativo de 1,02 es \n \n\nA)  46\n\n45  \n\nB) 101\n\n90  \n\nC) \n90\n101  \n\nD)  45\n\n46     \n\nE)  50\n\n51  \n\n \n \n \n67. Si A = 0,34 ; B = 0,34  y C = 0,34, entonces ¿cuáles de las siguientes relaciones es \n\nverdadera? \n \n \n\nA) C < A < B   \nB) C < B < A \nC) A < B < C \nD) A = B = C \nE) B < A < C \n \n \n \n \n \n\n20 \n \n",
+      "cantidad_caracteres": 722,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "texto": "68. Si a = 2,39  y b = 0,87 , entonces \n \n\nI) \na – b = 50\n\n33  \n\nII) \na : b = 29\n\n79  \n\nIII) \na + b = 108\n\n33  \n\n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y III    \nE) I, II y III \n \n \n \n69. \n¿Cuál \nde \nlos \nsiguientes \nnúmeros \npertenece \na \nlos \nintervalos \n]-3,1[ \ny \n[-1,3]? \n \nA) -3 \nB) -2 \nC) -1    \nD)  2 \nE)  3 \n \n \n70. Si p pertenece a la intersección de los intervalos [-8, 10[ y [2, 20], entonces ¿cuál(es) \n\nde las siguientes valores puede tomar p? \n \n\nI) \n10 \nII) \n  8 \nIII) \n  5 \n \n\nA) Solo I \nB) Solo II \nC) Solo II y III    \nD) Solo I y III \nE) I, II y III \n\n \n \n71. Si  ab = ba – 4, entonces (32)1 = \n \n \n\nA) -3   \nB) -2 \nC) -1 \nD) -4 \nE) Ninguna de las anteriores. \n \n \n \n\n21 \n \n",
+      "cantidad_caracteres": 707,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "texto": "72. En los números reales se define  ab = 2a + ab – b.  Si 5  m = m3, entonces ¿cuál \n\nes el valor de m? \n \n\nA) 13   \nB) 10 \nC)   7 \nD)   2 \nE) \n -7 \n \n \n \n \n73. Se define la operación p & q = 2p + q, si p es par  y  p & q = p – 2q, si p es impar. \n\nEntonces, el valor de (4 & 5) & (7 & 2) es \n \n\nA) 5 \nB) 6 \nC) 7    \nD) 8 \nE) 9 \n \n \n\n \n \n74. En la siguiente secuencia: 1, 3, 6, 10, 15,…, el séptimo término es \n\n \n\nA) 28    \nB) 25 \nC) 21 \nD) 20 \nE) Ninguno de los anteriores. \n \n \n \n \n \n75. En la sucesión -2, 5, 24, 61, 122,…, si n es un número natural, entonces el n-ésimo \n\ntérmino es \n \n\nA) 7n – 9 \nB) n(n + 1) – 5 \nC) n3 – 3    \nD) 1 – 3n \nE) n2(n2 – 3) \n \n \n \n \n \n \n \n \n \n \n\n22 \n \n",
+      "cantidad_caracteres": 691,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "texto": "76. La siguiente secuencia de figuras se ha armado con cuadrados congruentes: \n \n \n \n \n \n \n \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa relación entre los cuadrados blancos (b) y los cuadrados negros (n) está \ndada por b = 2n + 2. \nII) \nLa figura 100 tiene 100 cuadrados blancos. \nIII) \nLa diferencia entre cuadrados blancos y negros en la figura 140 es de 142. \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y III   \nE) Solo II y III \n \n \n \n77. Sabiendo que la suma de los primeros n números naturales se puede calcular a través \n\nde la expresión  n(n + 1)\n\n2\n, entonces el valor de 45 + 46 + 47 +… + 97 + 98 + 99 + 100 \n\nes   \n\n \nA) 4015 \nB) 4030 \nC) 4060    \nD) 4090 \nE) 5050 \n \n \n \n\n \n78. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nUn número natural pertenece al conjunto de los números complejos. \nII) \nTodo número irracional pertenece al conjunto de los números complejos. \nIII) \nTodo número imaginario pertenece al conjunto de lo",
+      "cantidad_caracteres": 1111,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 24,
+      "texto": "79. Si n es un número natural, ¿cuál(es) de las siguientes afirmaciones es (son) siempre \n\nverdadera(s)? \n \n\nI) \n3 n  es un número irracional. \n\nII) \nn\n3  es un número entero. \n\nIII) \nn3 es un número racional. \n \n\nA) Solo I \nB) Solo II \nC) Solo III    \nD) Solo I y III \nE) Solo II y III \n \n \n \n80. ¿Cuál(es) de las siguientes afirmaciones es (son) FALSA(S)? \n \n\nI) \n(1 – \n2 )2  es un número racional. \n\nII) \n3  2 2  \n\nes un número real. \n\nIII) \n(\n2  – 1)2  es un número real positivo. \n \n\nA) Solo I   \nB) Solo II \nC) Solo III \nD) Solo II y III \nE) I, II y III \n \n \n81. Se puede determinar que  M es un número natural, si se sabe que:  \n \n\n(1)  (M + 1)2 – (M – 1)2 – 4M, es un número entero. \n(2)  (M + 1)2 – (M – 1)2, es el sucesor de 19. \n \n\nA) (1) por sí sola \nB) (2) por sí sola     \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n82. Si a = -5, entonces (-1)a + (-1)2a es igual a \n \n \n\nA) \n-3\n10   \n\nB)   2  \nC) \n -2  \nD)   0    \n\nE) \n3",
+      "cantidad_caracteres": 1014,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 25,
+      "texto": "83. Si n  y  m  son enteros consecutivos, entonces (-1)2n + m + (-1)2m + n  = \n \n \n\nA) \n  0    \nB) \n  1 \nC) \n  2 \nD) -2 \nE) no se puede determinar. \n \n \n \n84. 311 + 311 + 311  =  \n \n \n\nA) 312    \nB) 311 + 1  \nC) 39(1 + 32)  \nD) 313  \nE) 911  \n \n \n \n \n\n3\n3\n3\n3\n\n3\n2  + 2  + 2  + 2\n\n85. \n\n = \n\n4\n\n \nA) -2 \nB) -1 \nC) 2-6 \n\nD) 1\n\n2     \n\nE) 26 \n\n \n \n\n4\n3\n-n\n3\n\n-1 n 2\n4 (8 )\n\n86. El valor de \n\n es igual a \n\n(4(4 ) )\n\n \n\nA) 0,25 \nB) 0,5 \nC) 2 \nD) 4    \nE) 8 \n \n \n \n \n \n \n \n \n \n\n25 \n \n",
+      "cantidad_caracteres": 480,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 26,
+      "texto": "20\n\n87. Si n > 1, entonces la expresión n\n2\nn\n2\n2\nn\n2\n4\n\n es igual a \n\n\n\n\n\n \n\nA)  4\n\nn  \n\nn\n1\n\nB) \n\n \n\n4  2n\n\n\nC) \n1\n2n  \n\nD) \nn 2n + 1  \n\nE) \n1\n4      \n\n \n \n \n\n2n+2\n2n+1\n\nn\n5\n + 5\n\n88. \n\n : 30 = \n\n25\n\n \n \n\nA) 5 \nB) 5n \nC) 50     \nD) 5n+1 \n\nE) 5n-1 \n\n \n \n\n \n89. 26x + 3 – 43x – 1 + 64x + 1 =  \n \n \n\nA) 287 · 26x – 1 \nB) 287 · 26x – 2     \nC) 287 · 26x – 3 \nD) 287 · 26x – 4 \nE) 287 · 26x – 5 \n \n \n \n \n90. La expresión  49m - 1 + 72m – 3 – 72m - 1  es equivalente a \n \n \n\nA)   72m – 3 \nB)   72m – 6 \nC) -4172m – 3     \nD)   72m – 1 \nE) 49m - 1 \n \n \n \n \n\n26 \n \n",
+      "cantidad_caracteres": 564,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 27,
+      "texto": "n + 1\nn\nn\nn\n\n3  + 3  + 3\n\n91. Si n  2, entonces  \n\n = \n\nn\nn\nn\n\n3   3\n\n\n \n\nA) 9 \nB) 3 \n\nC) 1\n\n3     \n\nD) 1\n\n9  \n\nn\n1\n\nE) \n\n \n\n3\n\n \n \n92. 24x+1 + 42x+1 + 16x+1 = \n\n \n \nA) 227x+3 \nB) 224x+1 \nC) 22 · 16x     \nD) 812x+10 \nE) 64x+7 \n \n \n \n93. Se puede determinar el valor de (-1)-k, si se sabe que: \n\n \n(1) k > 0 \n(2) 2k – 1 = 9 \n \n\nA) (1) por sí sola. \nB) (2) por sí sola.     \nC) Ambas juntas, (1) y (2). \nD) Cada una por sí sola, (1) ó (2). \nE) Se requiere información adicional. \n \n \n94. \nSe puede determinar que la expresión xn es un número negativo, si se sabe que: \n \n\n(1) x es un número negativo. \n(2) n es un número negativo. \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional    \n \n \n \n \n \n\n27 \n \n",
+      "cantidad_caracteres": 797,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 28,
+      "texto": "95. Si a y b representan dos números enteros. Se puede determinar el valor de a, si se \n\nsabe que: \n \n\n(1) ab = 9 \n(2) a · b = 6 \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional    \n \n\nn + 3\n4\n\n96. La expresión \n\n64\n es mayor que 1, si: \n\n \n\n(1) 4n + 3 > 0 \n(2) 4n > 1 \n\n \nA) (1) por sí sola \nB) (2) por sí sola     \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere de información adicional \n \n \n97. Si a, b  0, ¿qué parte de a2b es b2? \n \n\nA) \na\nb  \n\n2\na\n\n \n\nB) \n\nb\n\n2\nb\n\nC) \n\n    \n\na\n\nD) b\n\na  \n\nE) a2b3 \n \n \n98. Si a, b son números enteros, tal que  a = b + 1, entonces ¿cuál(es) de los siguientes \n\nexpresiones resulta(n) siempre número(s)  positivo(s)? \n \n\nI) \na + b \nII) \na – b \nIII) \nab \n \n\nA) Solo I \nB) Solo II    \nC) Solo III \nD) Solo I y III \nE) Solo II y III  \n \n\n28 \n \n",
+      "cantidad_caracteres": 909,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 29,
+      "texto": "5\np + p + p + p + p = 10\n\n, entonces p4 = \n\n99. Si \n\np\n\n \n \nA)   5 \nB)   2 \n\nC)  1\n\n2     \n\nD)  1\n\n5  \n\nE) \n1\n10  \n\n \n \n \n100. Si p es una aproximación por redondeo a la centésima de M y q es una aproximación \n\npor truncamiento a la centésima de M, entonces ¿cuáles de las siguientes afirmaciones \npueden ser FALSAS? \n \n \n\nI) \np > q \n\nII) \np + q = M\n2\n \n\nIII) \np · q > 0  \n \n\n \nA) Solo I y II \nB) Solo I y III \nC) Solo II y III \nD) I, II y III     \nE) Ninguna de ellas. \n \n \n \n \n101. Si x, y, z son números reales  y  además se tiene que x < y   y   x < z, entonces \n\nsiempre se cumple que \n\n \n \n\nI) \n2x < y + z \nII) \nx < x2 \nIII) \ny < z \n \nEs (son) correcta(s) \n \n\nA) solo I.    \nB) solo II. \nC) solo III. \nD) solo I y II. \nE) solo II y III. \n \n \n \n\n29 \n \n",
+      "cantidad_caracteres": 757,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 30,
+      "texto": "102. Si a > b, a, b  0  y  p = 1\n\nab , q = \n1\na  b\n\n   y  r = \n1\nb  a\n\n, entonces ¿cuál de las \n\nsiguientes afirmaciones es siempre verdadera? \n \n \n\nA) p < q \nB) p < r \nC) q < r \nD) r < q \nE) q < p \n \n103. Si a y b son números enteros positivos tales que  a < b, entonces el orden creciente de \n\na , z = -a\n\nb   y t = -b\n\nlas fracciones  x = a\n\nb , y = b\n\na  es \n\n \n\nA) t < z < x < y    \nB) x < y < t < z \nC) z < t < x < y  \nD) z < t < y < x \nE) x < y < z < t  \n \n \n104. Sean  m  y  n  números enteros negativos, tales que  m < n , entonces el orden \n\nm , -m\n\ndecreciente de las fracciones  m\n\nn , n\n\nn , -n\n\nm  es \n\n \n\nm , -m\n\nA) \nm\n\nn , n\n\nn , -n\n\nm  \n\nB) -m\n\nn , n\n\nm , -n\n\nm , m\n\nn  \n\nm , -m\n\nC) m\n\nn , n\n\nm , -n\n\nn     \n\nD) -m\n\nn , -n\n\nm , n\n\nm , m\n\nn  \n\nn , -m\n\nE) \nm\n\nn , -n\n\nm , n\n\nm  \n\n \n \n\n105. Sean a, b, c números naturales, con a\nb\nb\n > \n > \nc\nc\na . Entonces, el orden decreciente de las \n\nexpresiones es \n \n\nA) \nc + a\nc + b\na + b\n > \n > \nc\nc\na\n     \n\nB) \na + b\nc + b\nc + a\n > \n > \na\n",
+      "cantidad_caracteres": 1128,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 31,
+      "texto": "106. Si p, q y r son números pertenecientes al intervalo [-1,0] y \n2\n2\n2\n < \n < \n2p  1\n2q  1\n2r  1\n\n\n\n, \n\nentonces ¿cuál(es) de las siguientes relaciones es (son) siempre verdadera(s)? \n\n \n\nI) \nr < q < p \n\nII) \n2q  1 < 1\n2p  1\n\n\n\n \n\nIII) \n2\n2\n < \n < 0\n2p  1\n2r  1\n\n\n \n\n \nA) Solo I \nB) Solo I y II \nC) Solo I y III     \nD) Solo II y III \nE) I, II y III \n \n \n \n\n107. El resultado de 0,04  0,06  0,25\n\n\n\n\n\n escrito en notación científica es \n\n0,2  0,6  0,05\n\n \n\nA) -1 · 101 \nB) -0,1 · 100 \nC) \n  1 · 10-1     \nD)   1 · 100 \n\nE) \n  1 · 101 \n \n \n \n\n108. El número 0,36 ∙ 10-4 ∙  10\n\n3  escrito en notación abreviada es \n\n \nA)   0,12 ∙ 10-3 \nB)   0,12 ∙ 10-4 \nC) 12 ∙ 10-4 \nD) 12 ∙ 10-5    \nE) 12 ∙ 10-6 \n \n \n \n\n109. El resultado de 1\n2\n1\n + \n  \n4\n3\n5\n\n \n\ntruncado a la milésima es \n\n \n\n \n\nA) 0,7170 \nB) 0,7167 \nC) 0,7160     \nD) 0,7100 \nE) 0,7000  \n \n \n \n\n31 \n \n",
+      "cantidad_caracteres": 869,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 32,
+      "texto": "110. Respecto al número 59\n\n7 , es correcto afirmar que \n\n \n\nI) \ntruncado a la milésima es 8,428. \nII) \nredondeado a la décima es 8,42. \nIII) \nredondeado a la unidad es 9. \n \nA) Solo I    \nB) Solo II \nC) Solo I y II \nD) Solo I y III \nE) Solo II y III \n \n \n111. El resultado de 0,504 + 0,021 – 1,432 redondeado a la décima es \n \n \n\nA) -0,800 \nB) -0,807 \nC) -0,900     \nD) -0,907 \nE) -0,910 \n \n \n \n112. ¿Cuál(es) de las siguientes afirmaciones es (son) FALSA(S), con respecto al número \n\n1.398,7658213? \n \n\nI) \nRedondeado a la milésima es 1.398,766. \nII) \nTruncado a la centésima es 1.398,765. \nIII) \nEs un decimal infinito NO periódico.  \n \n\nA) Solo I \n \nB) Solo III \nC) Solo I y II \nD) Solo II y III     \nE) I, II y III \n \n \n113. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s), respecto del número  \n\n1\n1\n7\n + \n  \n5\n2\n20\n\n ? \n\n \n\nI) \nRedondeado a la décima es 0,4. \nII) \nTruncado a la décima es 0,3. \nIII) \nRedondeado a la unidad es cero. \n \nA) Solo I \nB) Solo II \nC) Solo III \nD) So",
+      "cantidad_caracteres": 1036,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 33,
+      "texto": "114. Al transformar la fracción 2\n\n7   es correcto afirmar que \n\n \n\nI) \nal truncar a la milésima se obtiene 0,285. \nII) \nrendondeado a la centésima se obtiene el número 0,28. \nIII) \n0,28571 corresponde al redondeo de la quinta cifra decimal. \n \n\n¿Cuáles de las siguientes afirmaciones son verdaderas? \n \n\nA) Solo I y II \nB) Solo I y III    \nC) Solo II y III \nD) I, II y III \nE) Ninguna de las anteriores. \n \n \n \n115. El número 375,80395 truncado a la milésima corresponde a \n \n\nA) 375 \nB) 376 \nC) 375,84 \nD) 375,803   \nE) 375,804  \n \n \n \n\n116. El número 24\n\n7  redondeado a la milésima es \n\n \n\nA) 3,428 \nB) 3,429    \nC) 3,42 \nD) 3,43 \nE) 0,292 \n \n \n \n117. Al truncar a la centésima el número  4,7372, se obtiene \n \n\nA) 4,70 \nB) 4,71 \nC) 4,72 \nD) 4,73    \nE) 4,74 \n \n \n118. El número  416,234567 redondeado a la milésima es \n \n\nA) 41 \nB) 42 \nC) 416,234 \nD) 416,235     \nE) 416,2346 \n\n33 \n \n",
+      "cantidad_caracteres": 889,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 34,
+      "texto": "119. El número 1.327,865549 redondeado a la milésima es \n\n \n \nA) 1.300 \nB) 1.327,87 \nC) 1.327,865 \nD) 1.327,866     \nE) 1.400 \n\n \n \n\n120. Si 7  ≈ 2,6457513....., entonces \n7  redondeado a la milésima es \n \nA) 2,65 \nB) 2,646     \nC) 2,64 \nD) 2,645 \nE) 2,6458 \n \n \n\n \n121. Al redondear el número -2,7352 a la centésima se obtiene \n \n \n\nA) \nun redondeo por exceso. \nB) \nun redondeo por defecto.    \nC) \nun truncamiento a la milésima. \nD) \nun redondeo a la milésima. \nE) \nninguna de las anteriores. \n \n \n122. Si  = 3,14159265…, entonces es correcto afirmar que \n \n\nA)  truncado a la tercera cifra decimal es igual a 3,142. \nB)  redondeado a la cuarta cifra decimal es igual a 3,1415. \nC)  truncado a la quinta cifra decimal es igual a 3,14160. \nD)  redondeado a la sexta cifra decimal es igual a 3,141593.    \nE) Ninguna de las opciones anteriores es correcta. \n \n \n\n \n123. La longitud aproximada de una circunferencia de radio 7 cm es 43,988 cm. ¿Cuál es la \n\nmejor aproximación de  que se ha util",
+      "cantidad_caracteres": 1182,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 35,
+      "texto": "124. Si  = 3,14159265…,  = 2,71828182… y  = 1,61803398…, entonces ¿cuál(es) de la \n\nsiguientes afirmaciones es (son) verdadera(s)? \n\n \n\nI) \n redondeado a la quinta cifra decimal queda aproximado por defecto. \nII) \n redondeado a la sexta cifra decimal queda aproximado por defecto. \nIII) \n redondeado a la sexta cifra decimal queda aproximado por exceso. \n\n \n \nA) Solo II \nB) Solo I y II \nC) Solo I y III     \nD) I, II y III \nE) Ninguna de ellas. \n \n \n \n125. Con respecto al número 5,76345613…, es incorrecto afirmar que \n \n\nA) redondeado a la décima, queda aproximado por exceso. \nB) redondeado a la milésima, queda 5,763. \nC) truncado a la milésima, queda 5,763. \nD) truncado a la centésima, queda aproximado por defecto. \nE) redondeada a la centésima queda una aproximación por exceso.  \n \n \n \n126. Si M = 1,0267, entonces ¿cuál de las siguientes afirmaciones es FALSA? \n \n \n\nA) M redondeado a la centésima es 1,03. \nB) M aproximado por redondeo a la centésima es 1,03. \nC) Truncar M a la déc",
+      "cantidad_caracteres": 1594,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 36,
+      "texto": "128. Si \n2  es aproximadamente 1,4142 y \n3  es aproximadamente 1,7320 y además se \n\ntiene que \n2  < p < \n3  donde q es la mejor aproximación por redondeo a la décima de \np, entonces ¿cuáles de las siguientes afirmaciones son verdaderas? \n \n\nI) \nq puede ser igual al resultado de truncar \n2  a la décima. \n\nII) \nq puede ser menor que una aproximación por exceso de \n2 . \n\nIII) \nq puede ser mayor que \n3 . \n \n\nA) Solo I y II    \nB) Solo I y III \nC) Solo II y III \nD) I, II y III \nE) Ninguna de ellas. \n \n \n \n129. Sea t = 3,6738, ¿cuál es el valor de la diferencia entre la mejor aproximación de t por \n\nexceso a la centésima y la mejor aproximación de t por defecto a la milésima?  \n \n\nA) 3 · 10-3 \nB) 4 · 10-3 \nC) 5 · 10-3 \n\nD) 6 · 10-3 \nE) 7 · 10-3     \n \n \n \n130. Si p = 2,343147, t es la mejor aproximación de p por defecto a la centésima, r es la \n\nmejor aproximación por exceso a la centésima y   m = \nr\nt\n\n , entonces m es igual a \n\n \n\nA) 10 \nB)   1 \nC)   0,1    \nD)   0,01 \nE) ninguna de las a",
+      "cantidad_caracteres": 1458,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 37,
+      "texto": "132. Sea A = 10 , B la mejor aproximación por exceso a la unidad de A, C un truncamiento \n\na la unidad y D la media aritmética entre B y C. El orden correcto entre ellos es \n \n\nA) C < A < D < B     \nB) B < C < A < D \nC) C < D = A < B \nD) C < D < A < B \nE) B < D = A < C \n\n \n \n \n133. Si p es una aproximación por exceso y q una aproximación por defecto de \n5 , \nentonces ¿cuáles de las siguientes afirmaciones son siempre verdaderas? \n\n \n\nI) \nq < 5  < p  \n\nII) \np + q\n\n2\n = 5  \n\nIII) \n(p + q)(p  q)\n\n es un número real. \n\n \nA) Solo I y II \nB) Solo I y III      \nC) Solo II y III \nD) I, II y III \nE) Ninguna de ellas. \n \n \n \n134. Si la suma de tres números primos es igual a un número par, ¿cuál es el menor de \n\nestos tres números? \n \n\nA)   2    \nB)   3   \nC)   5 \nD)   7 \nE) 11 \n \n \n \n135. Un niño compra 20 cuadernos, unos de 60 hojas y los otros de 80 hojas. Si en total hay \n\n1.440 hojas. ¿Cuántos cuadernos de 80 hojas compró? \n\n \nA)   8 \nB) 10 \nC) 12     \nD) 14 \nE) 16 \n \n \n \n\n37 \n \n",
+      "cantidad_caracteres": 989,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 38,
+      "texto": "136. Paulina cuenta de 10 en 10, Marcela lo hace de 12 en 12 y Cristina de  \n\n15 en 15. ¿En qué número coincidirán por tercera vez, sin contar el inicio, si las tres \nparten de 0? \n\n \n \nA)   60 \nB)   90 \nC) 120 \nD) 150 \nE) 180   \n \n \n \n137. Dos semáforos encienden en color rojo con intermitencias de 1,2 minutos y  \n\n54 segundos, respectivamente. Si a las 12:00 horas 17 minutos se encuentran ambos \nencendidos,  ¿a qué hora estarán ambos encendidos simultáneamente? \n \n \n\nA) 12:00 horas, 18 minutos, 56 segundos \nB) 12:00 horas, 19 minutos \nC) 12:00 horas, 19 minutos, 48 segundos \nD) 12:00 horas, 20 minutos \nE) 12:00 horas, 20 minutos, 36 segundos     \n \n \n \n\n138. El  sueldo  de  Antonio  es  9\n\n10   del sueldo de Eduardo. La diferencia de los sueldos es  \n\n$ 50.000. ¿Cuál es el sueldo de Antonio? \n \n \n\nA) $ 550.000 \nB) $ 500.000 \nC) $ 450.000    \nD) $ 400.000 \nE) $ 350.000 \n \n \n \n \n139. Un trozo de madera de 425 cm se corta varias veces de forma  tal que después de cada \n\ncorte se toma el",
+      "cantidad_caracteres": 1224,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 39,
+      "texto": "140. Juan tiene una colección de 2.500 estampillas. Al inicio de cada mes le regala un quinto \n\nde la cantidad de estampillas que tiene, en partes iguales a sus 5 hermanos, de manera \nque no tenga que cortar en trozos ninguna estampilla. ¿Con cuántas estampillas se \nquedará Juan cuando no pueda continuar con esta repartición? \n \n \nA)        0 \nB)    256 \nC) 1.280   \nD)    320 \nE)        4 \n\n \n \n \n141. Fernando ha decidido repartir sus 1.500 hectáreas de campo entre sus hijos, al mayor \n\nle entrega 2\n\n5  del total, al segundo 4\n\n9  del resto, al más pequeño 4\n\n5  de lo que resta y \n\ndejando el resto para áreas comunes. ¿Cuántas hectáreas quedarán para áreas \ncomunes? \n \n \n\nA) 100     \nB) 200 \nC) 400 \nD) 500 \nE) 600 \n \n \n \n\n142. Consuelo gasta mensualmente 1\n\n10  en locomoción, 1\n\n8  de su sueldo en telefonía, 1\n\n4  en el \n\nsupermercado y el resto lo ahorra. Este mes redujo su gasto de telefonía a la mitad, en \nlocomoción gastó el doble y en supermercado aumentó en la mitad su gasto, ¿qu",
+      "cantidad_caracteres": 1132,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 40,
+      "texto": "143. Dos hermanos han sacado bolitas de una caja. Uno sacó 4\n\n7  de las bolitas, y el otro sacó \n\n7\n9  de las bolitas que quedaban en la caja. Al final quedaron en la caja solo 10 bolitas, \n\n¿cuántas bolitas habían inicialmente en la caja? \n\n \n \nA)   42 \nB)   68 \nC)   85 \nD) 105   \nE) 210 \n \n \n144. Un señor deja una herencia para repartir entre sus cuatro hermanos, tres tíos, dos \n\nprimas y su empleada. Si cada hermano recibió la octava parte de la herencia, cada tío \nla octava parte de lo que recibió cada hermano y cada prima la mitad de lo que recibió \ncada tío, entonces  ¿qué parte de la herencia recibió su empleada? \n\n \n \n\nA) 23\n\n32  \n\nB)  7\n\n8  \n\nC)  1\n\n8  \n\nD) \n9\n32  \n\nE) Ninguna de las anteriores.   \n \n \n \n145. En un consultorio se atiende aproximadamente a 1.200 personas semanalmente, de los \n\ncuales la mitad son niños de hasta un año, un cuarto son niños que superan el año y no \nsobrepasan los 10 años, un quinto tiene entre 10 y 18 años y el resto son mayores de \n\nedad, de los",
+      "cantidad_caracteres": 1194,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 41,
+      "texto": "146. Fernando tiene una gran cartulina en forma rectangular de 56 cm de ancho y 252 cm \n\nde largo y desea recortar cuadrados en él. Entonces, ¿cuáles serían las medidas de \ndicho cuadrado para que sea el de mayor longitud? \n\n \nA)   4 cm \nB)   7 cm \nC) 14 cm \nD) 28 cm   \nE) 56 cm \n \n\n147. Se vende una bandeja de 100 pasteles en $ 130p. Si se gasta la mitad de lo ganado en \n\ncacao para fabricar chocolates y éstos se venden al doble del precio de los pasteles, \n¿con cuánto dinero se queda al final? \n \n\nA) $   65p \nB) $ 130p \nC) $ 260p \nD) $ 300p \nE) $ 325p   \n \n \n148. En un disco digital se pueden grabar 2 horas en SHD o 4 horas en HD o 6 horas en HQ. \n\nDespués de grabar 32 min en SHD y 44 min en HD. ¿Cuánto tiempo se puede grabar \nen HQ? \n \n\nA) 2 h y 55 min \nB) 3 h  \nC) 3 h y 18 min   \nD) 4 h y 45 min \nE) 4 h y 55 min \n \n \n149. Un alambre de 91 m de longitud se corta en cuatro trozos, de modo que cada trozo \n\ntiene una longitud igual a la del trozo anterior aumentado en su mitad. ¿Cuál e",
+      "cantidad_caracteres": 1475,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 42,
+      "texto": "151. En un curso de 24 alumnos, 3 de ellos participan en un campeonato de ajedrez. ¿En \n\nqué razón se encuentran, respectivamente, los alumnos que no participan en el \ncampeonato y los que participan? \n \n\nA) 8 : 1 \nB) 7 : 1    \nC) 6 : 1 \nD) 5 : 1 \nE) 4 : 1 \n \n \n152. De las 120 aves que tiene un campesino, el número de pollos triplica al número de \n\ngansos y el número de patos es el promedio de los pollos y gansos. ¿Cuál(es) de las \nsiguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa diferencia entre pollos y gansos es igual al número de patos. \nII) \nLa cantidad de patos y gansos es equivalente al número de pollos. \nIII) \nLa razón entre patos, gansos y pollos es 1 : 2 : 3, respectivamente. \n \nA) Solo I \nB) Solo II \nC) Solo I y II    \nD) Solo I y III \nE) I, II y III \n \n \n \n153. Benjamín compró una caja que contiene 300 ampolletas, en el viaje a su casa pierde un \n\ncuarto de ellas, del resto vende un quinto, ¿cuántas ampolletas le quedan a Benjamín? \n \n\nA)   75 \nB)   90 \nC) 180   \nD",
+      "cantidad_caracteres": 1331,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 43,
+      "texto": "155. Si se reparten 12 conservas por caja quedan 8 conservas fuera, y si se reparten 16 por \n\ncaja, sobra una caja. ¿Cuántas conservas se desean guardar? \n\n \nA)   2 \nB)   6 \nC) 32 \nD) 72 \nE) 80   \n \n \n \n156. Cristián tiene 95 monedas iguales y las reparte en tres cajas de manera que cada una \n\ntiene dos tercios de la anterior, ¿cuánto tiene la caja que tiene más monedas? \n \n\nA) 20 \nB) 30 \nC) 35 \nD) 40 \nE) 45   \n \n \n157. En una biblioteca hay estantes con subdivisiones donde caben 7 libros de las mismas \n\ndimensiones. Si llega una partida de 600 de esos libros y se va completando \nordenadamente las subdivisiones. ¿Cuál es el menor número de libros que faltaría para \ntener sólo subdivisiones llenas? \n\n \nA) 1 \nB) 2    \nC) 5 \nD) 6 \nE) 7 \n\n \n\n158. El ahorro mensual de Juan es de $120.000, que corresponde a 1\n\n6  de su sueldo. \n\n¿Cuánto gasta Juan en un trimestre? \n \n\nA) $    144.000 \nB) $    600.000 \nC) $    720.000 \nD) $ 1.800.000    \nE) $ 2.400.000 \n \n \n\n159. Una piscina tiene agua hasta ",
+      "cantidad_caracteres": 1228,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 44,
+      "texto": "160. El contenido de un estanque con 3.600 litros de agua fue repartido de modo que la \n\nmitad del agua se ocupó en regadío y el resto dividido en partes iguales, se usó para \nllenar tres piletas. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nCada pileta recibió 1\n\n6  del contenido del estanque. \n\nII) \nCada pileta recibió 600 litros de agua. \nIII) \nEn regadío y en dos piletas se ocuparon 3.000 litros de agua. \n \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III    \n \n \n \n161. Los 40 alumnos de un curso, desarrollan una prueba en donde 16 de ellos reprueban. \n\nSi el número de mujeres es la mitad del total de aprobados y el número de varones \naprobados es el cuádruplo del número de mujeres reprobadas. ¿Cuántas mujeres \naprobaron la prueba? \n \n\nA)   3 \nB)   4 \nC)   6 \nD)   8   \nE) 10 \n \n162. Un grupo de 5 estudiantes decide recorrer 1.200 km para ir a ver un partido de la \n\nselección chilena. Los primeros dos tercios del trayecto lo re",
+      "cantidad_caracteres": 1621,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 45,
+      "texto": "164. El precio de una polera es $ 15.000, pero con descuento queda en $ 9.000. ¿Qué parte \n\ndel precio original es el precio con descuento? \n \n \n\nA)  2\n\n5  \n\nB)  1\n\n2  \n\nC)  3\n\n5    \n\nD)  4\n\n5  \n\nE) \n7\n10  \n\n \n \n165. Ignacio compró 8 poleras, 2 jeans y 4 gorros. Si cada jeans le costó $ 17.500, cada \n\npolera un 55% del costo de un jeans, y los cuatro gorros le costaron 4\n\n5  del costo de un \n\njeans. ¿Cuál(es) de las afirmaciones es (son) verdadera(s)? \n \n\nI) \nLas poleras costaron $ 63.000 más que los gorros.  \nII) \nEl costo de un gorro es de $ 3.500. \nIII) \nEn total gastó $ 126.000. \n \n\nA) Solo I \nB) Solo III \nC) Solo I y II \nD) Solo II y III \nE) I, II y III   \n \n \n \n166. Patricio pidió un préstamo de $ 5.000.000 a una entidad financiera que le cobra un \n\n0,1% de interés simple trimestral. ¿Cuánto pagará por concepto de intereses en un \naño? \n \n\nA) $   5.000 \nB) $ 15.000 \nC) $ 20.000   \nD) $ 25.000 \nE) $ 40.000 \n \n \n167. Si cierto capital se invierte al 10% de interés simple anual, ¿al",
+      "cantidad_caracteres": 1130,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 46,
+      "texto": "168. Si un capital C se invierte a una tasa anual de r por ciento de interés compuesto \n\ndurante n años, entonces el capital final CF está dado por \n \n\nn\nr\n1 + 100\n\n\n\n\n\n\n\nCF = C \n\n \n\n \n\nAl invertir $ 1.200.000 a un interés compuesto del 3% semestral, al término de 6 años, \nse tendrá, en pesos, una cantidad de \n \n\nA) 1,2 ∙ 106 ∙ (1,03)6 \nB) 1,2 ∙ 106 ∙ (1,03)12    \nC) 1,2 ∙ 106 ∙ (1,003)6 \nD) 1,2 ∙ 106 ∙ (1,06)3 \nE) 1,2 ∙ 106 ∙ (1,06)12 \n \n \n169. Se puede determinar el precio al contado de una plancha eléctrica, si: \n \n \n\n(1) El precio de la plancha al crédito es de $ 9.800. \n\n(2) En el precio al crédito está considerado un 20% sobre el precio al contado. \n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2)    \n \n \n \n \n \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n170. Si 27 páginas de una revista son destinadas a publicidad. Se puede determinar el \n\nporcentaje que ocupa la publicidad en esa revista, si: \n \n\n(1) La revista tiene 9",
+      "cantidad_caracteres": 1397,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 47,
+      "texto": "172. ¿Cuál(es) de los siguientes números es (son) racional(es)? \n\n \n\n3\n2\n27  \n\nI) \n\n4\n3\n16  \n\nII) \n\nIII) \n24\ni\n  \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y III \nE) I, II y III    \n \n \n \n173. ¿Cuál(es) de los siguientes números es (son) irracional(es)? \n\n \nI) \n0,0169  \n\nII) \n5\n3125  \n\nIII) \n2,89  \n\n \n \nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) Ninguna de las opciones anteriores.   \n \n \n \n \n174. Si 5  – \n3  = G, entonces ¿cuál es el valor de 5  + \n3 ?  \n \n \n\nA) \nG\n\n2  \n\nB) \n2\nG    \n\nC) G \n\nD) G\n\n3  \n\nE) \n3\nG  \n\n \n \n \n \n \n \n\n47 \n \n",
+      "cantidad_caracteres": 556,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 48,
+      "texto": "7\n\n175. \n\n = \n\n3\n\n4\n\n \n\nA)  7\n\n2  \n\nB) \n3\n7 4\n2\n \n\n3 2\n\nC) \n\n4  \n\nD) \n3\n7 2\n2\n   \n\n3 4\n\nE) \n\n4  \n\n \n\n176. \n2\n2\n( 2  3)   (2  2)\n\n\n\n = \n\n \nA) \n  1    \nB) \n  2\n2  – 5 \nC) -1 \nD) \n2   \nE) -5 \n \n \n\n177. \n1\n1\n2\n2 = \n\n \n\nA) \n4 8  \n\n1\n\nB) \n\n \n\n3\n\n2\n\nC) 2 \n\n4 2\n\nD) \n\n2     \n\nE)  1\n\n2  \n\n \n\n3\n3\n2\n2\n\n64  + 512\n\n178. \n\n = \n\n5\n3\n\n32\n\n \nA) 10    \nB)   1 \nC)   8 \nD)   2 \nE)   6 \n \n \n \n\n48 \n \n",
+      "cantidad_caracteres": 384,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 49,
+      "texto": "4\n4\n4\n3\n\n3\n3\n6  + 6  + 6\n\n179. \n\n= \n\n12  + 12\n\n \n \n\nA) \n3\n1  3\n2 \n \n\nB) \n3\n1  6\n2 \n \n\nC) \n3\n1  9\n2 \n    \n\nD) \n3\n1  6\n3 \n \n\nE) \n3\n1  9\n3 \n \n\n \n \n\n180. ¿Cuál es el valor de \n0,61 : 0,18 ?  \n\n \n\nA) 13\n\n5   \n\nB)  7\n\n3  \n\nC) 11\n\n6      \n\nD)  2\n\n5   \n\nE) No se puede determinar. \n \n \n \n \n\n181. El valor de \n2\n( 0,017 + 2,7)  es igual a \n\n \n\nA)   9\n\n5   \n\nB)  3\n\n10  \n\nC)  81\n\n25    \n\nD) \n41\n900  \n\nE) \n629\n225  \n\n \n \n \n \n \n \n\n49 \n \n",
+      "cantidad_caracteres": 431,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 50,
+      "texto": "182. Si  a = 6 - 2\n6    y   b = 6 + 2\n6 , entonces \nab  = \n \n\nA) 3\n2  \n\nB) 2\n3     \nC) 6 \nD) 2 15  \nE) 12 \n\n \n \n \n \n183. ¿Cuál(es) de las siguientes expresiones es (son) mayor(es) a 1? \n \n\nI) \n5 + 3\n\n \n\n5  3\n\n\nII) \n2 2  1\n\n\n \n\n2\n\nIII) \n27  3\n\n\n \n\n3\n\n \n\nA) Solo I \nB) Solo III \nC) Solo I y II \nD) Solo I y III \nE) I, II y III    \n \n \n \n \n\n184. \n2\n\n – \n3\n\n = \n\n3 + 2\n\n3  2\n\n\n \n \n\nA) -5     \n\nB) \n1\n\n \n\n2 3\n\nC) 5 \n\nD) \n2  3\n\n\n \n\n2 3\n\nE) -\n1\n\n \n\n2 3\n\n \n \n \n \n \n \n \n \n\n50 \n \n",
+      "cantidad_caracteres": 475,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 51,
+      "texto": "185. ¿Cuál(es) de las siguientes raíces representa(n) un número real? \n \n\nI) \n3 -8  \n\nII) \n6 -64  \n\nIII) \n5 -1  \n \n \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III    \nD) Solo II y III \nE) I, II y III \n \n \n \n186. ¿Cuál(es) de los siguientes números corresponde a un número real? \n \n\nI) \n15  3 2\n\n \n\nII) \n3 2 3  3 2\n\n \n\nIII) \n(2 + 5)(2  5)\n\n \n\n \n \n\nA) Solo I \nB) Solo II    \nC) Solo III \nD) Solo I y II \nE) I, II y III \n \n \n \n187. ¿Cuál(es) de los siguientes números pertenece(n) al conjunto de los números \n\nirracionales? \n \n\nI) \n3 2  2 5\n\n \n\nII) \n4 5  20\n\n \n\nIII) \n3 2  2 3\n\n \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo II y III    \nE) I, II y III \n \n \n \n \n \n \n\n51 \n \n",
+      "cantidad_caracteres": 676,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 52,
+      "texto": "188. Si x = 11 , entonces ¿cuál(es) de las siguientes relaciones es (son) correcta(s)? \n \n\nI) \n3  <  x  < 4 \nII) \n3  <  x  < 3,2 \n\n4   < x < 7\n\nIII) \n13\n\n2  \n\n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) Solo I y III   \n \n \n\n189. Al ordenar en forma creciente los  números: \n5 , 2\n3 , 3\n2 , \n7 , \n15 ,  el que ocupa \nel lugar central es \n \n \n\nA) \n5  \n\nB) 2\n3     \n\nC) 3\n2  \n\nD) \n7  \n\nE) \n15  \n \n \n\n190. Si  a = \n3\n3 ,  b = \n6\n6    y  c = \n5\n5 , entonces la afirmación correcta es \n\n \n\nA) b-1 < a-1 < c-1 \nB) a-1 < c-1 < b-1    \nC) c-1 < b-1 < a-1 \nD) a-1 < b-1 < c-1 \nE) b-1 < c-1 < a-1 \n \n \n\n191. Sean P = \n12 + 27\n\n;   Q = 3 5  ∙ ( 3 5 )-1;   R = \n2( 8  32)\n\n, entonces se cumple \n\n3\n\nque \n \n \n\nA) P – Q = R \nB) P < R \nC) Q – R = P     \nD) R > Q \nE) P + Q = R \n \n \n \n \n\n52 \n \n",
+      "cantidad_caracteres": 792,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 53,
+      "texto": "192. La recta numérica de la figura adjunta ha sido dividida en 6 partes iguales. ¿Cuál es el \n\nproducto entre A y B? \n \n \n\nA) 5 + 2 6\n\n6\n  \n\nB) 5  2 6\n\n6\n\n \n\n \n\n2  \n3  \n\nC) 2 2 + 3\n\n3\n \n\nA       B \n\nD) \n2 + 3\n\n2\n \n\nE) \n7 + 3 6\n\n6\n   \n\n \n \n\n193. 5\n4\n3 5\np q  p q\n\n = \n\n \n\n \nA) p3q7 \n\nB) \n7\n6\np q  \n\nC) \n10\n3 7\npq\np q  \n\nD) \n10\n7\n3\n2\n2\nq\np\nq\np\n    \n\nE) p13q17 \n \n \n\n194. Si m + 3 = 0  y n – 9 = 0. ¿Cuál es el valor de 3 mn  – n? \n \n\nA) -12 \nB)    0 \nC)    6 \nD)  12   \nE)  36  \n \n \n195. Si a > 0  y  b < 0, ¿cuál(es) de las siguientes proposiciones es (son) verdadera(s)? \n \n\nI) \na4b < ab2  \nII) \nab3 = -ab3  \n\nIII) \n2\nab  = -b\na   \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) I, II y III    \n \n\n53 \n \n",
+      "cantidad_caracteres": 722,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 54,
+      "texto": "196. Si a y b son dos números reales tales que a4 < b4. ¿Cuál(es) de las siguientes \n\nrelaciones es (son) siempre verdadera(s)? \n \n\nI) \na < b \nII) \na2 < b2 \nIII) \na < b \n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo II y III    \nE) I, II y III \n \n \n \n \n197. Si x es un número real, tal que x ≥ 3, entonces ¿cuál(es) de las siguientes igualdades \n\nes (son) verdadera(s)? \n\n \n\nI) \n2\n(x  3)  = x  3\n\n\n \n\nII) \n2\n(3  x)  = x  3\n\n\n \n\nIII) \n3 – x = 3 – x \n \n \nA) Solo I \nB) Solo I y II    \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n \n \n \n \n198. Si a  lR, entonces ¿cuál(es) de las siguientes afirmaciones es (son) siempre \n\nverdadera(s)? \n \n\n2\n1\n1\n < \na\na\n\nI) \n\n \n\nII) \n2\na   a\n\n  es un número real. \n\nIII) \na\n2a + 1  es irracional. \n\n \n\nA) Solo III \nB) Solo I y II \nC) Solo I y III \nD) I, II y III \nE) Ninguna de ellas.    \n \n \n \n\n54 \n \n",
+      "cantidad_caracteres": 856,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 55,
+      "texto": "3\n-1\n2\n3\na\n : ( a)\n= \n\n199. Si a  0, entonces  \n\n \n\nA) a-1    \nB) a-2 \n\nC) \n3 a  \n\n9\n2\na  \n\nD) \n\n3\n1\na\n \n \n \n \n\nE) \n\n5\n2\nb\n = \n \n\n200. Si \na   = b, entonces \n\n5\n2\na  \n\nA) \n\nB) a 4 a    \n\n4\n3\na  \n\nC) \n\n4\n3\na  \nE) a5 \n \n \n \n \n \n\nD) a\n\n201. Al desarrollar \n2\n2\n( x + y)   ( x  y)\n\n\n resulta \n\n \n\nA) 2\nxy  \n\nB) 2(x − y) \nC) 4\nxy     \n\nD) 2y \nE) 0 \n \n \n \n \n\n202. Se define ab = \na  · \n1\nb   en los reales, entonces (4x2)(2x) = \n\n \n\nA) 2x  para todo x > 0 \nB) 4x  para todo x > 0 \nC) \n2x para todo x > 0    \n\nD) \n1\n2x  para todo x  0 \n\nE) \n2x  para todo x  0 \n \n \n\n55 \n \n",
+      "cantidad_caracteres": 573,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 56,
+      "texto": "2\n\nx\n\n203. ¿Qué condición debe cumplir x en la expresión \n\n  para que ésta represente un \n\n2\n\n5\nx\n\n\n\nnúmero real positivo? \n \n \n\nA) x puede ser cualquier número real distinto de \n5  y - 5 . \nB) x debe ser imaginario mayor que 5. \nC) x < \n5  \n\nD) x  [- 5 ,\n5 ] \n\nE) x  ]-, -\n5 [] 5 ,+[    \n \n \n\n204. Si M =\n2\n2\n2\n(b + 5)   (5  a)  + (b  a)\n\n\n\n. Se puede determinar el valor numérico de M, \n\nsi: \n\n \n(1) a : b = 5 : 4 \n(2) a + b = 27 \n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2)    \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional. \n \n \n \n\n205. La expresión  \n2\n2\n2\n2\nx  + x  + x  + x   es un número racional, si: \n \n(1) x < 0 \n(2) x es un número racional. \n\n \nA) (1) por sí sola \nB) (2) por sí sola     \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional. \n \n \n\n206. \n2\n4  x\n\n representa un número real, si: \n \n(1) x  2 \n(2) x  -2 \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas junta",
+      "cantidad_caracteres": 1101,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 57,
+      "texto": "207. Se puede determinar que \n3\n\n es un número racional positivo, si: \n\nb + c\n\n \n(1) b = 27 \n \n(2) c > b \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional    \n \n \n \n \n\n208. \n45\n9\n3\n2\n-\n  \n  -\n  1,5i\n4\n2\n3\n\n\n\n = \n\n \n\nA) -2i \nB) –i     \nC)  0 \nD)  i \nE) 2i \n \n \n\n9\n-4\n\n209. El resultado de \n\n  es \n\n2\n\n\n\n\n\n\n\n\n\n\n3\n-\ni\n2\n\nA) -i \nB) -1    \nC) 0 \nD) 1 \nE) i \n \n \n \n210. i123 = \n\n \n\nA) –i     \nB)  i \nC)  1 \nD) -1 \nE) 2i \n \n \n \n \n \n \n\n57 \n \n",
+      "cantidad_caracteres": 540,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 58,
+      "texto": "211. El valor de la potencia (-1 + i)8  es \n\n \n \nA) -16 \nB)    0 \nC)    2 \nD)    8 \nE)  16    \n \n \n \n212. El valor de  (i11 + i-5)6  es \n \n \n\nA)   64 \nB) -64    \nC)   32 \nD) -32 \nE)   16 \n \n \n \n213. Si  i es  la unidad imaginaria,  entonces i-1 + i-3 + i-5 + i-7 =  \n \n\nA) -4i  \nB) -2i \nC)   -i \nD)     i \nE) \n     0    \n \n \n\n \n214. El resultado de i + i3 + i5 + i7 + i9 + i11 + i13 + i15 + i17 + i19 + i21 =   \n \n \n\nA) -2i \nB)  -i \nC)  0 \nD)  2i \nE)   i      \n\n \n \n \n215. Si z = i³ + (1 – i)i⁵ + i(4 – i), entonces el valor de z es \n \n \n\nA) 1 + 2i \nB) 2(1 + 2i)    \nC) 1 – 2i  \nD) 2(2 + i) \nE) 1 + 3i \n \n \n\n58 \n \n",
+      "cantidad_caracteres": 614,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 59,
+      "texto": "216. Si  z1 = 5 + 12i;   z2 = (1 – i)2  y  z3 = 3 – 2i, entonces  el conjugado de (z1 + z2 – z3) \n\nes \n \n\nA) 2 – 12i    \nB) 2 – 8i \nC) 2 + 8i \nD) 8 – 8i \nE) 8 – 12i \n \n \n217. Si la figura adjunta muestra la representación gráfica de un número complejo z, \n\nentonces su forma binomial es \n \n \n\nIm(z) \n\n \n\n1 \n\nA)    3 – 4i    \nB)    4 – 3i \nC)  -3 + 4i \nD)  -4 + 3i \nE)  -4 – 3i \n \n \n \n \n218. ¿Cuál es el módulo del número complejo 12 – 5i? \n \n \n\n0 \n\nRe(z) \n\n-2 \n\n1 \n2 \n3 \n4 \n-1 \n\n-1 \n\n-2 \n\n-3 \n\nz \n\n-4 \n\nA) 13    \nB) \n13  \nC) 6,5 \nD) 13i \nE) 169 \n \n \n219. Si z = a + bi, con a y b números reales no nulos, entonces la expresión que representa   \n\nz + z  es \n \n\nA) 2a    \nB) 2b \nC) 2a + 2b \nD) 2a + 2bi \nE) 2a – 2b \n \n \n\n220. El valor  de 3 + 2i\n\ni\n  es \n\n \n\nA) 2 – 3i    \nB) 2 + 3i \nC) 3 – 2i \nD) 3 + 2i \nE) 5i + 2 \n \n\n59 \n \n",
+      "cantidad_caracteres": 824,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 60,
+      "texto": "221. 2 + i\n\n= \n\n3\n2i\n\n\n \n\nA) \n4\n7\n+\ni\n5\n5  \n\nB) 2\n1i\n3\n2\n\n \n\nC) \n4\n7i\n5\n5\n\n \n\nD) \n4\n7\n+\ni\n13\n13     \n\nE) \n8\n7\n+\ni\n13\n13  \n\n \n \n \n\n222. Si z =  3 + i\n\n1  3i\n\n, entonces z4 = \n\n \nA) \n -i \nB) -1 \nC)   i \nD)  1     \nE) 4i \n \n \n \n223. -8 + 6i  = \n \n\nA) \n  1 – 3i  \nB) -1 + 3i  \nC)   1 + 3i   \nD)   4 + 3i \nE) \n  3 + 4i \n \n \n \n224. Si z1 = 2 + 3i   y   z2 = 4 – i, entonces el valor de z1 · z2  = \n \n \n\nA) (4 13,- 13)     \n\nB) (4 13, -13)  \nC) (8,-11) \nD) (20,-5) \nE) (-1,4) \n \n \n \n \n \n \n\n60 \n \n",
+      "cantidad_caracteres": 495,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 61,
+      "texto": "225. Si el número z = 1 + 2i, entonces ( z )-2 es      \n \n\nA) \n1\n4i\n + \n25\n25  \n\nB) \n1\n4i\n  \n25\n25\n\n \n\nC) \n3\n4i\n + \n25\n25  \n\nD) \n-3\n4i\n + \n25\n25     \n\nE) \n-3\n4i\n  \n25\n25\n\n \n\n \n \n \n \n\nn\nn + 1\n1\n1\n  \ni\ni\n\n, \nsiendo \ni \nla \nunidad \nimaginaria, \nentonces \n\n226. Si \nan \n= \n\na1 + a2 + a3 + a4 + a5 + a6 + a7 =  \n\n \n \nA)  1 – i \nB) -1 + i \nC) -1 – i     \nD)  1 + i \nE) -2i \n \n \n \n \n227. Si a y b son distintos que 0, z1 = a + 2i,  z2 = 3 – bi  y  z1 · z2 es un número imaginario \n\npuro, entonces ¿cuál de las siguientes afirmaciones es siempre verdadera? \n \n \n\nA) ab = -6 \n\nB) ab = 1\n\n6  \n\nC) \na\n2\n = -\nb\n3     \n\nD) b\n2\n = -\na\n3     \n\nE) \na\n3\n = \nb\n2  \n\n \n \n \n \n \n \n \n\n61 \n \n",
+      "cantidad_caracteres": 672,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 62,
+      "texto": "228. Si z1 = 3 – 2i  y  z2 = 2 – 3i son números complejos y p = z1 · z2,  \n\nz\nz , entonces ¿cuáles de las siguientes afirmaciones son verdaderas? \n\nq = z1 + z2  y  r = \n1\n\n2\n\n \n \n\nI) \np < q \nII) \nq < r \nIII) \np < r \n \n \n\nA) Solo I y II \nB) Solo I y III \nC) Solo II y III \nD) I, II y III \nE) Ninguna de ellas.   \n \n \n \n \n229. Si z1 = 2 – 3i  y  z2 = 5 + i, entonces ¿cuál(es) de las siguientes afirmaciones es (son) \n\nverdadera(s)? \n\n \n \n\nI) \nz1 – z2 = 5 \nII) \nz1 · z2 = 7 – 13i \n\nz\n7\n17\n = \n  \ni\nz\n26\n26\n\n \n\nIII) \n1\n\n2\n\n \n\nA) Solo I \nB) Solo II \nC) Solo III     \nD) Solo I y II \nE) Solo I y III   \n\n \n \n \n\n230. ¿Qué condición debe cumplir x en la expresión \n2\nx   4\n\n para que ésta represente un \nnúmero complejo con parte imaginaria distinta de cero? \n \n \n\nA) x  cualquier número real. \nB) x < 2 \nC) x > 2 \nD) -4 < x < 4 \nE) -2 < x < 2          \n \n \n \n \n \n\n62 \n \n",
+      "cantidad_caracteres": 881,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 63,
+      "texto": "231. Si a, b y c son números reales, \na  b\n\n\n\n  representa un número complejo imaginario \n\nb  c\n\n\n\npuro, si: \n\n \n(1) a > b \n(2) a  c \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional.    \n \n \n\n232. La expresión \n2\n2x   50\n\n representa un número complejo imaginario puro, si: \n \n\n(1)  x2 = -1 \n(2)  -5 < x < 5 \n \n\nA) (1) por sí sola  \nB) (2) por sí sola  \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2)   \nE) Se requiere información adicional. \n \n \n233. Se puede determinar el módulo de z = a + bi, si: \n\n \n(1) z + z  = 4 \n(2) z · z  = 5 \n\n \nA) (1) por sí sola \nB) (2) por sí sola    \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n\n \n \n234. log4 8 = \n \n \n\nA) \n1\n2  \n\nB) \n2\n3  \n\nC) \n3\n2     \n\nD)  2 \nE) \n 4 \n \n \n\n63 \n \n",
+      "cantidad_caracteres": 888,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 64,
+      "texto": "235. Si log4 a = 0,5, entonces loga 8 = \n \n \n\nA) 1 \nB) 2 \nC) 3    \nD) 4 \nE) 5 \n \n \n236. Si A = log273, entonces A aproximado por redondeo a la centésima es \n\n \nA) 0,3 \nB) 0,33    \nC) 0,34 \nD) 3 \nE) 3,3 \n \n \n \n\n237. Si (log 2) aproximado por defecto a la décima es 3\n\n10 , entonces log 80 aproximado por \n\ndefecto a la décima es \n \n \n\nA) \n7\n10  \n\nB) 11\n\n10  \n\nC) 13\n\n10  \n\nD) 17\n\n10  \n\nE) \n19\n10    \n\n \n \n238. ¿Cuál de las siguientes opciones es FALSA? \n \n \n\nA) \n3  > 1,6 \n\nB) \n14  < 3\n2  \n\n1\n2\n2  < 2 \nD) log2 8 < 3,0001 \nE) log5 25 < 2    \n \n \n \n \n \n \n\nC) \n\n64 \n \n",
+      "cantidad_caracteres": 565,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 65,
+      "texto": "1\n81\n(log\n3) es igual a \n\n239. La expresión \n3\n\n \n\nA) \n4\n3\n\n \n\nB) \n8\n3\n\n \n\nC) \n3\n4  \n\nD) 2\n\n \n\n3\n\nE) \n8\n4  \n\n \n \n240. ¿Cuál de las siguientes igualdades es verdadera? \n \n \n\nA) log 9 + log 8 = log 17 \n\nB) log20\n\nlog5  = log 4 \n\nC) log4 4 = 4 \nD) log7 11log7 3 = log7 33 \n\nE) log 11  = 1\n\n2 log 121     \n\n \n \n241. log5 150 – log5 6 =  \n\n \nA) 2     \nB) 1 \nC) 0 \n\nD) 3\n\n2   \n\nE) log5 144  \n \n \n242. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \n2log 3 = log 6 \nII) \n3 + log 2 = log 40 + log 50 \nIII) \nlog 15 – log 3  = 1 – log 2 \n \n \n\nA) Solo I    \nB) Solo II \nC) Solo III  \nD) Solo II y III    \nE) I, II y III \n\n \n \n\n65 \n \n",
+      "cantidad_caracteres": 650,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 66,
+      "texto": "243. ¿Cuál(es) de las siguientes igualdades es (son) correcta(s)? \n\n \n\nI) \nlog 25 = log5 · log5 \nII) \n34 + 34 + 34 = 35 \n\nIII) \n3  · 3 3  = \n\n6\n5\n3  \n \nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo II y III   \nE) I, II y III \n \n \n244. Se define  ab = logb a ∙ loga b  en los reales, entonces 3  2 es equivalente a \n \n\nA) log2 3 + log3 2 \nB) log4 2 + log2 3 \nC) log2 3 ∙ log2 3 \nD) log6 6    \nE) log6 1 \n \n \n\n245. Si  log 2 = x;  log 3 = y;  log 5 = z,  entonces  \n10\nlog\n9\n\n\n\n\n\n =  \n\nA) x + z – 2y    \nB) x + z + 2y \n\nC) \nxy\n2z  \n\nD) x + z + y2 \nE) x + z – y2 \n \n \n \n246. Si P = log2 3 · log3 4, entonces \n1\n2\nlog P  = \n\nA) -1    \n\nB) \n1\n2  \n\nC) 1 \nD) 2 \nE) 4 \n\n \n\n2\na\nlog\nb\n\n\n\n\n\n\n\n1\n3\nlogb = q ,  entonces  \n\n247. Si log \na  = m  y  \n\n  en función de m y  q es \n\n \n\nA) 2m + q \nB) 2m – 3q \nC) 3m + 3q \nD) 4m – 3q    \nE) 4m + q \n \n\n66 \n \n",
+      "cantidad_caracteres": 849,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 67,
+      "texto": "248. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \n2\nlog 3\n2\n3\n\n \n\nII) \nSi \n\n5\nlog\nx  = -2, entonces x = 0,2 \n\nIII) \nlog2 2 = 0 \n \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II   \nE) I, II y III \n \n \n \n\n249. Si k es un número positivo tal que k\n\n2  es un entero impar y k\n\n5  es un entero par, \n\nentonces ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nnk es un número entero par para todo entero positivo de n. \nII) \nkn es un número entero impar para todo valor entero positivo de n. \nIII) \nlog kn > 1, para todo valor entero positivo de n. \n \n\nA) Solo I    \nB) Solo III \nC) Solo I y II \nD) Solo I y III \nE) I, II y III \n \n \n \n250. El valor de la expresión real (1 + loga m) logam N se puede determinar, si se conoce: \n\n \n\n(1) El valor de a. \n(2) El valor de N. \n \n\nA) (1) por si sola. \nB) (2) por si sola. \nC) Ambas juntas, (1) y (2).    \nD) Cada una por sí sola, (1) o (2). \nE) Se requiere información adicional. \n \n \n \n \n \n \n \n \n \n \n \n\n6",
+      "cantidad_caracteres": 1005,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 68,
+      "texto": "CLAVES EJERCICIOS NÚMEROS \n \n\n1 \nE \n35 \nE \n69 \nC \n103 \nA \n137 \nE \n171 \nD \n205 \nB \n239 \nB \n\n2 \nB \n36 \nE \n70 \nC \n104 \nC \n138 \nC \n172 \nE \n206 \nC \n240 \nE \n\n3 \nE \n37 \nE \n71 \nA \n105 \nA \n139 \nC \n173 \nE \n207 \nE \n241 \nA \n\n4 \nB \n38 \nC \n72 \nA \n106 \nC \n140 \nC \n174 \nB \n208 \nB \n242 \nD \n\n5 \nC \n39 \nA \n73 \nC \n107 \nC \n141 \nA \n175 \nD \n209 \nB \n243 \nD \n\n6 \nC \n40 \nA \n74 \nA \n108 \nD \n142 \nD \n176 \nA \n210 \nA \n244 \nD \n\n7 \nB \n41 \nA \n75 \nC \n109 \nC \n143 \nD \n177 \nD \n211 \nE \n245 \nA \n\n8 \nC \n42 \nB \n76 \nD \n110 \nA \n144 \nE \n178 \nA \n212 \nB \n246 \nA \n\n9 \nE \n43 \nD \n77 \nC \n111 \nC \n145 \nC \n179 \nC \n213 \nE \n247 \nD \n\n10 \nC \n44 \nE \n78 \nD \n112 \nD \n146 \nD \n180 \nC \n214 \nE \n248 \nD \n\n11 \nB \n45 \nC \n79 \nC \n113 \nE \n147 \nE \n181 \nC \n215 \nB \n249 \nA \n\n12 \nB \n46 \nE \n80 \nA \n114 \nB \n148 \nC \n182 \nB \n216 \nA \n250 \nC \n\n13 \nD \n47 \nC \n81 \nB \n115 \nD \n149 \nC \n183 \nE \n217 \nA \n-- \n-- \n\n14 \nA \n48 \nD \n82 \nD \n116 \nB \n150 \nD \n184 \nA \n218 \nA \n-- \n-- \n\n15 \nE \n49 \nA \n83 \nA \n117 \nD \n151 \nB \n185 \nC \n219 \nA \n-- \n-- \n\n16 \nB \n50 \nB \n84 \nA \n118 \nD \n152 \nC \n186 \nB \n220 ",
+      "cantidad_caracteres": 2142,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "archivo_original": "TEM 03.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 03.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 6,
+  "fecha_procesamiento": "2026-03-07T23:06:55.293574",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEl desarrollo de  (x – 2y)2  es equivalente a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x2 – 2y + 4y2"
+        },
+        {
+          "letra": "B",
+          "texto": "x2 – 4y + 4y2"
+        },
+        {
+          "letra": "C",
+          "texto": "x2 – 2xy + 4y2"
+        },
+        {
+          "letra": "D",
+          "texto": "x2 – 4xy + 4y2"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nSi  x = a2 – b2,  y = (a – b)2, z = 4ab, entonces y – x + z =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2b(a + b)"
+        },
+        {
+          "letra": "B",
+          "texto": "2b(a – b)"
+        },
+        {
+          "letra": "C",
+          "texto": "2b2 – 2ab"
+        },
+        {
+          "letra": "D",
+          "texto": "(a + b)2 + b2"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi A = p + 1,  B = p – 1, C = A · B, entonces C – 2(A + B) =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p2 – 2p"
+        },
+        {
+          "letra": "B",
+          "texto": "p2 – 2p – 1"
+        },
+        {
+          "letra": "C",
+          "texto": "p2 + 2p – 1"
+        },
+        {
+          "letra": "D",
+          "texto": "ninguna de las anteriores."
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \n¿Cuál(es) de las siguientes igualdades es (son) siempre verdadera(s)? \n \n\nI) \ng2 – h2 = (g – h)2 \nII) \ng2 – h2 = h2 – g2 \nIII) \n(g – h)2 = (h – g)2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nSi al doble de (a + b)2 se le resta el doble de (a2 – b2), se obtiene",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4ab"
+        },
+        {
+          "letra": "B",
+          "texto": "4b(a + b)"
+        },
+        {
+          "letra": "C",
+          "texto": "4a(a + b)"
+        },
+        {
+          "letra": "D",
+          "texto": "2ab + b2 2 3 1 y 5       "
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi p + q – 1 = 0, entonces el valor de 2p2 + 4pq + 2q2  es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "-2 2 3x 6x "
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nSi x  2, entonces \n\n es igual a \n\n2\n\nx   4x + 4\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3x x + 2"
+        },
+        {
+          "letra": "B",
+          "texto": " 3x x 2"
+        },
+        {
+          "letra": "C",
+          "texto": "-3x x + 2"
+        },
+        {
+          "letra": "D",
+          "texto": "-3 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSi a  - 1\n\n2  y se divide (8a2 – 2)  por  (4a + 2)  se obtiene",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2a – 1"
+        },
+        {
+          "letra": "B",
+          "texto": "2a + 1"
+        },
+        {
+          "letra": "C",
+          "texto": "2 – a"
+        },
+        {
+          "letra": "D",
+          "texto": "a – 2 2 2          2         2 m 1 2m"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. \n\n + \n\n = \n\n2\n\nm  + 1\n\nm  + 1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m2 – 1"
+        },
+        {
+          "letra": "B",
+          "texto": "m2 + 1"
+        },
+        {
+          "letra": "C",
+          "texto": "m2"
+        },
+        {
+          "letra": "D",
+          "texto": "1 n + 2 n 2   se obtiene 2 a a"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Al simplificar la expresión \n\na  + 1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "an – 2(a2 – 1)"
+        },
+        {
+          "letra": "B",
+          "texto": "an + 2(a2 – 1)"
+        },
+        {
+          "letra": "C",
+          "texto": " n 2 a (a 1) 2"
+        },
+        {
+          "letra": "D",
+          "texto": "an (a2 + 1)"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Si 3x  y, entonces al simplificar \n\n, resulta \n\n9x   y\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": " 3x + y 3x y"
+        },
+        {
+          "letra": "B",
+          "texto": "3x y 3x y  "
+        },
+        {
+          "letra": "C",
+          "texto": "6xy"
+        },
+        {
+          "letra": "D",
+          "texto": "-6xy 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Si  a2 ≠ b2, entonces  \n3\na + b  – \n5\na  b\n\n + \n\n\n2\n2\n10b\n\n  es equivalente con \n\na   b",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 a + b"
+        },
+        {
+          "letra": "B",
+          "texto": "2a a b "
+        },
+        {
+          "letra": "C",
+          "texto": "-2 a b "
+        },
+        {
+          "letra": "D",
+          "texto": "- 2 a + b 2"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Si x  1, entonces \nx\nx + 1  + x + 1\n\n2\n3x   x + 2\n\n\n\nx  1\n\n – \n\n = \n\nx   1\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x 1  x + 1 2"
+        },
+        {
+          "letra": "B",
+          "texto": "-  2 x 3 x 1 "
+        },
+        {
+          "letra": "C",
+          "texto": "1 x  x + 1"
+        },
+        {
+          "letra": "D",
+          "texto": "-1 2 2 por  5b + 2a 2a 5b se obtiene 2 2 4a 25b "
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Si 2a  3b y se divide  \n\n4a   20ab + 25b\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-1"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "1 20ab"
+        },
+        {
+          "letra": "D",
+          "texto": "5a + 2b"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. ¿Cuál(es) de  las  siguientes expresiones representa(n) el área de un cuadrado de lado     \n\nx + 2y? \n \n\nI) \n(x + 2y)2 \nII) \n(x + y)2 – (x – y)2 + x2 + 4y2 \n\n2\n( 2x + 8y)\n\nIII) \n\n2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Si b  -c, entonces -ab + 2c  ac + 2b\n\n\n es igual a \n\nb + c",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 + a"
+        },
+        {
+          "letra": "B",
+          "texto": "a – 2"
+        },
+        {
+          "letra": "C",
+          "texto": "2 – a"
+        },
+        {
+          "letra": "D",
+          "texto": "ab + ac – b 2 2 2x 5x 3  "
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Si x  -4  y x  3, entonces \n\n es igual a \n\nx  + x  12\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2x 1  x + 4"
+        },
+        {
+          "letra": "B",
+          "texto": "2x 1   x 4"
+        },
+        {
+          "letra": "C",
+          "texto": "2x + 1 x 4 "
+        },
+        {
+          "letra": "D",
+          "texto": "2x + 1 x + 4"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. La factorización  de w2 – 6xy – 9x2 – y2  está representada por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(w + 3x + y)(w – 3x + y)"
+        },
+        {
+          "letra": "B",
+          "texto": "(w – 3x – y)(w + 3x + y)"
+        },
+        {
+          "letra": "C",
+          "texto": "(w + 3x + y)(-w – 3x – y)"
+        },
+        {
+          "letra": "D",
+          "texto": "(w + 3x + y)(w + 3x – y) 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Si x   3  y  x  1\n\n2 , entonces al resolver  \n\n\n : \n\n resulta \n\nx  3\n\n9  x\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(x + 2)(3 + x)"
+        },
+        {
+          "letra": "B",
+          "texto": "(x + 2)(-3 – x)"
+        },
+        {
+          "letra": "C",
+          "texto": "(2 – x)(3 + x)"
+        },
+        {
+          "letra": "D",
+          "texto": "(x – 2)(3 + x)"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Si en los números reales se definen las operaciones a  b = a2 + 2ab + b2  y                     \n\nmn = m2 – 2mn + n2  entonces el valor de (4  3) – (3  5)  es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "33"
+        },
+        {
+          "letra": "B",
+          "texto": "47"
+        },
+        {
+          "letra": "C",
+          "texto": "63"
+        },
+        {
+          "letra": "D",
+          "texto": "-27"
+        },
+        {
+          "letra": "E",
+          "texto": "-63 (Fuente: DEMRE 2014)"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Considerando \nque \npara \ntodo \nnúmero \nentero \npositivo \nK, \nse \ntiene \nque                     \n1\nk(k + 1)  = 1\n\nk  – \n1\nk + 1 , entonces la suma de los primeros 99 términos de la forma \n\n1\nk(k + 1) , \ncon \nk \nun \nnúmero \nentero \npositivo, \nes \ndecir,                     \n\n1\n1  2\n\n + \n1\n2  3\n\n + \n1\n3  4\n\n + \n1\n4  5\n\n + … \n1\n98  99\n\n + \n1\n99  100\n\n, es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "100 101"
+        },
+        {
+          "letra": "B",
+          "texto": "99 100"
+        },
+        {
+          "letra": "C",
+          "texto": "101 100"
+        },
+        {
+          "letra": "D",
+          "texto": "99 100 1    99 100"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de las anteriores. (Fuente: DEMRE 2013)"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Si a + b = 8 y ab = 10, entonces el valor de (a2 + 6ab + b2) es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "104"
+        },
+        {
+          "letra": "C",
+          "texto": "48"
+        },
+        {
+          "letra": "D",
+          "texto": "124"
+        },
+        {
+          "letra": "E",
+          "texto": "Indeterminable con los datos dados. (Fuente: DEMRE 2018) TEM-03 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    }
+  ]
+}

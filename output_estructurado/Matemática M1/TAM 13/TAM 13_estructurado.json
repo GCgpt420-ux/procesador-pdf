@@ -1,0 +1,60 @@
+{
+  "archivo_original": "TAM 13.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/SOLUCIONARIOS/TAM 13.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 6,
+  "fecha_procesamiento": "2026-03-07T23:08:26.324927",
+  "preguntas": [
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn el gráfico de la figura adjunta se muestra una función afín f. ¿Cuál es el valor de \nf(f(3)) – f(3)? \n\nSegún la información del gráfico la función \nfin pasa por los puntos (0,8) y (4,3), por lo \nque la ecuación y = mx + n, queda: \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "- 43 8 16 n = 8"
+        },
+        {
+          "letra": "B",
+          "texto": "- 25 16 * 8 3 y x 8 0 4    "
+        },
+        {
+          "letra": "C",
+          "texto": "43 16 3 5 f(x) x 8 4  "
+        },
+        {
+          "letra": "D",
+          "texto": "25 16 Reemplazando en los x = 3: 4 x 5 17 f(3) 3 8 4 4 5 17 85 43 f f 3 8 8 4 4 16 16 entonces              43 17 43 68 25 16 4 16 16    "
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TAM 13_p2_img1.jpg",
+        "TAM 13_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \n\nSolucionario \n\n1\n\n \n\nSi nn = \n\n, entonces n-1 = \n\n9\n\n3\n\n \n\n1\n\n3\n1\n3\n\n\n\n\n\n\n = \n\n1\n\n1\n\n3\n27\n1\n27\n\n\n\n\n\n\n\n\n\n\n\n\n\n9\n1\n3\n\n\n\n\n\n\n  \n\n27\n1\n27\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "27"
+        },
+        {
+          "letra": "B",
+          "texto": "9"
+        },
+        {
+          "letra": "C",
+          "texto": "3 = 27 = 1 1"
+        },
+        {
+          "letra": "D",
+          "texto": "1 = 1 9 = 3 9 3 3 n = 1 27 entonces n-1 = 27 Alternativa correcta: A) Página 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    }
+  ]
+}

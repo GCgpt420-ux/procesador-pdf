@@ -1,0 +1,641 @@
+{
+  "archivo_original": "Módulo n°2.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/MODULOS/Módulo n°2.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 16,
+  "fecha_procesamiento": "2026-03-07T23:16:16.382879",
+  "preguntas": [
+    {
+      "numero": 2,
+      "enunciado": "2. \nSi T = 2m – 6n, entonces  -2T es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-4m + 12n"
+        },
+        {
+          "letra": "B",
+          "texto": "4m – 12n"
+        },
+        {
+          "letra": "C",
+          "texto": "-4m – 12n"
+        },
+        {
+          "letra": "D",
+          "texto": "m – 3n"
+        },
+        {
+          "letra": "E",
+          "texto": "-m + 3n (Fuente: DEMRE, Publicación 2013)"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \n¿Cuál de las siguientes expresiones no es equivalente a la expresión \n2\n3x\n15x\n18\n\n\n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18 3x(5 x)  "
+        },
+        {
+          "letra": "B",
+          "texto": "2 3(x 5x"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nSi \nx\nm\nn\na\n\n\n  y  \ny\nm\nn\na\n\n\n, entonces \n2\n2\nm   n\n\n es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "xy a"
+        },
+        {
+          "letra": "B",
+          "texto": "x y a "
+        },
+        {
+          "letra": "C",
+          "texto": "x y a "
+        },
+        {
+          "letra": "D",
+          "texto": "2y a"
+        },
+        {
+          "letra": "E",
+          "texto": "2xy a (Fuente: DEMRE, Publicación 2011) 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \np\nq\np\nq\n:\np\nq\np\nq\n\n\n\n\n\n \n\n \n \n\n2\np\nq\np\nq\n\n\n\n\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 p q p q        "
+        },
+        {
+          "letra": "B",
+          "texto": "2 2 2 2 p q "
+        },
+        {
+          "letra": "C",
+          "texto": "p q  2 2 2 2 p q "
+        },
+        {
+          "letra": "D",
+          "texto": "p q "
+        },
+        {
+          "letra": "E",
+          "texto": "1 (Fuente: DEMRE, Publicación 2013) 2 t 1 t 1 t 1    es igual a"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi t ≠ 1, entonces la expresión",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "t2 – 1"
+        },
+        {
+          "letra": "B",
+          "texto": "t – 1"
+        },
+        {
+          "letra": "C",
+          "texto": "t 2 t 1 2t 2  "
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": "t + 1 (Fuente: DEMRE, Publicación 2010) 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nSi \n3\n3\nm   n  = a\n\n  y  m  n = b\n\n, entonces el valor de a\n\nb  es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 2 m mn n  "
+        },
+        {
+          "letra": "B",
+          "texto": "2 2 m n "
+        },
+        {
+          "letra": "C",
+          "texto": "2 2 m mn n  "
+        },
+        {
+          "letra": "D",
+          "texto": "2 2 m n "
+        },
+        {
+          "letra": "E",
+          "texto": "2 2 m 2mn n   (Fuente: DEMRE, Publicación 2011)"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSi \n1\na = 2x , \n1\nb = 4x  y \n1\nc = 6x , entonces x – (a + b + c) es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12x 11  12"
+        },
+        {
+          "letra": "B",
+          "texto": "x 12 2 12x 11 "
+        },
+        {
+          "letra": "C",
+          "texto": "12x"
+        },
+        {
+          "letra": "D",
+          "texto": "x 11  12x"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de las anteriores (Fuente: DEMRE, Publicación 2009)"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Dada la expresión \n2 2\n2\nx y  + x y + yx + x , ¿cuál(es) de las siguientes expresiones  \nes (son) factor(es) de ella? \n \n\nI) \nxy + 1 \nII) \n x + 1 \nIII) \n y + 1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Si \na\nc\np =  + \nb\nd , con a, b, c y d distintos de 0, ¿cuál(es) de las siguientes afirmaciones  \n\nes (son) siempre verdadera(s)? \n \n \n\nI) \na + c\np = b + d  \n\nII) \nEl inverso aditivo de p es ad + cb\n-\nbd\n. \n\nIII) \nEl inverso multiplicativo de p es b\nd\n + \na\nc .",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III (Fuente: DEMRE, Publicación 2008)"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Se puede determinar que la expresión a\nb\nc\n\n, con a, b y c números enteros y c ≠ 0, \n\nrepresenta un número entero positivo, si: \n \n \n\n(1) (a – b) es múltiplo de c. \n(2) a = ck  y  b = cp, con p y k números enteros positivos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional (Fuente: DEMRE, Publicación 2017) x +y 1 x y  "
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Para que la expresión \n\n sea positiva, se debe cumplir necesariamente que \n\nx + y\n1 + x  y\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "xy < 0"
+        },
+        {
+          "letra": "B",
+          "texto": "x < 0"
+        },
+        {
+          "letra": "C",
+          "texto": "xy > 0"
+        },
+        {
+          "letra": "D",
+          "texto": "y < 0"
+        },
+        {
+          "letra": "E",
+          "texto": "x > y (Fuente: DEMRE, Publicación 2009) 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Si al doble de 108 se le resta m se obtiene n y el triple de n es 123, ¿cuál es el valor \n\nde m?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "93"
+        },
+        {
+          "letra": "B",
+          "texto": "67 175 2"
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": "-175"
+        },
+        {
+          "letra": "E",
+          "texto": "175 (Fuente: DEMRE, Publicación 2011)"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. ¿Cuál debe ser el valor de x para que la expresión 9\n3\n  \n2\nx\n\n sea igual al inverso aditivo  \n\nde -3?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "6 15"
+        },
+        {
+          "letra": "C",
+          "texto": "- 6 15"
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        },
+        {
+          "letra": "E",
+          "texto": "18 25 (Fuente: DEMRE, Publicación 2010)"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. La fórmula para calcular la rapidez de un objeto con aceleración constante es \n\nf\ni\nv\nv\ng t\n\n\n\n, donde \nf\nv corresponde a la rapidez final, g es la aceleración, \niv  es la \n\nrapidez inicial y t es el tiempo transcurrido. ¿Cuál de las siguientes expresiones \nrepresenta siempre la aceleración? \n \n \n\ni\nv\nv\nt ",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "f"
+        },
+        {
+          "letra": "B",
+          "texto": "f i v v t  "
+        },
+        {
+          "letra": "C",
+          "texto": "f i v v t "
+        },
+        {
+          "letra": "D",
+          "texto": "i f v v t "
+        },
+        {
+          "letra": "E",
+          "texto": "f i v v t  (Fuente: DEMRE, Publicación 2016) 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Para p y q número enteros, se puede determinar que la solución de la ecuación  \n\npx + qx = c, en x, es un número entero positivo, si se sabe que: \n \n\n(1) p y q dividen a c. \n \n(2) (p + q) c > 0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional (Fuente: DEMRE, Publicación 2018)"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Si x e y son dos números reales positivos, tal que x2 + y2 = 6xy  con x mayor que y, \n\n¿cuál es el valor de la expresión x + y\n\nx  y\n\n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 2"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "2 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguno de los anteriores (Fuente: DEMRE, Publicación 2013)"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. ¿Cuál de las siguientes operaciones es verdadera, con respecto al conjunto solución de \n\nla ecuación 3x – 2 = 1?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tiene dos soluciones reales positivas y distintas."
+        },
+        {
+          "letra": "B",
+          "texto": "Tiene una solución real positiva y la otra real negativa."
+        },
+        {
+          "letra": "C",
+          "texto": "Tiene sólo una solución real positiva."
+        },
+        {
+          "letra": "D",
+          "texto": "Tiene sólo una solución real negativa."
+        },
+        {
+          "letra": "E",
+          "texto": "No tiene solución en los números reales. (Fuente: DEMRE, Publicación 2012)"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Juan en 10 años más tendrá el doble de la edad que tenía hace 5 años. ¿Qué edad \n\ntendrá Juan en un año más?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "21 años"
+        },
+        {
+          "letra": "B",
+          "texto": "20 años"
+        },
+        {
+          "letra": "C",
+          "texto": "16 años"
+        },
+        {
+          "letra": "D",
+          "texto": "15 años"
+        },
+        {
+          "letra": "E",
+          "texto": "11 años (Fuente: DEMRE, Publicación 2008) 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. En un juego del casino, donde solo se gana o solo se pierde, Maximiliano apostó  \n\n(m – a)3 veces y ganó (m + a)3 veces. ¿Cuál de las siguientes expresiones representa \nsiempre la cantidad de veces que perdió Maximiliano?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2a3"
+        },
+        {
+          "letra": "B",
+          "texto": "-6ma"
+        },
+        {
+          "letra": "C",
+          "texto": "-6ma2"
+        },
+        {
+          "letra": "D",
+          "texto": "-6m2a – 2a3"
+        },
+        {
+          "letra": "E",
+          "texto": "-8a3 (Fuente: DEMRE, Publicación 2018)"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Una cuerda de 243 cm se corta sucesivamente, de manera que después de cada corte \n\nse escoge la mayor cuerda resultante, cuya longitud es 2\n\n3  de la longitud de la cuerda \n\nanterior. ¿Cuál es la longitud de la mayor cuerda resultante luego de cinco cortes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "32,4 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "72,9 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "32 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "40,5 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "122 cm (Fuente: DEMRE, Publicación 2015)"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Jorge retira del banco $ 6.540.000 en billetes de $ 5.000 y de $ 20.000. Si le \n\nentregaron en total 450 billetes, ¿cuántos billetes de $ 20.000 recibió?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "170"
+        },
+        {
+          "letra": "B",
+          "texto": "164"
+        },
+        {
+          "letra": "C",
+          "texto": "280"
+        },
+        {
+          "letra": "D",
+          "texto": "225"
+        },
+        {
+          "letra": "E",
+          "texto": "286 (Fuente: DEMRE, Publicación 2017) 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. El precio de venta de cierto tipo de televisor es $v, con v un número entero. Por error \n\nse vendió un cierto número de ellos en $e cada uno, con e un número entero menor \nque v. El vendedor reportó una pérdida total de $d, con d un número entero. Respecto \na la venta de estos televisores, ¿cuál(es) de las siguientes afirmaciones se puede(n) \ndeducir? \n \n \n\nI) \nLa cantidad de televisores que se vendieron con el precio erróneo, se \n\nrepresenta con la expresión \nd\nv  e\n\n. \n\nII) \nv > d \nIII) \nv no es divisor de d.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III (Fuente: DEMRE, Publicación 2018)"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. En la ecuación \n2\n2\n(ax\nbx)(a\nb)\na\nb\n\n\n\n\n, con a  y  b números reales tal que  a ≠ b, se \n\npuede determinar el valor numérico de x, si se sabe que: \n \n \n\n(1) a = 2b \n(2) el 20% de (a + b) es 2.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional (Fuente: DEMRE, Publicación 2017) 15"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    }
+  ]
+}

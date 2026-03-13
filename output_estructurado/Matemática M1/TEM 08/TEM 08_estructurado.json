@@ -1,0 +1,781 @@
+{
+  "archivo_original": "TEM 08.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 08.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 10,
+  "fecha_procesamiento": "2026-03-07T23:06:48.346490",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEn el triángulo ABC de la figura adjunta,  BC  mide 7 cm menos que AC . ¿Cuál es el \nperímetro de este triángulo? \n \n \n \n \n \n \n \n \n \n \n\nC \n\nA \nB \n\n17 cm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "40 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "50 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "60 cm"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "TEM 08_p1_img3.jpg",
+        "TEM 08_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn el segmento OP de la figura adjunta, OA = a cm y OB = b cm. ¿Cuál es la longitud \nde OC , si se sabe que 2(AC + BC) = 3AB? \n \n \n \n \n \n \n\nO \nP \nA \nB \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5a b  4"
+        },
+        {
+          "letra": "B",
+          "texto": "5a b  2"
+        },
+        {
+          "letra": "C",
+          "texto": "5a + b 2"
+        },
+        {
+          "letra": "D",
+          "texto": "5b a 4  1"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "TEM 08_p1_img3.jpg",
+        "TEM 08_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn el triángulo de la figura adjunta, ¿cuáles son los valores de x e y, respectivamente? \n \n \n \n \n \n \n \n \n \n \n\n7 \ny \n\n5 \n\nx \n\n4\n2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 y 2"
+        },
+        {
+          "letra": "B",
+          "texto": "4 y 2"
+        },
+        {
+          "letra": "C",
+          "texto": "4 y 3"
+        },
+        {
+          "letra": "D",
+          "texto": "5 y 4"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TEM 08_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn la figura adjunta AB  es diámetro de la circunferencia. Si AD = 8  y CD = 12, \nentonces ¿cuánto mide el radio de la circunferencia? \n \n \n \n \n \n \n \n \n \n\nB \nC \n\nD \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "26"
+        },
+        {
+          "letra": "B",
+          "texto": "18"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "13"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TEM 08_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \n¿Cuál es el valor de x en la figura adjunta? \n \n \n \n \n \n \n \n \n \n\nx \n\n2\n5  \n\n6 \n\n3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "9"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "12 4 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TEM 08_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \n¿Cuál es el área del cuadrilátero PQRS, si QR   RS , PQ = 8, QR = 2 11  y SP = 4? \n \n \n \n \n \n \n \n \n \n \n \n \n\nR \n\nS \n\nP \nQ",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16 + 6 11"
+        },
+        {
+          "letra": "B",
+          "texto": "16 + 3 11"
+        },
+        {
+          "letra": "C",
+          "texto": "8 + 6 11"
+        },
+        {
+          "letra": "D",
+          "texto": "16 + 9 11"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEn el triángulo ABC de la figura adjunta, AB = 14, BC = 2\n23  y AC = 8. ¿Cuánto mide \n\nCD ? \n \n \n \n \n \n \n \n \n \n \n\nC \n\nA \nB \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 3"
+        },
+        {
+          "letra": "B",
+          "texto": "2 5"
+        },
+        {
+          "letra": "C",
+          "texto": "2 7"
+        },
+        {
+          "letra": "D",
+          "texto": "2 14 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TEM 08_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn la figura adjunta se tiene un cuarto de círculo de centro O y radio R. Si el arco OA es \nuna semicircunferencia, entonces el radio de la circunferencia inscrita es igual a  \n \n \n \n \n \n \n \n \n\nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R 2 A O"
+        },
+        {
+          "letra": "B",
+          "texto": "R 3"
+        },
+        {
+          "letra": "C",
+          "texto": "R 4"
+        },
+        {
+          "letra": "D",
+          "texto": "R 5"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TEM 08_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEn el triángulo ABC rectángulo en C de la figura adjunta, CD   AB . ¿Cuánto mide DB ? \n \n \n \n \n \n \n \n \n\nC \n\n9 \n\nA \nB \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "16"
+        },
+        {
+          "letra": "C",
+          "texto": "20"
+        },
+        {
+          "letra": "D",
+          "texto": "24"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TEM 08_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. En la figura adjunta O es centro de la circunferencia, T es punto de tangencia, TP = 15 \n\n3 \n\ny PQ = 9. Si r es el radio de la circunferencia, entonces r = \n \n \n \n \n \n \n \n \n\nO \nQ \nP \n\nT",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "16 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TEM 08_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. \n¿Cuál de las siguientes proposiciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dos triángulos rectángulos son semejantes si tienen igual área."
+        },
+        {
+          "letra": "B",
+          "texto": "Dos triángulos rectángulos son semejantes si sus hipotenusas son congruentes."
+        },
+        {
+          "letra": "C",
+          "texto": "Dos triángulos rectángulos son semejantes si son isósceles."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos triángulos rectángulos son semejantes si las hipotenusas son proporcionales."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En el triángulo ABC de la figura adjunta, CD \n AB\n\n y AE \n BC\n\n. ¿Cuál de las siguientes \nproposiciones es FALSA? \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ADF CEF  "
+        },
+        {
+          "letra": "B",
+          "texto": "DBC DFA  "
+        },
+        {
+          "letra": "C",
+          "texto": "ABE CFE  "
+        },
+        {
+          "letra": "D",
+          "texto": "AFC EFD  "
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TEM 08_p5_img4.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. En el triángulo ABC rectángulo en C de la figura adjunta, \n  y  D\nCD \n A\nB\nB\nE \nC\n \n\n\n. ¿Cuál \nde las siguientes proposiciones es verdadera? \n\nE \n\nF \n\nB \nA \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "DBC  CED C"
+        },
+        {
+          "letra": "B",
+          "texto": "ADC  DEB"
+        },
+        {
+          "letra": "C",
+          "texto": "ABC  DBC"
+        },
+        {
+          "letra": "D",
+          "texto": "ABC  DCB E"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TEM 08_p5_img4.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Si en el triángulo PQR,  QRP = STP  y  QR  mide el triple de ST , entonces ¿cuál de \n\nA \nB \n\nD \n\nlas siguientes afirmaciones es verdadera? \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Los triángulos PST y PQR son equivalentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Si PS = PT, el triángulo PQR es isósceles. T"
+        },
+        {
+          "letra": "C",
+          "texto": "de 1 3 ST es igual a QR ."
+        },
+        {
+          "letra": "D",
+          "texto": "PS = 3SQ Q P S 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Sean ABC y PQR dos triángulos semejantes. Si BAC = 63°  y RQP = 66°, ¿cuál de \n\nlos siguientes valores puede corresponder a la medida de uno de los ángulos del \ntriángulo PQR?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "49º"
+        },
+        {
+          "letra": "B",
+          "texto": "51º"
+        },
+        {
+          "letra": "C",
+          "texto": "57º"
+        },
+        {
+          "letra": "D",
+          "texto": "61º"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En la figura adjunta, los triángulos ABC y EDC son semejantes, los trazos AB y DE no \n\nson paralelos. Si AD = 2 y DC = 4 y BE = 5, entonces EC =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "5"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "3 C E D A B"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TEM 08_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. En el triángulo ABC de la figura adjunta, ED  //  AB , AC = 8, ED = 3 y EC : AE = 1:3. \n\n¿Cuál es la medida de AB ? \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "15"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TEM 08_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. \nLos triángulos ABC y PQR de la figura adjunta son semejantes, si:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "AB = 9 y PQ = 4"
+        },
+        {
+          "letra": "B",
+          "texto": "CAB = RPQ y BCA = QRP E D A B C P Q"
+        },
+        {
+          "letra": "C",
+          "texto": "QP // AB"
+        },
+        {
+          "letra": "D",
+          "texto": "CAB = RPQ y PR 4 CA 9  R A B 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TEM 08_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. \nSean P(-3, 5) y Q(2, 6) dos puntos del plano cartesiano. Si ambos puntos se rotan en \ntorno al origen en 90º y en sentido anti horario las coordenadas de P y Q son, \nrespectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-5,-3) y (-6,2)"
+        },
+        {
+          "letra": "B",
+          "texto": "(5,-3) y ( 6,2)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-5,3) y (-6,-2)"
+        },
+        {
+          "letra": "D",
+          "texto": "(5,3) y ( 6,2)"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TEM 08_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En el plano cartesiano el punto A se refleja respecto a la recta que es bisectriz del \n\nprimer y tercer cuadrante, obteniéndose como imagen el punto A`(a,b). ¿Cuáles son \nlas coordenadas de A?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(b,a)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-a,-b)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-b,a)"
+        },
+        {
+          "letra": "D",
+          "texto": "(-b,-a)"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TEM 08_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. ¿Cuál de las siguientes afirmaciones es FALSA?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Un rombo tiene centro de simetría"
+        },
+        {
+          "letra": "B",
+          "texto": "Cualquier paralelogramo tiene centro de simetría"
+        },
+        {
+          "letra": "C",
+          "texto": "Un trapecio rectángulo no tiene eje de simetría"
+        },
+        {
+          "letra": "D",
+          "texto": "Un triángulo equilátero tiene centro de simetría"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. En el sistema de ejes coordenados de la figura adjunta, si el paralelogramo PQRS se le \n\naplica una rotación en 180º en sentido horario y en torno al vértice P, ¿cuáles son las \nnuevas coordenadas del vértice S? \n \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(4,2)"
+        },
+        {
+          "letra": "B",
+          "texto": "(2,2)"
+        },
+        {
+          "letra": "C",
+          "texto": "(2,0)"
+        },
+        {
+          "letra": "D",
+          "texto": "(0,0) S R 4 2 Q P 2 4 6 x 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TEM 08_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. En la figura adjunta, ¿cuál de las siguientes transformaciones isométricas permite \n\nobtener el rectángulo A’B’C’D’ a partir del rectángulo ABCD?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Una rotación en 90º en sentido anti horario y en torno al origen."
+        },
+        {
+          "letra": "B",
+          "texto": "Una simetría respecto al eje Y seguida de una rotación en 180º en torno al origen."
+        },
+        {
+          "letra": "C",
+          "texto": "Una simetría respecto al eje X y una rotación de 180º en torno al origen."
+        },
+        {
+          "letra": "D",
+          "texto": "Una simetría respecto al eje Y y una rotación de 180° en torno al origen. Y"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "TEM 08_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. En el triángulo ABC de la figura adjunta, ¿para qué valor de k se cumple que  \n\nD \nC \n\n4 \n\nB´ \n\nC´ \n\n3 \n\n1 \n\nD´ \n\nA \nB \n\nA´ \n\n-4 \n3 X \n\n-1 \n1 \n\nED  // AB?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "12"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "TEM 08_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Con los datos proporcionados en el triángulo ABC de la figura adjunta, ¿la longitud de \n\nC \n\nk \n4 \n\nD \nE \n\nk+4 \n\nk-2 \n\nB \nA \n\ncuál de los siguientes segmentos no es posible determinar? \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "AB"
+        },
+        {
+          "letra": "B",
+          "texto": "AF"
+        },
+        {
+          "letra": "C",
+          "texto": "BE"
+        },
+        {
+          "letra": "D",
+          "texto": "BG  F G (x+1) cm 5 cm  6 cm (x+2) cm D E  B A 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "TEM 08_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. En la figura adjunta, L1 // L2 // L3. ¿Cuál es el valor de (x + y)? \n\n \n \n\nL1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "269 15 x 12 10"
+        },
+        {
+          "letra": "B",
+          "texto": "49 15 L2 8 10"
+        },
+        {
+          "letra": "C",
+          "texto": "264 15 y L3"
+        },
+        {
+          "letra": "D",
+          "texto": "Otro valor"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "TEM 08_p9_img0.jpg"
+      ]
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. En la figura adjunta, L1 // L2 // L3. ¿Cuál es el valor de x?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "16"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "TEM 08_p9_img0.jpg"
+      ]
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. En la figura adjunta L1 // L2 // L3 // L4, ¿cuál de las siguientes proposiciones es \n\nL1 \n\nx \n\n2b \n9a \n\nL2 \n\na \n6 \n\n2b \n\nL3 \n\nverdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a : b = 1 : 2"
+        },
+        {
+          "letra": "B",
+          "texto": "a : b = 4 : 3"
+        },
+        {
+          "letra": "C",
+          "texto": "a : b = 2 : 3"
+        },
+        {
+          "letra": "D",
+          "texto": "a : b = 3 : 2 L1 2 a L2 2b+1 3a+2 L3 b 6 L4 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "TEM 08_p9_img0.jpg"
+      ]
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. En el trapecio ABCD de base \n  y\nAB\n  CD  de la figura adjunta, FE  es paralelo a las bases. \n¿Cuál de las siguientes afirmaciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "CE 2 = CB 5 C D n"
+        },
+        {
+          "letra": "B",
+          "texto": "n > 6"
+        },
+        {
+          "letra": "C",
+          "texto": "3DF = 2n + 6"
+        },
+        {
+          "letra": "D",
+          "texto": "2n = 15 2n+2 F E 15 6"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "TEM 08_p10_img0.jpg"
+      ]
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. Según la información entregada en la figura adjunta, ¿cuál es la medida de CD ? \n\nB \nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "7"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "10 D 4-x E x+4 TEM-08 x-2   x+1 7-x C B A 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "TEM 08_p10_img0.jpg"
+      ]
+    }
+  ]
+}

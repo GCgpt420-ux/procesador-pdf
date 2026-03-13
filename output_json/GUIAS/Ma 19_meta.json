@@ -1,0 +1,218 @@
+{
+  "filename": "Ma 19.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 19.pdf",
+  "num_paginas": 14,
+  "titulo": "MATERIAL E00",
+  "autor": "Casa de Estudio Pedro de Valdivia",
+  "fecha_procesamiento": "2026-03-07T16:01:11.995700",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemáticas  \nMaterial : MA-21 \n\n \n\n \n \n \n \n \n \n \n \n \n \n1. \nSi el número de preguntas contestadas en una PSU por 10 alumnos fue: \n56, 57, 55, 58, 62, 55, 57, 56, 57, 57, ¿cuál(es) de las afirmaciones siguientes  \nes (son) verdadera(s)? \n \n \n\nCUADERNO DE EJERCICIOS N° 19 \n\nESTADÍSTICA \n\nI) \nLa mediana es 57. \nII) \nEl promedio (media) es 57. \nIII) \nLa moda coincide con el promedio.  \n \n \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) I, II y III \n \n \n \n \n2. \nSegún los datos de la tabla adjunta, ¿cuál(es) de las siguientes afirmaciones es (son) \nFALSA(S)? \n \n \n\nI) \nLa mediana es 10. \nII) \nLa moda es 7. \n\nx \nf \n5 \n6 \n10 \n7 \n15 \n2 \n20 \n5 \n25 \n4 \n\nIII) \nLa media es 55\n\n4 . \n\n \n \n\nA) Solo I \nB) Solo II \nC) Solo II y III \nD) Solo I y III \n \n \n",
+      "cantidad_caracteres": 746,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.3955078125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 42.5595703125
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "3. \nEn la tabla adjunta se muestra la distribución de todos los datos de ausentismo laboral \nque se registra durante un año en una empresa. \n \n \n \n \n \n \n \n \n \n \n\nCantidad de días \n\nFrecuencia relativa de la \ncantidad de trabajadores \n[0, 3[ \n15 \nQ \n[3, 6[ \n5 \n0,2 \n[6, 9[ \nP \n0,12 \n[9, 12] \n2 \nR \n\nCantidad de \ntrabajadores \n\nde ausencias \n\nSegún los datos de la tabla, ¿cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nI) \nHubo un total de 25 ausencias durante ese año. \nII) \nUn 60% de los trabajadores se ausentó menos de 3 días ese año. \nIII) \n20 trabajadores faltaron menos de 6 días a su trabajo ese año. \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) Solo II y III \n\n(Fuente: DEMRE, Publicación 2019) \n \n \n \n4. \nCon respecto a los datos: a + 4, a + 6, a + 2, a + 8, a + 10, a + 2;  la mediana es \n \n \n\nA) a + 2 \nB) a + 4 \nC) a + 5 \nD) a + 6 \n \n \n \n \n5. \nEl valor central de siete múltiplos consecutivos de 3 ordenados en forma decreciente, \ncoincide con \n \n \n\nA) ",
+      "cantidad_caracteres": 1094,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "6. \nCarlos y José deciden escalar un monte por separado, pero por el mismo sendero, \nlegando ambos a la cima que está a 1.300 m. El gráfico de la figura adjunta muestra la \ndistancia recorrida, en función del tiempo, por cada uno hasta la cima. ¿Cuál(es) de las \nsiguientes afirmaciones es (son) siempre verdadera(s)? \n \n\nI) \nJosé demoró en llegar a la cima 210 minutos. \nII) \nCarlos se detuvo 1 hora. \nIII) \nJosé y Carlos demoraron el mismo tiempo en llegar a la cima. \n \n \n\nCarlos \n\nA) Solo I \nB) Solo I y II \nC) Solo II y III \nD) I, II y III \n \n \n \n \n \n \n \n \n7. \nDe un grupo de 200 personas consultadas por su nivel educacional se obtuvo la \nsiguiente tabla: \n \n \n \n \n \n \n \n \n \nEl gráfico circular que representa la información dada en la tabla es \n \n \n \nA)                                          B)                                         C) \n \n \n \n \n \n \n \n \nD)  \n \n \n \n \n \n \n \n \n \n\ndistancia (m) \n\n1200 \n1300 \n\nJosé \n\n1000 \n\n800 \n\n600 \n\n400 \n\n200 \n\nTiempo (min) \n\n30 60 90 120 150 180 210 240 ",
+      "cantidad_caracteres": 1304,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "8. \nLas temperaturas máximas y mínimas, durante una semana del mes de febrero, están \nrepresentadas en el gráfico de la figura adjunta. ¿Cuál(es) de las siguientes \nafirmaciones es (son) FALSA(S)? \n \n \n\nI) \nEl promedio de las temperaturas máximas diarias durante la semana, fue  \n26ºC. \nII) \nLa mayor diferencia de temperaturas máximas en la semana fue 13ºC. \n\nIII) \nEl promedio de las temperaturas mínimas en los 3 últimos días de la \n\nsemana, fue 7ºC. \n\nTemperatura (ºC) \n\n \n \n \n\nmínima \nmáxima \n\n20 \n22 \n25 \n27 \n30 \n33 \n\nA) Solo I \nB) Solo II \nC) Solo I y III \nD) Ninguna de ellas \n \n \n \n \n \n \n9. \nCamila ha obtenido las siguientes notas en matemática 5,6; 7,0; 6,1 y 6,3.  Si debe \nrendir su última prueba la cual es coeficiente dos, ¿cuánto debe ser la nota, para que \nCamila obtenga exactamente un promedio final de 6,2 en matemática? \n \n \n\n6 \n10 \n13 \n15 \n\n5 \n\nLu \nMa \nMi \nJu \nVi \nDías \n\nSá \nDo \n\nA) 6,0 \nB) 6,1 \nC) 6,2 \nD) 6,3 \n\n \n \n \n \n \n10. De dos cursos en los que se aplicó la Evaluación N",
+      "cantidad_caracteres": 1305,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "11. Se tienen los puntajes del total de estudiantes de un curso en un examen de \n\nmatemática, los cuales se agrupan posteriormente en intervalos como se muestra en la \ntabla adjunta. ¿Cuál de las siguientes afirmaciones es FALSA? \n \n \n \n \n \n \n \n \n \n \n\nPuntajes \nN° de alumnos \n[0, 9] \n2 \n[10, 19] \n4 \n[20, 29] \n7 \n[30, 39] \n15 \n[40, 50] \n17 \n\nA) 39 alumnos obtuvieron al menos 20 puntos. \nB) 45 alumnos rindieron el examen. \nC) La mediana de los puntajes se encuentra en el intervalo [30, 39]. \nD) Se puede deducir que la moda de los puntajes de los alumnos se encuentra en el \n\nintervalo [40, 50]. \nE) 6 alumnos obtuvieron a lo más 19 puntos. \n \n \n \n\n \n(Fuente: DEMRE, Publicación 2014) \n \n \n \n12. A un grupo de mujeres se le preguntó acerca de su masa corporal. Sus respuestas se \n\nresumen en el histograma de la figura adjunta, donde los intervalos son de la forma  \n[a, b[ y el último de la forma [c, d]. Según la información del gráfico es verdadero que, \n \n \n\nA) 7 mujeres fueron entrevistadas ",
+      "cantidad_caracteres": 1414,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "13. En la ojiva de la figura adjunta se muestra la distribución de los puntajes de 300 \n\nestudiantes en una prueba, donde los intervalos del gráfico son de la forma [a, b[, \nexcepto el último que es de la forma [c, d]. \n \n \n\n \n \n \n \n\n¿Cuál de las siguientes afirmaciones es siempre verdadera? \n \n \n\nA) El intervalo modal es [750, 850]. \n\nB) Solo 49 estudiantes obtuvieron menos de 650 puntos. \n\nC) 181 estudiantes obtiene más de 650 puntos. \n\nD) Un 25% de los estudiantes obtiene menos de 550 puntos. \n\nE) La mediana de los puntajes se encuentra en el intervalo [750, 850]. \n\n \n \n \n\n(Fuente: DEMRE, Publicación 2019) \n\n 6 \n",
+      "cantidad_caracteres": 623,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 14.576171875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "14. ¿Cuál de las tablas de frecuencia acumulada presentadas en las opciones corresponde a \n\nla gráfica de las frecuencias relativas acumuladas de la figura adjunta, si la muestra es \nde 100 personas? \n \n\nIntervalos \nFrecuencia \nacumulada \n0; 0,2\n\n\n\n \n5 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nA) \n\n0,2; 0,7\n\n\n\n \n10 \n\n0,7; 0,8\n\n\n\n \n15 \n\n0,8; 1\n\n\n\n \n20 \n\nIntervalos \nFrecuencia \nacumulada \n0; 0,2\n\n\n\n \n5 \n\nB) \n\n0,2; 0,7\n\n\n\n \n15 \n\n0,7; 0,8\n\n\n\n \n35 \n\n0,8; 1\n\n\n\n \n55 \n\nIntervalos Frecuencia \n\nC) \n\nacumulada \n0; 5\n\n\n\n \n20 \n\n5; 10\n\n\n\n \n50 \n\n10; 15\n\n\n\n \n10 \n\n15; 20\n\n\n\n \n20 \n\nIntervalos Frecuencia \n\nD) \n\nacumulada \n0; 5\n\n\n\n \n20 \n\n5; 10\n\n\n\n \n70 \n\n10; 15\n\n\n\n \n80 \n\n15; 20\n\n\n\n \n100 \n\nIntervalos Frecuencia \n\nE) \n\nacumulada \n0; 5\n\n\n\n \n0,2 \n\n5; 10\n\n\n\n \n0,7 \n\n10; 15\n\n\n\n \n0,8 \n\n15; 20\n\n\n\n \n1 \n\n(Fuente: DEMRE, Publicación 2015) \n \n \n \n\n 7 \n",
+      "cantidad_caracteres": 964,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 9.3173828125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "15. En la tabla adjunta se agrupan las estaturas, en cm, de un grupo de personas. Con \n\nrespecto a los datos de la tabla, ¿cuál de las siguientes afirmaciones es FALSA? \n \n \n \n \n \n \n \n \n\nEstatura (cm) \nFrecuencia \n[140, 150[ \n17 \n[150, 160[ \n24 \n[160, 170[ \n25 \n[170, 180[ \n10 \n[180, 190] \n4 \n\nA) La mediana de la estatura se encuentra en [150, 160[. \nB) El intervalo modal de la estatura es [160, 170[. \nC) El percentil 30 de la estatura se encuentra en [150, 160[. \nD) El percentil 80 de la estatura se encuentra en [170, 180[. \nE) Al menos un 20% de la estatura no supera los 150 cm. \n \n\n(Fuente: DEMRE, Publicación 2018) \n \n16. Se realizó el experimento de lanzar dos dados 200 veces, anotando la suma de los \n\npuntos obtenidos. El resultado de la suma de los resultados en cada lanzamiento se \nmuestra en la tabla adjunta. \n \n\nSuma de puntos \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \n10 \n11 \n12 \nFrecuencia \n10 \n18 \n13 \n19 \n26 \n24 \n25 \n16 \n20 \n17 \n12 \n \n\n¿Cuál(es) de las siguientes afirmaciones es (son) verdade",
+      "cantidad_caracteres": 1928,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "18. En un curso de 50 estudiantes, se escogen al azar 5 de ellos, cuyas estaturas, en cm, \n\nson: 150, 155, 160, 160 y 165. ¿Cuál(es) de las siguientes afirmaciones se puede(n) \ndeducir de esta información? \n \n \n\nI) \nEl promedio de las estaturas de los 50 estudiantes es 158 cm.  \nII) \nLa mitad de los estudiantes del curso mide más de 160 cm. \nIII) \nLa estatura de, exactamente, el 10% de los estudiantes del curso se \nubica en el intervalo [150, 165]. \n \n \n\nA) Solo I \nB) Solo I y II  \nC) Solo I y III  \nD) Solo II y III \nE) Ninguna de ellas \n \n \n\n(Fuente: DEMRE, Publicación 2018) \n \n \n \n \n \n19. La distribución de pensiones en miles de pesos que recibe un grupo de adultos mayores \n\nse representa en la figura adjunta mediante el siguiente diagrama de caja y bigotes. \n¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n \n\nI) \nEl primer cuartil es $ 300.000. \nII) \nEl promedio de las pensiones es $ 650.000. \nIII) \nEl 25% de las personas del grupo gana a lo menos $ 300.000",
+      "cantidad_caracteres": 1105,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "20. La tabla adjunta muestra algunos datos que corresponden a una encuesta sobre el \n\nporcentaje de satisfacción por un producto, que manifestó el total de personas \nencuestadas. ¿Cuál de las siguientes afirmaciones es FALSA? \n \n\nA) Un 50% de los encuestados tiene una satisfacción que pertenece al intervalo  \n\n[75, 80[. \nB) Ninguna de las personas encuestadas tiene un 100% de satisfacción por el \n\nproducto. \nC) 50 personas contestaron la encuesta. \nD) 18 personas expresaron menos del 75% de satisfacción por el producto. \nE) El intervalo modal es [80, 85[. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nPorcentajes \nFrecuencia \nFrecuencia \nacumulada \n[0, 60[ \n0 \n \n[60, 65[ \n5 \n5 \n[65, 70[ \n \n \n[70, 75[ \n8 \n18 \n[75, 80[ \n7 \n \n[80, 85[ \n \n46 \n[85, 90[ \n4 \n \n[90, 100] \n0 \n \n\n(Fuente: DEMRE, Publicación 2016) \n \n \n21. El histograma de la figura adjunta, muestra una distribución de frecuencias con \n\nrespecto a los puntajes obtenidos en un Test por un grupo de alumnos, donde los \nintervalos son de la forma [a,",
+      "cantidad_caracteres": 1412,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "22. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s), con respecto a los \n\ndatos presentados en la tabla adjunta? \n \n \n \n\nI) \nEl intervalo modal de las estaturas de los hombres y el de las mujeres es el \nmismo. \nII) \nLa mediana de las estaturas de las mujeres está en el intervalo  \n[1,56 – 1,60]. \nIII) \nEl promedio y la mediana de las estaturas de los hombres se encuentran en \nel mismo intervalo. \n \n \n \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n \n\n \n \n \n \n \n \n \n\n \n \nEstatura (en metros) \n\nGénero [1,51 – 1,55] [1,56 – 1,60] [1,61 – 1,65] [1,66 – 1,70] \nHombre \n1 \n2 \n10 \n7 \nMujer \n4 \n7 \n8 \n1 \n\n \n \n \n \n \n(Fuente: DEMRE, Publicación 2015) \n \n \n \n23. Si A es un dato que se encuentra entre el percentil 40 y 50 de una población, con todos \n\nlos datos distintos entre sí, entonces ¿cuál(es) de las siguientes afirmaciones  \nes (son) verdadera(s)? \n \n\nI) \nSu valor es superior al 40% de los datos. \nII) \nLa mediana del conjunto es mayor que el valo",
+      "cantidad_caracteres": 1144,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "24. El diagrama de cajón y bigote de la figura adjunta muestra la distribución de las masas \n\ncorporales en kilógramos de todos los alumnos del 4°A del colegio Antípodas, los que \ntienen diferentes masas entre sí. \n \n¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s), respecto de la \nmasa corporal de los alumnos del 4°A del colegio Antípodas? \n \n \n\nI) \nEl 50% de los estudiantes tiene a lo menos una masa de 64 Kg. \nII) \nEl rango intercuartil de las masas corporales de los alumnos es 11 kg. \nIII) \nEn el intervalo [72, 93] hay más alumnos que en el intervalo [58, 61]. \n \n \n \n\n93 \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo II y III \n\n72 \n\n64 \n61 \n\n \n \n \n \n \n25. En la escala de notas que utiliza un colegio la nota mínima es un 1 y la nota máxima es \n\n58 \n\nun 7. Se puede determinar el rango de las notas obtenidas por los estudiantes de este \ncolegio en una prueba, si se sabe que: \n \n \n\n(1) tres estudiantes obtuvieron la nota máxima al que podría llegar en la prueba. ",
+      "cantidad_caracteres": 1763,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": "27. La renta per cápita en dólares de 5 países es: 3.000, 4.000, x, 5.000  y  8.000. Se \n\npuede conocer la renta per cápita x, si se sabe que: \n \n\n(1) la moda es 4.000. \n(2) la mediana es 4.000. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n \n \n \n28. Se puede conocer la mediana de un conjunto de datos, si se conoce: \n \n\n(1) el segundo cuartil del conjunto. \n(2) el percentil cincuenta del conjunto. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n \n \n29. Se puede determinar los valores de los quintiles de una muestra, si se conoce: \n \n \n\n(1) los cuartiles de la muestra. \n(2) los deciles de la muestra. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 13 \n",
+      "cantidad_caracteres": 997,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": "30. En la tabla adjunta se muestran las edades de un grupo de personas agrupadas en \n\nintervalos. Se puede determinar el valor de r de la tabla, si se sabe que: \n \n \n \n \n \n \n \n \n \n \n\nDatos \nFrecuencia \n[10, 20[ \n5 \n[20, 30[ \n7 \n[30, 40[ \n15 \n[40, 50[ \nr \n[50, 60] \n8 \n\n(1) la mediana está en el intervalo [40, 50[. \n(2) r es la frecuencia del intervalo modal. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n\n(Fuente: DEMRE, Publicación 2018) \n \n \n \n \n \n \n \n \n \nRESPUESTAS \n\n \n \n\n1.   \nD \n7.   \nC \n13. \nD \n19. \nA \n25. \nC \n2.   \nB \n8.   \nD \n14. \nD \n20. \nA \n26. \nE \n3.   \nE \n9.   \nB \n15. \nD \n21. \nD \n27. \nA \n4.   \nC \n10. \nA \n16. \nE \n22. \nE \n28. \nD \n5.   \nD \n11. \nD \n17. \nE \n23. \nD \n29. \nB \n6.   \nB \n12. \nC \n18. \nE \n24. \nC \n30. \nE \n\n \n \n \n \n \n \n \nMA-21 \n\n \n \nPuedes complementar los contenidos de esta guía visitando nuestra web \n\nhttp://www.pedrodevaldivia.cl/ \n\n 14 \n",
+      "cantidad_caracteres": 966,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

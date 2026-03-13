@@ -1,0 +1,144 @@
+{
+  "filename": "TP 01.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TP 01.pdf",
+  "num_paginas": 7,
+  "titulo": "",
+  "autor": "Rosa Martínez",
+  "fecha_procesamiento": "2026-03-07T16:01:45.403277",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nCurso: Matemática  \n\n \n \n\n \n \nTALLER PRÁCTICO  Nº 1 \n \n \n\n-2\n1\n2\n\n\n\n\n\n\n\n1. \n22 + \n\n – 23  = \n\n \n \n\nA)   0  \n\nB)  3\n\n2  \n\nC)   2 \nD)    4 \n \n\n5   y c = 19\n\n2. \nEl orden creciente de los números a = 4\n\n3 ,  b = 1 1\n\n15  es \n\n \n\nA) a  b  c \nB) b  c  a  \nC) b  a  c \nD) a  c  b \n\n \n \n \n\n \n3. \nSi M = 213 ∙ 507, entonces ¿cuántas cifras tiene M? \n \n \n\n \nA) 13 \nB) 14 \nC) 15 \nD) 16  \n\n \n \n\n3\n2\n(1 + 2) +(1 + 2) (1 \n2)\n3 +2 2\n\n\n = \n\n4. \n\n \n\nA) 1 – \n2  \n\nB) 2 (1 + \n2 ) \n\nC) 2\n2  \nD) 2  \n \n \n \n\n \n1 \n",
+      "cantidad_caracteres": 510,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n\n5. \n(PAES 2) Si 3x = 2y, con x, y  0, entonces x\n\ny  = \n\n \n \n\nA) \n2\n3  \n\nB) \n3  \n\nC) \n3 2  \n\nD) log 2\n\n3  \n\nE) \nlog 2\nlog 3  \n\n \n\n \n \n\n \n\n \n6. \nUna persona compra en una tienda 10 camisas de igual precio en $ 56.300 y  \nx pantalones menos que las camisas todos del mismo precio, en $ 69.090. ¿Cómo se \nexpresa el valor de una camisa más un pantalón en función de x? \n \n \n\nA) 56.300\n69.090\n + \n10\nx + 10  \n\nB) 56.300\n69.090\n + \n10\nx  10\n\n \n\n \n\nC) \n10\nx  10\n + \n56.300\n69.090\n\n\n \n\nD) 56.300\n69.090\n + \n10\n10  x\n\n  \n\n \n \n \n7. \nSea f(x) una función tal que f(x – 1) = x2 – 2x + 1. Entonces, el valor de f(a) es \n \n \n\nA) 1 \nB) a2  \nC) a + 1 \nD) a \n \n \n \n \n \n \n \n\n \n2 \n",
+      "cantidad_caracteres": 670,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \n\n8. \nEn el sistema  x  + y  = b   a\n\n\n\n el valor de y es \n\nx  y =-(b + 2a)\n\n \n\nA) a + 2b \n\nB) \n3\n-\na\n2\n \n\nC) \na + b\n2\n \n\nD) a \n b\n2\n \n\n \n \n \n \n\n2\nab \n a\nxb \n x\n:\nb\nb\n\n9. \nSi b  1, b  0 y x  0, entonces la expresión \n\n= \n\n \n\n2\n\n3\nax(b  1)\n\n\n \n\nA) \n\nb\n\nB) \nx\nab  \n\nC) \nab\n\nx   \n\nD) ab \n\n \n \n \n \n \n10. El peso de Ana excede al de Berta en 3 kilos. Si al doble de la suma de ambos pesos le \n\nfaltan 6 kilos para completar 180 kilos, ¿cuál de las siguientes ecuaciones permite \nresolver el problema, en que x representa el peso de Berta? \n \n \n\nA) 2(2x + 3) + 6 =180  \nB) 2(2x + 3) – 6 = 180 \nC) (4x + 3) – 6 = 180 \nD) 2(2x – 3) + 6 = 180 \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n3 \n",
+      "cantidad_caracteres": 672,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": " \n\n11. En la figura adjunta, ABCD es un rectángulo. E y F son puntos medios de los lados DC y \n\nBC, respectivamente. Si en el AFE se trazan las medianas, entonces ¿qué parte del \nárea del rectángulo ABCD es el MNP? \n \n \n\nA) \n3\n8\n\n \n\nC \nD \n\n \nE \n\nB) \n3\n32\n\nN \n\n \n\nM \n\nC) \n1\n32\n\nF \n\n \n\nP \n\nD) \n1\n16\n\n \n\nB \nA \n\n \n \n \n12. El triángulo ABC de la figura adjunta, es isósceles, donde A, D, B son puntos colineales \n\ny D, E pertenecen a la circunferencia. Si AB = 2\n2   y O es el centro de la \ncircunferencia, entonces r = \n \n\n \n\n \n\nC \n\nA) \n2\n2  \n\nO \n\nB) \n2  – 1 \n\nr \n\nC) 2\n2  – 1 \n\nD) 2\n2  – 2  \n \n \n \n \n13. Los triángulos ABC y ABD de figura adjunta el punto E pertenece a los segmentos AC y \n\nB \n\nA \n\nBD y A, F, B son puntos colineales. Entonces, el valor de x es \n \n \n\nC \n\n \nA)  1,2 \nB)  1,4 \nC)  1,6  \nD)  1,8 \n \n \n\n8 \n\nD \n\nE \n\n \n \n \n\n2 \nx \n\nA \nB \nF \n\n \n \n \n \n \n\n \n4 \n",
+      "cantidad_caracteres": 867,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": " \n\n14. En la figura adjunta, L1 // L2 // L3 y L4 // L5, entonces la medida del trazo x es \n \n \n\n \n\nL1 \n\nA)   2  \nB)   3 \nC) 10 \nD) 15 \n\nx \n\n3 \n\nL2 \n\n10 \n15 \n\n \n\nL3 \n\n \n \n \n \n15. En la figura adjunta en el cuadrado ABCD de lado 4 cm se construye un triángulo \n\nL5 \nL4 \n\nequilátero ABE. Si H es el ortocentro del triángulo equilátero, ¿cuánto mide el área de \nla sección achurada? \n \n \n\nC \nD \n\nA) 2\n\n3  \n\nE \n\nB) 2\n\n9  \n\nC) 8\n\n3  \n\n \n\nD) 8\n\nH\n\n9  \n\nA \nB \n\n \n\n \n \n16. A un grupo de 100 estudiantes se les aplica un  test de inteligencia y la tabla adjunta \n\nmuestra los puntajes \n \n\nIntervalo \nFrecuencia absoluta \n[90 – 94] \n5 \n[95 – 99] \n9 \n[100 – 104] \n4 \n[105 – 109] \n12 \n[110 – 114] \n45 \n[115 – 119] \n25 \n \n¿Cuál de las siguientes afirmaciones  NO es verdadera? \n\n \nA) La mediana pertenece al intervalo [110 – 114]. \nB) El percentil 80 pertenece al intervalo [115 – 119]. \nC) El rango de la variable puntaje es 29. \nD) Un 70 % de los estudiantes obtuvo más de 110 puntos en el test.  \n\n \n \n \n \n",
+      "cantidad_caracteres": 1010,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": " \n\n17. La media de las edades de 5 amigos es 17,2 años. Si la moda es 16 años y la mediana \n\nes 17 años. ¿Cuál es la edad del mayor? \n \n \n \n\nA) 18 \nB) 19   \nC) 20 \nD) 21 \n \n \n \n18. La probabilidad que Francisca apruebe el ramo álgebra I es un 60%, la probabilidad \n\nque su amiga Paulina apruebe mismo ramo es un 80%, siendo estos eventos \nindependientes. Respecto a esta información ¿cuál de las siguientes afirmaciones es \nverdadera? \n \n \n\nA) La probabilidad que al menos una apruebe el ramo es un 44%. \nB) La probabilidad que ambas reprueben Algebra I es un 8%. \nC) La probabilidad que ambas aprueben el ramo es un 92%. \nD) La probabilidad que al menos una repruebe el ramo es un 56%. \n\n \n \n \n19. Dentro de un closet se encuentran 12 pares de zapatos, todos de distinto color. Al \n\nsacar dos zapatos, sin mirar, ¿cuál es la probabilidad que sea un par del mismo color? \n \n\nA) \n1\n1\n  \n12\n11\n\n \n\nB) \n1\n1\n  \n12\n23\n\n \n\nC) \n1\n23   \n\nD) \n2\n23  \n\n \n \n \n20. Una caja contiene 4 esferas numeradas del 1 al",
+      "cantidad_caracteres": 1211,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": " \n\n21. (PAES 2) Se puede asegurar que el resultado de \na\nlog  b  pertenece al conjunto de los \n\nnúmeros  reales, si se conoce que: \n \n\n(1) a < 1 \n\n(2) b > 0 \n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional  \n \n \n\n \n22. (PAES 2) Sea a un número real constante y f una función tal que f(x + a) = 3x – a. Se \n\npuede determinar el valor de f(-1), si: \n \n\n(1) el valor de a es 5. \n(2) el valor de f(5) es -5. \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n \nMini desafío \n \n \n\nDetermine el valor de \n2020\n1011\n2020\n1011\n2\n2\n1\n2\n2\n1\n\n\n\n\n\n     \n\n \n \n \n\n \n7 \n",
+      "cantidad_caracteres": 756,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

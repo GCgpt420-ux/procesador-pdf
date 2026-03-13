@@ -1,0 +1,508 @@
+{
+  "table_of_contents": [
+    {
+      "title": "I. \u00c1rea tem\u00e1tica. Energ\u00eda",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.08000183105469,
+          70.76953125
+        ],
+        [
+          247.40589904785156,
+          70.76953125
+        ],
+        [
+          247.40589904785156,
+          83.7965087890625
+        ],
+        [
+          102.19921875,
+          83.7965087890625
+        ]
+      ]
+    },
+    {
+      "title": "TEMA 1: TEOR\u00cdA DE LA DERIVA CONTINENTAL Y TEOR\u00cdA DE LA TECT\u00d3NICA DE PLACAS.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.0737533569336,
+          94.359375
+        ],
+        [
+          468.2489929199219,
+          92.8125
+        ],
+        [
+          468.2489929199219,
+          106.13287353515625
+        ],
+        [
+          84.26953125,
+          106.13287353515625
+        ]
+      ]
+    },
+    {
+      "title": "Actividad 1.3 Ejercicios propuestos (P\u00e1g. 13)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.568359375,
+          116.7890625
+        ],
+        [
+          298.8412780761719,
+          115.2421875
+        ],
+        [
+          298.8412780761719,
+          128.55267333984375
+        ],
+        [
+          83.373046875,
+          128.55267333984375
+        ]
+      ]
+    },
+    {
+      "title": "TEMA 2. MODELOS INTERNOS DE LA TIERRA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.568359375,
+          525.7541198730469
+        ],
+        [
+          315.1590270996094,
+          524.77734375
+        ],
+        [
+          315.1590270996094,
+          536.7941284179688
+        ],
+        [
+          83.373046875,
+          536.7941284179688
+        ]
+      ]
+    },
+    {
+      "title": "Actividad 2.2 Ejercicios propuestos (P\u00e1g. 21)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.568359375,
+          548.0769958496094
+        ],
+        [
+          298.87847900390625,
+          547.20703125
+        ],
+        [
+          298.87847900390625,
+          559.1170043945312
+        ],
+        [
+          84.568359375,
+          559.1170043945312
+        ]
+      ]
+    },
+    {
+      "title": "TEMA 3. FEN\u00d3MENOS S\u00cdSMICOS.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          84.568359375,
+          69.22265625
+        ],
+        [
+          255.6865997314453,
+          69.22265625
+        ],
+        [
+          255.6865997314453,
+          83.7965087890625
+        ],
+        [
+          84.568359375,
+          83.7965087890625
+        ]
+      ]
+    },
+    {
+      "title": "Actividad 3.4 Ejercicios propuestos (P\u00e1g. 31)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          85.08000183105469,
+          93.97265625
+        ],
+        [
+          298.87847900390625,
+          93.97265625
+        ],
+        [
+          298.87847900390625,
+          106.119384765625
+        ],
+        [
+          84.26953125,
+          106.119384765625
+        ]
+      ]
+    },
+    {
+      "title": "I. \u00c1rea tem\u00e1tica. Electricidad",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          103.07520294189453,
+          129.9375
+        ],
+        [
+          270.54095458984375,
+          129.9375
+        ],
+        [
+          270.54095458984375,
+          143.079833984375
+        ],
+        [
+          101.900390625,
+          143.079833984375
+        ]
+      ]
+    },
+    {
+      "title": "TEMA 1. COMPONENTES DE UN CIRCUITO",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          83.970703125,
+          153.140625
+        ],
+        [
+          304.7516784667969,
+          153.140625
+        ],
+        [
+          304.7516784667969,
+          165.28131103515625
+        ],
+        [
+          83.970703125,
+          165.28131103515625
+        ]
+      ]
+    },
+    {
+      "title": "Tema 2. LEY DE OHM Y RESISTENCIA EQUIVALENTE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          83.970703125,
+          626.7941284179688
+        ],
+        [
+          353.219482421875,
+          626.484375
+        ],
+        [
+          353.219482421875,
+          637.8341369628906
+        ],
+        [
+          83.970703125,
+          637.8341369628906
+        ]
+      ]
+    },
+    {
+      "title": "Tema 3. CIRCUITO DOMICILIARIO",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          84.26953125,
+          443.953125
+        ],
+        [
+          256.4141845703125,
+          442.40625
+        ],
+        [
+          256.4141845703125,
+          455.4355773925781
+        ],
+        [
+          84.26953125,
+          455.4355773925781
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "TableCell",
+          57
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Solucionario Tomo 2 (FS)"
+}

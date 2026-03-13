@@ -1,0 +1,289 @@
+{
+  "filename": "Módulo n°3.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/MODULOS/Módulo n°3.pdf",
+  "num_paginas": 17,
+  "titulo": "",
+  "autor": "Karina",
+  "fecha_procesamiento": "2026-03-07T16:05:13.116469",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemáticas  \nMaterial : MOD-03 \n\n \n\n \n \n \n\n \n\nMÓDULO N° 3 \nTRIÁNGULOS, CONGRUENCIA, POLÍGONOS, ÁREAS Y PERÍMETROS \n\n \n\n \n\n \n\n \nEJERCICIOS DE DESARROLLO \n \n \n1. \nEn la figura adjunta, el PQR  STR. ¿Cuál(es) de las siguientes proposiciones es (son) \nsiempre verdadera(s)?     \n \n \n \n\nP \n\n20° \n\nT \nR \n\nI) \nPQ // SR   \nII) \nx + y = 160º \nIII) \nPR  RT\n\n  \n \n \n \n \n2. \nEn el triángulo ABC de la figura adjunta, AC  AB\n\n y AD  transversal de gravedad. La \nmedida del ángulo x es \n \n \n \n \n \n \n \n\ny \n\nx \n\nQ \n\nS \n\nC \n\nx \n\nD \n\n \n \n \n \n \n3. \nEn la figura adjunta,  PQR  STU , MS  UR\n\n,  MR es mediana y los puntos P, S, R y U \nson colineales. Si UPQ = 70º, entonces MRU mide \n\nB \n25º \n\nA \n\n \n \n \n \n \n \n \n \n \n \n \nP \nQ \n\nU \n\nR \n\nM \n\nT \nS \n",
+      "cantidad_caracteres": 737,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.3955078125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 42.5595703125
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "4. \nEn el ABC de la figura adjunta, CD  es altura, ED  es transversal de gravedad del \nBCD y DCA = 2DEC. Entonces, el valor de  +  es  \n\n \n \n \n \n \n\nC \n\n \n\nE \n\n \n \n \n \n \n \n \n \n \n \n5. \nEn la figura adjunta, ABC  ECD. Entonces, la medida del DEC es  \n\n \n 10° \n\nD \nA \n\nB \n\n \n \n\nE \n\nB \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n6. \nEn el romboide ABCD de la figura adjunta, si DE \n EC\n\n y EB = AE = AD, entonces el \nvalor de  +  es \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nC \n\nD \n\nA \n\nC \nD \n\n \n \n\n40° \nA \nB \n\nE \n\n2 \n\n \n",
+      "cantidad_caracteres": 512,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "7. \nEn el rombo ABCD de la figura adjunta, DE \n AB\n\n. Entonces, el valor de x + y es  \n\n \n \n \n \n \n \n \n \n \n \n \n8. \nAl prolongar los lados AB  y  CD del pentágono regular ABCDE de la figura adjunta, se \nintersectan en un punto M. ¿Cuál(es) de las siguientes proposiciones es (son) \nverdadera(s)?   \n \n \n\nD \n\nC \n\n46° \n\n \n\nx \n\ny \n\nA \n\nE \n\nB \n\nD \n\nC \n\nI) \nAB  BM\n\n  \nII) \nBMC  CAD \nIII) \nAMC es isósceles \n \n \n \n \n \n \n9. \nEn la circunferencia de centro O de la figura adjunta, el ángulo AOB es el cuádruplo del \nángulo BAO. Entonces, la medida del ángulo x es  \n \n \n \n \n \n \n \n \n \n \n \n10. En la circunferencia de centro O de la figura adjunta, el ángulo ABC mide 50° y el \n\nE \n\nM \nB \nA \n\nO \n\nA \nB \nx \n\nángulo ACB = 58°. Entonces, la medida del ángulo x es  \n \n \n \n \n \n \n \n \n \n \n\nB \n\nx \nO \n\nA \n\nC \n\n3 \n\n \n",
+      "cantidad_caracteres": 806,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "11. En la circunferencia de centro O de la figura adjunta, BC  es diámetro y el ángulo OAB \n\nmide 64°. Entonces, la medida del ángulo BCA es  \n \n \n \n \n \n \n \n \n \n \n \n \n \n12. En la figura, ABC es un triángulo equilátero de 18 cm de perímetro y DBEC es un \n\nC \n\nO \n\nB \n\nA \n\nrectángulo. El área de la región achurada es \n \n \n \n \n \n \n \n \n \n \n\nC \nE \n\nA \nB \n\nD \n\n(Fuente: DEMRE. Publicación 2007) \n \n \n \n13. El ABC de la figura es isósceles de base AB. Si P, Q y R son puntos medios de sus \n\nlados respectivos, entonces ¿cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nI) \nLos triángulos AQP y PRC son congruentes. \nII) \nLos triángulos QBP y RPB son congruentes. \nIII) \nEl área del QBP es la cuarta parte del área del ABC. \n \n \n \n \n \n \n \n \n \n \n\nC \n\nP \nR \n\nA \nB \n\nQ \n\n(Fuente: DEMRE. Publicación 2006) \n \n \n \n\n4 \n\n \n",
+      "cantidad_caracteres": 831,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "14. En la figura adjunta, el ABC es equilátero de lado 10 cm y AD\nBC\n\n. ¿Cuál(es) de las \nsiguientes afirmaciones es (son) verdadera(s)? \n \n \n \n\nC \n\nI) \nCD\nBD\n\n \n\nII) \nEl área del ABC es 25 3 cm2 \n\nD \n\nIII) \nEl perímetro del ADC es (5 3 + 15) cm \n \n \n \n \n \n \n \n \n15. En la figura adjunta, se muestran tres cuadrados de lados a, b y c. Determinar la \n\nA \nB \n\nexpresión que representa el área achurada en función de a y c. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n16. En el romboide ABCD de la figura adjunta, las diagonales AC  y BD se intersectan en \n\na \n\nc \n\nb \n\nM. ¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n \n\nD \n\nC \n\nI) \nEl AMD es congruente con el CMD \nII) \nEl DMC es congruente con el BMA \nIII) \nEl ABM es equivalente con el CBM \n \n \n \n \n \n \n\nM \n\nB \nA \n\n5 \n\n \n",
+      "cantidad_caracteres": 805,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.1376953125
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "17. En el rombo ABCD de la figura adjunta, la diagonal AC  mide 30 cm. Si el perímetro del \n\nrombo es 68 cm, entonces ¿cuánto mide su área? \n \n \n \n \n \n \n \n \n \n \n \n18. En el rectángulo PQRT de la figura adjunta, PS = 6 cm, SW = 8 cm y WQ = 2 cm. \n\nC \nD \n\nA \nB \n\n¿Cuánto es el área del cuadrilátero PQWS? \n \n \n \n \n \n \n \n \n \n \n \n19. En el trapecio isósceles ABCD de la figura adjunta, DC // AB , \nDAB\n60\n\n,  \nDC = 10 cm y AB = 30 cm. ¿Cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n \n\nR \nS \nT \n\nW \n\nP \nQ \n\nC \nD \n\nI) \nLa altura del trapecio mide 20 3 cm. \nII) \nEl perímetro del trapecio es 80 cm. \nIII) \nEl área del trapecio es 200 3 cm2. \n \n \n \n \n \n20. En la figura adjunta, el radio de la circunferencia de centro O mide 6 cm y \nACB\n60\n\n. \nDeterminar: \n \n \n\nA \nB \n\nC \n\na) El área de la región achurada. \n \n\n60º \n\nb) La longitud del arco BCA. \n\nO \n\n \n \n \n \n \n\nB \nA \n\n6 \n\n \n",
+      "cantidad_caracteres": 894,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1533203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "EJERCICIOS DE SELECCIÓN MÚLTIPLE \n \n1. \nDos triángulos son congruentes cuando ellos tienen \n \n\nA) los tres pares de ángulos correspondientes iguales. \nB) los tres pares de lados correspondientes iguales. \nC) el mismo perímetro. \nD) la misma forma. \nE) la misma área. \n\n(Fuente: DEMRE. Publicación 2012) \n \n \n2. \nEn la figura adjunta, \nPRQ\nTSU\n\n\n, donde los vértices correspondientes son P y T; R y \nS; Q y U. Si el ángulo QPR mide 40° y el ángulo TSU mide 80°, ¿cuál(es) de las \nsiguientes afirmaciones es (son) verdadera(s)? \n \n \n\nR \nP \n\nI) \nEl ángulo TUS mide 60°. \nII) \nEl STU es escaleno. \nIII) \nPQ < TU \n \n \n\nS \nT \n\nQ \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n\nU \n\n(Fuente: DEMRE. Publicación 2013) \n \n \n3. \nEn la figura adjunta AC  y BD  se intersectan en G y AC   BD . Si BAD = CDA, \n\nambos mayores que 90°, ¿cuál de las siguientes afirmaciones es FALSA? \n\n \n\n \n \n\nA) BG = GD \nB) ABD = ACD \n\nC) área ABD = área ACD \nD) AB = DC \n\nE) \nperímetro A",
+      "cantidad_caracteres": 1071,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 4.5625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "4. \nEn la figura adjunta, PQRS es un paralelogramo y las diagonales SQ  y PR  se \nintersectan en T. ¿Cuál(es) de las siguientes congruencias es (son) siempre \nverdadera(s)? \n \n \n\nR \nS \n\nI) \nPTS  STR \nII) \nPTS  RTQ \nIII) \nPSR  RQP \n \nA) Solo III \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n\nT \n\nQ \nP \n\n(Fuente: DEMRE. Publicación 2008) \n \n \n \n5. \nEn la figura adjunta ABCD es un cuadrado. AQ = CF, QAB = FCB = 70°  \n\ny QBF = 3CBF, ¿cuánto mide el AQB? \n\nD \n\n \n\nC \n\nA)  54° \nB)  56° \nC)  40° \nD)  67,5° \nE)  42,5° \n \n \n \n \n \n \n \n\nA \n\nF \nB \n\nQ \n\n(Fuente: DEMRE. Publicación 2019) \n \n6. \nSi en la figura adjunta, DA   BA , CB   AB  y  = , ¿cuál(es) de las siguientes \nafirmaciones es (son) siempre verdadera(s)?  \n \n \n\nB \n\nC \n\nI) \nCB  DA\n\n  \n\n \n\nII) \nBD  AC\n\n  \nIII) \nOA \n DA\n\n  \n \nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo II y III \nE) I, II y III \n \n\nO \n\n \n\nA \nD \n\n(Fuente: DEMRE, Publicación 2010) \n\n8 \n\n \n",
+      "cantidad_caracteres": 957,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "7. \nEn la siguiente figura adjunta, MNPQ es un trapecio isósceles, S pertenece a QN y R \n\npertenece a MP . Si O es la intersección de las diagonales, ¿cuál(es) de las siguientes \nafirmaciones es (son) siempre verdadera(s)? \n \n \n\nP \nQ \n\nO \n\nI) \nMRQ  NSP \nII) \nOSP   NSP \nIII) \nMOQ  NOP \n \n\nR \nS \n\nM \nN \n\nA) Solo II \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n\n(Fuente: DEMRE. Publicación 2014) \n \n \n \n \n8. \nEn la circunferencia de centro O de la figura adjunta, los puntos A, B, C y D pertenecen \na ella, AB\nCD\n\n y los puntos M y N pertenecen a los segmentos AB y CD, \nrespectivamente. ¿Cuál de las siguientes relaciones puede ser FALSA? \n \n \n \n\nC \n\nB \n\nA) OC\nOB\n\n \n\nO \nN \n\nB) CN\nND\n\n \nC) arco CD  arco AB \nD) ON\nOM\n\n \n\nM \n\nE) BM\nOM\n\n \n\nD \nA \n\n \n \n(Fuente: DEMRE. Publicación 2017) \n\n \n \n\n9. \nEn la figura, el triángulo ABC es equilátero y AD es bisectriz del ángulo CAB. ¿Cuál(es) \nde las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nEl ángulo CDA mid",
+      "cantidad_caracteres": 1239,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "10. En la figura, los triángulos ABC y DEF son congruentes y AC = CB. ¿Cuál(es) de las \n\nsiguientes afirmaciones es (son) verdadera(s)? \n\nI) \nDGF\nEGF\n\n\n \nII) \nLos triángulos ABC y DEF pueden ser equiláteros. \n\nIII) \nAB\nDG\n2\n\n \n\nC \n\nF \n\n \n\n \n\n \n\nA)  Solo I \nB)  Solo I y II \nC)  Solo I y III \nD)  Solo II y III \nE)  I, II y III \n \n\n \n \n\nA \nB \n\nD \nE \n\nG \n\n(Fuente: DEMRE, Publicación 2014) \n \n11. Se tiene una piscina con forma rectangular de 4 m de ancho y 10 m de largo. Se desea \n\ncolocar un borde de pasto de ancho x como se representa en la figura adjunta. \n \n \n \n \n \n \n \n \n \nSi el área de la superficie total que ocupa la piscina y el borde de pasto, es de 112 m2, \n¿cuál de las siguientes ecuaciones permite determinar el valor de x? \n \nA) x2 + 40 = 112 \nB) x2 + 14x = 72 \nC) 2x2 + 7x = 18 \nD) x2 + 7x = 18 \nE) 4x2 + 40 = 112 \n\nx   m \n\nx  m \n\n \n\n(Fuente: DEMRE, Publicación 2021) \n \n \n12. Los puntos M, N, P, Q y R pertenecen a la circunferencia de centro O de la figura \n\nadjunta. Si M",
+      "cantidad_caracteres": 1158,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 8.5751953125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "13. En la figura adjunta, se tiene un semicírculo de centro O  y BAC = 20°.  El valor del \n\nx es \n\n \n \n\nC \nD \n\nA) 20° \nB) 35° \nC) 40° \nD) 55° \nE) 70° \n \n\nx \n\nA \nO \nB \n\n \n(Fuente: DEMRE, Publicación 2004) \n \n \n \n14. En la figura adjunta, EB  y FC  son diámetros de la circunferencia de centro O y CF  es \n\nbisectriz del ángulo ECA. La medida del x es \n\nE \n\n \n \n\nA)   60° \nB)   40° \nC)   80° \nD)   90° \nE) 120° \n\n20° \n\nF \n\nC \nO \n\nx \n\nA \nB \n\n \n \n\n \n(Fuente: DEMRE, Publicación 2010) \n \n \n \n \n15. En la figura adjunta de centro O, AD es diámetro y \nABC = 2 DAB . La medida del \nABC es \n\n \n \n\n3x + 20° \n\nB \n\nA) 100° \nB)   30° \nC)   35° \nD)   60° \nE)   70° \n \n \n\nA \n\nx + 40° \n\n● \n\nO \n\nD \n\nC \n\n \n \n(Fuente: DEMRE. Publicación 2008) \n \n \n \n\n11 \n\n \n",
+      "cantidad_caracteres": 744,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "16. Sean a cm y b cm las medidas de los lados de un rectángulo cuya área es 48 cm2. Si \n\n(a2  + b2) cm2 = 100 cm2, ¿cuál es el valor de (a + b)? \n \n \n\nA)  2 \nB) 10 \nC) 14 \n\nD) \n52  \n\nE) \n148  \n \n \n\n(Fuente: DEMRE. Publicación 2021) \n \n \n17. Si en la figura adjunta, los triángulos ABC y EAD son congruentes, entonces el \n\nperímetro del polígono ABCED es \n \n \nA) 32 cm \nB) 40 cm \nC) 42 cm \nD) 48 cm \nE) 56 cm \n \n \n \n \n\nC \nD \n\nE \n\n6 cm \n6 cm \n\nA \nB \n\n8 cm \n\n(Fuente: DEMRE, Publicación 2010) \n\n \n \n \n18. Si el ABC de la figura adjunta es equilátero de lado 2 y AD\nDB\n\n, ¿cuál(es) de las \nsiguientes afirmaciones es (son) verdadera(s)? \n \n \n\nC \n\nI) \nLos triángulos ADC y BDC son congruentes \nII) \nACD\n30\n\n \n\nIII) \n3\nCD\n2\n\n \n\n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo II y III \nE) I, II y III \n\nA \nB \n\nD \n\n(Fuente: DEMRE. Publicación 2009) \n \n \n \n \n \n\n12 \n\n \n",
+      "cantidad_caracteres": 868,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": "19. ¿Cuál de las siguientes afirmaciones es verdadera? \n \n \n\nA) La medida de la diagonal de un cuadrado de lado p unidades es siempre un número \n\nirracional. \nB) El perímetro de una circunferencia es siempre un número irracional. \nC) Si la medida de la altura de un triángulo equilátero es un número racional, \n\nentonces la medida de sus lados son números racionales. \nD) Si el perímetro de un triángulo es un número racional, entonces la medida de sus \n\nlados son números racionales. \nE) Ninguna de las anteriores. \n\n \n(Fuente: DEMRE. Publicación 2017) \n \n \n20. La expresión \n2\n(x\nx\n6)\n\n\nrepresenta el área, en unidades cuadradas, del rectángulo \n\nABCD de la figura adjunta, cuyo largo es (x + 2) unidades. Si el largo se aumenta en  \n2 unidades y su ancho se mantiene, entonces una expresión que representa la \nvariación del área del nuevo rectángulo con respecto del rectángulo original, en \nunidades cuadradas, es \n \n \n\nC \nD \n\nA) -18 \nB) x + 4 \nC) 2x – 6  \nD) x – 11  \nE) -x – 18  \n\nLargo \nA \nB",
+      "cantidad_caracteres": 1464,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": "22. En la figura adjunta, el cuadrado se ha dividido en 5 rectángulos congruentes entre sí, \n\ny cada rectángulo tiene un perímetro de 30 cm. ¿Cuál es el perímetro del cuadrado? \n \n \n\nA)   50 cm \nB)   48 cm \nC)   60 cm \nD) 150 cm \nE) Ninguno de los valores anteriores \n \n \n \n\n(Fuente: DEMRE. Publicación 2009) \n \n \n \n23. En la figura adjunta, ABCD es un rectángulo. ¿Cuál(es) de las siguientes afirmaciones \n\nes (son) verdadera(s)? \n \n \n\nI) \nAGD  BFC \nII) \nEl área del EBF es el doble del área del AGD. \n\nIII) \nEl área del trapecio ABFG corresponde a 2\n\n3  del área del rectángulo ABCD. \n\n \n \n\nF \nG a \na \n\nC \nD \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n \n \n\nA \nB \n\nE \n\na \n2a \n\n \n(Fuente: DEMRE. Publicación 2010) \n \n \n24. En la figura adjunta, AD = 3, DC = 4 y CB = 1. El área del cuadrilátero ABCD es \n \n \n\nD \n\nA) 6\n2 6\n\n \n\nB) 6\n6\n\n \n\nC \n\nC) 12\n2 6\n\n \n\nD) 12\n6\n\n \nE) ninguno de los valores anteriores \n\nA \nB \n\n \n(Fuente: DEMRE. Publicación 2008) \n \n \n\n1",
+      "cantidad_caracteres": 1006,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": "25. En la figura adjunta, ABCD es un cuadrado de lado 10, en el cual se ha inscrito el \n\ntrapecio isósceles EFGH. ¿Cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n \n\nC \nD \n\nG \n\n2 \n\nI) \nEl área de EFGH es 48. \nII) \nAEH  CFG \nIII) \nHJ = EF \n \n \n \n \n\n2 \n\nH\n\nF \n\n6 \n\nJ \n\nA) Solo II \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n\nA\nB \n\nE \n\n6 \n\n(Fuente: DEMRE. Publicación 2009) \n \n \n\n26. En la figura, ABCD es un cuadrado de lado 3 cm y CQ\n3 3 cm\n\n. Si P, B y Q son puntos \n\ncolineales, entonces el área de la región NO sombreada mide \n \n \n  \n\nC \nD \nQ \n\nA) 6 3  cm2 \n\nB) 9 3  cm2 \n\nC) 12 3  cm2 \nD)   9 cm2 \nE) 18 cm2 \n\nA \n\nB \n\n \n \n(Fuente: DEMRE. Publicación 2006) \n \n \n27. Se amarra con un cordel una vaca en la esquina de una reja con el objetivo de que \n\nP \n\npaste en un prado que se representa en la zona achurada de la figura adjunta. ¿Cuál \ndebe ser la longitud del cordel para que al alargarlo en 10 m, el área en que puede \npastar la vaca se cuadrupli",
+      "cantidad_caracteres": 1119,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 15.2783203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": "28. \nEn la figura adjunta, se puede determinar la medida de  , si se sabe que: \n \n\n(1) el ABC es isósceles de base AB  y  = 40°. \n(2) el BCD es equilátero. \n \n \n\nC \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n\n \n \n\nA \nB \n\nD \n\n(Fuente: DEMRE. Publicación 2009) \n \n29. \nEn la circunferencia de centro O de la figura adjunta, los puntos M, Q y P pertenecen a \nella. Se puede determinar la medida del ángulo x, si: \n \n \n\nP \n\n(1) se conoce la medida del ángulo MOQ. \n\n(2) MP\nPQ\n\n \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n\nO \n\nx \n\nM \nQ \n\n(Fuente: DEMRE. Publicación 2015) \n \n \n30. \nLa figura adjunta está formada por dos triángulos rectángulos, AC = 17 cm,  \nBD = 15 cm y BE = 8 cm. Se puede determinar el perímetro de ADEC, si: \n \n \n\nD \n\n(1) los triángulos son congruentes. \n(2) se conoce",
+      "cantidad_caracteres": 1247,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": "RESPUESTAS \n \n \nEJERCICIOS DE DESARROLLO \n \n1. \nII \n2. \n115° \n3. \n125° \n4. \n130° \n5. \n30° \n6. \n90° \n7. \n132° \n8. \nII y III \n9. \n30° \n10. \n144° \n11. \n26° \n\n12. \n9\n3\n2\n \n\n13. \nI, II y III \n14. \nI, II y III \n15. \na2 – 2ac + 2c2 \n16. \nII y III  \n17. \n240 cm2 \n\n18. \n(24\n4 6)\n\ncm2 \n\n19. \nII y III \n20. \na)   12 cm2 \nb)  8 cm \n\n \n \n \nEJERCICIOS DE SELECCIÓN MÚLTIPLE \n\n \n\n1.   \nB \n7.   \nC \n13. \nB \n19. \nE \n25. \nE \n2.   \nB \n8.   \nE \n14. \nA \n20. \nC \n26. \nA \n3.   \nA \n9.   \nE \n15. \nE \n21. \nB \n27. \nD \n4.   \nD \n10. \nE \n16. \nC \n22. \nA \n28. \nC \n5.   \nB \n11. \nD \n17. \nA \n23. \nE \n29. \nC \n6.   \nC \n12. \nC \n18. \nC \n24. \nB \n30. \nD \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\nMA-M0D03 \n\nPuedes complementar los contenidos de esta guía visitando nuestra web \n\n \n\nhttp://www.pedrodevaldivia.cl/ \n\n \n\n17 \n\n \n",
+      "cantidad_caracteres": 775,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

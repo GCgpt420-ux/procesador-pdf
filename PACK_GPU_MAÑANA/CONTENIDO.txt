@@ -1,0 +1,33 @@
+📦 PACK PARA GPU RTX 2050
+========================
+
+Archivos incluidos:
+
+1. DATOS (JSONs intermedios):
+   - desafios_preguntas.jsonl    (79 preguntas limpias)
+   - materia_estudio.jsonl       (7 archivos de materia)
+   - contenido_mixto.jsonl       (34 docs para clasificar)
+   - REPORTE.json               (estadísticas)
+
+2. NOTEBOOK:
+   - Notebook_GPU_Ollama.ipynb   (Jupyter con todo el flujo)
+
+3. INSTRUCCIONES:
+   - README_MAÑANA.md            (guía detallada)
+   - CONTENIDO.txt               (este archivo)
+
+4. SETUP:
+   - setup_uni.sh                (script de instalación rápida)
+   - requirements_uni.txt        (dependencias Python)
+
+📋 PASOS EN LA UNI:
+===================
+
+1. Extrae este pack en una carpeta
+2. bash setup_uni.sh
+3. Ejecuta el Jupyter (se abrirá autom)
+4. Sigue el notebook paso a paso
+
+⏱️ TIEMPO ESTIMADO: 2 horas
+
+🎯 RESULTADO: BD poblada con ~1,500-1,800 preguntas + materia

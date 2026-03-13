@@ -1,0 +1,3155 @@
+{
+  "archivo_original": "Tutoría 1 Numeros .pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TUTORÍAS/Tutoría 1 Numeros .pdf",
+  "materia": "Sin clasificar",
+  "num_paginas": 68,
+  "fecha_procesamiento": "2026-03-07T23:08:31.189189",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1.398,7658213? \n \n\nI) \nRedondeado a la milésima es 1.398,766. \nII) \nTruncado a la centésima es 1.398,765. \nIII) \nEs un decimal infinito NO periódico.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \n3\n5  · 0,5  : 1\n\n3  =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "5"
+        },
+        {
+          "letra": "C",
+          "texto": "0,1"
+        },
+        {
+          "letra": "D",
+          "texto": "5 3"
+        },
+        {
+          "letra": "E",
+          "texto": "1"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \n(0,05 · 0,5) : 0,5 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,5"
+        },
+        {
+          "letra": "B",
+          "texto": "0,05"
+        },
+        {
+          "letra": "C",
+          "texto": "0,005"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        },
+        {
+          "letra": "E",
+          "texto": "25"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn las preguntas de suficiencia de datos no se pide que dé la solución al problema, \nsino que decida si los datos proporcionados en el enunciado del problema más los \nindicados en las afirmaciones (1) y (2) son suficientes para llegar a esa solución. \n\n \n\nConsiderando lo anterior, usted deberá marcar la letra:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola, si la afirmación (1) por sí sola es suficiente para responder a la pregunta, pero la afirmación (2) por sí sola no lo es."
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola, si la afirmación (2) por sí sola es suficiente para responder a la pregunta, pero la afirmación (1) por sí sola no lo es."
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2), si ambas afirmaciones (1) y (2) juntas son suficientes para responder a la pregunta, pero ninguna de las afirmaciones por sí sola es suficiente."
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2), si cada una por sí sola es suficiente para responder a la pregunta."
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional, si ambas afirmaciones juntas son insuficientes para responder a la pregunta y se requiere información adicional para llegar a la solución. 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \n0,0001 · (1.000 : 10-6) =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,00001"
+        },
+        {
+          "letra": "B",
+          "texto": "10-4"
+        },
+        {
+          "letra": "C",
+          "texto": "105"
+        },
+        {
+          "letra": "D",
+          "texto": "10-13"
+        },
+        {
+          "letra": "E",
+          "texto": "10-7"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \n1\n100  : 1.000 ∙ 0,01 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "107"
+        },
+        {
+          "letra": "B",
+          "texto": "10-7"
+        },
+        {
+          "letra": "C",
+          "texto": "103"
+        },
+        {
+          "letra": "D",
+          "texto": "10-3"
+        },
+        {
+          "letra": "E",
+          "texto": "100"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \n0,7  · 0,9 – 0,7 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,9"
+        },
+        {
+          "letra": "B",
+          "texto": "0,7"
+        },
+        {
+          "letra": "C",
+          "texto": "0"
+        },
+        {
+          "letra": "D",
+          "texto": "-0,9"
+        },
+        {
+          "letra": "E",
+          "texto": "-0,07 2 0,5 0,4  ="
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. 1\n5\n4\n + \n + \n2\n9\n45   es equivalente a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,5 + 0,055… + 0,0888…"
+        },
+        {
+          "letra": "B",
+          "texto": "0,05 + 0,5… + 0,888..."
+        },
+        {
+          "letra": "C",
+          "texto": "0,5 + 0,555… + 0,0888…"
+        },
+        {
+          "letra": "D",
+          "texto": "0,05 + 0,555… + 0,888…"
+        },
+        {
+          "letra": "E",
+          "texto": "0,5 + 0,5 + 0,8 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. La expresión \n2\n1,3  \n + 0,16\n3\n\n es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,84"
+        },
+        {
+          "letra": "B",
+          "texto": "5 6"
+        },
+        {
+          "letra": "C",
+          "texto": "43 45"
+        },
+        {
+          "letra": "D",
+          "texto": "13 6"
+        },
+        {
+          "letra": "E",
+          "texto": "103 45"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. \n0,75  4  2\n\n\n\n\n = \n\n1,9  3\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "0"
+        },
+        {
+          "letra": "D",
+          "texto": "1,5"
+        },
+        {
+          "letra": "E",
+          "texto": "-1,5 2 5 + 9 45"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. El resultado de  \n\n   es \n\n0,0000002  10\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16"
+        },
+        {
+          "letra": "B",
+          "texto": "320"
+        },
+        {
+          "letra": "C",
+          "texto": "32.000"
+        },
+        {
+          "letra": "D",
+          "texto": "160.000"
+        },
+        {
+          "letra": "E",
+          "texto": "160 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. El resultado de \n\n es un número \n\n2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "natural."
+        },
+        {
+          "letra": "B",
+          "texto": "entero negativo."
+        },
+        {
+          "letra": "C",
+          "texto": "entero no positivo."
+        },
+        {
+          "letra": "D",
+          "texto": "racional negativo."
+        },
+        {
+          "letra": "E",
+          "texto": "racional positivo."
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Si al entero (-4) le restamos el entero (-5) resulta",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-9"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "-1"
+        },
+        {
+          "letra": "D",
+          "texto": "9"
+        },
+        {
+          "letra": "E",
+          "texto": "-5"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. La cuarta parte de 0,4  menos el triple de 1,3  es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "38 9"
+        },
+        {
+          "letra": "B",
+          "texto": "5 9"
+        },
+        {
+          "letra": "C",
+          "texto": "- 35 9"
+        },
+        {
+          "letra": "D",
+          "texto": "- 1 3"
+        },
+        {
+          "letra": "E",
+          "texto": "- 5 9"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. ¿Cuál(es) de las siguientes expresiones es (son) igual(es) a la unidad? \n \n\nI) \n2\n3\n + \n5\n5  \n\nII) \n3\n7\n  \n7\n3\n\n \n\nIII) \n12\n17\n : \n17\n12",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. ¿Cuál de las siguientes fracciones  es equivalente al número decimal 0,35 ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16 45"
+        },
+        {
+          "letra": "B",
+          "texto": "7 18"
+        },
+        {
+          "letra": "C",
+          "texto": "35 10"
+        },
+        {
+          "letra": "D",
+          "texto": "32 9"
+        },
+        {
+          "letra": "E",
+          "texto": "36 9"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. El opuesto de 1\n3\n2\n  \n  \n2\n4\n3\n\n\n\n\n\n\n\n\n\n es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 6"
+        },
+        {
+          "letra": "B",
+          "texto": "2 3"
+        },
+        {
+          "letra": "C",
+          "texto": "-1 6"
+        },
+        {
+          "letra": "D",
+          "texto": "- 2 3"
+        },
+        {
+          "letra": "E",
+          "texto": "0"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Si el número decimal 0,3 se resta de la mitad de la unidad y este resultado se \n\nmultiplica por el recíproco de un tercio se obtiene",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 2"
+        },
+        {
+          "letra": "B",
+          "texto": "- 1 18"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "- 1 2"
+        },
+        {
+          "letra": "E",
+          "texto": "1 18 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. \nEl número (1 + (1 + ( 1 + (2)-1)-1)-1)-1 equivale al recíproco de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 5"
+        },
+        {
+          "letra": "B",
+          "texto": "5 8"
+        },
+        {
+          "letra": "C",
+          "texto": "3 5"
+        },
+        {
+          "letra": "D",
+          "texto": "8 5"
+        },
+        {
+          "letra": "E",
+          "texto": "5 2"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. El número racional 7\n\n10   NO  es equivalente a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La mitad de 7 5"
+        },
+        {
+          "letra": "B",
+          "texto": "3 4 + 10 10"
+        },
+        {
+          "letra": "C",
+          "texto": "Un tercio de 21 10"
+        },
+        {
+          "letra": "D",
+          "texto": "29 3 20 4 "
+        },
+        {
+          "letra": "E",
+          "texto": "7 : 2 20"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. \n¿Cuál(es) de las siguientes expresiones es (son) equivalente(s) al 27\n\n30  de A? \n\n \n\nI) \n9\n10 A \n\nII) \n0,90A \n\n-1\n10\n\n9\n\n\n\n\n\n\n\nIII) \n\n · A",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. \nSi A  = \n1\n106  y B = \n3\n35 , entonces A – B =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "- 3 3030"
+        },
+        {
+          "letra": "B",
+          "texto": "13 630"
+        },
+        {
+          "letra": "C",
+          "texto": "17 630"
+        },
+        {
+          "letra": "D",
+          "texto": "13 730"
+        },
+        {
+          "letra": "E",
+          "texto": "17 730"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. \n1\n1  \n1\n2  3 + 1\n\n = \n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-3"
+        },
+        {
+          "letra": "B",
+          "texto": "5 9"
+        },
+        {
+          "letra": "C",
+          "texto": "3 4"
+        },
+        {
+          "letra": "D",
+          "texto": "11 7"
+        },
+        {
+          "letra": "E",
+          "texto": "3 7"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. (-2-1) 2 – 4-1 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "-1 2"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "0"
+        },
+        {
+          "letra": "E",
+          "texto": "1 2 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. (0,1)-1 – (0,125)-1 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 40"
+        },
+        {
+          "letra": "B",
+          "texto": "1 4"
+        },
+        {
+          "letra": "C",
+          "texto": "1 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "40"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. \n2 · (10-1 + 10-2 + 10-3) – 3 · (10-2 + 10-3 + 10-1) =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,11"
+        },
+        {
+          "letra": "B",
+          "texto": "0,111"
+        },
+        {
+          "letra": "C",
+          "texto": "-0,111"
+        },
+        {
+          "letra": "D",
+          "texto": "-0,11"
+        },
+        {
+          "letra": "E",
+          "texto": "-1 2 6 1 2 7 1 2 5 1   +   =   +"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. \n\n6  1\n\n7  1\n\n5  1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "15"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "21"
+        },
+        {
+          "letra": "E",
+          "texto": "27 -1 -2 -1 2 3 + 2"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. La expresión \n\n equivale a \n\n3  + 2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 52"
+        },
+        {
+          "letra": "B",
+          "texto": "7 13"
+        },
+        {
+          "letra": "C",
+          "texto": "5 7"
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de las anteriores. 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. \nSi a = 3\n\n2 , entonces 1 + \n\n es igual a \n\n1\n1  \n\n2  a\n\n\n-1\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 5"
+        },
+        {
+          "letra": "B",
+          "texto": "0"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "-5"
+        },
+        {
+          "letra": "E",
+          "texto": "- 1 5 0 2                -1 1 9 3"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. En la recta numérica, ¿cuántos números pares hay entre 11\n\n2  y 50\n\n3 ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        },
+        {
+          "letra": "E",
+          "texto": "4"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. Si la suma entre 5\n7\n y \n4\n3 se encuentra en la recta numérica de la posición de la figura \n\nadjunta, ¿cuál letra representa mejor la posición aproximada de dicha suma?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A"
+        },
+        {
+          "letra": "B",
+          "texto": "B"
+        },
+        {
+          "letra": "C",
+          "texto": "C"
+        },
+        {
+          "letra": "D",
+          "texto": "D"
+        },
+        {
+          "letra": "E",
+          "texto": "E | | | | | | | | | | A 0 B 1 C 2 D 3 E 4 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "Tutoría 1 Numeros _p12_img0.jpg"
+      ]
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. En la recta numérica de la figura adjunta se ubican los puntos  a, b, c  y  d. ¿En cuál de \n\nlas siguientes operaciones el resultado es siempre menor que cero?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a · b"
+        },
+        {
+          "letra": "B",
+          "texto": "c – b"
+        },
+        {
+          "letra": "C",
+          "texto": "a + b + c"
+        },
+        {
+          "letra": "D",
+          "texto": "d – c"
+        },
+        {
+          "letra": "E",
+          "texto": "a · c + b · d a b 0 1 c d"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "Tutoría 1 Numeros _p13_img0.jpg"
+      ]
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. La recta de la figura adjunta se ha dividido en partes iguales, entonces ¿cuál de las \n\nsiguientes opciones representa el mayor resultado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "c · b"
+        },
+        {
+          "letra": "B",
+          "texto": "a + d"
+        },
+        {
+          "letra": "C",
+          "texto": "a · b"
+        },
+        {
+          "letra": "D",
+          "texto": "b : a – c"
+        },
+        {
+          "letra": "E",
+          "texto": "ca -2 -1 0 1 2 b a c d"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "Tutoría 1 Numeros _p13_img0.jpg"
+      ]
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. Sea m  un número entero positivo divisor de 6, n es un entero positivo divisor de 12. Si  \n\nm\nn\nx\nn\nm\n\n\n, entonces el producto entre el menor y mayor valor de x es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "72"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "0,5"
+        },
+        {
+          "letra": "E",
+          "texto": "0,25"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. Se puede determinar el menor de cuatro enteros consecutivos, si: \n\n \n\n(1) La suma de ellos es 46. \n(2) El menor es múltiplo de 5.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. Se puede afirmar que x > x2 > x3 > x4 >…, si: \n\n \n \n\n(1) 0 < x < 1 \n(2) -1 < x < 1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. \nSi k es un número entero y P = 7k, entonces ¿cuál(es) de las siguientes afirmaciones \nes (son) siempre verdadera(s)? \n\n \n\nI) \n0 es múltiplo de P. \nII) \n2P es múltiplo de 28. \nIII) \n14 es divisor de P.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo I y III"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. \n¿Cuántos números enteros de dos cifras son divisibles por 6 de manera tal que la cifra \nde la decena sea el sucesor de la cifra de la unidad?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ninguno"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        },
+        {
+          "letra": "E",
+          "texto": "más de 3"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. \nSi a y b son números naturales consecutivos, entonces ¿cuál de las siguientes \nafirmaciones es siempre par?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2a + b"
+        },
+        {
+          "letra": "B",
+          "texto": "2b + a"
+        },
+        {
+          "letra": "C",
+          "texto": "a + b"
+        },
+        {
+          "letra": "D",
+          "texto": "(a + 1)(b – 1)"
+        },
+        {
+          "letra": "E",
+          "texto": "a b  2 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. Si p es un número racional y q es un número irracional, ¿cuál(es) de las siguientes \n\nafirmaciones es (son) siempre verdadera(s)? \n\n \n\nI) \np · q es un número irracional. \n\nII) \nq\np  es un número real. \n\nIII) \npq  es un número real.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas."
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. Dos números naturales a y b son pares, si: \n \n\n(1) a – 4 = b \n(2) a2 es par.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. La expresión ab + 8  es siempre positiva, si: \n \n\n(1) a > 0 \n(2) b  0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. \nSe puede concluir que el producto  mn  es positivo, si: \n \n\n(1) mn2 es positivo. \n\n(2) m2n3 es positivo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 15"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nUn número es divisible por 18 si es divisible por 6 y por 3. \nII) \nUn número es divisible por 2 y divisible por 7 a la vez, entonces es un \nmúltiplo de 14. \nIII) \nEl menor número natural que tiene por divisores a los 4 menores números \nprimos es 210.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. Si m y n pertenecen al conjunto de los enteros, con m divisible por 3 y n divisible por \n\n4, entonces ¿cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)?  \n \n \n\nI) \nm + n es divisible por 7. \nII) \nm  n es divisible por 6. \n\nIII) \nn\nm  es racional.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. \nEl mínimo común múltiplo entre  a  y  b  es  36. Entonces, los valores posibles de  a  y  \nb  pertenecen al conjunto de \n \n\nI) \nlos múltiplos de 36. \nII) \nlos divisores de 36. \nIII) \nla intersección entre los múltiplos de 36 y los divisores de 36.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 51,
+      "enunciado": "51. Si t y v son dos números reales negativos distintos. ¿Cuál de las siguientes opciones \n\nrepresenta siempre un número real positivo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "t3 + v4"
+        },
+        {
+          "letra": "B",
+          "texto": "4 tv"
+        },
+        {
+          "letra": "C",
+          "texto": "t3 · v 4 t"
+        },
+        {
+          "letra": "D",
+          "texto": "v"
+        },
+        {
+          "letra": "E",
+          "texto": "t – v 16"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 52,
+      "enunciado": "52. Sabiendo que k es un número impar positivo, ¿cuál(es) de las siguientes afirmaciones                   \n\nes (son) siempre verdadera(s)? \n \n\nI) \n1\nk  es un número real. \n\nII) \nk0 = 1 \nIII) \nk  es un irracional.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas."
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 53,
+      "enunciado": "53. \nSi a y b son números primos distintos, ¿cuál(es) de las siguientes expresiones \npuede(n) representar número(s) primo(s)? \n \n\nI) \na + ab \nII) \n2a + 3b \nIII) \na + 2b",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 54,
+      "enunciado": "54. Si el número a es primo, se puede determinar que a + 2 también es primo, si: \n \n\n(1) a ≥ 16 \n(2) a ≤ 19",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 55,
+      "enunciado": "55. \na, b y c son tres números primos diferentes. Se puede determinar el menor de ellos, \nsi: \n\n \n(1) Se conocen los valores de a y de b. \n(2) La suma de ellos es un número par.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional. 17"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 56,
+      "enunciado": "56. \nSi a y b son números pares consecutivos, entonces 3a – b – 4b – a =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "-1"
+        },
+        {
+          "letra": "E",
+          "texto": "-2"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 57,
+      "enunciado": "57. Se puede afirmar que a  b  = -1\nb  a\n\n\n\n, si:  \n\n \n(1) a > b \n\n(2) –b > –a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) o (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 58,
+      "enunciado": "58. \n¿Cuál es el mayor número natural de dos cifras que no es par y es múltiplo de 3 y 5 a \nla vez?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15"
+        },
+        {
+          "letra": "B",
+          "texto": "75"
+        },
+        {
+          "letra": "C",
+          "texto": "85"
+        },
+        {
+          "letra": "D",
+          "texto": "90"
+        },
+        {
+          "letra": "E",
+          "texto": "95"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 59,
+      "enunciado": "59. \nSi el recíproco de x es un número entero que pertenece al intervalo 3 12\n,\n7 5\n\n\n\n\n\n\n\n, ¿cuál es el \n\nconjunto de los valores que puede tomar x?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "{1}"
+        },
+        {
+          "letra": "B",
+          "texto": "{2}"
+        },
+        {
+          "letra": "C",
+          "texto": "{1,2}"
+        },
+        {
+          "letra": "D",
+          "texto": "1 2   "
+        },
+        {
+          "letra": "E",
+          "texto": "1,1 2       18"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 60,
+      "enunciado": "60. Si a la fracción 4\n\n7  el numerador y el denominador se disminuye en 3, entonces la \n\nfracción resultante",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "es equivalente a la fracción original."
+        },
+        {
+          "letra": "B",
+          "texto": "es menor que la fracción original."
+        },
+        {
+          "letra": "C",
+          "texto": "es mayor que la fracción original."
+        },
+        {
+          "letra": "D",
+          "texto": "es siempre negativa."
+        },
+        {
+          "letra": "E",
+          "texto": "es uno."
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 61,
+      "enunciado": "61. \nSi al numerador y denominador de la fracción 2\n\n5  se le suma el mismo número x, la \n\nfracción resultante es el recíproco de la original, entonces el valor de x es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-7"
+        },
+        {
+          "letra": "B",
+          "texto": "-3"
+        },
+        {
+          "letra": "C",
+          "texto": "-1"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        },
+        {
+          "letra": "E",
+          "texto": "7"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 62,
+      "enunciado": "62. \nSi 504 = a2bc3, con a, b, c primos, entonces a + b – c =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "-2"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "-6 A es constante, entonces y"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 63,
+      "enunciado": "63. \nCon respecto a la siguiente tabla, si B\n\nx  =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16"
+        },
+        {
+          "letra": "B",
+          "texto": "8 A B 4 x 1 2 2"
+        },
+        {
+          "letra": "C",
+          "texto": "16 12 24 3"
+        },
+        {
+          "letra": "D",
+          "texto": "8 3 y"
+        },
+        {
+          "letra": "E",
+          "texto": "3 16 6 19"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "Tutoría 1 Numeros _p19_img0.jpg"
+      ]
+    },
+    {
+      "numero": 64,
+      "enunciado": "64. \nDe los siguientes números: x = 564.000.000, y = 56.400 · 103  y  z = 0,564 · 109, \n¿cuál es el orden decreciente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x > y > z"
+        },
+        {
+          "letra": "B",
+          "texto": "x = z > y"
+        },
+        {
+          "letra": "C",
+          "texto": "x = y > z"
+        },
+        {
+          "letra": "D",
+          "texto": "z > x > y"
+        },
+        {
+          "letra": "E",
+          "texto": "x > z > y"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 65,
+      "enunciado": "65. \nSi A = 5\n\n6  ;  B = 3\n\n4 ; C = 7\n-8   y   D = -0,8 , entonces es correcto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A < B < C < D"
+        },
+        {
+          "letra": "B",
+          "texto": "B < C < D < A"
+        },
+        {
+          "letra": "C",
+          "texto": "D < C < B < A"
+        },
+        {
+          "letra": "D",
+          "texto": "D < C < A < B"
+        },
+        {
+          "letra": "E",
+          "texto": "C < D < B < A"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 66,
+      "enunciado": "66. \nEl inverso multiplicativo de 1,02 es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "46 45"
+        },
+        {
+          "letra": "B",
+          "texto": "101 90"
+        },
+        {
+          "letra": "C",
+          "texto": "90 101"
+        },
+        {
+          "letra": "D",
+          "texto": "45 46"
+        },
+        {
+          "letra": "E",
+          "texto": "50 51"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 67,
+      "enunciado": "67. Si A = 0,34 ; B = 0,34  y C = 0,34, entonces ¿cuáles de las siguientes relaciones es \n\nverdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "C < A < B"
+        },
+        {
+          "letra": "B",
+          "texto": "C < B < A"
+        },
+        {
+          "letra": "C",
+          "texto": "A < B < C"
+        },
+        {
+          "letra": "D",
+          "texto": "A = B = C"
+        },
+        {
+          "letra": "E",
+          "texto": "B < A < C 20"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": []
+    },
+    {
+      "numero": 68,
+      "enunciado": "68. Si a = 2,39  y b = 0,87 , entonces \n \n\nI) \na – b = 50\n\n33  \n\nII) \na : b = 29\n\n79  \n\nIII) \na + b = 108\n\n33",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 69,
+      "enunciado": "69. \n¿Cuál \nde \nlos \nsiguientes \nnúmeros \npertenece \na \nlos \nintervalos \n]-3,1[ \ny \n[-1,3]?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-3"
+        },
+        {
+          "letra": "B",
+          "texto": "-2"
+        },
+        {
+          "letra": "C",
+          "texto": "-1"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "3"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 70,
+      "enunciado": "70. Si p pertenece a la intersección de los intervalos [-8, 10[ y [2, 20], entonces ¿cuál(es) \n\nde las siguientes valores puede tomar p? \n \n\nI) \n10 \nII) \n  8 \nIII) \n  5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 71,
+      "enunciado": "71. Si  ab = ba – 4, entonces (32)1 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-3"
+        },
+        {
+          "letra": "B",
+          "texto": "-2"
+        },
+        {
+          "letra": "C",
+          "texto": "-1"
+        },
+        {
+          "letra": "D",
+          "texto": "-4"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de las anteriores. 21"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 72,
+      "enunciado": "72. En los números reales se define  ab = 2a + ab – b.  Si 5  m = m3, entonces ¿cuál \n\nes el valor de m?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "13"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "-7"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 73,
+      "enunciado": "73. Se define la operación p & q = 2p + q, si p es par  y  p & q = p – 2q, si p es impar. \n\nEntonces, el valor de (4 & 5) & (7 & 2) es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "8"
+        },
+        {
+          "letra": "E",
+          "texto": "9"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 74,
+      "enunciado": "74. En la siguiente secuencia: 1, 3, 6, 10, 15,…, el séptimo término es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "28"
+        },
+        {
+          "letra": "B",
+          "texto": "25"
+        },
+        {
+          "letra": "C",
+          "texto": "21"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguno de los anteriores."
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 75,
+      "enunciado": "75. En la sucesión -2, 5, 24, 61, 122,…, si n es un número natural, entonces el n-ésimo \n\ntérmino es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7n – 9"
+        },
+        {
+          "letra": "B",
+          "texto": "n(n + 1) – 5"
+        },
+        {
+          "letra": "C",
+          "texto": "n3 – 3"
+        },
+        {
+          "letra": "D",
+          "texto": "1 – 3n"
+        },
+        {
+          "letra": "E",
+          "texto": "n2(n2 – 3) 22"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 76,
+      "enunciado": "76. La siguiente secuencia de figuras se ha armado con cuadrados congruentes: \n \n \n \n \n \n \n \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa relación entre los cuadrados blancos (b) y los cuadrados negros (n) está \ndada por b = 2n + 2. \nII) \nLa figura 100 tiene 100 cuadrados blancos. \nIII) \nLa diferencia entre cuadrados blancos y negros en la figura 140 es de 142.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": [
+        "Tutoría 1 Numeros _p23_img0.jpg"
+      ]
+    },
+    {
+      "numero": 77,
+      "enunciado": "77. Sabiendo que la suma de los primeros n números naturales se puede calcular a través \n\nde la expresión  n(n + 1)\n\n2\n, entonces el valor de 45 + 46 + 47 +… + 97 + 98 + 99 + 100 \n\nes",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4015"
+        },
+        {
+          "letra": "B",
+          "texto": "4030"
+        },
+        {
+          "letra": "C",
+          "texto": "4060"
+        },
+        {
+          "letra": "D",
+          "texto": "4090"
+        },
+        {
+          "letra": "E",
+          "texto": "5050"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 78,
+      "enunciado": "78. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nUn número natural pertenece al conjunto de los números complejos. \nII) \nTodo número irracional pertenece al conjunto de los números complejos. \nIII) \nTodo número imaginario pertenece al conjunto de los números reales.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 23"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 79,
+      "enunciado": "79. Si n es un número natural, ¿cuál(es) de las siguientes afirmaciones es (son) siempre \n\nverdadera(s)? \n \n\nI) \n3 n  es un número irracional. \n\nII) \nn\n3  es un número entero. \n\nIII) \nn3 es un número racional.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 80,
+      "enunciado": "80. ¿Cuál(es) de las siguientes afirmaciones es (son) FALSA(S)? \n \n\nI) \n(1 – \n2 )2  es un número racional. \n\nII) \n3  2 2  \n\nes un número real. \n\nIII) \n(\n2  – 1)2  es un número real positivo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 81,
+      "enunciado": "81. Se puede determinar que  M es un número natural, si se sabe que:  \n \n\n(1)  (M + 1)2 – (M – 1)2 – 4M, es un número entero. \n(2)  (M + 1)2 – (M – 1)2, es el sucesor de 19.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 82,
+      "enunciado": "82. Si a = -5, entonces (-1)a + (-1)2a es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-3 10"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "-2"
+        },
+        {
+          "letra": "D",
+          "texto": "0"
+        },
+        {
+          "letra": "E",
+          "texto": "3 10 24"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 83,
+      "enunciado": "83. Si n  y  m  son enteros consecutivos, entonces (-1)2n + m + (-1)2m + n  =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "-2"
+        },
+        {
+          "letra": "E",
+          "texto": "no se puede determinar."
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    },
+    {
+      "numero": 84,
+      "enunciado": "84. 311 + 311 + 311  =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "312"
+        },
+        {
+          "letra": "B",
+          "texto": "311 + 1"
+        },
+        {
+          "letra": "C",
+          "texto": "39(1 + 32)"
+        },
+        {
+          "letra": "D",
+          "texto": "313"
+        },
+        {
+          "letra": "E",
+          "texto": "911 3 3 3 3 3 2 + 2 + 2 + 2"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    },
+    {
+      "numero": 86,
+      "enunciado": "86. El valor de \n\n es igual a \n\n(4(4 ) )",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,25"
+        },
+        {
+          "letra": "B",
+          "texto": "0,5"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "8 25"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    },
+    {
+      "numero": 87,
+      "enunciado": "87. Si n > 1, entonces la expresión n\n2\nn\n2\n2\nn\n2\n4\n\n es igual a \n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 n n 1"
+        },
+        {
+          "letra": "B",
+          "texto": "4 2n "
+        },
+        {
+          "letra": "C",
+          "texto": "1 2n"
+        },
+        {
+          "letra": "D",
+          "texto": "n 2n + 1"
+        },
+        {
+          "letra": "E",
+          "texto": "1 4 2n+2 2n+1 n 5 + 5"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 89,
+      "enunciado": "89. 26x + 3 – 43x – 1 + 64x + 1 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "287 · 26x – 1"
+        },
+        {
+          "letra": "B",
+          "texto": "287 · 26x – 2"
+        },
+        {
+          "letra": "C",
+          "texto": "287 · 26x – 3"
+        },
+        {
+          "letra": "D",
+          "texto": "287 · 26x – 4"
+        },
+        {
+          "letra": "E",
+          "texto": "287 · 26x – 5"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 90,
+      "enunciado": "90. La expresión  49m - 1 + 72m – 3 – 72m - 1  es equivalente a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "72m – 3"
+        },
+        {
+          "letra": "B",
+          "texto": "72m – 6"
+        },
+        {
+          "letra": "C",
+          "texto": "-4172m – 3"
+        },
+        {
+          "letra": "D",
+          "texto": "72m – 1"
+        },
+        {
+          "letra": "E",
+          "texto": "49m - 1 26"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 91,
+      "enunciado": "91. Si n  2, entonces  \n\n = \n\nn\nn\nn\n\n3   3\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "1 3"
+        },
+        {
+          "letra": "D",
+          "texto": "1 9 n 1"
+        },
+        {
+          "letra": "E",
+          "texto": "3"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 92,
+      "enunciado": "92. 24x+1 + 42x+1 + 16x+1 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "227x+3"
+        },
+        {
+          "letra": "B",
+          "texto": "224x+1"
+        },
+        {
+          "letra": "C",
+          "texto": "22 · 16x"
+        },
+        {
+          "letra": "D",
+          "texto": "812x+10"
+        },
+        {
+          "letra": "E",
+          "texto": "64x+7"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 93,
+      "enunciado": "93. Se puede determinar el valor de (-1)-k, si se sabe que: \n\n \n(1) k > 0 \n(2) 2k – 1 = 9",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola."
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola."
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)."
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)."
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional."
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 94,
+      "enunciado": "94. \nSe puede determinar que la expresión xn es un número negativo, si se sabe que: \n \n\n(1) x es un número negativo. \n(2) n es un número negativo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 27"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 95,
+      "enunciado": "95. Si a y b representan dos números enteros. Se puede determinar el valor de a, si se \n\nsabe que: \n \n\n(1) ab = 9 \n(2) a · b = 6",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional n + 3 4"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 96,
+      "enunciado": "96. La expresión \n\n64\n es mayor que 1, si: \n\n \n\n(1) 4n + 3 > 0 \n(2) 4n > 1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere de información adicional"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 97,
+      "enunciado": "97. Si a, b  0, ¿qué parte de a2b es b2?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a b 2 a"
+        },
+        {
+          "letra": "B",
+          "texto": "b 2 b"
+        },
+        {
+          "letra": "C",
+          "texto": "a"
+        },
+        {
+          "letra": "D",
+          "texto": "b a"
+        },
+        {
+          "letra": "E",
+          "texto": "a2b3"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 98,
+      "enunciado": "98. Si a, b son números enteros, tal que  a = b + 1, entonces ¿cuál(es) de los siguientes \n\nexpresiones resulta(n) siempre número(s)  positivo(s)? \n \n\nI) \na + b \nII) \na – b \nIII) \nab",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III 28"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 100,
+      "enunciado": "100. Si p es una aproximación por redondeo a la centésima de M y q es una aproximación \n\npor truncamiento a la centésima de M, entonces ¿cuáles de las siguientes afirmaciones \npueden ser FALSAS? \n \n \n\nI) \np > q \n\nII) \np + q = M\n2\n \n\nIII) \np · q > 0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas."
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 101,
+      "enunciado": "101. Si x, y, z son números reales  y  además se tiene que x < y   y   x < z, entonces \n\nsiempre se cumple que \n\n \n \n\nI) \n2x < y + z \nII) \nx < x2 \nIII) \ny < z \n \nEs (son) correcta(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "solo I."
+        },
+        {
+          "letra": "B",
+          "texto": "solo II."
+        },
+        {
+          "letra": "C",
+          "texto": "solo III."
+        },
+        {
+          "letra": "D",
+          "texto": "solo I y II."
+        },
+        {
+          "letra": "E",
+          "texto": "solo II y III. 29"
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 102,
+      "enunciado": "102. Si a > b, a, b  0  y  p = 1\n\nab , q = \n1\na  b\n\n   y  r = \n1\nb  a\n\n, entonces ¿cuál de las \n\nsiguientes afirmaciones es siempre verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p < q"
+        },
+        {
+          "letra": "B",
+          "texto": "p < r"
+        },
+        {
+          "letra": "C",
+          "texto": "q < r"
+        },
+        {
+          "letra": "D",
+          "texto": "r < q"
+        },
+        {
+          "letra": "E",
+          "texto": "q < p"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    },
+    {
+      "numero": 103,
+      "enunciado": "103. Si a y b son números enteros positivos tales que  a < b, entonces el orden creciente de \n\na , z = -a\n\nb   y t = -b\n\nlas fracciones  x = a\n\nb , y = b\n\na  es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "t < z < x < y"
+        },
+        {
+          "letra": "B",
+          "texto": "x < y < t < z"
+        },
+        {
+          "letra": "C",
+          "texto": "z < t < x < y"
+        },
+        {
+          "letra": "D",
+          "texto": "z < t < y < x"
+        },
+        {
+          "letra": "E",
+          "texto": "x < y < z < t"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    },
+    {
+      "numero": 104,
+      "enunciado": "104. Sean  m  y  n  números enteros negativos, tales que  m < n , entonces el orden \n\nm , -m\n\ndecreciente de las fracciones  m\n\nn , n\n\nn , -n\n\nm  es \n\n \n\nm , -m",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m n , n n , -n m"
+        },
+        {
+          "letra": "B",
+          "texto": "-m n , n m , -n m , m n m , -m"
+        },
+        {
+          "letra": "C",
+          "texto": "m n , n m , -n n"
+        },
+        {
+          "letra": "D",
+          "texto": "-m n , -n m , n m , m n n , -m"
+        },
+        {
+          "letra": "E",
+          "texto": "m n , -n m , n m"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    },
+    {
+      "numero": 105,
+      "enunciado": "105. Sean a, b, c números naturales, con a\nb\nb\n > \n > \nc\nc\na . Entonces, el orden decreciente de las \n\nexpresiones es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "c + a c + b a + b > > c c a"
+        },
+        {
+          "letra": "B",
+          "texto": "a + b c + b c + a > > a c c"
+        },
+        {
+          "letra": "C",
+          "texto": "c + b c + a a + b > > c c a"
+        },
+        {
+          "letra": "D",
+          "texto": "c + a a + b c + b > > c a c"
+        },
+        {
+          "letra": "E",
+          "texto": "b + a c + a c + b > > a c c 30"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    },
+    {
+      "numero": 106,
+      "enunciado": "106. Si p, q y r son números pertenecientes al intervalo [-1,0] y \n2\n2\n2\n < \n < \n2p  1\n2q  1\n2r  1\n\n\n\n, \n\nentonces ¿cuál(es) de las siguientes relaciones es (son) siempre verdadera(s)? \n\n \n\nI) \nr < q < p \n\nII) \n2q  1 < 1\n2p  1\n\n\n\n \n\nIII) \n2\n2\n < \n < 0\n2p  1\n2r  1\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": []
+    },
+    {
+      "numero": 107,
+      "enunciado": "107. El resultado de 0,04  0,06  0,25\n\n\n\n\n\n escrito en notación científica es \n\n0,2  0,6  0,05",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-1 · 101"
+        },
+        {
+          "letra": "B",
+          "texto": "-0,1 · 100"
+        },
+        {
+          "letra": "C",
+          "texto": "1 · 10-1"
+        },
+        {
+          "letra": "D",
+          "texto": "1 · 100"
+        },
+        {
+          "letra": "E",
+          "texto": "1 · 101"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": []
+    },
+    {
+      "numero": 108,
+      "enunciado": "108. El número 0,36 ∙ 10-4 ∙  10\n\n3  escrito en notación abreviada es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,12 ∙ 10-3"
+        },
+        {
+          "letra": "B",
+          "texto": "0,12 ∙ 10-4"
+        },
+        {
+          "letra": "C",
+          "texto": "12 ∙ 10-4"
+        },
+        {
+          "letra": "D",
+          "texto": "12 ∙ 10-5"
+        },
+        {
+          "letra": "E",
+          "texto": "12 ∙ 10-6"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": []
+    },
+    {
+      "numero": 109,
+      "enunciado": "109. El resultado de 1\n2\n1\n + \n  \n4\n3\n5\n\n \n\ntruncado a la milésima es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,7170"
+        },
+        {
+          "letra": "B",
+          "texto": "0,7167"
+        },
+        {
+          "letra": "C",
+          "texto": "0,7160"
+        },
+        {
+          "letra": "D",
+          "texto": "0,7100"
+        },
+        {
+          "letra": "E",
+          "texto": "0,7000 31"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": []
+    },
+    {
+      "numero": 110,
+      "enunciado": "110. Respecto al número 59\n\n7 , es correcto afirmar que \n\n \n\nI) \ntruncado a la milésima es 8,428. \nII) \nredondeado a la décima es 8,42. \nIII) \nredondeado a la unidad es 9.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 111,
+      "enunciado": "111. El resultado de 0,504 + 0,021 – 1,432 redondeado a la décima es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-0,800"
+        },
+        {
+          "letra": "B",
+          "texto": "-0,807"
+        },
+        {
+          "letra": "C",
+          "texto": "-0,900"
+        },
+        {
+          "letra": "D",
+          "texto": "-0,907"
+        },
+        {
+          "letra": "E",
+          "texto": "-0,910"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 113,
+      "enunciado": "113. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s), respecto del número  \n\n1\n1\n7\n + \n  \n5\n2\n20\n\n ? \n\n \n\nI) \nRedondeado a la décima es 0,4. \nII) \nTruncado a la décima es 0,3. \nIII) \nRedondeado a la unidad es cero.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 32"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    },
+    {
+      "numero": 114,
+      "enunciado": "114. Al transformar la fracción 2\n\n7   es correcto afirmar que \n\n \n\nI) \nal truncar a la milésima se obtiene 0,285. \nII) \nrendondeado a la centésima se obtiene el número 0,28. \nIII) \n0,28571 corresponde al redondeo de la quinta cifra decimal. \n \n\n¿Cuáles de las siguientes afirmaciones son verdaderas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de las anteriores."
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 115,
+      "enunciado": "115. El número 375,80395 truncado a la milésima corresponde a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "375"
+        },
+        {
+          "letra": "B",
+          "texto": "376"
+        },
+        {
+          "letra": "C",
+          "texto": "375,84"
+        },
+        {
+          "letra": "D",
+          "texto": "375,803"
+        },
+        {
+          "letra": "E",
+          "texto": "375,804"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 116,
+      "enunciado": "116. El número 24\n\n7  redondeado a la milésima es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,428"
+        },
+        {
+          "letra": "B",
+          "texto": "3,429"
+        },
+        {
+          "letra": "C",
+          "texto": "3,42"
+        },
+        {
+          "letra": "D",
+          "texto": "3,43"
+        },
+        {
+          "letra": "E",
+          "texto": "0,292"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 117,
+      "enunciado": "117. Al truncar a la centésima el número  4,7372, se obtiene",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4,70"
+        },
+        {
+          "letra": "B",
+          "texto": "4,71"
+        },
+        {
+          "letra": "C",
+          "texto": "4,72"
+        },
+        {
+          "letra": "D",
+          "texto": "4,73"
+        },
+        {
+          "letra": "E",
+          "texto": "4,74"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 118,
+      "enunciado": "118. El número  416,234567 redondeado a la milésima es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "41"
+        },
+        {
+          "letra": "B",
+          "texto": "42"
+        },
+        {
+          "letra": "C",
+          "texto": "416,234"
+        },
+        {
+          "letra": "D",
+          "texto": "416,235"
+        },
+        {
+          "letra": "E",
+          "texto": "416,2346 33"
+        }
+      ],
+      "pagina": 33,
+      "imagenes": []
+    },
+    {
+      "numero": 119,
+      "enunciado": "119. El número 1.327,865549 redondeado a la milésima es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1.300"
+        },
+        {
+          "letra": "B",
+          "texto": "1.327,87"
+        },
+        {
+          "letra": "C",
+          "texto": "1.327,865"
+        },
+        {
+          "letra": "D",
+          "texto": "1.327,866"
+        },
+        {
+          "letra": "E",
+          "texto": "1.400"
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    },
+    {
+      "numero": 120,
+      "enunciado": "120. Si 7  ≈ 2,6457513....., entonces \n7  redondeado a la milésima es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,65"
+        },
+        {
+          "letra": "B",
+          "texto": "2,646"
+        },
+        {
+          "letra": "C",
+          "texto": "2,64"
+        },
+        {
+          "letra": "D",
+          "texto": "2,645"
+        },
+        {
+          "letra": "E",
+          "texto": "2,6458"
+        }
+      ],
+      "pagina": 34,
+      "imagenes": []
+    }
+  ]
+}

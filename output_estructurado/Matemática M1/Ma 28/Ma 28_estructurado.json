@@ -1,0 +1,526 @@
+{
+  "archivo_original": "Ma 28.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 28.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 10,
+  "fecha_procesamiento": "2026-03-07T23:04:29.109718",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEl cuerpo geométrico de la figura adjunta es un cubo, cuyo volumen se calcula con el \ncubo de la longitud de su arista. Si el área del rectángulo ABCD mide 16\n2  cm2, \n¿cuánto mide el volumen del cubo? \n \n \n \n \n \n \n \n \n \n \n \n \n\nCUADERNO DE EJERCICIOS N° 28 \n\nCUERPOS GEOMÉTRICOS \n\nD \n\nC \n\nA \n\nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16 2 cm3"
+        },
+        {
+          "letra": "B",
+          "texto": "32 cm3"
+        },
+        {
+          "letra": "C",
+          "texto": "32 2 cm3"
+        },
+        {
+          "letra": "D",
+          "texto": "64 cm3"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 28_p1_img3.jpg",
+        "Ma 28_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn el cubo de la figura adjunta, ¿cuánto mide el ángulo ABC? \n \n \n \n \n \n \n \n \n \n \n \n \n\nB \n\nC \nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30°"
+        },
+        {
+          "letra": "B",
+          "texto": "45°"
+        },
+        {
+          "letra": "C",
+          "texto": "60°"
+        },
+        {
+          "letra": "D",
+          "texto": "90°"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 28_p1_img3.jpg",
+        "Ma 28_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEl área de un cubo es el séxtuplo del área de una cara. Si la figura adjunta muestra un \n\ncubo de área 150 cm2, donde M es el punto medio de su arista AB . ¿Cuál es el área del \ntriángulo MCD? \n \n \n \n \n \n \n \n \n \n \n \n\nD \nE \n\nC \n\nB \nM \nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25 5 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "25 5 2 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "25 3 2 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "25 5 4 cm2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 28_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nUna caja de madera sin tapa fue hecha con placas de madera de 0,5 cm de grosor. En \nla figura adjunta se muestran las medidas de la caja de parte externa. ¿Cuál es el \nvolumen interno de esta caja en metros cúbicos, si el volumen de un  paralelepípedo es \nigual al producto del ancho por el largo y por el alto? \n \n \n \n \n \n \n \n \n \n\n12,5 cm \n\n26 cm \n\n51 cm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,015"
+        },
+        {
+          "letra": "B",
+          "texto": "0,0156"
+        },
+        {
+          "letra": "C",
+          "texto": "0,15"
+        },
+        {
+          "letra": "D",
+          "texto": "0,156 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 28_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nUna piscina con forma de prisma de base rectangular, tiene 4 metros de ancho y  \n10 metros de largo. Si la capacidad de esta piscina es de 72.000 litros, ¿cuál es su \naltura? (Volumen = ancho  largo  alto)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,8 m"
+        },
+        {
+          "letra": "B",
+          "texto": "2,8 m"
+        },
+        {
+          "letra": "C",
+          "texto": "3,6 m"
+        },
+        {
+          "letra": "D",
+          "texto": "4,8 m 2 r h 3  , si el radio r de la base de un cono disminuye"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nCon el volumen de un cono igual a \n\nen un 50% y su altura h aumenta en un 100%, entonces el volumen de este cono",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "disminuye en un 50%."
+        },
+        {
+          "letra": "B",
+          "texto": "aumenta en un 50%."
+        },
+        {
+          "letra": "C",
+          "texto": "disminuye en un 25%."
+        },
+        {
+          "letra": "D",
+          "texto": "no aumenta ni disminuye."
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nLa figura adjunta muestra dos cilindros cuyas bases tienen igual radio. Si la altura del \ncilindro mayor mide  (3n+3 + 9) mm, mientras que la del cilindro menor mide            \n(3n+1 + 1) mm, entonces ¿cuántas veces está contenido el volumen del cilindro menor \n\nen el volumen del cilindro mayor? \n\n2\nCilindro\nV\nr h\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tres veces"
+        },
+        {
+          "letra": "B",
+          "texto": "Seis veces"
+        },
+        {
+          "letra": "C",
+          "texto": "Nueve veces"
+        },
+        {
+          "letra": "D",
+          "texto": "Veintisiete veces 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 28_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nLa figura adjunta corresponde a una lata de bebida de forma cilíndrica de volumen igual \na \n2\nr h\n\n, con r radio de la base y h altura. Si el fabricante desea duplicar el volumen de \nesta lata, entonces es correcto afirmar que él deberá",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "multiplicar el radio por dos."
+        },
+        {
+          "letra": "B",
+          "texto": "multiplicar la altura por dos."
+        },
+        {
+          "letra": "C",
+          "texto": "multiplicar la altura por raíz de dos."
+        },
+        {
+          "letra": "D",
+          "texto": "adicionar dos unidades al valor del radio."
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 28_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEl cilindro de la figura adjunta tiene altura de 7 cm y el área de la base es de 16 cm2. \nSi dos de los lados del rectángulo sombreado pasa por los centros de las bases del \ncilindro, ¿cuál es el área de este rectángulo? (considere que \n2\nCilindro\nV\nr h\n\n)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "28 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "56 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "96 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "96 cm2 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 28_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. En la figura adjunta, el cilindro de la izquierda de diámetro 5 y altura 10, contiene agua \n\nhasta sus 3\n\n4  partes. A la derecha el mismo cilindro se encuentra inclinado de modo que \n\nel agua alcance el borde sin derramarse. ¿Cuánto mide el ángulo ? (considere \n\n2\nCilindro\nV\nr h\n\n) \n\n \n \n \n \n \n \n \n \n \n \n \n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "22,5°"
+        },
+        {
+          "letra": "B",
+          "texto": "30°"
+        },
+        {
+          "letra": "C",
+          "texto": "45°"
+        },
+        {
+          "letra": "D",
+          "texto": "60°"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 28_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Una mezcla de leche batida con jugo es servida en una copa cónica, de volumen \n\ndeterminado por la fórmula \n2\n1 r h\n3 \n,  como se observa en la figura adjunta. Si en la \n\nparte superior de la copa hay una capa de espuma de 4 cm de altura, entonces ¿cuál \nde las siguientes opciones indica el porcentaje más aproximado al volumen de la copa \nocupado por la espuma? \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n4 cm \n\n20 cm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "45%"
+        },
+        {
+          "letra": "B",
+          "texto": "50%"
+        },
+        {
+          "letra": "C",
+          "texto": "60%"
+        },
+        {
+          "letra": "D",
+          "texto": "65% 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 28_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En la figura adjunta se muestran 4 depósitos de forma cilíndrica de 20 cm de diámetro \n\ny 20 cm de altura llenos de aceite, de volumen dado por la fórmula \n2\nr h\n\n y un depósito \n\nde forma cónica, cuyo radio de la base mide 40 cm, de volumen \n2\n1 r h\n3 \n. Si se desea \n\nvaciar todo el aceite en el depósito cónico, ¿qué altura debe tener dicho depósito para \nque quede completamente lleno?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "15 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "16 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "20 cm"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 28_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. El volumen de un prisma recto se determina multiplicando el área de la base del prisma \n\npor la altura. En la figura adjunta, se tiene un prisma recto cuya base es un hexágono \nregular de lado L y altura 4L. ¿Cuál es el volumen del prisma? \n \n \n \n \n \n \n \n \n \n \n\n4L \n\nL",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6L3 3"
+        },
+        {
+          "letra": "B",
+          "texto": "4L3"
+        },
+        {
+          "letra": "C",
+          "texto": "L3 3"
+        },
+        {
+          "letra": "D",
+          "texto": "3 4 L3 3 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 28_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. La figura adjunta, representa una piscina generada al trasladar n metros el trapecio \n\nachurado, generando un prisma de volumen V = (n  área del trapecio). Si el largo de \nla piscina es 8 m y tiene 1,5 m de profundidad mínima y 2,5 m de profundidad \nmáxima, ¿cuál debe ser el valor de n, para que el volumen de la piscina sea 56 m3?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,5 m"
+        },
+        {
+          "letra": "B",
+          "texto": "1,5 m"
+        },
+        {
+          "letra": "C",
+          "texto": "4,0 m"
+        },
+        {
+          "letra": "D",
+          "texto": "3,5 m n"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 28_p7_img1.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. El volumen de la pirámide de base cuadrada de la figura adjunta es 96 cm3. ¿Cuál es el \n\nvolumen de la pirámide superior, si su altura es la mitad de la altura de la pirámide \n\n1\nV\nbase altura\n3\n\n\n\n\n\n\n\n\n\nmayor? \nPirámide\n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n\n6 cm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 cm3"
+        },
+        {
+          "letra": "B",
+          "texto": "18 cm3"
+        },
+        {
+          "letra": "C",
+          "texto": "24 cm3"
+        },
+        {
+          "letra": "D",
+          "texto": "36 cm3 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 28_p7_img1.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. El cuerpo geométrico de la figura adjunta, está formado por un prisma rectangular \n\n1\nV\nbase altura\n3\n\n\n\n\n\n\n\n\n\n(Volumen = largo  ancho  alto) y una pirámide \nPirámide\n\n. ¿Cuál debe \n\nser la altura de la pirámide para que el volumen de ésta sea igual a la mitad del \nvolumen del prisma?  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n4 \n\n5 \n\n6",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "12"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 28_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. La figura adjunta corresponde a un estanque de uso industrial que tiene la forma de un \n\nprisma con dos caras que son trapecios isósceles. Conociendo que el volumen de \nprisma se determina multiplicando el área del trapecio por el ancho del cuerpo, ¿cuál es \nel volumen de este estanque según las dimensiones que se indican en la figura? \n \n \n \n \n \n \n \n \n \n\n8 m \n\n5 m \n\n5 m \n\n2 m",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50 m3"
+        },
+        {
+          "letra": "B",
+          "texto": "60 m3"
+        },
+        {
+          "letra": "C",
+          "texto": "80 m3"
+        },
+        {
+          "letra": "D",
+          "texto": "100 m3 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 28_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. ¿Cuál(es) de los siguientes cuerpos geométricos tiene(n) el mismo volumen que un \n\ncilindro de diámetro 4 cm y altura 4 cm? \n \n \n \n \n \n \n\n1\nV\nr h\n3\nV\nr h\n\n2\nCono\n\n\n\n\n2\ncilindro\n\n\n\n \n\nV\nalto largo ancho\n\n\n\n\n\nParalelepípedo\n\n4\nV\nr\n3\n\n3\nEsfera\n\n\n\n\nI) \nUn cono de radio 4 cm y altura 3 cm \nII) \nUna esfera de radio 3 cm. \nIII) \nUn paralelepípedo rectangular de lados   cm, 2 cm y 8 cm.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. La figura adjunta, muestra una caja rectangular de volumen 128 cm3, que contiene \n\nbombones en forma de esfera, tangentes entre si y a las paredes de la caja. ¿Cuál es el \nárea de estos bombones? \n \n \n\n4\nV\nr\n3\nA\n4 r\n\n3\nEsfera\n\n\n\n\n \n \n \n \n \n \n \n \n \n\n \n\n2\nEsfera\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "54 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "36 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "32 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "28 cm2 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "Ma 28_p9_img2.jpg",
+        "Ma 28_p9_img1.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Se inserta una esfera de radio R en un cilindro de volumen \n2\nr h\n\n cuyas paredes son \n\ntangentes a la esfera, de volumen \n3\n4 r\n3 \n, como muestra la figura adjunta. El volumen \n\nque no ocupa la esfera es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "la mitad del cilindro."
+        },
+        {
+          "letra": "B",
+          "texto": "la mitad de la esfera."
+        },
+        {
+          "letra": "C",
+          "texto": "la cuarta parte del cilindro."
+        },
+        {
+          "letra": "D",
+          "texto": "las dos terceras partes del cilindro. RESPUESTAS"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "Ma 28_p10_img0.jpg"
+      ]
+    }
+  ]
+}

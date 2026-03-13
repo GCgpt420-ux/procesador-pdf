@@ -1,0 +1,97 @@
+{
+  "filename": "TEM 03.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 03.pdf",
+  "num_paginas": 6,
+  "titulo": "MATERIAL E00",
+  "autor": "Casa de Estudio Pedro de Valdivia",
+  "fecha_procesamiento": "2026-03-07T16:02:04.803007",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "MATEMÁTICAS \nTALLER DE EJERCITACIÓN Nº 3 \n\n \n \n \n \n\nALGEBRA y FUNCIONES I \nTEM-03 \n\n \n \n \n \n \n \n \n \n1. \nEl desarrollo de  (x – 2y)2  es equivalente a \n \n \n\nA) x2 – 2y + 4y2 \nB) x2 – 4y + 4y2 \nC) x2 – 2xy + 4y2 \nD) x2 – 4xy + 4y2 \n \n \n2. \nSi  x = a2 – b2,  y = (a – b)2, z = 4ab, entonces y – x + z = \n \n \n\nA) 2b(a + b) \nB) 2b(a – b) \nC) 2b2 – 2ab \nD) (a + b)2 + b2 \n \n \n3. \nSi A = p + 1,  B = p – 1, C = A · B, entonces C – 2(A + B) = \n \n \n\nA) p2 – 2p \nB) p2 – 2p – 1 \nC) p2 + 2p – 1 \nD) ninguna de las anteriores. \n \n \n \n4. \n¿Cuál(es) de las siguientes igualdades es (son) siempre verdadera(s)? \n \n\nI) \ng2 – h2 = (g – h)2 \nII) \ng2 – h2 = h2 – g2 \nIII) \n(g – h)2 = (h – g)2 \n \n\nA) Solo II \nB) Solo III \nC) Solo I y II \nD) Solo II y III \n \n \n \n \n",
+      "cantidad_caracteres": 745,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 98.0693359375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 0.3701171875
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "5. \nSi al doble de (a + b)2 se le resta el doble de (a2 – b2), se obtiene \n \n \n\nA) 4ab \nB) 4b(a + b) \nC) 4a(a + b) \nD) 2ab + b2 \n \n \n \n\n2\n3\n1  \ny\n5\n\n\n\n\n\n\n\n\n6. \n\n = \n\n \n\nA) \n  9\n\n25 y2 + 6\n\n5 y + 1 \n\nB) - 9\n\n25 y2 + 6\n\n5 y + 1 \n\nC) - 9\n\n25 y2 – 6\n\n5 y + 1 \n\nD)   9\n\n25 y2 – 6\n\n5 y + 1 \n\n \n \n \n \n7. \nSi p + q – 1 = 0, entonces el valor de 2p2 + 4pq + 2q2  es \n \n \n\nA) \n  4 \nB) \n  2 \nC)   1 \nD) -2 \n \n \n \n\n2\n\n3x   6x\n\n\n\n8. \nSi x  2, entonces \n\n es igual a \n\n2\n\nx   4x + 4\n\n\n\n \n \n\nA) \n3x\nx + 2  \n\nB) \n\n3x\nx  2  \n\nC) \n-3x\nx + 2  \n\nD) -3 \n\n \n \n \n \n\n 2 \n",
+      "cantidad_caracteres": 558,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "9. \nSi a  - 1\n\n2  y se divide (8a2 – 2)  por  (4a + 2)  se obtiene \n\n \n \n\nA) 2a – 1 \nB) 2a + 1 \nC) 2 – a \nD) a – 2 \n \n \n\n2\n2\n\n\n\n\n\n\n\n\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n2\nm   1\n\n2m\n\n10. \n\n + \n\n = \n\n2\n\nm  + 1\n\nm  + 1\n\n \n\nA) m2 – 1 \nB) m2 + 1 \nC) m2 \nD) 1 \n\n \n \n \n\nn + 2\nn \n 2\n\n\n\n  se obtiene \n\n2\na\n  a\n\n11. Al simplificar la expresión \n\na  + 1\n\n \n\nA) an – 2(a2 – 1) \nB) an + 2(a2 – 1) \n\nC) \n\nn\n2\na (a   1)\n\n2\n \n\nD) an (a2 + 1) \n \n \n \n12. a4 – b4 = \n \n\nA) (a – b)2 · (a + b)2 \nB) (a – b)2 · (a2 + b2) \nC) (a – b)(a + b)(a2 + b2) \nD) (a – b)(a + b)(a2 – b2) \n\n \n \n \n\n2\n2\n\n2\n2\n9x  + 6xy + y\n\n13. Si 3x  y, entonces al simplificar \n\n, resulta \n\n9x   y\n\n\nA) \n\n3x + y\n3x  y  \n\nB) 3x\ny\n3x\ny\n\n\n \n\nC)   6xy \nD) -6xy \n \n\n 3 \n",
+      "cantidad_caracteres": 720,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "14. Si  a2 ≠ b2, entonces  \n3\na + b  – \n5\na  b\n\n + \n\n\n2\n2\n10b\n\n  es equivalente con \n\na   b\n\nA) \n  \n2\na + b  \n\nB) \n  \n2a\na  b\n\n \n\nC)   \n-2\na  b\n\n \n\nD) -\n2\na + b  \n\n \n \n \n\n2\n\n15. Si x  1, entonces \nx\nx + 1  + x + 1\n\n2\n3x   x + 2\n\n\n\nx  1\n\n – \n\n = \n\nx   1\n\n\n\nA) \n  x  1\n\n\n \n\nx + 1\n\n2\n\nB) -\n\n\n2\nx   3\n\n \n\nx   1\n\n\n\nC)   1  x\n\n\n \n\nx + 1\n\nD) -1 \n\n \n \n \n\n2\n2\n\n  por  \n\n5b + 2a\n2a  5b  se obtiene \n\n2\n2\n4a   25b\n\n\n\n16. Si 2a  3b y se divide  \n\n4a   20ab + 25b\n\n\n\n \n\nA) -1 \nB) \n  1 \n\nC)  \n1\n20ab  \n\nD)  5a + 2b \n \n \n \n17. ¿Cuál(es) de  las  siguientes expresiones representa(n) el área de un cuadrado de lado     \n\nx + 2y? \n \n\nI) \n(x + 2y)2 \nII) \n(x + y)2 – (x – y)2 + x2 + 4y2 \n\n2\n( 2x + 8y)\n\nIII) \n\n2\n \n\n \nA) Solo II \nB) Solo I y II \nC) Solo I y III \nD) I, II y III \n\n 4 \n",
+      "cantidad_caracteres": 782,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "3\n\n2\n1  a\n\n\n= \n\n18. \n\n3 + 3a + 3a\n\n \n\nA) 1  a\n\n\n \n\n3\n\nB) 1 + a\n\n3\n \n\nC) \na  1\n\n\n \n\n3\n\nD) 1 –  a \n \n \n \n \n\n19. Si b  -c, entonces -ab + 2c  ac + 2b\n\n\n es igual a \n\nb + c\n\n \n\nA) 2 + a \nB) a – 2 \nC) 2 – a \nD) ab + ac – b \n \n\n \n \n\n2\n\n2\n2x   5x  3\n\n\n\n\n20. Si x  -4  y x  3, entonces \n\n es igual a \n\nx  + x  12\n\n\n\n \n\nA) \n2x  1\n\n\n \n\nx + 4\n\nB) \n2x  1\n\n\n\n \n\nx  4\n\nC) \n2x + 1\n\nx  4\n\n \n\nD) 2x + 1\n\nx + 4  \n\n \n \n \n \n21. La factorización  de w2 – 6xy – 9x2 – y2  está representada por \n \n \n\nA) (w + 3x + y)(w – 3x + y) \nB) (w – 3x – y)(w + 3x + y) \nC) (w + 3x + y)(-w – 3x – y) \nD) (w + 3x + y)(w + 3x – y) \n\n \n \n \n\n 5 \n",
+      "cantidad_caracteres": 621,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "2\n2x   5x + 2\n\n2\n2x  1\n\n\n\n\n\n22. Si x   3  y  x  1\n\n2 , entonces al resolver  \n\n\n : \n\n resulta \n\nx  3\n\n9  x\n\n\n\nA) (x + 2)(3 + x) \nB) (x + 2)(-3 – x) \nC) (2 – x)(3 + x) \nD)  (x – 2)(3 + x) \n \n \n23. Si en los números reales se definen las operaciones a  b = a2 + 2ab + b2  y                     \n\nmn = m2 – 2mn + n2  entonces el valor de (4  3) – (3  5)  es igual a \n \n\nA) \n  33 \nB) \n  47 \nC)   63 \nD) -27 \nE) -63 \n\n(Fuente: DEMRE 2014) \n \n \n24. Considerando \nque \npara \ntodo \nnúmero \nentero \npositivo \nK, \nse \ntiene \nque                     \n1\nk(k + 1)  = 1\n\nk  – \n1\nk + 1 , entonces la suma de los primeros 99 términos de la forma \n\n1\nk(k + 1) , \ncon \nk \nun \nnúmero \nentero \npositivo, \nes \ndecir,                     \n\n1\n1  2\n\n + \n1\n2  3\n\n + \n1\n3  4\n\n + \n1\n4  5\n\n + … \n1\n98  99\n\n + \n1\n99  100\n\n, es                 \n\n \n \n\nA) 100\n\n101  \n\nB) \n99\n100  \n\nC) 101\n\n100  \n\nD) 99  100  1\n\n\n\n\n \n\n99  100\n\nE) Ninguna de las anteriores. \n\n(Fuente: DEMRE 2013) \n \n \n25. Si a + b = 8 y ab = 10,",
+      "cantidad_caracteres": 1155,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

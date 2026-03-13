@@ -1,0 +1,589 @@
+{
+  "archivo_original": "TEM 01.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 01.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 7,
+  "fecha_procesamiento": "2026-03-07T23:05:43.020198",
+  "preguntas": [
+    {
+      "numero": 2,
+      "enunciado": "2. \n¿Cuál(es) de las siguientes expresiones representa(n) al decimal 2,025? \n \n\nI) \n20,25 · 10-1 \nII) \n202,5 · 102 \nIII) \n0,2025 · 10-1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \n5 · 10-4 + 4 · 10-3 + 3 · 10-2 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 · 10-9"
+        },
+        {
+          "letra": "B",
+          "texto": "543 · 10-4"
+        },
+        {
+          "letra": "C",
+          "texto": "345 · 10-5"
+        },
+        {
+          "letra": "D",
+          "texto": "345 · 10-4"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nSi x = 1\n\n3   e  y = 2, determine el valor de \n\n = \n\n1\nx + y",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "- 3 7"
+        },
+        {
+          "letra": "B",
+          "texto": "- 7 3"
+        },
+        {
+          "letra": "C",
+          "texto": "-6 5"
+        },
+        {
+          "letra": "D",
+          "texto": "7 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \n¿A cuántos veinteavos equivale la fracción 3\n\n5 ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "60 5 , determine el valor de 1"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSi a = 1\n\n = \n\n1\n1  \n1\n1  a\n\n\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-4"
+        },
+        {
+          "letra": "B",
+          "texto": "5"
+        },
+        {
+          "letra": "C",
+          "texto": "4 5"
+        },
+        {
+          "letra": "D",
+          "texto": "1 5"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nAl ordenar las siguientes fracciones  I = 3\n\n7 ,  II = 4\n\n9 ,  III = 9\n\n20   y  IV = 2\n\n5 , en forma \n\ncreciente se tiene",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "III, II, I, IV"
+        },
+        {
+          "letra": "B",
+          "texto": "III, II, IV, I"
+        },
+        {
+          "letra": "C",
+          "texto": "II, III, I, IV"
+        },
+        {
+          "letra": "D",
+          "texto": "IV, I, II, III 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \n¿Cuál(es) de las siguientes desigualdades es (son) siempre FALSA(S), para a  +? \n\n \n\nI) \n5\n2\n > \n5a + 2\n5a  2\n\n \n\nII) \n2\n5\n > \n5a + 2\n5a + 2  \n\nIII) \n5\n2\n > \n5a + 3\n5a  3\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEn la recta numérica de la figura adjunta, los segmentos BC, CD, DE  y  EF son de igual \nlongitud. ¿Qué número real corresponde al punto E?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 14 B C D E F"
+        },
+        {
+          "letra": "B",
+          "texto": "5 14 3 7 5 7"
+        },
+        {
+          "letra": "C",
+          "texto": "9 14"
+        },
+        {
+          "letra": "D",
+          "texto": "8 14"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TEM 01_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Si x e y son dos números tales que x4 = y4, entonces ¿cuál(es) de las siguientes \n\nigualdades es (son) siempre verdadera(s)?  \n \n\nI) \nx2 = y2  \nII) \nx = y   \nIII) \nx3 = y3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. 3,5 ·10-3 · 4 · 105 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14 · 103"
+        },
+        {
+          "letra": "B",
+          "texto": "14 · 10-2"
+        },
+        {
+          "letra": "C",
+          "texto": "1,4 · 102"
+        },
+        {
+          "letra": "D",
+          "texto": "1,4 · 103 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. (0,25 – 1)-2 : (1 – 0,25)-3 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 4"
+        },
+        {
+          "letra": "B",
+          "texto": "- 3 4"
+        },
+        {
+          "letra": "C",
+          "texto": "4 3"
+        },
+        {
+          "letra": "D",
+          "texto": "- 4 3"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Si  1 < x < 2  e  y = 8, entonces ¿qué letra de la recta numérica, de la figura adjunta, \n\nrepresenta mejor al número x\n\ny ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a"
+        },
+        {
+          "letra": "B",
+          "texto": "b"
+        },
+        {
+          "letra": "C",
+          "texto": "c"
+        },
+        {
+          "letra": "D",
+          "texto": "d a b c d lR 5 2 0 1 2 3 1 2 3 2"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TEM 01_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Fernanda y sus amigas camino a casa compraron una docena y media de duraznos. Al \n\nllegar se dieron cuenta que se habían comido las dos novenas partes de éstos. \n¿Cuántos duraznos se comieron durante el trayecto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "16"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15.  Un alumno tiene un cuaderno de 120 hojas, de las cuales dejó un 1\n\n3  para el ramo de \n\nQuímica, 5\n\n12  para Matemática y el resto para Física, luego para Física destinó",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 hojas"
+        },
+        {
+          "letra": "B",
+          "texto": "25 hojas"
+        },
+        {
+          "letra": "C",
+          "texto": "30 hojas"
+        },
+        {
+          "letra": "D",
+          "texto": "45 hojas 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16.  Mi hija tenía 40 muñecas. A la hija de la vecina le regaló el 20%, a su prima el 30% y a \n\nsu mejor amiga el 40%. ¿Con cuántas muñecas se quedo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cuatro"
+        },
+        {
+          "letra": "B",
+          "texto": "Seis"
+        },
+        {
+          "letra": "C",
+          "texto": "Ocho"
+        },
+        {
+          "letra": "D",
+          "texto": "Diez"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Adrián se fue de viaje  por cuatro días, llevando consigo cierta cantidad de dinero. El \n\nprimer día gastó la quinta parte, el segundo gastó 1\n\n8  del resto, el tercer día los 5\n\n3  del \n\nprimer día y el cuarto día el doble de lo que gastó el segundo día. Si finalmente se \nquedó con $ 30.000, ¿con cuánto dinero inicio el viaje?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 120.000"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 150.000"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 160.000"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 180.000"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. La edad de Eduardo es 1\n\n2  de los 2\n\n3  de la edad de Rodrigo, si éste tiene 24 años,  \n\n¿cuántos años tiene Eduardo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "16"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. A Isabel le ofrecen dar un pie de $ 15.000 por la compra de un artículo, y los otros 5\n\n6  \n\ndel precio original cancelarlos en 5 cuotas iguales. Entonces, el valor de cada cuota es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9.000"
+        },
+        {
+          "letra": "B",
+          "texto": "15.000"
+        },
+        {
+          "letra": "C",
+          "texto": "18.000"
+        },
+        {
+          "letra": "D",
+          "texto": "20.000 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20.  ¿Cuál es el valor de n si 37n + 6 – 273n = 0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Si a es un entero positivo y 32a + 32a+1 = b, entonces 32a + 2 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9a 4"
+        },
+        {
+          "letra": "B",
+          "texto": "b + 9"
+        },
+        {
+          "letra": "C",
+          "texto": "9b"
+        },
+        {
+          "letra": "D",
+          "texto": "4b 9"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22.  Se define en los números reales a * b = ab. Si a = 3 * k, b= 3 * m y k + m = 4, ¿cuál \n\nes el valor de a · b?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "9"
+        },
+        {
+          "letra": "C",
+          "texto": "27"
+        },
+        {
+          "letra": "D",
+          "texto": "81"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23.  Si m y n son números reales tales que m es positivo menor que 1 y n es mayor que 1, \n\nentonces ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nmn + 5mn = 6mn \n\n2\nn\nn\nn\nm\nm\nm\n\n\n \nIII) \nmn + m-n = 1 \n\nII)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24.  ¿A cómo se debe vender un artículo que costó $ 6.000 para ganar el 60% del precio de \n\ncosto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 9.000"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 9.600"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 9.800"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 12.000 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25.  ¿Qué número disminuido en su \n1\n33 %\n3\n es igual a \n1\n333 ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "33"
+        },
+        {
+          "letra": "B",
+          "texto": "50"
+        },
+        {
+          "letra": "C",
+          "texto": "60"
+        },
+        {
+          "letra": "D",
+          "texto": "80 TEM-01 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    }
+  ]
+}

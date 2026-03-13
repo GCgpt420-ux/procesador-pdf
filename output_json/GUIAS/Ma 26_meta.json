@@ -1,0 +1,150 @@
+{
+  "filename": "Ma 26.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 26.pdf",
+  "num_paginas": 10,
+  "titulo": "",
+  "autor": "Luis Antonio Pranao Huenun",
+  "fecha_procesamiento": "2026-03-07T16:01:00.445799",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemáticas  \nMaterial : MA -30 \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n1. \nLa ecuación 2(x2 – 6) = -2x tiene como conjunto solución  \n \n\nCUADERNO DE EJERCICIOS N° 26 \nECUACIÓN DE SEGUNDO GRADO Y FUNCIÓN CUADRÁTICA \n\nA) {\n6 , 0} \n\nB) {2, \n6 } \nC) {3, -2} \nD) {2, -3} \n \n \n \n \n2. \n¿Cuál es el valor de la suma de las raíces de la ecuación x2 = 6x – 10? \n \n \n\nA) -6 \nB) 3 \nC) 6 \nD) 10 \n\n \n \n \n \n3. \nDe la ecuación  6x-2 + x-1 = 1,  se puede deducir que \n \n\nA) la diferencia positiva entre las soluciones es cinco. \nB) las soluciones se diferencian en 4 unidades. \nC) las soluciones son números irracionales. \nD) el producto de las soluciones es -28. \n \n \n \n \n4. \n¿Qué valor debe tener k en la ecuación 3x2 – 5kx – 2 = 0, para que una de sus raíces \nsea -2? \n \n\nA)    0 \nB)     1 \nC)   -1 \nD) -20 \n\n \n \n\n \n",
+      "cantidad_caracteres": 790,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.3955078125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 42.5595703125
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "5. \n¿Cuál es el conjunto de todos los números reales c para los cuales la ecuación  \nx2 + 5x – c = 0, NO tiene solución en el conjunto de los números reales? \n \n \n\nA) \n25, \n4\n\n\n\n\n\n\n\n\n \n\nB) \n25, \n4\n\n\n\n\n\n\n\n \n\nC) \n25\n, 4\n\n\n\n\n\n\n \n\nD) \n25\n, \n4\n\n\n\n\n\n\n\n \n\nE)  \n \n \n\n(DEMRE. Publicación 2020) \n \n \n6 \nSi a y c son números reales, ¿cuál(es) de las siguientes ecuaciones, en x, tiene(n) \nsolución en el conjunto de los números reales? \n \n\nI) \n-(ax2 + c) = 0, con ac > 0 \nII) \n-(x2 – c) = 0, con c > 0 \n\nIII) \n-x2 + a\n\nc  = 0, con ac > 0 \n\n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) Solo II y III \n\n(DEMRE. Publicación 2016) \n \n7. \nSi f(x) = x2 + mx + 6  y  f(-4) = 2, entonces m es igual a \n \n\nA) \n  3 \nB) \n  5 \nC)   2 \nD) -2 \n\n \n \n \n8. \nLa gráfica de la función  f(x) = (-3x + 2)(1 – x) intersecta al eje  y en \n \n\nA) - 2\n\n3  \n\nB) \n  1 \nC)   2 \nD) -1 \n \n \n \n\n2 \n \n",
+      "cantidad_caracteres": 903,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "9. \nSi f(x) = ax2 – 4x + 6  y  su eje de simetría es x = 2, entonces a es igual a \n \n \n\nA) \n  4 \nB) \n  2 \nC) -1 \nD)   1 \n\n \n \n \n10. Con respecto a la función f(x) = x2 + 6x + 9, ¿cuál(es) de las siguientes afirmaciones \n\nes (son) verdadera(s)? \n \n\nI) \nEs tangente al eje x. \nII) \nNo corta al eje y. \nIII) \nEl vértice de la parábola es (-3,0). \n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo I y III \n \n \n \n11. Respecto a la parábola f(x) = x2 – 9x + 14, ¿cuál(es) de las siguientes proposiciones  \n\nes (son) verdadera(s)? \n \n\nI) \nSus ceros son  x1 = 7  y  x2 = 2. \nII) \nIntersecta al eje y en (0, 14). \n\nIII) \nSu eje de simetría es  y = 9\n\n2 . \n\n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo I y III \n \n \n \n12. Con respecto a la función f(x) = ax2 + bx + c, con a  0, ¿cuál(es) de las siguientes \n\naseveraciones es (son) verdadera(s)? \n \n\nI) \nSi c = 0, la curva pasa por el origen. \n\nII) \nSi b = 0 y el discriminante es mayor que cero, entonces las abscisas de los \npuntos de corte de la curv",
+      "cantidad_caracteres": 1177,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "13. Si la parábola f(x) = ax2 + 7x + c intersecta al eje de las ordenadas en el punto (0,3) y \n\nal eje de las abscisas en el punto (-1,0), los valores de a  y  c son \n \n \n\nA) -4 y 3  \nB) \n  4 y 3 \n\nC) -4 y 3\n\n4  \n\nD) 3\n\n4  y 4 \n\n \n \n \n \n \n14. ¿Cuál es la ecuación que representa a la parábola de la figura adjunta? \n \n \n\ny \n\nA) y = x2 \nB) y = 3x \nC) y = 3x2  \nD) y = -3x2 \n\n12 \n\n \n\n \n \n \n \n \n \n \n \n15. ¿Cuál  de  los  siguientes  gráficos  representa  mejor  a las funciones  f(x) = 2x + 1  y \n\n3 \n\nx \n\n1 2 \n\ng(x) = x2 + 1? \n \n\nA) \n \n \n \nB) \n \n \n \nC) \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\ny \n\ny \n\nx \n\nx \n\nx \n\nD) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nx \n\n4 \n \n",
+      "cantidad_caracteres": 647,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "16. ¿Cuál es la función cuadrática cuya representación gráfica es la parábola de la figura \n\nadjunta? \n \n\ny \n\nA) y =  2x2 – 2 \nB) y = -x2 + 2 \nC) y = -x2 – 4 \nD) y =  x2 + 2 \n \n \n \n \n17. ¿Cuál de las gráficas siguientes representa a la función cuadrática y = 3(x – 2)2? \n \n \n        A)  \n \n \n \nB) \n \n \n \nC) \n \n \n \n \n \n \n \n \n \n\n2 \n\n \n\n-\n2  \n\nx \n\n2  \n\ny \n\ny \n\ny \n\n2 \n\n2 \nx \n\n-2 \nx \n\nx \n\ny \n\nD) \n \n \n \n \n \n \n \n \n \n \n \n \n18. La figura adjunta representa la parábola asociada a la función cuadrática f, cuyo \n\nx \n\n-2 \n\ndominio es el conjunto de los números reales. ¿Cuál(es) de las siguientes afirmaciones \nes (son) verdadera(s)? \n \n\nI) \nEl eje de simetría de la parábola es la recta de ecuación x = 2. \nII) \nSi -2 < x < 6, entonces f(x) < 0. \nIII) \nf(7) = f(-3) \n \n\ny \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) Solo I y III \n\n12 \n\n \n \n \n \n \n \n \n(DEMRE. Publicación 2020) \n\n6 \n-2 \n\nx \n\n5 \n \n",
+      "cantidad_caracteres": 900,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "19. Con respecto al gráfico de la función cuadrática de la figura adjunta, ¿cuál(es) de las \n\nsiguientes aseveraciones es (son) verdadera(s)? \n \n \n\ny \n\nf(x) \n\nI) \nEl vértice de la parábola es (0,-12). \nII) \nf(x) = x2 – x – 12. \nIII) \nEl eje de las ordenadas es el eje de \nsimetría de la parábola. \n \n \n\nx \n\n-3 \n\n0 \n4 \n\n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo II y III \n\n-12 \n\n \n \n \n \n20. Considere la función f cuyo dominio es el conjunto de los números reales, definida por  \n\nf(x) = ax2 + 5x + 3c, con a > 0  y  ac = -8. ¿Cuál de los siguientes gráficos representa \nmejor a la gráfica de f? \n \n \n \nA) \n \n \n \n \n \nB) \n \n \n \n \n \n \n \n \nC) \n \n \n \n \n \nD) \n \n \n \n \n \n \n \n \n \n \n \n \nE) \n \n \n \n \n \n \n\ny \n\ny \n\nx \n\nx \n\ny \n\ny \n\nx \n\nx \n\ny \n\nx \n\n(DEMRE. Publicación 2019) \n \n\n6 \n \n",
+      "cantidad_caracteres": 778,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "21. Respecto a la función cuadrática f(x) = x2 + 2x + c, ¿cuál(es) de las siguientes \n\nproposiciones es (son) verdadera(s)? \n \n \n\nI) \nSi  c > 1,  no corta al eje x. \nII) \nSi  c  1,  siempre corta al eje x. \nIII) \nSi  c > 0,  siempre corta al eje x. \n \n \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \n\n \n \n \n \n22. La trayectoria de un proyectil está dada por la ecuación y(t) = 100t – 5t2, donde t se \n\nmide en segundos y la altura y(t) se mide en metros. Entonces, ¿en cuál(es) de los \nsiguientes valores de t estará el proyectil a 420 m de altura sobre el nivel del suelo? \n \n \n\nI) \n  6 segundos. \nII) \n10 segundos. \nIII) \n14 segundos. \n \n \nA) Solo en I \nB) Solo en I y en III \nC) Solo en III \nD) Solo en I y en II \n \n \n \n \n23. Con respecto al gráfico de la figura adjunta, que corresponde a la función cuadrática  \n\nh(t) = 8t – t2 (h = altura en metros, t = tiempo en segundos, 0  t  8), ¿cuál(es) de \nlas siguientes aseveraciones es (son) verdadera(s)? \n \n \n\nI) \nLos ceros de l",
+      "cantidad_caracteres": 1232,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "24. Se tiene una piscina con forma rectangular de 4 m de ancho y 10 m de largo. Se desea \n\ncolocar un borde de pasto de ancho x metros como se representa en la figura adjunta. \n \n \n \n \n \n \n \n\nx  \n\nx  \n\nx  \n\n \n \n \nSi el área de la superficie total que ocupa la piscina y el borde del pasto, es de 112 m2, \n¿cuál de las siguientes ecuaciones permite determinar el valor de x? \n \n\nx  \n\nA) x2 + 40 = 112 \nB) x2 + 14x = 72 \nC) 2x2 + 7x = 18 \nD) x2 + 7x = 18 \nE) 4x2 + 40 = 112 \n \n \n\n(DEMRE. Publicación 2020) \n \n \n \n \n25. En el plano cartesiano se tiene un cuadrado de vértices A(1,0),   B(0,1),   C(-1,0) y \n\nD(0, -1). También se tiene la región R comprendida entre las gráficas de las funciones \nf(x) = x2 – 1 y g(x) = -x2 +1. Según esta información, ¿cuál de las siguientes \ninformaciones es verdadera? \n \n \n\nA) El cuadrado ABCD queda ubicado en el interior de la región R. \nB) La región R queda ubicada en el interior del cuadrado ABCD. \nC) El cuadrado ABCD y la región R no se intersectan. \nD) El cua",
+      "cantidad_caracteres": 1378,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "27. ¿Cuál de los siguientes gráficos corresponde a la función f(x) = 2x2 + 2? \n \n \n\n8 \ny \n\ny \n\ny \n\nA) \n \n \n \nB) \n \n \n \nC) \n \n \n \n \n \n \n \n \n \n \n \n \nD) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n28. Dada la función f(x) = x2 – x – 6, ¿cuál(es) de las siguientes aseveraciones es (son) \n\n4 \n\n2 \n\n2 \n\n2 \n\nx \n\nx \n\n-1 \n1 \n\n2 \n\nx \n\n-1 \n1 \n\n4 \ny \n\nx \n\n-2 \n2 \n\nverdadera(s)? \n \n\nI) \nx = 3 es un cero de la función. \n\nII) \nLa ecuación del eje de simetría es x = 1\n\n2 . \n\nIII) \nEl vértice de la parábola es 1\n25\n, -\n2\n4\n\n\n\n\n\n\n\n. \n\n \n\nA) Solo II \nB) Solo I y II \nC) Solo I y III \nD) I, II y III \n \n \n\n \n \n\n \n29. Al expresar la función cuadrática f(x) = -2(x + 1)2 + 2 en la forma f(x) = ax2 + bx + c, \n\nel valor de b – a es  \n \n \n\nA) \n -2 \nB) -6 \nC) \n   6 \nD) \n  2 \n \n \n \n \n \n\n9 \n \n",
+      "cantidad_caracteres": 762,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "30.  Dada la parábola de ecuación y = -(x – 3)2 – k, ¿cuál(es) de las siguientes afirmaciones \n\nes (son) verdadera(s)?  \n \n\nI) \nSi k = 2, la parábola intersecta al eje y en (0, -2). \nII) \nSi k = -3, la parábola tiene eje de simetría y = 3. \nIII) \nSi k = 1, la parábola tiene vértice (3, -1). \n \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y III \nE) I, II y III \n\n \n \n \n \n \nRESPUESTAS \n \n\n1.   \nD \n7.   \nB \n13. \nB \n19. \nB \n25. \nA \n2.   \nC \n8.   \nC \n14. \nC \n20. \nA \n26. \nD \n3.   \nA \n9.   \nD \n15. \nC \n21. \nA \n27. \nA \n4.   \nC \n10. \nD \n16. \nB \n22. \nB \n28. \nD \n5.   \nD \n11. \nC \n17. \nA \n23. \nD \n29. \nA \n6.   \nE \n12. \nD \n18. \nE \n24. \nD \n30. \nC \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\nMA-30 \n\n \n\n \n \n \n\nPuedes complementar los contenidos de esta guía visitando nuestra web \n\nhttp://www.pedrodevaldivia.cl/ \n\n10 \n \n",
+      "cantidad_caracteres": 811,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

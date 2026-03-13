@@ -1,0 +1,227 @@
+{
+  "filename": "TEM 13.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 13.pdf",
+  "num_paginas": 6,
+  "titulo": "",
+  "autor": "Alvaro Martinez Martinez",
+  "fecha_procesamiento": "2026-03-07T16:02:03.935560",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "MATEMÁTICAS \nTALLER DE EJERCITACIÓN Nº 13 \nECUACIÓN DE SEGUNDO GRADO Y \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n1. \nLa ecuación x2 – (3b – 1)x + 5b + 1 = 0 tiene raíces iguales, entonces b puede tomar \nel valor \n\nFUNCIÓN CUADRÁTICA \nTEM-13 \n\n \nA) 9 \nB) 3      \n\nC) 1\n\n3  \n\nD) -3 \n\n \n \n\n2. \nLa ecuación x  2\n2\n = \n2\nx  2\n\n\n\n posee \n\n \nA) dos raíces negativas. \nB) una raíz única y entera. \nC) dos raíces enteras.        \nD) dos raíces que solo difieren en signo. \n \n \n \n3. \nSi una de las raíces de la ecuación 5x2 – 3cx + 4c = 0 es 3, entonces c + 1 = \n \n \n\nA)   7 \nB)   8 \nC)   9 \nD) 10      \n\n \n \n4. \nUna de las raíces de la ecuación 2x2 + 7x – n – 1 = 0 es -5. ¿Cuál es la otra? \n\n \n \nA) 1 \n\nB) \n3\n2      \n\nC) 2 \n\nD) 5\n\n2  \n\n \n1\n",
+      "cantidad_caracteres": 721,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.3701171875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 16.0888671875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 126.4091796875
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "5. \nSi  y   son las raíces de la ecuación x2 – 5x + 3 = 0, entonces ¿cuál es el valor de  \n2 + 3 + 3 + 2 ? \n\n \nA)   96 \nB)   98 \nC)   99      \nD) 100 \n \n \n \n6. \nSabiendo que una de las raíces de la ecuación x2 – 2ax + 3b = 0 es el 20% de la otra, \nentonces ¿cuál de las siguientes igualdades es verdadera? \n \n \n\nA) 5a2 = 27b      \nB) 9a2 = b \nC) 27a2 = 5b \nD) a2 = 5b \n\n \n \n \n \n7. \n¿Cuál \nde \nlas \nsiguientes \nafirmaciones \nes \nFALSA, \nrespecto \na \nla \necuación  \nx2 – 2(n + 1)x + (2n + 1) = 0? \n\n \nA) Si n = 0, tiene raíces iguales. \nB) Si n = 1, el producto de las raíces es 3. \nC) Si n = 2, la suma de las raíces es 6. \nD) Si n = 3, las raíces de la ecuación son negativas.      \n\n \n \n8. \nSi  y   son raíces de la ecuación ax2 + bx + c = 0, entonces -1 + -1  = \n\n \n\nA) \nb\n\nc\n\n      \n\nB) \nc\nb\n\n \n\nC) \na\nb\n\n \n\nD)   b\n\n \n\nc\n\n \n \n \n9. \nEn la ecuación ax2 + bx + c = 0, se tiene que abc  0 y 3b2 = 16ac, entonces se \ncumple que \n\n \n \nA) las raíces son reales e iguales. \nB) las raíces son",
+      "cantidad_caracteres": 1124,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "10. ¿Cuál de las siguientes ecuaciones tiene raíces que son el doble de las raíces de la \n\necuación 2x2 – 5x + 2 = 0? \n\n \nA) x2 + 5x + 4 = 0 \nB) x2 – 5x + 4 = 0      \nC) x2 – 5x – 4 = 0 \nD) x2 + 5x – 4 = 0 \n\n \n \n \n11. ¿Cuál es el perímetro del rectángulo del cuál se sabe que la base tiene 7 cm más que la \n\naltura y que su área es igual a 228 cm2? \n\n \nA) 31 cm \nB) 61 cm \nC) 62 cm      \nD) 122 cm \n \n \n \n12. La suma de dos números es 8 y su producto es igual a dos veces su diferencia, \n\naumentada en 4, luego uno de estos números es  \n\n \nA) 3 \nB) 4 \nC) 5 \nD) 6      \n\n \n \n \n13. ¿Cuál es el máximo valor que puede tomar la función f(x) = 3 – x2, si su dominio es el \n\nintervalo ]-3,3]? \n \n \n\nA) 12 \nB)   9 \nC)   6 \nD)   3      \n\n \n \n \n14. Sea f una función cuyo dominio es el conjunto de los números reales y definida por  \n\nf(x) = 5 – (x – 5)2. ¿Cuál es el mayor valor que puede tomar el recorrido de esta \nfunción? \n\n \n \nA) 5      \nB) 4 \nC) 3 \nD) 2 \n\n \n \n \n\n \n3\n",
+      "cantidad_caracteres": 965,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "15. En la figura adjunta, las parábolas son representativas de dos funciones cuadráticas. \n\n¿Cuál es el valor de a2 + b2? \n\n𝑦 \n\n \nA) 8      \nB) 4 \nC) 2 \nD) 1 \n \n \n \n \n \n \n \n16. Si A(-2,0), B(6,0) y C(0,6), entonces la parábola de la figura adjunta es la \n\n𝑓 𝑥 = 2𝑥2 −7 \n\n𝑥 \n\na \nb \n\n𝑔 𝑥 = −𝑥2 + 5 \n\nrepresentación gráfica de la función \n\n \n\n𝑦 \n\nA) \n2\n1\ny\n(x\n1)\n9\n2\n\n\n\n \n\nC \n\nB) \n2\n1\ny\n(x\n2)\n8\n2\n\n\n\n       \n\nA \nB \n\nC) \n2\n1\ny\n(x\n2)\n9\n2\n\n\n\n \n\n𝑥 \n\nD) \n2\n1\ny\n(x\n1)\n8\n2\n\n\n\n \n\n \n \n \n \n17. Si la parábola de la función adjunta es la representación gráfica de la función  \n\nf(x) = ax2 + bx + c, entonces se puede concluir correctamente que \n\n \n \nA) a > 0, b < 0 y c > 0 \nB) a < 0, b > 0 y c = 0 \nC) a > 0, b > 0 y c = 0 \nD) a > 0, b < 0 y c = 0       \n\n𝑦 \n\n \n \n \n \n \n \n18. El costo de un número de artículos producidos está dado por la función  \n\n𝑥 \n\nC(n) = 0,02n2 – 42 n + 500. ¿Cuántos artículos n se producen con un costo mínimo C? \n\n \n \nA) 525 \nB) 1.050       \nC) 2.100 \nD) 17.050 \n \n\n \n4\n",
+      "cantidad_caracteres": 999,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.2255859375
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.2255859375
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1787109375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.177734375
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.193359375
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.197265625
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.142578125
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.142578125
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.111328125
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.111328125
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.1484375
+        },
+        {
+          "index": 11,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "19. La altura en metros de una partícula después de t segundos de haber sido lanzada al \n\naire queda determinada por la función f(t) = -2t2 + 32, para 0 ≤ t ≤ 4. La altura en \nmetros de la partícula a los 2 segundos de haber sido lanzada es \n\n \n \nA) 12 \nB) 24      \nC) 36 \nD) 48 \n \n \n \n20. Durante el tiempo en que un balón de gas está siendo calentado, la temperatura \n\ninterna (T) varía de acuerdo con la función T(t) = -t2 + 4t + 2, siendo t el tiempo en \nminutos. La temperatura alcanza su valor máximo al cabo de \n\n \n \nA) 5 minutos. \nB) 4 minutos. \nC) 3 minutos. \nD) 2 minutos.      \n \n \n \n21. La aceleración de una moto esta en función del tiempo transcurrido. Si T representa el \n\ntiempo transcurrido en segundos y A(T) = 15T2 + 120T + 86 representa la aceleración \nde la moto en m/s2, ¿cuánto tiempo ha transcurrido cuando la aceleración es 386 m/s2? \n\n \nA) 1 segundo \nB) 2 segundos      \nC) 3 segundos \nD) 4 segundos \n\n \n \n \n\n0\n0\n1\nh(t)\ngt\nv t\nh\n2\n\n\n\n describe el movimiento de un objeto",
+      "cantidad_caracteres": 1640,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "23. ¿Con cuál de las siguientes funciones está asociada la parábola de la figura adjunta? \n\n \n\n \nA) f(x) = 1,5x2 + 4x + 6 \n\n𝑦 \n\n𝒇 𝒙  \n\nB) \n2\nf(x) = 0,6x  + 4x + 6       \nC) f(x) = 0,75x2 – 4x + 6 \n\n6 \n\nD) \n2\nf(x) = 0,3x  + 4x + 6  \n \n \n \n \n \n24. Las funciones f y g, definidas por f(x) = 2x2 + 2 y g(x) = -2x2 + 18, aparecen \n\n𝑥 \n\n-3 \n\ngraficadas en la figura adjunta. Las dos gráficas se intersecta en los puntos (a,b) y  \n(-a,b). ¿Cuál es el valor de b? \n\n \n \nA)   6 \nB)   8 \nC) 10        \nD) 12 \n \n \n \n \n \n \n \n \n \n25. En la figura adjunta, la parábola y la recta son representativas de las funciones f y g, \n\n𝑦 \n\nf(x) \n\n(-a,b) \n(a,b) \n\n𝑥 \n\ng(x) \n\nrespectivamente. Si la recta pasa por el punto (2,0) y por el vértice de la parábola, \nentonces corta al eje y en el punto \n \n \n\n𝑦 \n\ng(x) \n\nA) 3 \n\nB) \n7\n2  \n\n16\n\n(0, \n\n3 ) \n\nC) 4     \n\nD) 9\n\n2  \n\n \n \n \n \n\n(-4,0) \n\n(2,0) \n\n𝑥 \n\n0 \n\n \n \n \n \n \n \nTEM-13 \n\nf(x) \n\n \n6\n",
+      "cantidad_caracteres": 912,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.2236328125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.177734375
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.2333984375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.177734375
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.142578125
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.142578125
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.111328125
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.1669921875
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 19.572265625
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.203125
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.1767578125
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.1796875
+        },
+        {
+          "index": 14,
+          "tipo": 4,
+          "tamanio_kb": 0.2236328125
+        },
+        {
+          "index": 15,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

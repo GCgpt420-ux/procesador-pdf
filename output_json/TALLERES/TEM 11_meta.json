@@ -1,0 +1,97 @@
+{
+  "filename": "TEM 11.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 11.pdf",
+  "num_paginas": 6,
+  "titulo": "",
+  "autor": "Alvaro Martinez Martinez",
+  "fecha_procesamiento": "2026-03-07T16:02:21.921669",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "MATEMÁTICAS \nTALLER DE EJERCITACIÓN Nº 11 \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n\nÁLGEBRA III \nTEM-11 \n\n1. \nEn el sistema de ecuaciones 2A + 2B = 6\n\n3A + 2B = 7 , ¿cuál es el valor de A? \n\n \n\nA) -1 \nB)  0 \nC)  1 \nD)  2 \n \n \n\n2. \nDado el sistema a  2b = 5\n\n\n, se determina que el valor de a2 – 4b2 es igual a  \n\na + 2b = 4\n\n \nA) 16 \nB) 20 \nC) 25 \nD) 30 \n \n \n\n3. \nEl par ordenado (a,b) es solución del sistema 3a + 3b = 60\n\n4a  4b = 24\n\n. ¿Cuál es el valor de  \n\n(a + b)(a – b)? \n \n \n\nA)   12 \nB) 100 \nC) 110 \nD) 120 \n\n \n \n \n\n4. \nEn el sistema 3x + 2y = 1\n\nx  y = c\n\n, ¿qué valor debe tomar c para que la solución x del sistema \n\nsea \n13\nx = 5 ? \n\n \nA) -6 \nB)  1 \nC)  3 \nD)  6 \n\n \n1\n",
+      "cantidad_caracteres": 672,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.3701171875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 16.0888671875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 121.943359375
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "5. \nDado el sistema ax + by = a\n\nbx + ay = b  con a + b ≠ 0,  entonces x + y = \n\n \nA) 1 \nB) a + 1 \nC) b + 1 \nD) a + b \n \n \n \n \n\n6. \n¿Cuál es el valor de b\n\n3 , si a + b = 1  y  a – b = 1? \n\n \n\nA) \n1\n3\n\n \n\nB) 0 \n\nC) \n1\n6  \n\nD) 1\n\n3  \n\n \n \n \n \n\n5\nx\ny\n12\n\n\n\n\n1\n1\n\n\n\n\n, ¿cuál es el valor de x\n\n7. \nDado el sistema \n\ny ? \n\n1\nx\ny\n12\n\n\n\n\n1\n1\n\n\n\n\n \n\nA) 5\n\n3  \n\nB) 3\n\n2  \n\nC) 5\n\n6  \n\nD) 2\n\n3  \n\n \n \n8. \n¿Cuál de las siguientes desigualdades es siempre verdadera, si se sabe que  \nP + Q = 84 y que Q > 44? \n\n \n \nA) P > 40 \nB) P < 40 \nC) P > 44 \nD) P < 44 \n \n \n\n \n2\n",
+      "cantidad_caracteres": 564,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "9. \nSi a = 0,25 y b = 0,6 , entonces ¿cuál(es) de las siguientes desigualdades es (son) \nverdadera(s)? \n\n \n\nI) \n11\na < \n < b\n20\n \n\nII) \n2 < a < b\n9\n \n\nIII) \n7\na < b < 10  \n\n \n\nA) Solo I y II \nB) Solo I y III \nC) Solo II y III \nD) I, II y III \n \n \n \n \n10. Si x es un número real tal que –3(x + 5) < -6, entonces ¿cuál de los siguientes \n\nnúmeros NO puede ser x? \n \n\nA) 3 \nB) -3,1  \nC) 0 \nD) \n2\n\n \n \n \n \n \n\n11. ¿Cuál de las siguientes proposiciones es verdadera, si \n7  x\n4 < \n3\n\n\n? \n\n \nA) -5 < x \nB) –(x + 5) < 0 \nC) x + 5 < 0 \nD) x + 10 < 0 \n\n \n \n \n \n \n12. ¿Cuál de las siguientes desigualdades es equivalente a   -2x – 6y > 2y – 4? \n\n \nA) x < -4y + 2 \nB) x < 2y + 2 \nC) x > -4y + 2 \nD) x > 4y + 2 \n \n \n \n \n\n \n3\n",
+      "cantidad_caracteres": 714,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "13. ¿Cuál de los siguientes intervalos es el conjunto solución de la inecuación \n\n11x  3\n8x + 2\n  \n2\n3\n\n\n? \n\n \nA) ]-, 1] \nB)  [-1, + [ \nC) ]-1, -] \n\nD) \n13\n,17\n\n\n\n\n\n\n\n\n \n\n \n \n \n14. Si los números reales r, son aquellos en que se cumple la desigualdad r2 ≥ r3, entonces \n\n¿cuál de los siguientes números NO puede ser r? \n\n \nA) -1 \nB) 0 \n\nC) 1\n\n2  \n\nD) 1,5 \n \n \n \n15. ¿Cuál de las siguientes expresiones es siempre verdadera? \n\n \nA) Si x > 0, entonces x2 > x \nB) Si x2 > 0, entonces x > 0 \nC) Si x2 < x, entonces x < 0 \nD) Ninguna de ellas \n \n \n \n16. Si x + y > 0   y   z + w > 0, entonces siempre se cumple que \n\n \n \nA) xz + yw > 0 \nB) xy + zw > 0 \nC) x2 + y2 > 0 \nD) z3 + w3 > 0 \n \n \n \n17. Dado los números reales a y b, con a  b, tales que (a – b)3 > (a – b)2, ¿cuál(es) de las \n\nsiguientes relaciones es (son) siempre verdadera(s)? \n\n \nA) a3 > b3 \nB) a5 < b4 \nC) a5 > b4 \nD) a2 < b3 \n \n \n\n \n4\n",
+      "cantidad_caracteres": 909,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "18. El triángulo ABC de la figura adjunta tiene un perímetro de 58 cm. Si AC  mide 4 cm \n\nmenos que AB , entonces x + y = \n\nC \n\n \n \nA) 29 cm \nB) 30 cm \nC) 39 cm \nD) 40 cm \n \n \n \n \n \n \n19. En un triángulo rectángulo la diferencia de las medidas de los ángulos agudos es igual a \n\ny \n\n\n\n\nB \nA \n\nx \n\n18º. ¿Cuánto mide el ángulo agudo de mayor medida? \n\n \n \nA) 36º \nB) 48º \nC) 54º \nD) 62º \n \n \n \n20. En una confitería, 120 gramos de gomita, más 150 gramos de chocolate cuestan  \n\n$ 1.320 y 90 gramos de gomita y 200 gramos de chocolate cuestan $ 1.340. ¿Cuánto \ncuestan 100 gramos de gomita? \n\n \n \nA) $ 400 \nB) $ 600 \nC) $ 800 \nD) $ 900 \n \n \n \n \n21. Si al triple de la edad de Carolina se le suma el doble de la edad de Cristina se obtienen \n\n95 años y si al doble de la edad de Carolina se le resta la edad de Cristina entonces el \nresultado es 40 años. Según esto es correcto afirmar que \n\n \n \nA) Carolina es mayor de edad y Cristina es menor de edad. \nB) Carolina es menor de edad y Cristina es ma",
+      "cantidad_caracteres": 1117,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "22. Si al numerador de una fracción se le suma 5, el valor de la fracción es 2, y si al \n\nnumerador de la fracción se le resta 2, el valor de la fracción es 1. Si x es el valor de \nesta fracción, ¿cuál de las siguientes relaciones es verdadera? \n \n \n\nA)    0 < x < 0,5 \nB) 0,5 < x < 1 \nC)    1 < x < 1,5 \nD) 1,5 < x < 2 \n \n \n \n23. Si Anita le regala una muñeca a Panchita ambas quedarían con la misma cantidad, pero \n\nsi Panchita le regala una muñeca a Anita entonces Panchita quedaría con la tercera \nparte de las muñecas con las que quedaría Anita. ¿Cuántas muñecas tienen entre las \ndos? \n\n \nA) 8 \nB) 9 \nC) 12 \nD) 15 \n \n \n \n24. En el sur de Chile, un habitante de la región rema río abajo 10 km en una hora y rema \n\nrío arriba 4 km en una hora. ¿Cuál es la velocidad del río y cuál sería la velocidad del \nbote en aguas de reposo, respectivamente? \n\n \n\nA) \n     y       \nkm\nkm\n2,  \n 6 \n5\nh\nh  \n\nB) \n        y        5\nkm\n2 h\n km\n\nh  \n\nC) \n       y        7\nkm\n3 h\n km\n\nh  \n\nD) \n     y        7\nkm\n",
+      "cantidad_caracteres": 1411,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

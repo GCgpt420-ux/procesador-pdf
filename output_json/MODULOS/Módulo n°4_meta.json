@@ -1,0 +1,305 @@
+{
+  "filename": "Módulo n°4.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/MODULOS/Módulo n°4.pdf",
+  "num_paginas": 20,
+  "titulo": "",
+  "autor": "Verónica",
+  "fecha_procesamiento": "2026-03-07T16:05:14.349846",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemáticas  \nMaterial : MOD-04 \n\n \n\n \n \n \n \n \n\n \n\nMÓDULO N° 4 \nGEOMETRÍA PROPORCIONAL E ISOMETRÍAS \n\n \n \n \n \nEJERCICIOS DE DESARROLLO \n \n1. \nEn la figura adjunta, C es punto medio del segmento AB  y CD:DB\n2 : 3\n\n. Si \nAC = 15 cm, ¿cuál es la medida de CD ? \n \n \n \n \n \n \n \n \n \n2. \n¿En cuál(es) de las siguientes figuras el triángulo P es semejante con el triángulo Q? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nA \nC \nB \nD \n\nI) \nII) \nIII) \n\nL1 \n\nL4 \n\n96° \n44° \n\nQ \n \n\n44° \n\nQ \n\n88° \nP \n\nQ \n\n \n\nP \n\n  \n\nL2 \n\n88° \n\n40° \n\nP \n\nL1 // L2 \n\nL3 \n\n(Fuente: DEMRE. Publicación 2008) \n\n \n3. \nEn el DEF de la figura adjunta, GH  // FE  y DG : GF = 1 : 4. ¿Cuál es la medida de \n\nFE ? \n \n \n \n \n \n \n \n \n \n \n\nF \n\nG \n\n4y + 22 \n\n3y \n\nD \nE \n\nH \n",
+      "cantidad_caracteres": 719,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.3955078125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 42.5595703125
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n\n4. \nEn la figura adjunta, AB = 6 cm, AE = 10 cm y BC = 24 cm. La medida de AD  es \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nA \nB \n\nE \n\nC \nD \n\n(Fuente: DEMRE. Publicación 2014) \n \n \n\n5. \nEn la figura adjunta, L1 // L2. Entonces, Área ( ECD)\n\n\n\n\n = \n\nÁrea ( ABD)\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n6. \nEn la figura adjunta, las rectas S1 y S2 intersectan a las rectas paralelas L1, L2 y L3. Si  \nAC = 45 cm, BC = 30 y EF = 20 cm, ¿cuánto mide DE? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nB \nC \n\n3 \nx  \n\nD \n\nx + 2  \n\nE \n\n5 \n\nA \nL1 \n\nL2 \n\nS1 \nS2 \n\nA \nD \n\nL1 \n\nL2 \nB \nE \n\nC \nF \n\nL3 \n\n2 \n\n \n",
+      "cantidad_caracteres": 565,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \n\n7. \nUn niño se encuentra de pie a 1 metro de la base de un semáforo, ambos ubicados en \nforma paralela (figura adjunta). Si el niño proyecta una sombra de 50 cm y la altura del \nsemáforo es 4,5 m, ¿cuál es la altura del niño? \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n8. \nEn el triángulo ABC rectángulo en C de la figura adjunta, el segmento CD es altura y D \npertenece al segmento AB. Si AB = 15\n2  cm  y BD : DA = 1 : 4, ¿cuál es la medida \ndel segmento CD? \n\n1 m \n50 cm \n\nB \n\n \n\nD \n\n \n\n \n\n \n\nA \n\nC \n\n \n\n(Fuente: DEMRE. Publicación 2018) \n \n\n \n9. \nEn la figura adjunta el segmento AB es un diámetro de la circunferencia y las \nprolongaciones de las cuerdas AE  y BD  se intersectan en el punto C. Si H es el punto \nde intersección de las cuerdas AD  y BE , ¿cuál(es) de las siguientes afirmaciones es \n(son) siempre verdadera(s)? \n \n\nI) \nAHE  BHD \nII) \nLa recta HC intersecta al segmento AB en su punto medio. \nIII) \nDBA = EAB \n\nC \n\nE \nD \n\n \n\n \n \n \n\nH \n\nA \nB \n\n \n \n \n \n(Fuente: DEMRE. Publicación 201",
+      "cantidad_caracteres": 1011,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 1.27734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": " \n\n10. En la circunferencia de la figura adjunta, DF = 6 cm, FB = 8 cm  y  FA = 3 · FC. ¿Cuál \n\nes la medida de AC ? \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n11. En la circunferencia de la figura adjunta, RE  y RD son secantes. Si RG = 4 cm,  \n\nB \n\nC \n\nF \n\nD \n\nA \n\nGD = 5 cm y  FE = 9 cm, entonces ¿cuál es la medida de RE ? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n12. En la circunferencia de la figura adjunta la recta PT es tangente a ella en T, la recta PB \n\nE \n\nF \n\nR \n\nG \n\nD \n\nes una secante, el punto A y el punto B pertenecen a la circunferencia. PA = AB,  \nPT = 10 cm y los puntos B, A y P son colineales. ¿Cuál es la medida del segmento PB? \n\n \n\nP \n\n \n\nT \n\n \n\nA \n\n \n\n \n\n \n\nB \n\n \n\n \n \n(Fuente: DEMRE. Publicación 2018) \n\n4 \n\n \n",
+      "cantidad_caracteres": 713,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": " \n\n13. En la figura adjunta, PT  es tangente y PA  es secante de la circunferencia. Si \n\nPB = PT - 3 y  BA = PB + 6, entonces ¿cuánto mide PA ? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n14. En la figura adjunta, AB  es diámetro de la circunferencia de centro O, AD  es una \n\nA \n\nB \n\nP \n\nT \n\ncuerda, el DAB = 30° y la recta FD tangente a la circunferencia en el punto D \n\nintersecta a la prolongación de AB  en F. ¿Cuál(es) de las siguientes afirmaciones  \nes (son) verdadera(s)? \n \n \n\nI) \nLos triángulos AOD, FBD y ADF son semejantes entre sí. \nII) \nLos triángulos ODF y BDA son semejantes entre sí. \nIII) \nEl triángulo ADF es rectángulo. \n \n \n \n \n \n \n \n \n \n \n\nD \n\nA \nB \n\nF \nO \n\n(Fuente: DEMRE. Publicación 2015) \n \n15. En la figura adjunta, ABCD es un trapecio rectángulo en A y en D, con  \n\nDEA = ACB = CFB = 90°, E pertenece al segmento AC y F pertenece al  \n\nsegmento AB. ¿Cuál(es) de las siguientes igualdades es (son) verdadera(s)? \n \n \n \n \n \n \n \n \n\nC \nD \n\nE \n\nA \nB \n\nF \n\nI) \nAD CF\nDE CB\n\n\n\n \nII) \nDE",
+      "cantidad_caracteres": 1092,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": " \n\n16. Un agricultor tiene un terreno en forma de triángulo, como el triángulo ABC de la figura \n\nadjunta. Desea plantar hortalizas y para ello divide el terreno en cinco sitios, con \ndivisiones paralelas al lado AC . Si en el sector achurado plantará lechugas, ¿cuál es el \nárea de dicho sector? \n \n\n                     \n \n \n \n \n \n \n \n\na \na \na \na \na \n\nB \nC \n\nb \n\nA \n\n \n \n(Fuente: DEMRE. Publicación 2010) \n \n \n \n17. En la figura adjunta, el triángulo ABC es equilátero, los puntos M, F y T pertenecen a él \n\ny D es la intersección de las rectas BC y MF. Si AM = MB = BT = 10 cm y CD = 12 cm, \nentonces la medida del segmento FC es \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n\nA \n\nM \n\nF \n\nB \nC \nD \n\nT \n\n(Fuente: DEMRE. Publicación 2012) \n \n \n18. En el FDE de la figura adjunta, FD = 4 cm  y  DE = 3 cm. Determinar: \n \n\na) La proyección del cateto ED  sobre la hipotenusa. \nb) El perímetro del triángulo FHD. \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nE \n\nH \n\nF \nD \n\n6 \n\n \n",
+      "cantidad_caracteres": 943,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": " \n\n19. Una circunferencia de centro P(3, -1) se traslada según el vector T a una circunferencia \n\nde centro P(3, 2). ¿Cuáles son las coordenadas del vector traslación? \n \n \n \n \n \n \n \n \n \n \n \n20. Sean R y Q rotaciones con centro en el origen del sistema de ejes coordenados y \n\nángulos de rotación de 270° en sentido antihorario y 90° en sentido antihorario, \nrespectivamente. Se puede determinar las coordenadas de un punto A, si se sabe que: \n \n \n\n(1) al aplicar la rotación R al punto A, se obtiene el punto (2,3). \n(2) al aplicar una traslación según el vector (1,-5) al punto A y al punto resultante la \n\nrotación Q, se obtiene el punto (3,-2). \n\n \n \n \n(Fuente: DEMRE. Publicación 2017) \n \n \n \n \n \n \n21. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLos triángulos isósceles tienen un eje de simetría. \nII) \nLos triángulos escalenos no tienen ejes de simetría. \nIII) \nLos triángulos equiláteros tienen un centro de simetría. \n \n \n \n \n \n \n\n(Fuente: DEMRE. Publicación 201",
+      "cantidad_caracteres": 1013,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": " \n\n22. Dado el triángulo rectángulo de la figura adjunta, ¿cuál es la nueva posición luego de \n\nhacer una rotación respecto de su vértice H según el ángulo dado? \n \n \n \n \n\n-30° \n\nIV) \n\nL \nH \n30° \n\nL \nH \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\nI) \n\n30° \n\nV) \n\n-60° \n\nL \nH \n\n \nL \nH \n\n \n\n60° \n\nII) \n\nVI) \n\n-90° \n\nL \nH \n\nL \nH \n\n \n\n \n\nIII) \n\n90° \n\nL \nH \n\n \n\n8 \n\n \n",
+      "cantidad_caracteres": 372,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": " \n\nEJERCICIOS DE SELECCIÓN MÚLTIPLE \n\n \n \n1. \nEn la figura adjunta, AC = 24 cm y AC : AD = 2 : 3. La medida del segmento CD es \nigual a  \n \n \n\nA) 12 cm \nB) 14,4 cm \nC) 16 cm \nD) 36 cm \nE) Ninguno de los valores anteriores \n \n \n\nA \nC \nD \n\n(Fuente: DEMRE. Publicación 2014) \n \n \n \n2. \n¿Cuál(es) de los siguientes conjuntos de condiciones, por separado, permite(n) \ndeterminar que un triángulo PQR es semejante a otro triángulo TUV? \n \n \n\nI) \nRPQ = 80°, QRP = 60°, UVT = 60° y el ángulo exterior al TUV mide \n\n140° \n\nII) \nPR = 8 cm, VT = 12 cm, RQ = 10 cm y VU = 15 cm \n\nIII) \n PQ // TU, RP // VT  y RQ // VU \n \n \n\nA) Solo I \nB) Solo III \nC) Solo I y II \nD) Solo I y III \nE) I, II y III \n\n(Fuente: DEMRE. Publicación 2016) \n \n \n \n3. \n¿Cuál de las siguientes afirmaciones es FALSA? \n \n \n\nA) Todos los triángulos equiláteros son semejantes. \nB) Todos los cuadrados son semejantes. \nC) Todos los triángulos rectángulos isósceles son semejantes. \nD) Todos los círculos son semejantes. \nE) Todos los triá",
+      "cantidad_caracteres": 1088,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": " \n\n4. \nSi dos polígonos son semejantes, ¿cuál de las siguientes afirmaciones es siempre \nverdadera? \n \n \nA) La razón entre sus áreas es igual que la razón entre las medidas de sus lados \n\nhomólogos. \nB) La razón entre las medidas de sus ángulos es igual que la razón entre las medidas \n\nde sus lados homológos. \nC) Los polígonos son congruentes. \nD) Los polígonos son regulares. \nE) La razón entre sus perímetros es igual que la razón entre las medidas de sus lados \n\nhomólogos. \n\n \n(Fuente: DEMRE. Publicación 2016) \n\n \n \n5. \nSi \nABC\nDEF\n\n\n, donde AB  es homólogo con DE , AB = a cm y DE = 3a cm, ¿cuál de \nlas siguientes afirmaciones es siempre verdadera? \n \n \nA) Si el área del triángulo ABC es 16 cm2, entonces el área del triángulo DEF es \n\n2\n48 cm . \nB) 3 ∙ ABC = DEF \n\nC) El perímetro del triángulo ABC es un tercio del perímetro del triángulo DEF. \n\nD) AB // DE , AC // DF  y BC // EF  \nE) Ninguna de las anteriores. \n\n \n\n(Fuente: DEMRE. Publicación 2014) \n \n \n \n \n6. \nEn el trazo AB de l",
+      "cantidad_caracteres": 1262,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": " \n\n7. \nEn el \nABC\n\n de la figura adjunta, una expresión que representa a x en términos de a, b \ny c es  \n \n \n\nA) \nab\n\nc  \n\nC \n\nc \n\nB) \nca\n\nb  \n\na \n\nx \nb \n\nC) \nb(b + c)\n\na\n \n\n35° \n35° B \n\nD) \nab\nb + c  \n\nA \n\nE) ninguna de las anteriores. \n\n \n \n \n(Fuente: DEMRE. Publicación 2013) \n\n \n \n8. \nEn la figura adjunta, el triángulo ABC es semejante con el triángulo DEC. Si CM = 5,  \nAB = 21 y CN = 15, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \nCN: AB\nCM:ED\n\n \n\nD \nE \nM \n\nII) \nÁrea \n35\nEDC\n2\n\n\n \n\nC \n\nIII) \nÁrea EDC\n1\n = 9\nÁrea ABC\n\n\n\n \n\n \n \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n\nA \nB \n\nN \n\n(Fuente: DEMRE. Publicación 2009) \n \n \n9. \nDesde un punto P del suelo se observan bajo el mismo ángulo el extremo superior de \ndos postes verticales al suelo, de 6 metros y 5 metros de altura. Si la distancia de P a \nla base del poste de 5 metros es de 3 metros, entonces la distancia de P a la base del \notro poste es \n \n \n\nA) 18\n\n metr",
+      "cantidad_caracteres": 1146,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": " \n\n10. En el rectángulo de la figura adjunta, el punto G está en AB y F en la diagonal AC . Si \n\nAD\n4 cm\n\n, AG\n6 cm\n\n y AB\n2AD\n\n, ¿cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n \n\nC \nD \n\nI) \n6 :GF\n2:BC\n\n \n\nII) \nFC\n5\n\n cm \nIII) \nACD\nFAG\n\n\n \n \n\nF \n\nA) Solo I \nB) Solo II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n\nA \nB \n\nG \n\n \n(Fuente: DEMRE. Publicación 2014) \n \n \n11. En la figura adjunta ADBC es un rectángulo, E pertenece a AB , CE   AB , A, D y G son \n\npuntos colineales, D es el punto medio de BF , H y J son los puntos medio de BG  y DG , \nrespectivamente. ¿Cuál(es) de las siguientes semejanzas es (son) \nsiempre \nverdadera(s)? \n\n \n\nB \nC \n\n \n\nH \n\n \n\nE \n\n \n\nG \n\nD \nA \n\nJ \n\n \n\n \n\n \n\nF \n\n \n\nI) \nAEC  ACB \nII) \nADB  FDG \nIII) \nBDG  HJG \n \n\nA)  Solo I \nB)  Solo II \nC)  Solo III \nD)  Solo I y II \nE)  Solo I y III \n \n\n(Fuente: DEMRE. Publicación 2017) \n \n\n12 \n\n \n",
+      "cantidad_caracteres": 912,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": " \n\n12. En la figura adjunta, el triángulo ABC está inscrito en la circunferencia de radio r, AH  \n\nes altura y AD es un diámetro de la circunferencia. ¿Cuál(es) de las siguientes \nafirmaciones es (son) verdadera(s)? \n \n \n \n \n \n \n \n \n \n \n \n \n\nA \n\nb \nc \n\nh \n\nB \nC \n\nH \n\nD \n\nI) \nABC ≅ ADC \n\nII) \nAHB ~ ACD \n\nIII) \nc\nh\n2r\nb\n\n \n\n \n\nA) Solo II \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n\n(Fuente: DEMRE. Publicación 2011) \n \n \n \n \n\n13. En la figura adjunta, CH es altura del triángulo equilátero ABC, BP es a PC como 1 es  \n\na 2 y Q es la intersección de los trazos AP y CH. El valor de área AHQ\n\n\n\n es \n\nárea ABC\n\n\n\n \n\nA) \n3\n12  \n\nC \n\nB) \n1\n10  \n\nC)  1\n\n \n\n8\n\nP \n\nD)  1\n\nQ \n\n \n\n6\n\nE) \n1\n12  \n\nA \nB \n\nH \n\n \n \n \n(Fuente: DEMRE. Publicación 2013) \n \n \n \n\n13 \n\n \n",
+      "cantidad_caracteres": 786,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": " \n\n14. En un triángulo ABC rectángulo en C cuya hipotenusa mide p, la medida de la \n\nproyección de un cateto sobre ella es m. ¿Cuál de las siguientes expresiones siempre \nrepresenta al cuadrado de la medida del otro cateto? \n \n \n\nA) pm \nB) p2 – m2 \nC) (p – m)2 \nD) (pm)2 \nE) p2 – pm \n \n\n(Fuente: DEMRE. Publicación 2014) \n \n \n \n \n15. En el ABC de la figura adjunta, E es punto medio de AB  y D está en el segmento AE. \n\n¿Cuál es la medida del segmento DE? \n \n  \nA) 1,4 cm \nB) 0,6 cm \nC) 2,5 cm \nD) 3,6 cm \nE) 4,4 cm \n \n \n\nE \nD \n\nA \nB \n\n6 cm \n8 cm \n\nC \n\n \n(Fuente: DEMRE. Publicación 2013) \n \n \n \n16. El triángulo ABC de la figura adjunta es rectángulo en C, M y N son los puntos medios \n\nde los lados respectivos, D está en AB , P en CN, R en MN  y DP\nCB\n\n. Si CD = 4 cm  y \n\nDB\n8 2\n\ncm, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \nPRN  ACB \n\nII) \nEl área del triángulo ABC es 18 2  cm2. \nIII) \nCN = 6 cm \n \n\nC \n\nP \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo ",
+      "cantidad_caracteres": 1101,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": " \n\n17. En la circunferencia de centro O y radio 12 cm de la figura adjunta, CD = 5 cm. \n\n¿Cuánto mide el segmento AC? \n \n \n\nB \n\nD \n\nA) \n95  cm \n\nB) \n60  cm \nC)  7 cm \nD) \n35  cm \nE) Indeterminable con los datos dados. \n \n \n \n\nC \n\nO \n\nA \n\n(Fuente: DEMRE. Publicación 2014) \n \n \n18. En la figura adjunta, el segmento BC mide 15 cm y es tangente en C a la circunferencia \n\nde centro O. Si O está en el segmento AB que mide 25 cm y A pertenece a la \ncircunferencia, ¿cuántos centímetros mide el diámetro? \n \n \n \n \n \n \n \n \n \n  \n \nA)   8 \nB) 16 \nC)   9 \nD) 16,6 \nE) 24,6 \n \n \n\nC \n\nA \nB \n\nO \n\n(Fuente: DEMRE, Publicación 2010) \n \n \n \n19. El punto (6,-4) se le aplica una traslación obteniendo el punto (12,-8). Si al punto  \n\n(-3, 5) se le aplica la misma traslación, entonces se obtiene el punto \n \n \n\nA) (-6, 10) \nB) (-9, 9) \nC) (9, -3) \nD) (3, 1) \nE) (6, 9) \n\n \n(Fuente: DEMRE, Publicación 2014) \n\n15 \n\n \n",
+      "cantidad_caracteres": 901,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": " \n\n20. Si al triángulo de vértices M(1, 2); N(2, 5) y P(3, 3) se le aplica una rotación con centro \n\nen el origen del sistema de ejes coordenados, se obtiene un triángulo de tal forma que \nel vértice homólogo a M es M’(-2, 1). ¿Cuáles de los siguientes puntos corresponden a \nlos otros dos vértices del triángulo homólogo? \n \n \n\nA) (-1, 4) y (0, 2) \nB) (5, -2) y (3, -3) \nC) (-1, -2) y (-3, -1) \nD) (-5, 2) y (-3, 3) \nE) (-2, -5) y (-3, -3) \n\n(Fuente: DEMRE, Publicación 2017) \n \n \n \n \n \n21. En el sistema de ejes coordenados, ¿cuál(es) de las siguientes afirmaciones es (son) \n\nverdadera(s)? \n \n \n\nI) \nEl punto simétrico de (2,3) con respecto al eje x es (-2,3). \nII) \nEl punto simétrico de (-3, 5) con respecto al origen es (3, -5). \nIII) \nEl punto simétrico de (3, 4) con respecto al eje y es (-3, 4). \n \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo II y III \nE) I, II y III \n \n\n(Fuente: DEMRE. Publicación 2012) \n \n \n \n \n \n \n22. ¿Cuál de las siguientes afirmaciones es FALSA? \n \n\nA) Un diámetro",
+      "cantidad_caracteres": 1379,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": " \n\n23. El triángulo rectángulo de la figura adjunta, se rota en 60° en torno a su vértice H, en \n\nsentido horario y luego en 120° en sentido antihorario, con respecto al mismo punto. Si \nH pertenece a la recta horizontal L, ¿cuál de las siguientes opciones indica mejor el \nlugar donde queda ubicado el triángulo después de estas rotaciones? \n \n \n \n \n \n \n \n \n \n\nL \n\nH \n\nL \nH \n\nA) \nB) \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nL \nH \n\nC) \nD) \n\nH \n\nL \n\nL \n\nH \n\nE) \n\nL \nH \n\n(Fuente: DEMRE. Publicación 2011) \n\n \n24. Al segmento  AB  se  le  aplica  la  siguiente  composición  de  isometrías:  una rotación \n\nrespecto del origen en 90°, en sentido antihorario, luego una traslación según el vector \n(c, c) seguida de una traslación según este mismo vector, obteniéndose  el  segmento  \nA’B’, donde  A’  es  la  imagen  de  A.  Si  A(x,  y), A’(c, 2(c + 1)) y c es un número real \nnegativo, ¿cuál de las siguientes coordenadas corresponden al punto A? \n \n\nA) (-c, -2) \nB) (c, 2)  \nC) (2, c)  \nD",
+      "cantidad_caracteres": 1068,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "texto": " \n\n25. Considere el triángulo ABC, donde dos de sus vértices son A(-1, 2) y B(-3, 6). Si a este \n\ntriángulo se le aplica una traslación de modo que la imagen del punto A pertenece al \neje de las ordenadas y está a la misma distancia del origen que se encuentra A, ¿cuál \nde las siguientes coordenadas podrían corresponder a la imagen del punto B? \n \n \n\nA) (1, 5\n2\n\n) \n\nB) (-2, 4 + \n5 ) \n\nC) ( 5  – 2, 4) \n\nD) ( 5  + 1, -2) \n\nE) (-2 – 5 , 4) \n\n(Fuente: DEMRE. Publicación 2017) \n \n \n \n \n26. De acuerdo a la figura adjunta, ¿con cuál de las siguientes transformaciones \n\nisométricas en el plano, NO se puede obtener el triángulo B a partir del triángulo A? \n \n \n\nA) Con una simetría y luego con una traslación. \nB) Con una traslación y luego con una simetría. \nC) Con una traslación según el vector (4, 1) y luego con una rotación. \nD) Con tres simetrías y luego con una traslación. \nE) Con una traslación, luego con una simetría y después con otra traslación. \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n(",
+      "cantidad_caracteres": 1044,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 7.0205078125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "texto": " \n\n27. En el  plano cartesiano de la figura adjunta se ubican los triángulos ABC y DEF. \n \n\n \nSe puede determinar que estos triángulos son congruentes, si se sabe que: \n\n \n\n(1) los triángulos son semejantes de razón 1. \n(2) el triángulo DEF se obtiene de una o más transformaciones isométricas del \n\ntriángulo ABC. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n\n(Fuente: DEMRE. Publicación 2019) \n \n \n\n \n \n \n\nRESPUESTAS \n \nEJERCICIOS DE DESARROLLO \n \n\n1. \n6 cm \n13. \n12 \n2. \nI, II y III  \n14. \nI y II \n3. \n30 \n15. \nI, II y III \n\n4. \n30 cm \n16. \n6\n5 ab \n\n5. \n1\n4  \n17. \n60\n11  cm \n\n6. \n10 cm \n18. \na) 9\n\n5  cm \n\nb) 9,6 cm \n7. \n1,5 m \n19. \n(0, 3) \n8. \n6\n2  cm \n20. \nCada una por sí sola, (1) ó (2) \n9. \nI \n21. \nI y II \n10. \n16 cm \n22. \nA continuación \n11. \n12 cm \n \n \n12. \n10\n2 cm \n \n \n \n\n19 \n\n \n",
+      "cantidad_caracteres": 896,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 5.384765625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "texto": " \n\n22. \n\nI) \nIV) \n\n \n\n30° \n\n-30° \n\n \n\nL \nH  \n\nL \nH \n\n \n\n \n\n \n\n \n\nII) \nV) \n\n \n\n \n\n-60° \n\n60° \n\n \n\nL \nH \n\nL \nH \n\n \n\n \n\n \n\n \n\n \n\nIII) \nVI) \n\n \n\n \n\n \n\n90° \n\n-90° \n\n \n\nL \nH \n\nL \nH  \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n\n \nCLAVES EJERCICIOS DE SELECCIÓN MÚLTIPLE \n\n \n\n1.   \nA \n7.   \nD \n13. \nB \n19. \nD \n25. \nB \n2.   \nD \n8.   \nE \n14. \nE \n20. \nD \n26. \nC \n3.   \nE \n9.   \nA \n15. \nA \n21. \nD \n27. \nD \n4.   \nE \n10. \nD \n16. \nE \n22. \nC \n \n \n5.   \nC \n11. \nE \n17. \nA \n23. \nC \n \n \n6.   \nB \n12. \nE \n18. \nB \n24. \nC \n \n \n\n \n\n \n\n \n\n \n\n \n\n \n\nMA-M0D04 \n\n \n \n \n\nPuedes complementar los contenidos de esta guía visitando nuestra web \n\nhttp://www.pedrodevaldivia.cl/ \n\n20 \n\n \n",
+      "cantidad_caracteres": 640,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

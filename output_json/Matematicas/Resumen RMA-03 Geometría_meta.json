@@ -1,0 +1,296 @@
+{
+  "filename": "Resumen RMA-03 Geometría.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/z. Resumenes - Varios/Matematicas/Resumen RMA-03 Geometría.pdf",
+  "num_paginas": 23,
+  "titulo": "",
+  "autor": "René Calquín",
+  "fecha_procesamiento": "2026-03-07T14:52:17.407035",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\nRESUMEN RMA-03 \n\nGEOMETRÍA I \n\nNombre \n\nCurso \n\nProfesor \n",
+      "cantidad_caracteres": 98,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 61.64453125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n\n \n\nÁNGULOS \n\n \n \n\nNOMBRE DEL ÁNGULO  \nMEDIDA \nFORMA \n\n \n\nNulo \n = 0° \n\n \n\nAgudo \n0° <  < 90° \n\n \n\n \n\nRecto \n = 90° \n\n \n\n \n\nObtuso \n90° <  < 180° \n\n \n\n \n\n \n\nExtendido \n = 180° \n\n \n\n \n\nCompleto \n = 360° \n\n \n\nConvexo \n0° <  < 180° \n\n \n\n \n\nCóncavo \n180° <  < 360° \n\n \n\nPágina 2 \n",
+      "cantidad_caracteres": 293,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \n\n \n \nCLASIFICACIÓN DE LOS ÁNGULOS SEGÚN SU POSICIÓN \n\n \n\nNOMBRE \nIMAGEN \nCARACTERÍSTICA \n\n \n\n Tienen el vértice y un rayo \n\nÁngulos \nConsecutivos \n\ncomún que los separa, y no está \nuno comprendido en el otro. \n\n \n\n \n\n \n Tienen el vértice y un rayo en \n\ncomún. Los otros dos rayos están \nen una recta común. \n Son consecutivos. \n  +  = 180° \n\nÁngulos \nAdyacentes \n\n \n \n\n \n\nÁngulos \nOpuestos por \n\nrectas y son congruentes. \n \n \n \n\n Se forman al intersectar dos \n\n \n\nel Vértice \n\n \n \n \n \nOBSERVACIONES: \n \n \n\n \n \n OP es bisectriz \n\nA \n\n \n OP divide al ángulo AOB en dos \n\nBisectriz de un \n\nP \n\nÁngulo \n\nángulos de igual medida. \n\n \n\n \n\nB \nO \n\n \n\n Rectas \nPerpendiculares \n\n Las rectas se cortan formando un \n\nángulo de 90°. \n\nPágina 3 \n",
+      "cantidad_caracteres": 756,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": " \n\n \n \nÁNGULOS FORMADOS POR DOS RECTAS PARALELAS CORTADAS POR \n\nUNA TRANSVERSAL \n\n \n \n \n \n \n \n \n \n \n \n \n \n\n1 \n2 \n3 \n4 \n\nL1 \n\nL1 // L2 \n\n5 \n6 \n7 \n8 \n\nL2 \n\nInternos: \n3 con 6 \n\n \n \n4 con 5 \n\nÁngulos Alternos \n\nSon congruentes \nExternos: \n1 con 8 \n\n \n \n2 con 7 \n\n 1 con 5 \n\n 2 con 6 \n\nÁngulos \nCorrespondientes \n\nSon congruentes \n\n 3 con 7 \n\n 4 con 8 \n\n 1 , 3 , 5 y 7 \n\nÁngulos Colaterales \n\n 2 , 4 , 6 y 8 \nSon suplementarios \n\n \nOBSERVACIÓN: \nLos Ángulos Alternos y  Ángulos Correspondientes son congruentes entre sí. \n \n \n\n \n\n \nSuman 90° \n \nComplemento de  \n = 90° -   \n\nComplementarios \n\n90 -  \n\n \n\nÁngulos \n\n \n\n \nSuman 180° \n \nSuplemento de  \n = 180° -  \n\nSuplementarios \n\n \n180 -  \n\n \n \n \n\nPágina 4 \n",
+      "cantidad_caracteres": 745,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": " \n\n \n \nTRIÁNGULOS \n\n \n \n\nTEOREMA \nIMAGEN \nSE CUMPLE \n\n \n\n \n\nSuma de los \nángulos interiores \n\n +  +  = 180° \n\n \n \n\n \n\n’ \n\nSuma de los \nángulos exteriores \n\n’ + ’ + ’ = 360° \n\n(adyacentes a los \nángulos interiores) \n\n’ \n\n’ \n\n \n\n \n\nRelación entre dos \n\nángulos interiores \n\n +  = ’ \n\ny el  exterior no \nadyacente a ellos \n\n \n’ \n\n \n\n + ’ = 180° \n\nObservación \n\n \n’ \n\n \n \n \n\n \n \n \n \n \n\nPágina 5 \n",
+      "cantidad_caracteres": 414,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": " \n\n \n \nCLASIFICACIÓN DE TRIÁNGULOS \n\n \n \n\n \nNOMBRE \nCONDICIÓN \nREPRESENTACIÓN \n\nCONSECUENCIAS DE LA \n\nGRÁFICA \n\nCLASIFICACIÓN \n\n \n\n \n\nEquilátero \nTres lados \ncongruentes \n \n\n \n \n\n = 60° \n\n \n \n\nC \n\n \n\nSegún \n\nsus \nLados \n\nIsósceles \nDos lados \ncongruentes \n\n \n \n\nBase \nBase \n\nA \nB \n\n \n \n\n \n      \n\n \n \n \n \n \n \n \nObservación: \nSi un triángulo tiene dos lados de igual medida dicho triángulo es al menos isósceles, pues si \nel tercer lado es de igual medida que los otros dos, entonces será equilátero. \n \n \n \n \n \n \n\n \n\n \n\nEscaleno \nSin lados \ncongruentes \n\n \n \n\n \n \n\nPágina 6 \n",
+      "cantidad_caracteres": 593,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": " \n\n \n \n \n \nNOMBRE \n CONDICIÓN \nREPRESENTACIÓN GRÁFICA \n\n \n0° <  < 90° \n0° <  < 90° \n\n0° <  < 90° \n\n \n \n \n \n \n\nAcutángulo \nTres ángulos \n\nagudos \n\n \n\n \n \n\n \n +  = 90° \n\nSegún sus \n\n \n\nÁngulos \n\nRectángulo \nUn ángulo recto \n\n \n\n \n \n \n \n \n \n \n90° <  < 180° \n\nUn ángulo \n\nobtuso \n\nObtusángulo \n\n() \n\n \n\n \n\n \n \n \nOBSERVACIONES: \n \n\nTriángulo Isósceles:   \n \n \nTriángulo rectángulo \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n Catetos: AB  y AC   \n\n(forman el ángulo recto) \n Hipotenusa: BC  \n \n\nC \n\nC \n\n \n\nÁngulo del vértice \n\n se denomina ángulo \nbasal. \n\n \n \n\nA \nB \n\nA \nB \n\nBase \n\nPágina 7 \n",
+      "cantidad_caracteres": 595,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": " \n\n \n \n \n\n \nDESIGUALDAD TRIANGULAR \n \n \n \n\nEn todo triángulo, el tercer lado siempre mide menos que la suma de los otros dos, y, \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRELACIÓN ENTRE EL LADO DE UN TRIÁNGULO Y EL ÁNGULO QUE SE OPONE A \nÉSTE \n \n“A mayor lado, mayor es el ángulo que se opone a dicho lado y viceversa\" \n \n\nmás que la diferencia positiva de esos mismos dos lados. \n\na \nb \n\n \na – b < x < a + b \n\nx \n\n \na < b < c   <  <  \n\n \n\n  \na \nb \n\n \n \na = b   =  \n\nc \n\nPágina 8 \n",
+      "cantidad_caracteres": 481,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": " \n\n \n \n\nCONGRUENCIA DE TRIÁNGULOS \n\n ABC  PQR \n \n \n \n \n \n \n \n \n \n\nC \n\nR \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nA \nB \n\nP \nQ \n\nPOSTULADOS DE CONGRUENCIA \n \n\nPOSTULADO \nREPRESENTACIÓN GRÁFICA \n\n \n \n \n \n \n \n \n \n\nC \n\nR \n\n \n\nALA \n\n \n \n\n \n \nA \nB \n\nP \nQ \n\n \n \n \n \n \n \n \n \n\nC \n\nR \n\n \n\nLAL \n\n \n\n \n\nA \nB \n\nP \nQ \n\n \n \n \n \n \n \n \n \n\nC \n\nR \n\n \n\n \n\nLLL \n\nA \nB \n\nP \nQ \n\n \n \n \n \n \n \n \n \n \n\nC \n\nR \n\nLLA>  \n   con a > b \n \n\na \nb \na \nb \n\n \n\n \n\n \n\nA \nB \n\nP \nQ \n\n \n \n \n\nPágina 9 \n",
+      "cantidad_caracteres": 463,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": " \n\nELEMENTOS SECUNDARIOS DEL TRIÁNGULO \n\nNOMBRE \nREPRESENTACIÓN \n\nPUNTO \nSINGULAR \nDEFINICIÓN \nOBSERVACIONES \n\nGRÁFICA \n\n \n\n La altura puede caer \n\nsobre el triángulo. \n\n \n \n \n \n \n La altura puede caer \n\nh\n\nCae \ndesde \nun \nvértice y forma \nun \nángulo \nde \n90° con la recta \nque contiene al \nlado opuesto. \n\nOrtocentro \n\nh\n\nAltura (h) \n\n(H) \n\nfuera del triángulo \n\n \n \n \n \n \n\nh\n\n“I” equidista de los lados \ndel triángulo. \n\n \n \n \n \n \n \nIP = IQ = IR = Radio \n\nQ \nI \n\nDivide al ángulo \nen dos ángulos \ncongruentes. \n\nb \n  \n\nR \n\nBisectriz \n\n(b) \n \nIncentro (I) \n\nP \n\n \n\nEl punto “G” divide a la \ntransversal en razón 2:1. \n\n \n \n \n \n \n \n\nSegmento \nque \nse origina desde \nun \nvértice \ne \nintersecta en el \npunto medio del \nlado opuesto. \n\nt \n\n2k \n\nTransversal \n\nCentro de \nGravedad \n\nde \nGravedad \n\nG \n\nk \n\n(G) \n\n(t) \n\n \n \n\n \n\n“O” \nequidista \nde \nlos \nvértices del triángulo. \n\nRecta \nperpendicular, \nexactamente en \nel punto medio, \nde un lado del \ntriángulo. \n\n \n \n \n \n \n \n \nOP = OR = OQ \n\nP \n\nS \n\nSi",
+      "cantidad_caracteres": 1217,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": " \n\n \nOBSERVACIONES \n \n \n\nTRIANGULO EQUILÁTERO \n\n Coinciden todos los elementos secundarios. \n \n CD = Altura = Bisectriz = Transversal de Gravedad = \n\nC \n\nSimetral \n \n D, E y F son puntos medios, entonces CD = BF = AE \n\n30° 30° \nF \nE \n\n \n\nI \n\n \n \n Coinciden todos los puntos singulares: \n\n \n \n\nA \nB \n\nD \n\nH = I = G = O  \n \n \n \n\nTRIANGULO ISÓSCELES \n\n \n \n     \n \n \n \n \n \n \n \n \n\nC \n\n Solo coinciden los elementos secundarios que caen a la \n\n \n \n\nbase. \n \n\n CD = Altura = Bisectriz =Transversal de Gravedad = \n\nSimetral \n \n\n \nD \nA \n\n \n\nB \n\n \n \n \n \n \n\n \n \n \n \n \n \n\nPágina 11 \n",
+      "cantidad_caracteres": 581,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": " \n\n \nPOLÍGONOS \n\n \n\nCLASIFICACIÓN \nREPRESENTACIÓN \n\nGRÁFICA \nOBSERVACIÓN \n\n \n \n \n \n \n \n\n \nCóncavo \n\nAl menos un ángulo interior \nmide más de 180° \n\nPOLÍGONOS \n\n \n \n \n \n \n \n\n \nConvexo \n\nTodos sus ángulos interiores \nmiden menos de 180° \n\n \n \n \n \n \n \nPROPIEDADES Y CARACTERÍSTICAS \n\n \nDiagonales desde un vértice: n – 3  \n\n \nCantidad total de diagonales: n(n  3)\n\n\n \n\nPOLIGONOS CONVEXOS \n\n2\n\n(n lados) \n\n \nSuma de los ángulos interiores: 180° (n – 2)  \n\n \nSuma de los ángulos exteriores: 360° \n\n \nPolígono convexo \n\n \nTodos sus lados son congruentes \n\n \nTodos sus ángulos interiores son congruentes \n\nPOLIGONO REGULAR \n\n \nTodos sus ángulos exteriores son congruentes \n\n(n lados) \n\n \nÁngulo exterior: ’ = 360°\n\nn\n \n\n \nÁngulo interior:  = 180° - ’ \n\n \n \n \n\nPágina 12 \n",
+      "cantidad_caracteres": 778,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": " \n\n \n \n\nOBSERVACION \nEJEMPLO \n\n \n \n \n \n \n \n \n \n\nEn un polígono regular, al trazar todas las \ndiagonales desde un vértice, éstas dividen al \nángulo interior en ángulos congruentes. \n\n \n \n\n \n\n \n \n \n \n \n \n \n \n \n\nEl Hexágono regular es el único polígono \nregular que se puede subdividir en 6 \ntriángulos equiláteros congruentes. \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nLos otros polígonos regulares se subdividen \nen triángulos isósceles. \n\nPágina 13 \n",
+      "cantidad_caracteres": 480,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": " \n\n \nCUADRILÁTEROS (CONVEXOS) \n\n \nTEOREMAS BÁSICOS DE CUADRILÁTEROS \n\n \n \n \n \n \n \n \n \n \n\n \n\nSuma de los \nángulos interiores \n\n \n\n +  +  +  = 360° \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n\n’ \n\nSuma de los \n\n' \n\n’ + ’ + ’ + ’ = 360° \n \n\nángulos  \nexteriores \n\n' \n\n' \n\n \n \n \n\nCLASIFICACIÓN \nOBSERVACIÓN \n\n Cuadrado \n Rombo \n Rectángulo \n Romboide \n\n \nParalelogramos \n\nDos pares de lados \nparalelos \n\n Escaleno \n Isósceles \n Rectángulo \n \n\nCUADRILÁTEROS \n\n \nTrapecios \n\nUn par de lados \nparalelos \n\n Asimétrico \n Simétrico \n\n \nTrapezoides \n\nSin lados paralelos \n\n(Deltoide) \n\n \n \n \n \n \n \n \n \n \n \n \n \n\nPágina 14 \n",
+      "cantidad_caracteres": 622,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": " \n\n \n \n\nPROPIEDADES DE LOS PARALELÓGRAMOS \nPARA TODOS LOS \nPARALELÓGRAMOS \nCASOS PARTICULARES \n\n Diagonales perpendiculares \n Diagonales bisectrices \n Diagonales congruentes \n\n \nLados opuestos congruentes \n\nCuadrado \n\n \nÁngulos opuestos congruentes \n\nRombo \n Diagonales perpendiculares \n Diagonales bisectrices \n\n \nÁngulos contiguos suplementarios \n\nRectángulo \n Diagonales congruentes \n\n \nLas diagonales se dimidian \n\n \n \n \n \n \nTRAPECIOS \n \n \n \n \n \n\nCLASIFICACIÓN Y \nREPRESENTACIÓN \n\nOBSERVACIONES Y \n\nPROPIEDADES \n\nGRÁFICA \n\nEscalenos \n \n \n \n \n \n \n \n\n \n Todos los lados son distintos \n\nC \nD \n\nC \nD \n\n \n \n\n \n\n \n\n Todos los ángulos interiores \n\n \nA \nB \n\n \n\nson distintos \n\n \n \n \n \n \nIsósceles \n \n \n \n \n \n \n \n\n \n\nA \nB \n \n\n( AB  // DC ) \n\n \n Ángulos \n\nAB  // DC  \n\ncolaterales \nsuplementarios: \n \n\n \n\n \n Dos pares de ángulos basales \n\nC \nD \n\n +  = 180° \n\n \n \n\n +  = 180° \n \n Se llama Base a \n\n Ángulos opuestos \n\nsuplementarios  \n\n \n \n\ncada uno de los \nlados paralelos \n",
+      "cantidad_caracteres": 1225,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": " \n\n \n\n \n \n \n \n \n \n \n \n \n \nTrapezoides \n\nCLASIFICACIÓN Y \nREPRESENTACIÓN GRÁFICA \n\nOBSERVACIONES Y \n\nPROPIEDADES \n \nAsimétrico \n\n \n \n Suma de los ángulos \n\ninteriores igual a 360° \n\n \nSimétrico (Deltoide) \n\n \n \n Diagonales diferentes \n\n Diagonales perpendiculares \n\n \n \n\n Una diagonal es bisectriz y \n\n \n \n\nsimetral de la otra diagonal \n\n\n\n\n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n\nPágina 16 \n",
+      "cantidad_caracteres": 419,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": " \n\nCIRCUNFERENCIA \nCONCEPTOS BÁSICOS: \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\nTangente \n\nCuerda \n\nDiámetro \n\nArco \n\nSecante \n\nRadio \n\n \nTIPO DE \nÁNGULO \n\nREPRESENTACIÓN \n\nRELACIÓN DEL ÁNGULO CON \n\nGRÁFICA \n\nEL ARCO QUE SUBTIENDE \n\n \n \n\nÁngulo del Centro \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nÁngulo Inscrito \n \n\n \n\n2 \n\n \n\nA \n\nA \n\nÁngulo \nSemi-inscrito \n \n\nB \n\nB \n\n \n\n \n\n \n \n\n2 \n\n \n            \n\n                                 x = \n + \n\n2\n\n \n\nx \n \n \n\n \n\n \n\nÁngulo Interior \n\nx \n \n\n \n\n \n\n \n                        \n\n \n\n \n\n                                x = \n  \n\n2\n \n\nÁngulo Exterior \n\n \n\n \n\nx \n\nx \n\n \n\nPágina 17 \n",
+      "cantidad_caracteres": 606,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "texto": " \n\nTEOREMAS \n\n \n\n \n\n \n\nTeorema \n\nTodo ángulo inscrito mide la mitad del ángulo \ndel centro si subtienden el mismo arco. \n\n1 \n\n2 \n\n2 \n\n \n\nD \nC \n\nCuerdas \nparalelas \ndeterminan \narcos \ncongruentes entre ellas. \n\nTeorema \n\nA \nB \n\n2 \n\nAB  // CD   arco CA   arco BD \n\n \n\n \n\n \n \n\nTeorema \n\nTodos los ángulos inscritos que subtienden el \nmismo arco son congruentes. \n\nO \n\n3 \n\n \n\nO \nDiámetro \n\nTeorema \n\nTodo ángulo inscrito en una circunferencia \nque subtiende un arco de 180° es recto. \n\n4 \n\n \nEn \ntodo \ncuadrilátero \ninscrito \nen \nuna \ncircunferencia, los ángulos opuestos son \nsuplementarios. \n +  = 180° \n +  = 180° \n \n\nO \n \n\nTeorema \n\n \n\n5 \n\n \n \n\n \n\nTeorema \n\nUn radio siempre es perpendicular a la \ntangente en el punto de tangencia. \n\nO \n\n6 \n\nPágina 18 \n",
+      "cantidad_caracteres": 770,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "texto": " \n\n \n\nA \n\nSi desde un punto P se trazan dos tangentes, \nlos segmentos que unen P con los puntos de \ntangencia son congruentes. \n \n\nTeorema \n\n7 \n\nB\n\nPA   PB  \n\nP\n\n \n\n \n\nUn ángulo inscrito mide lo mismo que un \nángulo semi-inscrito si subtienden el mismo \narco. \n\nO \n\nTeorema \n\n \n\n8 \n\n \n\nCuerdas \ncongruentes \ndeterminan \narcos \ncongruentes. \n \n\nTeorema \n\nO \n\n9 \n\nAD  // BC   arco AD  arco BC \n \n\n \n\nW \n\nTeorema \n\nTodo radio perpendicular a una cuerda, \nbiseca a la cuerda y al arco correspondiente. \n\n10 \n\n \n\nb \n\nEn todo cuadrilátero circunscrito a una \ncircunferencia, la suma de cada par de lados \nopuestos es la misma. \n \n\n \n\nc \n\nTeorema \n\n11 \n\na \n\na + c = b + d \n\nd \n\n \n \n \n \n \n\nPágina 19 \n",
+      "cantidad_caracteres": 698,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "texto": " \n\n \n\nTEOREMA DE PITÁGORAS \n \nEn todo triángulo rectángulo, el cuadrado de la longitud de la hipotenusa es igual a la suma \nde los cuadrados de las longitudes de los catetos. \n\n \n \n \n \n \n \n \nTríos Pitagóricos \n\nC \n\na \n\n \n\nb \n\na2 + b2 = c2 \n \n\nA \nB \nc \n\n \n\n \nEjemplo: \n \n\nC \n\n \nCateto 1 Cateto 2 Hipotenusa \n\n3 \n4 \n5 \n5 \n12 \n13 \n8 \n15 \n17 \n\n4 \n\n \n \n \n \n\n3 \n\nA \nB \n5 \n\n \n\n \nEjemplo: \n \n\nCateto 1 Cateto 2 Hipotenusa \n\nC \n\na \na \na\n2  \na \n2a \na\n5  \na \n3a \na 10  \na \n4a \na 17  \na \nka \na\n2\nk  + 1  \n \nTRIÁNGULOS NOTABLES \n\n \n \n \n \n \n\n1 \n2 \n\nA \nB \n5  \n\n \nTriángulo 30°-60°-90° \n \n\n \nEjemplo: \n \n\nA \n\nA \n\n30° \n\n30° \n\n \n \n \n \n \n\nCateto 1 Cateto 2 Hipotenusa \n\n2a \n\n10 \n\na \na\n3  \n2a \n\na\n3  \n\n5\n3  \n\n \n \n \n \n\nB \nC \na \n60° \n\nB \nC \n5 \n60° \n\n \nTriángulo Rectángulo Isósceles   \n\n \nEjemplo: \n \n\nA \n\nA \n\n \n \n \n \n \n \n \n \n\nCateto 1 Cateto 2 Hipotenusa \n\n45° \na\n2  \n\n45° \n\na \na \na\n2  \n\n5\n2  \n\na \n\n5 \n\nB \nC \na \n45° \n\nB \nC \n5 \n45° \n\nPágina 20 \n",
+      "cantidad_caracteres": 923,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "texto": " \n\n \nTRIÁNGULOS \n\n \nÁREAS Y PERÍMETROS \nNOMBRE \nFIGURA \nPERÍMETRO \nÁREA \n\n \n \n \n \n \n \n\n \n\nA = \na\nb\nc\nb h\na h\nc h\n2\n2\n2\n\n\n\n\n\n\n\n \n \n\nC \n\n A = \na\na  h\n\n2\n\n \n\na \nb \n\nha hc hb \n\nTriángulo \n\nP = a + b + c \n\n A = \nb\nb  h\n\n2\n\n \n\nA \nB \n\nc \n\n A = \nc\nc  h\n\n2\n\n \n\n \n\n \n \n \n \n \n \n \n \n\n \n \n\n2\na\n3\n4\n \n \n\nA = \n\nTriángulo \nEquilátero \n\na \na \n\nh \n\nP = 3a \n\nObservación: \n\na \n\nh = a 3\n\n2\n \n \n\n \n \n \n \n \n \n\n \n \n \n\nB \n\nA = \nc\nab\nc · h\n = \n2\n2\n \n\nc \n\nTriángulo \nRectángulo \n\n \n\nb \n\nhc \n\nP = a + b + c \n\n A = ab\n\n2  \n\n \n\na \n\nC \n\nA \n\n A = \nc\nc  h\n\n2\n\n \n\n \n\n \n\nPágina 21 \n",
+      "cantidad_caracteres": 562,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "texto": " \n\n \n\nCUADRILÁTEROS \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nNOMBRE \nFIGURA \nPERÍMETRO \nÁREA \n\n \n \n \n \n \nP = 4a  \n\n A = a2 \n\na \n\n2\nd\n\nCuadrado  \n\nd \n\n \n\n A =\n\na \n\na \n\n2\n\na \n\n \n\na \n\n \nP = 2a + 2b  \n A = a  b \n\nRectángulo  \n\nb \nb \n\na \n\n                                   \n\na \n\n A = h · a  \n\nd1 \n\n A = \n1\n2\nd\nd\n2\n\n\n                  \n\na                a \nh \n\n \nP = 4a  \n\nRombo \n\nd2 \n\na \n\n \n\na \n\n A = a · h1 \n\nh1 \nh2 \n\n \nP = 2a + 2b  \n\nRomboide \n\nb \nb \n\n A = b · h2 \n\na \n\n \n\nc \n\n \nA = a + c\nh\n2\n\n\n\n\n\n\n\n  \n\nh \n\nd \nb \n\nm \n\n \nP = a + b + c + d \n\nTrapecio \n\n \nA = m · h \n\na \n\ndonde m= a + c\n\n2\n \n\n \n\nPágina 22 \n",
+      "cantidad_caracteres": 650,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "texto": " \n\n \n\nCIRCUNFERENCIA Y CÍRCULO \n\n \n \nNOMBRE \nFIGURA \nPERÍMETRO \nÁREA \n \n \nCircunferencia \n\n \n \n P = D ·   \n\n \n \n \n A =  · r2 \n\n \n \n \n \n \n \n \n \n\ny Círculo \n\nO \nr \n\n P = 2 ·  · r  \n\n \nD: diámetro \n\n \n\n \n P = Arco AB + 2r \n\n \n \n\n \n \nSector Circular \n\n \n \n \n \n \n \n \n\n \nDonde: \n \n\n\n\n\n\n\n\n·  · r2  \n\n A = 360º\n\n \n \n\nO\nr \n \n\nB\n\n\n\n\n\n\n\n·2··r \n\nArco AB = 360º\n\nA\n\n \n \n\n \n \n \n \n\nPágina 23 \n",
+      "cantidad_caracteres": 403,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        }
+      ]
+    }
+  ]
+}

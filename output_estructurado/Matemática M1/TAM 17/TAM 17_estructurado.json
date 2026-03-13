@@ -1,0 +1,36 @@
+{
+  "archivo_original": "TAM 17.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/SOLUCIONARIOS/TAM 17.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 5,
+  "fecha_procesamiento": "2026-03-07T23:08:29.638303",
+  "preguntas": [
+    {
+      "numero": 3,
+      "enunciado": "3. \n\n \n\nUna recta L determina en el primer \ncuadrante del plano cartesiano un triángulo \nisósceles cuyos vértices son el origen y los \npuntos de intersección de la recta con los \nejes x e y. Si el área de este triángulo es \n18, ¿cuál es la ecuación de la recta L? \n\nSolucionario \n\n \n\n2\na\n\nÁrea  = \n\n2 = 18 \n\n \n\n \n\n a = 6, luego la ecuación de la recta L es \n\n \n\nx\ny\n + \n6\n6  = 1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x – y = 4"
+        },
+        {
+          "letra": "B",
+          "texto": "x + y = 2"
+        },
+        {
+          "letra": "C",
+          "texto": "x + y = 4"
+        },
+        {
+          "letra": "D",
+          "texto": "x + y = 6 Alternativa correcta: D) Página 1"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "TAM 17_p1_img4.jpg",
+        "TAM 17_p1_img1.jpg"
+      ]
+    }
+  ]
+}

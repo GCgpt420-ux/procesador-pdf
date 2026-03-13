@@ -1,0 +1,755 @@
+{
+  "archivo_original": "Solucionario Ma 16.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/SOLUCIONARIOS/Solucionario Ma 16.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 8,
+  "fecha_procesamiento": "2026-03-07T23:05:00.611487",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEl trazo PQ  de la figura adjunta mide 18 cm. Si  PR : PQ = 2 : 9,  entonces la diferencia \n\nCUADERNO DE EJERCICIOS N° 16 \n\nGEOMETRÍA PROPORCIONAL II \n\n⇒PQ\n= 91<=18--7 K -2\n\nentre las medidas de los segmentos RQ  y PR  es \n\nEntonces :\nEntonces\nPR\n__ 2.2=4 y Rally",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "7 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "14 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "16 cm - PR - 14-4=10 cm RQ R P Q 4cm 14cm"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Solucionario Ma 16_p1_img3.jpg",
+        "Solucionario Ma 16_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. AC ⇒AC -8cm\n☐\n\nC \n\nI) \nAD = 8 cm \nII) \nBD = 2\n3  cm \nIII) \nEl triángulo ABC es escaleno. \n\n4\nEntonces\nA-D= 6cm\n\n2 \n\nD \n\n21/5\n\nzó",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn un trazo AB  un punto P lo divide en razón áurea, tal que AP < PB. Si AB = 13 cm y  \nPB = x, entonces la ecuación para determinar x es \n\nRazón Áurea :\n13\n- X\n×",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x2 ± 13x ± 169 = 0"
+        },
+        {
+          "letra": "B",
+          "texto": "x2 + 39x + 169 = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "x2 ± 13x + 169 = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "x2 ± 39x + 169 = 0"
+        },
+        {
+          "letra": "E",
+          "texto": "x2 + 13x ± 169 = 0"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn el triángulo ABC rectángulo en C de la figura adjunta, si CD  es altura y \n\nAP\nPB\nA\nP\nB\nPB\n\n=\n\nAB\n1-3\nEntonces :\n\n, > ⇒\n169-13×-12--7\n✗2+13×-169=0\n\n13 -✗\n✗\n\n.\n\n=\n\n✗\n\nCB = 2 DB = 8\n\n cm, entonces AB  mide",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "8 2 cm C L Por T. de Euclides ( catetos) (13--8 8 8- = 4. AB DB -4"
+        },
+        {
+          "letra": "C",
+          "texto": "8 3 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "16 cm ⇒ AB -16cm A B D 4"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Solucionario Ma 16_p1_img3.jpg",
+        "Solucionario Ma 16_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn el triángulo ACD de la figura adjunta, AD  DC\nA\n, BD  es altura. Si BC = 2 cm y \nDB = 4cm, entonces el área del triángulo ACD es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "32 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "28 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "24 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "20 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "16 cm2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Solucionario Ma 16_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nLas proyecciones de los catetos sobre la hipotenusa del triángulo ABC rectángulo en C \nde la figura adjunta, con CD  altura, son \n \n \n\nD \nq \nA \nB \np \n\nC\n\nPor T .\nde\nEuclides ( catetos)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,8 y 8,2"
+        },
+        {
+          "letra": "B",
+          "texto": "3,6 y 6,4"
+        },
+        {
+          "letra": "C",
+          "texto": "4,0 y 6,0"
+        },
+        {
+          "letra": "D",
+          "texto": "6,5 y 8,5"
+        },
+        {
+          "letra": "E",
+          "texto": "8,0 y 10,0"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Solucionario Ma 16_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \n¿Cuál es el área de un triángulo rectángulo, si las proyecciones de los catetos sobre la \nhipotenusa miden 16 cm y 4 cm? \n \n \n\n62\n= AD\n\n. 10 ⇒\nA D= 3,6\n\n6 \n8 \n\ny\n82 = BD\n. 10 ⇒BD = 6,4 -\n\nA\nB\nD\n\n> Por T.\nde Pitágoras\n\nPor T\n.\nde Euclides\n( altura)\n\nha = 4.16 /\nThiam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "60 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "40 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "20 cm2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEn la figura adjunta, ABD es un triángulo rectángulo en A y AC  es altura. De acuerdo a \nlos datos de la figura, el perímetro del triángulo ABD es \n\nh\n= 8cm\nFinalmente :\nA\n= \"¿\n\n° ⇒A\n= 80cm'\n\n4cm\n16cm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "36 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "(4 5 +10) cm Por T . de Euclides ( catetos) D C B 8 2 ADI 8.10 ⇒AD= 4115 4×5 A 132--2.10 ⇒AB = 21/5 21/5"
+        },
+        {
+          "letra": "D",
+          "texto": "(6 5 +10) cm"
+        },
+        {
+          "letra": "E",
+          "texto": "20 5 cm A Finalmente : 2 P = 41/5+2115+10 PLIABD = 61/5+10"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Solucionario Ma 16_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. En el triángulo ABC rectángulo en C de la figura adjunta, si CD = \n14  cm y es altura, \nentonces 2x es igual a \n \n \n\n4 \n\n6\n211J\nI\nVerdadero\n\n.\nII) Verdadero\nB\ny WABC también\nPor T .\nde Pitágoras\nPort.\nde Pitágoras\n,\nBJ -122=42\nAB' -142=82\nGoo\n\nB \n\nA \n\n↳☒\n8\n4\n\nBD - 21/5\n1713=41/5\n\ny\n☐ABC\nescaleno\n\n30°\n\nA\n411J\nB\n\nC \n\nPor T\n.\nde Euclides\n( altura)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "4 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "7 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "9 cm ✗( ✗+ 5) =/KIT KI ✗( ✗+ 5) = 14 ⇒✗= 2"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Solucionario Ma 16_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En la figura adjunta, ABC es un triángulo rectángulo en C. Si CD  es su altura y CE  es  \n\nentonces\n2 ✗= 4cm\n\nA \nD \nx + 5 \nB \n\nx \n\ntransversal de gravedad del 'ABC, entonces el área de la región achurada es \n \n \n\nPor T\n.\nde Euclides\n( altura)\n1-\n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "17 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "19,5 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "38 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "39 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "78 cm2"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Solucionario Ma 16_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En la figura adjunta, PA y PB son secantes a la circunferencia. Si PC = 2 cm, \n\nDA = 1 cm  y PC : PB = 1 : 3, ¿cuánto mide PD ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "8 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "4 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "3 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "0,5 cm Si PC -2 ⇒PB = 6 Por T.de Secantes : B C 2cm PC . PB = PD . PA P • ( ✗+ 1)"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Solucionario Ma 16_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Las cuerdas AB  y CD  de la circunferencia de la figura adjunta, se cortan en P. Si  \n\nA \n\n⇒\n✗=P D= 3am\n\nAB = 10 , CP = 3  y  CD = 11, entonces la ecuación para determinar la medida x del \nsegmento AP es \n\nPor T\n.\nde\ncuerdas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x2 ± 10x + 24 = 0"
+        },
+        {
+          "letra": "B",
+          "texto": "x2 + 10x ± 33 = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "x2 ± 10x ± 24 = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "x2 ± 10x + 33 = 0 . PB = PC . PD AP B C 3 no -✗ . (10-11)=3.8 × 8 10×-1/2--24 Reordenando : ✗ P A D"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Solucionario Ma 16_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En la circunferencia de centro O y diámetro AB  de la figura adjunta, CE\nAB\nA\n. Si  \nCD = 8 cm y DB = 4 cm, ¿cuánto mide el perímetro de la circunferencia?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16S cm"
+        },
+        {
+          "letra": "B",
+          "texto": "20S cm"
+        },
+        {
+          "letra": "C",
+          "texto": "32S cm"
+        },
+        {
+          "letra": "D",
+          "texto": "80S cm"
+        },
+        {
+          "letra": "E",
+          "texto": "100S cm"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Solucionario Ma 16_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. 6HDQ\u0003 $%&\u0003 \\\u0003 $¶%¶&¶\u0003 GRV\u0003 WULiQJXORV\u0003 VHPHMDQWHV\u000f\u0003 FRQ\u0003 AC  y A 'C'  lados homólogos,  \n\n$&\u0003 \u0003\u0015\u0013\u0003FP\u0003\\\u0003$¶&¶\u0003 = 8 cm. Si el triángulo ABC tiene un área de M cm2, ¿cuál de las \nVLJXLHQWHV\u0003H[SUHVLRQHV\u0003UHSUHVHQWD\u0003HO\u0003iUHD\u0003GHO\u0003WULiQJXOR\u0003$¶%¶&¶\u000f\u0003HQ\u0003FP2? \n \n \n\nPor\nla\nsemejanza\n\n:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25 M 4  AOA' BI' ÁC' ' ⇒ ALRÁBC 2 = 8 ' = ALRABC AC M 20"
+        },
+        {
+          "letra": "B",
+          "texto": "2 M  5 ALRÁBC"
+        },
+        {
+          "letra": "C",
+          "texto": "5 M ' = 4  2 M 25"
+        },
+        {
+          "letra": "D",
+          "texto": "4 M 25  ' - ¿g- Finalmente : ALRÁBC M"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de las anteriores (Fuente: DEMRE. Publicación 2014)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. El triángulo ABC de la figura adjunta es rectángulo en C, CD\nAB\nA\n y DE\nAC\nA\n. ¿Cuál de \nlas siguientes proporciones es FALSA, si las áreas de los triángulos ADE, DCE y BCD son \nrespectivamente 49, 16 y 25 unidades cuadradas? \n\n \n \n\nc)\nFALSA\nEn este ejercicio\n\nAB y DB\nNO\nson\nlados\n✗+ B\n= 90°\n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "EC 4 DE 7 de los xp ⇒☐ADENLIDCE NOCBDNOABC homólogos"
+        },
+        {
+          "letra": "B",
+          "texto": "DB 5 EC 4 E triángulos ABCJCBD 16am \" respectivamente. 25cm\""
+        },
+        {
+          "letra": "C",
+          "texto": "AB 12 DB 5 p 49cm' a P ✗ B D A"
+        },
+        {
+          "letra": "D",
+          "texto": "AE 7 CD 5"
+        },
+        {
+          "letra": "E",
+          "texto": "ED 4 CD 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Solucionario Ma 16_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20.1T cm\n\nE \n\nAC\nDB\nA\n, entonces ¿cuál(es) de las siguientes afirmaciones es (son) siempre \nverdadera(s)? \n \n\nI) \n'ABC congruente 'ADC. \nII) \nDE #  EB   \nIII) \n'ABC es isósceles de base AC .",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III 1- D C BE I DE = E I) Verdadero . ✗ B LSAEBEULIAED } Por LAL y LICEB -1 LICED A Finalmente LIABCEULIADC II) Falso ."
+        },
+        {
+          "letra": "E",
+          "texto": "Verdadero . No se puede demostrar AC diámetro y BÍ cuerda que ÁBEBC . ⇒se cumple 4 DE -2 EB"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. En la circunferencia de centro O de la figura adjunta, AB  es diámetro y CB es tangente \n\nen B. Si el triángulo ABC es isósceles, entonces CD  mide \n \n \n\nB \n\n4 \n\nABE BC\n\nC \n\nAB\nCB\nPor T. de Pitágoras\nAC = HVI\n\n1-",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "2 10 cm Por T . de tanj y secante D O"
+        },
+        {
+          "letra": "C",
+          "texto": "2 2 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "4 cm"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Solucionario Ma 16_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. En el triángulo PQR de la figura adjunta, PS = 4 y SQ = 15. ¿Cuál es  la longitud de PR ? \n \n \n\nC. B2\n= AC\n. CD\n\n⇒\n42--4VI. CD ⇒\nCD\n= 211J\n\nA \n\n.\n\nR \n\nPor T.\nde\nEuclides\n( catetos)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60"
+        },
+        {
+          "letra": "B",
+          "texto": "76 '"
+        },
+        {
+          "letra": "C",
+          "texto": "14 ' ="
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Solucionario Ma 16_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. En el triángulo ABC de la figura adjunta, \nCAB\nCDE\n \n AC = 15 cm, CD = 5 cm y        \n\n'\n\nPR\n=\n76\n\nP \nQ \nS \n\n4\n15\n\nCE = 6 cm. ¿Cuál es a medida de BE ? \n\nABCN\nDEC\nPor T.\nde Tales\n⇒\nAB\nDE\n5\n6\nµm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "6 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "16 cm"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Solucionario Ma 16_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. El cuadrilátero ABCD de la figura adjunta es un rectángulo en que AB = 4 cm y             \n\nC \n\n6cm\n\n=\n\n10\n\nBE\n\nD \nE \n\n⇒BE\n= 12 cm\n☒\n\nA \nB \n\nBC = 3 cm. El segmento AE mide \n \n \n\n> Por T. de\n\n☐\nc\nPitágoras\n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,5 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "1,8 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "2,0 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "2,5 cm ✗ 3 g- 3cm 3cm E 5 g- un + E A L 4cm Por T. de Euclides ( catetos) Í = 5.x ⇒ ✗ = 9 A B = 1,8cm 5 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Solucionario Ma 16_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. La figura adjunta muestra un cuadrado de perímetro 8 cm, inscrito en un triángulo \n\nequilátero. ¿Cuál es el perímetro del triángulo equilátero? \n \n \n\nespecial (30-60-90)\naltura\nequilátero",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(6 + 4 3) cm . 3- L ' ' j 2 = Zt 3 3"
+        },
+        {
+          "letra": "B",
+          "texto": "(10 + 2 3) cm L z ' 1 L = 4 3"
+        },
+        {
+          "letra": "C",
+          "texto": "(6 + 5 2) cm"
+        },
+        {
+          "letra": "D",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "No se puede determinar."
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Solucionario Ma 16_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. Un segmento AB  de 42 cm se ha dividido interiormente por un punto P. Se puede \n\n+ 2\n\nz\n\n1\nFinalmente\n:\n2\n\nPerímetro\n= 3L\n= 45+6\n\ndeterminar la longitud del segmento menor, si se sabe que: \n\n \n(1) PB : AB = 5 : 7 \n\n(2) AP : AB = 2 : 7 \n\nA\nP\nB\n\n(1) suficiente\n:\nPB\n5\n\nz\nJ\nAB = 42cm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. En el triángulo ABC de la figura adjunta, es posible determinar la medida del segmento \n\n=\n\nAB\n\ncon esto\nse puede\nconocer PBYAP\n\n.\n\n(a)\nSuficiente\n:\nAP\n2\n\n7 J\nAB\n= 42cm\n\n=\n\nAB\n\ncon\nesto\nse\npuede\nconocer AP y PB\n\n.\n\nCD , si se sabe que: \n\n(1) Insuficiente .\nCon esta\ninformación no\nse\npuede\ndeterminar\nCD\n\n \n(1) AD = 4 cm, DB = 9 cm y CD  es altura. \n\nC \n\n(2) el triángulo BCD es rectángulo en D.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Solucionario Ma 16_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Sea PC y PB secantes a la circunferencia de centro O de la figura adjunta. Se puede \n\n(1) + (2) Insuficiente\n\n.\n\nNo\nse\npuede aplicar\nT .\nde\nEuclides .\nNo indican\n\nA \nD \nB \n\nque\nWABC\nes\n(2)\nInsuficiente .\nCon esta\n\nrectángulo en C\ninformación no\nse\npuede\ndeterminar\nCD\n\ndeterminar la medida de CB , si se sabe que: \n \n\nd) + (2) Suficiente\n\n(1) Insuficiente .\nDCJ AB Conocidos\n\nC \n\n(1) el perímetro del 'PBC es 28 cm. \n\nCD y AB\ndesconocidos\n⇒PITIC-143=28\n\nD \n\n(2) DC = 3 cm \n \n\nconocidos\n\n4 cm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional ✓ por conocer B A P 2 cm (2) Insuficiente con DC =3 Se puede conocer AB , pero no BC . 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Solucionario Ma 16_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. En la circunferencia de centro O y diámetro BD de la figura adjunta, CA  es cuerda. E \n\nes la intersección de las dos cuerdas. Se puede determinar la medida del segmento CE , \nsi se sabe que: \n \n\n(1) Insuficiente\n\n.\nT .\nde cuerdas\nCEJAE\ndesconocidos\n\nB \n\n(1) BE = 4 cm  y  BD = 20 cm \n(2) (CEB # (AEB \n\nBE\n. F-D= CE.AE\n(2) Insuficiente\n\nA \n\nE \n\n.\n\nSi # CEB -1¢ AEB\n\n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Solucionario Ma 16_p8_img1.jpg"
+      ]
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. En la figura adjunta se puede determinar que el área del triángulo MBN es la cuarta \n\n⇒\nAC\nBDJCEEUAE\n\nO \n\n(1) + (2) Suficiente\n\nsi\nCEE AE\n= X\nEnt⇒\n×\n\nD \n\n. ✗= 4.16 ⇒CE Conocido\n\nparte del área del triángulo ABC, si se conoce: \n \n\n(1) Insuficiente\n\n(1) \nCAB\nNMB\n \n \n\nC \n\n(2) M y N son puntos medios de AB  y BC . \n \n\nN",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada uno por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional A M B C (2) Suficiente ⇒ 1 N > 4 s congruentes ° . MN es mediana 2 \" Tienen la A M B misma área RESPUESTAS . ADM BN = ¡"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Solucionario Ma 16_p8_img1.jpg"
+      ]
+    }
+  ]
+}

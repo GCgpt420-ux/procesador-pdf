@@ -1,0 +1,662 @@
+{
+  "archivo_original": "TEM 05.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 05.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 7,
+  "fecha_procesamiento": "2026-03-07T23:08:00.973258",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEl ABC de la figura adjunta, es rectángulo en C. Si D es punto medio de AB  y  = 23º, \nentonces   –   es  \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "44º"
+        },
+        {
+          "letra": "B",
+          "texto": "46º"
+        },
+        {
+          "letra": "C",
+          "texto": "88º"
+        },
+        {
+          "letra": "D",
+          "texto": "92º    B A D"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "TEM 05_p1_img3.jpg",
+        "TEM 05_p1_img1.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn la figura adjunta, ABC = DAB = 80º y DC\nBC\n\n.  ¿Cuánto suman el x con  \n\nel y? \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "90º"
+        },
+        {
+          "letra": "B",
+          "texto": "20º"
+        },
+        {
+          "letra": "C",
+          "texto": "110º"
+        },
+        {
+          "letra": "D",
+          "texto": "150º y B D x"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "TEM 05_p1_img3.jpg",
+        "TEM 05_p1_img1.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn la figura adjunta, L es recta. ¿Cuál(es) de las siguientes expresiones es (son) \nverdadera(s)? \n \n\nA \n\nI) \nx = 75º \n\nII) \n = 45º \n\nx \n\nIII) \n = 120º",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III 2  3 L "
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "TEM 05_p1_img3.jpg",
+        "TEM 05_p1_img1.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn el triángulo ABC de la figura adjunta, CD  es transversal de gravedad y AC = BC.  \nEntonces, el x mide  \n\nC \n\n \n \n\n \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25º"
+        },
+        {
+          "letra": "B",
+          "texto": "35º"
+        },
+        {
+          "letra": "C",
+          "texto": "45º"
+        },
+        {
+          "letra": "D",
+          "texto": "55º"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TEM 05_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn el ABC de la figura adjunta,  AD = CD = DB. Los puntos A, D, B y E, C, B son \ncolineales  ¿Cuánto mide el ACE? \n\n35º \n\nD \nA \nB \n\n \n\nC \nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30º"
+        },
+        {
+          "letra": "B",
+          "texto": "45º"
+        },
+        {
+          "letra": "C",
+          "texto": "60º"
+        },
+        {
+          "letra": "D",
+          "texto": "90º"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TEM 05_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn la figura adjunta, MR \n QR\n\n y  PQ = QR, donde M, N, Q y P, N, R son puntos \n\nA \nD \nB \n\ncolineales.  Si 1 = 50º, entonces 2 + 3 = \n\n \n \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "70º"
+        },
+        {
+          "letra": "B",
+          "texto": "80º"
+        },
+        {
+          "letra": "C",
+          "texto": "90º"
+        },
+        {
+          "letra": "D",
+          "texto": "100º 3"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TEM 05_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi en el ABC de la figura adjunta se extiende el segmento BA y se traza CD , ésta sería \ntransversal de gravedad y bisectriz.  ¿Cuánto mediría el BCD? \n\n2 \n\nQ \n\nM \n\nN \n\n1 \n\nP \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8º"
+        },
+        {
+          "letra": "B",
+          "texto": "18º"
+        },
+        {
+          "letra": "C",
+          "texto": "27º"
+        },
+        {
+          "letra": "D",
+          "texto": "36º 108º A D B 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TEM 05_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nDe acuerdo con la información suministrada en la figura adjunta se puede deducir que              \nx – y = \n\nL2 \n\n \n \n\nx \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "110º"
+        },
+        {
+          "letra": "B",
+          "texto": "120º"
+        },
+        {
+          "letra": "C",
+          "texto": "130º"
+        },
+        {
+          "letra": "D",
+          "texto": "140º"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TEM 05_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEn el triángulo LMN de la figura adjunta H es el ortocentro y MNL = 66º.  Luego, el \n\n \n40º \n\n \n\nL1 \n\nLHM mide \n\nM",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "94º"
+        },
+        {
+          "letra": "B",
+          "texto": "114º"
+        },
+        {
+          "letra": "C",
+          "texto": "118º"
+        },
+        {
+          "letra": "D",
+          "texto": "176º"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TEM 05_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Desde el vértice C del triángulo ABC de la figura adjunta se ha trazado la altura CD  y la \n\nH \n\nL \nN \n\nbisectriz CE  del ángulo ACB.  Entonces, el DCE mide \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20º"
+        },
+        {
+          "letra": "B",
+          "texto": "15º"
+        },
+        {
+          "letra": "C",
+          "texto": "10º"
+        },
+        {
+          "letra": "D",
+          "texto": "5º"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TEM 05_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. En el  ABC de la figura adjunta,  según los datos dados, ¿cuál es el valor de BPC? \n\n40º \n30º \nA \nD \nE \nB \n\n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60º"
+        },
+        {
+          "letra": "B",
+          "texto": "80º"
+        },
+        {
+          "letra": "C",
+          "texto": "82,5º"
+        },
+        {
+          "letra": "D",
+          "texto": "120º   P     A B 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TEM 05_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En la figura adjunta, A, E, C y D, B, C, son puntos colineales, respectivamente; F es \n\npunto de intersección de los segmentos AB y ED; AB \n CD\n\n  y  DE \n AC\n\n.  Entonces,  \nx – y = \n\nC \n\n \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "44º"
+        },
+        {
+          "letra": "B",
+          "texto": "46º"
+        },
+        {
+          "letra": "C",
+          "texto": "56º"
+        },
+        {
+          "letra": "D",
+          "texto": "92º"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TEM 05_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. En la figura adjunta, el ABC es equilátero. Si D es punto medio de AB  y este \n\nE \n\nF \n\n46º \n\nB \n\nx \n\nA \n\nD \n\nsegmento se extiende, ¿cuánto mide x + y – z?  \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0º"
+        },
+        {
+          "letra": "B",
+          "texto": "30º"
+        },
+        {
+          "letra": "C",
+          "texto": "60º"
+        },
+        {
+          "letra": "D",
+          "texto": "120º"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TEM 05_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En la figura adjunta,   :  = 1 : 2, entonces  –  es \n \n \n\ny \nx \nz \nA \nD \nB \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0º"
+        },
+        {
+          "letra": "B",
+          "texto": "5º"
+        },
+        {
+          "letra": "C",
+          "texto": "15º"
+        },
+        {
+          "letra": "D",
+          "texto": "30º B  "
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TEM 05_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Dos triángulos se interceptan generando la siguiente figura adjunta, P, Q, y R son \n\n \n\n \n\nC \nA \n\nvértices de ángulos rectos.  ¿Cuánto mide el x? \n\n \n \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30º"
+        },
+        {
+          "letra": "B",
+          "texto": "45º"
+        },
+        {
+          "letra": "C",
+          "texto": "50º"
+        },
+        {
+          "letra": "D",
+          "texto": "60º x P 70º 50º Q 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TEM 05_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En el triángulo ABC de la figura adjunta, donde A, M, C; A, P, B y B, N, C son puntos \n\ncolineales, respectivamente. Si APM  NBP, entonces el ángulo x es igual a \n \n \n\nC \n\n \n\n75º",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "35º"
+        },
+        {
+          "letra": "B",
+          "texto": "40º"
+        },
+        {
+          "letra": "C",
+          "texto": "45º"
+        },
+        {
+          "letra": "D",
+          "texto": "50º"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TEM 05_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. En la figura adjunta, donde A, P, C son puntos colineales y ABC  PBR.  Si  \n\nM \n\nN \n\nx \n\n35º \n\nA \nP \nB \n\nPRB = 42º  y  APB = 68º,  entonces PBC =  \n\nR \n\n \n \n\n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16º"
+        },
+        {
+          "letra": "B",
+          "texto": "26º"
+        },
+        {
+          "letra": "C",
+          "texto": "44º"
+        },
+        {
+          "letra": "D",
+          "texto": "94º P"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TEM 05_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Los 6 triángulos en que se ha subdividido el triángulo ABC, de la figura adjunta, son \n\nA \nB \n\ncongruentes.  Entonces, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nC \n\nI) \nAM\nBC\n\n \n\n \n\nII) \nCM\nAP\n\n \n\nIII) \nTB  AP\n\n \n \n \n\nN \nM \n\nT",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III A P B"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TEM 05_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. En el triángulo ABC de la figura adjunta, donde A, D, C y B, E, C son puntos colineales, \n\nP es punto de la intersección de los segmentos AE y DB,  ABD  BAE.  Si ACB = 34º  \n\nC \n\ny AEB = 37º,  entonces el EPD =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "39º"
+        },
+        {
+          "letra": "B",
+          "texto": "40º"
+        },
+        {
+          "letra": "C",
+          "texto": "73º"
+        },
+        {
+          "letra": "D",
+          "texto": "75º P D E A B 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TEM 05_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En el triángulo ABC de la figura adjunta, donde A, P, N; C, P, M; A, M B y B, N, C son \n\npuntos colineales, ANB  CMB, NAB = 30º  y  MPN = 100º. Entonces, la medida \n\ndel NAC es \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40º"
+        },
+        {
+          "letra": "B",
+          "texto": "50º"
+        },
+        {
+          "letra": "C",
+          "texto": "60º"
+        },
+        {
+          "letra": "D",
+          "texto": "80º N P"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TEM 05_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. La figura adjunta está formada por los triángulos ABD y BCE. F se encuentra en la \n\nA \nM \nB \n\nintersección de los segmentos BE y AD. Si BA = BC, A = C, EB \n BA\n\n  y  DB \n BC\n\n, \n\nentonces D es congruente con \n\n \n \n\nE \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A F"
+        },
+        {
+          "letra": "B",
+          "texto": "DBE D B"
+        },
+        {
+          "letra": "C",
+          "texto": "E"
+        },
+        {
+          "letra": "D",
+          "texto": "AFB C"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TEM 05_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. En el cuadrado PQRS de la figura adjunta, A, B, C, D y E son puntos medios de cada \n\nsegmento al que pertenecen. Entonces,  la razón entre la región achurada y la región \nen blanco es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 B S R 3"
+        },
+        {
+          "letra": "B",
+          "texto": "3 8 A E C"
+        },
+        {
+          "letra": "C",
+          "texto": "3 4"
+        },
+        {
+          "letra": "D",
+          "texto": "3 5 D P Q 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TEM 05_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. En la figura adjunta,  ABC  DEF, donde A, D, B, E son puntos colineales.  ¿Cuál es la \n\nmedida del ángulo ACB? \n \n \n\nE \n\n40º",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40º"
+        },
+        {
+          "letra": "B",
+          "texto": "60º"
+        },
+        {
+          "letra": "C",
+          "texto": "80º"
+        },
+        {
+          "letra": "D",
+          "texto": "100º B F"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TEM 05_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. En la figura adjunta,  ABC   DBE  y  ACB    DBA.  Si los  triángulos  ABC y  DBE  \n\nC \n\nD \n\n120º \n\n \n\nA \n\nno son equiláteros y además A, D, C; D, F, E y C, F, B son puntos colineales,  entonces \n¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nE \nC F \n\nI) \nEl  ABD es isósceles. \nII) \nEl  DFC es isósceles. \nIII) \nEl  BFE es isósceles. \n \n \n\n \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TEM 05_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. En el triángulo ABC de la figura adjunta,  DE  y  EF   son medianas  y  EDC = ABC. \n\nA \nB \n\nCon estos datos se puede concluir que el ABC no puede ser \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "escaleno"
+        },
+        {
+          "letra": "B",
+          "texto": "equilátero."
+        },
+        {
+          "letra": "C",
+          "texto": "isósceles."
+        },
+        {
+          "letra": "D",
+          "texto": "rectángulo. D E A F B TEM-05 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TEM 05_p7_img0.jpg"
+      ]
+    }
+  ]
+}

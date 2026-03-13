@@ -1,0 +1,1315 @@
+{
+  "archivo_original": "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile .pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/2.Fillad/z Ensayos Clasificados Fillad/🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile .pdf",
+  "materia": "Física",
+  "num_paginas": 36,
+  "fecha_procesamiento": "2026-03-07T22:25:39.196266",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. La figura representa el perfil de una onda que se propaga a través de una cuerda.\n\nCon la información mostrada, se puede deducir correctamente que la longitud de onda y su\namplitud son respectivamente\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 cm y 9 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "10 cm y 18 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "18 cm y 10 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "20 cm y 9 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "20 cm y 18 cm"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. Si la onda de la figura tardó un minuto en ir de A hasta B, es correcto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "el número de ciclos de la onda es 6."
+        },
+        {
+          "letra": "B",
+          "texto": "su periodo es 60 s."
+        },
+        {
+          "letra": "C",
+          "texto": "Su longitud de onda es 15 m."
+        },
+        {
+          "letra": "D",
+          "texto": "La frecuencia es 1/20 hz."
+        },
+        {
+          "letra": "E",
+          "texto": "Su rapidez de propagación es 2,5 m/s. – 2 –"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. La figura siguiente representa la fotografía del perfil de una onda que se propaga en una\n\ncuerda, moviéndose hacia la derecha con una rapidez de 6 cm/s. La fotografía incluye una\nregla graduada en centímetros.\n\n¿Cuál es la frecuencia de esta onda?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,5 Hz"
+        },
+        {
+          "letra": "B",
+          "texto": "1 Hz"
+        },
+        {
+          "letra": "C",
+          "texto": "2 Hz"
+        },
+        {
+          "letra": "D",
+          "texto": "4 Hz"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. En un experimento con luz un alumno observa que desde un prisma transparente emerge un\n\núnico haz de luz de color verde. Respecto de esta situación, es correcto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "la luz incidente en el prisma es monocromática."
+        },
+        {
+          "letra": "B",
+          "texto": "El prisma transformó la luz incidente en un haz de luz incoherente."
+        },
+        {
+          "letra": "C",
+          "texto": "La luz incidente es de color blanco y en el prisma solo se transmitió el color verde."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo la luz de color verde se descompuso en el prisma."
+        },
+        {
+          "letra": "E",
+          "texto": "El prisma transformó la luz incidente en un haz de luz coherente."
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. Algunas aves tienen la capacidad de ver en la región ultravioleta del espectro\n\nelectromagnético. Solo con esta información, se puede afirmar correctamente que\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dichas aves pueden ver en un intervalo de longitudes de onda más amplio que los humanos."
+        },
+        {
+          "letra": "B",
+          "texto": "los humanos pueden ver en un intervalo de frecuencias más restringido que dichas aves."
+        },
+        {
+          "letra": "C",
+          "texto": "dichas aves pueden ver luz con frecuencias más altas que los humanos."
+        },
+        {
+          "letra": "D",
+          "texto": "dichas aves pueden ver luz de longitudes de onda mayores que los humanos."
+        },
+        {
+          "letra": "E",
+          "texto": "la máxima frecuencia que pueden ver los humanos es más alta que la máxima frecuencia que pueden ver dichas aves. – 3 –"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. En el siglo XVII, los científicos C. Huygens e I. Newton desarrollaron diferentes teorías que\n\ndescriben los fenómenos de reflexión y refracción de la luz. En particular, Huygens proponía\nuna teoría basada en ondas, mientras que Newton una fundamentada en partículas. Sin\nembargo, a comienzos del siglo XIX, T. Young demostró que solo la teoría de Huygens\nexplicaba correctamente sus nuevos\n\nexperimentos de interferencia de la luz. Al respecto, ¿cuál de las siguientes afirmaciones son\ncorrectas basándose solo en la información anteriormente presentada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El experimento de Young explica los fenómenos de la luz de mejor forma que las teorías de Newton y Huygens."
+        },
+        {
+          "letra": "B",
+          "texto": "La teoría de Huygens contiene a la de Newton al predecir mejor los fenómenos de la luz."
+        },
+        {
+          "letra": "C",
+          "texto": "La teoría de Huygens se ajusta mejor a ciertos fenómenos de la luz que la teoría de Newton ."
+        },
+        {
+          "letra": "D",
+          "texto": "Los resultados del experimento de Young son errados al desajustarsce con la teoría de Newton."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. Una respuesta de la ciencia al hundimiento del Titanic fue la creación del sonar, un artefacto\n\ntecnológico muy importante para determinar los misterios del fondo marino, entre otras\naplicaciones.\n\n¿Cuál de los siguientes fenómenos es utilizado en los sistemas de Sonar para determinar la\nprofundidad del agua?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Difracción"
+        },
+        {
+          "letra": "B",
+          "texto": "Refracción"
+        },
+        {
+          "letra": "C",
+          "texto": "Resonancia"
+        },
+        {
+          "letra": "D",
+          "texto": "Reflexión – 4 –"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. La siguiente tabla muestra mediciones de la velocidad de la luz en diferentes medios. Estos\n\nresultados fueron obtenidos todos a la misma temperatura.\n\nSi disponemos d e una secuencia de estos materiales transparentes de forma que un haz de\nluz monocromática pueda atravesar primero al vidrio, luego el diamante y finalmente el agua,\n¿Cuál es la trayectoria más probable que seguiría haz luz?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p6_img3.jpg",
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p6_img4.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. Considerando un estudio donde el objetivo es determinar el impacto que tiene la cantidad de\n\nusuarios conectados simultáneamente en la rapidex de una conexión Wi-Fi determinada. En\neste contexto de investigación, identifica cuál sería la variable que manipulamos o controlamos\ndirectamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El número de usuarios conectados a la red."
+        },
+        {
+          "letra": "B",
+          "texto": "La tasa de transferencia de datos de la conexión a Internet."
+        },
+        {
+          "letra": "C",
+          "texto": "El fabricante o modelo del dispositivo de enrutamiento Wi-Fi."
+        },
+        {
+          "letra": "D",
+          "texto": "La naturaleza del uso de Internet, como visualización de contenido en streaming o exploración de páginas web. – 5 –"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Al colocar un objeto frente a una lente convergente delgada, se obtiene una imagen d e mayor\n\ntamaño, real e invertida respecto al objeto. En la figura, f corresponde a la distancia focal.\n\nA qué distancia de la lente se encuentra el objeto que forma dicha imagen?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A una distancia f."
+        },
+        {
+          "letra": "B",
+          "texto": "A una distancia mayor que 2f."
+        },
+        {
+          "letra": "C",
+          "texto": "A una distancia 2f."
+        },
+        {
+          "letra": "D",
+          "texto": "A una distancia menor que 2f. – 6 –"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Un objeto se ubica a una distancia 3f de un espejo cóncavo, cuya distancia focal es f. Desde\n\nun mismo punto del objeto se dibujan tres rayos: el rayo s que es paralelo al eje horizontal, el\nrayo Q que incide en el vértice del espejo y el rayo P que pasa por el foco del espejo, como se\nrepresenta en la siguiente figura:\n\nAl respecto, ¿cuál de las siguientes afirmaciones acerca de la formación de imágenes es\ncorrecta para esta situación?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Las reflexiones de los rayos P y Q forman una imagen del mismo tamaño que el objeto."
+        },
+        {
+          "letra": "B",
+          "texto": "Las reflexiones de los tres rayos forman una imagen virtual e invertida con respecto al objeto."
+        },
+        {
+          "letra": "C",
+          "texto": "Las reflexiones de los tres rayos forman una imagen invertida y de menor tamaño que el objeto."
+        },
+        {
+          "letra": "D",
+          "texto": "Las reflexiones d e los rayos P y S no se interceptan, evitando que se forme una imagen del objeto. – 7 –"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. La siguiente figura muestra un objeto, representado por una flecha negra, situado delante de\n\nuna lente convergente de focos F.\n\nSe afirma correctamente que la lente, en este caso,\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "forma una imagen real, de mayor tamaño que el objeto e invertida respecto a él."
+        },
+        {
+          "letra": "B",
+          "texto": "forma una imagen real, de menor tamaño que el objeto e invertida respecto a él."
+        },
+        {
+          "letra": "C",
+          "texto": "forma una imagen real, del mismo tamaño del objeto e invertida respecto a él."
+        },
+        {
+          "letra": "D",
+          "texto": "forma una imagen virtual, de mayor tamaño que el objeto y derecha respecto a él."
+        },
+        {
+          "letra": "E",
+          "texto": "no forma imagen."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Un actor debe maquillarse para representar su personaje. Para esto necesita ver su imagen\n\nderecha y de mayor tamaño. ¿Qué tipo de espejo debe usar y dónde debe ubicarse?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Espejo convexo, ubicándose a una distancia del espejo igual al doble de su distancia focal."
+        },
+        {
+          "letra": "B",
+          "texto": "Espejo cóncavo o convexo, ubicándose a una distancia del espejo igual a su distancia focal."
+        },
+        {
+          "letra": "C",
+          "texto": "Espejo cóncavo, ubicándose a una distancia del espejo igual a su distancia focal."
+        },
+        {
+          "letra": "D",
+          "texto": "Espejo cóncavo, ubicándose entre el espejo y el foco del espejo."
+        },
+        {
+          "letra": "E",
+          "texto": "Espejo plano, ubicándose cerca del espejo. – 8 –"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Una persona de 60 kg desciende en ascensor, el cual frena con una aceleración de magnitud\n\nm/s2\n\n0,25 \n. Considerando que en ese momento la persona está sobre una pesa y que la\nmagnitud de la aceleración de gravedad es igual a 10 \n, ¿Cuál es la medida que indicará\nla pesa mientras frena el ascensor?\n\nm/s2\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 N"
+        },
+        {
+          "letra": "B",
+          "texto": "60 N"
+        },
+        {
+          "letra": "C",
+          "texto": "150 N"
+        },
+        {
+          "letra": "D",
+          "texto": "585 N"
+        },
+        {
+          "letra": "E",
+          "texto": "615 N"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Mediante una cuerda, un niño arrastra un cajón de madera sobre un piso horizontal plano de\n\ncemento, moviéndolo con aceleración constante. Con esta información, se puede afirmar\ncorrectamente que, mientras acelera, el módulo de la fuerza neta aplicada al cajón\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "es constante distinto de cero."
+        },
+        {
+          "letra": "B",
+          "texto": "es igual al de la fuerza de roce."
+        },
+        {
+          "letra": "C",
+          "texto": "es nulo."
+        },
+        {
+          "letra": "D",
+          "texto": "aumenta uniformemente desde cero hasta alcanzar el módulo de la fuerza de roce."
+        },
+        {
+          "letra": "E",
+          "texto": "aumenta uniformemente desde cero hasta alcanzar el módulo de su peso. – 9 –"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Sobre un bloque actúa una fuerza horizontal \n de magnitud F paralela a la superficie y una\nfuerza de roce de magnitud \n , cuando se encuentra unido a una esfera mediante una\ncuerda, como se representa en la siguiente figura:\n\nF\nF\n​\nR\n\nConsiderando que g corresponde a la magnitud de la aceleración de gravedad y que el peso\nde la esfera es mayor que \n , ¿Cuál de las siguientes expresiones corresponde a la máxima\nmasa que puede tener la esfera para que el bloque esté en reposo?\n\nF\n\nEjercicio tipo DEMRE\n\n​\nF −F\n​\nR\ng",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(F −F ​)g R"
+        },
+        {
+          "letra": "B",
+          "texto": "g"
+        },
+        {
+          "letra": "C",
+          "texto": "​ F + F ​ R ​ g F + F ​ R"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 11,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p11_img0.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Sobre un cuerpo de 3 kg actúan solo dos fuerzas. Si las fuerzas tienen la misma dirección y el\n\nm/s2\n\nmismo sentido, el cuerpo adquiere una aceleración de magnitud 4 \n. Si las fuerzas tienen\nla misma dirección pero sentidos contrarios, el cuerpo adquiere una aceleración de magnitud 2\n\nm/s2\n\n. ¿Cuáles son las magnitudes de estas fuerzas?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 N y 3 N"
+        },
+        {
+          "letra": "B",
+          "texto": "2 N y 4 N"
+        },
+        {
+          "letra": "C",
+          "texto": "3 N y 9 N"
+        },
+        {
+          "letra": "D",
+          "texto": "6 N y 6 N"
+        },
+        {
+          "letra": "E",
+          "texto": "12 N y 6 N – 10 –"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Un estudiante observa que si se dejan caer, desde una misma altura, objetos de igual tamaño\n\ny distinto peso por tubos llenos de agua, llegan primero al fondo los de mayor peso. En\nrelación a esto, el estudiante argumenta que lo observado se explica debido a que la rapidez\nes inversamente proporcional al tiempo empleado y al hecho de que un objeto adquirirá mayor\nrapidez si tiene un peso mayor. Él infiere que si se dejan caer desde una misma altura, en el\naire, dos objetos de igual tamaño y distinto peso, llegará primero al suelo el de mayor peso. Al\nrespecto, se afirma que la inferencia que hace el estudiante es:\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "correcta de acuerdo a su propio marco conceptual."
+        },
+        {
+          "letra": "B",
+          "texto": "incorrecta porque no se conoce la altura de los tubos."
+        },
+        {
+          "letra": "C",
+          "texto": "correcta porque el experimento que se observa lo constata."
+        },
+        {
+          "letra": "D",
+          "texto": "incorrecta porque el experimento en que se basa está mal diseñado."
+        },
+        {
+          "letra": "E",
+          "texto": "correcta porque en el experimento que se propone se trata de un mismo medio."
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Un móvil se mueve con fuerza neta igual a 12 N, experimentando una aceleración de 6 \n\nm/s2\n\n.¿Qué pasa con esta fuerza, si en otro instante de su recorrido el móvil desarrolla una\naceleración de 3\n ?\n\nm/s2\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Disminuye en 6 N."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumenta en 6 N."
+        },
+        {
+          "letra": "C",
+          "texto": "Disminuye en 9 N."
+        },
+        {
+          "letra": "D",
+          "texto": "Aumenta en 9 N."
+        },
+        {
+          "letra": "E",
+          "texto": "Se mantiene en 12 N. – 11 –"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Una persona de 85 kg se para sobre su báscula de baño (B1), cuya masa es de 3 kg, la que a\n\nsu vez descansa sobre otra báscula (B2) de 2 kg, la que se posiciona sobre una superficie\nhorizontal. ¿Cuál es la lectura que entrega cada báscula?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "B1: 85 kg; B2: 83 kg"
+        },
+        {
+          "letra": "B",
+          "texto": "B1: 85 kg; B2: 88 kg"
+        },
+        {
+          "letra": "C",
+          "texto": "B1: 88 kg; B2: 85 kg"
+        },
+        {
+          "letra": "D",
+          "texto": "B1: 87 kg; B2: 83 kg – 12 –"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Se tienen 3 bloques A, B y C que cuelgan del techo de una construcción tal como lo muestra la\n\nfigura.\n\nSi a la masa de A, es la mitad de la masa de B y la masa de B es la mitad de la masa de C, y\nse encuentra conectado por cuerdas que son cuerdas sin masa, ¿Cuál es el valor de la\ntensión de la cuerda entre a y b, si la masa del bloque A es de 6 Kg?\n\n60N",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "180N"
+        },
+        {
+          "letra": "B",
+          "texto": "300N"
+        },
+        {
+          "letra": "C",
+          "texto": "360N"
+        },
+        {
+          "letra": "D",
+          "texto": "– 13 –"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p14_img0.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Un grupo de estudiantes piensa que los resortes ejercen mayor fuerza mientras más estirados\n\nse encuentren. Para verificarlo, planifican colgar de diferentes resortes el mismo objeto de\nmasa m conocida, como se representa en la figura, y luego medir la longitud del resorte antes\ny después de colgar el objeto, con una regla graduada en milímetros. \n\nLos estudiantes muestran la planificación a un profesor, quien les señala que no es adecuada\npara la verificación que desean realizar. Al respecto, ¿cuál de los siguientes aspectos de su\nplanificación deben cambiar los estudiantes para que al realizar la actividad se logre\nadecuadamente el objetivo?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Las variables del procedimiento: de un mismo resorte colgar objetos de masa distinta y medir cuánto varía su longitud."
+        },
+        {
+          "letra": "B",
+          "texto": "Los instrumentos de medida: utilizar una regla graduada en una unidad de medida diferente para medir el estiramiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Los instrumentos de medida: utilizar un instrumento que les permita medir la fuerza que ejercen los resortes en cada caso."
+        },
+        {
+          "letra": "D",
+          "texto": "Las variables del procedimiento: colgar en cada uno de los diferentes resortes el mismo objeto de masa m y medir la longitud final. – 14 –"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p15_img0.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. En un experimento se deja deslizar libremente un bloque por un plano inclinado, continuando\n\npor un plano horizontal hasta que se detiene. Un primer estudiante escribe en su cuaderno\nque, dado que el bloque se detiene, entonces existe una fuerza de roce entre las superficies\nen contacto, mientras que un segundo estudiante anota en su cuaderno que si la superficie de\nalguno de los planos fuese más áspera, el bloque se detendría antes. Entre las siguientes\nopciones, ¿qué podrían representar las anotaciones de estos dos estudiantes?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Una conclusión y una inferencia, respectivamente"
+        },
+        {
+          "letra": "B",
+          "texto": "Una teoría y una conclusión, respectivamente"
+        },
+        {
+          "letra": "C",
+          "texto": "Una inferencia y una teoría, respectivamente"
+        },
+        {
+          "letra": "D",
+          "texto": "Una conclusión y una ley, respectivamente"
+        },
+        {
+          "letra": "E",
+          "texto": "Una ley y una inferencia, respectivamente"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p16_img0.jpg"
+      ]
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. El ladrillo de peso \n del esquema, desliza hacia abajo en contacto con una pared vertical\n\nP\n\nF\nμ\n\nmientras se le aplica una fuerza \n perpendicular a la pared. El coeficiente de roce dinámico\nentre la pared y el ladrillo es \n\nF\n\n¿Cuál es la magnitud de la fuerza \n  si el ladrillo se mueve con rapidez constante?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cero ​μ P"
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": "P μP"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": "2P – 15 –"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p16_img0.jpg"
+      ]
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Cada una de las siguientes opciones representa a un bloque de masa M en reposo, en\n\ncontacto con una superficie rugosa con coeficiente de roce estático menor que 1. La magnitud\nde la fuerza normal sobre el bloque es mayor que la magnitud de su peso en\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": "– 16 –"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. En un océano que no presenta fosas oceánicas, pero que sí tiene una dorsal oceánica que\n\npasa por su centro, existen dos islas que se ubican en sus costas opuestas. Al respecto, ¿cuál\nde las siguientes opciones es una predicción consistente con lo planteado por la Teoría de\nTectónica de Placas? \n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ambas islas se debiesen estar alejando entre sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Nuevas islas debiesen surgir en el océano."
+        },
+        {
+          "letra": "C",
+          "texto": "Debiese existir una gran sismicidad en ambas islas."
+        },
+        {
+          "letra": "D",
+          "texto": "Ambas islas debiesen mantenerse en la misma posición."
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. En el siguiente esquema, utilizado por un profesor para explicar que, P y Q representan dos\n\nplacas tectónicas y 1, 2, 3, 4 y 5 representan estaciones de monitoreo que registran\nmovimientos muy pequeños de cada placa tectónica: \n\nConsiderando este esquema, ¿cuál de los siguientes procedimientos es el que mejor se\nenfoca en determinar si entre las placas tectónicas P y Q hay un límite convergente? \n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Registrar la distancia entre las estaciones de monitoreo 4 y 3 por una década."
+        },
+        {
+          "letra": "B",
+          "texto": "Registrar la distancia entre las estaciones de monitoreo 5 y 4 cada un minuto durante 24 horas."
+        },
+        {
+          "letra": "C",
+          "texto": "Registrar la distancia entre las estaciones de monitoreo 1 y 2 por una década."
+        },
+        {
+          "letra": "D",
+          "texto": "Registrar la distancia entre las estaciones de monitoreo 3 y 5 cada un minuto durante 24 horas. – 17 –"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p18_img0.jpg"
+      ]
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Una persona revisa diversas fuentes bibliográficas, deteniendo su atención en la siguiente\n\nrelación entre la magnitud física M de una placa tectónica en función del tiempo t: \n\nA partir de la información anterior, la persona afirma que a medida que transcurre el tiempo la\nmagnitud física M disminuye. ¿A qué componente de la investigación científica corresponde lo\nafirmado por la persona? \n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A una ley"
+        },
+        {
+          "letra": "B",
+          "texto": "A una teoría"
+        },
+        {
+          "letra": "C",
+          "texto": "A una variable"
+        },
+        {
+          "letra": "D",
+          "texto": "A una inferencia – 18 –"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. Cada punto en el siguiente gráfico representa una gran erupción volcánica ocurrida una cierta\n\ncantidad de tiempo, en años, después de un terremoto a una cierta distancia de su epicentro. \n\nSolo usando este gráfico, ¿cuál de las siguientes opciones es una mejor interpretación del\npatrón de ocurrencias de erupciones volcánicas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Las erupciones volcánicas son independientes de la ocurrencia de terremotos."
+        },
+        {
+          "letra": "B",
+          "texto": "La cantidad de erupciones volcánicas es directamente proporcional al tiempo en que estas son generadas desde que ocurrió el terremoto."
+        },
+        {
+          "letra": "C",
+          "texto": "El tiempo de una erupción, medido desde el terremoto, aumenta con la distancia al epicentro de este."
+        },
+        {
+          "letra": "D",
+          "texto": "Un gran terremoto puede inducir erupciones volcánicas hasta 500 km a la redonda en un corto período de tiempo desde que ocurrió el terremoto."
+        }
+      ],
+      "pagina": 20,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p20_img0.jpg"
+      ]
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. Un grupo de geólogas monitorea la sismicidad de un volcán ante la sospecha de que su\n\nactividad ha aumentado. Para ello, primeramente, realizan un estudio geográfico del sector\ndonde se emplaza el volcán con el fin de instalar sensores sismográficos. Con los sensores ya\ninstalados y en funcionamiento comienza un periodo de mediciones que son procesadas y\nanalizadas. “Finalmente, a partir de los resultados obtenidos, el grupo de geólogas reporta que\nla sismicidad está dentro de los parámetros normales”. Al respecto, ¿a qué componente de la\ninvestigación científica se asocia la frase entre comillas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Al planteamiento del problema."
+        },
+        {
+          "letra": "B",
+          "texto": "A la formulación de la hipótesis."
+        },
+        {
+          "letra": "C",
+          "texto": "A la presentación de una conclusión."
+        },
+        {
+          "letra": "D",
+          "texto": "A la recolección de los datos experimentales. – 19 –"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p20_img0.jpg"
+      ]
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. Una investigadora y su ayudante indagan acerca de fenómenos geológicos en una zona de su\n\npaís. Para esto, confeccionan dos mapas, uno de los volcanes activos y otro con los\nepicentros de sismos sobre 4,0 en magnitud que han ocurrido en el último año en esa zona.\nLos mapas de la investigadora y su ayudante se presentan a continuación: \n\nDe acuerdo con la teoría de tectónica de placas y la información obtenida, ¿cuál es una\ninferencia apropiada al análisis de ambos mapas?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La zona estudiada se encuentra cerca del centro de una de las placas tectónicas principales."
+        },
+        {
+          "letra": "B",
+          "texto": "La zona estudiada se encuentra cerca de un límite transformante de placas tectónicas."
+        },
+        {
+          "letra": "C",
+          "texto": "La zona estudiada se encuentra cerca de un límite convergente de placas tectónicas."
+        },
+        {
+          "letra": "D",
+          "texto": "La zona estudiada se encuentra cerca de un límite divergente de placas tectónicas."
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. Un grupo de investigación utiliza sensores GPS fijos para determinar la posición geográfica de\n\ndos islas que están en lados opuestos de una dorsal oceánica y registra estos datos durante\nvarios años. Al respecto, ¿cuál de las siguientes opciones es una pregunta de investigación\nacorde con el procedimiento descrito? \n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "¿Cuál de las islas presentará actividad volcánica en el futuro cercano?"
+        },
+        {
+          "letra": "B",
+          "texto": "¿Cuál es la magnitud de los sismos que se generan en esta zona?"
+        },
+        {
+          "letra": "C",
+          "texto": "¿Cuál de las islas está más cerca del límite de las placas?"
+        },
+        {
+          "letra": "D",
+          "texto": "¿Cuál es la rapidez de separación de las placas? – 20 –"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. Una científica se encuentra estudiando los climas de la Tierra en distintos periodos geológicos\n\ny para ello decide investigar los cambios en el clima de la Antártica. En una salida a terreno\nrecolecta evidencias de la presencia de fósiles de plantas de clima cálido de la Era Mesozoica.\n¿Cuál de las siguientes opciones es una explicación correcta para la presencia de estos\nfósiles? \n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El ser humano ha generado un cambio climático extremo, al punto de congelar terrenos que hace millones de años eran de clima cálido."
+        },
+        {
+          "letra": "B",
+          "texto": "Los terrenos que ahora se encuentran a la latitud de la Antártica, hace millones de años se encontraban a latitudes de clima cálido."
+        },
+        {
+          "letra": "C",
+          "texto": "Los dinosaurios vivieron en un clima cálido, y probablemente se extinguieron debido al congelamiento de sus terrenos."
+        },
+        {
+          "letra": "D",
+          "texto": "Las plantas de la Antártica han evolucionado con el cambio climático, pues hace millones de años eran aptas a climas cálidos."
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. Se ha descrito que en un cierto país existe una alta actividad sísmica en comparación con\n\notros países. Según los antecedentes, este país presenta una gran cantidad de volcanes y se\nencuentra cercano al límite de dos placas tectónicas que convergen, produciéndose el\nhundimiento de una debajo de la otra. En base a lo anterior, ¿cuál de las siguientes opciones\nrepresenta una inferencia pertinente a la información presentada? \n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La alta actividad sísmica en el país ocurre por la presencia de muchos volcanes."
+        },
+        {
+          "letra": "B",
+          "texto": "La alta actividad sísmica en el país ocurre por un deslizamiento paralelo de una placa sobre la otra."
+        },
+        {
+          "letra": "C",
+          "texto": "La alta actividad sísmica en el país ocurre por una separación de las placas tectónicas."
+        },
+        {
+          "letra": "D",
+          "texto": "La alta actividad sísmica en el país ocurre por los efectos de la subducción de las placas."
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. ¿Qué caracteriza a una zona de convergencia entre placas continentales?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La generación de fosas oceánicas en bordes continentales."
+        },
+        {
+          "letra": "B",
+          "texto": "La presencia de cordones montañosos."
+        },
+        {
+          "letra": "C",
+          "texto": "La generación de fallas transformantes."
+        },
+        {
+          "letra": "D",
+          "texto": "La presencia de vulcanismo activo."
+        },
+        {
+          "letra": "E",
+          "texto": "La nula sismicidad en la zona. – 21 –"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. El cinturón de fuego del Pacífico recibe su nombre por la presencia casi continua alrededor del\n\nOcéano Pacífico de volcanes, cuyo origen es principalmente asociado al proceso de\nsubducción, concentrando la mayor parte de la sismicidad a nivel mundial. Por ello, el casi\nnulo volcanismo y la escasa sismicidad alrededor del Océano Atlántico son indicativos de la\nausencia de subducción. No obstante, existe una serie de zonas en el mundo que presentan\nvolcanismo y sismicidad sin estar relacionados al proceso de subducción. En relación con lo\nanterior, ¿cuál de las siguientes opciones es una inferencia correcta con la información\nentregada?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La interacción convergente de placas suele producir volcanismo y sismicidad."
+        },
+        {
+          "letra": "B",
+          "texto": "El volcanismo y la sismicidad están siempre asociados con el proceso de subducción."
+        },
+        {
+          "letra": "C",
+          "texto": "El volcanismo en zonas de subducción solo se produce en zonas continentales."
+        },
+        {
+          "letra": "D",
+          "texto": "La interacción divergente de placas es la responsable del volcanismo y la sismicidad en el cinturón de fuego del Pacífico."
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. \"La tectónica de placas es una teoría geológica que explica los desplazamientos de secciones\n\nde la litosfera sobre la astenosfera terrestre, sus direcciones e interacciones. Explica también\nla formación de las cadenas montañosas y por qué los terremotos y los volcanes se\nconcentran en ciertas regiones geográficas. Además explica por qué las grandes fosas\nsubmarinas están junto a islas y continentes y no en el centro del océano\". Basados\nsolamente en el texto es correcto concluir que la tectónica de placas afirma que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "la dinámica de las placas tectónicas ha modificado los continentes desde la formación de la Tierra."
+        },
+        {
+          "letra": "B",
+          "texto": "la dinámica de las placas tectónicas indica que en un futuro todos los continentes estarán juntos."
+        },
+        {
+          "letra": "C",
+          "texto": "los continentes estuvieron juntos en un gran continente llamado Pangea."
+        },
+        {
+          "letra": "D",
+          "texto": "todos los terremotos solamente son producidos por la dinámica de las placas tectónicas."
+        },
+        {
+          "letra": "E",
+          "texto": "la formación de volcanes ocurre solamente cuando existe movimiento de placas tectónicas. – 22 –"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. Un foco industrial tiene un desperfecto en su resistencia eléctrica, por lo cual debe ser\n\n220 V\n4 A\n\nreemplazada. Si en la etiqueta del foco aparecen sus características, las cuales son \n y\n, ¿qué valor tiene la resistencia eléctrica a reemplazar? \n\nEjercicio tipo DEMRE\n\n4,0 Ω",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "13,7 Ω"
+        },
+        {
+          "letra": "B",
+          "texto": "55 Ω"
+        },
+        {
+          "letra": "C",
+          "texto": "220,0 Ω"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. Un circuito eléctrico está formado por una fuente de poder y dos resistencias en serie de \n\n10 Ω\n40 Ω\n40 Ω\n0,1 A\n\ny \n. Si por la resistencia de \n se registra una intensidad de corriente de \n, ¿cuál\nes el voltaje que entrega la fuente?\n\nEjercicio tipo DEMRE\n\n1,0 V",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,5 V"
+        },
+        {
+          "letra": "B",
+          "texto": "4,0 V"
+        },
+        {
+          "letra": "C",
+          "texto": "5,0 V"
+        },
+        {
+          "letra": "D",
+          "texto": "10,0 V"
+        },
+        {
+          "letra": "E",
+          "texto": "– 23 –"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. Un estudiante construye un circuito eléctrico utilizando una pila, un amperímetro, una\n\nampolleta y un interruptor conectados en serie. A continuación, cierra el circuito usando el\ninterruptor y comienza a registrar, cada cinco minutos durante media hora, el valor de la\nintensidad de corriente medida por el amperímetro.\n\nA partir del procedimiento realizado por el estudiante, ¿cuál de las siguientes preguntas de\ninvestigación guio el procedimiento descrito?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "¿Qué relación existe entre la diferencia de potencial de la pila y la intensidad de corriente del circuito?"
+        },
+        {
+          "letra": "B",
+          "texto": "¿Qué relación existe entre la diferencia de potencial de la pila y el tiempo de funcionamiento del circuito?"
+        },
+        {
+          "letra": "C",
+          "texto": "¿Cómo se relaciona el funcionamiento del interruptor con la intensidad de corriente del circuito?"
+        },
+        {
+          "letra": "D",
+          "texto": "¿Cómo se relaciona la intensidad de corriente con el tiempo de funcionamiento del circuito?"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. Si un grupo de personas construye un circuito conectando dos resistencias en paralelo a una\n\nbatería, ¿cuál de las siguientes opciones es coherente con la ley de Ohm y la configuración\ndel circuito, al comparar la diferencia de potencial y la intensidad de corriente eléctrica en cada\nresistencia con la suministrada por la batería? \n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": "– 24 –"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p25_img0.jpg"
+      ]
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. La Ley de Ohm permite determinar la intensidad de corriente que se establece en un circuito a\n\npartir del voltaje y de la forma en que están conectadas las resistencias. Si bien en el\nmomento en que se propuso, aún no existía la corriente alterna, al día de hoy se puede\nestablecer una analogía entre circuitos de corriente continua y la conexión domiciliaria. ¿Cuál\nde las siguientes opciones describe de mejor forma al análogo del circuito hogareño en el cual\nestán enchufados un televisor, una estufa y una ampolleta?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Un circuito en serie con resistencias distintas"
+        },
+        {
+          "letra": "B",
+          "texto": "Un circuito en paralelo con tres resistencias idénticas"
+        },
+        {
+          "letra": "C",
+          "texto": "Un circuito en paralelo con tres resistencias de distinto valor"
+        },
+        {
+          "letra": "D",
+          "texto": "Un circuito simple, con una resistencia equivalente a la de los tres artefactos"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. Se tienen las resistencias \n, \n y \n conectadas como se\nrepresenta en el esquema.\n\n​ =\n1\n30 Ω R\n\n​ =\n2\n30 Ω\nR\n\n​ =\n3\n60 Ω\n\nR\n\n12 V\nA\n\nSi el circuito está conectado a una diferencia de potencial de \n, la corriente eléctrica que\nse registra en el amperímetro \n es\n\nEjercicio tipo DEMRE\n\n0,60 A",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,53 A"
+        },
+        {
+          "letra": "B",
+          "texto": "0,40 A"
+        },
+        {
+          "letra": "C",
+          "texto": "0,24 A"
+        },
+        {
+          "letra": "D",
+          "texto": "0,10 A"
+        },
+        {
+          "letra": "E",
+          "texto": "– 25 –"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p26_img0.jpg"
+      ]
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. Una estudiante propone que la corriente eléctrica que fluye a través de una resistencia tiene\n\nuna intensidad que depende del valor de la resistencia y del voltaje al que esta se encuentra\nsometida. Sus compañeros de curso disponen de distintas resistencias, cuyos valores son\ntodos diferentes entre sí. Si desean determinar experimentalmente de qué manera la\nintensidad de la corriente eléctrica depende del voltaje, ¿cuál de las siguientes opciones es un\nprocedimiento experimental adecuado para lograr su objetivo?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Medir la intensidad de corriente eléctrica de distintas resistencias sometidas a igual voltaje."
+        },
+        {
+          "letra": "B",
+          "texto": "Medir el voltaje de una misma resistencia con distintas intensidades de corriente eléctrica."
+        },
+        {
+          "letra": "C",
+          "texto": "Medir la intensidad de corriente eléctrica de una misma resistencia sometida a distintos voltajes."
+        },
+        {
+          "letra": "D",
+          "texto": "Medir el voltaje de distintas resistencias con una misma intensidad de corriente eléctrica. – 26 –"
+        }
+      ],
+      "pagina": 27,
+      "imagenes": []
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. Una persona realiza pruebas de potencia a unas ampolletas. Para ello, construye un circuito\n\nsimple, conectando una ampolleta a una batería. Luego, en un tiempo t1, conecta una\nsegunda ampolleta en serie al circuito, manteniendo siempre la misma batería. ¿Cuál de las\nsiguientes opciones representa correctamente la potencia eléctrica \n, que desarrolla la batería\nen función del tiempo?\n\nP\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": "– 27 –"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. Una persona realiza mediciones en un circuito domiciliario y constata que una parte de él se\n\nencuentra a una temperatura mayor que la del ambiente. Al respecto, ¿cuál de las siguientes\nafirmaciones acerca de la energía eléctrica del circuito es correcta?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Se conserva cuando los artefactos están conectados en serie."
+        },
+        {
+          "letra": "B",
+          "texto": "Se puede estar disipando exclusivamente en ondas sonoras."
+        },
+        {
+          "letra": "C",
+          "texto": "Se puede estar disipando en los alambres de conexión."
+        },
+        {
+          "letra": "D",
+          "texto": "Se transforma exclusivamente en energía mecánica."
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. Una persona está en un local comercial y pretende comprar un refrigerador cuyo uso implique\n\nel menor gasto económico posible. La persona compara el etiquetado de distintos\nrefrigeradores, uno de los cuales se representa en la siguiente imagen:\n\nEn relación con lo anterior, ¿qué información de la etiqueta debe considerar la persona para\ntomar su decisión?\n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El consumo mensual del refrigerador"
+        },
+        {
+          "letra": "B",
+          "texto": "El voltaje que se debe suministrar al refrigerador"
+        },
+        {
+          "letra": "C",
+          "texto": "La temperatura del compartimiento congelado del refrigerador"
+        },
+        {
+          "letra": "D",
+          "texto": "El volumen útil total de ambos compartimientos del refrigerador – 28 –"
+        }
+      ],
+      "pagina": 29,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p29_img0.jpg"
+      ]
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. Se tiene el siguiente circuito:\n\nR\n5 W\n\nConsiderando los parámetros indicados, ¿cuál es el valor de la resistencia \n que produce en\nel circuito una energía disipada por unidad de tiempo de \n?\n\n10 Ω",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 Ω"
+        },
+        {
+          "letra": "B",
+          "texto": "30 Ω"
+        },
+        {
+          "letra": "C",
+          "texto": "40 Ω"
+        },
+        {
+          "letra": "D",
+          "texto": "– 29 –"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. Una persona construye cuatro circuitos eléctricos, cada uno de ellos con tres ampolletas de\n\nigual resistencia conectadas a una batería de voltaje constante, tal como se indica en las\nfiguras. ¿Cuál de los circuitos construidos posee la mayor potencia disipada? \n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": "– 30 –"
+        }
+      ],
+      "pagina": 31,
+      "imagenes": [
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p31_img3.jpg",
+        "🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile _p31_img1.jpg"
+      ]
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. Algunos de los artefactos tecnológicos que se conectan al sistema eléctrico domiciliario\n\nrequieren de un voltaje menor al que este proporciona, por lo que generalmente se utilizan con\nun dispositivo externo que adecua la intensidad de corriente que circula por estos. ¿Cuál de\nlos siguientes aparatos cumple la función del dispositivo externo mencionado anteriormente? \n\nEjercicio tipo DEMRE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El medidor eléctrico."
+        },
+        {
+          "letra": "B",
+          "texto": "Los cables de corriente."
+        },
+        {
+          "letra": "C",
+          "texto": "El interruptor automático."
+        },
+        {
+          "letra": "D",
+          "texto": "El transformador eléctrico. – 31 –"
+        }
+      ],
+      "pagina": 32,
+      "imagenes": []
+    }
+  ]
+}

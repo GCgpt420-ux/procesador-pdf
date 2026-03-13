@@ -1,0 +1,78 @@
+{
+  "filename": "TAM 17.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TAM 17.pdf",
+  "num_paginas": 4,
+  "titulo": "46",
+  "autor": "usuario",
+  "fecha_procesamiento": "2026-03-07T16:02:25.763795",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nMATEMÁTICAS \nTALLER AVANZADO Nº 17 \n\n \n \n \n \n \n \n \n \n \n \n \n \n1. \nSi m(n + p) = -np  y  m + n + p = 2, entonces el valor de m2 + n2 + p2 es igual a \n \n \n\nTAM-17 \n\nA) 2 \nB) 3 \nC) 4 \nD) 2\n2  \n \n \n \n \n \n2. \nLa suma, la diferencia y el producto de dos números, están respectivamente en la \nrazón 5 : 3 : 16. ¿A cuánto es igual la suma de estos números? \n \n \n\nA) 12 \nB) 15 \nC) 20 \nD) 30 \n \n \n \n \n \n \n3. \nUna recta L determina en el primer cuadrante del plano cartesiano un triángulo \nisósceles cuyos vértices son el origen y los puntos de intersección de la recta con los \nejes x e y. Si el área de este triángulo es 18, ¿cuál es la ecuación de la recta L? \n \n\nA) x – y = 4 \nB) x + y = 2 \nC) x + y = 4 \nD) x + y = 6 \n\n \n \n \n \n \n \n \n",
+      "cantidad_caracteres": 729,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 98.0693359375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.3701171875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "4. \nCarlitos tiene un vaso lleno de leche, bebe la cuarta parte y enseguida bebe la tercera \nparte de lo que queda. ¿Qué fracción de lo que queda debe beber Carlitos para que aún \nsobre las tres octavas partes del vaso? \n \n\nA) 5\n\n8  \n\nB) 1\n\n8  \n\nC) 1\n\n4   \n\nD) 3\n\n4  \n\n \n \n \n \n5. \nEn el rectángulo ABCD de la figura adjunta, AE   BE , AD = 3 y DE = 1. ¿Cuál es el \nárea del triángulo BCE? \n \n\nA) 57\n\n2  \n\nD \nC \nE \n\nB) \n47\n\n2  \n\n \n\nC) 37\n\n2  \n\nD) 27\n\n2  \n\nA \nB \n\n \n \n \n6. \nEl mayor entero  E que satisface la desigualdad 2E < 2x2 – 4x + 1, para todo valor de x \nes \n \n\nA)  2 \nB)  1 \nC)  0 \nD) -1 \n \n \n \n7. \nEn la figura adjunta, se tiene que ABCD es un cuadrado, AE = 17 y BF = 12. El \nperímetro del cuadrado es  \n \n \n\nE \nC \nF \n\nA) 44 \nB) 48 \nC) 52 \nD) 56 \n\n \n\nD \n\nB \n\n \n \n \n \n\nA \n\n2 \n \n",
+      "cantidad_caracteres": 787,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \n8. \nEn la figura adjunta, el arco AB es una semicircunferencia de centro O y radio 18. Si  \nAC = 11, entonces el radio del círculo pequeño mide \n \n \n\nA) 5 \nB) 4 \n\n \n\nC) 11\n\n2  \n\nD) 3 10  \n \n \n \n \n \n\nA \nC \nO \nB \n\n9. \nSi 32\n\na  = a\n\nb  = b\n\n4  = 4\n\nc , entonces ¿cuál es el valor de (b + c)? \n\n \n \n\nA)   8 \nB) 10 \nC) 14 \nD) 20 \n\n \n \n \n \n10. El cuadrilátero ABCD es un paralelogramo de 120 mm2. Si M y N son puntos medios de \n\nAD  y DC , ¿cuál es el área del triángulo achurado? (fig. adjunta) \n \n\nD \nC \nN \n\nA) 20 mm2 \nB) 22,5 mm2 \nC) 25 mm2 \nD) 27,5 mm2 \n \n \n \n \n \n \n11. Dadas las ecuaciones cuadráticas: 10x2 – 11x + 3 = 0  y 6x2 – 7x + c = 0, ¿cuál debe \n\nM \n\n \n\nA \nB \n\nser el valor de c para que la menor de las raíces de la primera ecuación sea también \nraíz de la segunda? \n \n\nA)  4 \nB)  2 \nC)  1 \nD) -3 \n \n \n \n\n3 \n \n",
+      "cantidad_caracteres": 822,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "12. En el siguiente gráfico (fig. adjunta), PR = 5 y las coordenadas de P y Q son (1,2) y \n\n(4,2), respectivamente. ¿Cuánto suman las coordenadas de R? \n \n\ny \nR \n\nA) \n  6 \nB) \n  8 \nC)   9 \nD) 10 \n \n \n \n \n13. Faltando 54 días para terminar una obra, fueron despedidos 10 trabajadores. Faltando \n\n \n\nP \nQ \n\nx \n\n12 días se contrata a T trabajadores para cumplir con el plazo estipulado. Si T es un \nnúmero de dos cifras, ¿cuánto suman éstas? \n \n\nA) \n  6 \nB) \n  7 \nC)   8 \nD)   9 \n\n \n \n \n \n14. Los triángulos ABC y DEF son equiláteros (fig. adjunta). Si AG = GB  y  = 40°, \n\nentonces  = \n \n \n\nC \n\nA) 50° \nB) 40° \nC) 55° \nD) 30° \n\n \n\nF \n\n \n\n \n \n \n \n \n \n15. En un examen de 30 preguntas, por cada respuesta correcta se otorgan 4 puntos y por \n\nE \n\n \n\nA \nD \nG \nB \n\ncada incorrecta, se quita un punto. González contestó todas las preguntas y obtuvo  \n80 puntos.  ¿En cuántas se equivocó González? \n \n \n\nA) \n  6 \nB) \n  7 \nC)   8 \nD)   9 \n \n \n \n \n \n \n\nTAM-17 \n\n4 \n \n",
+      "cantidad_caracteres": 960,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

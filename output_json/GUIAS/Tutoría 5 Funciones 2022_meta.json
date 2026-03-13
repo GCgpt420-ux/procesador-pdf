@@ -1,0 +1,750 @@
+{
+  "filename": "Tutoría 5 Funciones 2022.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Tutoría 5 Funciones 2022.pdf",
+  "num_paginas": 60,
+  "titulo": "",
+  "autor": "Rosa Martínez",
+  "fecha_procesamiento": "2026-03-07T16:01:01.183735",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nTUTORÍA N°5 \n\n \nFUNCIONES \n\n \n2022 \n\n \n \n \n \n \n \n \n \n \n\n \n",
+      "cantidad_caracteres": 101,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "INSTRUCCIONES GENERALES \n\n \nEl material presentado a continuación incluye una serie de ejercicios \nrelacionados con el eje temático de Funciones, y que han sido diseñados según las pautas \ndadas por DEMRE para la Prueba de Acceso a la Educación Superior, tanto para la prueba \nobligatoria (PAES1) como para la prueba electiva (PAES2). \n\n \nDado lo anterior, las preguntas que corresponden a PAES2 serán \nindicadas expresamente con esta misma sigla en negrita, entre paréntesis, colocada al inicio \ndel texto de la pregunta, de modo que, si solo vas a rendir la prueba obligatoria, puedes no \nhacer estos ejercicios. \n \n \n\nINSTRUCCIONES ESPECÍFICAS \n \n\nPara el desarrollo de este material tenga presente: \n\n \n1. \nLa siguiente tabla contiene una serie de símbolos, los que puede consultar durante el \ndesarrollo de los ejercicios. \n\n \n \n es menor que \n  es congruente con \n \n \n es mayor que \n  es semejante con \n \n \n es menor o igual a \n  es perpendicular a \n    \n \n es mayor o igual a \n  es distinto de",
+      "cantidad_caracteres": 1672,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "4. \nEn las preguntas de suficiencia de datos no se pide que dé la solución al problema, \nsino que decida si los datos proporcionados en el enunciado del problema más los \nindicados en las afirmaciones (1) y (2) son suficientes para llegar a esa solución. \n\n \n\nConsiderando lo anterior, usted deberá marcar la letra: \n \n\nA) (1) por sí sola, si la afirmación (1) por sí sola es suficiente para responder a la \n\npregunta, pero la afirmación (2) por sí sola no lo es. \nB) (2) por sí sola, si la afirmación (2) por sí sola es suficiente para responder a la \n\npregunta, pero la afirmación (1) por sí sola no lo es. \nC) Ambas juntas, (1) y (2), si ambas afirmaciones (1) y (2) juntas son suficientes \n\npara responder a la pregunta, pero ninguna de las afirmaciones por sí sola es \nsuficiente. \nD) Cada una por sí sola, (1) ó (2), si cada una por sí sola es suficiente para \n\nresponder a la pregunta. \nE) Se requiere información adicional, si ambas afirmaciones juntas son \n\ninsuficientes para responder a la",
+      "cantidad_caracteres": 1094,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "1. \nDados los puntos P(10,-1); Q(-5, k)  y  R(0,-3), entonces el valor de k para que ellos \nsean colineales es \n \n\nA) -4     \nB) -3 \nC) -2 \nD)   2 \n \n \n \n \n \n \n2. \nSi el punto Q(5, k + 3) pertenece a la recta 2y + 3x = 8, entonces ¿cuál es el valor de \nk? \n \n\nA) - 13\n\n2       \n\nB)  - 2\n\n3   \n\nC)  - 7\n\n2   \n\nD)  13\n\n2  \n\n \n \n \n \n \n \n3. \nUna recta de pendiente 0,75 intersecta perpendicularmente a la recta L en el punto  \n(7,-2). ¿Cuál es la ecuación de la recta L? \n \n \n\nA) y = - 3\n\n4 x – 9 \n\nB) y = 4\n22\n-\nx + \n3\n3       \n\nC) y = 3\n29\n-\nx + \n4\n4  \n\nD) y = 4\n22\n-\nx  \n3\n3\n\n \n\n \n \n \n \n \n \n \n \n \n\n4 \n \n",
+      "cantidad_caracteres": 603,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "4. \nDada la ecuación de la recta 8x – 2y = 12, ¿cuál(es) de las siguientes afirmaciones   \nes (son) verdadera(s)? \n\n \n\nI) \nLa gráfica de la recta se intersecta con la recta y = 14 en el punto (5,14). \nII) \nLa pendiente de la recta es -4. \n\nIII) \nLa gráfica de la recta intersecta al eje x en el punto en el  punto 3,0\n2\n\n\n\n\n\n\n\n. \n\n \n\nA) Solo I \nB) Solo II \nC) Solo I y III     \nD) Solo II y III \n\n \n \n \n5. \nDado el gráfico de la figura adjunta, ¿cuál(es) de las siguientes proposiciones es (son) \nverdadera(s)? \n \n \n\nI) \nLa ecuación de la recta es 3x + 2y = 24. \n\nII) \nLa pendiente de la recta es - 2\n\n3 . \n\ny \n\nIII) \nEl punto (-4, 6) pertenece a la recta. \n \n \n\n6 \n \n\nA) Solo II \nB) Solo III \nC) Solo II y III \nD) Ninguna de ellas.     \n\n3 \n\nx \n\n \n \n \n6. \nLa ecuación de la recta perpendicular a la recta y = x, que intersecta al eje de las \nabscisas en x = 5 es \n \n\n3 \n6 \n\nA) y =   x + 5 \nB) y =   x – 5  \nC) y = –x + 5      \nD) y = –x – 5 \n\n \n \n \n7. \nLa ecuación de la recta L de la figura a",
+      "cantidad_caracteres": 1128,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "8. \nLa recta de ecuación 3x – 2y – 7 = 0  se intersecta en el punto (1,-2) con la recta de \necuación \n\n \nA) x + y + 3 = 0 \nB) 2x + 3y + 4 = 0     \nC) x – 2y + 5 = 0 \nD) 2x + 3y – 7 = 0 \n\n \n \n \n \n \n \n9. \nDadas las rectas L1 : 3x – ay + 5 = 0  y  L2 : 6x + 8y – b = 0. Si L1 y L2 son \ncoincidentes, entonces a + b =  \n \n\nA) -14     \nB)    6 \nC)   -6 \nD)  14 \n \n \n \n \n \n10. La recta de ecuación y = mx – 1 no pasa por el segundo cuadrante, si y solo si,  \n \n\nA) m ≠ 0 \nB) m  0 \nC) m  0      \nD) m < -1 \n\n \n \n \n \n \n\n11. ¿Cuál de las siguientes rectas no se intersecta con la recta  y = - 1\n\n4 x + \n3 ? \n\n \n\nA) y = 1\n\n4 x – \n3  \n\nB) y = -4x + \n3  \n\nC) y = - 1\n\n4 x – \n3      \n\nD) y = 4x – \n3  \n \n \n \n \n \n \n\n6 \n \n",
+      "cantidad_caracteres": 709,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "12. La recta de ecuación 2\n\n3 x – 3\n\n4 y = 4\n\n5 , intersecta al eje y en el punto de ordenada \n\n \n\nA) - 16\n\n15      \n\nB) - 4\n\n3  \n\nC) - 3\n\n4  \n\nD) 16\n\n15  \n\n \n \n \n13. Si el punto P(c, c – 1) es el punto de intersección de las rectas L: 2x – y = 3 y de la \n\nrecta L1. Si L1 es perpendicular a la recta L, entonces la ecuación de la recta L1  es \n \n\nA)   x + 2y – 3 = 0 \nB) 2x – y – 3  = 0 \nC)   x + 2y – 4 = 0      \nD)   x + 2y – 5 = 0 \n\n \n \n \n\n14. La ecuación de la simetral del segmento que une los puntos A\n3\n-3,2\n\n\n\n\n\n\n\n   y  B\n-5\n7, 2\n\n\n\n\n\n\n\n  es \n\n \n\nA) 5x + 2y + 11 = 0 \nB) 5x + 2y – 11 = 0 \nC) 5x – 2y – 11 = 0     \nD) 4x + 10y – 3 = 0 \n \n \n \n\n \n15. La recta y + 2x = b es perpendicular a otra recta que pasa por el origen. Si las dos \n\nrectas se intersectan en el punto (k + 2, 2k), entonces ¿cuál es el valor de k? \n \n\nA) - 3\n\n2  \n\nB) - 2\n\n3  \n\nC)  2\n\n5  \n\nD)  2\n\n3      \n\n \n \n \n\n7 \n \n",
+      "cantidad_caracteres": 906,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "16. Por los puntos P(0,0)  y  Q(a,b), con a y b distintos de cero, pasa una recta L \n\nperpendicular a la recta L1 : 2x + 7y – 9 = 0, entonces el valor de 2a\n\n3b  es \n\n \n\nA) \n-4\n21   \n\nB) \n4\n15   \n\nC) \n4\n21     \n\nD) \n8\n15   \n\n \n \n \n \n17. Si el punto A corresponde a la intersección de las rectas L1: 2x – 3y – 7 = 0 y            \n\nL2: 3x + 2y – 4 = 0 y el punto B es la intersección de la recta L2 con el eje de las \nordenadas. ¿Cuál es la medida de AB ? \n \n\nA) \n5   \n\nB) \n13      \nC)  13 \nD) \n18   \n\n \n \n18. (PAES2) En el gráfico de la figura adjunta, se puede determinar la pendiente de la recta \n\nL1, si se sabe que: \n \n\n(1) L1  L2 \n\ny \n\nL2 \n\n(2) el punto Q tiene coordenadas (0, 6). \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional     \n \n \n19. (PAES2) En la figura adjunta la recta L1 tiene pendiente m1 y la recta L2 tiene \n\nQ \n\n \n\nx \n\nL1 \n\npendiente m2. Se puede determinar que  +  = 90°, si se ",
+      "cantidad_caracteres": 1231,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "20. Si la distancia entre los puntos A y B es 10 cm y la diferencia entre sus abscisas es  \n\n6 cm, la ordenada de A es el triple de la ordenada de B, y la abscisa de A es 2. ¿Cuáles \nson las coordenadas de A y B, si se encuentran en el primer cuadrante? \n \n\nA) A(2,12);  B(8,4)     \nB) A(2,8);  B(12,4) \nC) A(2,4);  B(8,12) \nD) A(1,9);  B(7,3) \n\n \n \n \n \n21. Sea el triángulo ABC en el plano cartesiano, cuyos vértices son los puntos A(2,5), \n\nB(6,1) y C(8,8), ¿cuál es la ecuación de la recta que pasa por el vértice C y por el \npunto medio de AB ? \n \n\nA) x = y \nB) 5x = 4y + 8      \nC) 4x = 5y + 1 \nD) 5x = 4y +1 \n\n \n \n \n \n22. En el gráfico de la figura adjunta, AO = 2BO y el área de la región achurada es 16 cm2. \n\nSi  L1  L2, entonces la ecuación de la recta L2 es \n \n \n \n\ny \nL2 \nL1 \n\nA) 2x + 3y – 12 = 0 \nB) 3x + 2y – 8 = 0 \nC) 3x + y – 4 = 0 \nD) 2x + y – 4 = 0      \n\nB \n\n \n \n \n \n \n23. Al cuadrado OBCD de la figura adjunta se aplica una rotación con centro O y ángulo de \n\nA \nO \n\nx \n\ngiro 270",
+      "cantidad_caracteres": 1261,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "24. Dados los puntos A(1,2) y B(-2,4). Si se aplica a cada uno una rotación en 90° \n\nantihorario, con respecto al origen del sistema de coordenadas, la ecuación de la recta \nque pasa por A’ y B’ es \n \n\nA) 3x – 2y + 4 = 0 \nB) 3x – 2y – 8 = 0 \nC) 3x – 2y + 8 = 0    \nD) 3x + 2y – 8 = 0 \n \n \n\n25. Para que el par ordenado (3,0) sea solución del sistema ax + by = 4\n\n, a y b deben ser \n\nbx + ay = 5\n\n \n\nA) a = 4\n\n3  y b = 5\n\n3       \n\nB) a = 3\n\n4  y b = 3\n\n5  \n\nC) a = 4\n\n3  y b cualquier real. \n\nD) a = 5\n\n4  y b cualquier real. \n\n \n \n \n\n26. Si la solución del sistema de ecuaciones 2x + y = a + 1\n\nx  2y = 1  b\n\n\n es el par ordenado (a, b), \n\n¿cuáles deben ser los valores de a y b? \n \n \n  \n \n \nA) a = 0  y  b = 1 \nB) a = 0  y  b = 0 \nC) a = 1  y  b = 0     \nD) a = 1  y  b = 1 \n\n \n \n \n\n3  son soluciones del sistema ax  y = 9\n\n\n\n. Entonces, \n\n27. El par de números  x = 5\n\n3   e  y = - 5\n\nx  by = 9\n\nel valor de  a  +  b  =  \n \n \n\nA) 4,4 \nB) 8,8     \nC) 4 \nD) 8 \n \n \n \n\n10 \n \n",
+      "cantidad_caracteres": 979,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "28. Si el par ordenado (2p,3q) es la solución del sistema 3x + 4y + 6 = 0\n\n2x  3y  13 = 0\n\n\n, entonces el \n\nvalor de p – q es \n \n \n\nA) -5 \nB) -2 \nC) \n  0 \nD)   2     \n \n \n \n \n \n\n29. (PAES2) En el sistema \n3x  2y = 4\n4x  5my = 11\n\n\n\n, ¿cuál es la condición que debe cumplir m para \n\nque el sistema tenga solución única? \n \n \n\nA) m ≠ 8\n\n15       \n\nB) m ≠ -8\n\n15  \n\nC) m ≠ 11\n\n10  \n\nD) m ≠ -11\n\n10  \n\n \n \n \n \n\n1\n2\n  \n = -4\nx\ny\n2\n3\n + \n = 13\nx\ny\n\n\n\n30. Si x e y son las soluciones del sistema \n\n, entonces x – y = \n\nA)  -1 \n\nB) \n5\n-6  \n\nC) - 1\n\n6  \n\nD)  1\n\n6     \n\n \n \n \n \n \n \n \n\n11 \n \n",
+      "cantidad_caracteres": 587,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "3\n3\n\n2\n2\nx  + y  = 5\n\n31. Si \n\n, entonces el valor de x + y es \n\nx   xy + y  = 10\n\n\n \n\nA) \n  2  \n\nB) - 1\n\n2  \n\nC) \n -2 \n\nD)  1\n\n2       \n\n \n \n \n\nx  y = 12\n\n\n\n32. En la solución del sistema  \n\n, el valor de x es  \n\nx  = 1,6\ny\n\n \n\nA)   4 \nB)   8 \nC) 20 \nD) 32     \n \n \n \n \n \n33. ¿Cuál de las siguientes opciones representa mejor la solución gráfica del sistema \n\n3x + 2y = 7\n\n5x  y = 3\n\n? \n\n \n\n \nA) \n \n \n \nB) \n \n \n \nC) \n \n \n \n \n \n \n \n \n\ny \n\ny \n\ny \n\n \n\nx \n\nx \n\nx \n\ny \n\n \nD)  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nx \n\n12 \n \n",
+      "cantidad_caracteres": 515,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": "34. (PAES2) ¿Cuál(es) de los siguientes sistemas NO tiene solución? \n \n \n\nx + y  = 3\n4\n2x + 3y = 7\n\nI) \n\n  \n\n1\n2x  4y  8\n\n\n\n\nII) \n\n  \n\nx   y  1\n2\n\n\n\n\n3x + 2y = 5\n\nIII) \n\n  \n\nx\ny\n + \n = 7\n2\n3\n\n \n \nA) Solo II \nB) Solo III \nC) Solo I y III \nD) Solo II y III      \n \n \n \n35. La distancia entre el punto de intersección de las rectas L1 : x + 2y – 9 = 0   y \n\nL2 : x – y = 0  y  el punto de origen es \n \n\nA) 3 \nB) 6 \nC) 2\n3  \n\nD) 3\n2      \n \n \n \n \n36. La suma de las edades de Juan (J) y Luis (L) es d años. Si Juan tiene m años más que \n\nLuis, ¿con cuál(es) de los siguientes sistemas se puede determinar sus edades? \n\n \n\nI) \nJ + L = d\nJ + m = L    \n   II)    J + L = d\n\nJ  L = m\n\n \n \nIII)  J = d  L\n\n\n \n\nJ = L + m\n\n \n\nA) Solo II \nB) Solo III \nC) Solo I y III \nD) Solo II y III \n \n \n \n \n \n\n13 \n \n",
+      "cantidad_caracteres": 798,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": "37. Daniel ahorró dinero juntando en total 75 monedas entre monedas de $ 100 y de  \n\n$ 500. Si en total ahorró $ 8.300, ¿cuál es el sistema que permite encontrar la cantidad  \n“x” de monedas de $ 100 que ahorró, sabiendo que “y” es la cantidad de monedas de  \n$ 500? \n \n\nA) \n500x + 100y = 75\n\nx + y = 8.300   \n \n \nB) \nx + y = 75\nx + 5y = 8.300   \n\n \n\nC) \nx + y = 75\n\nxy = 8.300  \n \n \n \nD)      \nx + y = 75 \n100x + 500y = 8.300  \n\n \n\n \n \n \n \n \n \n38. Un ciclista ha recorrido sv kilómetros, donde s es el digito de las decenas y v el digito \n\nde las unidades. La suma de los dígitos que componen dicho número es 7.  \nVeinticinco kilómetros más adelante ha recorrido vs km, donde v es el digito de las \ndecenas y s el digito de las unidades, ¿cuál de los siguientes sistemas permite \ndeterminar los km recorridos? \n \n\nA) \ns + v = 7\n10s + v + 25 = 10v + s    \n\n \n\nB) s + v = 7\n\ns + v = 10s + v  25\n\n \n\nC) \ns + v = 7\ns + v  25 = 1\n–\n0s + v  \n\nD) \ns + v = 7\n10v + s + 18 = 10s + v  \n\n \n \n \n \n39. La suma d",
+      "cantidad_caracteres": 1452,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": "40. Josefa quiere comprar alimento para sus gatitos. Si compra 3 paquetes del alimento A \n\ny 10 paquetes del alimento B le sobran $ 2.700. Pero si compra 5 paquetes del \nalimento A, sólo le alcanza para 2 paquetes del alimento B, sobrándole $ 100. Si \nsabemos que 6 paquetes del alimento B cuestan lo mismo que 1 paquete del alimento \nA. ¿De cuánto dinero dispone Josefa? \n \n \n\nA) $  20.900 \nB) $  20.800 \nC) $ 18.200 \nD) $   3.900 \n\n    \n \n \n41. Verónica y su hermana Patricia deciden contar el dinero que tienen en su alcancía. En \n\ntotal tienen $ 6.300 repartidos en 66 monedas de $ 100 y $ 50. Cada una de ellas \ndecide plantear un sistema para determinar la cantidad (x) de monedas de $ 100 y la  \ncantidad (y) de monedas de $ 50, que tienen. \n \n\nVerónica: \n \n \n \nPatricia: \n\nx + y = 66\n\nx + y = 66\n100x + 50y = 6.300   \n \n \n\n  \n\ny\nx + \n = 63\n2\n\n \n \nDe los sistemas planteados, ¿cuál permite determinar la cantidad de monedas de $ 100 \ny $ 50? \n \n\nA) El sistema de ecuaciones de Patricia \nB) El ",
+      "cantidad_caracteres": 1541,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": "43. Se sabe que la suma de dos números es 2 y la diferencia entre el quíntuplo del mayor \n\ncon el menor es 28. ¿Cuáles son estos números? \n \n\nA) -3 y -5 \nB) -3 y 5     \nC)  3 y 5 \nD)  3 y -5 \n\n \n \n \n \n44. Una multinacional de seguros tiene delegaciones en Sao Paulo, Bogotá y Santiago. El \n\nnúmero total de altos ejecutivos de las tres delegaciones son 31 personas. Para que el \nnúmero de altos ejecutivos de la delegación de Bogotá sea igual al de Sao Paulo, \ntendrían que trasladarse 3 personas de Sao Paulo a Bogotá. Además, el número de \nejecutivos de Sao Paulo excede en uno a la suma de los destinados a las otras dos \nciudades. El número de altos ejecutivos en Sao Paulo, Bogotá y Santiago son, \nrespectivamente, \n \n\nA) 16, 10,   5    \nB) 10,   5, 16 \nC) 10, 16,   5 \nD)   5, 10, 16 \n \n \n \n45. (PAES2) Se puede determinar la cantidad de dulces que comen Constanza y Francisca, \n\nen forma individual, si se conoce que: \n \n\n(1) comen 7\n\n10  de los 80 dulces que tenía el vendedor. \n\n(2) Francisc",
+      "cantidad_caracteres": 1619,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": "47. (PAES2) El sistema kx + 3y = 12\n\n-6x + y = 3\n, tiene solución única, si se sabe que:  \n\n \n\n(1) k < 0 \n(2) k  -18 \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional      \n \n \n48. (PAES2) Se pueden determinar las edades de Ana y Juan, si se sabe que: \n\n \n(1) Ana tiene la misma edad que tenía Juan hace 6 años. \n(2) en 4 años más Juan tendrá el doble de la edad que tendrá Ana. \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2)    \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n49. La solución de la inecuación  1 – 3x < 7 es \n\n \n \nA) ]-, -2[ \nB) ]-2, +[    \nC) ]-, -3[ \nD) ]-3, +[ \n\n \n \n \n \n50. ¿Cuántos números naturales cumplen la condición que el exceso del triple del número \n\nsobre 14 NO es mayor que el doble del número? \n \n \n\nA) 14     \nB) 13 \nC) 11 \nD)  \n\n \n \n \n \n \n \n \n \n\n17 \n \n",
+      "cantidad_caracteres": 943,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "texto": "51. ¿Cuál es  la solución gráfica de la inecuación  -x + 3  5? \n\n \n \nA) \n \n \n \nB) \n \n \n \nC) \n \n \n \nD) \n                                         \n \n \n \n \n \n \n \n\n-2 \n5 \n\n2 \n5 \n\n-2 \n\n-2 \n\n52. El conjunto solución de la inecuación \n1\nx\n-3x + \n \n -4x + \n \n 1\n2\n3\n\n\n es \n\n \n\nA) \n3\nx  lR / x  4\n\n\n\n\n\n\n\n\n\n \n\nB) \n9\nx  lR / x  4\n\n\n\n\n\n\n\n\n\n \n\nC) \n9\nx  lR / x  -4\n\n\n\n\n\n\n\n\n\n     \n\nD) \n\n9\nx  lR / x < -4\n\n \n\n \n \n \n53. ¿Cuál  de  los  siguientes  números  pertenece  al  conjunto  solución  de  la  inecuación   \n\n-5 < 2x < 7? \n \n\nA) -3 \nB) -2     \nC) \n  4 \nD)   7 \n \n \n \n \n54. ¿Cuántos números enteros son soluciones de la inecuación -11 < 3x < -6? \n \n\nA) Ninguno \nB) Uno     \nC) Dos \nD) Tres \n\n \n\n18 \n \n",
+      "cantidad_caracteres": 720,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "texto": "55. El conjunto solución de la inecuación -2x - 4\n\n5   2\n1\n-x  3\n\n\n\n\n\n\n\n\n es \n\n \n\nA) \n2\n, 15\n\n\n\n\n\n\n  \n\nB) \n2 , +\n15\n\n\n\n\n\n\n  \n\nC)  \nD) lR     \n \n \n \n \n\n56. El conjunto solución de la inecuación -3(x + 1) + 2  -2x + 1\n\n2  - (x + 1) \n\n \n\nA) \n1, +\n2\n\n\n\n\n\n\n\n\n \n\nB) \n3\n, 2\n\n\n\n\n\n\n\n\n\n \n\nC)  \nD) lR \n \n \n \n \n57. Se sabe que la temperatura en la escala Fahrenheit es igual al producto de una \n\nconstante  p y la temperatura  en  la  escala  Celsius  más  q (otra constante), es decir \nF = pC + q. Las siguientes ecuaciones indican que la presión de una atmósfera, la \ntemperatura de ebullición del agua es 212 °F, o bien 100 °C y el punto de congelación \ndel agua es 32 °F, o bien 0 °C. \n \n\nTemperatura de ebullición: 212 = 100p + q \nPunto de congelación: \n32 = p  0 + q \n \n \nSegún esta información es correcto afirmar que \n \n\nA) \n3\n1\np\n2\n\n\n \n\nB) 3\np\n2\n2 \n\n \n\nC) \n5\n2\np\n2\n\n\n \n\nD) 5\np\n3\n2 \n\n \n\n \n \n \n \n\n19 \n \n",
+      "cantidad_caracteres": 949,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "texto": "58. La función de costo total de una fábrica es C(x) = F + Vx, donde F es el costo fijo, V el \n\ncosto variable por unidad fabricada y x la cantidad de unidades fabricadas. Para un \ncosto  total entre $ 500.000 y $ 800.000, ¿cuál de las siguientes desigualdades \nrepresenta los posibles valores de la cantidad de unidades fabricadas? \n \n\nA) V(500.000 – F) < x < V(800.000 – F) \n\nB) 500.000  F\n800.000  F\n < x < \nV\nV\n\n\n \n\nC) 500.000\n800.000\n  F < x < \n  F\nV\nV\n\n\n \n\nD) 500.000\n800.000\n + F < x < \n + F\nV\nV\n \n\n \n \n \n \n\n = - 1\n\n59. Si f(x) = k · x – 3, con k una constante, y f 2\n\n3\n\n\n\n\n\n\n\n2 , ¿cuál es el valor de k? \n\nA) \n  15\n\n4  \n\nB) - 22\n\n3   \n\nC) - 21\n\n4  \n\nD) \n  14\n\n3  \n\n \n \n \n60. Si g(2x – 1) = x + 2, entonces g(-4) = \n \n\nA) -3 \nB) -2 \n\nC)  1\n\n2  \n\nD) - 3\n\n2  \n\n \n \n \n \n61. Sean f y g funciones tales que f(x)= x2 + 2x + 3   y   g(x) = x3 – 1, ¿cuál es el valor de \n\nla expresión f(3) – f(5) – g(-1)? \n \n\nA) \n  18 \nB) -18     \nC) \n  22 \nD) -22 \n\n \n \n \n\n20 \n \n",
+      "cantidad_caracteres": 974,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "texto": "62. Si f(x) = x2 + 3x – 4,  entonces f(x + 1) = \n\n \nA) x2 + 5x     \nB) x2 + 3x \nC) x2 + 5x – 2  \nD) x2 + 3x – 2  \n\n \n \n \n \n63. Si f(x + 1) = x2 para todo número real x, entonces f(x) + 1 = \n \n\nA) (x + 1)2 – 1 \nB) (x – 1)2 + 1     \nC) (x + 1)2 + 1 \nD) x2 – 1 \n \n \n \n \n64. En la función f(a – 1) = a2 + 10a,  ¿cuál es el valor de f(4)? \n \n \n\nA) 75     \nB) 56 \nC) 39 \nD) 70 \n\n \n \n \n65. Si  f(x + 1) = 3f(x) + 5   y   f(0) = 1, entonces f(1) + f(2) = \n \n\nA) 23 \nB) 32 \nC) 37 \nD) 24 \n\n   \n \n \n \n66. Sea f una función definida en los números reales por f(x) = px + 1. Si f(-2) = 5,  \n\nentonces p = \n\n \n \nA) -3 \nB) -2     \nC) \n  3 \nD)   2 \n\n \n \n \n \n\n21 \n \n",
+      "cantidad_caracteres": 649,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "texto": "67. ¿Cuál(es) de las siguientes aseveraciones es (son) verdadera(s), respecto al gráfico de \n\nla función f(x) de la figura adjunta? \n \n \n\nI) \nf(3) – f(7) = f(1) \nII) \nLa pre-imagen de 2 es -1. \nIII) \nf(-4) = f(3) – f(0)  \n \n \nA) Solo I \nB) Solo I y II \nC) Solo II y III \nD) Solo I y III     \n\n \n\ny \n\n3 \n\n2 \n\n1 \n\nx \n\n-2 \n-3 \n-4 \n-1 \n\n6 \n5 \n4 \n3 \n2 \n1 \n7 \n\n \n \n \n \n \n \n68. La figura adjunta muestra la gráfica de la función f(x). ¿Cuál de las siguientes \n\n-1 \n\nafirmaciones es FALSA? \n \n \n\nf(x) \n\nA) Si x < 0, la función es f(x) = x + 2. \nB) En el intervalo ]-,2], la función es creciente. \nC) f(0) = 2 \nD) Si x > 1 la función es constante.     \n\n4 \n\n2 \n\n \n \n \n \n \n\nx\n\n-2 \n2 \n\n69. Si f(x) es una función real definida como f(x) = \n2\n2x\nsi x  -1\n\n\n\n\n\n\n\n\n\n ,      \n\n . ¿Cuál de las \n\nx\nsi -1 < x < 1\nx  1\n\n ,      \n\n, si x  \n \n1\n  \n\nsiguientes afirmaciones es  FALSA? \n \n \n\nA) f(-1) < f(0) \nB) f(0) = 0 \nC) f(-2) = –f(5) \nD) El recorrido de la función son los números reales.     \n\n \n \n \n \n \n ",
+      "cantidad_caracteres": 1010,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "texto": "70. Sean g y h funciones con dominio el conjunto de los números reales definidas por \n\n\n\n\n2\ng x\nx\nx\n1\n\n\n y  \n\n\n2\nh x\nx\nx\n1\n\n\n, entonces \n\n\n\n\ng m\nh m\n\n\n = \n\n2\n\n \nA) g(m) \nB) h(m) \nC) g(m) + m2    \nD) g(m) – m2 \n\n \n \n \n71. De acuerdo al gráfico de la figura adjunta, ¿cuál(es) de las siguientes afirmaciones  \n\nes (son) siempre verdadera(s)? \n \n \n\nI) \nf(x) es creciente.  \nII) \nSi 0 < x < k, entonces f(x + 1) > f(x) \nIII) \nf(k) – f(0) = b – a \n \n \n\ny \n\n \n\nb \n\nA) Solo I \nB) Solo II  \nC) Solo III    \nD) Solo II y III \n \n \n \n \n\nf(x) \n\na \n\nx \n\nk \n\n72. Sea f una función tal que f(x) = x  2\n\n\n, el dominio y el recorrido, son respectivamente, \n\n3x + 1\n\n \n\nA) lR – \n1\n-3\n\n\n\n\n\n, lR – 1\n\n3\n\n\n\n\n      \n\nB) lR – {3}, lR – {3} \n\nC) lR – \n1\n-3\n\n\n\n\n\n\n\n, lR – {3} \n\nD) lR – 1\n\n, lR – 1\n\n3\n\n\n\n\n3\n\n\n\n\n \n\n \n \n73. Si para todo número real x, f(2x – 1) = 2x + 1, entonces  f(x)= \n \n \n\nA) x – 2  \nB) x  + 2 \nC) x  + 1 \nD) 2x – 1  \n \n \n\n23 \n \n",
+      "cantidad_caracteres": 971,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 24,
+      "texto": "74. Sea f una función definida en \n\n\n\nlR\n2\nlR\n1\n\n\n\n como \n\n2\nx\nf x\n2\nx\n\n\n\n. Si f(x) = 2, \n\nentonces el valor de x es \n \n\nA)  No posee imagen \n\nB)  2\n\n3  \n\nC)   0 \nD) \n    4 \n \n \n \n \n\n75. Si f(x) = x2 + 4x – 5   y g(x) = 2 – x – x2, ¿cuál es el dominio de \n\nf\nx\ng\n\n\n\n\n\n\n\n? \n\n \n\nA) lR – {-2, 1} \nB) {-2, 15} \nC) lR – {1} \nD) lR – {-2} \n \n \n \n \n76. Sea f(x) es una función de variable real. Si f(x) = 4 ¿cuál es el valor de x? \n \n\n     \nA)  0 \nB)  2 \nC) 16 \nD) No se puede determinar \n \n \n \n \n77. Sea la función f(x) = 5x – t. Si  f(1) = 4,  entonces la preimagen de 2 es \n \n\nA)  1\n\n5  \n\nB)   9 \n\nC)  3\n\n5      \n\nD) 11\n\n5  \n\n \n \n \n \n \n \n \n \n \n\n24 \n \n",
+      "cantidad_caracteres": 668,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 25,
+      "texto": "78. (PAES2) ¿Cuál(es) de las siguientes parejas de funciones es (son) una simetría con \n\nrespecto de la recta y = x? \n \n\nI) \nf(x) = 10x  y  g(x) = log(x)  \n\nII) \nf(x) = x3 + 1  y  g(x) = 3 x  1\n\n \n\nIII) \nf(x) = x    y  g(x) = 1\n\nx  \n\nA) Solo I \nB) Solo II \nC) Solo I y II      \nD) Solo II y III \n\n \n \n \n \n \n79. ¿Cuál(es) de las siguientes funciones corresponde(n) siempre a una función tal que \n\npreimágenes distintas implican imágenes distintas, para todo su dominio? \n\n \n\nI) \nToda función par. \nII) \nToda función constante. \nIII) \nToda función afín. \n \n\nA) Solo I \nB) Solo II \nC) Solo III     \nD) Solo I y II \n\n \n \n \n \n\n80. Si la función \n\n2x\nt\nf x\n3\n\n\n\n y f(7) = 5, entonces ¿cuál de los siguientes puntos NO \n\npertenece a la gráfica de una reflexión de la función f(x) respecto de la recta y = x? \n \nA) (1, 1) \nB) (3, 4)     \n\nC) \n1\n0, 2\n\n\n\n\n\n\n\n \n\nD) (-1, -2) \n\n \n \n \n \n \n \n \n \n \n\n25 \n \n",
+      "cantidad_caracteres": 902,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 26,
+      "texto": "81. Sea f una función definida por f(x) = x3 con dominio el conjunto de los números reales. \n\n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\n  = \n\nf a\n\nI) \na\nf b\n\n\n\n\n\n\n\n\nf b , con b  0. \n\n\n\nII) \nf(-a) = f(a) \nIII) \nf(a – b) = f(a) – f(b)  \n \n \nA) Solo I   \nB) Solo II \nC) Solo III \nD) Solo I y III \n\n \n \n \n \n \n \n82. Dada la función f(x) = x2 + 6, con dominio en los números reales positivos, ¿para qué \n\nvalor de y la función está definida? \n \n\nA) -7 \nB)  7 \nC)  0 \nD)  5 \n\n      \n \n \n \n \n \n83. Si f es una función definida en el conjunto de los números reales, tal que f(x)= 3x3 – 1, \n\nentonces la función simétrica a f(x) respecto de la recta y = x, es \n \n\nA) g(x) = 3 x + 1\n\n3\n      \n\n3 x + 1\n\nB) h(x)= \n\n3\n \n\nC) l(x) = 3 x  1\n\n\n \n\n3\n\n3 x  1\n\n\n \n\nD) m(x) = \n\n3\n\n \n \n \n \n \n \n \n\n26 \n \n",
+      "cantidad_caracteres": 820,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 27,
+      "texto": "84. Si  f(x) = x4  y g(x) = 2x2, entonces se puede afirmar que \n\n \n\nI) \nlas gráficas de ambas funciones se intersectan sólo en el origen del plano \ncartesiano. \nII) \nla gráfica de la función f es la simétrica de g con respecto al eje y. \nIII) \nf(\n2 ) = g(-\n2 ) \n \n \nA) Solo I \nB) Solo II \nC) Solo III     \nD) Solo I y III \n\n \n \n \n \n85. El dominio de la función f(x) = (x – 1)4 son los números reales. ¿Cuál(es) de las \n\nsiguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nEl gráfico asociado a la función intersecta al eje X en un punto. \nII) \nEl gráfico asociado a la función no se ubica en el III y IV cuadrante. \nIII) \nEl   gráfico  asociado  a  la  función  intersecta  a  la  recta  de  ecuación     \n\ny = 1\n\n3 x – 1, en un solo punto. \n\n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo I y III \n\n \n \n \n \n86. El gráfico adjunto representa el desplazamiento de un móvil con respecto a un punto \n\ninicial fijo en una trayectoria rectilínea. Si el espacio recorrido e se expresa en metros y \nel",
+      "cantidad_caracteres": 1422,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 28,
+      "texto": "87. Suponga que la función C(x) = 20x + 400 representa el costo total de producción de un \n\ndeterminado artículo, donde C es el costo en dólares y x es el número de unidades \nproducidas. De acuerdo a esto, ¿cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nI) \nEl costo de fabricación de 5 unidades es 500 dólares. \nII) \nEn la producción de 580 unidades el costo es de 12.000 dólares. \nIII) \nSolo para x entero no negativo, el problema tiene interpretación práctica. \n \n \n\nA) Solo II \nB) Solo III \nC) Solo I y II \nD) I, II y III   \n \n \n \n88. En una agencia de viajes, por cada 8 pasajes pagados se otorga uno liberado. ¿Cuál de \n\nlos siguientes gráficos representa mejor la situación planteada? \n \n \n \n\nA) \n \n \n \n B) \n \n \n \n C)   \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nPasajes \nliberados \n\nPasajes \nliberados \n\nPasajes \nliberados \n\n   3 \n\n2 \n3 \n\n3 \n\n    2 \n\n     2 \n\n1 \n\n   1 \n\n   1 \n\n24  32 \n16 \n8 \nPasajes \npagados \n\n           8   16  24  32  Pasajes \n\nPasajes \npagados \n\n8   16  24 32 \n\npa",
+      "cantidad_caracteres": 1126,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 29,
+      "texto": "89. En una ciudad, la empresa de agua potable cobra un cargo fijo de $m y $n por cada \n\nmetro cúbico de consumo mensual. Si en una casa el consumo del mes fue 2u metros \ncúbicos, ¿cuál será el valor a pagar? \n \n \n\nA) $(m + 2un)     \nB) $(n + 2um) \nC) $(n + 8u3m) \nD) $(m + 8u3n) \n\n \n \n \n \n \n \n90. Se sabe que un modelo para la temperatura T, en grados Celsius (°C), de un líquido \n\nrecién vertido en un recipiente está dado por T(t) = 80 – 30t, donde t, es el tiempo \ntranscurridos en horas, desde el instante en que fue vertido, ¿cuál(es) de las siguientes \nafirmaciones es (son) FALSA(S)? \n \n \n\nI) \nLa temperatura disminuye en función del tiempo. \nII) \nA los dos minutos la temperatura es de 20°. \nIII) \nLa temperatura del líquido disminuye en razón de 30°C por minuto. \n \n \n\nA) Solo I \nB) Solo II \nC) Solo I y III \nD) Solo II y III      \n\n \n \n \n \n \n \n \n91. Una fábrica de cilindros metálicos tiene un costo fijo de producción de $ 15.000.000 y \n\ncostos varios por cilindro de $ 8.000. Si x represe",
+      "cantidad_caracteres": 1261,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 30,
+      "texto": "92. El número de calorías que se queman en 1 hora de ejercicios en una bicicleta estática, \n\nestá relacionado con la velocidad que se emplea en ella. Una persona que ejercita a  \n\n8 \nkm\nhora  quemaría 300 calorías y a 6 \nkm\nhora  quemaría 280 calorías. Si las calorías \n\nquemadas (C) y la velocidad de la bicicleta estática (v) se representan mediante una \nfunción afín, esta función es \n \n \n\nA) C(v) = 10 ∙ v + 300 \nB) C(v) = 10 ∙ v + 280 \nC) C(v) = 10 ∙ v + 220    \nD) C(v) = 20 ∙ v – 100 \n\n \n \n \n \n \n93. Benjamín quiere contratar un plan de telefonia celular, la compañía “Minuton” tiene un \n\ncargo fijo de $ 3.000 y $ 110 por cada minuto hablado, mientras que la compañía \n“Celulin” no tiene cargo fijo pero cobra $ 120 por cada minuto, ¿cuánto tiene que \nhablar al mes para que sea conveniente la compañía “Minuton”? \n \n \n\nA) 300 minutos. \nB) Más de 300 minutos.     \nC) Menos de 300 minutos.   \nD) Menos de 30 minutos. \n\n  \n \n \n \n \n94. Un ingeniero evalúa los costos mensuales de arriendo de do",
+      "cantidad_caracteres": 1578,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 31,
+      "texto": "95. El nivel de agua en un estanque cilíndrico recto era originalmente h metros y  \n\nsube q metros solo en la primera semana y luego el nivel empezó a bajar p metros por \nsemana desde la segunda. ¿Cuál de las siguientes funciones relaciona el nivel de agua \ncon el número de semanas transcurridas x (x ≥ 2), en la situación descrita? \n \n \n\nA) f(x) = h + q – p(x – 1)     \nB) f(x) = h + q + p(x – 1) \nC) f(x) = h + q – xp \nD) f(x) = h – q – xp \n \n \n \n \n96. La tabla adjunta indica los precios de las entradas a un parque de diversiones por \n\nedades \n \n\nEdad (x) años \nValor en pesos \n0 < x ≤5 \n1.000 \n5 < x ≤10 \n2.000 \n10 < x ≤14 \n2.500 \n14 < x ≤60 \n3.000 \nx > 60 \n1.500 \n\n \n\n \n \n \n \n \n \n\n \nSi asisten al parque; familia 1 (f1): mamá (35 años) con tres niños de 6, 8 y 14 años;   \nfamilia 2 (f2): abuelo (65 años) con cuatro niños de 6, 7, 9 y 10 años y familia 3 (f3): \nmamá (30 años), papá (32 años), hijo de 12 años y el bebé de 8 meses, ¿qué familias \npagan lo mismo? \n \n\nA) Solo f1 y f2  \nB) Solo",
+      "cantidad_caracteres": 1428,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 32,
+      "texto": "98. (PAES2) Se puede determinar que una función f(x) es constante, si se conoce que: \n\n \n(1) el punto (0,4) pertenece a la función f(x). \n(2) f(x) = 1x \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y ( 2) \nD) Cada una por sí sola, (1) o (2) \nE) Se requiere información adicional \n \n \n99. (PAES2) Se puede determinar que el punto (a, a + 1) pertenece a f(x), si se sabe \n\nque: \n \n\n(1) f(x) = x + 1 \n(2) f(x – 1) = x \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2)     \nE) Se requiere información adicional \n \n \n \n100. (PAES2) Se define la función f(x) = ax + b. Se puede determinar que f(x) es \n\ndecreciente, si se sabe que: \n \n\n(1) b = 3,6 \n\n(2) a = - 5\n\n4   \n\n \n\nA) (1) por sí sola \nB) (2) por sí sola     \nC) Ambas juntas (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n101. (PAES2) Sea f: lR  lR, definida por f(x) = mx + n, con m y n distintos de cero. Se \n\npuede determinar m",
+      "cantidad_caracteres": 1208,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 33,
+      "texto": "5\np + p + p + p + p = 10\n\n, entonces p4 = \n\n102. Si \n\np\n\n \n \nA)   5 \nB)   2 \n\nC)  1\n\n2     \n\nD)  1\n\n5  \n\n \n \n \n \n \n103. 311 + 311 + 311  =  \n \n \n\nA) 312    \nB) 311 + 1  \nC) 39(1 + 32)  \nD) 313  \n\n \n \n \n \n \n\n3\n3\n3\n3\n\n3\n2  + 2  + 2  + 2\n\n104. \n\n = \n\n4\n\n \nA) -2 \nB) -1 \nC) 2-6 \n\nD) 1\n\n2     \n\n \n \n \n\n4\n3\n-n\n3\n\n-1 n 2\n4 (8 )\n\n105. El valor de \n\n es igual a \n\n(4(4 ) )\n\n \n\nA) 0,25 \nB) 0,5 \nC) 2 \nD) 4    \n\n \n \n \n \n \n\n33 \n \n",
+      "cantidad_caracteres": 418,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 34,
+      "texto": "2n+2\n2n+1\n\nn\n5\n + 5\n\n106. \n\n : 30 = \n\n25\n\n \n \n\nA) 5 \nB) 5n \nC) 50     \nD) 5n+1 \n\n \n\n \n \n \n107. 26x + 3 – 43x – 1 + 64x + 1 =  \n \n \n\nA) 287 · 26x – 1 \nB) 287 · 26x – 2     \nC) 287 · 26x – 3 \nD) 287 · 26x – 4 \n\n \n \n \n \n \n108. La expresión  49m - 1 + 72m – 3 – 72m - 1  es equivalente a \n \n \n\nA) 72m – 3 \nB) 72m – 6 \nC) -4172m – 3     \nD) 72m – 1 \n\n \n \n \n109. La expresión (2x -1 – 0,5x +1)2  es equivalente a \n \n\nA) 42x – 2 + 1 + 0,252x + 1 \nB) 22x – 2  – 0,5 + 4-x – 1      \nC) 22x – 2  – 0,52x + 2   \nD) 22x – 2  + 0,52x + 2   \n\n \n \n \n110. Si 4x – 4-x = \n8 ,  entonces  16x  + 16-x = \n \n\nA)   7 \nB)   8 \nC)   9 \nD) 10 \n \n \n \n\n34 \n \n",
+      "cantidad_caracteres": 633,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 35,
+      "texto": "111. Si 25 + 10 · 3 + 32 = 2x, entonces x = \n \n \n\nA) 3 \nB) 4 \nC) 5 \nD) 6     \n \n \n \n\nx\n25  + 125\n\n6\n = 5x + 1 admite como soluciones a dos números reales, m y n, \n\n112. La ecuación \n\nentonces ¿cuál de las siguientes igualdades es correcta? \n \n\nA) \nm\n\nn  = -1 \n\nB) m + n = 0 \nC) m · n = 2     \nD) mn = 3 \n\n \n \n \n \n \n113. (PAES2) Se puede determinar el valor de (-1)-k, si se sabe que: \n\n \n(1) k > 0 \n(2) 2k – 1 = 9 \n \n\nA) (1) por sí sola \nB) (2) por sí sola   \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n114. (PAES2) Se puede determinar que la expresión xn es un número negativo, si se sabe \n\nque: \n \n\n(1) x es un número negativo. \n(2) n es un número negativo. \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional    \n \n \n \n \n\n35 \n \n",
+      "cantidad_caracteres": 889,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 36,
+      "texto": "115. (PAES2) Si a y b representan dos números enteros. Se puede determinar el valor de \n\na, si se sabe que: \n \n\n(1) ab = 9 \n(2) a · b = 6 \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional    \n \n \n \n \n\nn + 3\n4\n\n116. (PAES2) La expresión \n\n64\n es mayor que 1, si se sabe que: \n\n \n\n(1) 4n + 3 > 0 \n(2) 4n > 1 \n\n \nA) (1) por sí sola \nB) (2) por sí sola     \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere de información adicional \n \n \n \n \n117. Si h(x) = -8 · 2x-1, entonces h(-2) = \n\n \nA)  64 \nB)     1 \nC)   -1     \nD)   -4 \n\n \n \n \n \n\n118. Si f(x) = 4-x, entonces \na\nf 2\n\n\n\n\n\n\n\n\n = \n\n \n\nA) 2 \nB) 1 \n\n1\na\n2  \n\nC) \n\na\n1\n\nD) \n\n     \n\n2\n\n \n \n \n\n36 \n \n",
+      "cantidad_caracteres": 777,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 37,
+      "texto": "119. Si f(x + 2) = x · 21 – x, entonces  f(3) es \n \n\nA)   1 \nB) \n -6  \nC) 12 \nD)   0     \n \n \n \n\nx\n1\n  1\n3\n\n\n\n\n\n\n\n\n120. Con respecto a la función f(x) = \n\n, se puede afirmar que \n\n \n\nI) \nf(0) = 1. \nII) \nLa función es decreciente y su recorrido es ]-1, +[.  \nIII) \nf(-2) > 0. \n \n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo II y III    \n\n \n \n \n\n121. ¿Cuál(es) de los siguientes puntos pertenece(n) a la función f(x) = 1\n\n2  · 40,5x? \n\nI) \n1\n-1, -4\n\n\n\n\n\n\n\n  \n\nII) \n1\n0, 2\n\n\n\n\n\n\n\n \n\nIII) \n(1,1) \n \n\nA) Solo I y II \nB) Solo I y III \nC) Solo II y III \nD) I, II y III \n\n    \n \n \n \n122. Se define la función f(x) = kax, donde k y a son constantes. Si la tabla adjunta muestra \n\nalgunos valores para la función f, entonces el valor de a es \n \n\nA) \n1\n2  \n\nx \n-1 \n0 \n1 \n\nB) \n1\n4  \n\nf(x) \n1\n8  \n1\n2  \n2 \n\nC)  2 \nD)  4    \n \n \n\n37 \n \n",
+      "cantidad_caracteres": 847,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 38,
+      "texto": "2\n1x\n2\n\n\n\n\n\n\n\n – 1   y  g(x) = 4 · 2-x, entonces g(f(4)) = \n\n123. Sean las funciones reales f(x) = \n\n \n\nA)  0,9 \nB)    3 \n\nC)   1\n\n4  \n\nD)   1\n\n2  \n\n \n \n \n124. En un laboratorio se observa que una bacteria se duplica cada 15 minutos. Si \n\ninicialmente se tienen 100 bacterias. La función que entrega la cantidad total de \nbacterias después de t horas es \n \n\nA) f(t) = 100 · 2t \n\nt\n4\n2  \n\nB) f(t) = 100 · \n\nC) f(t) = (200)4t \n\nD) f(t) = 100 · 24t  \n\n \n \n \n125. Si f(x) = xn + 2, con dominio el conjunto de los números reales, entonces ¿cuál(es) de \n\nlas siguientes afirmaciones es (son) verdadera(s)? \n\n \n\nI) \nSi n es par, entonces f(x) es creciente. \nII) \nSi n es impar con n > 1, entonces f(x) es creciente. \nIII) \nSi n = 1, entonces la función f(x) es función afín. \n \nA) Solo I \nB) Solo II \nC) Solo II y III  \nD) I, II y III \n\n \n \n \n126. (PAES2) La función f(x) = k · xn, con dominio el conjunto de los números reales y k un \n\nnúmero real diferente de cero, es función impar, si se sabe que:",
+      "cantidad_caracteres": 1225,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 39,
+      "texto": "127. ¿Cuál(es) de los siguientes números es (son) irracional(es)? \n\n \nI) \n0,0169  \n\nII) \n5\n3125  \n\nIII) \n2,89  \n\n \n \n \n\nA) Solo II \nB) Solo III \nC) Solo I y II \nD) Ninguna de las opciones anteriores.   \n \n \n \n \n128. ¿Cuál(es) de los siguientes números pertenece(n) al conjunto de los números \n\nirracionales? \n \n\nI) \n3 2  2 5\n\n \n\nII) \n4 5  20\n\n \n\nIII) \n3 2  2 3\n\n \n \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo II y III    \n\n \n \n \n\n \n129. ¿Cuál de las siguientes expresiones es diferente  a 1.000 ? \n \n\nA) 10 10  \n\nB) 5 10  + 5 10  \n\nC) \n100\n\n \n\n10\n\nD) \n20\n\n   \n\n10\n\n \n \n \n \n \n \n \n \n\n39 \n \n",
+      "cantidad_caracteres": 595,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 40,
+      "texto": "7\n\n130. \n\n = \n\n3\n\n4\n\n \n\nA)  7\n\n2  \n\nB) \n3\n7 4\n2\n \n\n3 2\n\nC) \n\n4  \n\nD) \n3\n7 2\n2\n   \n\n \n \n \n \n\n131. \n2\n2\n( 2  3)   (2  2)\n\n\n\n = \n\n \nA) \n  1    \nB) \n  2\n2  – 5 \nC) -1 \nD) \n2   \n \n \n \n \n \n\n132. \n1\n1\n2\n2 = \n\n \n\nA) \n4 8  \n\n1\n\nB) \n\n \n\n3\n\n2\n\nC) 2 \n\n4 2\n\nD) \n\n2     \n\n \n \n \n \n\n3\n3\n2\n2\n\n64  + 512\n\n133. \n\n = \n\n5\n3\n\n32\n\n \nA) 10    \nB)   1 \nC)   8 \nD)   2 \n\n \n\n40 \n \n",
+      "cantidad_caracteres": 357,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 41,
+      "texto": "4\n4\n4\n3\n\n3\n3\n6  + 6  + 6\n\n134. \n\n= \n\n12  + 12\n\n \n \n\nA) \n3\n1  3\n2 \n \n\nB) \n3\n1  6\n2 \n \n\nC) \n3\n1  9\n2 \n    \n\nD) \n3\n1  6\n3 \n \n\n \n \n \n \n\n135. ¿Cuál es el valor de \n0,61 : 0,18 ?  \n\n \n\nA) 13\n\n5   \n\nB)  7\n\n3  \n\nC) 11\n\n6      \n\nD)  2\n\n5   \n\n \n \n \n \n \n \n\n136. El valor de \n2\n( 0,017 + 2,7)  es igual a \n\n \n\nA)   9\n\n5   \n\nB)  3\n\n10  \n\nC)  81\n\n25    \n\nD) \n41\n900  \n\n \n \n \n \n \n \n \n\n41 \n \n",
+      "cantidad_caracteres": 380,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 42,
+      "texto": "137. Si  a = 6 - 2\n6    y   b = 6 + 2\n6 , entonces \nab  = \n \n\nA) 3\n2  \n\nB) 2\n3     \nC) 6 \nD) 2 15  \n \n\n \n \n \n \n138. ¿Cuál(es) de las siguientes proposiciones es (son) verdadera(s)? \n \n\n2\n\n3\n3\n3\n9\n\n \n\nI) \n\nII) \n0,2\n9\n4\n16\n\n \n\nIII) \n\n\n\n0,5\n25\n5\n\n \n\n \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \n \n \n \n \n \n139. La recta numérica de la figura adjunta ha sido dividida en 6 partes iguales. ¿Cuál es el \n\nproducto entre A y B? \n \n \n\nA) \n7 + 3 6\n\n6\n \n\nB) 5 + 2 6\n\n6\n  \n\nC) 5  2 6\n\n6\n\n \n\n \n\n2  \n3  \n\nD) 2 2 + 3\n\n3\n \n\n \n   \n \n \n \n \n \n \n \n \n\nA       B \n\n42 \n \n",
+      "cantidad_caracteres": 577,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 43,
+      "texto": "140. Si p y q números positivos,  entonces 5\n4\n3 5\np q  p q\n\n = \n\n \n\n \nA) p3q7 \n\nB) \n7\n6\np q  \n\nC) \n10\n3 7\npq\np q  \n\nD) \n10\n7\n3\n2\n2\nq\np\nq\np\n    \n\n \n \n \n \n\n141. Si m + 3 = 0  y n – 9 = 0. ¿Cuál es el valor de 3 mn  – n? \n \n\nA) -12 \nB)    0 \nC)    6 \nD)  12   \n \n \n \n \n142. Si a > 0  y  b < 0, ¿cuál(es) de las siguientes proposiciones es (son) verdadera(s)? \n \n\nI) \na4b < ab2  \nII) \nab3 = -ab3  \n\nIII) \n2\nab  = -b\na   \n \n \n\nA) Solo II \nB) Solo III \nC) Solo I y II \nD) I, II y III    \n \n \n \n\n4\n2\nk\n? \n \n\n143. Si k es un número real positivo, ¿cuánto se obtiene al dividir k\nk  por \n\nA) \nk  \nB) k    \nC) k2 \n\nD) \n3 k  \n \n \n \n \n \n \n\n43 \n \n",
+      "cantidad_caracteres": 640,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 44,
+      "texto": "144. Si M = 3125   y  N = 125 125 , entonces M = \n \n\nA) 0,04N  \nB) 5N \nC) 2,5N \nD) 1,25N \n\n \n \n \n \n145. Sea n un número real positivo mayor que 1, entonces ( n  + 1) : ( n  - 1) resulta \n\nsiempre \n \n\nA) un número irracional. \nB) un número real negativo. \nC) un número real positivo.  \nD) un número racional positivo. \n \n \n \n \n146. (PAES2) Si  a   - {1}  y  2ª = b, entonces log 2 = \n\n \n\nA) \nalog b  \n\nB) log a b   \n\nC) log b\n\na  \n\nD) log ab \nE) log ba \n \n \n \n \n147. (PAES2) log4 8 = \n \n\nA) \n1\n2  \n\nB) \n2\n3  \n\nC)  2 \n\nD)  3\n\n2    \n\n \n \n \n \n \n \n \n \n\n44 \n \n",
+      "cantidad_caracteres": 557,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 45,
+      "texto": "148. (PAES2) Si logx 36 = 2, entonces x + 1 es igual a \n \n \n\nA) -5 ó -7 \nB) -5 y 7 \nC) -5 \nD) -7 \nE) 7 \n \n \n \n149. (PAES2) log2 6  log6 4 = \n \n \n\nA) 10  \nB) 2 \nC) 4 \nD) 6 \n \n \n \n\n150. (PAES2) \n\n\n5\n3\n1\n1\nlog\n0,04\nlog\n5\n9\n\n\n\n\n\n\n\n\n\n \n\n \n\nA) \n12\n\n5\n\n \n\nB) \n4\n5\n\n \n\nC) \n8\n5\n\n \n\nD)  12\n\n5     \n\nE)   8\n\n5   \n\n \n \n\n \n151. (PAES2) Si log3 x = y, entonces log3 (9x4) = \n \n\nA) 8y \nB) 3 + 4y \nC) 2y4 \nD) 2 + y4 \nE) 2 + 4y  \n\n \n \n \n \n \n \n\n45 \n \n",
+      "cantidad_caracteres": 447,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 46,
+      "texto": "152. (PAES2) Si log 123 = 2,09, entonces ¿cuál es el valor de log 1,23? \n \n \n\nA) 0,0209 \nB) 0,09   \nC) 0,209 \nD) 1,09 \nE) 1,209 \n \n \n \n\n125\nlog\n \n8\n = n   y   \n\n\n2\nlog\n2 2  = p,  entonces ¿cuál es el \n\n153. (PAES2) Si logm 27 = 3,  \n2\n5\n\nm\np\n\nvalor de \n\nn ? \n\n \n\nA)   -3 \nB)    9 \nC)   -9   \nD)  27 \nE) -27 \n \n \n \n\n154. (PAES2) Si 2x – 1 = 16, entonces \n2\n5\nlog x  = \n\n \n\nA)   0 \nB)   1 \nC)   2      \nD)   5 \nE) 25 \n \n \n \n \n155. (PAES2) Si log4 a = 0,5, entonces loga 8 = \n \n\nA) 1 \nB) 2 \nC) 3    \nD) 4 \nE) 5 \n \n \n \n \n \n \n \n \n\n46 \n \n",
+      "cantidad_caracteres": 534,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 47,
+      "texto": "1\n81\n(log\n3) es igual a \n\n156. (PAES2) La expresión \n3\n\n \n\nA) \n4\n3\n\n \n\nB) \n8\n3\n\n \n\nC) \n3\n4  \n\nD) 2\n\n \n\n3\n\n \n\n \n \n \n157. (PAES2) log5 150 – log5 6 =  \n\n \nA) 2     \nB) 1 \nC) 0 \n\nD) 3\n\n2   \n\nE) log5 144  \n \n \n \n \n \n158. (PAES2) ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \n2log 3 = log 6 \nII) \n3 + log 2 = log 40 + log 50 \nIII) \nlog 15 – log 3  = 1 – log 2 \n \n \n\nA) Solo I    \nB) Solo II \nC) Solo III  \nD) Solo II y III    \nE) I, II y III \n\n \n \n \n \n \n \n \n \n \n\n47 \n \n",
+      "cantidad_caracteres": 493,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 48,
+      "texto": "159. (PAES2) Si (log 2) aproximado por defecto a la décima es \n3\n10 , entonces log 80 \n\naproximado por defecto a la décima es \n \n \n\nA) \n7\n10  \n\nB) 11\n\n10  \n\nC) 13\n\n10  \n\nD) 17\n\n10  \n\nE) \n19\n10    \n\n \n \n \n \n160. (PAES2) ¿Cuál(es) de las siguientes igualdades es (son) correcta(s)? \n\n \n\nI) \nlog 25 = log5 · log5 \nII) \n34 + 34 + 34 = 35 \n\nIII) \n3  · 3 3  = \n\n6\n5\n3  \n \nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo II y III   \nE) I, II y III \n \n \n \n161. (PAES2) Se define  ab = logb a ∙ loga b  en los reales, entonces 3  2 es equivalente \n\na \n \n\nA) log2 3 + log3 2 \nB) log4 2 + log2 3 \nC) log2 3 ∙ log2 3 \nD) log6 6    \nE) log6 1 \n \n \n\n162. (PAES2) Si  log 2 = x;  log 3 = y;  log 5 = z,  entonces  \n10\nlog\n9\n\n\n\n\n\n =  \n\nA) x + z – 2y    \nB) x + z + 2y \n\nC) \nxy\n2z  \n\nD) x + z + y2 \nE) x + z – y2 \n \n\n48 \n \n",
+      "cantidad_caracteres": 810,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 49,
+      "texto": "163. (PAES2) Si P = log2 3 · log3 4, entonces \n1\n2\nlog P  = \n\nA) -1    \n\nB) \n1\n2  \n\nC) 1 \nD) 2 \nE) 4 \n\n \n \n\n2\na\nlog\nb\n\n\n\n\n\n\n\n1\n3\nlogb = q ,  entonces  \n\n164. (PAES2) Si log \na  = m  y  \n\n  en función de m y  q es \n\n \n\nA) 2m + q \nB) 2m – 3q \nC) 3m + 3q \nD) 4m – 3q    \nE) 4m + q \n \n \n \n165. (PAES2) Una solución de la ecuación log(x – 3)2 = 3 es \n \n \n\nA) 1  10\n3 \n   \n\nB) 3 + \n3   \n\n10\n10\n \n\nC) 3 + \n\nD) 3 - 1000      \nE) log 4,5 \n \n \n \n166. (PAES2) Si log 2 = a  y   log 3 = b, entonces log9 20 es igual a \n \n\nA) 1 + a\n\n2b\n     \n\nB) \na\n1 + b  \n\nC) \nb\n1 + 2a  \n\nD) \nb\n2a  \n\nE) \na + b\n\n2\n \n\n \n \n \n \n \n \n\n49 \n \n",
+      "cantidad_caracteres": 615,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 50,
+      "texto": "167. (PAES2) Si log3 = m, entonces 3x + 3-x = \n \n \n\nmx\n\nmx\n100\n + 1\n\nA) \n\n      \n\n10\n\nmx\n\nmx\n100\n  1\n\n\n \n\nB) \n\n10\n\nmx\n\nmx\n10\n + 1\n\nC) \n\n \n\n100\n\nmx\n\nmx\n10\n  1\n\n\n \n\nD) \n\n100\n\nmx\n\nmx\n100\n + 1\n\nE) \n\n \n\n100\n\n \n \n \n168. (PAES2)¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\n 2\nlog 3\n2\n3\n\n \n\nI) \n\nII) \nSi \n\n5\nlog\nx  = -2, entonces x = 0,2 \n\nIII) \nlog2 2 = 0 \n \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II   \nE) I, II y III \n \n \n \n\n169. (PAES2) Si k es un número positivo tal que k\n\n2  es un entero impar y k\n\n5  es un entero \n\npar, entonces ¿cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n\nI) \nnk es un número entero par para todo entero positivo de n. \nII) \nkn es un número entero impar para todo valor entero positivo de n. \nIII) \nlog kn > 1, para todo valor entero positivo de n. \n \n\nA) Solo I    \nB) Solo III \nC) Solo I y II \nD) Solo I y III \nE) I, II y III \n \n \n \n \n\n50 \n \n",
+      "cantidad_caracteres": 932,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 51,
+      "texto": "170. (PAES2) El valor de la expresión real (1 + loga m) logam N se puede determinar, si se \n\nconoce: \n \n\n(1) el valor de a. \n(2) el valor de N. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n171. ¿Para qué valor(es) de K la gráfica de la función f(x) = x2 + Kx + K2 corta al eje x en \n\ndos puntos? \n\n \nA) Solamente para K = 0 \nB) Para todo K > 0 \nC) Para todo K real \nD) Para ningún K real \n\n \n \n \n172. El consumo de cierto vehículo para recorrer 100 km con velocidad de x (km/h), está \n\ndado por C(x) = 0,006x2 – 0,6x + 25. ¿Cuál debe ser la velocidad a la que debe viajar \neste vehículo para que el consumo sea mínimo? \n \n\nA) 46 km/h \nB) 48 km/h \nC) 49 km/h \nD) 50 km/h \n\n \n \n \n\n173. El área A de un trapecio se determina mediante la fórmula \n\n\nB\nb\nh\nA\n2\n\n\n\n\n, en que B es \n\nla base mayor, b la base menor y h la altura. En el trapecio PQRS de la figura adjunta, \nPQ = x, RS = 6 y ST = x ",
+      "cantidad_caracteres": 1225,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 52,
+      "texto": "174. Si una de las raíces de la ecuación x2 + ax + 12 = 0 es 6, ¿cuál es el valor de la otra \n\nraíz? \n \n\nA) -8 \nB) -6 \nC) -2 \nD)   2     \n \n \n \n \n175. En la ecuación en x,  hx2 + (h + 5) x + 3 = 0, ¿qué valor debe tener h, para que una \n\nde las soluciones  sea  -3? \n \n\nA) \n  2     \nB) \n  1 \nC)   0 \nD) -1 \n\n \n \n \n \n176. Se tiene la ecuación x2 + 5x + 4 = 2x2, entonces ¿cuál(es) de las siguientes \n\nafirmaciones es (son) verdadera(s)? \n\n \n\nI) \nTiene dos soluciones reales.  \n\nII) \nSus soluciones son  - 3\n\n2  y 13\n\n2 . \n\nIII) \nLa suma de sus soluciones es 5. \n \n \nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo I y III     \n \n \n \n \n\nx  + x\n\n177. Si x1 y x2 son las raíces de la ecuación x2 + 2(3x + 4) = 0, entonces \n1\n2\n\nx   x\n\n = \n\n1\n2\n\n \nA) \n -6 \n\nB) - 3\n\n4      \n\nC) - 4\n\n3   \n\nD)   1,3 \n\n \n \n \n \n\n52 \n \n",
+      "cantidad_caracteres": 810,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 53,
+      "texto": "178. Sean r y s las raíces de la ecuación ax2 + bx + c = 0, con a  0  y c  0, entonces el \n\n2\n2\n1\n1\n + \nr\ns\n\nvalor \n\n es \n\n \n\nA) b2 – 4ac \n\n2\n\n2\nb   2ac\n\n\n       \n\nB) \n\nc\n\n2\n\n2\nb   4ac\n\n\n \n\nC) \n\nc\n\n2\nb   4ac\n\n2a\n\n \n\nD) \n\n \n \n \n \n179. (PAES2) La ecuación de segundo grado que tiene raíces no reales es \n \n\nA) x2 – 4x + 7 = 0      \nB) x2 + 4x + 4 = 0 \nC) x2 – 4x + 1 = 0 \nD) x2 + 4x – 1 = 0 \n \n \n \n180. (PAES2) \n¿Qué \nvalor \ndebe \ntomar \nm, \npara \nque \nla \necuación \nen \nx,     \n\n2\n2\nx\n2mx\nm\n2m\n6\n0\n\n\n\n\n\n tenga dos soluciones reales e iguales? \n \n \n\nA) -3      \nB) 3 \nC) ]-,3[ \nD) ]-,-3] \nE) Cualquier número real. \n \n \n181. ¿Cuál debe ser el valor del parámetro k para que la ecuación, en t, 6t2+(2k + 3)t+k=0 \n\ntenga una sola raíz? \n \n \n\nA) \n3\n4   \n\nB) \n1\n2   \n\nC) \n3\n2      \n\nD) 5\n\n3   \n\n \n \n\n53 \n \n",
+      "cantidad_caracteres": 812,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 54,
+      "texto": "182. Respecto a las soluciones de la ecuación \n2\nx  \n = 3\nx  1\n\n\n, ¿cuál(es) de las siguientes \n\nafirmaciones es (son) verdadera(s)? \n\n \n\nI) \nSon números irracionales. \nII) \nSon de signos distintos. \nIII) \nLa suma de sus soluciones es un número racional positivo. \n \nA) Solo I  \nB) Solo I y II \nC) Solo I y III    \nD) Solo II y III \n\n \n \n \n \n \n183. (PAES2) ¿Cuál es el conjunto solución de todos los valores de h, para que la ecuación \n\nen x, (x – 2h)2 + 5h + 1= 0 tenga dos soluciones reales y distintas? \n \n\nA) \n1, +\n5\n\n\n\n\n\n\n \n\nB) \n1\n- , +\n5\n\n\n\n\n\n\n\n\n \n\nC) \n1\n- , -5\n\n\n\n\n\n\n\n\n     \n\nD) \n1\n- , 5\n\n\n\n\n\n\n\n\n \n\nE)  [-, +[ \n \n \n \n \n184. (PAES2) Se puede determinar el valor de la constante k en la ecuación cuadrática  \n\nx2 + x – (k + 5) = 0, si se sabe que: \n \n\n(1) x = 4 es una solución de la ecuación. \n(2) x = -5 es una solución de la ecuación. \n \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2)     \nE) Se requi",
+      "cantidad_caracteres": 1046,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 55,
+      "texto": "185. (PAES2) Las raíces o soluciones de la ecuación px2 – 3x + p = 0 no pertenecen a los \n\nnúmeros reales, si se conoce que: \n\n \n(1) p > 2 \n\n(2) \n3\np \n 2\n\n \n\n \nA) (1) por sí sola     \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n186. Sabiendo \nque \nlas \nparábolas \nrepresentativas \nde \nlas \nfunciones \ncuadráticas \n\n\n2\nf x\nx\n4x\n3\n\n\n\n  y  \n\n\n2\ng x\nx\nbx\nc\n\n\n\n  se intersectan en un punto del eje x y en un \n\npunto del eje y, entonces el valor de b4c es \n \n \n\nA) 12    \nB) 24 \nC) 36  \nD) 48 \n \n \n \n \n187. ¿Cuál es el máximo valor que puede tomar la función f(x) = -x2 + 2x – 2? \n \n\nA) -2 \nB) -1     \nC)  1 \nD)  2 \n \n \n \n188. Si f(x) = 3x2 – 13x – 18 es una función cuadrática, entonces ¿cuál(es) de las siguientes \n\nafirmaciones es (son) verdadera(s)? \n \n\nI) \nLa gráfica de la función es una parábola con sus ramas hacia arriba. \n\nII) \nEl eje de simetría es x = - 13\n\n6 . \n\nIII) \nLa \nparábola \nintersecta \nel",
+      "cantidad_caracteres": 1134,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 56,
+      "texto": "189. Dada la función cuadrática g(x) = 3x – 2x2 – t, con respecto a la gráfica asociada a la \n\nfunción g(x), es siempre correcto afirmar que \n \n\nI) \nsi t = 0, entonces existen dos intersecciones con el eje x. \nII) \nsi t > 0, entonces es tangente al eje x. \nIII) \nsi t < 0, entonces no intersecta al eje x. \n \n \n\nA) Solo I     \nB) Solo II \nC) Solo I y III \nD) Solo II y III \n\n \n \n \n \n \n190. (PAES2) Respecto de la función f(x) = ax2 + bx + c. ¿Cuál(es) de las siguientes \n\nafirmaciones es (son) verdadera(s)? \n \n\nI) \nSi a > 0 y c < 0 la función tiene dos ceros reales y distintos. \nII) \nSi a = c = 1  y  b2 = 4 la función es tangente al eje de las abscisas. \nIII) \nSi b2 < 4ac,  la ecuación asociada a la función tiene raíces no reales. \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo II y III \nE) I, II y III      \n \n \n \n \n191. Según el gráfico de la función cuadrática f(x), de la figura adjunta, ¿cuál(es) de las \n\nsiguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nf(x) = 1\n\ny \n\n2 (x + 5)(x + ",
+      "cantidad_caracteres": 1196,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 57,
+      "texto": "192. Las parábolas y = x2 – 2x + 1  e  y = -x2 + 4  están mejor representadas en la opción \n \n\nA) \n \n \n \nB)   \n \n \n \nC) \n \n\ny \n\ny \n\ny \n\n \n \n \n \n \n \n \n\nx \n\nx \n\nx \n\ny \n\nD) \n \n \n \n \n \n \n \n \n \n \n \n \n \n193. La figura adjunta muestra la gráfica asociada a la función f(x) = tx2 + mx + 1, \n\nx \n\nentonces es correcto afirmar que \n \n\nI) \nm2 < 4t \nII) \n-t > 0 \nIII) \nf(0) = 1 \n \nA) Solo I \nB) Solo II \nC) Solo I y III     \nD) Solo II y III \n\n \n\ny \n\nf(x) \n\n \n \n \n \n \n194. En la figura adjunta, se muestran las parábolas asociadas a las funciones f(x) = ax2 + bx + c  \n\nx \n\ny  g(x) = tx2 + px + q. ¿Cuál(es) de las siguientes afirmaciones es (son) siempre \nverdadera(s)? \n \n \n\ny \n \n\nI) \na = t  \nII) \nc + q = 0 \nIII) \na > 0  y  t < 0 \n \n\nf(x) \n\nx \n\nA) Solo I \nB) Solo II \nC) Solo III      \nD) Solo I y III \n\ng(x) \n\n \n \n \n\n57 \n \n",
+      "cantidad_caracteres": 819,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 58,
+      "texto": "195. En una fábrica de carteras, las ganancias en el mes están dadas por la función                     \n\nf(c) = 1000c – 2c2, siendo c número de carteras fabricadas mensualmente, entonces \n¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nSi se fabrican 250 carteras se obtiene el máximo de ganancia. \nII) \nSi se fabrican 500 carteras no hay ganancias. \nIII) \nAl fabricar 15 ó 35 carteras la ganancia obtenida es la misma. \n  \n  \nA) Solo I  \nB) Solo II  \nC) Solo I y II     \nD) Solo II y III \n\n \n \n \n196. La altura que alcanza sobre el suelo un objeto al ser lanzado verticalmente está dada \n\npor h(t) = -16t2 + v0t, siendo v0 la velocidad de lanzamiento (velocidad inicial) y t el \ntiempo transcurrido desde el lanzamiento. ¿Cuál deberá ser la velocidad de lanzamiento \npara que el objeto alcance una altura máxima de 100 m? \n\n \n \nA)   8 m/s \nB) 16 m/s \nC) 40 m/s \nD) 80 m/s     \n \n \n \n197. En la figura adjunta, los vértices del triángulo ABC pertenecen a la gráfica de la fun",
+      "cantidad_caracteres": 1561,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 59,
+      "texto": "199. (PAES2) Dada la funcion cuadrática  f(x) = 3x2 + px – 4, se puede saber el valor de p, \n\nsi se sabe que: \n \n\n(1) el gráfico de la función tiene su eje de simetria en x = -2. \n(2) la suma de sus raices es -4. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por si sola, (1) ó (2)     \nE) Se requiere informacion adicional \n \n \n200. (PAES2) Se lanza un proyectil cuya trayectoria está dada por h(t) = -pt2 + qt + r, \n\ndonde t es el tiempo transcurrido desde que fue disparado y los coeficientes p, q y r \nson números reales positivos. Se puede determinar el tiempo en que el proyectil \nalcanza la altura máxima, si se conoce que: \n \n\n(1) se conoce la altura máxima alcanzada. \n(2) se sabe que q es el doble de p. \n\n \nA) (1) por sí sola \nB) (2) por sí sola     \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n\n59 \n \n",
+      "cantidad_caracteres": 911,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 60,
+      "texto": "CLAVES EJERCICIOS \n \n \n \n\n1 \nA \n26 \nC \n51 \nD \n76 \nD \n101 \nC \n126 \nB \n151 \nE \n176 \nD \n\n2 \nA \n27 \nB \n52 \nC \n77 \nC \n102 \nC \n127 \nD \n152 \nB \n177 \nB \n\n3 \nB \n28 \nD \n53 \nB \n78 \nC \n103 \nA \n128 \nD \n153 \nC \n178 \nB \n\n4 \nC \n29 \nA \n54 \nB \n79 \nC \n104 \nD \n129 \nD \n154 \nC \n179 \nA \n\n5 \nD \n30 \nD \n55 \nD \n80 \nC \n105 \nD \n130 \nD \n155 \nC \n180 \nA \n\n6 \nC \n31 \nD \n56 \nC \n81 \nA \n106 \nC \n131 \nA \n156 \nB \n181 \nC \n\n7 \nB \n32 \nD \n57 \nB \n82 \nB \n107 \nB \n132 \nD \n157 \nA \n182 \nC \n\n8 \nB \n33 \nC \n58 \nB \n83 \nA \n108 \nC \n133 \nA \n158 \nD \n183 \nC \n\n9 \nA \n34 \nD \n59 \nA \n84 \nC \n109 \nB \n134 \nC \n159 \nE \n184 \nD \n\n10 \nC \n35 \nD \n60 \nC \n85 \nC \n110 \nD \n135 \nC \n160 \nD \n185 \nA \n\n11 \nC \n36 \nD \n61 \nB \n86 \nA \n111 \nD \n136 \nC \n161 \nD \n186 \nD \n\n12 \nA \n37 \nD \n62 \nA \n87 \nD \n112 \nC \n137 \nB \n162 \nA \n187 \nB \n\n13 \nC \n38 \nA \n63 \nB \n88 \nB \n113 \nB \n138 \nB \n163 \nA \n188 \nA \n\n14 \nC \n39 \nD \n64 \nA \n89 \nA \n114 \nE \n139 \nA \n164 \nD \n189 \nA \n\n15 \nD \n40 \nA \n65 \nC \n90 \nD \n115 \nC \n140 \nD \n165 \nD \n190 \nE \n\n16 \nC \n41 \nC \n66 \nB \n91 \nD \n116 \nB \n141 \nD \n166 \nA \n191 \nB \n\n17 \nB \n",
+      "cantidad_caracteres": 1552,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

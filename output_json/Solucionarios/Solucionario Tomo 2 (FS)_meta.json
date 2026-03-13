@@ -1,0 +1,64 @@
+{
+  "filename": "Solucionario Tomo 2 (FS).pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/3.Preu Uc Ciencias/Fisica/Comun/Tomos (Materia + Ejercicios)/Solucionarios/Solucionario Tomo 2 (FS).pdf",
+  "num_paginas": 8,
+  "titulo": "",
+  "autor": "Vicente Jesus Caceres O'Neill",
+  "fecha_procesamiento": "2026-03-07T14:52:34.225938",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "I. \nÁrea temática. Energía \n\nTEMA 1: TEORÍA DE LA DERIVA CONTINENTAL Y TEORÍA DE LA TECTÓNICA DE PLACAS. \n\nActividad 1.3 Ejercicios propuestos (Pág. 13) \n\nN° \nClave \nDefensa \n1 \nC \nLa teoría de la deriva continental, propuesta por Alfred Wegener en 1912, \nplanteaba que los continentes se habían desplazado lentamente hasta su \nposición actual desde un antiguo supercontinente llamado Pangea. Wegener \npresentó evidencias fósiles, geológicas y climáticas, pero no pudo explicar \ncómo se movían los continentes, lo que generó rechazo en su época. \n \nLa teoría de la tectónica de placas, desarrollada en los años 60, amplía y \nmejora la teoría de Wegener al incorporar mecanismos físicos concretos, \ncomo el movimiento de las placas litosféricas sobre la astenosfera debido a \ncorrientes de convección en el manto. Esta teoría explica no solo el \ndesplazamiento de los continentes, sino también fenómenos como \nterremotos, volcanes y la formación de cordilleras. \n2 \nD \nLa presencia de fósiles de la mi",
+      "cantidad_caracteres": 2053,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "texto": "2 \nB \nEl modelo químico o estático de la Tierra propone que esta se divide en tres \ngrandes capas NUCLEO – MANTO – CORTEZA desde el interior hacia el \nexterior de la tierra respectivamente.  \n3 \nA \nEl movimiento de las placas tectónicas se debe principalmente a las \ncorrientes de convección que ocurren en el manto superior de la Tierra, \nespecíficamente en la astenosfera, una capa semifluida sobre la cual \"flotan\" \nlas placas litosféricas. \n \nEstas corrientes se generan por el calor interno del planeta, que hace que el \nmaterial caliente ascienda y el más frío descienda, creando un movimiento \nque empuja y arrastra lentamente las placas. \n4 \nE \nLas capas internas de la Tierra tienen densidades diferentes, que aumentan a \nmedida que se profundiza hacia el centro del planeta. El orden creciente de \ndensidades es: \n \n\n• \nCorteza terrestre (ρC): es la capa más externa y menos densa, \ncompuesta principalmente por rocas livianas como el granito (en la \ncorteza continental) y el basalto (en l",
+      "cantidad_caracteres": 1346,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 90.0
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "TEMA 3. FENÓMENOS SÍSMICOS. \n\nActividad 3.4 Ejercicios propuestos (Pág. 31) \n\nN° \nClave \nDefensa \n1 \nC \nLa escala de Mercalli mide la intensidad de un sismo, es decir, los efectos y \ndaños provocados en personas, construcciones y el entorno. Se basa en \nobservaciones subjetivas, por lo que puede variar dependiendo del lugar \ndonde se registre el sismo. \n2 \nD \nI) Un sismo se produce exclusivamente debido a la convergencia de los \nbordes de las placas al presionarse entre sí.  \nIncorrecto. \nLos sismos pueden producirse en todos los tipos de límites de placas: \n\n• \nConvergentes (cuando las placas chocan), \n• \nDivergentes (cuando se separan), y \n• \nTransformantes \n(cuando \nse \ndeslizan \nlateralmente). \nPor lo tanto, no se producen exclusivamente en límites convergentes. \n \nII) Si los bordes entre las placas divergen entre sí, es posible que se forme \nnueva corteza oceánica. \nCorrecto. \nEn los límites divergentes, como en las dorsales oceánicas, el magma asciende \ndesde el manto y al solidi",
+      "cantidad_caracteres": 2510,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": " \n \n\n \n\nI. \nÁrea temática. Electricidad  \n\nTEMA 1. COMPONENTES DE UN CIRCUITO \n\nActividad 1.8 Ejercicios propuestos (Pág. 41) \n\nN° \nClave \nDefensa \n1 \nA \nConsiderando que la intensidad de corriente que pasa por un circuito se \ndefine como la cantidad de carga por unidad de tiempo, es decir, \n \n\n𝐼𝐼= 𝑄𝑄\n𝑡𝑡 \n\n \nLa carga eléctrica sería una variable que influye directamente en la intensidad \nde corriente que pasa por un circuito. \n2 \nC \nLa definición corresponde a la intensidad de corriente eléctrica, es decir, la \nalternativa C  \n3 \nB \nConsiderando que la relación entre voltaje, intensidad de corriente y \nresistencia en un circuito esta dada por:  \n \n𝑉𝑉= 𝐼𝐼𝐼𝐼 \nDespejando la intensidad de corriente quedaría  \n \n\n𝐼𝐼= 𝑉𝑉\n\n𝑅𝑅  (1) \n\nAl duplicar el voltaje y disminuir a la mitad la resistencia quedaría \n \n\n𝐼𝐼´ = 2𝑉𝑉\n\n   \n\n𝑅𝑅\n\n2\n\n𝐼𝐼´ = 4𝑉𝑉\n\n𝑅𝑅  (2) \n\nSi reemplazamos la ecuación (1) en la ecuación (2) quedaría:  \n \n𝐼𝐼´ =  4𝐼𝐼  (1) \n \nPor lo tanto, la intensidad de corriente se cuadruplica. \n \n\nT",
+      "cantidad_caracteres": 1223,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": "B) Hay una resistencia en serie con tres en paralelo. Disminuye un poco la \nresistencia total respecto a A. \nC) Una resistencia en serie con dos en paralelo. Es similar a B, pero tiene \nmenos ramas paralelas, por lo que su resistencia total es mayor que la de B. \nD) Tiene una resistencia en serie con cuatro resistencias en paralelo. Más \nramas paralelas = menor resistencia equivalente en esa parte del circuito → \nmenor resistencia total en comparación con B y C. \n \nEl circuito con menor resistencia total es el D). \nPorque al tener más resistencias en paralelo, la resistencia total disminuye \nmás que en los otros casos. \n \n \n2 \nC \nLo primero a realizar en un circuito mixto como el de la imagen es reducir \naquellas resistencias que estén evidentemente en serie o paralelo como las \nde la derecha:  \n \n1\n𝑅𝑅𝑒𝑒\n\n= 1\n2 + 1\n2 = 1\n1 = 1 \n\n𝑅𝑅𝑒𝑒= 1 \n \nFinalmente se suma con la resistencia en serie quedando:  \n \n\n𝑅𝑅𝑡𝑡= 1 + 2 = 3 𝑜𝑜ℎ𝑚𝑚 \nPor lo tanto, la alternativa correcta es la C \n3 \nC \nEl voltaje",
+      "cantidad_caracteres": 1786,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": " \nUsar Ohm para hallar la corriente en la rama de 3 Ω \nLa rama de 3 Ω (en realidad son dos resistencias de 3 Ω en serie, totalizando \n6 Ω), también está bajo un voltaje de 12 V. \nUsamos la ley de Ohm: \nV=I⋅R⇒I=V/R \nI=12 V/6 Ω=2,0 A \n5 \nD \nEn todo experimento, se identifican tres tipos de variables: \n\nTipo de variable En este caso específico \n\nDependiente \nLo que se mide: la intensidad de corriente total del \ncircuito. \n\nIndependiente \nLo que se modifica: la cantidad de resistencias \nconectadas. \n\nControlada \nLo que se mantiene constante: el voltaje entregado por la \nfuente (se dice que es fijo). \n\n \n\n• \nLos estudiantes miden cómo cambia la corriente (variable \ndependiente), \n\n• \nAl cambiar la cantidad de resistencias (variable independiente), \n\n• \nMientras mantienen fijo el voltaje (variable controlada). \n \n \n \n\nTema 3. CIRCUITO DOMICILIARIO  \n\nActividad 3.5 Ejercicios propuestos (Pág. 67) \n\nN° \nClave \nDefensa \n1 \nE \nConsiderando que la potencia eléctrica se define como  \nP = E/t  \n \nS",
+      "cantidad_caracteres": 1674,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "Por lo tanto, si aumenta la corriente III, se genera más calor, lo que puede \nprovocar que los cables se calienten y, eventualmente, se produzca un \nincendio si la corriente supera la capacidad del cableado o la zapatilla. \n \nPor qué las otras son incorrectas: \n\n• \nA y B: Incorrectas porque las conexiones no son en serie. \n• \nC: Incorrecta porque, aunque menciona conexión en paralelo, al \nconectar más aparatos la resistencia total disminuye, no aumenta. \n \n3 \nA \nPara saber cuál aparato consume más energía diariamente, usamos la \nfórmula: \nE=P⋅t  \nDonde: \n\n• \nE = energía consumida (en watt-hora, Wh) \n• \nP = potencia del aparato (en watts, W) \n• \nt = tiempo de uso diario (en horas, h) \n \nCalculamos el consumo diario de cada uno: \nEquipo de música: \nE=100 W⋅5 h= 500 Wh  \nRefrigerador: \nE=25 W⋅24 h=600 Wh  \nTelevisor: \nE=12 W⋅4 h=48 Wh  \nHervidor de agua: \nE=1200 W⋅0,25 h=300 Wh \n \nComparación: \n\n• \nRefrigerador: 600 Wh \n• \nEquipo de música: 500 Wh \n• \nHervidor: 300 Wh \n• \nTelevisor: 48 Wh",
+      "cantidad_caracteres": 1637,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "texto": "굫\n구\n굯\n군\n굱\n국\n굮\n굲\n굳\n굴 Cálculo: \nP=V2/R=202/8=400/8=50 W \n \n \n \n",
+      "cantidad_caracteres": 61,
+      "imagenes": []
+    }
+  ]
+}

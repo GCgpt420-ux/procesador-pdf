@@ -1,0 +1,879 @@
+{
+  "archivo_original": "Ma 15.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 15.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 9,
+  "fecha_procesamiento": "2026-03-07T23:04:07.506733",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n¿En cuál(es) de las figuras dadas en I), II) y en III) se cumple siempre la semejanza \nde los triángulos indicados?  \n \n \n \nI)  \nII) \n \n \n \n \n \n \n \n \n \n \n  \n \n \nIII) \n \n \n \n \n \n \n \n \n\nCUADERNO DE EJERCICIOS N° 15 \n\nGEOMETRÍA PROPORCIONAL I \n\nD \n\nA \n\nB \n\nE \n\nC \n\nD \nB \n\nE \n\nC \nA \n\nAB  // ED , A está en EC  y B está en CD  \n\nAD  y BE  se intersectan en C y AB  // DE \n\nABC  DEC \n\nABC  EDC \n\nC \n\nA \n\nB \nD\n\nAB   CD  \n ABC  ACD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo en II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo en III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo en I y en II"
+        },
+        {
+          "letra": "E",
+          "texto": "En I, en II y en III (Fuente: DEMRE, Publicación 2013)"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 15_p1_img3.jpg",
+        "Ma 15_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn el triángulo ABC de la figura adjunta, DE // CB . Si CB = 28 cm, CD = 7 cm, \n\nAE = 12 cm  y  DE = 16 cm. Entonces, x – y es igual a \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "17 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "1,3 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "1,3 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "0,3 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "0,3 cm D x A E B y"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 15_p1_img3.jpg",
+        "Ma 15_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn la figura adjunta, L1 // L2, AD  y BC  se cortan en E. Si AE = 3x + 2, EB = 5x – 3, \n\nCE = 6y ED = 4, entonces ¿cuánto vale 2x\n\n? \n\nA \nB \n\n3\n\nL1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "22 3x + 2 5x – 3"
+        },
+        {
+          "letra": "B",
+          "texto": "23"
+        },
+        {
+          "letra": "C",
+          "texto": "24"
+        },
+        {
+          "letra": "D",
+          "texto": "25"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 15_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn la figura adjunta, las rectas L4 y L5 intersectan a las rectas paralelas L1, L2 y L3. \n¿Cuál es el valor de 2x? \n \n\nE \n\n4 \n\n6 \n\nL2 \n\nC \nD \n\nL4 \nL5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "8 L1 3 6x + 4 6x – 4"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "8"
+        },
+        {
+          "letra": "E",
+          "texto": "12"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 15_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5.  \nEn la figura adjunta CD  // AB , CD = 8 cm, EC = 4 cm y CB = 10 cm. \n \n\nL2 \n\n28 \n14 \n\nL3 \n\n¿Cuál es la medida de AB ? \n \n \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "10 cm E"
+        },
+        {
+          "letra": "D",
+          "texto": "16 A B 3 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "20 cm (Fuente: DEMRE. Publicación 2019)"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 15_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn el ABC rectángulo en C de la figura adjunta, DE \n BC\n\n. Si ED = 4, BD = 5 y \nDA = 10 , entonces ¿cuánto mide el perímetro del trapecio CADE? \n \n \n\nC \nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "28"
+        },
+        {
+          "letra": "B",
+          "texto": "96"
+        },
+        {
+          "letra": "C",
+          "texto": "35"
+        },
+        {
+          "letra": "D",
+          "texto": "31"
+        },
+        {
+          "letra": "E",
+          "texto": "32 D E B 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 15_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nLos rectángulos de la figura adjunta, son semejantes. Si FG = 60 cm, GH = 90 cm y el \nperímetro del rectángulo ABCD es de 1.080 cm, entonces su lado menor mide \n \n\nA \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "108 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "153 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "216 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "324 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "540 cm H E F G B C"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 15_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn la figura adjunta, L1 // L2.  Si EC = 4 cm  y  CB = 12 cm, entonces Área ECD\n\n \n\nÁrea ABC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 3 E D L1"
+        },
+        {
+          "letra": "B",
+          "texto": "1 9 C"
+        },
+        {
+          "letra": "C",
+          "texto": "2 9"
+        },
+        {
+          "letra": "D",
+          "texto": "9 1 L2 A B"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 15_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9.  \nSe fabrica la réplica de un auto deportivo, en una razón réplica : real = 1 : 24. Si el \nvolante del auto real tiene un diámetro externo de 36 cm, considerando  = 3, el \nperímetro externo del auto réplica mide",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4,5 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "9 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "3 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "6,75 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "1,5 cm"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Un par de lados homólogos de dos hexágonos semejantes miden 3 cm y 6 cm. Si el \n\nárea del polígono mayor mide 84 cm2, entonces ¿cuál es el área del hexágono menor?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "21 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "28 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "42 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "64 cm2 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11.  La figura adjunta muestra la posición de dos aviones en un instante. De acuerdo a los \n\ndatos de ella, ¿cuál es el valor de x? \n \n \n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2.700 m"
+        },
+        {
+          "letra": "B",
+          "texto": "2.800 m"
+        },
+        {
+          "letra": "C",
+          "texto": "2.900 m"
+        },
+        {
+          "letra": "D",
+          "texto": "3.200 m"
+        },
+        {
+          "letra": "E",
+          "texto": "3.600 m"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 15_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En el triángulo ABC de la figura adjunta, D pertenece a AC  y E pertenece a AB . Si  \n\n \n\n800 m \n\n100 m \n\nx \n400 m \n\nDE // BC , ¿cuál es la medida del segmento AE? \n \n \n\nC \n\nD \n10 m \n6 m",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 m"
+        },
+        {
+          "letra": "B",
+          "texto": "6 m"
+        },
+        {
+          "letra": "C",
+          "texto": "7 m"
+        },
+        {
+          "letra": "D",
+          "texto": "9 m"
+        },
+        {
+          "letra": "E",
+          "texto": "10 m x m (x+2) m E B A (Fuente: DEMRE. Publicación 2018)"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 15_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. En el triángulo ABC de la figura adjunta, D pertenece a AC , E pertenece a BC  y \n\nDE // AB . Si AB = 24 cm, BC = 16 cm, CE = 12 cm y CD = 9 cm, entonces el \nperímetro del trapecio ABED es \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "47 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "49 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "45 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "103 cm D E (Fuente: DEMRE. Publicación 2017)"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 15_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En la figura adjunta, si el CAD  DEB, entonces ¿cuál(es) de las siguientes \n\nA \nB \n\nafirmaciones es (son) verdadera(s)? \n \n\nC \n\nI) \nABC  DBE \nII) \nCAB  DEB \nIII) \nEDB  ACB \n\nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III A D B 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 15_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. En la figura adjunta, ABCD es un rectángulo y EF // AB . ¿Cuál(es) de las siguientes \n\nproposiciones es (son) siempre verdadera(s)? \n \n \n\nG\n\nI) \nLos trapecios HIDE y CIHF son semejantes. \nII) \nLos triángulos DIG y FHB son semejantes. \nIII) \nLos trapecios ABHE y CIHF son semejantes. \n \n \n \n\nI \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 15_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16.  En el rectángulo PQRS de la figura adjunta, si PS = 24 cm, PT = 30 cm y TR = 10 cm, \n\nE \n\nF \n\nH \n\nA \nB \n\nentonces el área del trapecio PQUT es  \n \n \n\nS \nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "88 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "384 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "180 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "364 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "360 cm2 T U P Q"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 15_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17.  En el ABC de la figura adjunta, si AF = 8 · FB  y  AD = 40 cm, entonces AC  mide \n \n \n\nC \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "32 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "40 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "45 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "120 cm"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 15_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18.  En el trapecio ABCD de la figura adjunta, sus bases son AB  y CD . Si EF  // AB , \n\nA \nF \nB \n\nBC = 60 cm  y  ED : AE = 1 : 5, entonces BF  mide  \n \n \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "15 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "25 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "50 cm E F A B 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 15_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 19,
+      "enunciado": "19.  Si en el ABC de la figura adjunta, DE // AB. Si el DEC y el trapecio ABED tienen igual \n\nárea, ¿cuál(es) de las siguientes proporciones es (son) verdadera(s)? \n \n\nC \n\nI) \nDE\n1\nAB\n2\n\n \n\nII) \nCE\n2\nCB\n2\n\n \n\nE \nD \n\nIII) \nCD\n2\nDA\n1\n\n \n\nB \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 15_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20.  En el PQR de la figura adjunta, QR  // TS  y QP  // US . Si UR = 3 cm, QT = 5 cm y  \n\nRP = 20 cm, entonces el perímetro del cuadrilátero USTQ es \n \n\nQ",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "37 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "24 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "34 cm"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 15_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. En la figura adjunta, los triángulos ABC y DBC son isósceles. Si AC = BC = 32 cm y  \n\nT \n\nU \n\nR \nP \n\nS \n\nDC = DB = 64 cm, entonces AB  mide \n \n \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "16 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "32 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "48 cm A C B 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 15_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. En el ABC de la figura adjunta, DE \n AB\n\n, DB \n AC\n\n y CB \n AB\n\n. Entonces, ¿cuál(es) \nde las siguientes relaciones es (son) verdadera(s)? \n \n\nB \n\nI) \nABC  DEB \nII) \nDEA  DBE \nIII) \nBAC  DBC \n\nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 15_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. En el triángulo ABC de la figura adjunta, PQ  es tal que el CPQ es congruente con el \n\nD \nC \n\nA \n\nCBA. Si AB = 45 cm, AC = 54 cm y PQ = 15 cm, entonces CQ  mide \n\n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "9 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "15 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "18 cm Q P A B"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 15_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 24,
+      "enunciado": "24.  En el triángulo ABC de la figura adjunta, CD  es bisectriz del BCA y DE  es paralelo a \n\nAC . Si AC = 8 cm y BC = 12 cm, entonces ¿cuál es la medida de BE ? \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7,2 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "6,4 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "5,6 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "8,4 cm E A D B 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 15_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. La figura adjunta está formada por el trapecio y por el cuadrado TQRU. Si TM = MU = 2  \n\ny PS = 6, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nÁrea\nTQM\n1\n3\nÁrea Trapecio MQRU\n\n\n\n \n\nS \n\nU \n\nR \n\nII) \nÁrea\nTQM\n1\n2\nÁrea\nSMU\n\n\n\n\n\n \n\nIII) \nÁrea\nSMU\n1\n4\nÁrea Trapecio PTMS\n\n\n\n \n\nM \n\n \n \n\nQ \nP \nT",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 15_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 26,
+      "enunciado": "26.  En la figura adjunta, AB // FC // ED. Se puede determinar el valor de x, si se sabe \n\nque: \n \n\n(1) AF = x \n\nD \n\n(2) FE = 5 \n \n \n\nE \n\n \n3x – 1  \n3x + 4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 15_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. El triángulo ABC de la figura adjunta, es isósceles de base BC  y P, Q, R pertenecen a \n\nx + 2 \nF \n\nC \n\nA \nB \n\nAB , AC  y BC , respectivamente. Los triángulos PBR y QCR son semejantes, si se sabe \nque:  \n \n\nC \n\n(1) QR es simetral de AC  \n\n(2) PR es simetral de AB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional Q R B A P 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 15_p8_img0.jpg"
+      ]
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Se puede determinar en qué razón se encuentran las áreas de dos triángulos \n\nsemejantes, si se sabe que: \n \n\n(1) la razón entre dos alturas homólogas es 1 : 2. \n\n(2) el centro de gravedad del triángulo, divide a una transversal de gravedad en la \n\nrazón 1 : 2.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29.  En la figura adjunta, el ABC es equilátero y está inscrito en la circunferencia. Se puede \n\ndeterminar que CEB  BED, si se sabe que:  \n \n\nB \n\n(1) CE \n AB\n\n \n\n(2) CE es simetral de AB . \n \n\nE \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "Ma 15_p9_img1.jpg"
+      ]
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. \nEl ABC es escaleno, AB = 10 cm y D pertenece a AB . Se puede determinar el \nperímetro del triángulo DBC, si se sabe que: \n \n\nA \nC \n\n(1) BC = 6 cm \n\nC \n\n(2) \nCAB\nBCD\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional A B D RESPUESTAS"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    }
+  ]
+}

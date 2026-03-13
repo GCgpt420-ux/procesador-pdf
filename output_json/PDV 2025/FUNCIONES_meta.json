@@ -1,0 +1,162 @@
+{
+  "filename": "FUNCIONES.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/FUNCIONES.pdf",
+  "num_paginas": 11,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T15:54:49.580534",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "FUNCIONES \n\n \n",
+      "cantidad_caracteres": 14,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 1224.9248046875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "CAPÍTULO VI: ÁLGEBRA Y FUNCIONES II 343\n\n7.\t FUNCIONES\n\nSean A y B conjuntos no vacíos. Una función de A en B es una relación que asigna a cada elemento x del conjunto \nA uno y sólo un elemento y del conjunto B.\n\nSe expresa como:\n\nf: A \n B\n\nSe lee “f es una función de A en B”.\n\ny es la imagen de x mediante f, y x es la pre-imagen de y. \n\nDominio: es el conjunto de todos los valores (A) para los cuales está definida la función. Se denota Dom f. \n(conjunto de las pre-imágenes)\n\nCodominio: Es el conjunto al cual pertenecen los valores posibles de f(x). Se denota Codom f. o conjunto de \nllegada (B).\n\nRecorrido: Es el conjunto de todos los valores que toma la variable dependiente (y). Se denota Rec f. (conjunto \nde las imágenes)\n\nOBSERVACIONES\n•\t\nx se denomina variable independiente.\n•\t\ny se denomina variable dependiente.\n",
+      "cantidad_caracteres": 829,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 16.9833984375
+        },
+        {
+          "index": 1,
+          "tipo": 1,
+          "tamanio_kb": 7.607421875
+        },
+        {
+          "index": 2,
+          "tipo": 1,
+          "tamanio_kb": 5.3857421875
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "MATEMÁTICA\n344\n\nEJERCICIOS\n\n1.\t Dados los siguientes gráficos indique si es o no es una función en el intervalo [a, b]\n",
+      "cantidad_caracteres": 119,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 111.0478515625
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "CAPÍTULO VI: ÁLGEBRA Y FUNCIONES II 345\n\n2.\t Si f(x) es la función representada en el gráfico de la figura adjunta, determinar\n\na.\t\nLa imagen de 6.\n\nb.\t La imagen de 2.\n\nc.\t\nLa pre-imagen de 4.\n\nd.\t La pre-imagen de 5.\n\ne.\t\nLa imagen de 0.\n\nf.\t\nPre-imagen de -3\n\ng.\t\nLa imagen de -6.\n\nh.\t La pre-imagen de -2.\n\ni.\t\nLa pre-imagen de 0.\n\nj.\t\nLas pre-imagenes de 1.\n\nk. \t Dom f.\n\nl.\t\nRec f.\n\n3.\t Determinar el dominio y recorrido de las siguientes funciones\n\na.\t\nt (x)\t =   x + 1\n\n1\nx - 2\n\nb.\t g (x)\t =\n\nx - 1\n\nc.\t\nf (x)\t =\n\nx\n\n2x - 1\n\nd.\t p (x)\t = \n\nx + 1\n\nc. Dom f = \n – { 0 }; Rec f = \n – { 1 }\nd. Dom p = \n – { -1 }; Rec p = \n – { 2 }\n\ni. 4\nj. –3 y 6.\nk. [ -6, 6 ]\nl. [ -2, 4 ]\n3. a. Dom t = \n; Rec t = \nb. Dom g = \n – { 2 }; Rec g = \n – { 0 }\n\n1.    Si a, b, e, h, j, k, l – No c, d, f, g, i\n2.    a. 1\nb. -1\nc. -6\nd. No tiene\ne. -2\nf. No tiene\ng. 4\nh. 0\n\nRespuestas\n",
+      "cantidad_caracteres": 869,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 16.0595703125
+        },
+        {
+          "index": 1,
+          "tipo": 1,
+          "tamanio_kb": 0.4375
+        },
+        {
+          "index": 2,
+          "tipo": 1,
+          "tamanio_kb": 0.4375
+        },
+        {
+          "index": 3,
+          "tipo": 1,
+          "tamanio_kb": 0.4375
+        },
+        {
+          "index": 4,
+          "tipo": 1,
+          "tamanio_kb": 0.4375
+        },
+        {
+          "index": 5,
+          "tipo": 1,
+          "tamanio_kb": 0.4375
+        },
+        {
+          "index": 6,
+          "tipo": 1,
+          "tamanio_kb": 0.4375
+        },
+        {
+          "index": 7,
+          "tipo": 1,
+          "tamanio_kb": 0.4375
+        },
+        {
+          "index": 8,
+          "tipo": 1,
+          "tamanio_kb": 0.4375
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "MATEMÁTICA\n346\n\n7.1\t\nEVALUACIÓN DE UNA FUNCIÓN\n\nPara encontrar las imágenes de una función, se reemplaza la variable independiente en la fórmula que define la \nfunción, por el número o expresión que corresponda, colocándola entre paréntesis.\n\nALGUNOS TIPOS DE FUNCIONES\n\nFunción Continua\t\n:\t\nGeométricamente es aquella que no presenta cortes en su gráfica. Si la función no es \ncontinua, se llama discontinua.\n\nFunción Creciente\t\n:\t\nEs aquella que al aumentar la variable independiente, también aumenta la variable \ndependiente.\n\nFunción Decreciente\t :\t\nEs aquella que al aumentar la variable independiente, la variable dependiente disminuye.\n\nFunción Constante \t\n:\t\nEs aquella que para todos los valores de la variable independiente, la variable dependiente \ntoma un único valor.\n\nEJERCICIOS\n\n1.\t Sea f: lR \n lR, una función definida por f(x) = 2x – 1. Determine:\n\na.\t\nf(0) =\n\nb.\t\nf(2) =\n\n1\n2\n\nc.\t\nf           =\n\nd.\t\nf(a) =\n\ne.\t\nf(a + 1) =\n\nf.\t\nLa pre-imagen de 9\n\ng.\t\nLa pre-imagen de -7\n",
+      "cantidad_caracteres": 990,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": "CAPÍTULO VI: ÁLGEBRA Y FUNCIONES II 347\n\n2.\t Sea g: lR \n lR, una función definida por g(x)= x2\n\na.\t\ng(3) =\n\nb.\t g(-4) =\n\nc.\t\nLa imagen de -5 =\n\nd.\t Las Pre-imagenes de 36 =\n\ne.\t\ng(b) =\n\nf.\t\ng(c + 1) =\n\ng.\t\nDom g =\n\nh.\t Rec g =\n\n3x + 16\n\n1\n2\n{\n\n{\n\n3.\t Sea h : lR -          \n lR, una función definida por  h (x)=                   , entonces h (5x -2) es  \n\n2x - 1\n\n4.\t En la función f(x) = 2x + a, el valor de f(2) es 5. Entonces, f(3) es\n\n5.\t Dada la función f(3x – 1) = x + 2 determine\n\na.\t\nf(5) =\n\nd.\t f(a) =\n\nb.\t f(-10) =\n\ne.\t\nf(x) =\n\n4\n5\n\nc.\t\nf          =\n",
+      "cantidad_caracteres": 561,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "MATEMÁTICA\n348\n\n6.\t Dada la función f(x + 2) = x2 + 1 determine\n\na.\t f(1) =\n\nb.\t f(-5) =\n\nc.\t\nf(x) =\n\n7.\t Con respecto al gráfico de la figura adjunta, que representa un funcion f : [-7, 5] \n lR, conteste verdadero (V) \nó falso (F) a las siguientes afirmaciones\n\na.\t ____\t f es continua en [-7, 5].\n\nb.\t____\t f es creciente en [-7, 5].\n\nc.\t ____\t f es constante en [-3, 2].\n\nd.\t____\t f es decreciente en [3, 5].\n\ne.\t ____\t f es creciente en [-7, -3].\n\nf.\t ____\t f es constante en [-1, 3].\n\ng.\t ____\t Las pre-imágenes de 4 son infinitas.\n\nh.\t ____\t El dominio de f es [-7, 5].\n\ni.\t ____\t El recorrido de f es [-3, 4].\n\n7.    a. F\nb. F\nc. F\nd. V\ne. V\nf. F\ng. V\nh. V\ni. F\n\n3\n3\n\n4.    7\n5.    a. 4\nb. -1\nc. 2,6\nd. a +7\ne. x +7\n6.    a. 2\nb. 50\nc. x2 - 4x + 5\n\n2x - 1\n\n2.    a. 9\nb. 16\nc. 25\nd. 6 y -6\ne. b2\nf. c2 + 2c + 1\ng. lR\nh. lR \n+\n3.    3x + 2\n\n1.    a. -1\nb. 3\nc. 0\nd. 2a – 1\ne. 2a + 1\nf. 5\ng. -3\n\nRespuestas\n",
+      "cantidad_caracteres": 912,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 12.095703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "CAPÍTULO VI: ÁLGEBRA Y FUNCIONES II 349\n\n7.2\t MODELOS LINEALES\n\nSe denomina Función Afín a la función definida por f(x) = mx + n, con m y n números reales distintos de cero.\n\ny\n\nx\n\nSe denomina Función Lineal a la función definida por f(x) = mx , con m número real distinto de cero.\n\ny\n\nx\n\nSe denomina Función Constante a la función de la forma f(x) = c, con c un número real.\n\ny\n\nx\n\nOBSERVACIONES\n\nLa función lineal f(x) = mx, cumple las siguientes propiedades:\n\n•\t\nPara todo a y b pertenecientes al Dom f se cumple que:    f(a + b) = f(a) + f(b)\n\n•\t\nPara todo a perteneciente al Dom f y  ∈ lR se cumple que:    f(  · a) =  f(a)\n",
+      "cantidad_caracteres": 629,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "texto": "MATEMÁTICA\n350\n\nEJERCICIOS\n\n1.\t Respecto de los gráficos de funciones, clasifique según corresponda en función afín, lineal o constante\n\n2.\t Dada la función f(x) = 3x + 2, determine\n\na.\t\nf(5) =\n\nb.\t\nf(-8) =\n\nc.\t\nf(0,5) =\n\nd.\t\nf(a) =\n\n3.\t Si f(x) = 3x, entonces f(a + b) – f(a) – f(b) es\n\nRespuestas\n1.    a. afin;    b. constante;    c. no es función;    d. lineal;    e. afín;    f. afín;    g. constante;    h. lineal\n2.    a. 17;   b. -22;   c. 3,5;   d. 3a + 2\n3.    0\n",
+      "cantidad_caracteres": 473,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 21.8359375
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "CAPÍTULO VI: ÁLGEBRA Y FUNCIONES II 351\n\n7.3\t APLICACIONES LINEALES\n\nEn el quehacer cotidiano hay muchos problemas que se tratan con funciones, y por ende, es necesario \nsaber expresar una situación práctica en términos de una relación funcional. La función que se obtiene \nproduce un modelo matemático de la situación.\n\nEJERCICIOS\n\n1.\t El costo fijo en una fabrica es $ 150.000 y su costo variable es de $ 1.250 por unidad fabricada. Si la fabrica \n\nproduce A unidades, entonces el costo total T (costo fijo más costo variable) es\n\n2.\t El número de abejas en una colmena al cabo de s semanas es H(s) = 2.700 + 1.000s, para s de 0 a 8, tiempo en \n\nque las abejas se multiplican. Si al cabo de s semanas hay 6.700 abejas, entonces s es igual a\n\n3.\t Un bebé tiene una masa de 12 kilos al cumplir dos años y a los tres años su masa es de 14 kilos. Si la masa y \n\nla edad en años del bebé están relacionados por un modelo lineal entre los dos y los cuatro años, entonces \n¿cuál será la masa del niño cuan",
+      "cantidad_caracteres": 1023,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "texto": "MATEMÁTICA\n352\n\n4.\t El agua se congela a 32 ºF ó 0 ºC y hierve a 212 ºF ó 100 ºC. Entonces, ºF expresado como modelo lineal de ºC es\n\n5.\t Pedrito tiene $300 y su abuelita le regala $1.000 para comprar bolitas de cristal. Si con $100 puede comprar 5 \n\nbolitas, ¿cuántas bolitas puede comprar con todo su dinero si el número de bolitas y el dinero se relacionan \npor un modelo lineal?\n\n6.\t El lado de un cuadrado es x cm. ¿Cuánto mide la diagonal del cuadrado en función del lado?\n\n7.\t Sea f(x) una función definida en los números naturales donde, para cada x en el conjunto de los números \n\nnaturales, f(x) es el sucesor de x. ¿Es f(x) una función lineal?\n\n4.    °F = 1,8·°C + 32°\n5.    65 bolitas\n6. x 2 cm.\n7.    No\n\nRespuestas\n1.    T = 1.250A + 150.000\n2.    4 semanas\n3.    16 kilos\n",
+      "cantidad_caracteres": 787,
+      "imagenes": []
+    }
+  ]
+}

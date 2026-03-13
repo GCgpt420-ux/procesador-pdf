@@ -1,0 +1,329 @@
+{
+  "archivo_original": "TR 01.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TR 01.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 8,
+  "fecha_procesamiento": "2026-03-07T23:07:52.300609",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n¿Cuál de los siguientes números es mayor?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 5"
+        },
+        {
+          "letra": "B",
+          "texto": "3 8"
+        },
+        {
+          "letra": "C",
+          "texto": "0,47"
+        },
+        {
+          "letra": "D",
+          "texto": "3 1 4  2 3 1 -8      "
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn un corral hay patos y gallinas en la razón 3 : 2, respectivamente. Si se triplica el \nnúmero de gallinas y los patos se reducen a la mitad, entonces después de esto los \npatos y las gallinas quedan, respectivamente, en la razón",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 : 2"
+        },
+        {
+          "letra": "B",
+          "texto": "1 : 3"
+        },
+        {
+          "letra": "C",
+          "texto": "1 : 4"
+        },
+        {
+          "letra": "D",
+          "texto": "1 : 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nNuméricamente el área de un círculo y la longitud de su circunferencia están en la \nrazón 3 : 2. ¿Cuántas unidades de longitud mide el diámetro de la circunferencia?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 u"
+        },
+        {
+          "letra": "B",
+          "texto": "4 u"
+        },
+        {
+          "letra": "C",
+          "texto": "6 u"
+        },
+        {
+          "letra": "D",
+          "texto": "12 u 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nSi haciendo compras, gasté el 25% de lo que no gasté, entonces ¿qué porcentaje del \ndinero NO gasté?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60 %"
+        },
+        {
+          "letra": "B",
+          "texto": "80 %"
+        },
+        {
+          "letra": "C",
+          "texto": "75 %"
+        },
+        {
+          "letra": "D",
+          "texto": "125 %"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn un saco hay 75 frutas, siendo las naranjas del 40% y el resto manzanas. Si al saco \nse le hecha una docena de naranjas y se le extrae una docena de manzanas, ¿qué \nporcentaje serán las naranjas, respecto del nuevo total?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "56%"
+        },
+        {
+          "letra": "B",
+          "texto": "64%"
+        },
+        {
+          "letra": "C",
+          "texto": "74%"
+        },
+        {
+          "letra": "D",
+          "texto": "84%"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi a = 2n y b = 2 + n, entonces ¿cuál de las siguientes afirmaciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a = (4b)-1"
+        },
+        {
+          "letra": "B",
+          "texto": "a = 2b"
+        },
+        {
+          "letra": "C",
+          "texto": "a = 3(4b)-1"
+        },
+        {
+          "letra": "D",
+          "texto": "a = 0,25 · 2b 5 d"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nSi w =\nc\n3\n  y  d = c , entonces \n\n= \n\nw",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "c 3"
+        },
+        {
+          "letra": "B",
+          "texto": "c5 6"
+        },
+        {
+          "letra": "C",
+          "texto": "c6 5"
+        },
+        {
+          "letra": "D",
+          "texto": "c10 3"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSi A = \n7 , B = \n3  + \n4  y C = 11  - \n4 , entonces",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A = B = C"
+        },
+        {
+          "letra": "B",
+          "texto": "C < A < B"
+        },
+        {
+          "letra": "C",
+          "texto": "B < A < C"
+        },
+        {
+          "letra": "D",
+          "texto": "C < B < A 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. ¿Cuál de los siguientes números NO pertenece a los enteros?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 8 "
+        },
+        {
+          "letra": "B",
+          "texto": "0,12 0,3"
+        },
+        {
+          "letra": "C",
+          "texto": "1 1 1 5 5 "
+        },
+        {
+          "letra": "D",
+          "texto": "2,9"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Sean p, q y r números reales, tales que r < q < p, ¿cuál de las siguientes afirmaciones \n\nes verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p r   lR"
+        },
+        {
+          "letra": "B",
+          "texto": "q r  lR"
+        },
+        {
+          "letra": "C",
+          "texto": "r + q > p"
+        },
+        {
+          "letra": "D",
+          "texto": "q p   lR"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Si en una encuesta se entrevista a 1.500 mujeres, y de ellas 645 dice preferir perfumes \n\ncítricos, entonces la razón entre las mujeres que prefieren perfumes cítricos y el total, \nNO se puede expresar como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "43%"
+        },
+        {
+          "letra": "B",
+          "texto": "86 de cada 200 mujeres."
+        },
+        {
+          "letra": "C",
+          "texto": "0,43 de la unidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Tres veinteavos del total de mujeres."
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. a – n es igual a  3\n\n5 a, si se sabe que: \n\n \n\n(1) a + n es el 140% de a. \n(2) a – n es el 60% de a.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere de información adicional 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. La expresión n p  q\n\n, con n, p y q enteros positivos, es real, si: \n\n \n\n(1) n + 3 es par. \n(2) p  q",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere de información adicional RESPUESTAS EJERCICIOS DE DESARROLLO"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    }
+  ]
+}

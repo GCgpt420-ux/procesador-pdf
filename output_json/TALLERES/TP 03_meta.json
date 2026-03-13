@@ -1,0 +1,299 @@
+{
+  "filename": "TP 03.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TP 03.pdf",
+  "num_paginas": 7,
+  "titulo": "",
+  "autor": "miguel gajardo plaza",
+  "fecha_procesamiento": "2026-03-07T16:02:23.561910",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nCurso: Matemática  \n\n \n\n \nTALLER PRÁCTICO  Nº 3 \n \n \n \n1. \n3-2 – 9-1 + 2-3 = \n \n \n\nA) -26 \nB)   -8 \n\nC)   1\n\n8   \n\nD)    8 \n\n \n \n \n \n\n2. \nSi a = 5\n\n, b = 2\n3   y c = 7\n\n, entonces el orden creciente es \n\n5\n\n7\n\n \n\nA) b, c, a \nB) b, a, c \nC) a, b, c \nD) a, c, b  \n\n \n \n \n \n \n3. \n(PAES 2) ¿Cuál de las siguientes afirmaciones no  es válida? \n \n\nA)  Si log2 \n1\n16  = x, entonces x = -4. \n\nB)   Si \n2\nlog x = 16, entonces x = 256. \n\nC) Si \nX\nlog  \n1\n25  = 2, entonces x = 0,2. \n\nD) Si \nx\nlog 16\n2,entonces x = -4  \n\n \n \n \n \n \n \n \n \n \n \n \n \n\n1 \n \n",
+      "cantidad_caracteres": 544,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 4,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 5,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 6,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 7,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 8,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 9,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 10,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n\n4. \nUn postre contiene x partes de helado e y partes de fruta. ¿Qué porcentaje del postre \ncorresponde a fruta? \n \n \n\nA) \nx + y\n\n100y % \n\nB) \n100x\nx + y % \n\nC) \n100y\nx + y %  \n\nD) \n x + y\n\n100x % \n\n \n \n5. \nUna farmacia para competir en el mercado decide bajar el precio de un medicamento \nen un 20%. Pasado un tiempo requiere venderlo al precio original. ¿En qué porcentaje \ndebe subir el nuevo precio? \n \n \n\nA) En un 20% \nB) En un 25%  \nC) En un 28% \nD) En un 30% \n\n \n \n \n6. \nSi f(x) = 3x  y  a  0, entonces el perímetro del triángulo rectángulo sombreado de la \nfigura adjunta  es \n \n \n\nf(x) \n \n\ny \n\n \nA) 8a \nB) 4a(1 + 10 ) \n\nC) a(4 + 10 )  \n\nD) 4a + 10  \n \n \n \n \n7. \nDentro de a años Roberto tendrá (p – a) años y Andrea hace a años tenía la edad \nactual de Roberto. ¿Cuál es la suma de las edades actuales? \n \n \n\nx \na \n\nA) 2p + a \nB) 2p – a \nC) 2p – 2a \nD) 2p – 3a  \n\n \n \n \n\n2 \n \n",
+      "cantidad_caracteres": 888,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1435546875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1455078125
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.1435546875
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.1640625
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.1982421875
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 7,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \n\n8.   Si a, b, m y n son números reales positivos y se verifica que  a\nm\n = \nb\nn   y                     \n\n2a + 3b = 6m + 9n, entonces a · b =  \n \n\nA)   6mn \nB)   9mn  \nC) 36mn \nD) 2m2 + 5mn + 3n2 \n\n \n \n \n \n \n9. \nEl ingreso que genera la fabricación de x televisores, está dado por la función  \nT(x) = -x2 + 16x – 34. ¿Cuál es la cantidad de televisores que se debe fabricar para \nque el ingreso sea máximo? \n \n \n\nA)   2 \nB)   4 \nC)   8  \nD) 30 \n\n \n \n \n10. La función que permite calcular la suma de los primeros n números naturales es                 \n\nf(n) = n\n\n2 (n + 1). La suma de los números naturales mayores o iguales a 20 y menores \n\nque 100 es igual a \n \n\nA) 5.050 \nB) 4.860  \nC) 4.840  \nD) 4.760  \n \n \n \n11. (PAES 2) El rectángulo A1B1C1D1 de la figura adjunta es imagen homotética del \n\nrectángulo ABCD con centro H, la razón de homotecia podría ser \n \n\n \nA \nD \n\nA)  = -2 \n\nB)  = - 1\n\nC1 \n\nB1 \n\n2   \n\nH \n\nC)  = 1 \n\nD)  = 1\n\n2  \n\nD1 \n\nA1 \n\nC \nB \n\nE)  = 2 \n \n \n \n \n\n3 \n \n",
+      "cantidad_caracteres": 988,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1826171875
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 5,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": " \n\n12. Al punto P(x, y) se le aplica una rotación de magnitud 180º con centro en el  \n\npunto (2, 3) y luego una traslación según el vector T(3, 2), las coordenadas resultantes \ndel punto P luego de aplicada las trasformaciones son \n\n \n \nA) (3 – x, 2 - y)  \nB) (4 – x, 6 - y) \nC)  (x + 3, y + 2)  \nD) (7 – x, 8 - y)  \n \n \n13. La figura adjunta, representa el perfil de la escalera de una casa, cuyos peldaños tienen \n\ntodos la misma altura y el mismo largo. Si AB  = 2m  y  el BCA = 30º, ¿cuál es la \n\nmedida del largo de cada peldaño? \n \n \n\nA \n\nA) 2 3\n\n3\n \n\n \n2 m \n\nB) \n3\n6  \n\nC) \n3\n2  \n\nB \nC \n\nD) \n3\n3  \n\n \n14. En la figura adjunta, OABC es un cuadrado y E es el punto de intersección de la recta   \n\ny = x con la recta y = a\nx\n + \n3\n2  que pasa por el punto D. La razón entre las áreas del \n\nDOE y del cuadrado OABC es \n \n \n\ny = x \n\ny \n\nC \nB \n\n \nA) 1 : 4 \nB) 1 : 5 \nC) 1 : 7 \nD) 1 : 9  \n \n \n \n \n15. Considerando los datos de la figura adjunta,  ¿cuál es el valor de x + y?    \n \n \n\ny = \n \n\nE \n\nD ",
+      "cantidad_caracteres": 1090,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.2255859375
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1787109375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 0.1162109375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.17578125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.2138671875
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.1572265625
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.189453125
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.30078125
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.2197265625
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.150390625
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.240234375
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.208984375
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.2060546875
+        },
+        {
+          "index": 14,
+          "tipo": 4,
+          "tamanio_kb": 0.2060546875
+        },
+        {
+          "index": 15,
+          "tipo": 4,
+          "tamanio_kb": 0.205078125
+        },
+        {
+          "index": 16,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": " \n\n16. En la asignatura de Matemática, Pedro tiene un promedio de 5,2 con 9 notas. Si tiene \n\nque eliminar las dos notas más bajas, que son un 2,5 y un 3,0, ¿cuál es su nuevo \npromedio? \n \n\nA) 5,9  \nB) 5,7 \nC) 5,6 \nD) 5,3 \n \n \n \n17. A una fiesta de fin de año asisten 80 hombres, 100 mujeres y 60 niños. Si hubieran \n\nasistido 30 parejas más y 20 niños más, entonces la frecuencia relativa de los niños  \n \n \n\nA) aumentaría en un 33,3%. \nB) disminuiría en un 25%. \nC) aumentaría en un 25%. \nD) se mantendría igual.  \n \n \n \n \n18. (PAES 2) Si se tiene el conjunto de todos los números de una, dos o tres cifras \n\ndistintas que se pueden construir con los dígitos 2, 3 y 4, y de este conjunto se toma \nun número al azar,  ¿cuál es la probabilidad que este número sea impar? \n \n \n\nA) 1\n\n5  \n\nB) 1\n\n3  \n\nC) 1 \n\nD) 2\n\n3  \n\nE) \n3\n5  \n\n \n \n \n19. (PAES 2) A un congreso asisten 60 personas de las cuales 40 sólo hablan inglés y 20 \n\nsólo alemán.  ¿Cuántos diálogos (entre 2 personas) pueden establecerse si",
+      "cantidad_caracteres": 1092,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": " \n\n20. \nLos romanos jugaban con un dado de 14 caras; 6 cuadradas y 8 triangulares.  Si al \nhacer rodar uno de estos dados, la probabilidad de que la cara superior sea cuadrada, \nes el doble de que sea triangular, entonces al lanzar uno de estos dados, ¿cuál es la \nprobabilidad de que la cara superior sea triangular?     \n \n \n \n\nA) \n2\n5   \n\nB) \n3\n5   \n\nC) \n3\n8   \n\nD) \n3\n7  \n\n \n \n21. (PAES 2) Se puede determinar la abscisa del vértice de la parábola f(x) = x2 + px + q, \n\nsi: \n \n\n(1) se conoce el valor numérico de q. \n(2) se conoce el valor numérico de p. \n \n\nA) (1) por sí sola \nB) (2) por sí sola  \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n \n22. (PAES 2) Un nadador realiza varias pruebas en su especialidad de 800 m. Se puede \n\ndeterminar el promedio de los tiempos obtenidos en las pruebas, si se conoce: \n \n\n(1) el número de pruebas efectuadas. \n\n(2) la mediana y la moda de los tiempos. \n \n\nA) (1) por sí sola \nB) (2) por sí",
+      "cantidad_caracteres": 1137,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": " \n\nMini Desafío. \n \nAnte la pregunta, ¿qué hora es?, un profesor de Matemática respondió: “del día ha \ntranscurrido el 60% del tiempo que falta por transcurrir”. ¿A qué hora le hicieron la \npregunta al profesor? \n \n \n \n\n7 \n \n",
+      "cantidad_caracteres": 228,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

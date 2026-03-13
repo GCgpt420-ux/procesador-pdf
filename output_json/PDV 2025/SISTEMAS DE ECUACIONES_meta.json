@@ -1,0 +1,191 @@
+{
+  "filename": "SISTEMAS DE ECUACIONES.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/SISTEMAS DE ECUACIONES.pdf",
+  "num_paginas": 9,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T16:00:54.882596",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "SISTEMAS DE ECUACIONES \n\n \n",
+      "cantidad_caracteres": 27,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 1224.9248046875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "CAPÍTULO VI: ÁLGEBRA Y FUNCIONES II 325\n\n4.\t SISTEMAS DE ECUACIONES\n\nDos ecuaciones de primer grado, que tienen las mismas dos incógnitas, constituyen un sistema de ecuaciones \nlineales. Gráficamente las dos rectas se representan en un plano cartesiano .\n\nLa forma general de un sistema de ecuaciones de primer grado es:\n\n  \t\n\t\n\t\n           donde A, B, C, D, E y F son números reales.\n\nSe denomina solución del sistema a todo par ordenado (x, y) que satisfaga simultáneamente ambas ecuaciones. \nEl par ordenado (x, y) es el punto de intersección de las rectas que están representadas en el plano cartesiano.\n\n4.1\t RESOLUCIÓN ALGEBRAICA\n\nPara resolver algebraicamente un sistema de ecuaciones lineales con dos incógnitas existen varios métodos; \nestudiaremos sólo tres de ellos: sustitución, igualación y reducción.\n\nMÉTODO DE IGUALACIÓN: Se debe despejar la misma variable en ambas ecuaciones y luego éstos resultados \nse igualan, generándose así una ecuación con una incógnita.\n\nMÉTODO DE SUSTITUCIÓ",
+      "cantidad_caracteres": 1390,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2.41015625
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "MATEMÁTICA\n326\n\nEJERCICIOS\n\n1.\t El par ordenado (2, 3) es solución del (de los) sistema(s):\n\n2.\t En el sistema \t\t\n              , el valor de y es\n\n3.\t En el sistema            \t\n\t\n , el valor de x es\n\n4.\t La solución del sistema   \t\n            es\n",
+      "cantidad_caracteres": 249,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 10.806640625
+        },
+        {
+          "index": 1,
+          "tipo": 1,
+          "tamanio_kb": 2.0224609375
+        },
+        {
+          "index": 2,
+          "tipo": 1,
+          "tamanio_kb": 2.103515625
+        },
+        {
+          "index": 3,
+          "tipo": 1,
+          "tamanio_kb": 1.9306640625
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "CAPÍTULO VI: ÁLGEBRA Y FUNCIONES II 327\n\n5.\t Si el punto de intersección de las rectas asociadas al sistema                                                 es P, ¿cuáles son las \n\ncoordenadas de los puntos A, B, C, D, y P?\n\n6.\t En la figura adjunta, P es el punto de intersección de las rectas L1 y L2 entonces, las coordenadas del punto P son\n\n1.    a, c, y d.\n2.    3\n3.    2\n4.  (1, 2)\n5. A(-3, 0); B(0, 1); C(0, -4); D(2, 0); P(3, 2)\n6. (4, 2)\n\nRespuestas\n",
+      "cantidad_caracteres": 460,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2.6630859375
+        },
+        {
+          "index": 1,
+          "tipo": 1,
+          "tamanio_kb": 9.578125
+        },
+        {
+          "index": 2,
+          "tipo": 1,
+          "tamanio_kb": 11.017578125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "MATEMÁTICA\n328\n\n4.2\t ANÁLISIS DE SISTEMAS DE ECUACIONES \n\nLINEALES CON DOS INCÓGNITAS\n\nSea el sistema:                                                    . Entonces:\n\ny\n\n1)\t\nEl sistema tiene solución única si\n\nEj.\t\n\t \t\n\t\n\t\n\nx\n\nRectas concurrentes (secantes)\n\ny\n\n2)\t\nEl sistema tiene infinitas soluciones si\n\nEj.\t\n\t \t\n\t\n\t\n         \n\nx\n\nRectas coincidentes\n\ny\n\n3)\t\nEl sistema no tiene solución si\n\nEj.\t\n\t \t\n\t\n\t\n\t\n \n\nx\n\nRectas paralelas\n",
+      "cantidad_caracteres": 434,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 3.0107421875
+        },
+        {
+          "index": 1,
+          "tipo": 1,
+          "tamanio_kb": 1.94140625
+        },
+        {
+          "index": 2,
+          "tipo": 1,
+          "tamanio_kb": 1.32421875
+        },
+        {
+          "index": 3,
+          "tipo": 1,
+          "tamanio_kb": 6.017578125
+        },
+        {
+          "index": 4,
+          "tipo": 1,
+          "tamanio_kb": 1.6552734375
+        },
+        {
+          "index": 5,
+          "tipo": 1,
+          "tamanio_kb": 2.2177734375
+        },
+        {
+          "index": 6,
+          "tipo": 1,
+          "tamanio_kb": 3.666015625
+        },
+        {
+          "index": 7,
+          "tipo": 1,
+          "tamanio_kb": 2.2060546875
+        },
+        {
+          "index": 8,
+          "tipo": 1,
+          "tamanio_kb": 1.9833984375
+        },
+        {
+          "index": 9,
+          "tipo": 1,
+          "tamanio_kb": 6.345703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "CAPÍTULO VI: ÁLGEBRA Y FUNCIONES II 329\n\nEJERCICIOS\n\n1.\t Indique si los siguientes sistemas tiene solución única, no tiene solución o tiene infinitas soluciones.\n\nSolución única:\n\nNo tiene solución:\n\nInfinitas soluciones:\n",
+      "cantidad_caracteres": 222,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 43.6279296875
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "MATEMÁTICA\n330\n\n2.\t ¿Para qué valor de k el sistema                                     no tiene solución?\n\n3.\t Si en el sistema                                       p y q son reales no nulos, ¿qué condición deben cumplir p y q para que \n\ntenga solución única?\n\n4.\t Si el sistema                                     tiene infinitas soluciones, entonces el resultado de a + b es\n\n5.\t Si el sistema                                   no tiene solución, entonces el valor de k es\n\n2. k = -4\n3. p·q ≠ 10\n4. a + b = 6\n5. – 4\n\nRespuestas\n1. Solución única: b, d, j, k, l, o.\nNo tiene solución: a, f, i, m.\nInfinitas soluciones: c, e, g, h, n.\n",
+      "cantidad_caracteres": 637,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 1,
+          "tamanio_kb": 2.193359375
+        },
+        {
+          "index": 1,
+          "tipo": 1,
+          "tamanio_kb": 2.580078125
+        },
+        {
+          "index": 2,
+          "tipo": 1,
+          "tamanio_kb": 2.5185546875
+        },
+        {
+          "index": 3,
+          "tipo": 1,
+          "tamanio_kb": 2.3583984375
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "CAPÍTULO VI: ÁLGEBRA Y FUNCIONES II 331\n\n5.\t APLICACIONES DE LOS \n\t\nSISTEMAS DE ECUACIONES \t \t\n\t\nLINEALES\n\nLos sistemas de ecuaciones lineales tienen aplicación en problemas de planteo cuyo enunciado implica \nutilizar dos ecuaciones de dos incógnitas que podrá ser resuelto mediante un sistema de ecuaciones. Cómo \npor ejemplo: problemas de edades, de cifras o dígitos, etc.\n\nEJERCICIOS\n\n1.\t El enunciado: “El doble de, un número (x) aumentado en 3, es igual a un segundo número (y), y la cuarta parte \n\nde su diferencia entre x e y, respectivamente, es ‒12”, está representado por\n\n2.\t Un coleccionista compra dos antigüedades (A y B) por $ 28.000 y las vende en $ 30.000. Si por la venta de \n\nambas, en A ganó el 30% y por la otra perdió el 10% sobre el precio de compra, ¿cuál es el sistema que permite \ndeterminar los precios de costos de cada antigüedad?\n\n3.\t Juan con $ 5.600 compra 20 lápices; unos que cuestan $ 250 y otros que cuestan $ 300. ¿Cuántos lápices de \n\n$ 300 compró?\n",
+      "cantidad_caracteres": 987,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "texto": "MATEMÁTICA\n332\n\n4.\t La suma de dos números es 42 y su diferencia, respectivamente, es 12. ¿Cuáles son estos números?\n\n5.\t Hallar el número de dos dígitos, tal que la suma de sus cifras es 9 y cuando se invierte el orden de sus cifras se \n\nobtiene un segundo número que excede en 9 al cuádruplo del número original.\n\n6.\t Si un hilo de 6 metros de largo se divide en dos partes de modo que uno de ellos es 100 cm más largo que el \n\notro, ¿cuáles son las longitudes de cada parte?\n\n7.\t Por la compra de 3 vacas y 7 terneros se paga $ 480.000, mientras que por la compra de 7 vacas y 3 terneros se \n\npaga $ 560.000. ¿Cuál es el costo de 5 vacas y 5 terneros?\n\n6.    350 cm y 250 cm\n7.    $ 520.000\n\n = ‒12\nx - y\n4\n\n1,3A + 0,9B = 30.000\n\n1. \n2. \n3.    12\n4.    27 y 15\n5.    18\n\nA + B = 28.000\n\n2 (x + 3) = y\n\nRespuestas\n",
+      "cantidad_caracteres": 816,
+      "imagenes": []
+    }
+  ]
+}

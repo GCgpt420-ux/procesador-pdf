@@ -1,0 +1,876 @@
+{
+  "archivo_original": "Ma 16.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 16.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 8,
+  "fecha_procesamiento": "2026-03-07T23:03:30.791769",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEl trazo PQ  de la figura adjunta mide 18 cm. Si  PR : PQ = 2 : 9,  entonces la diferencia \n\nCUADERNO DE EJERCICIOS N° 16 \n\nGEOMETRÍA PROPORCIONAL II \n\nentre las medidas de los segmentos RQ  y PR  es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "7 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "14 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "16 cm R P Q"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 16_p1_img3.jpg",
+        "Ma 16_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn la figura adjunta, el punto P divide interiormente al segmento AB , de modo que \n\nAP > PB. Si la suma de los segmentos es 36 cm y su diferencia es 4 cm, entonces ¿en \n\nqué razón están los segmentos AP  y PB , respectivamente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 : 1"
+        },
+        {
+          "letra": "B",
+          "texto": "5 : 4"
+        },
+        {
+          "letra": "C",
+          "texto": "9 : 1"
+        },
+        {
+          "letra": "D",
+          "texto": "9 : 4 P A B"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 16_p1_img3.jpg",
+        "Ma 16_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn un trazo AB  un punto P lo divide en razón áurea, tal que AP < PB. Si AB = 13 cm y  \nPB = x, entonces la ecuación para determinar x es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x2 – 13x – 169 = 0"
+        },
+        {
+          "letra": "B",
+          "texto": "x2 + 39x + 169 = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "x2 – 13x + 169 = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "x2 – 39x + 169 = 0"
+        },
+        {
+          "letra": "E",
+          "texto": "x2 + 13x – 169 = 0"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn el triángulo ABC rectángulo en C de la figura adjunta, si CD  es altura y \n\nCB = 2 DB = 8\n\n cm, entonces AB  mide",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "8 2 cm C"
+        },
+        {
+          "letra": "C",
+          "texto": "8 3 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "16 cm A B D"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 16_p1_img3.jpg",
+        "Ma 16_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn el triángulo ACD de la figura adjunta, AD  DC\n\n, BD  es altura. Si BC = 2 cm y \nDB = 4cm, entonces el área del triángulo ACD es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "32 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "28 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "24 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "20 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "16 cm2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 16_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEl triángulo ABC de la figura adjunta es rectángulo en C. Si h es altura, entonces es \ncorrecto afirmar que \n\nD \n\nA \nB \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p + h = a2"
+        },
+        {
+          "letra": "B",
+          "texto": "b2 = q(p + q)"
+        },
+        {
+          "letra": "C",
+          "texto": "ab = p + q"
+        },
+        {
+          "letra": "D",
+          "texto": "ap = q C b a h"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 16_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nLas proyecciones de los catetos sobre la hipotenusa del triángulo ABC rectángulo en C \nde la figura adjunta, con CD  altura, son \n \n \n\nD \nq \nA \nB \np \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,8 y 8,2"
+        },
+        {
+          "letra": "B",
+          "texto": "3,6 y 6,4"
+        },
+        {
+          "letra": "C",
+          "texto": "4,0 y 6,0"
+        },
+        {
+          "letra": "D",
+          "texto": "6,5 y 8,5"
+        },
+        {
+          "letra": "E",
+          "texto": "8,0 y 10,0"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 16_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \n¿Cuál es el área de un triángulo rectángulo, si las proyecciones de los catetos sobre la \nhipotenusa miden 16 cm y 4 cm? \n \n \n\n6 \n8 \n\nA\nB\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "60 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "40 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "20 cm2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEn la figura adjunta, ABD es un triángulo rectángulo en A y AC  es altura. De acuerdo a \nlos datos de la figura, el perímetro del triángulo ABD es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "36 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "(4 5 +10) cm D C B 8 2"
+        },
+        {
+          "letra": "D",
+          "texto": "(6 5 +10) cm"
+        },
+        {
+          "letra": "E",
+          "texto": "20 5 cm A 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 16_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. ¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s), con respecto al \n\ntriángulo ABC rectángulo en B de la figura adjunta, donde BD  es altura? \n\n \n \n\nC \n\nI) \nAD = 8 cm \nII) \nBD = 2\n3  cm \nIII) \nEl triángulo ABC es escaleno. \n\n2 \n\nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 16_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. En el triángulo ABC rectángulo en C de la figura adjunta, si CD = \n14  cm y es altura, \nentonces 2x es igual a \n \n \n\n4 \n\nB \n\nA \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "4 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "7 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "9 cm"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 16_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En la figura adjunta, ABC es un triángulo rectángulo en C. Si CD  es su altura y CE  es  \n\nA \nD \nx + 5 \nB \n\nx \n\ntransversal de gravedad del ABC, entonces el área de la región achurada es \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "17 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "19,5 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "38 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "39 cm2"
+        },
+        {
+          "letra": "E",
+          "texto": "78 cm2"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 16_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. En la circunferencia de centro O de la figura adjunta, PD y PA son secantes. Si \n\n6  \n\nA \nB \n\n9  \nD \n\nE \n\nAP = 16 cm, CP = 8 cm  y  BP = 6 cm, entonces la medida de DC  es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "6 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "8 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "12 cm D C P B A O 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 16_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En la figura adjunta, PA y PB son secantes a la circunferencia. Si PC = 2 cm, \n\nDA = 1 cm  y PC : PB = 1 : 3, ¿cuánto mide PD ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "8 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "4 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "3 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "0,5 cm B C P D"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 16_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Las cuerdas AB  y CD  de la circunferencia de la figura adjunta, se cortan en P. Si  \n\nA \n\nAB = 10 , CP = 3  y  CD = 11, entonces la ecuación para determinar la medida x del \nsegmento AP es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x2 – 10x + 24 = 0"
+        },
+        {
+          "letra": "B",
+          "texto": "x2 + 10x – 33 = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "x2 – 10x – 24 = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "x2 – 10x + 33 = 0 B C P A D"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 16_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En la circunferencia de centro O y diámetro AB  de la figura adjunta, CE\nAB\n\n. Si  \nCD = 8 cm y DB = 4 cm, ¿cuánto mide el perímetro de la circunferencia?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "20 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "32 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "80 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "100 cm"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 16_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. En la circunferencia de la figura adjunta, AC  es diámetro y BD  es una cuerda. Si \n\nC \n\nO \n● \nA \nB \n\nD \n\nE \n\nAC\nDB\n\n, entonces ¿cuál(es) de las siguientes afirmaciones es (son) siempre \nverdadera(s)? \n \n\nI) \nABC congruente ADC. \nII) \nDE  EB   \nIII) \nABC es isósceles de base AC .",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III D C E B A 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 16_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Sean ABC y A’B’C’ dos triángulos semejantes, con AC  y A 'C'  lados homólogos,  \n\nAC = 20 cm y A’C’ = 8 cm. Si el triángulo ABC tiene un área de M cm2, ¿cuál de las \nsiguientes expresiones representa el área del triángulo A’B’C’, en cm2?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25 M 4 "
+        },
+        {
+          "letra": "B",
+          "texto": "2 M  5"
+        },
+        {
+          "letra": "C",
+          "texto": "5 M  2"
+        },
+        {
+          "letra": "D",
+          "texto": "4 M 25 "
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de las anteriores (Fuente: DEMRE. Publicación 2014)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. El triángulo ABC de la figura adjunta es rectángulo en C, CD\nAB\n\n y DE\nAC\n\n. ¿Cuál de \nlas siguientes proporciones es FALSA, si las áreas de los triángulos ADE, DCE y BCD son \nrespectivamente 49, 16 y 25 unidades cuadradas? \n\n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "EC 4 DE 7 "
+        },
+        {
+          "letra": "B",
+          "texto": "DB 5 EC 4  E"
+        },
+        {
+          "letra": "C",
+          "texto": "AB 12 DB 5  B D A"
+        },
+        {
+          "letra": "D",
+          "texto": "AE 7 CD 5 "
+        },
+        {
+          "letra": "E",
+          "texto": "ED 4 CD 5 "
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 16_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En la figura adjunta se tiene que AD = 2 cm  y  BD = 16 cm. ¿Cuál es el área del \n\ntriángulo ABC, si AC es tangente en C a la circunferencia de centro O?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "64 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "38 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "32 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "38 2 cm2 O B C D"
+        },
+        {
+          "letra": "E",
+          "texto": "36 2 cm2 A 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 16_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. En la circunferencia de centro O de la figura adjunta, AB  es diámetro y CB es tangente \n\nen B. Si el triángulo ABC es isósceles, entonces CD  mide \n \n \n\nB \n\n4 \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "2 10 cm D O"
+        },
+        {
+          "letra": "C",
+          "texto": "2 2 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "4 cm"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 16_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. En el triángulo PQR de la figura adjunta, PS = 4 y SQ = 15. ¿Cuál es  la longitud de PR ? \n \n \n\nA \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60"
+        },
+        {
+          "letra": "B",
+          "texto": "76"
+        },
+        {
+          "letra": "C",
+          "texto": "14"
+        },
+        {
+          "letra": "D",
+          "texto": "60"
+        },
+        {
+          "letra": "E",
+          "texto": "76"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 16_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. En el triángulo ABC de la figura adjunta, \nCAB\nCDE\n\n AC = 15 cm, CD = 5 cm y        \n\nP \nQ \nS \n\nCE = 6 cm. ¿Cuál es a medida de BE ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "6 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "16 cm"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 16_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. El cuadrilátero ABCD de la figura adjunta es un rectángulo en que AB = 4 cm y             \n\nC \n\nD \nE \n\nA \nB \n\nBC = 3 cm. El segmento AE mide \n \n \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,5 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "1,8 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "2,0 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "2,5 cm E A B 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 16_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. La figura adjunta muestra un cuadrado de perímetro 8 cm, inscrito en un triángulo \n\nequilátero. ¿Cuál es el perímetro del triángulo equilátero?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(6 + 4 3) cm"
+        },
+        {
+          "letra": "B",
+          "texto": "(10 + 2 3) cm"
+        },
+        {
+          "letra": "C",
+          "texto": "(6 + 5 2) cm"
+        },
+        {
+          "letra": "D",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "No se puede determinar."
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 16_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. Un segmento AB  de 42 cm se ha dividido interiormente por un punto P. Se puede \n\ndeterminar la longitud del segmento menor, si se sabe que: \n\n \n(1) PB : AB = 5 : 7 \n\n(2) AP : AB = 2 : 7",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. En el triángulo ABC de la figura adjunta, es posible determinar la medida del segmento \n\nCD , si se sabe que: \n\n \n(1) AD = 4 cm, DB = 9 cm y CD  es altura. \n\nC \n\n(2) el triángulo BCD es rectángulo en D.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 16_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Sea PC y PB secantes a la circunferencia de centro O de la figura adjunta. Se puede \n\nA \nD \nB \n\ndeterminar la medida de CB , si se sabe que: \n \n\nC \n\n(1) el perímetro del PBC es 28 cm. \n\nD \n\n(2) DC = 3 cm \n \n\n4 cm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional B A P 2 cm 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 16_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. En la circunferencia de centro O y diámetro BD de la figura adjunta, CA  es cuerda. E \n\nes la intersección de las dos cuerdas. Se puede determinar la medida del segmento CE , \nsi se sabe que: \n \n\nB \n\n(1) BE = 4 cm  y  BD = 20 cm \n(2) CEB  AEB \n\nA \n\nE \n\n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 16_p8_img1.jpg"
+      ]
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. En la figura adjunta se puede determinar que el área del triángulo MBN es la cuarta \n\nO \n\nD \n\nparte del área del triángulo ABC, si se conoce: \n \n\n(1) \nCAB\nNMB\n\n \n\nC \n\n(2) M y N son puntos medios de AB  y BC . \n \n\nN",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada uno por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional A M B RESPUESTAS"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 16_p8_img1.jpg"
+      ]
+    }
+  ]
+}

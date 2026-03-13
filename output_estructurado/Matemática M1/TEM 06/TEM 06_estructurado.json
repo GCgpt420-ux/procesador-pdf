@@ -1,0 +1,645 @@
+{
+  "archivo_original": "TEM 06.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 06.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 6,
+  "fecha_procesamiento": "2026-03-07T23:07:10.540060",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSi el triángulo ABC de la figura adjunta es isósceles de base BC. ¿Cuánto mide el \nángulo CAB? \n \n \n\nGEOMETRÍA II \nTEM-06 \n\nC \n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "108°"
+        },
+        {
+          "letra": "B",
+          "texto": "112°"
+        },
+        {
+          "letra": "C",
+          "texto": "120°"
+        },
+        {
+          "letra": "D",
+          "texto": "144°"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "TEM 06_p1_img3.jpg",
+        "TEM 06_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \n¿Cuál de las siguientes afirmaciones es siempre verdadera? \n \n\n4 \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Las diagonales de un rectángulo son perpendiculares."
+        },
+        {
+          "letra": "B",
+          "texto": "Las diagonales de un rombo son bisectrices de sus ángulos."
+        },
+        {
+          "letra": "C",
+          "texto": "Las diagonales de un trapecio isósceles son perpendiculares."
+        },
+        {
+          "letra": "D",
+          "texto": "Las diagonales de un rectángulo son bisectrices de sus ángulos."
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn un triángulo cualquiera se forman cuatro triángulos congruentes, si en él se trazan \nlas tres",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "alturas."
+        },
+        {
+          "letra": "B",
+          "texto": "medianas."
+        },
+        {
+          "letra": "C",
+          "texto": "bisectrices."
+        },
+        {
+          "letra": "D",
+          "texto": "transversales de gravedad."
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn el triángulo ABC de la figura AC = BC. ¿Cuál de las siguientes afirmaciones es \nFALSA? \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "CAB = 70° "
+        },
+        {
+          "letra": "B",
+          "texto": " -  = 10°"
+        },
+        {
+          "letra": "C",
+          "texto": "2 = 60°  = 15°"
+        },
+        {
+          "letra": "D",
+          "texto": "2 + 2+10° A B"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "TEM 06_p1_img3.jpg",
+        "TEM 06_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nSi en un triángulo se traza una de sus bisectrices interiores dando origen a dos \ntriángulos congruentes, entonces se puede afirmar con toda seguridad que dicho \ntriángulo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "es equilátero."
+        },
+        {
+          "letra": "B",
+          "texto": "es isósceles."
+        },
+        {
+          "letra": "C",
+          "texto": "es rectángulo."
+        },
+        {
+          "letra": "D",
+          "texto": "tiene al menos 2 lados congruentes."
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nDos de los ángulos interiores de un triángulo están en la razón 1 : 2 con sus \nrespectivos ángulos exteriores adyacentes. Luego este triángulo es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "acutángulo equilátero."
+        },
+        {
+          "letra": "B",
+          "texto": "obtusángulo isósceles."
+        },
+        {
+          "letra": "C",
+          "texto": "acutángulo isósceles."
+        },
+        {
+          "letra": "D",
+          "texto": "rectángulo isósceles."
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi el triángulo ABC de la figura adjunta es equilátero, ¿cuánto mide AB ? \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "9"
+        },
+        {
+          "letra": "D",
+          "texto": "10"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TEM 06_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn la figura adjunta, ABCD es un cuadrado y EA , AB  y BF  son lados de un polígono \n(incompleto). Si EA = AB = BF y  = 30°, entonces el polígono incompleto puede ser \n \n \n\n2n+1 \n3n-3 \n\nA \nB \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "un polígono regular de 5 lados."
+        },
+        {
+          "letra": "B",
+          "texto": "un polígono regular de 6 lados."
+        },
+        {
+          "letra": "C",
+          "texto": "un polígono regular de 8 lados."
+        },
+        {
+          "letra": "D",
+          "texto": "un polígono regular de 9 lados."
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TEM 06_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nDe cierto triángulo se sabe que la suma de las medidas de dos de sus ángulos \nexteriores suman 270°. Según esta información, ¿cuál de las siguientes afirmaciones es \nsiempre verdadera? \n \n\nF \nE \n\n \n \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El triángulo no puede ser isósceles."
+        },
+        {
+          "letra": "B",
+          "texto": "Dos de sus lados son congruentes."
+        },
+        {
+          "letra": "C",
+          "texto": "Dos de sus ángulos interiores son complementarios."
+        },
+        {
+          "letra": "D",
+          "texto": "El triángulo no puede ser escaleno. 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. ¿Cuánto mide cada lado del triángulo equilátero de la figura adjunta? \n \n \n\nx+y",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "13"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "16"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TEM 06_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. En la figura adjunta, ABCD es un rectángulo, PDS  RBQ y PAQ  RCS. ¿Cuál de las \n\n2x-3 \n\n3y-2 \n\nsiguientes afirmaciones es siempre verdadera? \n \n \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "SD  CD"
+        },
+        {
+          "letra": "B",
+          "texto": "AB  AP"
+        },
+        {
+          "letra": "C",
+          "texto": "AQ  RS S D C"
+        },
+        {
+          "letra": "D",
+          "texto": "PD  RB"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TEM 06_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Los triángulos ABC y BED de la figura adjunta son congruentes. Si AC = BD = 5 y      \n\nA \nB \n\nQ \n\nP \n\nAB = 12. ¿En qué razón están las longitudes de CE  y EB ? \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 : 13"
+        },
+        {
+          "letra": "B",
+          "texto": "1 : 12"
+        },
+        {
+          "letra": "C",
+          "texto": "1 : 11"
+        },
+        {
+          "letra": "D",
+          "texto": "5 : 13"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TEM 06_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. ¿Cuál de las siguientes proposiciones es FALSA? \n \n \n\nD \nE \n\nA \n\nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Los lados opuestos de un paralelogramo son congruentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Las diagonales de un paralelogramo se dimidian."
+        },
+        {
+          "letra": "C",
+          "texto": "Las diagonales de un trapezoide simétrico son congruentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Las diagonales de un trapecio isósceles son congruentes. 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Cuando en un cuadrilátero ABCD se trazan sus diagonales AC y BD los cuatro triángulos \n\nque se forman NO son rectángulos. Este cuadrilátero ABCD puede ser un",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "rombo."
+        },
+        {
+          "letra": "B",
+          "texto": "cuadrado."
+        },
+        {
+          "letra": "C",
+          "texto": "deltoide."
+        },
+        {
+          "letra": "D",
+          "texto": "rectángulo."
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. El triángulo PQR de la figura adjunta es isósceles de base PQ. ¿Cuánto mide la base de \n\neste triángulo? \n \n \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15"
+        },
+        {
+          "letra": "B",
+          "texto": "16"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TEM 06_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Si en un triángulo cualquiera se trazan sus tres transversales de gravedad se forman \n\nx + 4 \n3x – 10  \n\nP \nQ \n\n2x + 4 \n\nsiempre seis triángulos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "congruentes."
+        },
+        {
+          "letra": "B",
+          "texto": "equivalentes."
+        },
+        {
+          "letra": "C",
+          "texto": "rectángulos."
+        },
+        {
+          "letra": "D",
+          "texto": "acutángulos."
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Si los triángulos de la figura adjunta son congruentes, entonces ¿cuál de las siguientes \n\nrelaciones es verdadera? \n \n \n\n \n2x+1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x < y < z"
+        },
+        {
+          "letra": "B",
+          "texto": "y < z < x"
+        },
+        {
+          "letra": "C",
+          "texto": "z < y < x"
+        },
+        {
+          "letra": "D",
+          "texto": "z < x < y   13 3z x+y 2z+4  2x 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "TEM 06_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. ¿Cuál de las siguientes igualdades es verdadera, si se sabe que el triángulo de la figura \n\nadjunta es equilátero?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m 3 = n 4"
+        },
+        {
+          "letra": "B",
+          "texto": "m 2 = n 3 9 15 – n"
+        },
+        {
+          "letra": "C",
+          "texto": "m 3 = n 2"
+        },
+        {
+          "letra": "D",
+          "texto": "m 4 = n 3 2m – 7"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TEM 06_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. En el triángulo ABC de la figura adjunta, M, N  y P son puntos medios de BC , AC  y AB , \n\nrespectivamente. Si AB = 3x + 3y, BC = 3x – 1, MN = 3x – y  y  NP = 3y – 2, entonces \nes verdad que \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x + y = 7"
+        },
+        {
+          "letra": "B",
+          "texto": "x + y = 8"
+        },
+        {
+          "letra": "C",
+          "texto": "x + y = 9"
+        },
+        {
+          "letra": "D",
+          "texto": "x + y = 10"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TEM 06_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En el triángulo PQR rectángulo en R de la figura adjunta, RT  es altura, PS  es bisectriz \n\nM \nN \n\nA \nP \nB \n\ny RM  es transversal de gravedad. Las medidas de los ángulos b y a, respectivamente \nson,  \n \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "130° y 115°"
+        },
+        {
+          "letra": "B",
+          "texto": "140° y 125°"
+        },
+        {
+          "letra": "C",
+          "texto": "140° y 115°"
+        },
+        {
+          "letra": "D",
+          "texto": "130° y 125°"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TEM 06_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. En el trapecio ABCD de bases AB y CD de la figura adjunta, DA = AB = BC. Si  \n\nS \n\n125° \n\na \n\nb \n\nP \nQ \n\nT \nM \n\nBEA = 70°, entonces DBC =  \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15°"
+        },
+        {
+          "letra": "B",
+          "texto": "20°"
+        },
+        {
+          "letra": "C",
+          "texto": "25°"
+        },
+        {
+          "letra": "D",
+          "texto": "30° E A B 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TEM 06_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. La figura adjunta está formada por dos cuadrados y un triángulo equilátero. La suma    \n\n +  +  es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "315°"
+        },
+        {
+          "letra": "B",
+          "texto": "270°"
+        },
+        {
+          "letra": "C",
+          "texto": "250°"
+        },
+        {
+          "letra": "D",
+          "texto": "240°"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TEM 06_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. En el triángulo ABC de la figura adjunta, BE  y CD  son transversales de gravedad. Si   \n\n \n \n\n \n\nEF = m, FB = 3n, DF = 2m – 10 y FC = 2n + 4, entonces ¿cuál de las siguientes \nproporciones es verdadera? \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m : n = 3 : 2"
+        },
+        {
+          "letra": "B",
+          "texto": "m : n = 2 : 3"
+        },
+        {
+          "letra": "C",
+          "texto": "m : n = 4 : 3"
+        },
+        {
+          "letra": "D",
+          "texto": "m : n = 3 : 4"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TEM 06_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Si M y N son puntos medios de los lados oblicuos a las bases del trapecio de la figura \n\nF \nE \n\nA \nD \nB \n\nadjunta, entonces ¿cuál de las siguientes relaciones es verdadera? \n \n \n\n2x – 2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x – y = 1"
+        },
+        {
+          "letra": "B",
+          "texto": "x + y = 8"
+        },
+        {
+          "letra": "C",
+          "texto": "x – y = 2"
+        },
+        {
+          "letra": "D",
+          "texto": "x + y = 9"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TEM 06_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. En el triángulo ABC rectángulo en C de la figura adjunta, CD  es transversal de \n\nx + 1 \ny \n\nM \nN \n\nx + 2y \n\ngravedad. ¿Cuál de las siguientes igualdades es verdadera? \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x = y + 1"
+        },
+        {
+          "letra": "B",
+          "texto": "x = y – 1"
+        },
+        {
+          "letra": "C",
+          "texto": "x = y + 2"
+        },
+        {
+          "letra": "D",
+          "texto": "x = y – 2 3x+1 A B D 2y+7 2x+y TEM-06 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TEM 06_p6_img0.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1598 @@
+{
+  "table_of_contents": [
+    {
+      "title": "RESUMEN RMA-01",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          291.65625,
+          412.63739013671875
+        ],
+        [
+          558.4945068359375,
+          411.46875
+        ],
+        [
+          558.4945068359375,
+          443.953125
+        ],
+        [
+          291.65625,
+          445.5
+        ]
+      ]
+    },
+    {
+      "title": "N\u00daMEROS Y \nPROPORCIONALIDAD",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          268.25,
+          458.6484375
+        ],
+        [
+          567.349365234375,
+          457.1015625
+        ],
+        [
+          567.349365234375,
+          512.3689880371094
+        ],
+        [
+          268.25,
+          512.3689880371094
+        ]
+      ]
+    },
+    {
+      "title": "CONJUNTOS NUM\u00c9RICOS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          262.669921875,
+          105.1875
+        ],
+        [
+          437.25,
+          105.1875
+        ],
+        [
+          437.25,
+          120.0
+        ],
+        [
+          262.669921875,
+          120.0
+        ]
+      ]
+    },
+    {
+      "title": "N\u00fameros Naturales",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          288.75,
+          162.03515625
+        ],
+        [
+          411.0,
+          162.03515625
+        ],
+        [
+          411.0,
+          175.5
+        ],
+        [
+          288.75,
+          175.5
+        ]
+      ]
+    },
+    {
+      "title": "N\u00fameros Cardinales",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          290.25,
+          231.0
+        ],
+        [
+          406.5,
+          229.7109375
+        ],
+        [
+          406.5,
+          243.0
+        ],
+        [
+          290.25,
+          243.0
+        ]
+      ]
+    },
+    {
+      "title": "N\u00fameros Enteros",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          297.75,
+          297.7734375
+        ],
+        [
+          398.25,
+          296.2265625
+        ],
+        [
+          398.25,
+          310.5
+        ],
+        [
+          297.75,
+          310.5
+        ]
+      ]
+    },
+    {
+      "title": "N\u00fameros Irracionales",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          107.578125,
+          365.44921875
+        ],
+        [
+          232.5,
+          363.90234375
+        ],
+        [
+          232.5,
+          377.25
+        ],
+        [
+          107.578125,
+          377.25
+        ]
+      ]
+    },
+    {
+      "title": "N\u00fameros Racionales",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          309.5859375,
+          366.75
+        ],
+        [
+          428.25,
+          365.44921875
+        ],
+        [
+          428.25,
+          378.0
+        ],
+        [
+          309.5859375,
+          378.0
+        ]
+      ]
+    },
+    {
+      "title": "N\u00fameros Reales",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          210.375,
+          502.34765625
+        ],
+        [
+          306.0,
+          500.80078125
+        ],
+        [
+          306.0,
+          513.0
+        ],
+        [
+          210.375,
+          513.0
+        ]
+      ]
+    },
+    {
+      "title": "VALOR ABSOLUTO",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          242.349609375,
+          84.69140625
+        ],
+        [
+          367.333984375,
+          83.14453125
+        ],
+        [
+          367.333984375,
+          97.1094970703125
+        ],
+        [
+          241.154296875,
+          97.1094970703125
+        ]
+      ]
+    },
+    {
+      "title": "Observaci\u00f3n:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          84.26953125,
+          199.93359375
+        ],
+        [
+          158.58392333984375,
+          198.38671875
+        ],
+        [
+          158.58392333984375,
+          211.4810791015625
+        ],
+        [
+          83.07421875,
+          211.4810791015625
+        ]
+      ]
+    },
+    {
+      "title": "OPERATORIA EN",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          253.40625,
+          395.61328125
+        ],
+        [
+          358.59375,
+          394.06640625
+        ],
+        [
+          358.2340087890625,
+          407.85980224609375
+        ],
+        [
+          252.2109375,
+          407.85980224609375
+        ]
+      ]
+    },
+    {
+      "title": "POTENCIAS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          264.0,
+          86.23828125
+        ],
+        [
+          348.0,
+          84.69140625
+        ],
+        [
+          348.0,
+          98.25
+        ],
+        [
+          264.0,
+          98.25
+        ]
+      ]
+    },
+    {
+      "title": "DEFINICI\u00d3N",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          68.25,
+          113.25
+        ],
+        [
+          144.0,
+          111.76171875
+        ],
+        [
+          144.0,
+          125.25
+        ],
+        [
+          68.25,
+          125.25
+        ]
+      ]
+    },
+    {
+      "title": "Observaciones:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          68.25,
+          180.0
+        ],
+        [
+          159.75,
+          178.6640625
+        ],
+        [
+          159.75,
+          191.25
+        ],
+        [
+          68.25,
+          191.25
+        ]
+      ]
+    },
+    {
+      "title": "PRIORIDAD DE LAS OPERACIONES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          188.26171875,
+          95.90625
+        ],
+        [
+          423.09197998046875,
+          94.359375
+        ],
+        [
+          423.09197998046875,
+          108.62945556640625
+        ],
+        [
+          187.06640625,
+          108.62945556640625
+        ]
+      ]
+    },
+    {
+      "title": "N\u00daMEROS PRIMOS Y COMPUESTOS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          207.65000915527344,
+          419.9765625
+        ],
+        [
+          404.0611572265625,
+          418.4296875
+        ],
+        [
+          404.0611572265625,
+          432.2110900878906
+        ],
+        [
+          207.65000915527344,
+          432.2110900878906
+        ]
+      ]
+    },
+    {
+      "title": "Observaci\u00f3n:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5234375,
+          621.45703125
+        ],
+        [
+          144.41757202148438,
+          621.45703125
+        ],
+        [
+          144.41757202148438,
+          631.5610961914062
+        ],
+        [
+          70.5234375,
+          631.5610961914062
+        ]
+      ]
+    },
+    {
+      "title": "TEOREMA FUNDAMENTAL DE LA ARITM\u00c9TICA (FACTORIZACI\u00d3N PRIMA DE UN N\u00daMERO)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          150.75,
+          82.5
+        ],
+        [
+          460.5,
+          81.2109375
+        ],
+        [
+          460.5,
+          112.5
+        ],
+        [
+          150.75,
+          113.6953125
+        ]
+      ]
+    },
+    {
+      "title": "Ejemplos:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.25,
+          150.75
+        ],
+        [
+          130.5,
+          149.66015625
+        ],
+        [
+          130.5,
+          162.75
+        ],
+        [
+          68.25,
+          162.80859375
+        ]
+      ]
+    },
+    {
+      "title": "C\u00c1LCULO DEL m.c.m Y M.C.D",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          223.5,
+          210.75
+        ],
+        [
+          388.5,
+          209.6015625
+        ],
+        [
+          388.5,
+          222.75
+        ],
+        [
+          223.5,
+          222.75
+        ]
+      ]
+    },
+    {
+      "title": "N\u00daMEROS RACIONALES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          237.0,
+          438.75
+        ],
+        [
+          375.0,
+          438.75
+        ],
+        [
+          375.0,
+          452.25
+        ],
+        [
+          237.0,
+          452.25
+        ]
+      ]
+    },
+    {
+      "title": "Observaciones:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          69.029296875,
+          213.75
+        ],
+        [
+          159.0,
+          213.46875
+        ],
+        [
+          159.0,
+          225.0
+        ],
+        [
+          69.029296875,
+          225.0
+        ]
+      ]
+    },
+    {
+      "title": "RELACI\u00d3N DE ORDEN EN Q (COMPARAR FRACCIONES)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          219.75,
+          201.75
+        ],
+        [
+          393.0,
+          201.75
+        ],
+        [
+          393.0,
+          232.5
+        ],
+        [
+          219.75,
+          232.8046875
+        ]
+      ]
+    },
+    {
+      "title": "POTENCIAS EN \\mathbb Q",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          244.5,
+          87.75
+        ],
+        [
+          366.0,
+          87.75
+        ],
+        [
+          366.0,
+          108.0
+        ],
+        [
+          244.5,
+          108.0
+        ]
+      ]
+    },
+    {
+      "title": "TRANSFORMACI\u00d3N DE N\u00daMERO DECIMAL A FRACCI\u00d3N",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          117.75,
+          91.5
+        ],
+        [
+          492.75,
+          91.5
+        ],
+        [
+          492.75,
+          111.0
+        ],
+        [
+          117.75,
+          111.0
+        ]
+      ]
+    },
+    {
+      "title": "APROXIMACIONES",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          241.453125,
+          84.69140625
+        ],
+        [
+          369.2419738769531,
+          84.69140625
+        ],
+        [
+          369.2419738769531,
+          97.1094970703125
+        ],
+        [
+          241.453125,
+          97.1094970703125
+        ]
+      ]
+    },
+    {
+      "title": "Observaciones:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          70.224609375,
+          493.453125
+        ],
+        [
+          156.9784698486328,
+          493.453125
+        ],
+        [
+          156.9784698486328,
+          504.5710754394531
+        ],
+        [
+          70.224609375,
+          504.5710754394531
+        ]
+      ]
+    },
+    {
+      "title": "N\u00daMEROS IRRACIONALES (Q')",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          201.41015625,
+          77.73046875
+        ],
+        [
+          412.735595703125,
+          77.73046875
+        ],
+        [
+          412.735595703125,
+          93.3895263671875
+        ],
+        [
+          200.21484375,
+          93.3895263671875
+        ]
+      ]
+    },
+    {
+      "title": "Observaciones:",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          69.328125,
+          111.76171875
+        ],
+        [
+          156.9784698486328,
+          110.21484375
+        ],
+        [
+          156.9784698486328,
+          122.80108642578125
+        ],
+        [
+          69.328125,
+          122.80108642578125
+        ]
+      ]
+    },
+    {
+      "title": "CASOS PARTICULARES DE N\u00daMEROS IRRACIONALES:",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          69.626953125,
+          158.94140625
+        ],
+        [
+          370.78289794921875,
+          157.39453125
+        ],
+        [
+          370.78289794921875,
+          171.401123046875
+        ],
+        [
+          68.431640625,
+          171.401123046875
+        ]
+      ]
+    },
+    {
+      "title": "N\u00daMEROS REALES (lR)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          226.810546875,
+          218.8828125
+        ],
+        [
+          382.8099670410156,
+          217.3359375
+        ],
+        [
+          382.8099670410156,
+          234.65948486328125
+        ],
+        [
+          226.810546875,
+          234.65948486328125
+        ]
+      ]
+    },
+    {
+      "title": "OPERATORIA EN lR",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          239.958984375,
+          319.4296875
+        ],
+        [
+          370.8500061035156,
+          317.8828125
+        ],
+        [
+          370.8500061035156,
+          332.3394775390625
+        ],
+        [
+          238.763671875,
+          332.3394775390625
+        ]
+      ]
+    },
+    {
+      "title": "PROPORCIONALIDAD",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          232.787109375,
+          87.509521484375
+        ],
+        [
+          378.60198974609375,
+          86.23828125
+        ],
+        [
+          378.60198974609375,
+          99.509521484375
+        ],
+        [
+          231.591796875,
+          99.509521484375
+        ]
+      ]
+    },
+    {
+      "title": "TIPOS DE PROPORCIONALIDAD",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          216.650390625,
+          300.8671875
+        ],
+        [
+          431.0179748535156,
+          299.3203125
+        ],
+        [
+          431.0179748535156,
+          313.0195007324219
+        ],
+        [
+          215.455078125,
+          313.0195007324219
+        ]
+      ]
+    },
+    {
+      "title": "PORCENTAJES",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          255.75,
+          87.0
+        ],
+        [
+          357.0,
+          86.625
+        ],
+        [
+          357.0,
+          99.0
+        ],
+        [
+          255.75,
+          99.0
+        ]
+      ]
+    },
+    {
+      "title": "Inter\u00e9s",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          278.25,
+          415.5
+        ],
+        [
+          326.25,
+          414.17578125
+        ],
+        [
+          326.25,
+          426.75
+        ],
+        [
+          278.25,
+          426.75
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          24
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          144
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          37
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Span",
+          22
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          31
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          168
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "TableCell",
+          17
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "TableCell",
+          23
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Resumen RMA-01 N\u00fameros y proporcionalidad"
+}

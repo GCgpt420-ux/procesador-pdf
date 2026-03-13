@@ -1,0 +1,829 @@
+{
+  "archivo_original": "Ma 04.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 04.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 9,
+  "fecha_procesamiento": "2026-03-07T23:04:11.740302",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n¿Cuál(es) de los siguientes pares de razones forman una proporción? \n \n\nCUADERNO DE EJERCICIOS N° 4 \nRAZONES, PROPORCIONES Y PORCENTAJES \n\nI) \n15 : 36  y  20 : 12 \nII) \n21 : 9  y  35 : 15 \nIII) \n16 : 12  y  20 : 15",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nSi A : B = 5 : 3  y  A + B = 16, entonces, A · B es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15"
+        },
+        {
+          "letra": "B",
+          "texto": "16"
+        },
+        {
+          "letra": "C",
+          "texto": "24"
+        },
+        {
+          "letra": "D",
+          "texto": "40"
+        },
+        {
+          "letra": "E",
+          "texto": "60"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3.   Las edades de tres hermanos: Francisca, Carmen y Lucía, son entre sí como 2 : 5 : 3, \n\nrespectivamente. Si sus edades suman 30 años, entonces la edad de Lucía es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 años"
+        },
+        {
+          "letra": "B",
+          "texto": "9 años"
+        },
+        {
+          "letra": "C",
+          "texto": "6 años"
+        },
+        {
+          "letra": "D",
+          "texto": "3 años"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nLa densidad demográfica se define como la razón entre la cantidad de habitantes de \nuna región y el área de esa región. Si una ciudad tiene aproximadamente 36.000 \nhabitantes en 200 km2 de área, entonces la densidad demográfica de esa ciudad es x \nhabitantes por kilómetro cuadrado, ¿cuál es el valor de x?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,18"
+        },
+        {
+          "letra": "B",
+          "texto": "1,8"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "180"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \n¿En cuál(es) de las siguientes situaciones se presenta(n) magnitudes directamente \nproporcionales? \n \n\nI) \nLa edad de una persona y su altura. \nII) \nLa medida del lado de un cuadrado y su área. \nIII) \nLa cantidad de pasteles del mismo valor que se compran y el dinero que se \npaga por los pasteles.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nLa tabla adjunta muestra las variables a y b que son inversamente proporcionales, de \nconstante de proporcionalidad igual 36. ¿Cuál(es) de las siguientes afirmaciones es \n(son) verdadera(s)? \n \n\na \nb \n\nI) \nn2 = m \nII) \nmnq < 21 \nIII) \nq-1 > 1 \n \n \n\nn \n12 \n\n4 \nm \n\n48 \nq",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 04_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7.   ¿Qué valor debe tener n para que las razones (2n – 9) : (n + 1) y 5 : 8 formen una \n\nproporción?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,1"
+        },
+        {
+          "letra": "B",
+          "texto": "0,7"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "11 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8.  \nLa razón entre el contenido de un estanque y su capacidad es 2:3. Si para llenarlo \nfaltan 15 litros, entonces ¿cuál es la capacidad del estanque?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 litros"
+        },
+        {
+          "letra": "B",
+          "texto": "20 litros"
+        },
+        {
+          "letra": "C",
+          "texto": "25 litros"
+        },
+        {
+          "letra": "D",
+          "texto": "30 litros"
+        },
+        {
+          "letra": "E",
+          "texto": "45 litros"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSi 15 obreros construyen un edificio en 8 meses, ¿cuánto tiempo se demorarían  \n10 obreros en construir un edificio similar, trabajando el mismo número de horas al día \ny en igualdad de condiciones de trabajo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,3 meses"
+        },
+        {
+          "letra": "B",
+          "texto": "6 meses"
+        },
+        {
+          "letra": "C",
+          "texto": "9 meses"
+        },
+        {
+          "letra": "D",
+          "texto": "10 meses"
+        },
+        {
+          "letra": "E",
+          "texto": "12 meses"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10.  M es el 8% de \n \n\n8M",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "100 100M"
+        },
+        {
+          "letra": "B",
+          "texto": "8  8 100"
+        },
+        {
+          "letra": "C",
+          "texto": "M 108 M 100"
+        },
+        {
+          "letra": "D",
+          "texto": "92 M 100"
+        },
+        {
+          "letra": "E",
+          "texto": "(Fuente: DEMRE, Publicación 2010)"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. El 15% del 5% de 20.000 es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "150"
+        },
+        {
+          "letra": "B",
+          "texto": "400"
+        },
+        {
+          "letra": "C",
+          "texto": "1.500"
+        },
+        {
+          "letra": "D",
+          "texto": "4.000 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Si A es el 25% de B y B es el 66,6 % de C, ¿qué parte es A de C?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 4"
+        },
+        {
+          "letra": "B",
+          "texto": "1 3"
+        },
+        {
+          "letra": "C",
+          "texto": "1 6"
+        },
+        {
+          "letra": "D",
+          "texto": "2 5"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Pedro gastó $ 144.000 lo que equivale al 25% de su sueldo mensual, entonces su \n\nsueldo mensual es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 602.000"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 570.000"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 555.000"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 569.000"
+        },
+        {
+          "letra": "E",
+          "texto": "$ 576.000"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Si en un curso el puntaje en Matemática aumentó de una jornada a otra de 480 puntos \n\na 540 puntos, entonces el porcentaje de aumento fue",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11,1 %"
+        },
+        {
+          "letra": "B",
+          "texto": "12,5%"
+        },
+        {
+          "letra": "C",
+          "texto": "60%"
+        },
+        {
+          "letra": "D",
+          "texto": "88,8 %"
+        },
+        {
+          "letra": "E",
+          "texto": "112,5%"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Tres amigos, Alberto, Bernardo y Carlos, tienen $ 80, $ 100 y $ 120 respectivamente. \n\nAl comprar estas cantidades afirman: \n \n\nAlberto: “Bernardo tiene 20% más de lo que yo tengo” \nBernardo: “Carlos tiene 20% más de lo que yo tengo” \nCarlos: “Yo tengo 50% más de lo que tiene Alberto” \n \n¿Quién(es) ha(n) hecho una afirmación matemática correcta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo Alberto"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo Bernardo"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo Carlos"
+        },
+        {
+          "letra": "D",
+          "texto": "Alberto y Bernardo"
+        },
+        {
+          "letra": "E",
+          "texto": "Bernardo y Carlos 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. El caudal de un río es P metros cúbicos por segundo, si al recibir un afluente su caudal \n\naumenta en un 15%, ¿cuál es su nuevo caudal, en metros cúbicos por segundo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "P + 15 P"
+        },
+        {
+          "letra": "B",
+          "texto": "P + 15 15P"
+        },
+        {
+          "letra": "C",
+          "texto": "100 15P"
+        },
+        {
+          "letra": "D",
+          "texto": "P + 100"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de las expresiones anteriores. (Fuente: DEMRE, Publicación 2010)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. En una tienda se muestra una tabla incompleta como la adjunta. ¿Cuáles son los \n\nvalores, en pesos, de M y N, respectivamente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6.400 y 9.000"
+        },
+        {
+          "letra": "B",
+          "texto": "6.400 y 8.800"
+        },
+        {
+          "letra": "C",
+          "texto": "7.600 y 9.000"
+        },
+        {
+          "letra": "D",
+          "texto": "7.600 y 7.600"
+        },
+        {
+          "letra": "E",
+          "texto": "6.400 y 8.640 Artículo Precio Original ($) Descuento Precio Final ($) Camiseta"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 04_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Un bus tiene sus 30 asientos de capacidad ocupados, cada uno por una persona y \n\nademás, lleva 10 personas de pie. Si en un paradero se baja el 20% de las personas \nque van sentadas y el 30% de las personas que van de pie y suben, en ese paradero,  \n2 personas, ¿cuántas personas quedarían de pie, si se ocupan todos los asientos con \nuna persona?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "9"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna, irían todas sentadas. (Fuente: DEMRE, Publicación 2016)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. La nota final en la asignatura de física, se obtiene de la suma del 75% del promedio de \n\nlas notas de las pruebas parciales con el 25% de la nota del examen. Si Daniela obtuvo \nun 2,0 en el examen y su promedio de las notas de las pruebas parciales es 5,0, ¿cuál \nde las siguientes expresiones permite calcular cuál fue la nota final de Daniela en física?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,25 · 2,0 + 0,75 · 5,0"
+        },
+        {
+          "letra": "B",
+          "texto": "0,75 · 2,0 + 0,25 · 5,0"
+        },
+        {
+          "letra": "C",
+          "texto": "1,25 · 2,0 + 1,75 · 5,0"
+        },
+        {
+          "letra": "D",
+          "texto": "25 · 2,0 + 75 · 5,0 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Eduardo le vendió a su amigo Sebastián un libro de Sudoku en $ 5.600 con un 25% de \n\nganancia. Entonces, Eduardo ganó",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 1.020"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 1.120"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 1.400"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 4.200"
+        },
+        {
+          "letra": "E",
+          "texto": "$ 4.480"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. En un corral hay pavos blancos y pavos castellanos. Si 3\n\n8  son blancos, ¿qué porcentaje \n\nson los pavos blancos de los pavos castellanos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "37,5%"
+        },
+        {
+          "letra": "B",
+          "texto": "40%"
+        },
+        {
+          "letra": "C",
+          "texto": "60%"
+        },
+        {
+          "letra": "D",
+          "texto": "62,5%"
+        },
+        {
+          "letra": "E",
+          "texto": "67,5%"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. El precio de un artículo es $C. Si este se aumenta en un 15% y luego se rebaja en un \n\n10%, ¿por qué número se debe multiplicar C para obtener el nuevo precio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,005"
+        },
+        {
+          "letra": "B",
+          "texto": "1,035"
+        },
+        {
+          "letra": "C",
+          "texto": "1,35"
+        },
+        {
+          "letra": "D",
+          "texto": "1,09"
+        },
+        {
+          "letra": "E",
+          "texto": "1,05"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Si el numerador de una fracción disminuye en un 40% y el denominador en un 60% se \n\nobtiene el mismo resultado que si la fracción se multiplica por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,2"
+        },
+        {
+          "letra": "B",
+          "texto": "0,5"
+        },
+        {
+          "letra": "C",
+          "texto": "1,2"
+        },
+        {
+          "letra": "D",
+          "texto": "1,3"
+        },
+        {
+          "letra": "E",
+          "texto": "1,5 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Para x ≠ ±1, ¿qué porcentaje es (x – 1) de (x + 1)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "  100 x 1   x 1"
+        },
+        {
+          "letra": "B",
+          "texto": "  100 x 1   x 1 2 x 1 100 "
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": "2 100 x 1  x 1 100 x 1 "
+        },
+        {
+          "letra": "E",
+          "texto": "  "
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Juan deposita en un Banco $ 10.000.000 a un interés simple trimestral del 4%. Al cabo \n\nde 9 meses, ¿cuánto es el capital final?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 10.400.000"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 11.180.000"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 11.200.000"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 12.700.000"
+        },
+        {
+          "letra": "E",
+          "texto": "$ 13.600.000"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. Marcos realiza un depósito de $ 500.000 en un banco a un interés simple mensual de \n\n0,5%. ¿Qué ganancia obtendrá en un período de 3 años?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 7.500"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 87.500"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 90.000"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 507.500"
+        },
+        {
+          "letra": "E",
+          "texto": "$ 590.000"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. Se puede determinar el 60% de p, si se sabe que: \n \n\n(1) el 45% de p es 27. \n\n(2) el 300% de p es igual al 30% de q.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Se puede determinar el monto de una deuda, si: \n \n \n\n(1) la cuota mínima a pagar es el 5% de la deuda. \n\n(2) la cuota mínima a pagar es de $ 12.000.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional (Fuente: DEMRE, Publicación 2008)"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. En un mall hay 2.500 empleados entre hombres y mujeres. Se puede determinar el \n\nnúmero de hombres que trabajan en él, si se sabe que: \n \n \n\n(1) el 80% de los empleados son mujeres. \n\n(2) el número de hombres equivale al 25% del número de mujeres.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. Se deposita en una entidad bancaria un capital inicial de $ 10.000, con un interés \n\ncompuesto mensual y no se realizan depósitos ni retiros posteriores. Se puede \ndeterminar la tasa de interés compuesto mensual, si se conoce: \n \n \n\n(1) el capital final. \n\n(2) el tiempo que estuvo depositado el capital inicial.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    }
+  ]
+}

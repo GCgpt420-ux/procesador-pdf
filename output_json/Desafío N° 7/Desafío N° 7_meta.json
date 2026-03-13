@@ -1,0 +1,72 @@
+{
+  "table_of_contents": [
+    {
+      "title": "C U R S O : MATEM\u00c1TICA\nMATERIAL DESAF\u00cdO N\u00ba 07",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.626953125,
+          57.64752197265625
+        ],
+        [
+          226.89944458007812,
+          57.64752197265625
+        ],
+        [
+          226.89944458007812,
+          94.26751708984375
+        ],
+        [
+          68.431640625,
+          94.26751708984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Desaf\u00edo N\u00b0 7"
+}

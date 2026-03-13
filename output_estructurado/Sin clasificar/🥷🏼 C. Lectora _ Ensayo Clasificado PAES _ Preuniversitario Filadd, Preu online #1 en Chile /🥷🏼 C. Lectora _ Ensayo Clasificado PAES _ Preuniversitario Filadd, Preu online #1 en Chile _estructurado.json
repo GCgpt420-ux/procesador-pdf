@@ -1,0 +1,1209 @@
+{
+  "archivo_original": "🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile .pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/2.Fillad/z Ensayos Clasificados Fillad/🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile .pdf",
+  "materia": "Sin clasificar",
+  "num_paginas": 34,
+  "fecha_procesamiento": "2026-03-07T22:25:34.919741",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. ¿Cuál de las siguientes opciones presenta un título alternativo que represente la idea central\n\nde la lectura?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Una extraña enfermedad\""
+        },
+        {
+          "letra": "B",
+          "texto": "\"Una transformación inesperada\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Una familia preocupada\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"Una enfermedad mortal\""
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. ¿En qué se desempeñaba el protagonista?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Guía turístico."
+        },
+        {
+          "letra": "B",
+          "texto": "Jefe de comercio."
+        },
+        {
+          "letra": "C",
+          "texto": "Mozo de los recados."
+        },
+        {
+          "letra": "D",
+          "texto": "Viajante de comercio. – 4 –"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. A partir de la lectura, ¿qué se deduce sobre el protagonista?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Que detesta a su jefe y familia."
+        },
+        {
+          "letra": "B",
+          "texto": "Que prioriza su trabajo por sobre sí mismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Que desea renunciar cuanto antes a su trabajo."
+        },
+        {
+          "letra": "D",
+          "texto": "Que es el único trabajador de su hogar."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. En el texto, ¿qué función tiene el siguiente fragmento?\n\n«Esto de levantarse pronto -pensó- hace a uno desvariar. El hombre tiene que dormir. Otros\nviajantes viven como pachás. Si yo, por ejemplo, a lo largo de la mañana vuelvo a la pensión\npara pasar a limpio los pedidos que he conseguido, estos señores todavía están sentados\ntomando el desayuno. Eso podría intentar yo con mi jefe, pero en ese momento iría a parar a\nla calle. Quién sabe, por lo demás, si no sería lo mejor para mí. Si no tuviera que dominarme\npor mis padres, ya me habría despedido hace tiempo, me habría presentado ante el jefe y le\nhabría dicho mi opinión con toda mi alma.\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Enumerar las razones de Samsa para renunciar a su trabajo."
+        },
+        {
+          "letra": "B",
+          "texto": "Explicar los problemas que tiene con sus compañeros de trabajo."
+        },
+        {
+          "letra": "C",
+          "texto": "Contextualizar sobre la vida laboral y personal del protagonista."
+        },
+        {
+          "letra": "D",
+          "texto": "Caracterizar al jefe de Gregorio Samsa."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. Según el texto, ¿qué parte del cuerpo de Gregorio, al parecer, es la más sensible?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La parte superior de su cuerpo."
+        },
+        {
+          "letra": "B",
+          "texto": "La parte inferior de su cuerpo."
+        },
+        {
+          "letra": "C",
+          "texto": "El caparazón."
+        },
+        {
+          "letra": "D",
+          "texto": "La cola y sus patas."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. ¿Qué vicio de la sociedad se refleja principalmente en el fragmento anterior?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Priorizar el trabajo por sobre la salud."
+        },
+        {
+          "letra": "B",
+          "texto": "La codicia de solo pensar en el dinero."
+        },
+        {
+          "letra": "C",
+          "texto": "La falta de empatía de los hijos hacia los padres."
+        },
+        {
+          "letra": "D",
+          "texto": "La arrogancia de Gregorio Samsa. – 5 –"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. ¿Cómo se puede caracterizar al protagonista?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Irresponsable e intransigente."
+        },
+        {
+          "letra": "B",
+          "texto": "Resiliente y flexible."
+        },
+        {
+          "letra": "C",
+          "texto": "Enfermizo y prepotente."
+        },
+        {
+          "letra": "D",
+          "texto": "Trabajólico y autoexigente."
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. ¿Qué representa el cambio físico del protagonista?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El elemento que desestabiliza su vida."
+        },
+        {
+          "letra": "B",
+          "texto": "La oportunidad de poder descansar de su trabajo."
+        },
+        {
+          "letra": "C",
+          "texto": "La posibilidad de pensar en su familia por sobre el trabajo."
+        },
+        {
+          "letra": "D",
+          "texto": "El elemento que le permite a Gregorio renunciar a su trabajo."
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. Considerando la historia en su totalidad, ¿qué función tiene el primer párrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Comprender el escenario físico en que se desarrollan las acciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Comprender la motivación de los personajes."
+        },
+        {
+          "letra": "C",
+          "texto": "Conocer el conflicto de la historia."
+        },
+        {
+          "letra": "D",
+          "texto": "Caracterizar psicológicamente al protagonista. LECTURA 2 (preguntas 10 - 17) Artículo de SIGPA, publicado el año 2021 Carpintería de ribera en la región de Magallanes – 6 –"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. ¿Qué caracteriza principalmente la Carpintería de Ribera en la región de Magallanes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Se enfoca en la construcción artesanal de embarcaciones de madera para diversas actividades."
+        },
+        {
+          "letra": "B",
+          "texto": "Es una labor ancestral que se enseña exclusivamente a través de redes familiares y tradición generacional."
+        },
+        {
+          "letra": "C",
+          "texto": "Es un oficio exclusivamente relacionado con la construcción de viviendas, embarcaciones y artesanía en la región."
+        },
+        {
+          "letra": "D",
+          "texto": "Es una técnica de carpintería moderna basada en el uso de materiales sintéticos para la construcción de embarcaciones."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. ¿Qué aspecto destaca la Carpintería de Ribera como parte de su patrimonio cultural\n\ninmaterial?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Su capacidad para adaptarse al mercado internacional."
+        },
+        {
+          "letra": "B",
+          "texto": "La integración de conocimientos y usos sobre la naturaleza."
+        },
+        {
+          "letra": "C",
+          "texto": "La mezcla entre uso de tecnología moderna y conocimiento ancestral."
+        },
+        {
+          "letra": "D",
+          "texto": "Su carácter exclusivamente rural, pero alejado de las tradiciones indígenas."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. ¿Qué enunciado sintetiza de forma correcta el contenido general del texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La Carpintería de Ribera es un oficio moderno que utiliza tanto tecnologías avanzadas como saberes tradicionales para la construcción de embarcaciones de madera."
+        },
+        {
+          "letra": "B",
+          "texto": "La Carpintería de Ribera es un oficio tradicional que integra conocimientos sobre la naturaleza, la navegación y la construcción artesanal."
+        },
+        {
+          "letra": "C",
+          "texto": "La Carpintería de Ribera es una técnica que se limita a la construcción de embarcaciones para el mercado turístico."
+        },
+        {
+          "letra": "D",
+          "texto": "La Carpintería de Ribera se basa en el dominio respecto a las mareas, clima y en navegación en las costas chilenas. – 8 –"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. ¿Qué diferencia a los carpinteros de ribera de los ayudantes en el oficio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Los carpinteros de ribera intervienen directamente en la mano de obra y construcción de la embarcación."
+        },
+        {
+          "letra": "B",
+          "texto": "Los carpinteros de ribera supervisan el trabajo de los ayudantes sin involucrarse directamente en la construcción."
+        },
+        {
+          "letra": "C",
+          "texto": "Los carpinteros de ribera asesoran a los ayudantes en temas de mareas y clima para una conducción segura de la embarcación."
+        },
+        {
+          "letra": "D",
+          "texto": "Los carpinteros de ribera son los responsables de la obra en su conjunto y participan en todas las fases de la construcción de las embarcaciones."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14.   ¿Cómo se transmite el conocimiento sobre la Carpintería de Ribera en la región de\n\nMagallanes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Observación, familia y programas de la UNESCO."
+        },
+        {
+          "letra": "B",
+          "texto": "Familia, compañeros y generación en generación."
+        },
+        {
+          "letra": "C",
+          "texto": "Enseñanza formal y observación al maestro de ribera."
+        },
+        {
+          "letra": "D",
+          "texto": "Entornos familiares, generación en generación y por medio de manuales."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. ¿Quién es el lector ideal del texto sobre la Carpintería de Ribera en la región de Magallanes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Historiadores expertos en las tradiciones propias del pueblo originario Kawéskar."
+        },
+        {
+          "letra": "B",
+          "texto": "Personas interesadas en la historia de la navegación y las tradiciones indígenas del sur de Chile."
+        },
+        {
+          "letra": "C",
+          "texto": "Expertos en carpintería que buscan aprender nuevas técnicas basadas en conocimientos ancestrales."
+        },
+        {
+          "letra": "D",
+          "texto": "Estudiantes de navegación interesados en el ecosistema local y las características de los mares en la región."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. ¿Cuál es el propósito comunicativo del texto leído?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Describir las técnicas modernas de carpintería de ribera utilizadas en la construcción de embarcaciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Explicar cómo las innovaciones han transformado la industria de la embarcación tradicional y la carpintería de ribera."
+        },
+        {
+          "letra": "C",
+          "texto": "Resaltar la importancia del oficio tradicional de carpintería de ribera y su conexión con el patrimonio cultural inmaterial de la región."
+        },
+        {
+          "letra": "D",
+          "texto": "Informar sobre los recursos naturales disponibles para la carpintería de ribera y la construcción de embarcaciones en Chile. – 9 –"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. ¿Cuál es el propósito comunicativo del segundo párrafo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mostrar cómo la carpintería de ribera se ha mantenido vigente a lo largo del tiempo sin mayores cambios."
+        },
+        {
+          "letra": "B",
+          "texto": "Resaltar la importancia de la carpintería de ribera como patrimonio cultural de la región de Magallanes."
+        },
+        {
+          "letra": "C",
+          "texto": "Explicar cómo y por qué la carpintería de ribera se ha modificado."
+        },
+        {
+          "letra": "D",
+          "texto": "Describir la historia de la carpintería de ribera. Lectura 3 (Preguntas 18 - 25) Meta: renovarse o morir Los responsables de Threads aseguran que no quieren ser solo un ‘doppelgänger’ de Twitter, sino que quieren convertirse en la primera gran red social interoperable. Por qué sigues usando la misma cuenta de correo de Gmail de hace dos décadas. Como sus otros"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. A partir del texto se infiere que la razón por la que tantas personas mantienen su correo de\n\nGmail es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "por una acción más bien inconsciente."
+        },
+        {
+          "letra": "B",
+          "texto": "por fidelidad hacia Google, dada su popularidad."
+        },
+        {
+          "letra": "C",
+          "texto": "porque es el único sistema de mensajería gratuito."
+        },
+        {
+          "letra": "D",
+          "texto": "porque es complejo modificarlo, al igual que el DNI."
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. ¿Cuál es la desventaja de que Threads pertenezca a Instagram?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Exporta seguidores de una cuenta a otra sin autorización."
+        },
+        {
+          "letra": "B",
+          "texto": "Ejecuta prácticas de recepción y envío de información personal."
+        },
+        {
+          "letra": "C",
+          "texto": "Favorecerá a la creación involuntaria de un nuevo grupo social."
+        },
+        {
+          "letra": "D",
+          "texto": "Heredará practicas propias de Twitter como el hostigamiento social."
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. ¿Cuál ha sido una consecuencia de la incompatibilidad en las redes sociales?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La segregación virtual de las minorías sexuales."
+        },
+        {
+          "letra": "B",
+          "texto": "La conformación de culturas generacionales distintas."
+        },
+        {
+          "letra": "C",
+          "texto": "La creación de grupos sociales denominados geeks y nerds."
+        },
+        {
+          "letra": "D",
+          "texto": "Incompatibilidad entre las distintas culturas sectoriales existentes. – 11 –"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. ¿Por qué la emisora del texto señala que “Los periodistas y políticos están atrapados en\n\nTwitter y no saben a dónde ir”?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La única red social dirigida a periodistas y políticos es Twitter."
+        },
+        {
+          "letra": "B",
+          "texto": "Twitter es una red social creada por políticos y periodistas."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo Twitter aborda temáticas políticas y periodísticas."
+        },
+        {
+          "letra": "D",
+          "texto": "Twitter es una red social utilizada mayormente por periodistas y políticos."
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. ¿Qué es el fediverso?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Un conjunto de plataformas bajo la consigna de un internet descentralizado."
+        },
+        {
+          "letra": "B",
+          "texto": "La primera gran red social interoperable, descentralizada y cooperativa."
+        },
+        {
+          "letra": "C",
+          "texto": "El protocolo que sostiene a todas las redes sociales de ActivityPub."
+        },
+        {
+          "letra": "D",
+          "texto": "Grupo de sistemas operativos variados, responsables de Threads"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Respecto a Mastodon es posible deducir que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tiene diez millones de usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Es la incubadora de Threads."
+        },
+        {
+          "letra": "C",
+          "texto": "Posee semejanzas con Coca Cola."
+        },
+        {
+          "letra": "D",
+          "texto": "5 millones de sus usuarios están inactivos."
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. ¿Cuál es el tono que predomina en el texto leído?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Admirativo."
+        },
+        {
+          "letra": "B",
+          "texto": "Emotivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Conciliador."
+        },
+        {
+          "letra": "D",
+          "texto": "Reflexivo."
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. ¿Cuál es el propósito comunicativo del texto leído?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aseverar las ventajas de Threads por sobre Twitter."
+        },
+        {
+          "letra": "B",
+          "texto": "Demostrar cómo Threads podría ser tan nociva como Instagram."
+        },
+        {
+          "letra": "C",
+          "texto": "Informar sobre Threads, su origen, ventajas y desventajas."
+        },
+        {
+          "letra": "D",
+          "texto": "Exponer las causas que propiciaron la creación de Threads. – 12 –"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. ¿Por qué el narrador hace la diferencia entre admirar y querer a Glenda?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque quiere distinguirse de los otros integrantes del club de Glenda."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque desea confirmar que es miembro fundador del club de Glenda."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque necesita exaltar el sentimiento que experimenta hacia Glenda."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque pretende explicar que tiene una relación personal con Glenda."
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. ¿Con qué finalidad se menciona a Anouk, Marilina, Annie y Silvana?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Para caracterizar a los miembros del grupo de admiradores de Glenda."
+        },
+        {
+          "letra": "B",
+          "texto": "Para identificar a los integrantes expulsados del grupo por criticar a Glenda."
+        },
+        {
+          "letra": "C",
+          "texto": "Para ejemplificar los variados gustos artísticos de los admiradores de Glenda."
+        },
+        {
+          "letra": "D",
+          "texto": "Para señalar que había otros artistas admirados en menor medida que Glenda."
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. ¿Qué provocó que el núcleo admitiera que eran muchos los que querían a Glenda?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La gran cantidad de interesados en rendir el examen del club de Glenda."
+        },
+        {
+          "letra": "B",
+          "texto": "La alta participación en actividades comunes tras ver las películas de Glenda."
+        },
+        {
+          "letra": "C",
+          "texto": "La amplia gama de cines en que comenzaron a exhibir las películas de Glenda."
+        },
+        {
+          "letra": "D",
+          "texto": "La abundante evidencia para defender las escenas protagonizadas por Glenda. – 15 –"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. ¿Por qué es relevante que el narrador sea un personaje dentro del relato?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque presenta una perspectiva incuestionable de la calidad actoral de Glenda."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque transmite la visión de lo que significa ser parte del núcleo de Glenda."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque revela las discusiones sobre el funcionamiento del club de Glenda."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque describe la exitosa trayectoria de la carrera cinematográfica de Glenda."
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. ¿Cuál fue la consecuencia directa del estreno de la película Los delirantes?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La realización de reuniones periódicas para hablar de Glenda."
+        },
+        {
+          "letra": "B",
+          "texto": "La crítica parcial de las habilidades actorales de Glenda."
+        },
+        {
+          "letra": "C",
+          "texto": "El alza de postulantes para integrar el club de Glenda."
+        },
+        {
+          "letra": "D",
+          "texto": "El aumento de personas admiradoras de Glenda. – 16 –"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. ¿Qué película tenía un final inaceptable para los miembros del núcleo?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“El fuego de la nieve”"
+        },
+        {
+          "letra": "B",
+          "texto": "“Los frágiles retornos”"
+        },
+        {
+          "letra": "C",
+          "texto": "“Nunca se sabe por qué”"
+        },
+        {
+          "letra": "D",
+          "texto": "“El uso de la elegancia”"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. ¿Con qué finalidad el núcleo se propuso conseguir las copias de la película “Los frágiles\n\nretornos”?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Para preservar la imagen de Glenda más cercana a la perfección."
+        },
+        {
+          "letra": "B",
+          "texto": "Para lograr que las escenas que perjudicaban a Glenda se modificaran."
+        },
+        {
+          "letra": "C",
+          "texto": "Para evitar que más personas se unieran al círculo de admiradores de Glenda."
+        },
+        {
+          "letra": "D",
+          "texto": "Para conseguir que cada uno tuviera una copia original de la película de Glenda. – 17 –"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. Una lectora del cuento plantea que el narrador muestra una visión poco objetiva debido a su\n\nfanatismo hacia Glenda. ¿Qué actitud del narrador respalda esta afirmación?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Su intolerancia, al criticar los roles de los fundadores del grupo de seguidores de Glenda."
+        },
+        {
+          "letra": "B",
+          "texto": "Su impulsividad, al enfrentar a quienes plantean cuestionamientos sobre la actuación de Glenda."
+        },
+        {
+          "letra": "C",
+          "texto": "Su imprudencia, al asistir a las películas de Glenda dejando de lado sus tareas cotidianas."
+        },
+        {
+          "letra": "D",
+          "texto": "Su condescendencia, al eximir a Glenda de la responsabilidad por la baja calidad de algunas películas."
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. A partir de la lectura, ¿Qué característica se puede atribuir al núcleo de quienes querían a\n\nGlenda?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Son conservadores, pues preferían las películas clásicas en las que actuaba Glenda."
+        },
+        {
+          "letra": "B",
+          "texto": "Son exigentes, pues rechazaban los errores cometidos por Glenda en sus películas."
+        },
+        {
+          "letra": "C",
+          "texto": "Son recelosos, pues desconfiaban de los sentimientos de los nuevos admiradores de Glenda."
+        },
+        {
+          "letra": "D",
+          "texto": "Son radicales, pues negaban cualquier posibilidad de admirar a otros artistas además de Glenda. Lectura 5 (Preguntas 35 - 42) La actividad física es tu medicina Por Fernando Concha Laborde, profesor de Educación Física. – 18 –"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. ¿Cuál es la función del segundo párrafo respecto de la investigación abordada en la lectura?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Describir los resultados del estudio sobre AFMV."
+        },
+        {
+          "letra": "B",
+          "texto": "Criticar la falta de actividad física en el contexto escolar."
+        },
+        {
+          "letra": "C",
+          "texto": "Exponer las diferencias entre la obesidad y el sobrepeso."
+        },
+        {
+          "letra": "D",
+          "texto": "Presentar el problema de la obesidad y sobrepeso infantil. – 21 –"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. Según la lectura, ¿para qué se usa el acelerómetro?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Para evaluar la tarea motriz intencionada."
+        },
+        {
+          "letra": "B",
+          "texto": "Para identificar el tipo de habilidad motora."
+        },
+        {
+          "letra": "C",
+          "texto": "Para medir la intensidad de la actividad física."
+        },
+        {
+          "letra": "D",
+          "texto": "Para controlar las variaciones de los movimientos."
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. ¿Qué perspectiva adopta el emisor en la sección “Principales resultados y conclusiones del\n\nestudio”?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Analítica, pues ofrece datos detallados a partir de la revisión de las actividades desarrolladas en la investigación."
+        },
+        {
+          "letra": "B",
+          "texto": "Reflexiva, pues pondera las posibles causas de la obesidad a partir de los resultados de las mediciones."
+        },
+        {
+          "letra": "C",
+          "texto": "Problematizadora, pues plantea nuevas interrogantes que surgen a partir de los resultados del estudio."
+        },
+        {
+          "letra": "D",
+          "texto": "Crítica, pues cuestiona las conclusiones del estudio a partir de los resultados obtenidos en este. – 22 –"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. En la investigación mencionada en la lectura, ¿con qué finalidad se registró información sobre\n\nescuelas con el programa Jardín Activo y otras sin este?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Para representar la distribución del programa Escuelas Deportivas Integrales."
+        },
+        {
+          "letra": "B",
+          "texto": "Para evaluar el impacto del programa en la actividad física de los niños."
+        },
+        {
+          "letra": "C",
+          "texto": "Para contar con una mayor cantidad de registros para el estudio."
+        },
+        {
+          "letra": "D",
+          "texto": "Para incrementar el tiempo de ejercicio de los párvulos."
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. A partir del siguiente párrafo de la lectura, ¿qué revela el estudio respecto de las sesiones de\n\nJardín Activo?\n\n«Para esta población infantil, se recomiendan 60 minutos diarios de intensidad moderada a\nvigorosa, es decir, que implique un gasto energético significativo de manera que impacte la\nsalud del párvulo. El estudio evidenció que, en promedio, una jornada escolar de 6 horas,\ncuando no está el taller del IND, destina el 9,3 % de su tiempo a una actividad moderada a\nvigorosa; sin embargo, cuando está el taller, este porcentaje se incrementa a un 12,5 %,\ndisminuyendo el tiempo sedentario significativamente. De esta forma, el programa cumple uno\nde sus grandes propósitos, aunque de todas maneras el porcentaje está por debajo de lo\ndeseado».\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La diferencia positiva de tiempo empleado en actividad moderada a vigorosa gracias a las sesiones."
+        },
+        {
+          "letra": "B",
+          "texto": "La forma eficiente de usar diversos implementos en las sesiones para el desarrollo de actividad moderada a vigorosa."
+        },
+        {
+          "letra": "C",
+          "texto": "La precisión en la cantidad de tiempo que debe destinarse a la actividad moderada a vigorosa en las sesiones."
+        },
+        {
+          "letra": "D",
+          "texto": "La dificultad de implementación de las sesiones de actividad moderada a vigorosa debido a la duración de la jornada escolar. – 23 –"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. En el último párrafo, ¿qué contraste se expresa respecto de las educadoras de párvulos y el\n\nprograma Jardín Activo?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El juicio de las educadoras versus el juicio de las directoras de los jardines."
+        },
+        {
+          "letra": "B",
+          "texto": "La valoración del programa versus la baja participación en su implementación."
+        },
+        {
+          "letra": "C",
+          "texto": "Las necesidades profesionales versus las exigencias de los especialistas del IND."
+        },
+        {
+          "letra": "D",
+          "texto": "Los intereses en disciplina e higiene versus la pertinencia de los programas externos."
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. ¿Cuál es uno de los propósitos del IND que se cumplió según el estudio?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La reducción de la duración diaria de cada taller."
+        },
+        {
+          "letra": "B",
+          "texto": "La disminución del tiempo de sedentarismo de los párvulos."
+        },
+        {
+          "letra": "C",
+          "texto": "El aumento en la frecuencia semanal de ejecución de los talleres."
+        },
+        {
+          "letra": "D",
+          "texto": "El incremento en el nivel de participación de las educadoras en el programa. – 24 –"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. Según la lectura, ¿qué tarea motriz es menos frecuente entre las actividades que desarrollan\n\nactualmente los párvulos?\n\nEjercicio tipo DEMRE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Afirmar."
+        },
+        {
+          "letra": "B",
+          "texto": "Saltar."
+        },
+        {
+          "letra": "C",
+          "texto": "Trotar."
+        },
+        {
+          "letra": "D",
+          "texto": "Correr. Lectura 6 (Preguntas 43 - 50) Columna de opinión de Daniel Matamala, publicada en octubre del 2023 en La Tercera. Columna de Daniel Matamala: 65 formas de ser chileno Santiago Ford entró caminando a Chile. Nacido, criado y formado como atleta en Cuba, dejó atrás su hogar para buscar una oportunidad al sur del mundo. La travesía, como la de tantos migrantes, fue infernal. Tras pasar por Guyana y Brasil, fue detenido por la policía en un bus en Perú. Le quitaron 30 dólares, todo el dinero que llevaba, bajo amenaza de deportarlo. Desde Perú cruzó por el desierto, caminando tres horas en medio de la madrugada por la línea del tren. Ya en Chile, debió dejar el deporte para sobrevivir, trabajando como guardia en una discoteca. Entonces llegó la solidaridad: un entrenador, Matías Barrera, le cobijó en su casa para que pudiera volver a dedicarse al atletismo. Luego vinieron los triunfos, un cupo en el Centro de Alto Rendimiento y la nacionalización por gracia. En la última prueba del Decatlón, los 1.500 metros planos, Ford se frenó justo antes de llegar. Ante un Estadio Nacional que lo vitoreaba, cruzó la meta caminando. “Me paré, pero no porque haya querido, sino porque me acordé cuando caminaba por el desierto a las 5 de la mañana, en medio de la nada, sin saber qué hacer”. Conmovido, Ford musitó un “gracias Chile, gracias por la oportunidad de estar acá”. Santiago Ford es chileno, y le dio una medalla a Chile. Martina Weil es hija de gigantes. Su padre es el chileno Gert Weil, campeón panamericano de la bala. Su madre es la colombiana Ximena Restrepo, medallista olímpica de los 400 metros planos. Ella se crió en el país de su padre, y eligió la disciplina atlética de su madre. Comenzó a brillar en las pistas de su colegio, el Villa María; se profesionalizó en la Universidad Católica, y se perfeccionó en Estados Unidos, en la Universidad de Tennessee. – 25 –"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. ¿Por qué Santiago Ford se detuvo y empezó a caminar justo antes de llegar a la meta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Se acordó de su travesía por el desierto para llegar a Chile."
+        },
+        {
+          "letra": "B",
+          "texto": "Fue una manera de demostrarle al pueblo chileno su respeto y agradecimiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Fue un gesto de solidaridad ante sus compañeros que aún no se acercaban a la meta."
+        },
+        {
+          "letra": "D",
+          "texto": "Para disfrutar y registrar en su memoria los vítores que recibía por parte del público."
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. ¿Por qué se dice que Martina Weil es “hija de gigantes”?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque tanto su padre como su madre obtuvieron primer lugar en carreras olímpicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque tanto su padre como su madre marcaron récords en sus disciplinas."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque tanto su padre como su madre fueron campeones panamericanos."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque tanto su padre como su madre han obtenido importantes triunfos deportivos. – 27 –"
+        }
+      ],
+      "pagina": 28,
+      "imagenes": []
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. ¿De qué manera los cuatrillizos Abraham han contribuido al deporte chileno?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Han ganado medallas de oro en natación."
+        },
+        {
+          "letra": "B",
+          "texto": "Han conseguido más de un oro para Chile en remo."
+        },
+        {
+          "letra": "C",
+          "texto": "Se han destacado mundialmente en su disciplina."
+        },
+        {
+          "letra": "D",
+          "texto": "Han representado a Chile internacionalmente en tenis de mesa."
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. ¿Qué tono predomina en la descripción realizada por el emisor a Santiago Ford?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Crítico, ya que enfatiza en las dificultades y la escasa ayuda recibida por parte del gobierno chileno."
+        },
+        {
+          "letra": "B",
+          "texto": "Admirativo, ya que reconoce el esfuerzo y sacrificio realizado por Santiago para llegar y luego mantenerse en Chile."
+        },
+        {
+          "letra": "C",
+          "texto": "Polémico, ya que destaca que si no fuera por el deporte difícilmente Santiago hubiese podido instalarse en Chile."
+        },
+        {
+          "letra": "D",
+          "texto": "Irónico, ya que se detiene en la contradicción de ser inmigrante y conseguir triunfos para un país distinto al propio."
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. ¿Cuál es el propósito comunicativo al mencionar a “nuestros grandes poetas” en el contexto\n\ndel párrafo 23?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Explicar que toda figura prestigiosa de un país proviene de un sector de esfuerzo y una realidad de sacrificios."
+        },
+        {
+          "letra": "B",
+          "texto": "Convencer de que toda historia de triunfos y fama tiene un pasado de tragedias y sufrimientos."
+        },
+        {
+          "letra": "C",
+          "texto": "Demostrar que figuras reconocidas del país han surgido desde distintos sectores y diversas realidades sociales."
+        },
+        {
+          "letra": "D",
+          "texto": "Evidenciar que las figuras deportivas nacionales provienen de diversas realidades socioculturales."
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. ¿Qué tienen en común todos los deportistas mencionados en el texto, independientemente de\n\nsus orígenes y disciplinas deportivas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todos practican atletismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Todos provienen de familias de deportistas."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos han contribuido con medallas al deporte chileno."
+        },
+        {
+          "letra": "D",
+          "texto": "Todos son reconocidos tanto en Chile como en el extranjero. – 28 –"
+        }
+      ],
+      "pagina": 29,
+      "imagenes": []
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. Según el emisor ¿Quiénes han secuestrado el concepto de “patria”?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Los grupos que definen patriotismo desde el odio y la agresión a lo distinto."
+        },
+        {
+          "letra": "B",
+          "texto": "Quienes comprenden el concepto de patria desde una lógica de amor a lo propio."
+        },
+        {
+          "letra": "C",
+          "texto": "Quienes defienden la idea de patria como una de las palabras más nobles de nuestra lengua."
+        },
+        {
+          "letra": "D",
+          "texto": "Los que rechazan lo propio para darle espacio a lo ajeno y culturalmente diferente."
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    },
+    {
+      "numero": 50,
+      "enunciado": "50.  ¿Cuál es la tesis del texto leído?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Existen muchas maneras de ser chileno."
+        },
+        {
+          "letra": "B",
+          "texto": "Ser chileno es ser diferente."
+        },
+        {
+          "letra": "C",
+          "texto": "Hay que amar lo propio y rechazar lo externo."
+        },
+        {
+          "letra": "D",
+          "texto": "Cualquiera que engrandezca al país puede ser chileno. – 29 –"
+        }
+      ],
+      "pagina": 30,
+      "imagenes": []
+    }
+  ]
+}

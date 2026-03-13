@@ -1,0 +1,161 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FUENTES DE LUZ:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          82.6484375,
+          146.36328125
+        ],
+        [
+          163.4769744873047,
+          144.71875
+        ],
+        [
+          163.4769744873047,
+          158.3800048828125
+        ],
+        [
+          82.6484375,
+          158.3800048828125
+        ]
+      ]
+    },
+    {
+      "title": "MATERIALES COMPORTAMIENTO CON LUZ",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.685546875,
+          207.93994140625
+        ],
+        [
+          280.854248046875,
+          206.388671875
+        ],
+        [
+          280.854248046875,
+          218.97998046875
+        ],
+        [
+          83.521484375,
+          218.97998046875
+        ]
+      ]
+    },
+    {
+      "title": "ESPECTRO ELECTROMAGN\u00c9TICO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.39453125,
+          281.21484375
+        ],
+        [
+          232.20095825195312,
+          279.5703125
+        ],
+        [
+          232.20095825195312,
+          294.72998046875
+        ],
+        [
+          84.39453125,
+          294.72998046875
+        ]
+      ]
+    },
+    {
+      "title": "DISPERSI\u00d3N O DESCOMPOSICI\u00d3N DE LA LUZ",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.8125,
+          529.5390625
+        ],
+        [
+          286.359375,
+          527.89453125
+        ],
+        [
+          286.359375,
+          541.2300109863281
+        ],
+        [
+          83.8125,
+          541.2300109863281
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/3.- Torpedo - Naturaleza de la Luz"
+}

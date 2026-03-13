@@ -1,0 +1,476 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Matem\u00e1tica M2 \nMaterial MAEL-38",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          23.3466796875,
+          27.49169921875
+        ],
+        [
+          143.4320068359375,
+          25.94287109375
+        ],
+        [
+          143.4320068359375,
+          55.6094970703125
+        ],
+        [
+          22.1494140625,
+          55.6094970703125
+        ]
+      ]
+    },
+    {
+      "title": "CUADERNO DE EJERCICIOS N\u00b033\nPROBABILIDAD CONDICIONADA II",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          188.4499969482422,
+          130.8759765625
+        ],
+        [
+          414.55322265625,
+          130.8759765625
+        ],
+        [
+          414.55322265625,
+          165.17791748046875
+        ],
+        [
+          188.4499969482422,
+          165.17791748046875
+        ]
+      ]
+    },
+    {
+      "title": "Para los ejercicios 8 y 9 considere la siguiente informaci\u00f3n:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          95.48193359375,
+          70.85888671875
+        ],
+        [
+          431.105224609375,
+          70.85888671875
+        ],
+        [
+          431.105224609375,
+          83.58111572265625
+        ],
+        [
+          94.28466796875,
+          83.58111572265625
+        ]
+      ]
+    },
+    {
+      "title": "Para los ejercicios 10 y 11 considere la siguiente informaci\u00f3n:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          95.78125,
+          70.08447265625
+        ],
+        [
+          445.1656494140625,
+          70.08447265625
+        ],
+        [
+          445.1656494140625,
+          83.58111572265625
+        ],
+        [
+          95.78125,
+          83.58111572265625
+        ]
+      ]
+    },
+    {
+      "title": "RESPUESTAS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          267.5888671875,
+          552.9243140964995
+        ],
+        [
+          344.39045287637697,
+          552.9243140964995
+        ],
+        [
+          344.39045287637697,
+          562.224609375
+        ],
+        [
+          267.5888671875,
+          562.224609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          30
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          36
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          43
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/51 1571-MAEL-38_Probabilidad_Condicionada_II"
+}

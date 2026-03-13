@@ -1,0 +1,123 @@
+{
+  "archivo_original": "Desafío N° 5.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/DESAFIOS/Desafío N° 5.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 1,
+  "fecha_procesamiento": "2026-03-07T23:03:23.114157",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSi se cumple: 222 + 1.024 = 1.024 · a, entonces \n\n · a es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0 2 2 2"
+        },
+        {
+          "letra": "C",
+          "texto": "212"
+        },
+        {
+          "letra": "D",
+          "texto": "-16"
+        },
+        {
+          "letra": "B",
+          "texto": "4 2 2"
+        },
+        {
+          "letra": "E",
+          "texto": "7 7 7 (a c) + (b c) + (a b) 7 7 , entonces 70    es"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nSi a – b = b – c =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16"
+        },
+        {
+          "letra": "B",
+          "texto": "13"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "10"
+        },
+        {
+          "letra": "E",
+          "texto": "2"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi P(x + 1) = x2 + 1 y H = (x) = \n P(x  1) + P(x + 1) ; si x  1\n P(x) + P(-x)            ; si < 1\n\n\n\n\n\n\n\n, entonces                     \n\nH(0) + H(1) es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn la figura adjunta, se tiene AC semicircunferencia de centro B. Si AB es \nsemicircunferencia donde AB  = BC  = 2R, T es punto de tangencia. Determinar ET",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R 6 E"
+        },
+        {
+          "letra": "B",
+          "texto": "2 3 R D T"
+        },
+        {
+          "letra": "C",
+          "texto": "2 3 R 6"
+        },
+        {
+          "letra": "D",
+          "texto": "R 3 6 A B C"
+        },
+        {
+          "letra": "E",
+          "texto": "3 2 R 6 Respuestas: 1 D 2 B 3 B 4 C"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Desafío N° 5_p1_img1.jpg"
+      ]
+    }
+  ]
+}

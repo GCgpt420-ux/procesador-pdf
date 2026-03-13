@@ -1,0 +1,148 @@
+{
+  "filename": "NÚMEROS RACIONALES.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/NÚMEROS RACIONALES.pdf",
+  "num_paginas": 22,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T15:54:49.921563",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "NÚMEROS RACIONALES \n\n \n",
+      "cantidad_caracteres": 23,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 1224.9248046875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 39\n\n2.   NÚMEROS RACIONALES   \n\n2.1\t DEFINICIÓN DE NÚMERO RACIONAL\n\na\nb\n\nLos números racionales son todos aquellos números de la forma           con a y b números enteros y b distinto de cero. \n\nEl conjunto de los números racionales se representa por la letra       .\n\nOBSERVACIÓN\n\na,  b      y  b ≠  0 \n=\na\nb\n\nTodo número entero n es racional\nporque se puede escribir de la forma\nn\n1\n\n2.2\t TIPOS DE FRACCIONES\n\nFRACCIÓN PROPIA E IMPROPIA\n\nSean a y b números enteros.\n\n|a| < |b|, entonces             es una fracción propia.\t\nSi |a| > |b|, entonces             es una fracción impropia.\na\n\na\n\nb\n\nb\n\n2.3\t FRACCIONES EQUIVALENTES\n\nDos fracciones             y             son equivalentes entre si, si y solo si  a · d  =  b · c .\na\n\nc\n\nb\n\nd\n\nSean          ,             ,   con  b  y  d  ≠  0.   Entonces,           =           <=>   a  ·  d  =  b  ·  c\na\nb\n\na\nb\nc\nd\n\nc\nd\n",
+      "cantidad_caracteres": 910,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "MATEMÁTICA\n40\n\n2.4\t AMPLIFICACIÓN Y SIMPLIFICACIÓN DE UNA FRACCIÓN\n\nLa amplificación y simplificación de fracciones permiten obtener fracciones equivalentes.\n\n2.4.1\t\nAMPLIFICACIÓN\n\n2.4.2\t SIMPLIFICACIÓN\n\nSe divide el numerador y el denominador por un mismo \nnúmero entero distinto de cero.\n\nSe multiplica el numerador y el denominador de una \nfracción por un mismo número entero distinto de cero.\n\n=                   , con  n        y  n  ≠  0.\na\nb\n\na  ·  n\nb  ·  n\n=                   , con  n        y  n  ≠  0.\na\nb\n\na  :  n\nb  :  n\n\nOBSERVACIÓN\n\na\nb\n\n        La fracción          es irreductible si el máximo común divisor de los valores absolutos de a y b es 1.\n\nEJERCICIOS\n\nConteste verdadero (V) o falso (F) a las siguientes afirmaciones.\n\n0\n\n1. ___ La expresión             es racional.\n\n3\n\n4\n\n2. ___ La expresión                      es racional.\n\n20  -  1\n\nn  +  2\n\n3. ___ Para todo entero n,                      es un número racional.\n\nn  +  1\n",
+      "cantidad_caracteres": 956,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 41\n\nn  +  2\n\n4. ___ Para todo entero positivo  n,                      es una fracción impropia.\n\nn  +  1\n\np\n\n2\n\n5. ___ Si   3p  =  2q,   con  q  ≠  0, entonces es siempre verdadero que              =           .\n\nq\n\n3\n\np\n\n1\n\n6. ___ Si              =            , entonces siempre es verdadero que  p = 1   y   q = 3.\n\nq\n\n3\n\n30\n\n40\n\n7. ___ Las fracciones              y              son equivalentes.\n\n24\n\n32\n\n28\n\n15\n\n8. ___ Las fracciones              y              son equivalentes.\n\n21\n\n20\n\na\n\n18\n\n9. ___ Si el máximo común divisor entre los números enteros a  y  b es  1 y           =           , entonces el producto\n              a  ·  b es 12.\n\nb\n\n24\n\nRespuestas\n1. V\n2. F\n3. F\n4. V\n5. V\n6. F\n 7. V\n8. F\n9. V\n",
+      "cantidad_caracteres": 756,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": "MATEMÁTICA\n42\n\n2.5\t ADICIÓN Y SUSTRACCIÓN DE NÚMEROS RACIONALES\n\n2.5.1\t\nDE IGUAL DENOMINADOR\n2.5.2\t DE DISTINTO  DENOMINADOR\n\nc\nd\nSi         ,            ,  entonces,          ±          =\na\nc\n\nc\nb\n\na\nc\n\nb\n\na  ±  b\n\nSi         ,            ,  entonces,          ±          =\na\nb\n\nbd\nc\nd\n\na\nb\n\nad  ±  bc\n\nc\n\nc\n\nOBSERVACIONES\n\na\nb\na\nb\n\na\nb\n\na\nb\n\n•\t El inverso aditivo (u opuesto) de            es  ‒          , con  b  ≠  0, de modo que           +    ‒           =  0 .\n\nA ·  c + b\n\nb\nc\n\nb\nc\n\n•\t El número mixto  A           se transforma a fracción impropia con la siguiente fórmula:  A          =                            ,\n\nc\n\ncon   A ≥ 0,    b > 0   y   c > 0.\n\nA ·  c + b\n\n•\t Número mixto negativo  ‒A           =   ‒                            , con   A ≥ 0,    b > 0   y   c > 0.\n\nb\nc\n\nc\n\n•\t Toda fracción impropia se puede expresar como un número mixto.\n\nEJERCICIOS\n\n5\n\n1.  3  +           =\n\n2\n\n7\n\n1\n\n2.  Si a             se le resta            , resulta\n\n8\n\n4\n\n3\n\n1\n\n3. El inverso aditivo d",
+      "cantidad_caracteres": 1039,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 43\n\n5\n\n4. \t ¿Cuántos sextos son  2          ?\n\n6\n\n1\n\n1\n\n1\n\n5.  \t          +            +            =\n\n2\n\n3\n\n6\n\n3\n\n1\n\n6. \t El valor de la expresión    4 ‒              ‒                es\n\n2\n\n5\n\n1\n\n1\n\n7. \t Si   x  =  ‒2            e    y  =  2  +           , entonces el valor de   x + y   es\n\n3\n\n6\n\n2\n\n8. \t Diego tiene un bidón de 10 litros de capacidad, con 4        litros de agua. ¿Cuántos litros faltan para llenar\n\n3\n\nel bidón?\n\n9. \t Si a, b y c son números enteros distintos de cero, tales que a y b son múltiplos de c, entonces ¿es siempre \n\na  ‒  b\n\nverdadero que                    es un número racional entero?\n\nc\n\n1.   5\n2.   \n3.   ‒\n4.     17\n5.     1\n6. \n 7.   ‒\n8.    5\n9.     Sí\n1\n2\n1\n3\n\n5\n8\n11\n20\n1\n6\n\n27\n10\n\nRespuestas\n",
+      "cantidad_caracteres": 776,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "MATEMÁTICA\n44\n\n2.6\t MULTIPLICACIÓN Y DIVISIÓN DE NÚMEROS RACIONALES\n\nSi           y               ,  entonces:\na\nb\n\nc\nd\n\nMULTIPLICACIÓN\n\nDIVISIÓN\n\n·           =  \na\nb\n\na  ·  c\nb  ·  d\nc\nd\n\n:           =            ·            =                     ,\na\nb\n\na  ·  d\nb  ·  c\nc\nd\n\na\nb\n\nd\n\nc\nc ≠ 0\n\nOBSERVACIÓN\n\nEl inverso multiplicativo (o recíproco) de           es            , con a  y  b  ≠  0, de modo que           .          =  1\na\nb\n\nb\na\nb\na\n\na\nb\n\nEJERCICIOS\n\n12\n\n5\n\n1.\t           ·         =\n\n15\n\n6\n\n4\n\n16\n\n2.\t   ‒           :     ‒             =\n\n7\n\n49\n\n3.\t La tercera parte del doble de                :            .  8      es igual a la cuarta parte de\n5\n\n5\n\n4\n\n12\n",
+      "cantidad_caracteres": 674,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 45\n\n8\n\n1\n\n1\n\n1\n\n5\n\n1\n\n4\n4.\t El opuesto del inverso multiplicativo de               .                ‒             :              .          ‒                    es igual a\n\n7\n\n3\n\n5\n\n7\n\n3\n\n5.\t Se repartió una herencia entre cinco hermanos, dos tíos y una prima. Si cada hermano recibió la séptima \n\nparte de la herencia y cada tío la mitad de lo que recibió cada uno de los hermanos, ¿qué parte de la herencia \nrecibió la prima?\n\n1\n4\n1\n2\n\n6.\t Una fabrica de pizzas tiene que entregar un pedido de P pizzas en tres días. Si el primer día entrega           de \n\n1\n3\n\nél, el segundo día          de lo que resta y el tercer día          del resto, entonces lo que falta por entregar es\n\n1.  \n2.   \n3.   64\n4.    2\n5.\n6. \n2\n3\n7\n4\n1\n7\np\n4\n\nRespuestas\n",
+      "cantidad_caracteres": 784,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "texto": "MATEMÁTICA\n46\n\n2.7\t RELACIÓN DE ORDEN EN        \n\nSean           y               ,    y     b, d     \n .     Entonces,          ≥          <=>  a · d   ≥   b · c\na\nb\n\na\nb\nc\nd\n\nc\nd\n\nOBSERVACIONES\n\nPara comparar números racionales positivos, también se pueden utilizar  los siguientes procedimientos:\n\n•\t Igualar numeradores:\nAl igualar los numeradores,\nel mayor racional es el que \ntiene el menor denominador.\n\n•\t Igualar denominadores:\nAl igualar los denominadores, \nel mayor racional es el que \ntiene el mayor numerador.\n\n•\t Convertir a número decimal \ny ordenar en forma posicional \npara comparar cifra a cifra \nhasta encontrar una distinta.\n\nEntre dos números racionales cualesquiera hay infinitos números racionales.\n\nEJERCICIOS\n\n1.\t El orden creciente de los números   q  =         ,    r  =         ,   y    s  =          es\n15\n\n7\n15\n11\n15\n\n4\n\n2.\t El orden decreciente de los números   a  =         ,    b  =         ,   y    c  =          es\n11\n\n7\n10\n\n7\n12\n\n7\n",
+      "cantidad_caracteres": 967,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 47\n\n3.\t El orden decreciente de los números:    a  =  2           , b  =  3            y  c  =           es   \n1\n6\n\n1\n3\n\n5\n6\n\n4.\t El orden creciente de los números:    p  =           , q  =            y   r  =          es   \n5\n6\n\n8\n9\n\n10\n11\n\n5.\t Si x es un número racional mayor que 3, ¿cuál es orden decreciente entre las fracciones\n\n4\nx  ‒  3\n\n4\nx  +  3\n4\nx\n\n6.\t El orden de los números mixtos   r  =   -2           ,    s  =   ‒2            y    t  =  ‒2           , de menor a mayor es\n3\n4\n\n7\n8\n\n6\n7\n\n7.\t ¿Cuál(es) de los siguientes números está(n) entre           y           ?\n3\n4\n1\n3\n\n1\n4\na) \n\n4\n5\nb) \n\n3\n7\nc) \n\n4\n6\nd) \n\nRespuestas\n1. r, s, q\n2. b, c, a\n3. b, a, c\n4. p, q, r\n5. p, q, r\n6. s, t, r\n7. c y d\n",
+      "cantidad_caracteres": 753,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "texto": "MATEMÁTICA\n48\n\n2.8\t NÚMEROS DECIMALES\n\nFINITOS\n\nPERIÓDICOS\n\nDECIMALES\n\nINFINITOS\n\nSEMIPERIÓDICOS\n\nNO PERIÓDICOS\n\nAl efectuar la división entre el numerador y el denominador de un número racional, se obtiene un desarrollo \ndecimal, el cual puede ser finito, infinito periódico o infinito semiperiódico.\n\n2.8.1\t\nTRANSFORMACIÓN DE DECIMAL A FRACCIÓN\n\nDECIMAL FINITO\n\nSe escribe en el numerador todos los dígitos que forman el número decimal y en el denominador una potencia \nde 10 con tantos ceros como cifras decimales tenga dicho número.\n\n125\n100\n\nEjemplo:  1,25  =  \n\nDECIMAL INFINITO PERIÓDICO\n\nSe escribe en el numerador la diferencia entre el número decimal completo (sin considerar la coma) y el número \nformado por todas las cifras que anteceden al período. En el denominador se coloca un número formado por \ntantos nueves como cifras tenga el período.\n\n125  ‒  1\n\nEjemplo:  1,25  =                      ,                  \n\n99\n\nDECIMAL INFINITO SEMIPERIÓDICO\n\nSe escribe en el numerador la dife",
+      "cantidad_caracteres": 1344,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 49\n\nEJERCICIOS\n\n1.\t El desarrollo decimal de la fracción              es\n5\n400\n\n2.\t El desarrollo decimal de la fracción              es\n6\n11\n\n3.\t El desarrollo decimal de la fracción              es\n34\n90\n\n4.\t Una fracción equivalente a   0,65   es\n",
+      "cantidad_caracteres": 289,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "texto": "MATEMÁTICA\n50\n\n5.\t Un valor equivalente a  2,9  es\n\n6.\t Una fracción equivalente a  1,02  es\n\n7.\t El orden decreciente de los números   M  =  0,354  ;   N  =  0,354  ;  P  =  0,354    y    Q  =  0,354    es\n\n12\n\n16\n\n7\n8.\t El orden creciente de    a  =            ;     b  =             y    c  =   2,2     es         \n\n5\n\n1.   0,0125\n2.  0,54\n3.  0,37\n4.\n5.    3\n6. \n7.  P, N, Q, M 8.   c,  b,  a\n46\n45\n\n13\n20\n\nRespuestas\n",
+      "cantidad_caracteres": 422,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 51\n\n2.9\t OPERATORIA CON NÚMEROS DECIMALES\n\n2.9.1\t\nADICIÓN O SUSTRACCIÓN DE NÚMEROS DECIMALES\n\nPara sumar o restar números decimales se ordenan en forma posicional, es decir, se ubican las cantidades enteras \nbajo las enteras, las comas bajo las comas, la parte decimal bajo la decimal y a continuación se realiza la operatoria \nrespectiva, manteniendo en el resultado la posición de la coma.\n\n2.9.2\t MULTIPLICACIÓN DE NÚMEROS DECIMALES\n\nPara multiplicar dos o más números decimales, se multiplican como si fueran números enteros, ubicando la \ncoma en el resultado final, de derecha a izquierda, tantos lugares decimales como decimales tengan los números \niniciales en conjunto.\n\n2.9.3\t DIVISIÓN DE NÚMEROS DECIMALES\n\nPara dividir números decimales, se puede transformar el dividendo y el divisor en números enteros amplificando \npor una potencia en base 10.\n\nOBSERVACIÓN\n\nPara resolver operaciones que involucren números decimales periódicos y/o semiperiódicos,",
+      "cantidad_caracteres": 1142,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "texto": "MATEMÁTICA\n52\n\n2.\t El opuesto de  ( 1,9   ‒   2,7 )   es\n\n3.\t 0,30  ·  0,02  ·  1,4     es igual a\n\n4.\t 1,6  :  2  ‒  0,04  ·  2     es igual a\n\n\t 5,6 ‒  4,4  \n\n0,12\n5.\n=\n\nRespuestas\n1.   ‒0,78\n2.     0,8\n3.   0,0084 4.    0,72\n5.    10\n",
+      "cantidad_caracteres": 237,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 53\n\n2.10\t REDONDEO Y TRUNCAMIENTO\n\t\nDE UN NÚMERO\n\nEn algunos casos se requiere utilizar solamente una parte de un número como por ejemplo el número  π . Como \neste número tiene un desarrollo decimal infinito no periódico, se aproxima por redondeo o truncamiento, a una \ncantidad que no afecte significativamente los cálculos finales, de acuerdo a un contexto.\n\n2.10.1\t REDONDEO\n\nSi el dígito que sigue a la derecha de la última cifra a considerar es mayor o igual a cinco, entonces esta cifra se \naumenta en una unidad y las cifras a la derecha de esta se completan con ceros.\n\nSi el dígito que sigue a la derecha de la última cifra a considerar es menor a cinco, esta se conserva y todas las \ncifras a la derecha de esta se reemplazan por ceros.\n\n2.10.2\t TRUNCAMIENTO\n\nTodas las cifras que siguen a la derecha de la última cifra considerada se reemplazan por ceros.\n\nEJERCICIOS\n\n1.\t Al redondear a la décima el número    3,8654, resulta\n\n2.\t Al truncar a la ce",
+      "cantidad_caracteres": 1037,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "texto": "MATEMÁTICA\n54\n\n3.\t Al redondear a la centésima el número 4,5712, resulta\n\n4.\t Al truncar a la diezmilésima el número 16,56, resulta\n\n5.\t Al truncar a la décima el número ‒ 0,599, resulta\n\n6.\t Al redondear a la unidad el número 157,655, resulta\n\n7.\t Al redondear a la milésima el número 570,3255, resulta\n\n8.\t Al truncar a la decena el número 528, resulta\n\n9.\t Dado π = 3,141592..., si P es el redondeo a la diezmilésima de π y Q es el truncamiento a la milésima de π, \n\n¿cuánto es Q - P?\n\nRespuestas\n1.   3,9\n2.  5,48\n3.  4,57\n4.   16,5656\n5.  ‒0,5\n6.   158\n7.  570,326\n8.  520\n9.  -0,0006\n",
+      "cantidad_caracteres": 590,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 55\n\n2.11\t APROXIMACIONES\n\nSon representaciones no exactas y más sencillas de un número. Idealmente estas representaciones deben ser tales \nque, al reemplazar al número original, no produzcan desviaciones significativas respecto de lo real.\n\n2.11.1\t\nAPROXIMACIÓN POR EXCESO O POR DEFECTO\n\nAl aproximar un número con una cantidad determinada de cifras, el resultado puede ser menor o mayor que \nel número original. Si la aproximación es mayor al número original, es una aproximación por exceso. Si la \naproximación es menor al número original, es una aproximación por defecto.\n\nLa mejor aproximación tanto por exceso o por defecto, es aquella en que se comete el menor error.\n\n2.11.2\t ERRORES\n\nCuando se aproxima por exceso o por defecto un número, se comete un error, el cual corresponde al valor \nabsoluto de la diferencia entre el valor exacto y su aproximación.\n\nEJERCICIOS\n\n1.\t Al escribir la mejor aproximación por defecto a la décima del número  7,2814    ",
+      "cantidad_caracteres": 1370,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "texto": "MATEMÁTICA\n56\n\n2.12\t POTENCIAS EN        \n\nn\n\nc\n\nSe denomina potencia de base racional y exponente entero a toda expresión de la forma                  con c y d distintos \nde cero, donde:\n\nd\n\nn\nc\nd\n\n0\n\nn\n\n=          ·          · ..... ·          =            ,  si  n > 0\nc\nd\n\nc\nd\n\nc\nd\n\nc\nd\n\nn\n=  1\nc\nd\n\nn\n-n\n\n=                  ,  si  n < 0\nc\nd\n\nd\n\nn  factores\n\nc\n\n2.12.1\t PROPIEDADES\n\na\n\nc\n\nDados             y             distintos de cero, y n, m números enteros, se cumplen las siguientes propiedades.\n\nb\n\nd\n\nMULTIPLICACIÓN\nDE POTENCIAS DE IGUAL BASE\n\nDIVISIÓN\nDE POTENCIAS DE IGUAL BASE\n\nn\na\n\nm\n·\n=\n\nn+m\na\n\nn\na\n\nm\n:\n=\n\nn‒m\na\n\na\n\na\n\nb\n\nb\n\nb\n\nb\n\nb\n\nb\n\nMULTIPLICACIÓN\nDE POTENCIAS DE IGUAL EXPONENTE\n\nDIVISIÓN\nDE POTENCIAS DE IGUAL EXPONENTE\n\nn\nc\n\nn\n·\na\n\nn\n=\n=\n\nn\n·\na · c\n\nn\nc\n\nn\n:\n\nn\n=\n=\n\nn\n:\n\na\n\nc\n\na\n\na\n\nc\n\na · d\n\nb\n\nd\n\nb\n\nd\n\nb · d\n\nb\n\nd\n\nb\n\nd\n\nb · c\n\nPOTENCIA\nDE UNA POTENCIA\n\nnm\nm\n\nn\na\n\n=\na\n\nb\n\nb\n",
+      "cantidad_caracteres": 906,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 57\n\nEJERCICIOS\n\n2\n6\n2\n\n1.\t  ‒               =\n6.\t               :      -               =\n3\n\n1\n\n1\n\n4\n\n8\n\n8\n\n-2\n2\n2\n\n2.\t  ‒               =\n7.\t                 .                     =\n1\n\n1\n\n1\n\n5\n\n3\n\n3\n\n-3\n3\n3\n\n3.\t ‒                =\n8.\t                  :                      =\n4\n\n4\n\n16\n\n3\n\n5\n\n25\n\n-2\n9.\t  (0,6)4  :  (0,3)4     =\n\n4.\t  -3     =\n\n2\n3\n\n2\n-2\n\n10.\t                           =\n2\n\n5.\t              ·                 =\n1\n\n1\n\n3\n\n5\n\n5\n",
+      "cantidad_caracteres": 482,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "texto": "MATEMÁTICA\n58\n\n3-2    .   2-3\n\n11.\n\n=\n\n4-1\n\n2-1    +   2-2\n\n12.\n\n=\n\n2-3\n\n3\n\n-1\n\n2\n\n2\n\n.\n\n3\n\n3\n\n13.\n\n=\n\n2\n\n2\n\n3\n\n-1\n\n-1\n\n14.\t ( 0,2 )   +   ( 0,5 )       \n\n=\n\n-1\n\n( 0,25 )\n\n15.\t  3 . 5    + 3 . 5   - 6 . 5   \n-2\n-1\n-1\n\n=\n\n-1\n5   . 3\n\n18\n4\n5\n\n7\n4\n\n81\n125\n64\n81\n16\n1\n\n16\n27\n64\n1\n9\n1\n5\n\n1. \n2.   25 \n3. ‒  \n4. ‒\n5. \n6. 2-12\n7.\n8.\n9. 24\n10.\n11.\n12. 6\n13. 1\n14. \n15. -\n9\n\n5\n1\n\nRespuestas\n",
+      "cantidad_caracteres": 382,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 59\n\n2.13\t NOTACIÓN CIENTÍFICA Y ABREVIADA\n\nUn número está escrito en notación científica si se escribe de la forma  k · 10n  , donde 1 ≤  |k| < 10 y n es un\nnúmero entero.\n\nUn número está escrito en forma abreviada, si se escribe de la forma   p · 10n , donde  |p|  es el menor entero y \nn es un número entero.\n\nEJERCICIOS\n\n1.\t 340.000.000   expresado en notación científica es\n\n2.\t La notación científica de   0,00000621   es equivalente a\n\n3.\t El número   0,0000320   escrito en forma abreviada es\n\n4.\t El número   45.000   escrito en forma abreviada es\n\n5.\t Si   0,0000058  =   5,8 · 10q  , entonces 2q2 es igual a\n\n-2\n\n6.\t El resultado de                                escrito en notación científica es\n0,00025\n\n0,0005\n\n7.\t El resultado de                                            escrito en notación abreviada es\n0,0021  ·  0,022\n\n11.000  ·  0,0014\n\n1.   3,4  ·  108\n2.   6,21  ·  10-6\n3.    32  ·  10-6\n4.    45  ·  103\n5.    72\n6.    4 · 100\n7.    3 ·",
+      "cantidad_caracteres": 1018,
+      "imagenes": []
+    }
+  ]
+}

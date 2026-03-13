@@ -1,0 +1,190 @@
+{
+  "filename": "TR 05.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TR 05.pdf",
+  "num_paginas": 10,
+  "titulo": "",
+  "autor": "Alvaro Martinez Martinez",
+  "fecha_procesamiento": "2026-03-07T16:01:41.682869",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nMatemática  \nTALLER REPASO – GEOMETRÍA II \nMaterial: TR05  \n\n \n \n \n \n \n \n \n \n \n \n \n \n\nÁREAS Y PERÍMETROS II – FIGURAS ACHURADAS \n \nEJERCICIOS DE DESARROLLO \n \n \n\n \n1. \nEn la figura adjunta, ABCD es un cuadrado y EAD es un triángulo equilátero de lado \n8. ¿cuál es el área del cuadrilátero achurado? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2. \nEn la figura adjunta se visualizan tres cuadrados cuyas áreas son 49 cm2, 25 cm2 y \n9 cm2, ¿Cuál es el área de la superficie sombreada? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nE \n\nA \n\nB \n\nD \nC \n\nA \nB \n",
+      "cantidad_caracteres": 533,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 121.943359375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 0.3701171875
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 4,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "3. \nEl trapecio rectángulo ABCD de la figura adjunta, está formado por el cuadrado \nABFE y por el trapecio EFCD, ambos de igual área. ¿Cuál es la medida de CD ? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n4. \nEl pentágono ABCDE de la figura adjunta esta formado por el cuadrado ABCD y el \ntriángulo rectángulo ECD. Si ED = 3 y CD = 4, ¿cuál es el perímetro del triángulo \nBCE? \n \n \n\nC \n\nD \n\n5 cm \n\n7 cm \n\nF \nE \n\nA \nB \n\nD \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n5. \nEn el rectángulo ABCD, E, F y G son puntos medios de \n  BC  y \nAB,\n  CD, \nrespectivamente. Si AB = 20 y BC = 8, ¿cuál es el área del cuadrilátero EFGD? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nC \nE \n\nA \nB \n\nD \nG \nC \n\nF \n\nA \n\nB \nE \n\n \n2 \n",
+      "cantidad_caracteres": 676,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "6. \nEl circulo de centro O y radio OO`= 3 cm de la figura adjunta, siendo OO` \n AB\n\n, \ntiene una lúnula sombreada cuyo contorno esta formado por un arco con centro O y \nel otro con centro O`. ¿Cuál es el área de la lúnula? \n \n \n \n \n \n \n \n \n \n \n \n \n \n7. \nEn la figura adjunta AB = 35 cm, GH = HP = 25 cm y el cuadrado ABCD tiene igual \nárea que el rectángulo EFGH. ¿Cuál es la longitud de PE ? \n \n \n\nB \n\nO’ \n\nO \n\nA \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n8. \nEn la figura adjunta ABCD es un rectángulo y el arco AB es una semicircunferencia. \nSi BC = 6 cm y PQ = 16 cm, entonces AB = \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nH \nG \n\nC \nD \n\nP \n\nF \n\nE \n\nA \n\nB \n\nP \nQ \n\nD \n\nC \n\nB \nA \n\nO \n\n \n3 \n",
+      "cantidad_caracteres": 679,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "9. \nEn el cuadrilátero ABCD,  DA \n AB; BD \n \n DC\n\n\n, AB = 3, AD = 4, DC = 12 y BD = BE. \n¿Cuál es el valor de x? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n10. En el triángulo PQR de la figura adjunta, PR = 1 dm y PQ = 3 dm, ¿cuál es el \n\nC \n\nx \n\nE \nD \n\nA \nB \n\nperímetro del cuadrado PSTU? \n \n \n \n \n \n \n \n \n \n \n \n \n \n11. Un jardín ha sido diseñado con dos semicírculos congruentes y de radio 5 metros \n\nR \n\nT \n\nU \n\nP \nQ \n\nS \n\ncomo lo indica la figura adjunta. ¿Cuál es el área del jardín? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n5m \n\n \n4 \n",
+      "cantidad_caracteres": 535,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "12. En el trapecio rectángulo PQRS de la figura adjunta tiene área 54 cm2. Si  \n\nPQ = 10 cm y RS = 8 cm, ¿cuál es la medida de PS ? \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n13. En la circunferencia de centro O de la figura adjunta, \n  y\nAB\n  CD son diámetros \n\nR\nS \n\nP\nQ \n\nperpendiculares y los arcos AO y OB son semicircunferencias. Si la longitud de CD  \nes 4 cm, ¿cuál es el perímetro de la figura achurada? \n\n \n \n \n   \n \n \n \n \n \n \n \n \n14. Los círculos de la figura adjunta tienen diámetros que miden 14 cm y 8 cm. ¿Cuál es \n\nB\n\nC \nD\nO\n\nA \n\nel área de la zona achurada? \n\n \n \n \n \n \n \n \n \n \n \n \n15. El cuadrilátero de la figura adjunta es un cuadrado de perímetro 16, O es el centro \n\nde la circunferencia inscrita. ¿Cuál es el área de la superficie achurada? \n\n \n \n \n \n \n \n \n \n \n \n \n\nO \n\n \n5 \n",
+      "cantidad_caracteres": 783,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.140625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "EJERCICIOS DE SELECCIÓN MÚLTIPLE \n\n \n \n \n \n1. \nEn la figura adjunta el área de cada círculo es 4. ¿Cuál es el perímetro del \ncuadrado ABCD? \n \n \n\nC \nD \n\nA) 8 \nB) 32 \nC) 64 \nD) 4 \n\n \n \n \n \n \n \n \n2. \nEn la figura adjunta, M y N son puntos medios de los lados del cuadrado de lado a. \n¿Qué porcentaje de la superficie en blanco es la superficie achurada? \n\nA \nB \n\n \n \n \nA) 75% \nB) 60% \nC) 50% \nD) 37,5% \n\nM \n\n \n \n \n \n \n \n \n \n \n3. \n¿Cuál es el perímetro del rectángulo ABCD de la figura adjunta, sabiendo que sus \nlados son números naturales mayores que 1 y que las áreas de los rectángulos \nGFHD, AEFG y EBCH, son respectivamente, 24 cm2, 12 cm2 y 18 cm2? \n\nN \n\na \n\n \n \n \nA) 24 cm \nB) 30 cm \nC) 32 cm \nD) 36 cm \n\nD \n\nH \nC \n\n \n \n \n \n \n \n\nG \n\nF\n\nA \n\nB \nE \n\n \n6 \n",
+      "cantidad_caracteres": 759,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.12890625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "4. \nEl cuadrilátero ABCD de la figura adjunta es un cuadrado de perímetro 24 cm. ¿Cuál \nes el área de la figura achurada, si los arcos AB y AD son semicircunferencias? \n\n \n \n \nA) ( - 2) cm2 \nB)  cm2 \nC) 18  cm2 \nD) 16  cm2 \n\nD \nC \n\n \n\n \n\n \n \n \n \n \n \n \n5. \nSi O es el centro del círculo de la figura adjunta y OA = AB = 12 cm, ¿cuál es el \nárea del sector AOB? \n\n \n\n \n\nA \nB \n\n \n \nA) 12 cm2 \nB) 24 cm2 \nC) 36 cm2 \nD) 72 cm2 \n \n \n \n \n \n \n6. \nEn la figura adjunta se muestran dos sectores circulares con centro en O, además se \nindican las longitudes de sus radios. ¿Qué porcentaje del área del sector mayor, es \nel área del sector achurado, sabiendo que  = 45°? \n\nB\n\nA\nO\n\n \n \n \nA) 12% \nB) 15% \nC) 20% \nD) 22,5% \n \n \n \n \n7. \nEn el plano cartesiano un cuadrado tiene sus vértices ubicados en los puntos (0,0), \n(1,-1), (2,0) y (1,1). ¿Cuál es el área del cuadrado? \n\n\n\n1 cm \n5 cm \n0 \n\n \n \nA) 2 \n\nB) 2 2  \n\nC) 4 2  \nD) 4 \n \n \n \n \n\n \n7 \n",
+      "cantidad_caracteres": 939,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.16796875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "8. \nSi el perímetro de un triángulo ABC es P, en que AB = AC = 2BC, entonces la \nlongitud de BC es \n\n \n\nA) \np\n6  \n\nB) p\n\n5  \n\nC) \np\n4  \n\nD) p\n\n2  \n\n \n \n \n9. \nEl cuadrilátero de la figura adjunta es un cuadrado y el círculo inscrito él tiene un \ndiámetro igual a 2a. ¿Cuál es el área de la superficie sombreada? \n\n \n \nA) 4a2(1 – ) \nB) a2(4 – 2) \nC) 4a2(1 + ) \nD) a2(4 – ) \n \n \n \n \n \n \n10. La figura adjunta esta formada por un rectángulo y dos semicírculos. De acuerdo a \n\nla información entregada en la figura, ¿cuál es el valor de su área? \n\n \n \nA) 205 \nB) 180 + 25 \nC) 90 + 25 \nD) 180 + 12,5 \n\n18 \n\n \n \n \n \n \n11. En la figura adjunta O es el centro del círculo y vértice del cuadrado OPQR. ¿Qué \n\n28 \n\nparte del área del cuadrado es la figura sombreada? \n\n \n \n\nA) \n1\n4  \n\n \n\nP \nO \n\nB) \n8\n\nC) \n4  \n\n \n\n4\n\nD) 2   3\n\n4\n\n \n\nQ \nR \n\n \n8 \n",
+      "cantidad_caracteres": 847,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "12. En el cuadrado ABCD se ha inscrito otro cuadrado en que M y N son puntos medios \n\nde \n  y\nAD\n  CD , respectivamente. ¿Qué parte del cuadrado ABCD es el cuadrilátero \nsombreado? \n\n \n\nA) \n1\n4  \n\nC \nD \n\nN \n\nB) 1\n\n5  \n\nC) \n1\n6  \n\nM \n\nD) 1\n\n8  \n\nB \n\nA \n\n \n \n \n13. Según la información entregada en la figura adjunta, ¿cuál es el área del trapecio \n\nABCD, si se sabe que  = 45°? \n\n \n \nA) 14 \nB) 15 \nC) 16 \nD) 18 \n \n \n \n \n14. El cuadrilátero de la figura adjunta es un cuadrado de perímetro 32. Si las \n\n\n\n10\n\nD \nC \n\n2\n2  \n\nB \n\nA \n\ncircunferencias son congruentes, tangentes entre sí y tangentes a los lados del \ncuadrado. ¿Cuál es el área de la superficie achurada? \n\n \n \nA) 2(8 – ) \nB) 16(8 – ) \nC) 6(8 – ) \nD) 8(8 – ) \n \n \n \n \n \n15. En la figura adjunta se han dibujado 4 semicircunferencias cuyos centros son los \n\n \n\n \n\npuntos medios de los lados del cuadrado de área 4n2. ¿Cuál es el perímetro de la \nfigura achurada? \n \n \n\n \n \n\n \n\n \n\nA) 2n \nB) 4n \nC) 6n \nD) 8n \n \n \n \n\n \n\n \n\n \n9 \n",
+      "cantidad_caracteres": 997,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.16796875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "RESPUESTAS \n\n \n \n \nEJERCICIOS DE DESARROLLO \n \n\n1. \n48 + 16 3 \n6. \n9 cm2 \n11. \n25 m2 \n\n2. \n33 cm2 \n7. \n24 cm \n12. \n2 10  cm \n\n3. \n2 5 cm \n8. \n20 cm \n13. \n4 cm \n\n4. \n5(2 + 2) cm2 \n9. \n8 u \n14. \n33 cm2 \n\n5. \n80 u2 \n10. \n3 dm \n15. \n8 –  \n\n \n \n \n \nEJERCICIOS DE SELECCIÓN MÚLTIPLE PÁG. 6 \n \n\n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n1. \nB \n6. \nA \n11. \nC \n2. \nB \n7. \nA \n12. \nA \n3. \nB \n8. \nB \n13. \nC \n4. \nC \n9. \nD \n14. \nD \n5. \nB \n10. \nB \n15. \nB \n\nMA-TR05 \n\n \n \n \n\nPuedes complementar los contenidos de esta guía visitando nuestra web \n\nhttp://www.pedrodevaldivia.cl/ \n\n \n10 \n",
+      "cantidad_caracteres": 598,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

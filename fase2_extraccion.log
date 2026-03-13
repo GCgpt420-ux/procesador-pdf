@@ -1,0 +1,1300 @@
+2026-03-07 17:10:00,697 - INFO - ✅ Ollama conectado
+2026-03-07 17:10:00,698 - INFO - Total PDFs a procesar: 2
+2026-03-07 17:10:00,698 - INFO - Ya procesados: 0
+2026-03-07 17:10:09,821 - INFO - Procesando: 🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile  | Materia: Comprensión Lectora
+2026-03-07 17:13:56,172 - INFO - ⚡ Modo RÁPIDO activado (sin Ollama)
+2026-03-07 17:13:56,173 - INFO - Total PDFs a procesar: 1
+2026-03-07 17:13:56,173 - INFO - Ya procesados: 0
+2026-03-07 17:13:56,184 - INFO - Procesando: 🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile  | Materia: Sin clasificar
+2026-03-07 19:50:44,157 - INFO - ⚡ Modo RÁPIDO activado (sin Ollama)
+2026-03-07 19:50:44,158 - INFO - Total PDFs a procesar: 1
+2026-03-07 19:50:44,158 - INFO - Ya procesados: 0
+2026-03-07 19:50:44,175 - INFO - Procesando: 🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile  | Materia: Sin clasificar
+2026-03-07 19:59:33,430 - INFO - ✓ 🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile : 1 preguntas extraídas
+2026-03-07 19:59:33,430 - INFO - 
+✅ Procesamiento completado: 1 archivos
+2026-03-07 19:59:33,430 - INFO - Errores: 0
+2026-03-07 21:40:06,870 - INFO - ⚡ Modo RÁPIDO activado (sin Ollama)
+2026-03-07 21:40:06,870 - INFO - Progreso cargado: 1 archivos
+2026-03-07 21:40:06,876 - INFO - Total PDFs a procesar: 1
+2026-03-07 21:40:06,876 - INFO - Ya procesados: 1
+2026-03-07 21:40:06,876 - INFO - Timeout configurado: 1.00 horas
+2026-03-07 21:40:06,882 - INFO - 
+✅ Procesamiento completado: 0 archivos
+2026-03-07 21:40:06,882 - INFO - Errores: 0
+2026-03-07 21:40:34,339 - INFO - ⚡ Modo RÁPIDO activado (sin Ollama)
+2026-03-07 21:40:34,340 - INFO - Total PDFs a procesar: 1
+2026-03-07 21:40:34,340 - INFO - Ya procesados: 0
+2026-03-07 21:40:34,340 - INFO - Timeout configurado: 1.00 horas
+2026-03-07 21:40:34,353 - INFO - Procesando: 🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile  | Materia: Sin clasificar
+2026-03-07 21:49:22,891 - INFO - Procesando: Desafío n°4 | Materia: Sin clasificar
+2026-03-07 21:49:24,510 - INFO - ✓ Desafío n°4: 37 preguntas extraídas
+2026-03-07 22:08:26,415 - INFO - Procesando: Desafío n°4 | Materia: Sin clasificar
+2026-03-07 22:08:28,042 - INFO - ✓ Desafío n°4: 13 preguntas extraídas
+2026-03-07 22:15:18,785 - INFO - Procesando: Desafío n°4 | Materia: Sin clasificar
+2026-03-07 22:15:20,422 - INFO - ✓ Desafío n°4: 20 preguntas extraídas
+2026-03-07 22:25:34,897 - INFO - ⚡ Modo RÁPIDO activado (sin Ollama)
+2026-03-07 22:25:34,905 - INFO - Total PDFs a procesar: 332
+2026-03-07 22:25:34,905 - INFO - Ya procesados: 0
+2026-03-07 22:25:34,905 - INFO - Timeout configurado: 6.00 horas
+2026-03-07 22:25:34,919 - INFO - Procesando: 🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile  | Materia: Sin clasificar
+2026-03-07 22:25:35,653 - INFO - ✓ 🥷🏼 C. Lectora _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile : 50 preguntas extraídas
+2026-03-07 22:25:35,661 - INFO - Procesando: 🥷🏼 Historia _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile_ | Materia: Historia
+2026-03-07 22:25:36,284 - INFO - ✓ 🥷🏼 Historia _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile_: 50 preguntas extraídas
+2026-03-07 22:25:36,292 - INFO - Procesando: 🥷🏼 Química _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile  | Materia: Química
+2026-03-07 22:25:37,234 - INFO - ✓ 🥷🏼 Química _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile : 48 preguntas extraídas
+2026-03-07 22:25:37,243 - INFO - Procesando: 🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile  | Materia: Sin clasificar
+2026-03-07 22:25:38,371 - INFO - ✓ 🥷🏼 M1 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile : 48 preguntas extraídas
+2026-03-07 22:25:38,378 - INFO - Procesando: 🥷🏼 Biología _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile  | Materia: Biología
+2026-03-07 22:25:39,188 - INFO - ✓ 🥷🏼 Biología _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile : 50 preguntas extraídas
+2026-03-07 22:25:39,196 - INFO - Procesando: 🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile  | Materia: Física
+2026-03-07 22:25:40,084 - INFO - ✓ 🥷🏼 Física _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile : 50 preguntas extraídas
+2026-03-07 22:25:40,093 - INFO - Procesando: 🥷🏼 M2 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile  | Materia: Sin clasificar
+2026-03-07 22:25:41,307 - INFO - ✓ 🥷🏼 M2 Matemática _ Ensayo Clasificado PAES _ Preuniversitario Filadd, Preu online #1 en Chile : 45 preguntas extraídas
+2026-03-07 22:25:41,315 - INFO - Procesando: Resumen PDV Biología | Materia: Biología
+2026-03-07 22:25:41,992 - WARNING - ⚠ Resumen PDV Biología: No se encontraron preguntas
+2026-03-07 22:25:42,006 - INFO - Procesando: ESQUEMAS Resumen Biologia  | Materia: Biología
+2026-03-07 22:25:44,295 - WARNING - ⚠ ESQUEMAS Resumen Biologia : No se encontraron preguntas
+2026-03-07 22:25:44,301 - INFO - Procesando: Resumen biología común | Materia: Sin clasificar
+2026-03-07 22:25:44,883 - WARNING - ⚠ Resumen biología común: No se encontraron preguntas
+2026-03-07 22:25:44,891 - INFO - Procesando: 2.- Torepedo - Ondas y sus propiedades | Materia: Física
+2026-03-07 22:25:44,894 - WARNING - ⚠ 2.- Torepedo - Ondas y sus propiedades: No se encontraron preguntas
+2026-03-07 22:25:44,898 - INFO - Procesando: 5.- Torpedo - Lentes | Materia: Sin clasificar
+2026-03-07 22:25:44,938 - WARNING - ⚠ 5.- Torpedo - Lentes: No se encontraron preguntas
+2026-03-07 22:25:44,944 - INFO - Procesando: 3.- Torpedo - Naturaleza de la Luz | Materia: Física
+2026-03-07 22:25:44,960 - WARNING - ⚠ 3.- Torpedo - Naturaleza de la Luz: No se encontraron preguntas
+2026-03-07 22:25:44,966 - INFO - Procesando: 7.- Torpedo - MRU | Materia: Matemática M1
+2026-03-07 22:25:44,980 - WARNING - ⚠ 7.- Torpedo - MRU: No se encontraron preguntas
+2026-03-07 22:25:44,985 - INFO - Procesando: 1.- Torpedo - Ondas y sus características | Materia: Sin clasificar
+2026-03-07 22:25:44,994 - WARNING - ⚠ 1.- Torpedo - Ondas y sus características: No se encontraron preguntas
+2026-03-07 22:25:44,999 - INFO - Procesando: 4.- Torpedo - Espejos | Materia: Sin clasificar
+2026-03-07 22:25:45,017 - WARNING - ⚠ 4.- Torpedo - Espejos: No se encontraron preguntas
+2026-03-07 22:25:45,022 - INFO - Procesando: 6.- Torpedo - Sonido | Materia: Sin clasificar
+2026-03-07 22:25:45,045 - WARNING - ⚠ 6.- Torpedo - Sonido: No se encontraron preguntas
+2026-03-07 22:25:45,050 - INFO - Procesando: 9.- Torpedo - Caida Libre y Lanzamiento Vertical | Materia: Física
+2026-03-07 22:25:45,066 - WARNING - ⚠ 9.- Torpedo - Caida Libre y Lanzamiento Vertical: No se encontraron preguntas
+2026-03-07 22:25:45,070 - INFO - Procesando: 8.- Torpedo - MRUA y MRUR | Materia: Sin clasificar
+2026-03-07 22:25:45,083 - WARNING - ⚠ 8.- Torpedo - MRUA y MRUR: No se encontraron preguntas
+2026-03-07 22:25:45,087 - INFO - Procesando: Resumen RMA-03 Geometría | Materia: Sin clasificar
+2026-03-07 22:25:45,099 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:25:45,189 - WARNING - ⚠ Resumen RMA-03 Geometría: No se encontraron preguntas
+2026-03-07 22:25:45,194 - INFO - Procesando: 2.- Torpedo - Potencias | Materia: Sin clasificar
+2026-03-07 22:25:45,197 - WARNING - ⚠ 2.- Torpedo - Potencias: No se encontraron preguntas
+2026-03-07 22:25:45,209 - INFO - Procesando: 3.- Torpedo - Raíces | Materia: Sin clasificar
+2026-03-07 22:25:45,211 - WARNING - ⚠ 3.- Torpedo - Raíces: No se encontraron preguntas
+2026-03-07 22:25:45,215 - INFO - Procesando: RMA-Resumen N° 7 Alg, Funciones y Geom PAES | Materia: Sin clasificar
+2026-03-07 22:25:45,329 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:25:49,396 - WARNING - ⚠ RMA-Resumen N° 7 Alg, Funciones y Geom PAES: No se encontraron preguntas
+2026-03-07 22:25:49,411 - INFO - Procesando: Resumen RMA-06 Álgebra y Funciones | Materia: Sin clasificar
+2026-03-07 22:25:49,534 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:25:53,559 - WARNING - ⚠ Resumen RMA-06 Álgebra y Funciones: No se encontraron preguntas
+2026-03-07 22:25:53,575 - INFO - Procesando: Resumen RMA-04 Geometría | Materia: Sin clasificar
+2026-03-07 22:25:56,201 - WARNING - ⚠ Resumen RMA-04 Geometría: No se encontraron preguntas
+2026-03-07 22:25:56,210 - INFO - Procesando: 7.- Torpedo - Sistema de Ecuaciones Lineales (productos notables) | Materia: Sin clasificar
+2026-03-07 22:25:56,212 - WARNING - ⚠ 7.- Torpedo - Sistema de Ecuaciones Lineales (productos notables): No se encontraron preguntas
+2026-03-07 22:25:56,217 - INFO - Procesando: 4.- Torpedo - Logaritmos | Materia: Sin clasificar
+2026-03-07 22:25:56,219 - WARNING - ⚠ 4.- Torpedo - Logaritmos: No se encontraron preguntas
+2026-03-07 22:25:56,222 - INFO - Procesando: 9.- Torpedo - Ecuaciones Cuadráticas | Materia: Matemática M1
+2026-03-07 22:25:56,225 - WARNING - ⚠ 9.- Torpedo - Ecuaciones Cuadráticas: No se encontraron preguntas
+2026-03-07 22:25:56,228 - INFO - Procesando: 1.- Torpedo - Conjuntos numéricos  RACIONALES | Materia: Sin clasificar
+2026-03-07 22:25:56,240 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:25:56,254 - WARNING - ⚠ 1.- Torpedo - Conjuntos numéricos  RACIONALES: No se encontraron preguntas
+2026-03-07 22:25:56,264 - INFO - Procesando: 8.- Torpedo - Sistema de Inecuaciones Lineales | Materia: Sin clasificar
+2026-03-07 22:25:56,265 - WARNING - ⚠ 8.- Torpedo - Sistema de Inecuaciones Lineales: No se encontraron preguntas
+2026-03-07 22:25:56,270 - INFO - Procesando: Resumen RMA-05 Probabilidades y Estadística | Materia: Matemática M1
+2026-03-07 22:25:56,405 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:25:56,405 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:25:57,872 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:26:00,009 - WARNING - ⚠ Resumen RMA-05 Probabilidades y Estadística: No se encontraron preguntas
+2026-03-07 22:26:00,016 - INFO - Procesando: Resumen RMA-02 Álgebra | Materia: Sin clasificar
+2026-03-07 22:26:00,126 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:26:02,480 - WARNING - ⚠ Resumen RMA-02 Álgebra: No se encontraron preguntas
+2026-03-07 22:26:02,486 - INFO - Procesando: Resumen RMA-01 Números y proporcionalidad | Materia: Sin clasificar
+2026-03-07 22:26:02,608 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:26:06,542 - WARNING - ⚠ Resumen RMA-01 Números y proporcionalidad: No se encontraron preguntas
+2026-03-07 22:26:06,548 - INFO - Procesando: 5.- Torpedo - Conjuntos numéricos IRRACIONALES | Materia: Sin clasificar
+2026-03-07 22:26:06,550 - WARNING - ⚠ 5.- Torpedo - Conjuntos numéricos IRRACIONALES: No se encontraron preguntas
+2026-03-07 22:26:06,576 - INFO - Procesando: Tomo 2 Biología | Materia: Sin clasificar
+2026-03-07 22:26:06,712 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:06,727 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:06,727 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:26:06,753 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:26:06,836 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,238 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,260 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,358 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,524 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,544 - INFO - ✓ Tomo 2 Biología: 5 preguntas extraídas
+2026-03-07 22:26:07,553 - INFO - Procesando: Tomo 1 Biología | Materia: Sin clasificar
+2026-03-07 22:26:07,605 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,635 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:26:07,635 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:26:07,635 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:26:07,635 - WARNING - Error al extraer imagen 6: 'jpg' cannot have alpha
+2026-03-07 22:26:07,641 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,670 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,670 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:26:07,701 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,701 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:26:07,701 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:26:07,701 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:26:07,701 - WARNING - Error al extraer imagen 4: 'jpg' cannot have alpha
+2026-03-07 22:26:07,701 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:26:07,701 - WARNING - Error al extraer imagen 6: 'jpg' cannot have alpha
+2026-03-07 22:26:07,701 - WARNING - Error al extraer imagen 7: 'jpg' cannot have alpha
+2026-03-07 22:26:07,701 - WARNING - Error al extraer imagen 9: 'jpg' cannot have alpha
+2026-03-07 22:26:07,701 - WARNING - Error al extraer imagen 10: 'jpg' cannot have alpha
+2026-03-07 22:26:07,701 - WARNING - Error al extraer imagen 11: 'jpg' cannot have alpha
+2026-03-07 22:26:07,754 - WARNING - Error al extraer imagen 4: 'jpg' cannot have alpha
+2026-03-07 22:26:07,754 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:26:07,754 - WARNING - Error al extraer imagen 6: 'jpg' cannot have alpha
+2026-03-07 22:26:07,754 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:26:07,775 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,781 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:26:07,781 - WARNING - Error al extraer imagen 4: 'jpg' cannot have alpha
+2026-03-07 22:26:07,781 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:26:07,785 - WARNING - Error al extraer imagen 7: 'jpg' cannot have alpha
+2026-03-07 22:26:07,785 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:26:07,806 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,806 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:26:07,806 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:26:07,806 - WARNING - Error al extraer imagen 4: 'jpg' cannot have alpha
+2026-03-07 22:26:07,806 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:26:07,806 - WARNING - Error al extraer imagen 6: 'jpg' cannot have alpha
+2026-03-07 22:26:07,806 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:26:07,840 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,840 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:26:07,840 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:26:07,840 - WARNING - Error al extraer imagen 4: 'jpg' cannot have alpha
+2026-03-07 22:26:07,840 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:26:07,840 - WARNING - Error al extraer imagen 6: 'jpg' cannot have alpha
+2026-03-07 22:26:07,840 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:26:07,840 - WARNING - Error al extraer imagen 9: 'jpg' cannot have alpha
+2026-03-07 22:26:07,849 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,876 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,876 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:26:07,876 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:26:07,876 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:26:07,877 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:26:07,877 - WARNING - Error al extraer imagen 11: 'jpg' cannot have alpha
+2026-03-07 22:26:07,892 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:07,892 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:26:09,069 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:09,280 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:09,308 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:26:09,382 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:09,382 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:26:09,383 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:26:09,441 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:09,549 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:26:09,577 - INFO - ✓ Tomo 1 Biología: 5 preguntas extraídas
+2026-03-07 22:26:09,585 - INFO - Procesando: Solucionario Tomo 2 (biología) | Materia: Sin clasificar
+2026-03-07 22:26:09,646 - WARNING - ⚠ Solucionario Tomo 2 (biología): No se encontraron preguntas
+2026-03-07 22:26:09,652 - INFO - Procesando: Solucionario Tomo 1 (biología) | Materia: Sin clasificar
+2026-03-07 22:26:09,707 - WARNING - ⚠ Solucionario Tomo 1 (biología): No se encontraron preguntas
+2026-03-07 22:26:09,714 - INFO - Procesando: Anexto Tomo 2 (Clima) (FS) | Materia: Sin clasificar
+2026-03-07 22:26:10,058 - WARNING - ⚠ Anexto Tomo 2 (Clima) (FS): No se encontraron preguntas
+2026-03-07 22:26:10,079 - INFO - Procesando: Tomo 2 (FS) | Materia: Sin clasificar
+2026-03-07 22:37:52,278 - INFO - ✓ Tomo 2 (FS): 5 preguntas extraídas
+2026-03-07 22:37:52,306 - INFO - Procesando: Tomo 1 (FS) | Materia: Física
+2026-03-07 22:37:52,321 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,345 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,346 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:52,346 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:37:52,346 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:37:52,346 - WARNING - Error al extraer imagen 7: 'jpg' cannot have alpha
+2026-03-07 22:37:52,361 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,362 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:52,362 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:37:52,367 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,395 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,395 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:52,416 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,416 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:52,416 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:37:52,416 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:37:52,417 - WARNING - Error al extraer imagen 4: 'jpg' cannot have alpha
+2026-03-07 22:37:52,417 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:37:52,417 - WARNING - Error al extraer imagen 7: 'jpg' cannot have alpha
+2026-03-07 22:37:52,417 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:37:52,417 - WARNING - Error al extraer imagen 10: 'jpg' cannot have alpha
+2026-03-07 22:37:52,417 - WARNING - Error al extraer imagen 11: 'jpg' cannot have alpha
+2026-03-07 22:37:52,417 - WARNING - Error al extraer imagen 12: 'jpg' cannot have alpha
+2026-03-07 22:37:52,453 - WARNING - Error al extraer imagen 4: 'jpg' cannot have alpha
+2026-03-07 22:37:52,453 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:37:52,453 - WARNING - Error al extraer imagen 6: 'jpg' cannot have alpha
+2026-03-07 22:37:52,453 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:37:52,468 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,472 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:37:52,472 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:37:52,472 - WARNING - Error al extraer imagen 4: 'jpg' cannot have alpha
+2026-03-07 22:37:52,478 - WARNING - Error al extraer imagen 6: 'jpg' cannot have alpha
+2026-03-07 22:37:52,478 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:37:52,492 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,492 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:52,492 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:37:52,497 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:37:52,497 - WARNING - Error al extraer imagen 6: 'jpg' cannot have alpha
+2026-03-07 22:37:52,497 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:37:52,497 - WARNING - Error al extraer imagen 9: 'jpg' cannot have alpha
+2026-03-07 22:37:52,516 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,516 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:52,516 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:37:52,516 - WARNING - Error al extraer imagen 4: 'jpg' cannot have alpha
+2026-03-07 22:37:52,516 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:37:52,517 - WARNING - Error al extraer imagen 6: 'jpg' cannot have alpha
+2026-03-07 22:37:52,517 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:37:52,517 - WARNING - Error al extraer imagen 9: 'jpg' cannot have alpha
+2026-03-07 22:37:52,524 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,524 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:52,541 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,541 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:52,541 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:37:52,541 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:37:52,541 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:37:52,542 - WARNING - Error al extraer imagen 12: 'jpg' cannot have alpha
+2026-03-07 22:37:52,550 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,550 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:37:52,562 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,636 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,636 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:52,636 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:37:52,636 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:37:52,636 - WARNING - Error al extraer imagen 4: 'jpg' cannot have alpha
+2026-03-07 22:37:52,652 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:37:52,652 - WARNING - Error al extraer imagen 4: 'jpg' cannot have alpha
+2026-03-07 22:37:52,652 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:37:52,653 - WARNING - Error al extraer imagen 7: 'jpg' cannot have alpha
+2026-03-07 22:37:52,653 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:37:52,664 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:52,664 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:37:52,680 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 22:37:52,699 - WARNING - Error al extraer imagen 7: 'jpg' cannot have alpha
+2026-03-07 22:37:52,711 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,716 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:37:52,716 - WARNING - Error al extraer imagen 6: 'jpg' cannot have alpha
+2026-03-07 22:37:52,736 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:52,736 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:52,752 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:53,257 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:53,257 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:53,605 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:53,614 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:37:53,622 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:53,679 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:37:53,685 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:53,686 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:53,724 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:53,729 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:37:53,752 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:53,752 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:53,757 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:37:53,757 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 22:37:53,790 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:53,833 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:54,779 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:54,809 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:55,192 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:55,227 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:55,227 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:55,227 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:37:55,233 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:55,233 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:55,233 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:37:55,233 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 22:37:55,596 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:55,616 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:55,623 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:55,638 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:55,638 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:56,002 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:56,378 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:37:56,383 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:56,383 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:56,757 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:56,765 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:56,770 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:56,770 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:37:56,770 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 22:37:56,775 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:37:57,142 - INFO - ✓ Tomo 1 (FS): 5 preguntas extraídas
+2026-03-07 22:37:57,163 - INFO - Procesando: Solucionario Tomo 1 (FS) | Materia: Física
+2026-03-07 22:37:57,275 - WARNING - ⚠ Solucionario Tomo 1 (FS): No se encontraron preguntas
+2026-03-07 22:37:57,286 - INFO - Procesando: Solucionario Tomo 2 (FS) | Materia: Física
+2026-03-07 22:37:57,325 - WARNING - ⚠ Solucionario Tomo 2 (FS): No se encontraron preguntas
+2026-03-07 22:37:57,332 - INFO - Procesando: 53 9591-MAEL-40_Modelos_Probabilísticos_-_Distribución_Normal_(5_) | Materia: Matemática M1
+2026-03-07 22:38:00,125 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:38:03,951 - INFO - ✓ 53 9591-MAEL-40_Modelos_Probabilísticos_-_Distribución_Normal_(5_): 22 preguntas extraídas
+2026-03-07 22:38:03,960 - INFO - Procesando: 51 1571-MAEL-38_Probabilidad_Condicionada_II | Materia: Matemática M1
+2026-03-07 22:38:05,945 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:38:06,121 - INFO - ✓ 51 1571-MAEL-38_Probabilidad_Condicionada_II: 22 preguntas extraídas
+2026-03-07 22:38:06,137 - INFO - Procesando: 52 424-MAEL-39_Modelos_Probabilísticos | Materia: Matemática M1
+2026-03-07 22:38:08,135 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:38:08,314 - INFO - ✓ 52 424-MAEL-39_Modelos_Probabilísticos: 22 preguntas extraídas
+2026-03-07 22:38:08,322 - INFO - Procesando: 52 8897-TR-M2-19-Distribución_Binominal_y_Distribución_Normal | Materia: Matemática M1
+2026-03-07 22:38:08,434 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:38:10,016 - INFO - ✓ 52 8897-TR-M2-19-Distribución_Binominal_y_Distribución_Normal: 20 preguntas extraídas
+2026-03-07 22:38:10,023 - INFO - Procesando: 53 9466-TEM-M2-01_Números_y_Porcentaje | Materia: Sin clasificar
+2026-03-07 22:38:10,171 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:38:11,519 - INFO - ✓ 53 9466-TEM-M2-01_Números_y_Porcentaje: 20 preguntas extraídas
+2026-03-07 22:38:11,527 - INFO - Procesando: 54 8196-TEM-M2-10_Ángulos_y_Proporcionalidad_en_la_circunferencia | Materia: Sin clasificar
+2026-03-07 22:38:11,665 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:38:13,008 - INFO - ✓ 54 8196-TEM-M2-10_Ángulos_y_Proporcionalidad_en_la_circunferencia: 20 preguntas extraídas
+2026-03-07 22:38:13,016 - INFO - Procesando: 51 5946-TR-M2-18-Probabilidad_Condicionada | Materia: Matemática M1
+2026-03-07 22:38:13,135 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 22:38:14,720 - INFO - ✓ 51 5946-TR-M2-18-Probabilidad_Condicionada: 15 preguntas extraídas
+2026-03-07 22:38:14,728 - INFO - Procesando: 51 292-MA35_-_Probabilidad_de_Eventos_-_2025 | Materia: Matemática M1
+2026-03-07 22:38:17,370 - INFO - ✓ 51 292-MA35_-_Probabilidad_de_Eventos_-_2025: 28 preguntas extraídas
+2026-03-07 22:38:17,389 - INFO - Procesando: 52 9616-Módulo_7_-_2025 | Materia: Matemática M1
+2026-03-07 22:38:22,429 - INFO - ✓ 52 9616-Módulo_7_-_2025: 29 preguntas extraídas
+2026-03-07 22:38:22,447 - INFO - Procesando: Solucionario L1 | Materia: Sin clasificar
+2026-03-07 22:38:22,859 - INFO - ✓ Solucionario L1: 64 preguntas extraídas
+2026-03-07 22:38:22,865 - INFO - Procesando: Ensayo 1 L | Materia: Sin clasificar
+2026-03-07 22:38:23,252 - INFO - ✓ Ensayo 1 L: 65 preguntas extraídas
+2026-03-07 22:38:23,259 - INFO - Procesando: Ensayo 4 L | Materia: Sin clasificar
+2026-03-07 22:38:23,262 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:38:23,659 - INFO - ✓ Ensayo 4 L: 65 preguntas extraídas
+2026-03-07 22:38:23,664 - INFO - Procesando: Ensayo 2 L | Materia: Sin clasificar
+2026-03-07 22:38:23,668 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:38:23,777 - INFO - ✓ Ensayo 2 L: 65 preguntas extraídas
+2026-03-07 22:38:23,783 - INFO - Procesando: Solucionario L3 | Materia: Sin clasificar
+2026-03-07 22:38:23,786 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:38:24,088 - INFO - ✓ Solucionario L3: 64 preguntas extraídas
+2026-03-07 22:38:24,093 - INFO - Procesando: Solucionario L2 | Materia: Sin clasificar
+2026-03-07 22:38:24,097 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:38:24,253 - INFO - ✓ Solucionario L2: 65 preguntas extraídas
+2026-03-07 22:38:24,260 - INFO - Procesando: Solucionario L4 | Materia: Sin clasificar
+2026-03-07 22:38:24,264 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:38:24,705 - INFO - ✓ Solucionario L4: 65 preguntas extraídas
+2026-03-07 22:38:24,711 - INFO - Procesando: Ensayo 3 L | Materia: Sin clasificar
+2026-03-07 22:38:24,714 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 22:38:24,977 - INFO - ✓ Ensayo 3 L: 65 preguntas extraídas
+2026-03-07 22:38:24,984 - INFO - Procesando: PLANTEAMIENTOS | Materia: Sin clasificar
+2026-03-07 22:38:25,151 - WARNING - ⚠ PLANTEAMIENTOS: No se encontraron preguntas
+2026-03-07 22:38:25,155 - INFO - Procesando: ESTADÍSTICA COMBINATORIA | Materia: Sin clasificar
+2026-03-07 22:38:25,303 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,304 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,304 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,308 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,310 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,313 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,313 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,319 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,319 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,319 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,319 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,319 - WARNING - Error al extraer imagen 4: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,324 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,324 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,324 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,347 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,347 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,350 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,350 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,350 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,353 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,354 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,354 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 22:38:25,373 - WARNING - ⚠ ESTADÍSTICA COMBINATORIA: No se encontraron preguntas
+2026-03-07 22:38:25,455 - INFO - Procesando: MATEMÁTICAS I PDV 2023 | Materia: Sin clasificar
+2026-03-07 23:00:17,957 - WARNING - ⚠ MATEMÁTICAS I PDV 2023: No se encontraron preguntas
+2026-03-07 23:00:17,965 - INFO - Procesando: FUNCIONES | Materia: Sin clasificar
+2026-03-07 23:00:18,237 - WARNING - ⚠ FUNCIONES: No se encontraron preguntas
+2026-03-07 23:00:18,246 - INFO - Procesando: ISOMETRÍAS Y ESTADÍSTICA | Materia: Sin clasificar
+2026-03-07 23:00:18,401 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,413 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,413 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,417 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,417 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,417 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,419 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,423 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,423 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,423 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,425 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,427 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,431 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,431 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,434 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,434 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,438 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,438 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,442 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,442 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,442 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,445 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,445 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,451 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,453 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,463 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,467 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,467 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,469 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,473 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,473 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,473 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,477 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,478 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,480 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,480 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,483 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,483 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,486 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,489 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,494 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,494 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,495 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,504 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,504 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,505 - WARNING - ⚠ ISOMETRÍAS Y ESTADÍSTICA: No se encontraron preguntas
+2026-03-07 23:00:18,511 - INFO - Procesando: NÚMEROS RACIONALES | Materia: Sin clasificar
+2026-03-07 23:00:18,692 - WARNING - ⚠ NÚMEROS RACIONALES: No se encontraron preguntas
+2026-03-07 23:00:18,696 - INFO - Procesando: PROBABILIDADES | Materia: Matemática M1
+2026-03-07 23:00:18,854 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,854 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,855 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,859 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,859 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,865 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,865 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,866 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,866 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,869 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,872 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:00:18,874 - WARNING - ⚠ PROBABILIDADES: No se encontraron preguntas
+2026-03-07 23:00:18,906 - INFO - Procesando: MATEMÁTICAS II PDV 2023 | Materia: Sin clasificar
+2026-03-07 23:03:19,331 - WARNING - ⚠ MATEMÁTICAS II PDV 2023: No se encontraron preguntas
+2026-03-07 23:03:19,339 - INFO - Procesando: NÚMEROS ENTEROS | Materia: Sin clasificar
+2026-03-07 23:03:19,528 - WARNING - ⚠ NÚMEROS ENTEROS: No se encontraron preguntas
+2026-03-07 23:03:19,534 - INFO - Procesando: RAÍCES Y FUNCIÓN RAÍZ | Materia: Matemática M1
+2026-03-07 23:03:19,729 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,732 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,732 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,732 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,736 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,736 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,736 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,737 - WARNING - ⚠ RAÍCES Y FUNCIÓN RAÍZ: No se encontraron preguntas
+2026-03-07 23:03:19,744 - INFO - Procesando: POLÍGONOS Y ÁNGULOS EN CIRCUNFERENCIA | Materia: Sin clasificar
+2026-03-07 23:03:19,898 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,904 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,904 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,904 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,907 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,907 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,909 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,909 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,913 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,913 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,913 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,918 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,918 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,918 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,918 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,922 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,922 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,927 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,927 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,927 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,929 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,930 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,934 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,934 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,934 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,937 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,937 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,937 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,940 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,940 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,941 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,944 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,944 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,948 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,948 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,949 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,949 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,953 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,953 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,953 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,953 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,953 - WARNING - Error al extraer imagen 4: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,957 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,957 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,957 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,957 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,962 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,962 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,962 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,962 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,966 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,966 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,966 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,966 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,982 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,983 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,983 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,987 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,987 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:19,989 - WARNING - ⚠ POLÍGONOS Y ÁNGULOS EN CIRCUNFERENCIA: No se encontraron preguntas
+2026-03-07 23:03:19,994 - INFO - Procesando: INECUACIONES | Materia: Sin clasificar
+2026-03-07 23:03:20,181 - WARNING - ⚠ INECUACIONES: No se encontraron preguntas
+2026-03-07 23:03:20,186 - INFO - Procesando: ALGEBRA DE POLINOMIOS | Materia: Sin clasificar
+2026-03-07 23:03:20,338 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,351 - WARNING - ⚠ ALGEBRA DE POLINOMIOS: No se encontraron preguntas
+2026-03-07 23:03:20,357 - INFO - Procesando: GEOMETRÍA PROPORCIONAL II | Materia: Sin clasificar
+2026-03-07 23:03:20,509 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,509 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,513 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,513 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,513 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,513 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,513 - WARNING - Error al extraer imagen 4: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,517 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,517 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,517 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,520 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,520 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,520 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,523 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,523 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,523 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,527 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,527 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,530 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,530 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,530 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,530 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,533 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,534 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,534 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,536 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,537 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,537 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,541 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,541 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,541 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,541 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,544 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,544 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,544 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,547 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,547 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,551 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,557 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,557 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,560 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,563 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,567 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,568 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,568 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,568 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,571 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,571 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,574 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,575 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,575 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,589 - WARNING - ⚠ GEOMETRÍA PROPORCIONAL II: No se encontraron preguntas
+2026-03-07 23:03:20,594 - INFO - Procesando: VECTORES | Materia: Sin clasificar
+2026-03-07 23:03:20,757 - WARNING - ⚠ VECTORES: No se encontraron preguntas
+2026-03-07 23:03:20,761 - INFO - Procesando: ÁNGULOS Y TRIÁNGULOS | Materia: Sin clasificar
+2026-03-07 23:03:20,911 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,911 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,911 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,912 - WARNING - Error al extraer imagen 4: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,912 - WARNING - Error al extraer imagen 5: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,912 - WARNING - Error al extraer imagen 6: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,916 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,916 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,916 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,922 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,922 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,922 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,922 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,928 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,928 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,931 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,932 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,932 - WARNING - Error al extraer imagen 4: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,935 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,935 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,938 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,939 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,939 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,939 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,944 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,944 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,945 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,945 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,948 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,948 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,949 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,952 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,952 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,952 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,957 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,957 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,957 - WARNING - Error al extraer imagen 4: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,957 - WARNING - Error al extraer imagen 5: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,957 - WARNING - Error al extraer imagen 6: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,961 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,961 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,961 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,961 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,966 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,966 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,966 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,966 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,966 - WARNING - Error al extraer imagen 4: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,970 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,970 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,970 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,970 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,974 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,974 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,974 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,977 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,977 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,981 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,981 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,981 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,981 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,985 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,985 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,985 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,985 - WARNING - Error al extraer imagen 5: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,989 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,989 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,990 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,990 - WARNING - Error al extraer imagen 4: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,990 - WARNING - Error al extraer imagen 5: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,993 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,993 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,993 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,993 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:20,994 - WARNING - ⚠ ÁNGULOS Y TRIÁNGULOS: No se encontraron preguntas
+2026-03-07 23:03:21,000 - INFO - Procesando: FUNCIONES II | Materia: Sin clasificar
+2026-03-07 23:03:21,160 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:21,160 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:21,160 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:21,203 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:21,203 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:21,224 - WARNING - ⚠ FUNCIONES II: No se encontraron preguntas
+2026-03-07 23:03:21,229 - INFO - Procesando: ECUACIÓN DE LA RECTA | Materia: Matemática M1
+2026-03-07 23:03:21,465 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:21,578 - WARNING - ⚠ ECUACIÓN DE LA RECTA: No se encontraron preguntas
+2026-03-07 23:03:21,588 - INFO - Procesando: FUNCIÓN CUADRÁTICA | Materia: Matemática M1
+2026-03-07 23:03:21,743 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:21,752 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:21,854 - WARNING - ⚠ FUNCIÓN CUADRÁTICA: No se encontraron preguntas
+2026-03-07 23:03:21,859 - INFO - Procesando: SISTEMAS DE ECUACIONES | Materia: Sin clasificar
+2026-03-07 23:03:22,063 - WARNING - ⚠ SISTEMAS DE ECUACIONES: No se encontraron preguntas
+2026-03-07 23:03:22,068 - INFO - Procesando: FRACCIONES ALGEBRAICAS | Materia: Sin clasificar
+2026-03-07 23:03:22,221 - WARNING - ⚠ FRACCIONES ALGEBRAICAS: No se encontraron preguntas
+2026-03-07 23:03:22,225 - INFO - Procesando: GEOMETRÍA PROPORCIONAL I | Materia: Sin clasificar
+2026-03-07 23:03:22,372 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,373 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,373 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,373 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,383 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,384 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,384 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,384 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,387 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,387 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,387 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,390 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,393 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,393 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,399 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,399 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,399 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,399 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,402 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,402 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,405 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,405 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,406 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,410 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,410 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,410 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,421 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,422 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,422 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,423 - WARNING - ⚠ GEOMETRÍA PROPORCIONAL I: No se encontraron preguntas
+2026-03-07 23:03:22,430 - INFO - Procesando: RAZONES, PROP. Y PORCENTAJE | Materia: Sin clasificar
+2026-03-07 23:03:22,599 - WARNING - ⚠ RAZONES, PROP. Y PORCENTAJE: No se encontraron preguntas
+2026-03-07 23:03:22,602 - INFO - Procesando: PERÍMETROS Y ÁREAS | Materia: Sin clasificar
+2026-03-07 23:03:22,751 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,751 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,751 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,755 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,755 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,755 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,755 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,759 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,760 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,760 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,760 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,760 - WARNING - Error al extraer imagen 4: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,760 - WARNING - Error al extraer imagen 5: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,760 - WARNING - Error al extraer imagen 6: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,763 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,763 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,763 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,764 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,764 - WARNING - Error al extraer imagen 4: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,767 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,767 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,767 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,773 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,773 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,773 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,773 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,773 - WARNING - Error al extraer imagen 4: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,774 - WARNING - Error al extraer imagen 5: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,775 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,778 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,778 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,781 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,781 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,781 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,781 - WARNING - Error al extraer imagen 3: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,784 - WARNING - Error al extraer imagen 0: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,784 - WARNING - Error al extraer imagen 1: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,785 - WARNING - Error al extraer imagen 2: code=4: pixmap must be Grayscale, RGB, or CMYK to save as JPEG
+2026-03-07 23:03:22,785 - WARNING - ⚠ PERÍMETROS Y ÁREAS: No se encontraron preguntas
+2026-03-07 23:03:22,790 - INFO - Procesando: NÚMEROS REALES | Materia: Sin clasificar
+2026-03-07 23:03:22,942 - WARNING - ⚠ NÚMEROS REALES: No se encontraron preguntas
+2026-03-07 23:03:22,947 - INFO - Procesando: ECUACIÓN DE 1GRADO | Materia: Matemática M1
+2026-03-07 23:03:23,106 - WARNING - ⚠ ECUACIÓN DE 1GRADO: No se encontraron preguntas
+2026-03-07 23:03:23,114 - INFO - Procesando: Desafío N° 5 | Materia: Matemática M1
+2026-03-07 23:03:23,390 - INFO - ✓ Desafío N° 5: 4 preguntas extraídas
+2026-03-07 23:03:23,396 - INFO - Procesando: Desafío N° 8 | Materia: Matemática M1
+2026-03-07 23:03:23,668 - INFO - ✓ Desafío N° 8: 3 preguntas extraídas
+2026-03-07 23:03:23,675 - INFO - Procesando: Desafío n°1 | Materia: Matemática M1
+2026-03-07 23:03:25,166 - INFO - ✓ Desafío n°1: 18 preguntas extraídas
+2026-03-07 23:03:25,172 - INFO - Procesando: Desafío n°3 | Materia: Sin clasificar
+2026-03-07 23:03:25,222 - INFO - ✓ Desafío n°3: 20 preguntas extraídas
+2026-03-07 23:03:25,228 - INFO - Procesando: Desafío N° 6 | Materia: Matemática M1
+2026-03-07 23:03:25,502 - INFO - ✓ Desafío N° 6: 4 preguntas extraídas
+2026-03-07 23:03:25,505 - INFO - Procesando: Desafío n°4 | Materia: Sin clasificar
+2026-03-07 23:03:27,010 - INFO - ✓ Desafío n°4: 20 preguntas extraídas
+2026-03-07 23:03:27,016 - INFO - Procesando: Desafío n°2 | Materia: Matemática M1
+2026-03-07 23:03:28,536 - INFO - ✓ Desafío n°2: 20 preguntas extraídas
+2026-03-07 23:03:28,543 - INFO - Procesando: Desafío N° 7 | Materia: Matemática M1
+2026-03-07 23:03:28,820 - INFO - ✓ Desafío N° 7: 4 preguntas extraídas
+2026-03-07 23:03:28,828 - INFO - Procesando: Ma 01 | Materia: Matemática M1
+2026-03-07 23:03:30,783 - INFO - ✓ Ma 01: 30 preguntas extraídas
+2026-03-07 23:03:30,791 - INFO - Procesando: Ma 16 | Materia: Matemática M1
+2026-03-07 23:03:32,783 - INFO - ✓ Ma 16: 30 preguntas extraídas
+2026-03-07 23:03:32,793 - INFO - Procesando: Ma 13 | Materia: Matemática M1
+2026-03-07 23:03:34,996 - INFO - ✓ Ma 13: 25 preguntas extraídas
+2026-03-07 23:03:35,004 - INFO - Procesando: Ma 20 | Materia: Matemática M1
+2026-03-07 23:03:37,913 - INFO - ✓ Ma 20: 30 preguntas extraídas
+2026-03-07 23:03:37,920 - INFO - Procesando: Ma 26 | Materia: Matemática M1
+2026-03-07 23:03:40,357 - INFO - ✓ Ma 26: 29 preguntas extraídas
+2026-03-07 23:03:40,373 - INFO - Procesando: Tutoría 5 Funciones 2022 | Materia: Sin clasificar
+2026-03-07 23:03:54,639 - INFO - ✓ Tutoría 5 Funciones 2022: 116 preguntas extraídas
+2026-03-07 23:03:54,646 - INFO - Procesando: Ma 11 | Materia: Matemática M1
+2026-03-07 23:03:56,864 - INFO - ✓ Ma 11: 30 preguntas extraídas
+2026-03-07 23:03:56,882 - INFO - Procesando: Ma 27 | Materia: Matemática M1
+2026-03-07 23:03:59,076 - INFO - ✓ Ma 27: 30 preguntas extraídas
+2026-03-07 23:03:59,085 - INFO - Procesando: Ma 05 | Materia: Matemática M1
+2026-03-07 23:04:01,049 - INFO - ✓ Ma 05: 27 preguntas extraídas
+2026-03-07 23:04:01,057 - INFO - Procesando: Ma 7 | Materia: Matemática M1
+2026-03-07 23:04:03,036 - INFO - ✓ Ma 7: 30 preguntas extraídas
+2026-03-07 23:04:03,043 - INFO - Procesando: Ma 03 | Materia: Matemática M1
+2026-03-07 23:04:05,496 - INFO - ✓ Ma 03: 28 preguntas extraídas
+2026-03-07 23:04:05,513 - INFO - Procesando: Ma 12 | Materia: Matemática M1
+2026-03-07 23:04:07,498 - INFO - ✓ Ma 12: 30 preguntas extraídas
+2026-03-07 23:04:07,506 - INFO - Procesando: Ma 15 | Materia: Matemática M1
+2026-03-07 23:04:09,710 - INFO - ✓ Ma 15: 30 preguntas extraídas
+2026-03-07 23:04:09,717 - INFO - Procesando: Ma 9 | Materia: Matemática M1
+2026-03-07 23:04:11,709 - INFO - ✓ Ma 9: 30 preguntas extraídas
+2026-03-07 23:04:11,716 - INFO - Procesando: Ma 08 | Materia: Matemática M1
+2026-03-07 23:04:11,735 - INFO - ✓ Ma 08: 30 preguntas extraídas
+2026-03-07 23:04:11,740 - INFO - Procesando: Ma 04 | Materia: Matemática M1
+2026-03-07 23:04:13,977 - INFO - ✓ Ma 04: 30 preguntas extraídas
+2026-03-07 23:04:13,984 - INFO - Procesando: Ma 19 | Materia: Matemática M1
+2026-03-07 23:04:17,449 - INFO - ✓ Ma 19: 30 preguntas extraídas
+2026-03-07 23:04:17,468 - INFO - Procesando: Ma 06 | Materia: Matemática M1
+2026-03-07 23:04:19,953 - INFO - ✓ Ma 06: 29 preguntas extraídas
+2026-03-07 23:04:19,961 - INFO - Procesando: Ma 17 | Materia: Matemática M1
+2026-03-07 23:04:22,193 - INFO - ✓ Ma 17: 25 preguntas extraídas
+2026-03-07 23:04:22,210 - INFO - Procesando: Ma 02 | Materia: Matemática M1
+2026-03-07 23:04:24,887 - INFO - ✓ Ma 02: 30 preguntas extraídas
+2026-03-07 23:04:24,896 - INFO - Procesando: Ma 25 | Materia: Matemática M1
+2026-03-07 23:04:27,096 - INFO - ✓ Ma 25: 28 preguntas extraídas
+2026-03-07 23:04:27,114 - INFO - Procesando: Ma 10 | Materia: Matemática M1
+2026-03-07 23:04:29,102 - INFO - ✓ Ma 10: 30 preguntas extraídas
+2026-03-07 23:04:29,109 - INFO - Procesando: Ma 28 | Materia: Matemática M1
+2026-03-07 23:04:31,521 - INFO - ✓ Ma 28: 20 preguntas extraídas
+2026-03-07 23:04:31,539 - INFO - Procesando: Ma 22 | Materia: Matemática M1
+2026-03-07 23:04:33,969 - INFO - ✓ Ma 22: 29 preguntas extraídas
+2026-03-07 23:04:33,977 - INFO - Procesando: Ma 23 | Materia: Matemática M1
+2026-03-07 23:04:36,408 - INFO - ✓ Ma 23: 30 preguntas extraídas
+2026-03-07 23:04:36,425 - INFO - Procesando: Ma 21 | Materia: Matemática M1
+2026-03-07 23:04:38,149 - INFO - ✓ Ma 21: 20 preguntas extraídas
+2026-03-07 23:04:38,157 - INFO - Procesando: Ma 18 | Materia: Matemática M1
+2026-03-07 23:04:39,019 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:04:39,019 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 23:04:39,019 - WARNING - Error al extraer imagen 4: 'jpg' cannot have alpha
+2026-03-07 23:04:39,019 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 23:04:39,019 - WARNING - Error al extraer imagen 6: 'jpg' cannot have alpha
+2026-03-07 23:04:39,019 - WARNING - Error al extraer imagen 8: 'jpg' cannot have alpha
+2026-03-07 23:04:39,268 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:04:39,268 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 23:04:39,522 - WARNING - Error al extraer imagen 2: 'jpg' cannot have alpha
+2026-03-07 23:04:39,523 - WARNING - Error al extraer imagen 7: 'jpg' cannot have alpha
+2026-03-07 23:04:39,523 - WARNING - Error al extraer imagen 14: 'jpg' cannot have alpha
+2026-03-07 23:04:39,523 - WARNING - Error al extraer imagen 22: 'jpg' cannot have alpha
+2026-03-07 23:04:39,523 - WARNING - Error al extraer imagen 27: 'jpg' cannot have alpha
+2026-03-07 23:04:41,140 - INFO - ✓ Ma 18: 30 preguntas extraídas
+2026-03-07 23:04:41,150 - INFO - Procesando: Ma 14 | Materia: Matemática M1
+2026-03-07 23:04:44,777 - INFO - ✓ Ma 14: 20 preguntas extraídas
+2026-03-07 23:04:44,785 - INFO - Procesando: Ma 24 | Materia: Matemática M1
+2026-03-07 23:04:47,699 - INFO - ✓ Ma 24: 29 preguntas extraídas
+2026-03-07 23:04:47,739 - INFO - Procesando: Solucionario Ma 04 | Materia: Matemática M1
+2026-03-07 23:04:50,353 - INFO - ✓ Solucionario Ma 04: 25 preguntas extraídas
+2026-03-07 23:04:50,373 - INFO - Procesando: Solucionario Ma 12 | Materia: Matemática M1
+2026-03-07 23:04:52,425 - INFO - ✓ Solucionario Ma 12: 22 preguntas extraídas
+2026-03-07 23:04:52,461 - INFO - Procesando: Solucionario Ma 21 | Materia: Matemática M1
+2026-03-07 23:04:52,683 - INFO - ✓ Solucionario Ma 21: 19 preguntas extraídas
+2026-03-07 23:04:52,724 - INFO - Procesando: Solucionario Ma 11 | Materia: Matemática M1
+2026-03-07 23:04:55,109 - INFO - ✓ Solucionario Ma 11: 29 preguntas extraídas
+2026-03-07 23:04:55,153 - INFO - Procesando: Solucionario Ma 05 | Materia: Matemática M1
+2026-03-07 23:04:57,587 - INFO - ✓ Solucionario Ma 05: 27 preguntas extraídas
+2026-03-07 23:04:57,598 - INFO - Procesando: Solucionario Ma 24 | Materia: Matemática M1
+2026-03-07 23:04:57,730 - INFO - ✓ Solucionario Ma 24: 28 preguntas extraídas
+2026-03-07 23:04:57,757 - INFO - Procesando: Solucionario Ma 17 | Materia: Matemática M1
+2026-03-07 23:05:00,574 - INFO - ✓ Solucionario Ma 17: 23 preguntas extraídas
+2026-03-07 23:05:00,611 - INFO - Procesando: Solucionario Ma 16 | Materia: Matemática M1
+2026-03-07 23:05:03,003 - INFO - ✓ Solucionario Ma 16: 26 preguntas extraídas
+2026-03-07 23:05:03,033 - INFO - Procesando: Solucionario Ma 15 | Materia: Matemática M1
+2026-03-07 23:05:05,799 - INFO - ✓ Solucionario Ma 15: 25 preguntas extraídas
+2026-03-07 23:05:05,830 - INFO - Procesando: Solucionario Ma 25 | Materia: Matemática M1
+2026-03-07 23:05:06,024 - INFO - ✓ Solucionario Ma 25: 26 preguntas extraídas
+2026-03-07 23:05:06,052 - INFO - Procesando: Solucionario Ma 06 | Materia: Matemática M1
+2026-03-07 23:05:06,438 - INFO - ✓ Solucionario Ma 06: 30 preguntas extraídas
+2026-03-07 23:05:06,482 - INFO - Procesando: Solucionario Ma 07 | Materia: Matemática M1
+2026-03-07 23:05:06,819 - INFO - ✓ Solucionario Ma 07: 27 preguntas extraídas
+2026-03-07 23:05:06,847 - INFO - Procesando: Solucionario Ma 22 | Materia: Matemática M1
+2026-03-07 23:05:07,120 - INFO - ✓ Solucionario Ma 22: 25 preguntas extraídas
+2026-03-07 23:05:07,146 - INFO - Procesando: Solucionario Ma 23 | Materia: Matemática M1
+2026-03-07 23:05:07,373 - INFO - ✓ Solucionario Ma 23: 27 preguntas extraídas
+2026-03-07 23:05:07,404 - INFO - Procesando: Solucionario Ma 08 | Materia: Matemática M1
+2026-03-07 23:05:07,735 - INFO - ✓ Solucionario Ma 08: 26 preguntas extraídas
+2026-03-07 23:05:07,761 - INFO - Procesando: Solucionario Ma 01 | Materia: Matemática M1
+2026-03-07 23:05:10,181 - INFO - ✓ Solucionario Ma 01: 25 preguntas extraídas
+2026-03-07 23:05:10,222 - INFO - Procesando: Solucionario Ma 03_ | Materia: Matemática M1
+2026-03-07 23:05:13,556 - INFO - ✓ Solucionario Ma 03_: 29 preguntas extraídas
+2026-03-07 23:05:13,590 - INFO - Procesando: Solucionario Ma 19 | Materia: Matemática M1
+2026-03-07 23:05:17,432 - INFO - ✓ Solucionario Ma 19: 23 preguntas extraídas
+2026-03-07 23:05:17,458 - INFO - Procesando: Solucionario Ma 02 | Materia: Matemática M1
+2026-03-07 23:05:20,591 - INFO - ✓ Solucionario Ma 02: 27 preguntas extraídas
+2026-03-07 23:05:20,622 - INFO - Procesando: Solucionario Ma 13 | Materia: Matemática M1
+2026-03-07 23:05:21,016 - INFO - ✓ Solucionario Ma 13: 22 preguntas extraídas
+2026-03-07 23:05:21,032 - INFO - Procesando: Solucionario Ma 10 | Materia: Matemática M1
+2026-03-07 23:05:21,444 - INFO - ✓ Solucionario Ma 10: 29 preguntas extraídas
+2026-03-07 23:05:21,455 - INFO - Procesando: Solucionario Ma 27 | Materia: Matemática M1
+2026-03-07 23:05:23,726 - INFO - ✓ Solucionario Ma 27: 29 preguntas extraídas
+2026-03-07 23:05:23,745 - INFO - Procesando: Solucionario Ma 14 | Materia: Matemática M1
+2026-03-07 23:05:27,852 - INFO - ✓ Solucionario Ma 14: 19 preguntas extraídas
+2026-03-07 23:05:27,879 - INFO - Procesando: Solucionario Ma 20 | Materia: Matemática M1
+2026-03-07 23:05:31,356 - INFO - ✓ Solucionario Ma 20: 25 preguntas extraídas
+2026-03-07 23:05:31,380 - INFO - Procesando: Solucionario Ma 09 | Materia: Matemática M1
+2026-03-07 23:05:31,737 - INFO - ✓ Solucionario Ma 09: 29 preguntas extraídas
+2026-03-07 23:05:31,746 - INFO - Procesando: Solucionario Ma 18 | Materia: Matemática M1
+2026-03-07 23:05:35,157 - INFO - ✓ Solucionario Ma 18: 30 preguntas extraídas
+2026-03-07 23:05:35,164 - INFO - Procesando: TAM 08 | Materia: Matemática M1
+2026-03-07 23:05:36,227 - INFO - ✓ TAM 08: 15 preguntas extraídas
+2026-03-07 23:05:36,236 - INFO - Procesando: TEM 09 | Materia: Matemática M1
+2026-03-07 23:05:36,629 - WARNING - Error al extraer imagen 18: 'jpg' cannot have alpha
+2026-03-07 23:05:37,593 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:05:37,855 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:05:37,855 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 23:05:38,268 - INFO - ✓ TEM 09: 24 preguntas extraídas
+2026-03-07 23:05:38,278 - INFO - Procesando: TR 05 | Materia: Matemática M1
+2026-03-07 23:05:40,752 - INFO - ✓ TR 05: 15 preguntas extraídas
+2026-03-07 23:05:40,762 - INFO - Procesando: TR 09 | Materia: Matemática M1
+2026-03-07 23:05:43,013 - INFO - ✓ TR 09: 14 preguntas extraídas
+2026-03-07 23:05:43,020 - INFO - Procesando: TEM 01 | Materia: Matemática M1
+2026-03-07 23:05:44,784 - INFO - ✓ TEM 01: 24 preguntas extraídas
+2026-03-07 23:05:44,793 - INFO - Procesando: TR 07 | Materia: Matemática M1
+2026-03-07 23:05:47,039 - INFO - ✓ TR 07: 15 preguntas extraídas
+2026-03-07 23:05:47,047 - INFO - Procesando: TAM 09 | Materia: Matemática M1
+2026-03-07 23:05:48,102 - INFO - ✓ TAM 09: 15 preguntas extraídas
+2026-03-07 23:05:48,109 - INFO - Procesando: TAM 06 | Materia: Matemática M1
+2026-03-07 23:05:49,169 - INFO - ✓ TAM 06: 15 preguntas extraídas
+2026-03-07 23:05:49,176 - INFO - Procesando: TAM 12 | Materia: Matemática M1
+2026-03-07 23:05:50,254 - INFO - ✓ TAM 12: 15 preguntas extraídas
+2026-03-07 23:05:50,261 - INFO - Procesando: TEM 04 | Materia: Matemática M1
+2026-03-07 23:05:50,314 - INFO - ✓ TEM 04: 24 preguntas extraídas
+2026-03-07 23:05:50,320 - INFO - Procesando: TP 01 | Materia: Matemática M1
+2026-03-07 23:05:52,035 - INFO - ✓ TP 01: 19 preguntas extraídas
+2026-03-07 23:05:52,043 - INFO - Procesando: T 05 | Materia: Sin clasificar
+2026-03-07 23:06:06,366 - INFO - ✓ T 05: 116 preguntas extraídas
+2026-03-07 23:06:06,373 - INFO - Procesando: T 04 | Materia: Matemática M1
+2026-03-07 23:06:18,266 - INFO - ✓ T 04: 119 preguntas extraídas
+2026-03-07 23:06:18,281 - INFO - Procesando: TAM 07 | Materia: Matemática M1
+2026-03-07 23:06:19,317 - INFO - ✓ TAM 07: 15 preguntas extraídas
+2026-03-07 23:06:19,327 - INFO - Procesando: T 03 | Materia: Sin clasificar
+2026-03-07 23:06:45,241 - INFO - ✓ T 03: 120 preguntas extraídas
+2026-03-07 23:06:45,248 - INFO - Procesando: TAM 10 | Materia: Matemática M1
+2026-03-07 23:06:45,631 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:06:46,532 - INFO - ✓ TAM 10: 15 preguntas extraídas
+2026-03-07 23:06:46,541 - INFO - Procesando: TEM 12 | Materia: Matemática M1
+2026-03-07 23:06:48,334 - INFO - ✓ TEM 12: 25 preguntas extraídas
+2026-03-07 23:06:48,346 - INFO - Procesando: TEM 08 | Materia: Matemática M1
+2026-03-07 23:06:50,889 - INFO - ✓ TEM 08: 30 preguntas extraídas
+2026-03-07 23:06:50,906 - INFO - Procesando: TEM 10 | Materia: Matemática M1
+2026-03-07 23:06:52,684 - INFO - ✓ TEM 10: 25 preguntas extraídas
+2026-03-07 23:06:52,693 - INFO - Procesando: TEM 13 | Materia: Matemática M1
+2026-03-07 23:06:54,057 - WARNING - Error al extraer imagen 10: 'jpg' cannot have alpha
+2026-03-07 23:06:54,234 - INFO - ✓ TEM 13: 24 preguntas extraídas
+2026-03-07 23:06:54,241 - INFO - Procesando: TAM 03 | Materia: Matemática M1
+2026-03-07 23:06:55,286 - INFO - ✓ TAM 03: 15 preguntas extraídas
+2026-03-07 23:06:55,293 - INFO - Procesando: TEM 03 | Materia: Matemática M1
+2026-03-07 23:06:56,812 - INFO - ✓ TEM 03: 22 preguntas extraídas
+2026-03-07 23:06:56,821 - INFO - Procesando: TAM 18 | Materia: Matemática M1
+2026-03-07 23:06:57,866 - INFO - ✓ TAM 18: 14 preguntas extraídas
+2026-03-07 23:06:57,873 - INFO - Procesando: TR 08 | Materia: Matemática M1
+2026-03-07 23:06:58,983 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:07:00,351 - INFO - ✓ TR 08: 15 preguntas extraídas
+2026-03-07 23:07:00,357 - INFO - Procesando: TAM 15 | Materia: Matemática M1
+2026-03-07 23:07:01,410 - INFO - ✓ TAM 15: 15 preguntas extraídas
+2026-03-07 23:07:01,417 - INFO - Procesando: TAM 11 | Materia: Matemática M1
+2026-03-07 23:07:02,707 - INFO - ✓ TAM 11: 15 preguntas extraídas
+2026-03-07 23:07:02,714 - INFO - Procesando: TP 04 | Materia: Matemática M1
+2026-03-07 23:07:04,442 - INFO - ✓ TP 04: 21 preguntas extraídas
+2026-03-07 23:07:04,450 - INFO - Procesando: TR 06 | Materia: Matemática M1
+2026-03-07 23:07:06,993 - INFO - ✓ TR 06: 15 preguntas extraídas
+2026-03-07 23:07:07,001 - INFO - Procesando: TEM 07 | Materia: Matemática M1
+2026-03-07 23:07:08,786 - INFO - ✓ TEM 07: 26 preguntas extraídas
+2026-03-07 23:07:08,794 - INFO - Procesando: TP 02 | Materia: Matemática M1
+2026-03-07 23:07:10,532 - INFO - ✓ TP 02: 22 preguntas extraídas
+2026-03-07 23:07:10,539 - INFO - Procesando: TEM 06 | Materia: Matemática M1
+2026-03-07 23:07:12,100 - INFO - ✓ TEM 06: 25 preguntas extraídas
+2026-03-07 23:07:12,106 - INFO - Procesando: TEM 02 | Materia: Matemática M1
+2026-03-07 23:07:13,865 - INFO - ✓ TEM 02: 22 preguntas extraídas
+2026-03-07 23:07:13,872 - INFO - Procesando: TR 03 | Materia: Matemática M1
+2026-03-07 23:07:16,147 - INFO - ✓ TR 03: 15 preguntas extraídas
+2026-03-07 23:07:16,154 - INFO - Procesando: TAM 02 | Materia: Matemática M1
+2026-03-07 23:07:17,196 - INFO - ✓ TAM 02: 15 preguntas extraídas
+2026-03-07 23:07:17,203 - INFO - Procesando: TAM 04 | Materia: Matemática M1
+2026-03-07 23:07:18,244 - INFO - ✓ TAM 04: 15 preguntas extraídas
+2026-03-07 23:07:18,250 - INFO - Procesando: T 01 | Materia: Sin clasificar
+2026-03-07 23:07:31,512 - INFO - ✓ T 01: 113 preguntas extraídas
+2026-03-07 23:07:31,529 - INFO - Procesando: TR 04 | Materia: Matemática M1
+2026-03-07 23:07:34,022 - INFO - ✓ TR 04: 15 preguntas extraídas
+2026-03-07 23:07:34,029 - INFO - Procesando: TAM 05 | Materia: Matemática M1
+2026-03-07 23:07:35,085 - INFO - ✓ TAM 05: 15 preguntas extraídas
+2026-03-07 23:07:35,092 - INFO - Procesando: TAM 13 | Materia: Matemática M1
+2026-03-07 23:07:36,145 - INFO - ✓ TAM 13: 14 preguntas extraídas
+2026-03-07 23:07:36,153 - INFO - Procesando: TAM 01 | Materia: Matemática M1
+2026-03-07 23:07:37,045 - WARNING - Error al extraer imagen 5: 'jpg' cannot have alpha
+2026-03-07 23:07:37,227 - INFO - ✓ TAM 01: 14 preguntas extraídas
+2026-03-07 23:07:37,235 - INFO - Procesando: T 02 | Materia: Sin clasificar
+2026-03-07 23:07:50,730 - INFO - ✓ T 02: 115 preguntas extraídas
+2026-03-07 23:07:50,739 - INFO - Procesando: TEM 11 | Materia: Matemática M1
+2026-03-07 23:07:52,293 - INFO - ✓ TEM 11: 25 preguntas extraídas
+2026-03-07 23:07:52,300 - INFO - Procesando: TR 01 | Materia: Matemática M1
+2026-03-07 23:07:54,322 - INFO - ✓ TR 01: 13 preguntas extraídas
+2026-03-07 23:07:54,333 - INFO - Procesando: TEM 14 | Materia: Matemática M1
+2026-03-07 23:07:55,884 - INFO - ✓ TEM 14: 21 preguntas extraídas
+2026-03-07 23:07:55,891 - INFO - Procesando: TP 03 | Materia: Matemática M1
+2026-03-07 23:07:57,634 - INFO - ✓ TP 03: 22 preguntas extraídas
+2026-03-07 23:07:57,641 - INFO - Procesando: TR 02 | Materia: Matemática M1
+2026-03-07 23:07:59,877 - INFO - ✓ TR 02: 14 preguntas extraídas
+2026-03-07 23:07:59,885 - INFO - Procesando: TAM 16 | Materia: Matemática M1
+2026-03-07 23:08:00,964 - INFO - ✓ TAM 16: 14 preguntas extraídas
+2026-03-07 23:08:00,973 - INFO - Procesando: TEM 05 | Materia: Matemática M1
+2026-03-07 23:08:02,751 - INFO - ✓ TEM 05: 25 preguntas extraídas
+2026-03-07 23:08:02,759 - INFO - Procesando: TAM 17 | Materia: Matemática M1
+2026-03-07 23:08:03,810 - INFO - ✓ TAM 17: 15 preguntas extraídas
+2026-03-07 23:08:03,816 - INFO - Procesando: TAM 08 | Materia: Matemática M1
+2026-03-07 23:08:05,526 - WARNING - ⚠ TAM 08: No se encontraron preguntas
+2026-03-07 23:08:05,533 - INFO - Procesando: TAM 09 | Materia: Matemática M1
+2026-03-07 23:08:07,338 - INFO - ✓ TAM 09: 9 preguntas extraídas
+2026-03-07 23:08:07,343 - INFO - Procesando: TAM 06 | Materia: Matemática M1
+2026-03-07 23:08:09,083 - INFO - ✓ TAM 06: 1 preguntas extraídas
+2026-03-07 23:08:09,089 - INFO - Procesando: TAM 07 | Materia: Matemática M1
+2026-03-07 23:08:10,810 - INFO - ✓ TAM 07: 1 preguntas extraídas
+2026-03-07 23:08:10,817 - INFO - Procesando: TAM 10 | Materia: Matemática M1
+2026-03-07 23:08:12,762 - INFO - ✓ TAM 10: 15 preguntas extraídas
+2026-03-07 23:08:12,767 - INFO - Procesando: TAM 03 | Materia: Matemática M1
+2026-03-07 23:08:14,186 - INFO - ✓ TAM 03: 1 preguntas extraídas
+2026-03-07 23:08:14,191 - INFO - Procesando: TAM 18 | Materia: Matemática M1
+2026-03-07 23:08:15,963 - WARNING - ⚠ TAM 18: No se encontraron preguntas
+2026-03-07 23:08:15,970 - INFO - Procesando: TAM 15 | Materia: Matemática M1
+2026-03-07 23:08:17,645 - INFO - ✓ TAM 15: 3 preguntas extraídas
+2026-03-07 23:08:17,651 - INFO - Procesando: TAM 11 | Materia: Matemática M1
+2026-03-07 23:08:19,614 - INFO - ✓ TAM 11: 15 preguntas extraídas
+2026-03-07 23:08:19,621 - INFO - Procesando: TAM 14 | Materia: Matemática M1
+2026-03-07 23:08:21,277 - INFO - ✓ TAM 14: 2 preguntas extraídas
+2026-03-07 23:08:21,284 - INFO - Procesando: TAM 02 | Materia: Matemática M1
+2026-03-07 23:08:22,949 - INFO - ✓ TAM 02: 1 preguntas extraídas
+2026-03-07 23:08:22,954 - INFO - Procesando: TAM 04 | Materia: Matemática M1
+2026-03-07 23:08:24,641 - WARNING - ⚠ TAM 04: No se encontraron preguntas
+2026-03-07 23:08:24,647 - INFO - Procesando: TAM 05 | Materia: Matemática M1
+2026-03-07 23:08:26,317 - WARNING - ⚠ TAM 05: No se encontraron preguntas
+2026-03-07 23:08:26,324 - INFO - Procesando: TAM 13 | Materia: Matemática M1
+2026-03-07 23:08:27,989 - INFO - ✓ TAM 13: 2 preguntas extraídas
+2026-03-07 23:08:27,994 - INFO - Procesando: TAM 16 | Materia: Matemática M1
+2026-03-07 23:08:29,632 - INFO - ✓ TAM 16: 3 preguntas extraídas
+2026-03-07 23:08:29,638 - INFO - Procesando: TAM 17 | Materia: Matemática M1
+2026-03-07 23:08:29,791 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 23:08:31,182 - INFO - ✓ TAM 17: 1 preguntas extraídas
+2026-03-07 23:08:31,189 - INFO - Procesando: Tutoría 1 Numeros  | Materia: Sin clasificar
+2026-03-07 23:08:48,017 - INFO - ✓ Tutoría 1 Numeros : 112 preguntas extraídas
+2026-03-07 23:08:48,025 - INFO - Procesando: Tutoria 4 Datos y Azar | Materia: Sin clasificar
+2026-03-07 23:09:08,579 - INFO - ✓ Tutoria 4 Datos y Azar: 119 preguntas extraídas
+2026-03-07 23:09:08,587 - INFO - Procesando: Tutoria 2 Algebra Y funciones  | Materia: Sin clasificar
+2026-03-07 23:09:26,447 - INFO - ✓ Tutoria 2 Algebra Y funciones : 115 preguntas extraídas
+2026-03-07 23:09:26,455 - INFO - Procesando: Tutoria 3 Geometria  | Materia: Sin clasificar
+2026-03-07 23:09:43,559 - INFO - ✓ Tutoria 3 Geometria : 120 preguntas extraídas
+2026-03-07 23:09:43,568 - INFO - Procesando: Control 5 | Materia: Matemática M1
+2026-03-07 23:09:45,592 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:09:46,960 - INFO - ✓ Control 5: 38 preguntas extraídas
+2026-03-07 23:09:46,966 - INFO - Procesando: Control 8 | Materia: Sin clasificar
+2026-03-07 23:09:49,701 - WARNING - ⚠ Control 8: No se encontraron preguntas
+2026-03-07 23:09:49,709 - INFO - Procesando: Control 9 | Materia: Sin clasificar
+2026-03-07 23:09:52,771 - WARNING - ⚠ Control 9: No se encontraron preguntas
+2026-03-07 23:09:52,778 - INFO - Procesando: Control 7 | Materia: Sin clasificar
+2026-03-07 23:09:55,356 - WARNING - ⚠ Control 7: No se encontraron preguntas
+2026-03-07 23:09:55,364 - INFO - Procesando: Control 4 | Materia: Matemática M1
+2026-03-07 23:09:58,103 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:09:58,517 - INFO - ✓ Control 4: 39 preguntas extraídas
+2026-03-07 23:09:58,523 - INFO - Procesando: Control 2 | Materia: Matemática M1
+2026-03-07 23:10:01,636 - INFO - ✓ Control 2: 38 preguntas extraídas
+2026-03-07 23:10:01,643 - INFO - Procesando: Control 1 | Materia: Matemática M1
+2026-03-07 23:10:04,553 - INFO - ✓ Control 1: 38 preguntas extraídas
+2026-03-07 23:10:04,558 - INFO - Procesando: MA35-F | Materia: Sin clasificar
+2026-03-07 23:10:06,501 - WARNING - ⚠ MA35-F: No se encontraron preguntas
+2026-03-07 23:10:06,510 - INFO - Procesando: Control 6 | Materia: Matemática M1
+2026-03-07 23:10:09,643 - INFO - ✓ Control 6: 40 preguntas extraídas
+2026-03-07 23:10:09,651 - INFO - Procesando: Control 3 | Materia: Matemática M1
+2026-03-07 23:10:12,779 - INFO - ✓ Control 3: 38 preguntas extraídas
+2026-03-07 23:10:12,783 - INFO - Procesando: Control 2 (1) | Materia: Sin clasificar
+2026-03-07 23:10:12,973 - WARNING - ⚠ Control 2 (1): No se encontraron preguntas
+2026-03-07 23:10:12,976 - INFO - Procesando: Control 4 (1) | Materia: Sin clasificar
+2026-03-07 23:10:13,202 - WARNING - ⚠ Control 4 (1): No se encontraron preguntas
+2026-03-07 23:10:13,206 - INFO - Procesando: Control 1 (1) | Materia: Sin clasificar
+2026-03-07 23:10:13,382 - WARNING - ⚠ Control 1 (1): No se encontraron preguntas
+2026-03-07 23:10:13,386 - INFO - Procesando: Clave MA35F | Materia: Sin clasificar
+2026-03-07 23:10:13,498 - WARNING - ⚠ Clave MA35F: No se encontraron preguntas
+2026-03-07 23:10:13,502 - INFO - Procesando: Control 3 (1) | Materia: Sin clasificar
+2026-03-07 23:10:13,625 - WARNING - ⚠ Control 3 (1): No se encontraron preguntas
+2026-03-07 23:10:13,631 - INFO - Procesando: Rma - resumen n°6 | Materia: Sin clasificar
+2026-03-07 23:10:13,750 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:10:17,520 - WARNING - ⚠ Rma - resumen n°6: No se encontraron preguntas
+2026-03-07 23:10:17,528 - INFO - Procesando: Rma - resumen n°4 | Materia: Sin clasificar
+2026-03-07 23:10:19,987 - WARNING - ⚠ Rma - resumen n°4: No se encontraron preguntas
+2026-03-07 23:10:19,993 - INFO - Procesando: Rma - resumen n°1 | Materia: Sin clasificar
+2026-03-07 23:10:20,110 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 23:10:23,854 - WARNING - ⚠ Rma - resumen n°1: No se encontraron preguntas
+2026-03-07 23:10:23,862 - INFO - Procesando: Rma - resumen n°2 | Materia: Sin clasificar
+2026-03-07 23:10:23,972 - WARNING - Error al extraer imagen 3: 'jpg' cannot have alpha
+2026-03-07 23:10:26,283 - WARNING - ⚠ Rma - resumen n°2: No se encontraron preguntas
+2026-03-07 23:10:26,299 - INFO - Procesando: Rma - resumen n°7 | Materia: Sin clasificar
+2026-03-07 23:10:26,411 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:10:30,185 - WARNING - ⚠ Rma - resumen n°7: No se encontraron preguntas
+2026-03-07 23:10:30,192 - INFO - Procesando: Rma - resumen n°3 | Materia: Sin clasificar
+2026-03-07 23:10:30,204 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:10:30,291 - WARNING - ⚠ Rma - resumen n°3: No se encontraron preguntas
+2026-03-07 23:10:30,297 - INFO - Procesando: Rma - resumen n°5 | Materia: Matemática M1
+2026-03-07 23:10:30,423 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:10:30,423 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 23:10:31,881 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 23:10:33,965 - WARNING - ⚠ Rma - resumen n°5: No se encontraron preguntas
+2026-03-07 23:10:33,971 - INFO - Procesando: Ensayo n° 5 | Materia: Matemática M1
+2026-03-07 23:10:39,597 - INFO - ✓ Ensayo n° 5: 65 preguntas extraídas
+2026-03-07 23:10:39,614 - INFO - Procesando: Ensayo n° 3 | Materia: Matemática M1
+2026-03-07 23:10:45,222 - INFO - ✓ Ensayo n° 3: 63 preguntas extraídas
+2026-03-07 23:10:45,239 - INFO - Procesando: Ensayo n°1 | Materia: Matemática M1
+2026-03-07 23:10:51,557 - INFO - ✓ Ensayo n°1: 64 preguntas extraídas
+2026-03-07 23:10:51,573 - INFO - Procesando: Ensayo n° 8 | Materia: Matemática M1
+2026-03-07 23:10:57,314 - INFO - ✓ Ensayo n° 8: 59 preguntas extraídas
+2026-03-07 23:10:57,320 - INFO - Procesando: Ensayo n° 2 | Materia: Matemática M1
+2026-03-07 23:11:03,115 - INFO - ✓ Ensayo n° 2: 61 preguntas extraídas
+2026-03-07 23:11:03,121 - INFO - Procesando: Ensayo n° 7 | Materia: Matemática M1
+2026-03-07 23:11:08,392 - INFO - ✓ Ensayo n° 7: 61 preguntas extraídas
+2026-03-07 23:11:08,397 - INFO - Procesando: Ensayo n° 6 | Materia: Matemática M1
+2026-03-07 23:11:13,897 - INFO - ✓ Ensayo n° 6: 64 preguntas extraídas
+2026-03-07 23:11:13,905 - INFO - Procesando: Ensayo n° 4 | Materia: Matemática M1
+2026-03-07 23:11:19,421 - INFO - ✓ Ensayo n° 4: 65 preguntas extraídas
+2026-03-07 23:11:19,429 - INFO - Procesando: Ensayo n° 5 | Materia: Matemática M1
+2026-03-07 23:11:23,006 - WARNING - ⚠ Ensayo n° 5: No se encontraron preguntas
+2026-03-07 23:11:23,014 - INFO - Procesando: Ensayo n° 3 | Materia: Matemática M1
+2026-03-07 23:11:26,869 - INFO - ✓ Ensayo n° 3: 2 preguntas extraídas
+2026-03-07 23:11:26,886 - INFO - Procesando: Ensayo n°1 | Materia: Matemática M1
+2026-03-07 23:11:30,951 - INFO - ✓ Ensayo n°1: 1 preguntas extraídas
+2026-03-07 23:11:30,968 - INFO - Procesando: Ensayo n° 8 | Materia: Matemática M1
+2026-03-07 23:11:31,000 - WARNING - ⚠ Ensayo n° 8: No se encontraron preguntas
+2026-03-07 23:11:31,007 - INFO - Procesando: Ensayo n° 2 | Materia: Matemática M1
+2026-03-07 23:11:34,850 - INFO - ✓ Ensayo n° 2: 2 preguntas extraídas
+2026-03-07 23:11:34,856 - INFO - Procesando: Ensayo n° 7 | Materia: Matemática M1
+2026-03-07 23:11:38,229 - WARNING - ⚠ Ensayo n° 7: No se encontraron preguntas
+2026-03-07 23:11:38,238 - INFO - Procesando: Ensayo n° 6 | Materia: Matemática M1
+2026-03-07 23:11:41,834 - INFO - ✓ Ensayo n° 6: 1 preguntas extraídas
+2026-03-07 23:11:41,850 - INFO - Procesando: Ensayo n° 4 | Materia: Matemática M1
+2026-03-07 23:11:45,435 - WARNING - ⚠ Ensayo n° 4: No se encontraron preguntas
+2026-03-07 23:11:45,442 - INFO - Procesando: claves jeg 5 (2) | Materia: Matemática M1
+2026-03-07 23:11:45,730 - WARNING - ⚠ claves jeg 5 (2): No se encontraron preguntas
+2026-03-07 23:11:45,737 - INFO - Procesando: clave jeg 7 | Materia: Matemática M1
+2026-03-07 23:11:46,022 - WARNING - ⚠ clave jeg 7: No se encontraron preguntas
+2026-03-07 23:11:46,029 - INFO - Procesando: claves jeg 8 (2) | Materia: Matemática M1
+2026-03-07 23:11:46,323 - WARNING - ⚠ claves jeg 8 (2): No se encontraron preguntas
+2026-03-07 23:11:46,331 - INFO - Procesando: jeg 2 (3) | Materia: Matemática M1
+2026-03-07 23:11:52,592 - INFO - ✓ jeg 2 (3): 65 preguntas extraídas
+2026-03-07 23:11:52,607 - INFO - Procesando: Jeg 1 (2) | Materia: Matemática M1
+2026-03-07 23:11:59,329 - INFO - ✓ Jeg 1 (2): 63 preguntas extraídas
+2026-03-07 23:11:59,339 - INFO - Procesando: Claves jeg 1 (2) | Materia: Matemática M1
+2026-03-07 23:11:59,628 - WARNING - ⚠ Claves jeg 1 (2): No se encontraron preguntas
+2026-03-07 23:11:59,635 - INFO - Procesando: jeg 7 (2) | Materia: Matemática M1
+2026-03-07 23:12:05,901 - INFO - ✓ jeg 7 (2): 63 preguntas extraídas
+2026-03-07 23:12:05,907 - INFO - Procesando: jeg 2 (2) | Materia: Matemática M1
+2026-03-07 23:12:12,251 - INFO - ✓ jeg 2 (2): 65 preguntas extraídas
+2026-03-07 23:12:12,268 - INFO - Procesando: claves jeg 6 (1) | Materia: Matemática M1
+2026-03-07 23:12:12,565 - WARNING - ⚠ claves jeg 6 (1): No se encontraron preguntas
+2026-03-07 23:12:12,574 - INFO - Procesando: claves jeg 2 (2) | Materia: Matemática M1
+2026-03-07 23:12:12,862 - WARNING - ⚠ claves jeg 2 (2): No se encontraron preguntas
+2026-03-07 23:12:12,869 - INFO - Procesando: jeg 8 (1) | Materia: Matemática M1
+2026-03-07 23:12:18,924 - INFO - ✓ jeg 8 (1): 65 preguntas extraídas
+2026-03-07 23:12:18,940 - INFO - Procesando: jeg 6 (3) | Materia: Matemática M1
+2026-03-07 23:12:25,663 - INFO - ✓ jeg 6 (3): 63 preguntas extraídas
+2026-03-07 23:12:25,670 - INFO - Procesando: claves jeg 3 (2) | Materia: Matemática M1
+2026-03-07 23:12:25,958 - WARNING - ⚠ claves jeg 3 (2): No se encontraron preguntas
+2026-03-07 23:12:25,965 - INFO - Procesando: jeg 5 (2) | Materia: Matemática M1
+2026-03-07 23:12:32,180 - INFO - ✓ jeg 5 (2): 64 preguntas extraídas
+2026-03-07 23:12:32,196 - INFO - Procesando: jeg 3 (2) | Materia: Matemática M1
+2026-03-07 23:12:38,429 - INFO - ✓ jeg 3 (2): 61 preguntas extraídas
+2026-03-07 23:12:38,434 - INFO - Procesando: jeg 4 (1) | Materia: Matemática M1
+2026-03-07 23:12:45,098 - INFO - ✓ jeg 4 (1): 63 preguntas extraídas
+2026-03-07 23:12:45,104 - INFO - Procesando: claves jeg 4 (1) | Materia: Matemática M1
+2026-03-07 23:12:45,109 - WARNING - ⚠ claves jeg 4 (1): No se encontraron preguntas
+2026-03-07 23:12:45,113 - INFO - Procesando: Ensayo n° 5 | Materia: Matemática M1
+2026-03-07 23:12:45,409 - WARNING - ⚠ Ensayo n° 5: No se encontraron preguntas
+2026-03-07 23:12:45,415 - INFO - Procesando: Ensayo n° 3 | Materia: Matemática M1
+2026-03-07 23:12:45,708 - WARNING - ⚠ Ensayo n° 3: No se encontraron preguntas
+2026-03-07 23:12:45,716 - INFO - Procesando: Ensayo n°1 | Materia: Matemática M1
+2026-03-07 23:12:46,011 - WARNING - ⚠ Ensayo n°1: No se encontraron preguntas
+2026-03-07 23:12:46,017 - INFO - Procesando: Ensayo n° 8 | Materia: Matemática M1
+2026-03-07 23:12:46,303 - WARNING - ⚠ Ensayo n° 8: No se encontraron preguntas
+2026-03-07 23:12:46,310 - INFO - Procesando: Ensayo n° 2 | Materia: Matemática M1
+2026-03-07 23:12:46,595 - WARNING - ⚠ Ensayo n° 2: No se encontraron preguntas
+2026-03-07 23:12:46,602 - INFO - Procesando: Ensayo n° 7 | Materia: Matemática M1
+2026-03-07 23:12:46,886 - WARNING - ⚠ Ensayo n° 7: No se encontraron preguntas
+2026-03-07 23:12:46,892 - INFO - Procesando: Ensayo n° 6 | Materia: Matemática M1
+2026-03-07 23:12:47,183 - WARNING - ⚠ Ensayo n° 6: No se encontraron preguntas
+2026-03-07 23:12:47,189 - INFO - Procesando: Ensayo n° 4 | Materia: Matemática M1
+2026-03-07 23:12:47,473 - WARNING - ⚠ Ensayo n° 4: No se encontraron preguntas
+2026-03-07 23:12:47,480 - INFO - Procesando: 4889-Ensayo Ex Cátedra Nº 3 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:12:54,142 - INFO - ✓ 4889-Ensayo Ex Cátedra Nº 3 Matemática 2016: 78 preguntas extraídas
+2026-03-07 23:12:54,149 - INFO - Procesando: 9347-JMA O1-2016 - WEB | Materia: Matemática M1
+2026-03-07 23:13:00,597 - INFO - ✓ 9347-JMA O1-2016 - WEB: 78 preguntas extraídas
+2026-03-07 23:13:00,603 - INFO - Procesando: 7458-Ensayo Ex- Ca-tedra N° 2 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:13:07,523 - INFO - ✓ 7458-Ensayo Ex- Ca-tedra N° 2 Matemática 2016: 79 preguntas extraídas
+2026-03-07 23:13:07,540 - INFO - Procesando: 8110-Ensayo Ex Cátedra N°4 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:13:14,212 - INFO - ✓ 8110-Ensayo Ex Cátedra N°4 Matemática 2016: 79 preguntas extraídas
+2026-03-07 23:13:14,230 - INFO - Procesando: 7302-JMA O2-2016 WEB | Materia: Matemática M1
+2026-03-07 23:13:20,218 - INFO - ✓ 7302-JMA O2-2016 WEB: 77 preguntas extraídas
+2026-03-07 23:13:20,235 - INFO - Procesando: 1829-Ex Cátedra Nº 6 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:13:27,787 - INFO - ✓ 1829-Ex Cátedra Nº 6 Matemática 2016: 76 preguntas extraídas
+2026-03-07 23:13:27,793 - INFO - Procesando: 3488-Ensayo Ex-Cátedra Nº 1 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:13:34,562 - INFO - ✓ 3488-Ensayo Ex-Cátedra Nº 1 Matemática 2016: 76 preguntas extraídas
+2026-03-07 23:13:34,568 - INFO - Procesando: 3664-Ex Cátedra N°5 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:13:41,306 - INFO - ✓ 3664-Ex Cátedra N°5 Matemática 2016: 75 preguntas extraídas
+2026-03-07 23:13:41,315 - INFO - Procesando: 367-Solucionario Ensayo Ex-Cátedra Nº 1 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:13:45,281 - WARNING - ⚠ 367-Solucionario Ensayo Ex-Cátedra Nº 1 Matemática 2016: No se encontraron preguntas
+2026-03-07 23:13:45,299 - INFO - Procesando: 697-Solucionario Ex Cátedra Nº 3 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:13:51,248 - WARNING - ⚠ 697-Solucionario Ex Cátedra Nº 3 Matemática 2016: No se encontraron preguntas
+2026-03-07 23:13:51,268 - INFO - Procesando: 3346-Solucionario Ex Cátedra N° 6  Matemática | Materia: Matemática M1
+2026-03-07 23:13:55,998 - WARNING - ⚠ 3346-Solucionario Ex Cátedra N° 6  Matemática: No se encontraron preguntas
+2026-03-07 23:13:56,009 - INFO - Procesando: 2091-Solucionario Ex Cátedra N°5 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:14:00,217 - WARNING - ⚠ 2091-Solucionario Ex Cátedra N°5 Matemática 2016: No se encontraron preguntas
+2026-03-07 23:14:00,235 - INFO - Procesando: 4261-Solucionario JMA O1-2016 | Materia: Matemática M1
+2026-03-07 23:14:04,437 - WARNING - ⚠ 4261-Solucionario JMA O1-2016: No se encontraron preguntas
+2026-03-07 23:14:04,445 - INFO - Procesando: 5236-Solucionario JMA O2-2016 | Materia: Matemática M1
+2026-03-07 23:14:08,190 - WARNING - ⚠ 5236-Solucionario JMA O2-2016: No se encontraron preguntas
+2026-03-07 23:14:08,198 - INFO - Procesando: 4630-Solucionario Ex Cátedra N°4 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:14:14,399 - WARNING - ⚠ 4630-Solucionario Ex Cátedra N°4 Matemática 2016: No se encontraron preguntas
+2026-03-07 23:14:14,407 - INFO - Procesando: 7323-Pauta Ex-Cátedra N° 6 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:14:14,693 - WARNING - ⚠ 7323-Pauta Ex-Cátedra N° 6 Matemática 2016: No se encontraron preguntas
+2026-03-07 23:14:14,701 - INFO - Procesando: 2896-Pauta JMA O2-2016 | Materia: Matemática M1
+2026-03-07 23:14:14,991 - WARNING - ⚠ 2896-Pauta JMA O2-2016: No se encontraron preguntas
+2026-03-07 23:14:14,997 - INFO - Procesando: 7968-Pauta Ex Cátedra Nº 3 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:14:15,278 - WARNING - ⚠ 7968-Pauta Ex Cátedra Nº 3 Matemática 2016: No se encontraron preguntas
+2026-03-07 23:14:15,289 - INFO - Procesando: 6744-Pauta JMA -01-2016 | Materia: Matemática M1
+2026-03-07 23:14:15,820 - WARNING - ⚠ 6744-Pauta JMA -01-2016: No se encontraron preguntas
+2026-03-07 23:14:15,828 - INFO - Procesando: 8514-Pauta Ex Cátedra N°4 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:14:16,105 - WARNING - ⚠ 8514-Pauta Ex Cátedra N°4 Matemática 2016: No se encontraron preguntas
+2026-03-07 23:14:16,113 - INFO - Procesando: 2468-Claves Ex- Ca-tedra N° 2 Matemática  2016 | Materia: Matemática M1
+2026-03-07 23:14:16,385 - WARNING - ⚠ 2468-Claves Ex- Ca-tedra N° 2 Matemática  2016: No se encontraron preguntas
+2026-03-07 23:14:16,392 - INFO - Procesando: 1167-Claves Ex- Ca-tedra N° 1 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:14:16,668 - WARNING - ⚠ 1167-Claves Ex- Ca-tedra N° 1 Matemática 2016: No se encontraron preguntas
+2026-03-07 23:14:16,675 - INFO - Procesando: 6771-Pauta Ex Cátedra N°5 Matemática 2016 | Materia: Matemática M1
+2026-03-07 23:14:16,947 - WARNING - ⚠ 6771-Pauta Ex Cátedra N°5 Matemática 2016: No se encontraron preguntas
+2026-03-07 23:14:16,954 - INFO - Procesando: 1462-Solucionario JMA-PAES1-OL-08-2022 | Materia: Matemática M1
+2026-03-07 23:14:16,985 - WARNING - ⚠ 1462-Solucionario JMA-PAES1-OL-08-2022: No se encontraron preguntas
+2026-03-07 23:14:16,990 - INFO - Procesando: 4010-JMA-PAES2-OL-06-2022 (7) | Materia: Matemática M1
+2026-03-07 23:14:21,114 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:14:21,114 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 23:14:22,454 - INFO - ✓ 4010-JMA-PAES2-OL-06-2022 (7): 53 preguntas extraídas
+2026-03-07 23:14:22,461 - INFO - Procesando: 9957-Solucionario JMA-PAES1-OL-05-2022 | Materia: Matemática M1
+2026-03-07 23:14:26,065 - WARNING - ⚠ 9957-Solucionario JMA-PAES1-OL-05-2022: No se encontraron preguntas
+2026-03-07 23:14:26,083 - INFO - Procesando: 4677-Solucionario JMA-PAES1-OL-03-2022 | Materia: Matemática M1
+2026-03-07 23:14:29,913 - INFO - ✓ 4677-Solucionario JMA-PAES1-OL-03-2022: 2 preguntas extraídas
+2026-03-07 23:14:29,921 - INFO - Procesando: 1380-Solucionario JMA-PAES2-OL-06-2022 | Materia: Matemática M1
+2026-03-07 23:14:32,389 - WARNING - Error al extraer imagen 0: 'jpg' cannot have alpha
+2026-03-07 23:14:32,390 - WARNING - Error al extraer imagen 1: 'jpg' cannot have alpha
+2026-03-07 23:14:33,275 - WARNING - ⚠ 1380-Solucionario JMA-PAES2-OL-06-2022: No se encontraron preguntas
+2026-03-07 23:14:33,282 - INFO - Procesando: 8517-JMA-PAES1-OL-03-2022 | Materia: Matemática M1
+2026-03-07 23:14:38,784 - INFO - ✓ 8517-JMA-PAES1-OL-03-2022: 63 preguntas extraídas
+2026-03-07 23:14:38,791 - INFO - Procesando: 8865-JMA-PAES1-OL-02-2022 | Materia: Matemática M1
+2026-03-07 23:14:44,525 - INFO - ✓ 8865-JMA-PAES1-OL-02-2022: 61 preguntas extraídas
+2026-03-07 23:14:44,530 - INFO - Procesando: 9928-JMA-PAES2-OL-07-2022 | Materia: Matemática M1
+2026-03-07 23:14:50,043 - INFO - ✓ 9928-JMA-PAES2-OL-07-2022: 51 preguntas extraídas
+2026-03-07 23:14:50,084 - INFO - Procesando: 2595-Solucionario JMA-PAES1-OL-01-2022 | Materia: Matemática M1
+2026-03-07 23:14:54,141 - INFO - ✓ 2595-Solucionario JMA-PAES1-OL-01-2022: 1 preguntas extraídas
+2026-03-07 23:14:54,149 - INFO - Procesando: 7681-Solucionario JMA-PAES2-OL-08-2022 | Materia: Matemática M1
+2026-03-07 23:14:57,490 - WARNING - ⚠ 7681-Solucionario JMA-PAES2-OL-08-2022: No se encontraron preguntas
+2026-03-07 23:14:57,506 - INFO - Procesando: 6488-JMA-PAES2-OL-08-2022 (7) | Materia: Matemática M1
+2026-03-07 23:15:02,767 - INFO - ✓ 6488-JMA-PAES2-OL-08-2022 (7): 54 preguntas extraídas
+2026-03-07 23:15:02,773 - INFO - Procesando: 7498-JMA-PAES1-OL-04-2022 | Materia: Matemática M1
+2026-03-07 23:15:08,267 - INFO - ✓ 7498-JMA-PAES1-OL-04-2022: 65 preguntas extraídas
+2026-03-07 23:15:08,273 - INFO - Procesando: 8165-JMA-PAES1-OL-01-2022 | Materia: Matemática M1
+2026-03-07 23:15:14,449 - INFO - ✓ 8165-JMA-PAES1-OL-01-2022: 64 preguntas extraídas
+2026-03-07 23:15:14,454 - INFO - Procesando: 380-JMA-PAES1-OL-07-2022 (7) | Materia: Matemática M1
+2026-03-07 23:15:19,685 - INFO - ✓ 380-JMA-PAES1-OL-07-2022 (7): 61 preguntas extraídas
+2026-03-07 23:15:19,691 - INFO - Procesando: 6104-JMA-PAES1-OL-06-2022 | Materia: Matemática M1
+2026-03-07 23:15:25,159 - INFO - ✓ 6104-JMA-PAES1-OL-06-2022: 64 preguntas extraídas
+2026-03-07 23:15:25,167 - INFO - Procesando: 1019-Solucionario JMA-PAES1-OL-04-2022 | Materia: Matemática M1
+2026-03-07 23:15:28,775 - WARNING - ⚠ 1019-Solucionario JMA-PAES1-OL-04-2022: No se encontraron preguntas
+2026-03-07 23:15:28,784 - INFO - Procesando: 2957-Solucionario JMA-PAES2-OL-07-2022 | Materia: Matemática M1
+2026-03-07 23:15:32,140 - WARNING - ⚠ 2957-Solucionario JMA-PAES2-OL-07-2022: No se encontraron preguntas
+2026-03-07 23:15:32,156 - INFO - Procesando: 5262-JMA-PAES1-OL-05-2022 | Materia: Matemática M1
+2026-03-07 23:15:37,674 - INFO - ✓ 5262-JMA-PAES1-OL-05-2022: 65 preguntas extraídas
+2026-03-07 23:15:37,683 - INFO - Procesando: 7888-Solucionario JMA-PAES1-OL-07-2022 | Materia: Matemática M1
+2026-03-07 23:15:41,040 - WARNING - ⚠ 7888-Solucionario JMA-PAES1-OL-07-2022: No se encontraron preguntas
+2026-03-07 23:15:41,057 - INFO - Procesando: 7652-Solucionario JMA-PAES1-OL-02-2022 | Materia: Matemática M1
+2026-03-07 23:15:44,887 - INFO - ✓ 7652-Solucionario JMA-PAES1-OL-02-2022: 2 preguntas extraídas
+2026-03-07 23:15:44,895 - INFO - Procesando: 2276-JMA-PAES1-OL-08-2022 | Materia: Matemática M1
+2026-03-07 23:15:50,617 - INFO - ✓ 2276-JMA-PAES1-OL-08-2022: 59 preguntas extraídas
+2026-03-07 23:15:50,624 - INFO - Procesando: Módulo n°1 | Materia: Matemática M1
+2026-03-07 23:15:54,932 - INFO - ✓ Módulo n°1: 24 preguntas extraídas
+2026-03-07 23:15:54,943 - INFO - Procesando: Módulo n°5 | Materia: Matemática M1
+2026-03-07 23:15:59,976 - INFO - ✓ Módulo n°5: 28 preguntas extraídas
+2026-03-07 23:15:59,984 - INFO - Procesando: Módulo n°3 | Materia: Matemática M1
+2026-03-07 23:16:04,076 - INFO - ✓ Módulo n°3: 29 preguntas extraídas
+2026-03-07 23:16:04,082 - INFO - Procesando: Módulo n°4 | Materia: Matemática M1
+2026-03-07 23:16:08,892 - INFO - ✓ Módulo n°4: 27 preguntas extraídas
+2026-03-07 23:16:08,900 - INFO - Procesando: Módulo n°7 | Materia: Matemática M1
+2026-03-07 23:16:12,737 - INFO - ✓ Módulo n°7: 21 preguntas extraídas
+2026-03-07 23:16:12,756 - INFO - Procesando: Módulo n°6 | Materia: Matemática M1
+2026-03-07 23:16:16,374 - INFO - ✓ Módulo n°6: 20 preguntas extraídas
+2026-03-07 23:16:16,382 - INFO - Procesando: Módulo n°2 | Materia: Matemática M1
+2026-03-07 23:16:20,222 - INFO - ✓ Módulo n°2: 23 preguntas extraídas
+2026-03-07 23:16:20,223 - INFO - 
+✅ Procesamiento completado: 212 archivos
+2026-03-07 23:16:20,223 - INFO - Errores: 0

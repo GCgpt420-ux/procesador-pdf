@@ -1,0 +1,93 @@
+{
+  "archivo_original": "Desafío N° 8.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/DESAFIOS/Desafío N° 8.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 1,
+  "fecha_procesamiento": "2026-03-07T23:03:23.396675",
+  "preguntas": [
+    {
+      "numero": 2,
+      "enunciado": "2. \nSi se sabe que las raíces o soluciones de la ecuación 2x2 – 3x + c = 0 son irracionales, \nentonces un posible valor de c es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "0"
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        },
+        {
+          "letra": "E",
+          "texto": "2"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi un ladrillo pesa x kg, dos ladrillos pesan (2y – 1) kg y tres ladrillos pesan (x + y) kg. \n¿Cuánto pesan cuatro ladrillos si todos son del mismo peso?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 kg"
+        },
+        {
+          "letra": "B",
+          "texto": "3 kg"
+        },
+        {
+          "letra": "C",
+          "texto": "5 kg"
+        },
+        {
+          "letra": "D",
+          "texto": "6 kg"
+        },
+        {
+          "letra": "E",
+          "texto": "8 kg"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nSi la parábola de ecuación y = -x2 + bx – 8 tiene su vértice sobre el eje de las abscisas, \nentonces b debe ser",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "un entero positivo."
+        },
+        {
+          "letra": "B",
+          "texto": "un racional positivo."
+        },
+        {
+          "letra": "C",
+          "texto": "un irracional positivo o negativo."
+        },
+        {
+          "letra": "D",
+          "texto": "un racional positivo o negativo."
+        },
+        {
+          "letra": "E",
+          "texto": "un irracional negativo. Respuestas: 1 C 2 B 3 A 4 C"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    }
+  ]
+}

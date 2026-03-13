@@ -1,0 +1,148 @@
+{
+  "filename": "51 1571-MAEL-38_Probabilidad_Condicionada_II.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/1.Pedro De Valdivia/M2 Matematicas/Guias/Guias/51 1571-MAEL-38_Probabilidad_Condicionada_II.pdf",
+  "num_paginas": 9,
+  "titulo": "",
+  "autor": "xp",
+  "fecha_procesamiento": "2026-03-07T14:52:36.585774",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemática M2  \nMaterial MAEL-38 \n\n \n \n \n \n \n \n \n \n \n \n1. \nUna caja contiene 3 esferas blancas y 2 rojas, una segun3a caja contiene 2 esferas \nblancas y 3 rojas, todas ellas del mismo tamaño. El experimento consiste en lanzar una \nmoneda, si sale cara se extrae la esfera de la  primera caja, si sale sello se extrae de la \nsegunda. Si se realizó el experimento y se obtiene una esfera roja, ¿cuál es la \nprobabilidad que provenga de la segunda caja? \n \n \n\nCUADERNO DE EJERCICIOS N°33  \nPROBABILIDAD CONDICIONADA II \n\nA)  6\n\n5  \n\nB)  3\n\n5  \n\nC)  1\n\n2  \n\nD) \n3\n10  \n\n \n \n \n \n2. \nSe tienen dos cajas con ampolletas todas de igual forma y tamaño. La caja 1 contiene \ndiez ampolletas, de las cuales tres están quemadas, la caja 2 contiene doce de las \ncuales hay cuatro quemadas. El experimento consiste en escoger una caja (ambas \ntienen igual probabilidad de ser escogidas) y extraer de ella una ampolleta. Al realizar \nel experimento la ampolleta que se obtiene está en buenas condiciones, ¿cuál es la",
+      "cantidad_caracteres": 1138,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 22.6259765625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 20.1298828125
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.251953125
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "3. \nUna primera caja contiene 4 esferas verdes y 6 amarillas, una segunda caja contiene  \n7 verdes y 8 amarillas, con todas las esferas de igual tamaño. El experimento consiste \nen lanzar un dado, si el número que se obtiene es múltiplo de 3 se extrae una esfera de \nla primera caja, en caso contrario se extrae de la segunda caja. Se realiza el \nexperimento y el color de la esfera extraída es amarilla, ¿cuál es la probabilidad que se \nhaya sacado de la segunda caja?  \n\n \n\nA)  8\n\n9  \n\nB) 16\n\n25  \n\nC)  2\n\n3  \n\nD) \n8\n15  \n\n \n \n \n \n4. \nÁlvaro tiene 2 estuches, ambos con solo lápices de dos tipos: pasta o scripto. Se sabe \nque el estuche 1 tiene un total de diez lápices y el estuche 2 tiene diez lápices pasta y \ncinco lápices scriptos, además al escoger un estuche al azar, ambos con igual \nprobabilidad de ser elegidos, la probabilidad que si el lápiz es scripto, este haya sido \n\nextraído del primer estuche es \n9\n14 . ¿Cuántos lápices scriptos contiene el primer \n\nestuche? \n\n \n \nA) 6 \nB) 4 \nC",
+      "cantidad_caracteres": 1436,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "6. \nSe tienen 2 cajas, A y B, con igual probabilidad de ser escogidas, en que cada una de \nellas contiene esferas, de igual tamaño, de color verde, amarillo y rojo. La caja A tiene \n7 verdes, 4 amarillas y 4 rojas, la caja B en total tiene 20 esferas. Al extraer una esfera \n\nque resulta ser amarilla, la probabilidad que provenga de la caja B es 39\n\n55 . ¿Cuántas de \n\nlas esferas de la caja B no son amarillas? \n\n \n \nA) 13 \nB)   7 \nC) 11 \nD)   5 \nE) 10 \n \n \n \n \n \n \n7. \nEn una mesa de arrimo ubicada a la entrada de un departamento hay dos juegos de \nllaves identificados con las letras P y Q. El primero tiene 5 llaves y el segundo 6; en \nambos llaveros solo una llave abre el portón de salida. Si los llaveros tienen la misma \nprobabilidad de ser elegidos, Cristóbal toma uno de ellos pudiendo abrir el portón, ¿cuál \nes la probabilidad que el llavero escogido sea el llavero P? \n \n\nA)  1\n\n5  \n\nB)  5\n\n6  \n\nC) \n5\n11  \n\nD) \n6\n11  \n\n  \n \n \n \n \n\nPágina 3 \n",
+      "cantidad_caracteres": 957,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "Para los ejercicios 8 y 9 considere la siguiente información: \n\n \nUna fábrica de calcetines tiene tres máquinas operativas, A, B y C, producen el 40%, \n35% y 25%, respectivamente, del total de las piezas producidas en la fábrica. Los \nporcentajes de producción defectuosa de estas máquinas son del 4%, 6% y 8%, \nrespectivamente.  \n\n \n \n \n \n8. \n¿Cuál de las máquinas tiene una mayor probabilidad de producir un par de calcetines \ndefectuoso? \n\n \nA) Máquina A \nB) Máquina B \nC) Máquina C \nD) Todas tienen la misma probabilidad de producir un par de calcetines defectuosos \n \n \n \n \n9. \nSi al escoger un par de calcetines al azar resulta ser defectuoso, ¿cuál es la \nprobabilidad que haya sido fabricado por la máquina C? \n\n \n\nA) 16\n\n57  \n\nB) 21\n\n57  \n\nC) 20\n\n57  \n\nD) \n9\n50  \n\n \n \n \n\n \n \n \n\nPágina 4 \n",
+      "cantidad_caracteres": 798,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "Para los ejercicios 10 y 11 considere la siguiente información: \nEn una fábrica de tarugos se tienen dos máquinas, M1 y M2, la primera fabrica el 60% \nde la producción y la segunda el 40%, en M1 el 6% de los tarugos salen defectuosos y \nen M2 el 4% de ellos también sale defectuoso.  \n \n \n10. Si se escoge un tarugo al azar que es defectuoso, ¿cuál es la probabilidad que haya \n\nsido fabricado por la maquina 1? \n \n\nA) 3\n\n5  \n\nB) \n3\n26  \n\nC) \n9\n250  \n\nD) \n9\n13  \n\nE) \n5\n13  \n\n \n \n11. Si el tarugo escogido NO es defectuoso, ¿cuál es la probabilidad que lo haya fabricado \n\nla maquina 2? \n\n \n\nA)  24\n\n25  \n\nB)  32\n\n47  \n\nC)  32\n\n79  \n\nD) \n96\n250  \n\n \n \n12. En un centro médico se disponen de tres equipos electrónicos para realizar \n\nmamografías, el primer equipo realiza el 25% de los exámenes, el segundo el 35% y el \ntercero un 40%. Los equipos tienen una probabilidad de error de 1%, 2% y 3%, \nrespectivamente. Si el resultado de un examen de un paciente tiene error, ¿cuál es la \nprobabilidad que",
+      "cantidad_caracteres": 1121,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "13. Un concurso consiste en elegir una de tres cajas que se encuentran tapadas, dentro de \n\nlas cuales hay sobres y solo uno de ellos (de cada caja), contiene el premio. Si las cajas \ntienen la misma probabilidad de ser elegidas, y dado que la caja 1 tiene 8 sobres, la \ncaja 2 tiene 5 sobres y la caja 3 tiene 4 sobres, ¿cuál de las siguientes afirmaciones es \ncorrecta \n \n\nA) La probabilidad de ganar al escoger la caja 3 es 1\n\n12 . \n\nB) Si el concursante ganó, la probabilidad que el sobre provenga de la  \n\ncaja 2 es 8\n\n23 . \n\nC) Si el concursante pierde, la probabilidad que el sobre provenga de la caja 1 es 35\n\n97 . \n\nD) Todas son correctas. \n \n \n \n14. Se tienen tres canastas exactamente iguales, la primera contiene 12 manzanas y  \n\n4 naranjas, la segunda 14 manzanas y 10 naranjas y la tercera 8 manzanas y  \n4 naranjas. Se escoge una canasta al azar y se extrae de ella una fruta, si ésta resulta \nser una manzana, ¿cuál es la probabilidad de haber sido extraída de la primera \ncanasta? \n\n",
+      "cantidad_caracteres": 1554,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "16. Una caja contiene 8 esferas rojas y 2 blancas y otra caja contiene 4 esferas rojas y   \n\n6 blancas. Se lanza un dado y si sale un número divisor de 6 se saca una esfera de la \nprimera caja, en caso contrario se saca una esfera de la segunda caja. Al realizar el \nexperimento la esfera extraída resulta ser roja, ¿cuál es la probabilidad que se haya \nextraído de la segunda caja? \n\n \n\nA) 1\n\n5  \n\nB) 1\n\n3  \n\nC) 2\n\n5  \n\nD) 1\n\n2  \n\n \n \n \n \n17. Una caja contiene 4 pañuelos blancos y 2 rojos, en una segunda caja hay 4 pañuelos \n\nrojos y 2 blancos y una tercera 1 pañuelo blanco y 5 rojos, el experimento consiste en \nelegir una caja al azar y extraer un pañuelo de ella. Si la probabilidad de escoger \ncualquiera de las tres cajas es la misma y al realizar el experimento, el pañuelo \nescogido no es rojo, ¿cuál es la probabilidad que haya sido sacado de la caja 3? \n \n\nA) 6\n\n7  \n\nB) 5\n\n7  \n\nC) 1\n\n7  \n\nD) 1\n\n6  \n\n \n \n \n \n18. Se tienen tres cajas, la caja dorada contiene 3 esferas blancas y 1 negra,",
+      "cantidad_caracteres": 1600,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "19. Un estudiante universitario para llegar a tiempo a rendir un examen coloca la alarma de \n\nsu teléfono móvil la cual no siempre escucha, la probabilidad que la escuche es un \n70%, si escucha la alarma, la probabilidad que rinda el examen es un 80%, si no \nescucha la alarma la probabilidad que rinda el examen es un 40%. Si el alumno rindió \nes examen, ¿cuál es la probabilidad que haya escuchado la alarma que puso? \n \n\n \n\nA) 14\n\n17  \n\nB) 13\n\n25  \n\nC) 2\n\n3  \n\nD) 13\n\n17  \n\nE) \n6\n17  \n\n \n20. En cierta universidad ubicada en una región del sur del país, el 40% de las personas \n\nque allí estudian, son habitantes de la región, mientras que el 60% proviene de otras \nregiones. De los alumnos que son residentes de la región, el 30% son hombres, \nmientras que, de los estudiantes afuerinos el 40% son mujeres. Si se elige \naleatoriamente un alumno de esta universidad, ¿cuál es la probabilidad que sea \nhombre? \n \n \n\nA) (0,3) · (0,4) · (0,6) \nB) (0,4) · (0,3) + (0,6) \nC) (0,4) · (0,3) + (0,6) · (0,",
+      "cantidad_caracteres": 1638,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "22. La madre Benjamín tiene en su cartera dos monederos. El monedero 1 tiene 8 monedas \n\nde $ 500 y 6 monedas de $ 100. Benjamín, a pedido de su madre, toma un monedero \nal azar y de este extrae una moneda. Si ambos monederos tienen la misma \nprobabilidad de ser elegidos, se puede conocer el número de monedas de $ 100 que \ncontiene el monedero 2, si se sabe que: \n\n \n(1) si la moneda extraída es de $ 500, la probabilidad que haya sido sacada del \n\nmonedero 1 es 4\n\n9 . \n\n(2) ambos monederos tienen igual número de monedas. \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESPUESTAS \n\n \n1. \nB \n6. \nB \n11. \nC \n16. \nA \n21. \nB \n2. \nD \n7. \nD \n12. \nB \n17. \nC \n22. \nC \n3. \nB \n8. \nB \n13. \nD \n18. \nD \n-- \n-- \n4. \nA \n9. \nC \n14. \nA \n19. \nA \n-- \n-- \n5. \nA \n10. \nD \n15. \nB \n20. \nC \n-- \n-- \n \n\n \nMAEL-38 \n \n Puedes complementar los contenidos de esta guía visitando ",
+      "cantidad_caracteres": 1050,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.3447265625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.2939453125
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.2890625
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

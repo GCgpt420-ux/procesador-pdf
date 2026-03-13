@@ -1,0 +1,533 @@
+{
+  "archivo_original": "TEM 14.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 14.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 6,
+  "fecha_procesamiento": "2026-03-07T23:07:54.333358",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSi m = 52   y  n = 5, entonces \n\n = \n\n\n\n3\n\nm\n\n\n\n\n\n\n\n\nn",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "1 5"
+        },
+        {
+          "letra": "D",
+          "texto": "1 10"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \n¿Cuál de las siguientes expresiones es igual a 1515 ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "715 + 815"
+        },
+        {
+          "letra": "B",
+          "texto": "1516 – 15"
+        },
+        {
+          "letra": "C",
+          "texto": "158 + 157"
+        },
+        {
+          "letra": "D",
+          "texto": "15 · 1514"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi 3n = 243, entonces 15n =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "55 · 243"
+        },
+        {
+          "letra": "B",
+          "texto": "5 · 243"
+        },
+        {
+          "letra": "C",
+          "texto": "5 · 2435"
+        },
+        {
+          "letra": "D",
+          "texto": "55 · 2435"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \n¿Cuándo se obtiene si la suma de 13k + 13k+1 se divide por 13k?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "13"
+        },
+        {
+          "letra": "B",
+          "texto": "14"
+        },
+        {
+          "letra": "C",
+          "texto": "13k"
+        },
+        {
+          "letra": "D",
+          "texto": "13k+1 1"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \n1\n2\n4\n5 10\n2 10\n10\n\n\n\n\n\n\n\n =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,5201"
+        },
+        {
+          "letra": "B",
+          "texto": "0,5021"
+        },
+        {
+          "letra": "C",
+          "texto": "0,5210"
+        },
+        {
+          "letra": "D",
+          "texto": "0,0521"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSi \n4\n2 6\n4 3\n  y  B\nA\n(3 )\n3\n4\n(2\n)\n\n\n\n\n, entonces A : B =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "22"
+        },
+        {
+          "letra": "B",
+          "texto": "23"
+        },
+        {
+          "letra": "C",
+          "texto": "24"
+        },
+        {
+          "letra": "D",
+          "texto": "32        2 k 10"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \n¿Qué valor puede tomar k en la expresión \n\npara que esta tome el valor 25?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-5"
+        },
+        {
+          "letra": "B",
+          "texto": "-2"
+        },
+        {
+          "letra": "C",
+          "texto": "-1"
+        },
+        {
+          "letra": "D",
+          "texto": "0,5"
+        },
+        {
+          "letra": "E",
+          "texto": "1"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \n¿Cuál de las siguientes expresiones es igual a T1 – a – b ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "b a T T  a b  1 T"
+        },
+        {
+          "letra": "B",
+          "texto": " T a b T T "
+        },
+        {
+          "letra": "C",
+          "texto": "T"
+        },
+        {
+          "letra": "D",
+          "texto": "a b T T T  2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSi al producto am · ap  es igual al cuociente  aq\n\nap3 , entonces m es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "q – p – p3"
+        },
+        {
+          "letra": "B",
+          "texto": "2 q p"
+        },
+        {
+          "letra": "C",
+          "texto": "q – p2"
+        },
+        {
+          "letra": "D",
+          "texto": "q – 2p 14 13 C C 4C  sea igual 512 se tiene que cumplir que"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Para la expresión",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "C = 0,5"
+        },
+        {
+          "letra": "B",
+          "texto": "C = 0,2"
+        },
+        {
+          "letra": "C",
+          "texto": "C = 5"
+        },
+        {
+          "letra": "D",
+          "texto": "C = 25"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Al simplificar la expresión 2 5 + 10\n\n se obtiene \n\n5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 3"
+        },
+        {
+          "letra": "B",
+          "texto": "2 + 2"
+        },
+        {
+          "letra": "C",
+          "texto": "2 + 10"
+        },
+        {
+          "letra": "D",
+          "texto": "2 + 2 5"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. \n45 + 245  320\n\n =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 5"
+        },
+        {
+          "letra": "B",
+          "texto": "5 2"
+        },
+        {
+          "letra": "C",
+          "texto": "18 5"
+        },
+        {
+          "letra": "D",
+          "texto": "12 2  3 ="
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. \n12\n\n = \n\n27 +\n3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 3"
+        },
+        {
+          "letra": "B",
+          "texto": "1 2"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "1 3"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. ¿Cuál de las siguientes igualdades es correcta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 3 2  "
+        },
+        {
+          "letra": "B",
+          "texto": "3 6 2 3 6  "
+        },
+        {
+          "letra": "C",
+          "texto": "4 = 2 3 = 2"
+        },
+        {
+          "letra": "D",
+          "texto": "8 3 : 2 5 3 2  ?"
+        },
+        {
+          "letra": "A",
+          "texto": "No es un número entero"
+        },
+        {
+          "letra": "B",
+          "texto": "Es un número irracional"
+        },
+        {
+          "letra": "C",
+          "texto": "Es un número negativo"
+        },
+        {
+          "letra": "D",
+          "texto": "Es un número NO real"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Si \n0,3\n\n es igual a \n3\nN\n\n, entonces N es un número  \n\n16",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "entero mayor que 10, pero menor que 14."
+        },
+        {
+          "letra": "B",
+          "texto": "irracional menor que 4."
+        },
+        {
+          "letra": "C",
+          "texto": "entero múltiplo de 16."
+        },
+        {
+          "letra": "D",
+          "texto": "entero divisible por 16."
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. ¿Qué valor debe tener w para que \n\n\n2\nw\n0,3\n\n sea igual a 0?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 9"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "9"
+        },
+        {
+          "letra": "D",
+          "texto": "1 3"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. \n6\n3\n\n2\n2\n2\n2\n\n\n\n\n =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "2 2"
+        },
+        {
+          "letra": "C",
+          "texto": "6 9 2 "
+        },
+        {
+          "letra": "D",
+          "texto": "6 9 2 2  k+4 k k+3 2 2 2  "
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Al simplificar \n\n se obtiene \n\n2  2\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 8"
+        },
+        {
+          "letra": "B",
+          "texto": "7 4"
+        },
+        {
+          "letra": "C",
+          "texto": "1 8"
+        },
+        {
+          "letra": "D",
+          "texto": "1 – 2k 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. La expresión \n\n es igual a la raíz cuadrada de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "1 2"
+        },
+        {
+          "letra": "D",
+          "texto": "1 2 2 - 3 4 8 + 0,25 + 4 (0,5)  , entonces"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. El resultado de la división mn : mn-2 es igual",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "al doble de m."
+        },
+        {
+          "letra": "B",
+          "texto": "al cuadrado de m."
+        },
+        {
+          "letra": "C",
+          "texto": "a la mitad de m."
+        },
+        {
+          "letra": "D",
+          "texto": "a m elevado a n."
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. ¿Cuál de las siguientes expresiones representa la quinta parte de 5555?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1555"
+        },
+        {
+          "letra": "B",
+          "texto": "5111"
+        },
+        {
+          "letra": "C",
+          "texto": "5554"
+        },
+        {
+          "letra": "D",
+          "texto": "4555 TEM-14 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    }
+  ]
+}

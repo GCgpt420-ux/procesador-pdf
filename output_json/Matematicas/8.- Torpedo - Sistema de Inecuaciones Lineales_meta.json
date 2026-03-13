@@ -1,0 +1,22 @@
+{
+  "filename": "8.- Torpedo - Sistema de Inecuaciones Lineales.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/z. Resumenes - Varios/Matematicas/8.- Torpedo - Sistema de Inecuaciones Lineales.pdf",
+  "num_paginas": 1,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T14:52:21.074791",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nDEFINICIÓN \n\n𝑎< 𝑏 ;  𝑎> 𝑏→𝐷𝑒𝑠𝑖𝑔𝑢𝑎𝑙𝑑𝑎𝑑 𝑒𝑠𝑡𝑟𝑖𝑐𝑡𝑎 \n𝑎≤𝑏 ;  𝑎≥𝑏→𝐷𝑒𝑠𝑖𝑔𝑢𝑎𝑙𝑑𝑎𝑑 𝑛𝑜 𝑒𝑠𝑡𝑟𝑖𝑐𝑡𝑎 \n\n \n\nPROPIEDADES \n\n1.- Transitividad \n\n𝑆𝑖 𝑎< 𝑏 𝑦 𝑏< 𝑐→𝑎< 𝑐 \n\n2.- 𝑺𝒊 𝒂< 𝒃  \n\n𝑎+ 𝑐< 𝑏+ 𝑐 \n𝑎−𝑐< 𝑏−𝑐 \n\n3.- 𝑺𝒊 𝒂< 𝒃 𝒚 𝟎< 𝒄 \n\n𝑎∗𝑐< 𝑏∗𝑐 \n\n𝑎\n𝑐< 𝑏\n\n𝑐 \n\n4.- 𝑺𝒊 𝒂< 𝒃 𝒚 𝟎> 𝒄 \n\n𝑎∗𝑐> 𝑏∗𝑐 \n\n𝑎\n𝑐> 𝑏\n\n𝑐 \n\n \n\n5.- 𝑺𝒊 𝒂< 𝒃, 𝒂𝒎𝒃𝒐𝒔 𝒅𝒆 𝒊𝒈𝒖𝒂𝒍 𝒔𝒊𝒈𝒏𝒐 \n\n1\n𝑎> 1\n\n𝑏 \n\n \n \n\n1 \n \n",
+      "cantidad_caracteres": 334,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 107.51171875
+        }
+      ]
+    }
+  ]
+}

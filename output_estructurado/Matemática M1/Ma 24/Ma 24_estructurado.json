@@ -1,0 +1,765 @@
+{
+  "archivo_original": "Ma 24.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 24.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 12,
+  "fecha_procesamiento": "2026-03-07T23:04:44.785757",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1.500 \n\n5 \n10 \n\nMasa (kg) \n\nSi la relación entre el precio de la harina y su masa se modela por una función lineal, \n¿cuál de las siguientes funciones permite determinar el precio de x kg de harina?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "f(x) = 100x"
+        },
+        {
+          "letra": "B",
+          "texto": "g(x) = 500x"
+        },
+        {
+          "letra": "C",
+          "texto": "h(x) = 200x"
+        },
+        {
+          "letra": "D",
+          "texto": "m(x) = 300x"
+        },
+        {
+          "letra": "E",
+          "texto": "j(x) = 450x (Fuente: DEMRE. Publicación 2019)"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nLa figura adjunta, muestra el gráfico de una función y = f(x), definida en los reales. \n¿Cuál es el valor de [f(-3) + f(6) – f(-6)] · f(0)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-3"
+        },
+        {
+          "letra": "B",
+          "texto": "18"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "0 y 4 1 2 3 x -6 -5 5 6 1 2 3 4 -1 -2 -3 -4 -7 -1 -2 -3 -4 -5 -6"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 24_p1_img3.jpg",
+        "Ma 24_p1_img2.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nDe acuerdo al gráfico de la función h(x) de la figura adjunta, se puede afirmar que \n \n \n\nI) \nLa función es creciente en [-2,4]. \nII) \nDom h = [-2,4] \nIII) \nRec h = [-2,3]",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III y h(x) 3 2 1 x 3 2 1 -1 -2 -1 4"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 24_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nSi f(x) = 3x – 8,  y   g(x) = x2 – 2, entonces f(g(2)) es \n \n \n\n-2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "-2"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "-14"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nSi f(x) = x2 – 1   y   g(x) = 2x + 1, entonces f(g(x)) es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4x2 + 4x"
+        },
+        {
+          "letra": "B",
+          "texto": "4x2 – 4x"
+        },
+        {
+          "letra": "C",
+          "texto": "2x2 – 1"
+        },
+        {
+          "letra": "D",
+          "texto": "4x2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6.  \nSi f(x) = x   y   g(x) = 3, ¿cuál es el valor de g(x + 3)  g(x)\n\n\n\n? \n\nf(x + 3)  f(x)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "0 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7.  \nSea f(x) = x + 3  y  g(x) = x – 2, el gráfico que mejor representa f(g(x)) es \n \n \n\ny \n\ny \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 24_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nSea f una función, con dominio el conjunto de los números reales, definida por  \nf(x) = (x – 5)3 + 3. Si g, h, k, m y n son funciones, todas con dominio el conjunto de \nlos números reales, ¿con cuál de las siguientes traslaciones se obtiene la gráfica de f ? \n \n \n\n3 \n\n3 \n\n1 \n\nx \n-1 \n-2 \n\n2 \n\nx \n\nx \n\n-2 \n\n2 \n\n-2 \n\n-3 \n\ny \n\n3 \n\nx \n\n2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Trasladar la gráfica de g(x) = x3 + 3, cinco unidades horizontalmente hacia la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Trasladar la gráfica de h(x) = (x – 2)3 + 3, tres unidades horizontalmente hacia la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Trasladar la gráfica de m(x) = x3, cinco unidades horizontalmente hacia la izquierda y tres unidades verticalmente hacia arriba."
+        },
+        {
+          "letra": "D",
+          "texto": "Trasladar la gráfica de k(x) = (x – 5)3 – 1, cuatro unidades verticalmente hacia arriba."
+        },
+        {
+          "letra": "E",
+          "texto": "Trasladar la gráfica de n(x) = x3 – 5, tres unidades verticalmente hacia arriba. (Fuente: DEMRE, Publicación 2019)"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSean las funciones f, g y h, todas con dominio el conjunto de los números reales, \n\ndefinidas por f(x) = 3\n\n4 x, x – 2g(x) + 2 = 0, 5x + 6h(x) – 30 = 0. ¿Cuál de las \n\nsiguientes afirmaciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "h(x) es inversamente proporcional a x."
+        },
+        {
+          "letra": "B",
+          "texto": "g(x) es directamente proporcional a x."
+        },
+        {
+          "letra": "C",
+          "texto": "Las rectas que representan a las gráficas de las funciones f y g tienen la misma pendiente."
+        },
+        {
+          "letra": "D",
+          "texto": "g(2x) = 2g(x)"
+        },
+        {
+          "letra": "E",
+          "texto": "g(0) = 1 5 h(0) (Fuente: DEMRE, Publicación 2017) 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10.  Sea f(x) = x + 2, entonces la gráfica de la función g que es simétrica a f(x) con \n\nrespecto al eje y es  \n \n \n\ny \n\ny \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": "2 2 2"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11.  Sabiendo que los puntos (2, -3) y (6, -1) pertenecen a la gráfica de la función  \n\n1 \n\n1 \n\n1 \n\nx \n\nx \n\nx \n\n1 2 3 \n-1 \n-2 \n\n1 2 3 \n-1 \n-2 \n\n1 2 3 \n-1 \n-2 \n\n-2 \n\n-2 \n\n-2 \n\ny \n\n2 \n\n1 \n\nx \n\n1 2 3 \n-1 \n-2 \n\n-2 \n\nf : lR  lR, definida por f(x) = ax + b, ¿cuál es el valor de b – a?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 2 "
+        },
+        {
+          "letra": "B",
+          "texto": "9 4 "
+        },
+        {
+          "letra": "C",
+          "texto": "9 2 "
+        },
+        {
+          "letra": "D",
+          "texto": "- 3"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Sea g: lR  lR, definida por \nx\ng(x) = \n  5\n3 \n. Con respecto a la función g(x), ¿cuál(es) de \n\nlas siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa función es creciente. \nII) \nEl dominio de la función es lR – {3}. \nIII) \nEl recorrido de la función g es lR.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Un botánico mide el crecimiento de una planta todos los días. Uniendo los puntos \n\ncolocados por él en un gráfico, se obtuvo la figura adjunta. Suponiendo que las \ncondiciones se mantienen y, por tanto, también se mantiene el ritmo de crecimiento de \nla planta, ¿cuál será la altura de esta planta al cabo de 30 días?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "5 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "6 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "8 cm"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 24_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En un cuadrado, la mitad de la medida de la diagonal es p. ¿Cuál de las siguientes \n\nAltura \n(cm) \n\n2 -- \n\n1 \n\n5 \n10 \n\nTiempo (días) \n\nfunciones describe el perímetro del cuadrado en función de p?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "f(p) = 4 2 p"
+        },
+        {
+          "letra": "B",
+          "texto": "g(p) = 2 2 p"
+        },
+        {
+          "letra": "C",
+          "texto": "h(p) = 2 p"
+        },
+        {
+          "letra": "D",
+          "texto": "r(p) = 4p"
+        },
+        {
+          "letra": "E",
+          "texto": "q(p) = 2p (Fuente: DEMRE. Publicación 2018)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Un técnico cobra un cargo fijo de $ 17.000 más $ 1.500 por hora de trabajo. ¿Cuál de \n\nlas siguientes funciones modela el cobro, en pesos, para un trabajo de n horas de este \ntécnico?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "g(n) = 17.000n + 1.500"
+        },
+        {
+          "letra": "B",
+          "texto": "p(n) = 17.000 ∙ 1.500n"
+        },
+        {
+          "letra": "C",
+          "texto": "h(n) = 18.500n"
+        },
+        {
+          "letra": "D",
+          "texto": "f(n) = 17.000 + 1.500n"
+        },
+        {
+          "letra": "E",
+          "texto": "q(n) = n + 18.500 (Fuente: DEMRE, Publicación 2014) 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Se pone a hervir agua que inicialmente estaba a una temperatura de 10 °C. Si su \n\ntemperatura sube uniformemente durante los primeros 7 minutos hasta alcanzar los \n100 °C, estabilizándose la temperatura después de este tiempo, ¿cuál de los siguientes \ngráficos representa mejor este fenómeno?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": "Temperatura (°C) Temperatura (°C) Temperatura (°C) 100 100 100 10 10 10 0 7 Minutos 0 7 Minutos 0 7 Minutos"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": "Temperatura (°C) Temperatura (°C) 100 100 10 10 0 7 Minutos 0 7 Minutos (Fuente: DEMRE. Publicación 2011) 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 24_p6_img0.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. En la figura adjunta se muestran las gráficas de tres funciones f, g y h que representan \n\nel \ncosto \ncorrespondiente \na \nkilogramos \nde \nperas, \nplátanos \ny \nmanzanas, \nrespectivamente. ¿Cuál de las siguientes afirmaciones es FALSA, en relación a la \ninformación entregada en el gráfico?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El kilogramo de plátanos es más caro que el kilogramo de manzanas."
+        },
+        {
+          "letra": "B",
+          "texto": "2 kg de peras tienen el mismo costo que 3 kg de manzanas."
+        },
+        {
+          "letra": "C",
+          "texto": "Con $ 1.200 es posible comprar 5 kg de fruta."
+        },
+        {
+          "letra": "D",
+          "texto": "Con $ 1.000 se puede comprar 1 kg de manzanas y 1 kg de peras."
+        },
+        {
+          "letra": "E",
+          "texto": "El costo total de 2 kg de cada fruta son $ 3.000. (Fuente: DEMRE. Publicación 2015)"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 24_p7_img1.jpg",
+        "Ma 24_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Un modelo para la temperatura T, en grados Celsius (°C), de un líquido recién vertido \n\nen un recipiente está dado por T(t) = 90 – 10t, donde t es el tiempo transcurrido en \nminutos, desde el instante en que fue vertido, ¿cuál(es) de las siguientes afirmaciones \nes (son) verdadera(s)? \n \n \n\nI) \nLa temperatura disminuye en función del tiempo. \nII) \nEl líquido fue vertido a 90 °C. \nIII) \nLa temperatura del líquido disminuye a razón de 10 °C por minuto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III (Fuente: DEMRE. Publicación 2015) 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. La tarifa de cierta compañía de telefonía consta de un cargo fijo mensual de $ 9.000 \n\nmás un cargo de $ 50 por minuto que se habla. Si durante los primeros 240 minutos \nesta tarifa se modela mediante una función de la forma f(x) = mx + n, ¿cuál de las \nsiguientes gráficas representa mejor a la gráfica de f?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": "f(x) f(x)"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Si M(x) = x – [x] es la función mantisa, que hace corresponder a cada número el \n\nmismo número menos el valor de su parte entera. La parte entera de un número x es \nel mayor número entero menor que x, es decir [2,9] es 2 y [-3,1] es -4. ¿Cuál es el \nvalor de M(8,75) + M(-3,75)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "0,5"
+        },
+        {
+          "letra": "D",
+          "texto": "-7"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Si 3 < x < 4, entonces f(x) = |x – 3| + |x – 5| +|4 – x| equivale a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x – 4"
+        },
+        {
+          "letra": "B",
+          "texto": "x + 6"
+        },
+        {
+          "letra": "C",
+          "texto": "12 – 3x"
+        },
+        {
+          "letra": "D",
+          "texto": "6 – x 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Una función h, cuyo dominio son los números naturales, verifica la propiedad  \n\nh(n)  =  h(n + 1)\n\n2\n, para todo n perteneciente al dominio de h. Si h(1) = 3, entonces \n\nh(20)=",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "220 · 3"
+        },
+        {
+          "letra": "B",
+          "texto": "219 · 3"
+        },
+        {
+          "letra": "C",
+          "texto": "(2 · 3)19"
+        },
+        {
+          "letra": "D",
+          "texto": "60"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Sea f una función, cuyo dominio es lR – {5}, definida por \n2x\n3\nf x\nx\n5\n\n\n\n, entonces el \n\nrecorrido de la función es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lR – {-2}"
+        },
+        {
+          "letra": "B",
+          "texto": "lR – 3 2   "
+        },
+        {
+          "letra": "C",
+          "texto": "lR – {2}"
+        },
+        {
+          "letra": "D",
+          "texto": "lR – {-5} 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. Si f es una función par, tal que f(5) = 9, entonces -f(-5) es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "-9"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "-5"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. ¿Cuál de las siguientes funciones es impar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "f(x) = x3 + 1"
+        },
+        {
+          "letra": "B",
+          "texto": "f(x) = x2 – 1"
+        },
+        {
+          "letra": "C",
+          "texto": "f(x) = x"
+        },
+        {
+          "letra": "D",
+          "texto": "f(x) = x3 + 2"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. ¿Cuál de los siguientes gráficos representa una función par?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": "y y y x x x"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 11,
+      "imagenes": [
+        "Ma 24_p11_img0.jpg"
+      ]
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. Una empresa de mantención de equipos eléctricos cobra un costo fijo mensual de \n\ny \n\nx \n\n$200.000 y $5.000 por cada visita que su técnico realice en el mes. Si una fábrica \ncontrata los servicios de esta empresa, ¿cuál de las siguientes funciones modela el \ncobro total, en pesos, del servicio para x visitas en el mes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "f(x) = 205.000x"
+        },
+        {
+          "letra": "B",
+          "texto": "g(x) = 200.000 – 5.000x"
+        },
+        {
+          "letra": "C",
+          "texto": "h(x) = 200.000x + 5.000"
+        },
+        {
+          "letra": "D",
+          "texto": "p(x) = 5.000x + 200.000"
+        },
+        {
+          "letra": "E",
+          "texto": "q(x) = 5.000x – 200.000 (Fuente: DEMRE. Publicación 2021) 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s), con respecto a la \n\nfunción f definida por f(x) = x2 – 8, para x\n8\n\n? \n \n\nI) \nModela el área de un rectángulo de lados (x – \n8 ) cm y (x + \n8 ) cm. \n\nII) \nModela el área de un cuadrado de lado (x – \n8 ) cm. \n\nIII) \nModela el área que queda al restar el área de un cuadrado de lado \n8  cm \nal área de un cuadrado mayor de lado x cm.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III (Fuente: DEMRE. Publicación 2019) RESPUESTAS"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 100,
+      "enunciado": "100)\nk\n\n\n\n\n \n\n \ndonde M es la masa ideal en kilógramos, h es la altura en centímetros, k = 2 para \nmujeres y k = 4 para hombres. \n \nSi se sabe que Verónica pesa 54 kg y por tanto su masa es 3 kg inferior a la masa \nideal, Bastián pesa 2 kg más que Javiera, pero ambos tienen masa ideal e igual altura, \nentonces ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \nLa altura de Verónica es igual a 1,64 m. \nII) \nLa masa de Bastián es igual a 50 kg. \nIII) \nVerónica mide 14 cm más que Javiera.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    }
+  ]
+}

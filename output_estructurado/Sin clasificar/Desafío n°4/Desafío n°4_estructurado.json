@@ -1,0 +1,527 @@
+{
+  "archivo_original": "Desafío n°4.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/DESAFIOS/Desafío n°4.pdf",
+  "materia": "Sin clasificar",
+  "num_paginas": 6,
+  "fecha_procesamiento": "2026-03-07T23:03:25.505378",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEn la figura adjunta, si la suma de las áreas de los tres cuadrados es 18, ¿cuál es el \nárea del cuadrado mayor?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "9"
+        },
+        {
+          "letra": "D",
+          "texto": "10"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Desafío n°4_p1_img3.jpg",
+        "Desafío n°4_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn un triángulo rectángulo de catetos a y b y de área A, ¿cuál de las siguientes \nexpresiones representa la altura sobre la hipotenusa? \n \n \n\n2\n2\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a + b A"
+        },
+        {
+          "letra": "B",
+          "texto": "2 2 a + b 2 A"
+        },
+        {
+          "letra": "C",
+          "texto": "2 2 a + b 2A"
+        },
+        {
+          "letra": "D",
+          "texto": "2 2 a + b"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn la figura adjunta, si AC = 2AB = 4DB, ¿en qué razón están las medidas de AD  y \n\nAC , respectivamente? \n \n \n\nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 : 2"
+        },
+        {
+          "letra": "B",
+          "texto": "3 : 4"
+        },
+        {
+          "letra": "C",
+          "texto": "1 : 2"
+        },
+        {
+          "letra": "D",
+          "texto": "1 : 3 D B C"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Desafío n°4_p1_img3.jpg",
+        "Desafío n°4_p1_img0.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEn el cuadrado ABCD de la figura adjunta, AB = 10 cm, ED = DF y DE : EA = 1 : 4. \n¿Cuál es el área del cuadrilátero EBCF? \n \n\nD \n\nC \nF",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "64 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "70 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "58 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "59 cm2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Desafío n°4_p2_img1.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEl trapecio ABCD de la figura adjunta, está formado por el cuadrado AECD y el \n\nE \n\nA \nB \n\ntriángulo EBC. Si AC = 2\n6  y AB = 2(\n3  + 1), ¿cuánto mide el ángulo BCE? \n\n \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30°"
+        },
+        {
+          "letra": "B",
+          "texto": "45°"
+        },
+        {
+          "letra": "C",
+          "texto": "60°"
+        },
+        {
+          "letra": "D",
+          "texto": "No se puede determinar"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Desafío n°4_p2_img1.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn la figura adjunta, ABCD es un trapecio rectángulo. Si BC = 2 y BD = 4, ¿cuál es \nel área del triángulo ACD? \n \n \n\nA \nE \nB \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "2 2"
+        },
+        {
+          "letra": "C",
+          "texto": "2 5"
+        },
+        {
+          "letra": "D",
+          "texto": "2 3"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Desafío n°4_p2_img1.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEn la figura adjunta se tienen 4 cuadrados de áreas 16 cm2, 9 cm2, 4 cm2 y 1 cm2, \nrespectivamente, colocados en un rectángulo ABCD. ¿Cuál es el área de la figura \nachurada?  \n \n \n\nA \nB \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 cm2 *"
+        },
+        {
+          "letra": "B",
+          "texto": "15 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "20 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "30 cm2 A B Página 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Desafío n°4_p2_img1.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nEn el rectángulo ABCD, AB : BC = 4 : 3; BE = EC = 1 : 2  y  CF : FD = 1 : 3. Si el \nárea de este rectángulo es 48 cm2, ¿cuál es el área del cuadrilátero AECF? \n \n \n\nD \nC \nF",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "20 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "22 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "24 cm2 E"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEn la figura adjunta, ABCD es un cuadrado, EBFC es un rombo. ¿En qué razón están \nlos perímetros del cuadrado y del rombo, respectivamente? \n \n \n\nA \nB \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 5 : 5"
+        },
+        {
+          "letra": "B",
+          "texto": "5 : 5"
+        },
+        {
+          "letra": "C",
+          "texto": "5 : 10"
+        },
+        {
+          "letra": "D",
+          "texto": "3 : 4 F E"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Desafío n°4_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. En la figura adjunta, si C es el centro del cuadrado de menor tamaño, ¿cuál es el \n\nA \nB \n\nárea de la figura achurada? \n \n \n\n10 cm \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "27 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "25 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "36 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "30 cm2"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Desafío n°4_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. En el plano cartesiano, los vértices de un cuadrilátero cóncavo ABCD tienen \n\n20 cm \n\ncoordenadas A(0, 1); B(4, 0); C(4, 4) y D(3, 2). ¿Cuál es el área de este \ncuadrilátero?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,5"
+        },
+        {
+          "letra": "B",
+          "texto": "4,5"
+        },
+        {
+          "letra": "C",
+          "texto": "5,5"
+        },
+        {
+          "letra": "D",
+          "texto": "7,5 Página 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Desafío n°4_p3_img1.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En el cuadrilátero ABCD de la figura adjunta, ABC = 150°, AD = AB = 4 cm, BC = 10 cm, \n\nMN = 2 cm, siendo M y N puntos medios de CD  y BC , respectivamente. ¿Cuál es el \nárea del triángulo BCD? \n \n \n\nD \n\nM",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "15 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "20 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "30 cm2"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Desafío n°4_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. En el cuadrilátero ADEC de la figura adjunta, los puntos A, B y D son colineales y los \n\nC \n\nA \n\nN \n\nB \n\ntriángulos ABC y BDE son equiláteros de perímetro 3 cm y 6 cm, respectivamente. \n¿Cuál es el área del triángulo CBE? \n \n \n\nE \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 3 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "3 3 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "3 2 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "3 3 cm2 A B D"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Desafío n°4_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En la figura adjunta, ABCDEF  es un hexágono regular de lado a. Sabiendo que el \n\ncuadrilátero FMDE tiene un cuarto del área del hexágono, ¿cuál es la longitud de \n\nFM ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5a 3 E D 120°"
+        },
+        {
+          "letra": "B",
+          "texto": "7a 4 M"
+        },
+        {
+          "letra": "C",
+          "texto": "9a 4 C F"
+        },
+        {
+          "letra": "D",
+          "texto": "7a 3 A B Página 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Desafío n°4_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. En la circunferencia de centro O y radio 12 de la figura adjunta, DE // AB  y  \n\nCO   AB . ¿Cuál es la medida de CD , si M es punto medio de OC ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "11"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "9"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Desafío n°4_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En la figura adjunta, O y O’ son centros de las circunferencias tangentes en T y los \n\nC \n\nM \nD \n\nE \n\nB \nA \n\nO \n\nsegmentos AB y CD se intersectan en T. Si AB = 44, O’B = 16, AC = 6, entonces la \n\nmedida de TD es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16 3 D"
+        },
+        {
+          "letra": "B",
+          "texto": "8 2 B O’ O"
+        },
+        {
+          "letra": "C",
+          "texto": "6 3"
+        },
+        {
+          "letra": "D",
+          "texto": "15 A T C"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Desafío n°4_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. En la circunferencia de la figura adjunta, D y C pertenecen a la circunferencia, AB  \n\nes diámetro, AD   AC , BAD = 60° y AC = 12 cm. ¿Cuánto mide el perímetro de la \n\ncircunferencia? \n \n \n\nC \nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16 3  cm"
+        },
+        {
+          "letra": "B",
+          "texto": "8 3  cm"
+        },
+        {
+          "letra": "C",
+          "texto": "16  cm"
+        },
+        {
+          "letra": "D",
+          "texto": "24  cm D B Página 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Desafío n°4_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. En la figura adjunta, L1 es tangente a la circunferencia de centro O en el punto T y \n\nL1 // L2.  ¿Cuánto es el radio de la circunferencia?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7,5"
+        },
+        {
+          "letra": "B",
+          "texto": "9,5"
+        },
+        {
+          "letra": "C",
+          "texto": "10,0"
+        },
+        {
+          "letra": "D",
+          "texto": "12,5 O"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Desafío n°4_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. En la figura adjunta, M, P y Q son puntos de tangencia. Si OM = 16, ¿cuál es el \n\n10 \n10 \n\nL2 \n\n5 \n\nL1 \n\nperímetro del triángulo achurado? \n \n \n\nM",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "32"
+        },
+        {
+          "letra": "B",
+          "texto": "36"
+        },
+        {
+          "letra": "C",
+          "texto": "38"
+        },
+        {
+          "letra": "D",
+          "texto": "No se puede determinar"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Desafío n°4_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En la figura adjunta, las circunferencias son tangentes entre si y tangentes a los \n\nO \n\nP\n\nQ \n\nlados del triángulo equilátero ABC. Si la suma de las áreas de los tres círculos del \nmismo radio es 3, ¿cuál es el área del triángulo ABC?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 3 + 12 C"
+        },
+        {
+          "letra": "B",
+          "texto": "7 + 4 3"
+        },
+        {
+          "letra": "C",
+          "texto": "19 3"
+        },
+        {
+          "letra": "D",
+          "texto": "11 3 A B RESPUESTAS"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Desafío n°4_p6_img1.jpg"
+      ]
+    }
+  ]
+}

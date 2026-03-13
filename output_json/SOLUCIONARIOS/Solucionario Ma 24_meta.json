@@ -1,0 +1,104 @@
+{
+  "filename": "Solucionario Ma 24.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/SOLUCIONARIOS/Solucionario Ma 24.pdf",
+  "num_paginas": 12,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T16:01:25.699894",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemáticas  \nMaterial: MA-27 \n \n\n \n \n \n \n \n \n \n\nCUADERNO DE EJERCICIOS N° 24 \n\nFUNCIONES \n\n \n \n \n \n \n \n1. \n¿Cuál(es) de  los siguientes gráficos representa(n) una función en el intervalo \n]a, b[? \n\n \n\nsi\nNO\nsi\n\nI) \n \n \n \nII) \n \n \n \nIII) \n \n \n \n \n \n \n \n \n \n\ny \n\ny \n\ny \n\n•;\n\" \"\nI\n\nx \na \n\n \nb \na \n\nx \n\nb \na \n\nb \n\nA) Solo I y II \nB) Solo I y III \nC) Solo II y III \nD) I, II y III \n\n \n\n \n\n \n\n2. \nLa figura adjunta, muestra el gráfico de una función y = f(x), definida en los reales. \n¿Cuál es el valor de [f(-3) + f(6) – f(-6)] · f(0)? \n\n \n \n \nA)  -3 \nB) 18 \nC)   6 \nD)   0 \n\n-\nen\n-\n-\n[11-3--5]\n\n. 2\n\ny \n\n4 \n\n= [ 9\n\n• 2\n3\n\n1 \n2 \n3 \n\n2\n=\n18\n1\n\n \n \n \n \n \n \n \n \n \n\nx \n-6 -5 \n5 6 \n\n1 \n2 3 4 \n-1 \n-2 \n-3 \n-4 \n\n-7 \n\n-6\n-3\nO\n6\n\n \n-1 \n\n-2 \n-3 \n-4 \n-5 \n-6 \n\n-§\n",
+      "cantidad_caracteres": 748,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 45.138671875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 2.974609375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 17.2431640625
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "3. \nDe acuerdo al gráfico de la función h(x) de la figura adjunta, se puede afirmar que \n \n \n\nI) \nLa función es creciente en [-2,4]. \nII) \nDom h = [-2,4] \nIII) \nRec h = [-2,3] \n \n \nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \n\ny \n\nh(x) \n\n3 \n\n2 \n\n \n\nI)\nFalso\n.\nEn [-1,2]\nes constante\n\n1 \n\nE) Verdadero\n\nx \n3 \n2 \n1 \n-1 \n-2 \n\n-1 \n4 \n\nE) Verdadero\n\n \n \n \n \n \n4. \nSi f(x) = 3x – 8,  y   g(x) = x2 – 2, entonces f(g(2)) es \n \n \n\n-2 \n\nf-(GH)\n= f- ( (42-2)=-112 )\n\nA)  2 \nB) -2 \nC) 10 \nD) -14 \n\n- 8\n\n=\n3-(2)\n\n=\n6-8\n= -2\n\n \n \n \n \n5. \nSi f(x) = x2 – 1   y   g(x) = 2x + 1, entonces f(g(x)) es igual a \n\n \n \nA) 4x2 + 4x \nB) 4x2 – 4x \nC) 2x2 – 1 \nD) 4x2 \n \n \n \n \n\nf- ( get )\n= ( g# -\n1\n\n= (2×+112-1\n\n= 4×2+4×+1 -1\n\n=\n4×2+4 ✗\n\n6.  \nSi f(x) = x   y   g(x) = 3, ¿cuál es el valor de g(x + 3)  g(x)\n\n\n\n? \n\nf(x + 3)  f(x)\n\n- GH)\n\n \n \n\n• Siga\n/=3 sglxt3) =3\n\ny (✗+3 )\n\n, luego\n\n=\n3-3\n'\n\nA) 3 \nB) 2 \nC) 1 \nD) 0 \n \n \n \n \n \n \n\n- fcxl\n✗+3\n- ×\n(fenaoíanstanle)\n\nf- (✗1-3 )\n\n=\nO\n\n•\nSi flx)\n\n= ✗\n> f-(✗+3)\n",
+      "cantidad_caracteres": 1038,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "7.  \nSea f(x) = x + 3  y  g(x) = x – 2, el gráfico que mejor representa f(g(x)) es \n \n \n\ny \n\ny \n\ny \n\nA) \n \n \n \nB) \n \n \n \nC) \n \n \n \n \n \n \n \n \n \n \nD) \n \n \n \n  \n \n \n \n \n \n \n \n8. \nSea f una función, con dominio el conjunto de los números reales, definida por  \nf(x) = (x – 5)3 + 3. Si g, h, k, m y n son funciones, todas con dominio el conjunto de \nlos números reales, ¿con cuál de las siguientes traslaciones se obtiene la gráfica de f ? \n \n \n\n3 \n\n3 \n\n1 \n\nx \n-1 \n-2 \n\n2 \n\n-3 \nf-( gas) =/ JCH /\n1-3\n\nx \n\nx \n\n-2 \n\n2 \n\n-2 \n\n=/ ✗-21 1-3\n\ny \n\n3 \n\na la\n\nque equivale\n\nfnuuiú y =/×/ desplazada\n\nx \n\n3 unidades ↑\n\n2 \n\n2 unidades\n> y\n\nA) Trasladar la gráfica de g(x) = x3 + 3, cinco unidades horizontalmente hacia la \n\nizquierda. \nB) Trasladar la gráfica de h(x) = (x – 2)3 + 3, tres unidades horizontalmente hacia la \n\nizquierda. \nC) Trasladar la gráfica de m(x) = x3, cinco unidades horizontalmente hacia la izquierda \n\ny tres unidades verticalmente hacia arriba. \nD) Trasladar la gráfica de k(x) = (x – 5)3 ",
+      "cantidad_caracteres": 1825,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": "10.  Sea f(x) = x + 2, entonces la gráfica de la función g que es simétrica a f(x) con \n\nrespecto al eje y es  \n \n \n\ny \n\ny \n\ny \n\nA)  \nB) \n \n \n \nC) \n \n\n2 \n\n2 \n\n2 \n\n \n \n \n \n \n \n \n \n \n \nD)  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n11.  Sabiendo que los puntos (2, -3) y (6, -1) pertenecen a la gráfica de la función  \n\n1 \n\n1 \n\n1 \n\nx \n\nx \n\nx \n\n1 2 3 \n-1 \n-2 \n\n1 2 3 \n-1 \n-2 \n\n1 2 3 \n-1 \n-2 \n\n-2 \n\n-2 \n\n-2 \n\n= xtz\nsu simétrica cfr\nel ge\ny\nes\n\nPara fcxl\n\n,\nque está representada\n\ny \n\nen\nA)\n\nf ( ×)\n\n=\n- ✗+2\n\n2 \n\n1 \n\nx \n\n1 2 3 \n-1 \n-2 \n\n-2 \n\nf : lR  lR, definida por f(x) = ax + b, ¿cuál es el valor de b – a? \n \n\n↓\nf- (2)\n= 2a tb =-3\ny f (6) = 6a tb\n= -1\n\nA) \n7\n2\n\n \n\nB) \n9\n4\n\n \n\n2a tb\n=\n- 3\n\n6 a + b\n= -1\ndonde\n4a = 2\n\nC) \n9\n2\n\n \n\na = % y\n\nb\n= -4\n\ni.\nb- a\n=\n- 4-12\n\nD) - 3  \n \n \n \n\n-E\n\n=\n\n12. Sea g: lR  lR, definida por \nx\ng(x) = \n  5\n3 \n. Con respecto a la función g(x), ¿cuál(es) de \n\nlas siguientes afirmaciones es (son) verdadera(s)? \n \n\nV\n\nI) \nLa función es creciente. \nII) \nEl dominio de la función es ",
+      "cantidad_caracteres": 1208,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": "13. Un botánico mide el crecimiento de una planta todos los días. Uniendo los puntos \n\ncolocados por él en un gráfico, se obtuvo la figura adjunta. Suponiendo que las \ncondiciones se mantienen y, por tanto, también se mantiene el ritmo de crecimiento de \nla planta, ¿cuál será la altura de esta planta al cabo de 30 días? \n \n \n\nSe trata\nde\nuna\n\nA) 3 cm \nB) 5 cm \nC) 6 cm \nD) 8 cm \n \n \n \n \n \n \n \n \n \n14. En un cuadrado, la mitad de la medida de la diagonal es p. ¿Cuál de las siguientes \n\nAltura \n(cm) \n\nfunción lineal\n:\n\nA (d)\n=\nd\n\n2 -- \n\n5\n\n1 \n\n= ¥\n\nA (30)\n\n5 \n10 \n\nTiempo (días) \n\n= 6\n\nfunciones describe el perímetro del cuadrado en función de p?  \n \n\nLE\n= zp\nL = zp = 2PM\n= pra\n⇒\nL\n\nA) f(p) = 4 2 p \n\nB) g(p) = 2 2 p \n\nC) h(p) = 2 p \nD) r(p) = 4p \nE) q(p) = 2p \n \n\n2\n\nV2\n\nEL perímetro\nes\n4L\n=\n4 prz\n\n=flp)\n\n(Fuente: DEMRE. Publicación 2018) \n\nL\n\n \n \n \n \n \n15. Un técnico cobra un cargo fijo de $ 17.000 más $ 1.500 por hora de trabajo. ¿Cuál de \n\nlas siguientes funciones modela el cobro, en peso",
+      "cantidad_caracteres": 1232,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": "16. Se pone a hervir agua que inicialmente estaba a una temperatura de 10 °C. Si su \n\ntemperatura sube uniformemente durante los primeros 7 minutos hasta alcanzar los \n100 °C, estabilizándose la temperatura después de este tiempo, ¿cuál de los siguientes \ngráficos representa mejor este fenómeno? \n \n\nA) \nB) \nC)  \n\nTemperatura (°C) \n\nTemperatura (°C) \n\nTemperatura (°C) \n\n100 \n\n100 \n\n100 \n\n10 \n\n10 \n\n10 \n\n0 \n7 \nMinutos \n\n0 \n7 \nMinutos \n\n0 \n7 \nMinutos \n\nD) \nE) \n\nTE )\n\n|\n\nTemperatura (°C) \n\nTemperatura (°C) \n\nmin\n\nO\n10\n\n100 \n\n100 \n\n7\n100\n\ny para t ≥7\n\n1-\n= 100\n\n,\n\n10 \n\n10 \n\n0 \n7 \nMinutos \n\n0 \n7 \nMinutos \n\n \n(Fuente: DEMRE. Publicación 2011) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n6 \n \n",
+      "cantidad_caracteres": 688,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "17. En la figura adjunta se muestran las gráficas de tres funciones f, g y h que representan \n\nel \ncosto \ncorrespondiente \na \nkilogramos \nde \nperas, \nplátanos \ny \nmanzanas, \nrespectivamente. ¿Cuál de las siguientes afirmaciones es FALSA, en relación a la \ninformación entregada en el gráfico? \n \n\nA) El kilogramo de plátanos es más caro que el kilogramo de manzanas. \nB) 2 kg de peras tienen el mismo costo que 3 kg de manzanas. \nC) Con $ 1.200 es posible comprar 5 kg de fruta. \nD) Con $ 1.000 se puede comprar 1 kg de manzanas y 1 kg de peras. \nE) El costo total de 2 kg de cada fruta son $ 3.000. \n \n\nmanzana\n> $400\n\nh :\n1kg\n\n \n \n \n \n \n \n \n \n \n \n \n \n\n> $600\n\n:\n1kg pero\n\nf-\n\n> $1000\n( 1kg plátano $500)\n:\nc)\nNo\nes posible\n\n: 2kg plátanos\n\n•\ng\n\n.\n\n \n\n(Fuente: DEMRE. Publicación  2015) \n \n \n \n \n18. Un modelo para la temperatura T, en grados Celsius (°C), de un líquido recién vertido \n\nen un recipiente está dado por T(t) = 90 – 10t, donde t es el tiempo transcurrido en \nminutos, desde el instant",
+      "cantidad_caracteres": 1517,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.033203125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "19. La tarifa de cierta compañía de telefonía consta de un cargo fijo mensual de $ 9.000 \n\nmás un cargo de $ 50 por minuto que se habla. Si durante los primeros 240 minutos \nesta tarifa se modela mediante una función de la forma f(x) = mx + n, ¿cuál de las \nsiguientes gráficas representa mejor a la gráfica de f? \n \n \n \nA) \n \n \n \n \n \nB) \n \n \n \n \n \n \n \n \n \n \nC) \n \n \n \n \n \nD) \n \n \n \n \n \n \n \n \n \n \n \nE) \n \n \n \n \n \n \n \n \n \n\nf(x) \n\nf(x) \n\n9.000 \n\n240 \n\n240 \nx \n9.000 \n\nx \n\nf(x) \n\nf(x) \n\n9.000 \n\n50 \n\n240 \nx \n\n240 \n\nx \n\nf(x) \n\nf- (X)\n= 900o 1- 50 ✗\n\n9.000 \n\nque está representada en\nA)\n\nx \n\n240 \n\n(Fuente: DEMRE. Publicación  2020) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n8 \n \n",
+      "cantidad_caracteres": 666,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "texto": "20. La recta de la figura adjunta modela el precio del azúcar en función de la masa del \n\nazúcar. El precio de 2 kg de azúcar es igual al de 3 kg de harina. \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n2º\n1º\nComo\n2kg azúcar(a)\n= 3kg Harina G)\nSi\na :\nmasa azúcar\n600\n=\n3 ✗\n\nPrecio \n($) \n\n3.000 \n\nP (a)\n= 300a⇔→\n200 = ×\n\n1.500 \n\n. h(X) =\n200 ✗\n↓\n\n°\n\n◦\n\nP(2)\n\n= 300.2=600\n\n(Azúcar)\n\n5 \n10 \n\nMasa (kg) \n\nSi la relación entre el precio de la harina y su masa se modela por una función lineal, \n¿cuál de las siguientes funciones permite determinar el precio de x kg de harina? \n \n \n\nA) f(x)  = 100x \nB) g(x) = 500x \nC) h(x) = 200x \nD) m(x) = 300x \nE) j(x)   = 450x \n\n \n(Fuente: DEMRE. Publicación 2019) \n \n \n21. Si M(x) = x – [x] es la función mantisa, que hace corresponder a cada número el \n\nmismo número menos el valor de su parte entera. La parte entera de un número x es \nel mayor número entero menor que x, es decir [2,9] es 2 y [-3,1] es -4. ¿Cuál es el \nvalor de M(8,75) + M(-3,75)? \n \n \nA)  7 \nB)  1 \nC)  0,5 \nD) -",
+      "cantidad_caracteres": 1422,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "texto": "23. Una fórmula para expresar la masa ideal de una persona adulta en función de su altura \n\nes la siguiente: \n\nh\n150\nM\n(h\n100)\nk\n\n\n\n\n \n\n \ndonde M es la masa ideal en kilógramos, h es la altura en centímetros, k = 2 para \nmujeres y k = 4 para hombres. \n \nSi se sabe que Verónica pesa 54 kg y por tanto su masa es 3 kg inferior a la masa \nideal, Bastián pesa 2 kg más que Javiera, pero ambos tienen masa ideal e igual altura, \nentonces ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) VERDADERO\n⊖\n57=1-100\nh-150\nF\n¿\n114\n= 2hr -200 - hv +150\n\nI) \nLa altura de Verónica es igual a 1,64 m. \nII) \nLa masa de Bastián es igual a 50 kg. \nIII) \nVerónica mide 14 cm más que Javiera. \n \nA) Solo I \nB) Solo II \nC) Solo I y III \nD) I, II y III \n \n \n \n \n \n24. Una función h, cuyo dominio son los números naturales, verifica la propiedad  \n\n164cm =L\n(E) Verdadero\nE) Falso .\n\n= MJ\ny HB\n= HJ\n\n,\nentonces\n:\n\nM£-2\n\n_ z\n= h -100\n- h-150/4\n4\n2\n41h\n\n- 150\n\nh-100\n- h\n\n-40th +150-8=4/1-4/00\n- 2h",
+      "cantidad_caracteres": 1705,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "texto": "THKFTH\n\n:\n\n26. Si f es una función par, tal que f(5) = 9, entonces -f(-5) es \n\n \nA)  9  \nB) -9  \nC)  5  \nD) -5  \n \n \n27. ¿Cuál de las siguientes funciones es impar? \n\n¡ ( PAR)\nfl\n\n- 5)\n= 9\n-1\nft\n\n- 5)\n=\nq\n\nf- 1×1 =\nf- (\nX )\n\n↑\n\n \nA) f(x) =   x3 + 1  \nB) f(x) =   x2 – 1  \nC) f(x) =   x  \nD) f(x) =   x3 + 2  \n \n \n28. ¿Cuál de los siguientes gráficos representa una función par? \n \n \nA) \nB) \nC) \n \n \n \n \n \n \n \n \n\nEn c) flx )\n= ✗\n°\n\n/\n\n-\n- ✗\nes impar\n\n, luego tal\n\n=\n(a)\n= ✗\n<\n\nf- (X )\n\ny \n\ny \ny \n\n-\n\nx \n\nx \n\nx \n\nde una función\n\nla gráfica\n\nes simétrica\ncon respecto al\n\nD) \n \n \n \n \n \n \n \n \n \n \n \n \n29. Una empresa de mantención de equipos eléctricos cobra un costo fijo mensual de \n\ny \n\npar\n\nY\n\nge\n\nx \n\n$200.000 y $5.000 por cada visita que su técnico realice en el mes. Si una fábrica \ncontrata los servicios de esta empresa, ¿cuál de las siguientes funciones modela el \ncobro total, en pesos, del servicio para x visitas en el mes? \n \n\nrívisimtosel\n\n→\n\n9\nf- (☒=\n200.000\nt\n5000\n\n- ✗\nJE\nJE\n\nA) f(x) = ",
+      "cantidad_caracteres": 1190,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "texto": "30. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s), con respecto a la \n\nfunción f definida por f(x) = x2 – 8, para x\n8\n\n? \n \n\nI) \nModela el área de un rectángulo de lados (x – \n8 ) cm y (x + \n8 ) cm. \n\nII) \nModela el área de un cuadrado de lado (x – \n8 ) cm. \n\nIII) \nModela el área que queda al restar el área de un cuadrado de lado \n8  cm \nal área de un cuadrado mayor de lado x cm. \n \n\n, 1×-811×+8 )\n= Í-8\n= flx)\nI)\nFalso\n\nI) Verdadera\n\nA) Solo II \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n \n\n-V8¡ = Í - 2x\nsi\n+ 8 t TH)\n\n, Y\n\n,\n✗2- (TE)? í -8=1-1×1\n\nII)\nVerdadero\n\n(Fuente: DEMRE. Publicación 2019) \n \n \n \n \n \n \n \n \n\nRESPUESTAS \n \n\n1.   \nB \n7.   \nA \n13. \nC \n19. \nA \n25. \nC \n2.   \nB \n8.   \nD \n14. \nA \n20. \nC \n26. \nB \n3.   \nD \n9.   \nE \n15. \nD \n21. \nB \n27. \nC \n4.   \nB \n10. \nA \n16. \nE \n22. \nD \n28. \nC \n5.   \nA \n11. \nC \n17. \nC \n23. \nA \n29. \nD \n6.   \nD \n12. \nB \n18. \nE \n24. \nB \n30. \nC \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMA-27 \n\n \n \n \n\nPuedes complementar los cont",
+      "cantidad_caracteres": 1083,
+      "imagenes": []
+    }
+  ]
+}

@@ -1,0 +1,934 @@
+{
+  "filename": "Ma 18.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 18.pdf",
+  "num_paginas": 12,
+  "titulo": "EJERCICIOS",
+  "autor": "Diego Lobos Moraga",
+  "fecha_procesamiento": "2026-03-07T16:01:19.310030",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemáticas  \nMaterial : MA-20 \n \n\n \n \n \n \n \n \n \n \n \n \n1. \nAl aplicar una rotación de centro O y ángulo de giro de 90º a la figura adjunta, se \nobtiene \n \n \n \n \n \n \n\nCUADERNO DE EJERCICIOS N° 18 \n\nISOMETRÍAS \n\nO \n\nA) \nB) \nC) \nD) \nE)   \n \n                                                \n \n \n \n \n \n \n \n \n2. \nMediante una simetría central con respecto a O, la figura sombreada se reflejó en la \nfigura no sombreada. Esto no es cierto en  \n \n \n \n \n\nA) \nB) \nC) \nD) \nE) \n \n \n \n \n \n \n \n \n \n\nO \nO \nO \nO \nO \n",
+      "cantidad_caracteres": 500,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.3955078125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1494140625
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 42.5595703125
+        },
+        {
+          "index": 4,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "3. \n¿Qué figura se obtiene al aplicar una rotación de centro O y un ángulo de giro de 90º a \nla figura adjunta? \n   \n \n \n \n \n \n \n\nO \n\nA) \n \n \n \nB) \n \n \n \nC) \n \n \n \n \n \n \n\nD) \n \n \n \nE) \n \n \n \n \n \n \n4. \nAl cuadrado PQRS de la figura adjunta, con dos lados paralelos al eje x y centro en el \norigen O del sistema de ejes coordenados, se le aplica una o varias rotaciones en 90° \nalrededor del origen y/o reflexiones con respecto al eje x. ¿En cuál de las siguientes \nopciones la figura NO puede ser la imagen de PQRS después de aplicar una o varias de \nestas transformaciones isométricas? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nR \nS \n\nO \n\nx \n\nP \nQ \n\ny \n\ny \n\ny \n\nC) \n\nB) \n\nA) \n\nR \n\nS \n\nS \n\nP \n\nR \n\nP \n\nO \n\nO \n\nO \n\nx \n\nx \n\nx \n\nQ \n\nR \n\nP \n\nQ \n\nQ \n\nS \n\ny \n\ny \n\nD) \n\nE) \n\nQ \n\nP \n\nQ \n\nR \n\nO \n\nO \n\nx \n\nx \n\nR \n\nP \n\nS \n\nS \n\n \n \n(Fuente: DEMRE, publicación 2013) \n\n2 \n \n",
+      "cantidad_caracteres": 868,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.1494140625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1572265625
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1572265625
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.1494140625
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.1572265625
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.208984375
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.1572265625
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.1572265625
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.1494140625
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.1494140625
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.20703125
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.208984375
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.1953125
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.1494140625
+        },
+        {
+          "index": 14,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "5. \nAl punto (2, -3) se aplica una traslación obteniéndose el punto (8, -7). Si al punto (-2, 5) \nse aplica la misma traslación, entonces se obtiene el punto \n\n \n \nA) (-4, 1) \nB) (1, 4) \nC) (-1, 4) \nD) (-1, -4) \nE) (4, 1) \n \n \n \n \n \n \n \n \n \n6. \nEn la figura adjunta, la circunferencia de centro T se traslada según un vector a la \ncircunferencia punteada de centro P. ¿Cuáles son las coordenadas del vector traslación? \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\n2 \n\nP \n\n-7 \n\n-5 \nT\n\nx \n\n-1 \n\nA) (2, 3) \nB) (-2, 3) \nC) (-12, 1) \nD) (2, -3) \n\n \n \n \n\n \n \n(Fuente: DEMRE. Publicación 2013) \n \n\n3 \n \n",
+      "cantidad_caracteres": 583,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.171875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.169921875
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.1298828125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.1328125
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.1328125
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.150390625
+        },
+        {
+          "index": 7,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "7. \nEl lado de cada cuadradito de la cuadrícula de la figura adjunta, mide 1 unidad. El \ncuadrilátero PQRT se traslada según el vector v , obteniéndose el cuadrilátero P’Q’R’T’, \ndonde P’ es el homólogo de P y Q’ es el homólogo de Q. Si los cuadraditos de las \ncuadrículas de cada alternativa son de lado 1 unidad, ¿cuál de los siguientes vectores \nrepresentados en las alternativas es el vector v ? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nT \n\nP \n\nR \n\nQ \n\nT’ \n\nP’ \n\nR’ \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nQ’ \n\nx \n\nA)  \n \n \n \n \n \nB) \n \n \n \n \n \n \n \n \n \n \nC)  \n \n \n \n \n \nD) \n \n \n \n \n \n \n \n \n \n \n\ny \n\ny \n\nx \n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\nx \n\ny \n\ny \n\n \n \n \n\nx \n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\nx \n\nE) \n \n \n \n \n \n \n \n \n\ny \n\n \n \n \n\nx \n\n \n \n \n\n \n \n \n\n4 \n \n",
+      "cantidad_caracteres": 868,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.5791015625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.20703125
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.599609375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.20703125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.599609375
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.5791015625
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.60546875
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.20703125
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 1.560546875
+        },
+        {
+          "index": 9,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 10,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "8. \n¿Cuál de las siguientes afirmaciones es siempre verdadera? \n \n\nA) El triángulo tiene tres ejes de simetría \nB) El rectángulo tiene cuatro ejes de simetría \nC) La circunferencia tiene solo dos ejes de simetría \nD) El trapecio isósceles tiene un eje de simetría \nE) El cuadrado tiene solo dos ejes de simetría \n\n(Fuente: DEMRE. Publicación 2010) \n \n \n \n9. \nEl cuadrado ABCD de la figura adjunta ha sido transformado, mediante un vector \ntraslación, en el cuadrado achurado. ¿Cuál(es) de las siguientes afirmaciones es (son)  \nverdadera(s)?  \n \n \n\n \n \n \n \n \ny \n \n \n \n \n \n\n \n \n \n \n \n 4 \n \n \n \n \n\nC \n\nD \n\nI) \nEl vector traslación fue T(2, 0). \nII) \nLos puntos B y C permanecen  \ninvariantes. \nIII) \nEl área del cuadrado permanece \nconstante. \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n2  \n \n \n \n\nA \n\nB \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n   x \n \n \n \n \n \n \n \n \n \n \n \n\n-2 \n2 \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n \n \n10. En el plano ca",
+      "cantidad_caracteres": 1975,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 1.9013671875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1982421875
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.1474609375
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.1953125
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 1.921875
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.1845703125
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.1845703125
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.185546875
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.18359375
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.1845703125
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.142578125
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.142578125
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.21875
+        },
+        {
+          "index": 14,
+          "tipo": 4,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 15,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 16,
+          "tipo": 4,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 17,
+          "tipo": 4,
+          "tamanio_kb": 0.1845703125
+        },
+        {
+          "index": 18,
+          "tipo": 4,
+          "tamanio_kb": 0.1865234375
+        },
+        {
+          "index": 19,
+          "tipo": 4,
+          "tamanio_kb": 0.1494140625
+        },
+        {
+          "index": 20,
+          "tipo": 4,
+          "tamanio_kb": 0.1484375
+        },
+        {
+          "index": 21,
+          "tipo": 4,
+          "tamanio_kb": 0.140625
+        },
+        {
+          "index": 22,
+          "tipo": 4,
+          "tamanio_kb": 0.099609375
+        },
+        {
+          "index": 23,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "12. Luego de aplicar la rotación R(0,-90º) al triángulo equilátero ABC de la figura adjunta, \n\nse transforma en el A’B’C’, cuyo vértice C’ tiene coordenadas \n \n \n\ny \n\nA) (\n3 , 0)  \n\nC \n\n\n\n\n\n\n\n\n\n\nB) \n3, 0\n2\n\n \n\n-2 \n-1 \n1 \n2 \nA \nB \n\nC) (0, \n3 ) \nD) (2, 0) \n \n \n \n13. En una simetría axial, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\n0 \n\nx \n\nI) \nLas figuras cambian de sentido respecto al giro de las manecillas del reloj. \nII) \nEs posible superponer mediante la traslación y/o rotación las figuras. \nIII) \nLas figuras obtenidas son congruentes. \n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo I y III \nE) I, II y III \n \n \n14. Mediante una rotación de centro O  y ángulo  de 90º (en cualquier sentido), el ABC \n\nocupa la posición A’ B’ C’. Esto NO se cumple en \n \n\nA)                                       B) \n \n \n \n      C) \n \n \n \n \n \n \n \n \n \n \n \n                           D)                                                E) \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n ",
+      "cantidad_caracteres": 1866,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.1494140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.1279296875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 1.44921875
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.1962890625
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.197265625
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.1875
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.1806640625
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 1.6005859375
+        },
+        {
+          "index": 8,
+          "tipo": 3,
+          "tamanio_kb": 0.189453125
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.21875
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.2197265625
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.146484375
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.2001953125
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.1826171875
+        },
+        {
+          "index": 14,
+          "tipo": 4,
+          "tamanio_kb": 1.46484375
+        },
+        {
+          "index": 15,
+          "tipo": 4,
+          "tamanio_kb": 0.1875
+        },
+        {
+          "index": 16,
+          "tipo": 4,
+          "tamanio_kb": 0.1728515625
+        },
+        {
+          "index": 17,
+          "tipo": 4,
+          "tamanio_kb": 0.15234375
+        },
+        {
+          "index": 18,
+          "tipo": 4,
+          "tamanio_kb": 0.18359375
+        },
+        {
+          "index": 19,
+          "tipo": 4,
+          "tamanio_kb": 0.1923828125
+        },
+        {
+          "index": 20,
+          "tipo": 4,
+          "tamanio_kb": 0.197265625
+        },
+        {
+          "index": 21,
+          "tipo": 4,
+          "tamanio_kb": 0.138671875
+        },
+        {
+          "index": 22,
+          "tipo": 4,
+          "tamanio_kb": 1.46484375
+        },
+        {
+          "index": 23,
+          "tipo": 4,
+          "tamanio_kb": 0.169921875
+        },
+        {
+          "index": 24,
+          "tipo": 4,
+          "tamanio_kb": 0.1865234375
+        },
+        {
+          "index": 25,
+          "tipo": 4,
+          "tamanio_kb": 0.1708984375
+        },
+        {
+          "index": 26,
+          "tipo": 4,
+          "tamanio_kb": 0.140625
+        },
+        {
+          "index": 27,
+          "tipo": 4,
+          "tamanio_kb": 1.4609375
+        },
+        {
+          "index": 28,
+          "tipo": 4,
+          "tamanio_kb": 0.138671875
+        },
+        {
+          "index": 29,
+          "tipo": 4,
+          "tamanio_kb": 0.19921875
+        },
+        {
+          "index": 30,
+          "tipo": 4,
+          "tamanio_kb": 0.1728515625
+        },
+        {
+          "index": 31,
+          "tipo": 4,
+          "tamanio_kb": 0.2001953125
+        },
+        {
+          "index": 32,
+          "tipo": 4,
+          "tamanio_kb": 0.189453125
+        },
+        {
+          "index": 33,
+          "tipo": 4,
+          "tamanio_kb": 0.1904296875
+        },
+        {
+          "index": 34,
+          "tipo": 4,
+          "tamanio_kb": 0.1455078125
+        },
+        {
+          "index": 35,
+          "tipo": 4,
+          "tamanio_kb": 0.146484375
+        },
+        {
+          "index": 36,
+          "tipo": 4,
+          "tamanio_kb": 0.146484375
+        },
+        {
+          "index": 37,
+          "tipo": 4,
+          "tamanio_kb": 0.1455078125
+        },
+        {
+          "index": 38,
+          "tipo": 4,
+          "tamanio_kb": 0.1455078125
+        },
+        {
+          "index": 39,
+          "tipo": 4,
+          "tamanio_kb": 0.1875
+        },
+        {
+          "index": 40,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "15. En la figura adjunta, al aplicar al triángulo ABC una simetría puntual con respecto al \n\norigen, se obtiene el triángulo A’B’C’. ¿Cuál(es) de las siguientes transformaciones \nisométricas aplicada(s) al triángulo A’B’C’, permite(n) obtener el triángulo ABC como \nimagen? \n \n \n \n \n \n \n \n \n \n \n\ny \n\nC \n\n3 \n\nA \n\n2 \n\n1 \n\nB \n\n1 \n3 \n5 \n\nx \n\nI) \nUna reflexión con respecto al eje y, seguida de una reflexión con respecto al \neje x. \nII) \nUna traslación según el vector (2, 4). \nIII) \nUna rotación en 180° con centro en el origen y en sentido antihorario. \n \n\nA) Solo III \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n \n \n\n(Fuente: DEMRE. Publicación 2018) \n \n \n \n16. En el plano cartesiano de la figura adjunta, se ha dibujado un rectángulo de vértices                 \n\nA(3, -1); B(6, -1); C(6, 1) y D(3, 1) y una recta L que bisecta al 1er y 3er cuadrantes. Si \nefectuamos una reflexión (simetría axial) de los puntos de este plano con respecto a L, \n¿cuál(es) de las siguientes a",
+      "cantidad_caracteres": 1691,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.150390625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.15234375
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.201171875
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.2021484375
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.13671875
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.146484375
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.146484375
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.146484375
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.146484375
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.169921875
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.169921875
+        },
+        {
+          "index": 13,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "17. Al romboide ABCD de la figura adjunta se le han trazado las diagonales y numerado los \n\ncuatro triángulos que se generan. ¿Cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n \n\nI) \nEl 1 es una simetría (reflexión) con centro en P del 3. \nII) \nEl 2 es una rotación  de 180º  y centro P del 4. \nIII) \nEl ABC es una simetría (reflexión) del CDA cuyo eje de simetría pasa por \n\nAC . \n \nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n \n \n \n18. En el sistema de ejes coordenados de la figura adjunta, se ha ubicado el punto P(a, b). \n\nD \nC \n\n2 \n\nP \n\n3 \n1 \n\n4 \n\nA \nB \n\n¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n\nI) \nEl simétrico de P respecto al eje x es P’(a, -b). \nII) \nEl simétrico de P respecto al origen es P’’(-a, -b). \nIII) \nEl simétrico de P con respecto a un punto en el primer cuadrante es otro \npunto en el primer cuadrante. \n \n \nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo I y III \nE) I, II y III \n \n \n",
+      "cantidad_caracteres": 1382,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.1494140625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1474609375
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.197265625
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.197265625
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.2119140625
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.197265625
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.1435546875
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.205078125
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.1767578125
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.201171875
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.15234375
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.1533203125
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.205078125
+        },
+        {
+          "index": 13,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": " \n20. Si aplicamos una simetría axial con respecto al eje x al trazo AB  de la figura adjunta, \n\nel punto A se trasforma en el punto A’ de ordenada a, y si luego aplicamos una simetría \ncentral con respecto al origen de coordenadas al trazo transformado A'B' , obtenemos \nel trazo A\"B\"  cuyo punto B” tiene abscisa b. Luego, a + b es igual a \n \n \n\ny \n\nA) -2 \nB) \n  0 \nC) -1 \nD)   1 \nE) \n  2  \n \n \n \n \n \n \n \n21. A todos los puntos del plano cartesiano (figura adjunta) se les aplica una simetría \n\nB \n\n4 \n\nA \n\n1 \n\nx \n\n-1 \n\n-3 \n\n(reflexión) con respecto al punto E de coordenadas (2,3). ¿Cuáles son las coordenadas \ndel punto  homólogo de B? \n \n\ny \n\nB \n\n \n\n7 \n\nA) (1, -1) \nB) (1, 0) \nC) (1, 3) \nD) (2, -1) \n\n6 \n\n5 \n\n4 \n\n3 \n\nA \nE \n\nC \n\n \n \n \n \n \n \n \n22.  En el plano cartesiano, ¿cuál de las siguientes transformaciones isométricas NO permite \n\n2 \n\n1 \n\nx \n\n1 \n3 \n\n2 \n4 \n\nobtener el punto (-4, 10) como imagen del punto (4, -10)? \n \n \n \n\nA) Una reflexión en torno al origen. \nB) Una traslación según el v",
+      "cantidad_caracteres": 1159,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.197265625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1591796875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.146484375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.224609375
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.1884765625
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.16015625
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.1923828125
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.1494140625
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.1923828125
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.205078125
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.2021484375
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.1435546875
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.1806640625
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.1728515625
+        },
+        {
+          "index": 14,
+          "tipo": 4,
+          "tamanio_kb": 0.2021484375
+        },
+        {
+          "index": 15,
+          "tipo": 4,
+          "tamanio_kb": 0.142578125
+        },
+        {
+          "index": 16,
+          "tipo": 4,
+          "tamanio_kb": 0.1328125
+        },
+        {
+          "index": 17,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": " \n23. Dado el cuadrilátero de vértices A(0, -5); B(5, 0); C(3, 0) y D(0, -3). ¿Cuáles de las \n\nsiguientes afirmaciones son verdaderas? \n\n \n \n\nI) \nEl cuadrilátero es un trapecio isósceles. \nII) \nTiene un único eje de simetría el cual pasa por el origen. \nIII) \nSu centro de simetría está dado por la intersección de sus diagonales. \n \n \n \n\nA) Solo I y II \nB) Solo I y III \nC) Solo II y III  \nD) I, II y III \n \n\n \n \n24. Al punto A de coordenadas (3, -3) se aplica una rotación de 90° respecto al punto B de \n\ncoordenadas (1, 1), obteniendo el punto A’. Luego, a dicho punto se aplica una simetría \naxial respecto a la recta que pasa por el punto A y el origen del sistema. Las \ncoordenadas de este nuevo punto son \n \n \n\nA) (-3, -5) \nB) (-5, -3) \nC) (-1, 3) \nD) (3, 1) \nE) (3, 3) \n\n \n \n \n \n25. Respecto al rectángulo de la figura adjunta, ¿cuáles de las siguientes afirmaciones son \n\nverdaderas?  \n \n \n\nI) \nAl realizar una simetría axial del rectángulo respecto de la recta BC y luego, \notra simetría ax",
+      "cantidad_caracteres": 1534,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.197265625
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1943359375
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1416015625
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.146484375
+        },
+        {
+          "index": 4,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "26. \nDado el triángulo equilátero ABC de la figura adjunta, donde I es el Incentro, entonces \n¿cuáles de las siguientes afirmaciones son verdaderas? \n \n\nI) \nEl punto I es el centro de simetría del ABC. \nII) \nEl triángulo BFI se obtiene al aplicar dos simetrías axiales respecto del \ncateto menor y de la hipotenusa del triángulo AEI, respectivamente. \nIII) \nAl rotar el triángulo AEI en sentido horario en 120° con respecto al punto I \ny aplicarle a la figura homóloga obtenida una simetría axial respecto de su \nhipotenusa resulta el triángulo CFI. \n \n \n\nC \n\nA) Solo I y II \nB) Solo I y III \nC) Solo II y III \nD) I, II y III \nE) Ninguna de ellas \n\nD \nF \nI \n\n \n \n \n \n27. En la figura adjunta los cuadrados ABCD y EFGH son congruentes. Se puede determinar \n\nA \nB \n\nE \n\nque el cuadrado ABCD es simétrico (reflejo) al cuadrado EFGH respecto a L, si se sabe \nque: \n \n \n\nD \n\n(1) AC  // EG  \n\n(2) AF    L \n  \n \n\nC \nA \n\nH \n\nG \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada u",
+      "cantidad_caracteres": 1499,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.205078125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1767578125
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1748046875
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.1767578125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.21484375
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.1767578125
+        },
+        {
+          "index": 6,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "29. En el sistema cartesiano de origen O. Se puede determinar las coordenadas del punto \n\nP(x,y), si se sabe que: \n\n \n \n(1) al aplicar al punto P una rotación R(0, 180º) se obtiene el punto (-4, 5). \n\n(2) al aplicar al punto P una traslación T(-2, -3) y a continuación se aplica una rotación \n\nR(0, 90º) se obtiene el punto (8, 2). \n \n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n \n30. En la figura adjunta, se cumple que ABC  A’B’C’. El A’B’C’ es una imagen de \n\nsimetría axial, con respecto a la recta L del ABC, si se sabe que:  \n \n \n\n(1) L  AA'   y  L  BB'  \n\nB \n\nP \n\nB’ \n\n(2) BP   B'P , AQ   A'Q  y CR   C'R  \n \n \n\nR \n\nC \n\nC’ \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n\nA \n\nQ \n\nA’ \n\nL \n\n \n \n\n \n \n\nRESPUESTAS \n\n \n1.   \nC \n7.   \nB \n13. \nD \n19. \nC \n25. \nC \n2.   \nE \n8.   \nD \n14. \n",
+      "cantidad_caracteres": 1321,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.1875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.2001953125
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.2001953125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.2001953125
+        },
+        {
+          "index": 5,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

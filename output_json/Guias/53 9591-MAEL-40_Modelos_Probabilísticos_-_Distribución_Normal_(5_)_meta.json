@@ -1,0 +1,495 @@
+{
+  "filename": "53 9591-MAEL-40_Modelos_Probabilísticos_-_Distribución_Normal_(5_).pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/1.Pedro De Valdivia/M2 Matematicas/Guias/Guias/53 9591-MAEL-40_Modelos_Probabilísticos_-_Distribución_Normal_(5_).pdf",
+  "num_paginas": 15,
+  "titulo": "",
+  "autor": "Sergio Martinez Martinez",
+  "fecha_procesamiento": "2026-03-07T14:52:34.267019",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemática M2  \nMaterial MAEL-40 \n\n \n \n \n \n \n \n \n \n \n \nVARIABLES ALEATORIAS CONTINUAS (VAC) \n \nSon aquellas que pueden tomar todos los valores posibles dentro de un cierto intervalo en \nlos números reales, por ejemplo, peso de los alumnos de un curso, tiempo de \nfuncionamiento de un dispositivo electrónico, cantidad de agua consumida en un mes por \nuna familia, tiempo que demora un alumno en llegar del colegio a su casa, etc. \n \n\nGUIA TEÓRICO PRÁCTICA \nMODELOS PROBABILÍSTICOS - DISTRIBUCIÓN NORMAL \n\nFUNCIÓN DE DENSIDAD DE PROBABILIDAD \n\nLa función de densidad de probabilidad es una función matemática que describe la \ndistribución de probabilidad de una variable aleatoria continua. \n\nComo la variable aleatoria continua puede tomar una gran cantidad de valores diferentes, la \nfunción de densidad no determina la probabilidad que tiene la variable de tomar un valor \nespecífico, determina la probabilidad que tiene la variable de encontrarse en un intervalo \ndeterminado de los números reales",
+      "cantidad_caracteres": 1453,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 20.1298828125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 22.6259765625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.177734375
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.142578125
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.1220703125
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.1123046875
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.1328125
+        },
+        {
+          "index": 8,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 9,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "Propiedades de la Función de Densidad de Probabilidad \n\n- \nLa función de densidad de probabilidad es no negativa: \n \nPara cualquier valor x dentro del dominio de la variable aleatoria, la función de \ndensidad f(x) debe ser siempre mayor o igual a cero (f(x) ≥ 0). Es decir, la gráfica \nde la función de densidad de probabilidad siempre estará sobre el eje x. \n \n\n- \nÁrea total bajo la curva es 1 \n \nEl área bajo la curva de la función de densidad de probabilidad sobre todo su \ndominio (desde menos infinito hasta más infinito) debe ser igual a 1. Este valor \nrepresenta la probabilidad total de que ocurra algún resultado, que será igual es 1 \n(o 100%). \n \n- \nLa probabilidad en un punto es cero \n \nEn una distribución continua, la probabilidad que la variable tome un valor exacto es \ncero, la razón de esto es porque la probabilidad se define como el área bajo la curva \nde la función en un intervalo dado, al ser un punto la amplitud del intervalo es cero. \n \n\nObservación:     Cuando la variable",
+      "cantidad_caracteres": 1716,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "DISTRIBUCIÓN NORMAL \n \nEl nombre de distribución normal es debido a que durante muchos años  se pensó que todos \nlos fenómenos de las poblaciones se ajustaban a este modelo. \n \nLa distribución normal o también llamada campana de Gauss es una distribución de valores \nque describe la frecuencia de datos, estos datos se agrupan en forma simétrica en torno a \nun valor central. \n \nEste valor central es  el punto más alto de la campana, donde se concentran la mayoría de \nlos datos, es tanto el valor más frecuente (la moda), es también el valor central (la \nmediana), y el promedio de todos los valores (la media). \n \n \n \n \n \n \n \n \n \n \n \n \nCaracterísticas: \n \n1. El área total bajo la curva es igual a la unidad. \n \n2. Es simétrica con respecto a x =  , y deja  un área igual a 0,5 a la izquierda y otra de \n\nEl gráfico  de la función de densidad de una variable \naleatoria con distribución normal es similar al \nmostrado en la figura, es decir tiene una forma \nconocida como Campana de Gauss, y es s",
+      "cantidad_caracteres": 1579,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.1259765625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "INTERVALOS DE UNA DISTRIBUCIÓN NORMAL \n \nUna población tiene media   y desviación estándar  . \n \n\n- \nSi \nX \npertenece \nal \nintervalo \n \nentonces  \n \n \n \n \n \n \n                                                                \n \n \n \n\n-       + \n\n- \nSi \nX \npertenece \nal \nintervalo \n \nentonces  \n \n \n \n \n \n \n \n \n \n \n \n\n-2           +2 \n\n- \nSi \nX \npertenece \nal \nintervalo \n \nentonces  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n-3                 +3 \n\n \n \n \n \n \n \n \n \n\nPágina 4 \n \n",
+      "cantidad_caracteres": 485,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.12890625
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.146484375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.1279296875
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.1484375
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.1279296875
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.1484375
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.1767578125
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.16796875
+        },
+        {
+          "index": 9,
+          "tipo": 4,
+          "tamanio_kb": 0.1494140625
+        },
+        {
+          "index": 10,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 11,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "DISTRIBUCIÓN NORMAL ESTANDAR \n \nLa distribución  normal  estándar  o  tipificada, es aquella que tiene media 0 y desviación \nestándar 1. Se denota por  X ~ N(0, 1) \n \nPor ser la gráfica simétrica respecto   = 0, entonces se cumple P(X  -x1)  = P(X  x1) \n \n \n \n \nGráficamente: \n \n \n \n \n \nCuando la distribución es normal estándar se puede utilizar la probabilidad de intervalos \nestudiada en distribución normal. \n \nCuando lo pedido no se ajuste a ninguno de los intervalos conocidos, se utilizarán de la tabla \nnormal tipificada, en la primera parte de la prueba PAES se incorpora la tabla de los valores \nrequeridos para solucionar los problemas requeridos. \n \nLa tabla será similar a la que se encuentra a continuación. \n \n \n \nTABLA RESUMIDA \n \n \nSi Z  N(0, 1) es una distribución normal estándar, entonces:  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \nx1 \n\n-x1 \n\nZ \nP(Z  z) \n0,99 \n0,839 \n1,00 \n0,841 \n1,15 \n0,875 \n1,24 \n0,893 \n1,28 \n0,900 \n1,50 \n0.933 \n1,64 \n0,950 \n1,96 \n0,975 \n2,17",
+      "cantidad_caracteres": 1022,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.12109375
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1123046875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1240234375
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.1220703125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.1240234375
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.125
+        },
+        {
+          "index": 6,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 7,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": " \nOBSERVACIÓN: Para determinar la probabilidad de una variable aleatoria de distribución \nnormal estándar de un valor que no se encuentre en esta tabla, se utiliza la siguiente tabla \nde distribución normal tipificada. \n\n \nTABLA DE DISTRIBUCIÓN NORMAL ESTANDAR  \n\n \n \n\n \n \n \n\nx\n0,00\n0,01\n0,02\n0,03\n0,04\n0,05\n0,06\n0,07\n0,08\n0,09\n0,0\n0,50000\n0,50399\n0,50798\n0,51197\n0,51595\n0,51994\n0,52392\n0,52790\n0,53188\n0,53586\n0,1\n0,53983\n0,54380\n0,54776\n0,55172\n0,55567\n0,55962\n0,56356\n0,56749\n0,57142\n0,57535\n0,2\n0,57926\n0,58317\n0,58706\n0,59095\n0,59483\n0,59871\n0,60257\n0,60642\n0,61026\n0,61409\n0,3\n0,61791\n0,62172\n0,62552\n0,62930\n0,63307\n0,63683\n0,64058\n0,64431\n0,64803\n0,65173\n0,4\n0,65542\n0,65910\n0,66276\n0,66640\n0,67003\n0,67364\n0,67724\n0,68082\n0,68439\n0,68793\n0,5\n0,69146\n0,69497\n0,69847\n0,70194\n0,70540\n0,70884\n0,71226\n0,71566\n0,71904\n0,72240\n0,6\n0,72575\n0,72907\n0,73237\n0,73565\n0,73891\n0,74215\n0,74537\n0,74857\n0,75175\n0,75490\n0,7\n0,75804\n0,76115\n0,76424\n0,76730\n0,77035\n0,77337\n0,77637\n0,77935\n0,78230\n0,78524\n",
+      "cantidad_caracteres": 3910,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.1396484375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.16796875
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 0.1591796875
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 4,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": " \nEJEMPLO \nLa variable continua X definida como X ~ N(0, 1), entonces P(X < 0,93) = \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \nESTANDARIZACIÓN DE UNA VARIABLE ALEATORIA DE   \nDISTRIBUCIÓN NORMAL \n \n \nPara poder utilizar la tabla para encontrar la probabilidad P(X < xi) en una distribución \nnormal, no estándar, es necesario estandarizar la variable. \n \nSi X es una variable que tiene distribución normal con media  y desviación estándar ,  es \n\nP(X < 0,93) = 0,82381 \n\n \n\ndecir X ~ N( , ), se define una nueva variable aleatoria Z de la forma: Z = \n\n\nX  \n, que \n\ntiene una distribución normal estándar, es decir  Z ~ N(0 , 1). \n \nEntonces la probabilidad en términos de la variable X puede calcularse en términos de Z, de \nla siguiente manera. \n \n\nP(X  x) = P\n\n\n\n\n\n\n\n\n\nX  \nZ  \n \n\n  \n \n \n \n \n \n \n \n \n \n \n \n \n\nPágina 7 \n \n",
+      "cantidad_caracteres": 830,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.7958984375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 101.5400390625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "EJEMPLO \n \nLas notas de 40 alumnos que rindieron examen de admisión en un colegio para ocupar las \nvacantes en el 1º medio tienen una distribución definida por  X ~ N(5,1; 1,2). \n¿Cuál es la probabilidad de que sean aceptados con nota superior a 6? \n \n \nSolución: P(X > 6) \n= 1 – P (X ≤ 6) \n \n\nZ \nP(Z  z) \n0,75 \n0,773 \n1,00 \n0,841 \n1,15 \n0,875 \n1,24 \n0,893 \n1,28 \n0,900 \n1,50 \n0,933 \n1,64 \n0,950 \n1,96 \n0,975 \n2,00 \n0,977 \n2,17 \n0,985 \n\n= 1 – P\n\n\n\n\n\n\n\n\n\n6  5,1\nZ  \n1,2\n \n\n= 1 – P( Z ≤ 0,75) \n \n= 1 – 0,773 \n \n\n= 0,227  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nPágina 8 \n \n",
+      "cantidad_caracteres": 614,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "EJERCICIOS \n \n\n 0     ; si x < 0\n\n\n\n\n\n\n\n\n\n1\n \nx   ; si 0  x  2\n2\n 0     ; si x > 2\n\n1. \nLa función densidad de probabilidad está dada por f(x) = \n\n \n\n \n\n¿Cuál es el valor para P(X < 0,75)? \n\n \n\nA) \n3\n8  \n\nB) \n9\n64  \n\nC) \n9\n32  \n\nD) \n3\n32  \n\n \n \n \n \n2. \nSi X es una variable aleatoria continua con distribución normal estándar, entonces ¿cuál \nde las siguientes afirmaciones es incorrecta? \n\n \nA) P(X > x1) = P(X < -x1) \nB) P(X > x1) = 1 – P(X < x1) \nC) P(X = x1) = 0 \nD) P(X ≤ x1) > P(X < x1)    \n\n \n \n \n \n3. \nLos resultados de los estudiantes en un examen final siguen una distribución normal, \ncon una media de 75 puntos y una desviación estándar de 16 puntos. ¿Cuál es la \nprobabilidad de que un estudiante obtenga una calificación superior a 70 puntos? \n\n \nA) 28% \nB) 31% \nC) 69% \nD) 62%   \n \n\n \n \n4. \nEn una distribución normal estándar si P(X ≤ -a) = m, entonces P(X ≥ a) = \n\n \nA) -m \nB) m   \nC) m – 1 \nD) 1 – m \nE) Falta información. \n \n \n\nPágina 9 \n \n",
+      "cantidad_caracteres": 968,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": " \n5. \nSi X ~ N(0,1), entonces ¿cuál de las siguientes afirmaciones es incorreta? \n\n \n \nA) La probabilidad P(X < 0) es 50% \nB) P(X > 1,5) = 1 – P(X  1,5) \nC) P(X > -1,5) = 1 – P(X < 1,5)   \nD) P(X = 0,5) = 0 \n\n \n \n \n \n \n6. \nSean X y Z variables aleatorias, X con distribución normal con media 100 y desviación \nestándar 16, y Z la tipificada de X con distribución normal estándar. Entonces, ¿cuál es \nla representación gráfica de la probabilidad de que X sea mayor que 124? \n\n \n \n \n \n\nA) \n \n \n \n \n \n \nB) \n \n \n \n\n100 101,5 \n \n \n\n1,5 \n16 \n \n \n\n \n \n \n \n\nC) \n \n \n \n \n \n \nD)   \n \n \n \n \n \n \n \n\n1,5 \n \n \n0 \n\n1,5 \n \n \n0 \n\nE)   \n \n \n \n \n \n \n7. \nSea una distribución normal N(24,3; 4,8), entonces ¿cuál de las siguientes afirmaciones \nes incorrecta? \n\n1,5 \n0 \n\n \n \nA) P(X < 4,8) = 0,5    \nB) La desviación estándar es igual a 4,8. \nC) La media  es 24,3 \nD) P(X > 24,3) = 0,5 \nE) P(19,5  X  29,1)  68%. \n \n\nPágina 10 \n \n",
+      "cantidad_caracteres": 913,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.138671875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.1162109375
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 0.1103515625
+        },
+        {
+          "index": 3,
+          "tipo": 4,
+          "tamanio_kb": 0.0986328125
+        },
+        {
+          "index": 4,
+          "tipo": 4,
+          "tamanio_kb": 0.103515625
+        },
+        {
+          "index": 5,
+          "tipo": 4,
+          "tamanio_kb": 0.1103515625
+        },
+        {
+          "index": 6,
+          "tipo": 4,
+          "tamanio_kb": 0.09765625
+        },
+        {
+          "index": 7,
+          "tipo": 4,
+          "tamanio_kb": 0.1025390625
+        },
+        {
+          "index": 8,
+          "tipo": 4,
+          "tamanio_kb": 0.103515625
+        },
+        {
+          "index": 9,
+          "tipo": 3,
+          "tamanio_kb": 0.140625
+        },
+        {
+          "index": 10,
+          "tipo": 4,
+          "tamanio_kb": 0.1162109375
+        },
+        {
+          "index": 11,
+          "tipo": 4,
+          "tamanio_kb": 0.119140625
+        },
+        {
+          "index": 12,
+          "tipo": 4,
+          "tamanio_kb": 0.103515625
+        },
+        {
+          "index": 13,
+          "tipo": 4,
+          "tamanio_kb": 0.1103515625
+        },
+        {
+          "index": 14,
+          "tipo": 4,
+          "tamanio_kb": 0.1025390625
+        },
+        {
+          "index": 15,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 16,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": " \n8. \nLos resultados del ensayo de una prueba de matemática aplicada por una universidad \nprivada sigue una distribución normal de media 720 puntos y deviación estándar  \n50 puntos. Respecto a esta información, ¿cuál de la siguientes afirmaciones es \nincorrecta, en relación al puntaje obtenido por un estudiante que asiste a rendir el \nensayo? \n\n \n \nA) La probabilidad que haya obtenido más de 670 puntos es 84,13% \nB) La probabilidad de obtener menos de 820 puntos es 97,72%. \nC) La probabilidad que el estudiantes obtenga menos de 720 puntos, pero mas de 620 \n\nes igual a 47,72%. \nD) La probabilidad que obtenga menos de 570 puntos es 0,26%.  \n \n \n \n \n9. \nLos promedios obtenidos por los alumnos de un colegio, en su último semestre de \ncuarto medio, tiene una distribución N(5,0; 0,8). ¿Cuál de las siguientes afirmaciones \nNO es correcta? \n\n \n \nA) Aproximadamente, el 68% de los alumnos tiene promedio entre 4,2 y 5,8. \nB) Aproximadamente, el 2% de los alumnos tiene promedio menor a 3,4. \nC) El",
+      "cantidad_caracteres": 1654,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 0.0947265625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "12. Si una variable aleatoria X tiene una distribución normal con media igual a m y \n\nvarianza igual a p, ¿cuál de las siguientes variables aleatoria tiene distribución normal \nestándar? \n \n \n\nA) W = \n\nX  p\n\n \n\nm\n\nB) Y = X\n\np  \n\nC) Z = X + m\n\n \n\np\n\nD) Q = \n\nX  m\n\n \n\np\n\nE) P = \n\nX  m\n\n \n\np\n\n \n \n \n \n13. Supongamos que la estatura de los varones adultos chilenos es una variable de \n\ndistribución normal con promedio 1,73 m con desviación estándar 7,3 cm. Al escoger \nun chileno adulto al azar, ¿cuál es la probabilidad que mide más 1,8 m? \n \n(Indicación: los valores de la tabla redondéelos a la centésima). \n \n \n\nA) 95% \nB) 5% \nC) 17%  \nD) 83% \n \n \n \n \n14. Si consideramos una población de recién nacidos cuya estatura se distribuye \n\nnormalmente, con una media (μ) de 50 cm y una desviación estándar (σ) de 4 cm. \n¿Cuál es, aproximadamente, la probabilidad de que un niño al nacer mida menos de  \n45 cm? \n\n \n \nA) 89% \nB) 11%   \nC) 25% \nD) 0,11% \n\n \n \n \n \n \n \n \n\nPágina 12 \n \n",
+      "cantidad_caracteres": 980,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": "15. El tiempo promedio que un mecánico demora en cambiar una pieza de motor de un \n\nauto es de 51 minutos, con desviación estándar 15 minutos. Si el tiempo tiene una \ndistribución normal y Z es una variable aleatoria de distribución normal estándar, ¿ cuál \nde las siguientes afirmaciones NO es correcta? \n\n \n\nA) P(X < 39) = P\n\n\n\n\n\n\n\n\n\n39  51\nZ  \n15\n \n\nB) P(X < 39) = P(Z > 0,8) \nC) P(X < 39) = 1 – P(Z < 0,8) \nD) P(X < 39) = 0,2   \n \n \n \n \n16. Los pesos de 300 deportistas de alto rendimiento  tienen una distribución normal \n\ndefinida como N(75, 10), ¿cuántos de estos deportistas pesan más de 65 kg? \n\n \n \nA) 68,26% \nB) 52,26% \nC) 95,44% \nD) 34,13% \nE) 84,13%   \n \n \n \n \n17. Las temperaturas máximas en el mes de diciembre en una ciudad nortina, siguen una \n\ndistribución normal con media 26° y desviación estándar 5°, aproximadamente, ¿en \ncuántos días del mes de diciembre se esperan que las temperaturas estén entre 23° y \n28°? (Indicación: los valores de la tabla redondéelos a la cent",
+      "cantidad_caracteres": 1401,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": "19. Se realizó una prueba de coeficiente intelectual (CI) a un grupo de 1.000 personas. Los \n\nresultados obtenidos presentan una distribución normal con una media (μ) de 100 \npuntos y una desviación estándar (σ) de 20 puntos. ¿Cuánto es la estimación, \naproximada, de las personas que rindieron esta prueba, que tienen un CI entre 95 y \n110 puntos? \n\n \n \nA) 290  \nB) 190 \nC) 690 \nD) 600 \n \n \n \n \n\n \n20. Se desea estudiar las características físicas de los habitantes de un pueblo  mayores de \n\n30 años. Si la variable a estudiar es el peso de estos individuos que es una variable \ncontinua, con distribución normal de media 60,5 kg y desviación estándar 5 kg. Según \nestos datos, ¿cuál es a lo más el peso del 75% de los individuos mayores de 30 años de \nesta población?  \n\n \n \nA) 64 kg  \nB) 85 kg \nC) 69 kg \nD) 68 kg \n\n \n \n\n \n \n \n21. Benjamín asiste a da un ensayo de M2 ofrecido por una universidad privada, los \n\npuntajes obtenidos por los estudiantes que asisten obedecen a una distribución norma",
+      "cantidad_caracteres": 1400,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": "22. La variable aleatoria X definida como X  N(,), tiene una distribución normal \n\nestándar, sí: \n\n \n(1) 2 = 1 \n(2)  ·  = 0 \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2)  \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n\n \n \n \n \nRESPUESTA EJERCICIOS \n\n \n1.   \nB \n6. \nD \n11. \nB \n16. \nE \n21. \nB \n2.   \nD \n7. \nA \n12. \nE \n17. \nE \n22. \nC \n3.   \nD \n8. \nD \n13. \nC \n18. \nC \n \n \n4.   \nB \n9. \nC \n14. \nB \n19. \nA \n \n \n5.   \nC \n10. \nD \n15. \nD \n20. \nA \n \n \n \n\nPágina 15 \n \n",
+      "cantidad_caracteres": 518,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

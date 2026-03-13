@@ -1,0 +1,489 @@
+{
+  "archivo_original": "Desafío n°2.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/DESAFIOS/Desafío n°2.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 6,
+  "fecha_procesamiento": "2026-03-07T23:03:27.016859",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSi m = 1,6 , ¿cuál de las expresiones NO es racional?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 m + 1,2"
+        },
+        {
+          "letra": "B",
+          "texto": "m 1 + 3"
+        },
+        {
+          "letra": "C",
+          "texto": "2 m 1 "
+        },
+        {
+          "letra": "D",
+          "texto": "3m 1 "
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nSe define en el conjunto de los números enteros: a’’ = 2a + 3. Si [(2x – 3)’’]’’ = 5, \nentonces x’’ =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi a2 + b2 + c2 = 300  y  a + b + c = 20, entonces (a + b)2 + (b + c)2 + (a + c)2 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "400"
+        },
+        {
+          "letra": "B",
+          "texto": "500"
+        },
+        {
+          "letra": "C",
+          "texto": "600"
+        },
+        {
+          "letra": "D",
+          "texto": "700"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \n¿Cuál de las siguientes expresiones es un factor de x2 – y2 – 2y – 1?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x – 1"
+        },
+        {
+          "letra": "B",
+          "texto": "x – y"
+        },
+        {
+          "letra": "C",
+          "texto": "x – y – 1"
+        },
+        {
+          "letra": "D",
+          "texto": "x – y + 1"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \n¿Cuál de los siguientes polinomios NO es divisor de x6 + 9x3 + 8?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x2 + 2x + 4"
+        },
+        {
+          "letra": "B",
+          "texto": "x + 2"
+        },
+        {
+          "letra": "C",
+          "texto": "x2 – 2x + 4"
+        },
+        {
+          "letra": "D",
+          "texto": "x2 – x + 1"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSi a y b son números reales tales que a  b  y  ab = 1\n\n2 , ¿cuál es el valor de la \n\n3\n3\n3\n3\na  + b\na   b\n  \na + b\na  b\n\n\n\n\n? \n\nexpresión",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "0"
+        },
+        {
+          "letra": "D",
+          "texto": "1 6n 6n 3n+1 2 1  se"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSabiendo que n es un número natural, al simplificar la expresión \n\n2\n + 2\n + 1\n\nobtiene \n \n \n\n3n\n\n3n\n2\n  1\n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 + 1"
+        },
+        {
+          "letra": "B",
+          "texto": "23n 3n 1"
+        },
+        {
+          "letra": "C",
+          "texto": "- 2 3n 3n 2 + 1"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nSi m y n son números reales, positivos y distintos, tales que mn = 1, entonces el \n\nvalor de la expresión  \nm\nn\n + \nm + 1\nn + 1  es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m"
+        },
+        {
+          "letra": "B",
+          "texto": "n"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "0 Página 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nCon respecto a la ecuación \n3\n3\nx + \n + 2 = \n + 1\nx + 1\nx + 1\n es correcto afirmar que su \n\nconjunto solución",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "es el conjunto vacío."
+        },
+        {
+          "letra": "B",
+          "texto": "consta de dos raíces distintas."
+        },
+        {
+          "letra": "C",
+          "texto": "consta de dos raíces iguales."
+        },
+        {
+          "letra": "D",
+          "texto": "consta sólo de una raíz real y negativa. 3 1 2 1"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Si x – 1\n\nx  = 3, entonces x2 – \n\n + x3 + \n\n =  \n\nx\n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11"
+        },
+        {
+          "letra": "B",
+          "texto": "27"
+        },
+        {
+          "letra": "C",
+          "texto": "36"
+        },
+        {
+          "letra": "D",
+          "texto": "47        4 x y 4 x y       2 2 xy 3 = 6 x + y"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. ¿Cuál es el valor de \n\n + \n\n, si \n\n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "62"
+        },
+        {
+          "letra": "B",
+          "texto": "98"
+        },
+        {
+          "letra": "C",
+          "texto": "142"
+        },
+        {
+          "letra": "D",
+          "texto": "167"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Un trabajador gastó 0,83 de su sueldo. Si solo hubiera gastado 0,36  de su sueldo le \n\nhabrían quedado $ 92.400 más de lo que le quedó. ¿Cuánto gastó?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 155.000"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 160.000"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 165.000"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 170.000"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Sean los números racionales A = 1\n\n3  y B que es igual a A truncado a la milésima. Si \n\nla diferencia entre A y B es igual al x% del valor exacto de A, ¿cuál es el valor de x?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,3"
+        },
+        {
+          "letra": "B",
+          "texto": "0,1"
+        },
+        {
+          "letra": "C",
+          "texto": "0,01"
+        },
+        {
+          "letra": "D",
+          "texto": "0,001 Página 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Se divide un número en 3 partes tales que, cada parte es el doble de la anterior. Si \n\nla tercera parte excede a la primera en tantas unidades como 100 excede a la \nsegunda parte, ¿cuál es el número que se dividió?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "160"
+        },
+        {
+          "letra": "B",
+          "texto": "140"
+        },
+        {
+          "letra": "C",
+          "texto": "120"
+        },
+        {
+          "letra": "D",
+          "texto": "80"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Se tiene un número de dos dígitos. Si se le agrega un 3 a la izquierda se convierte \n\nen un número igual a 5 veces el número original. ¿Cuánto suman las cifras del \nnúmero original?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "15"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Paolo debe a Juan un tercio de lo que éste debe a Alberto y a su vez Alberto debe a \n\nPaolo un cuarto de lo que éste debe a Juan. Si entre los 3 deben $ 5.100, entonces \n¿cuánto debe Alberto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 300"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 600"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 1.200"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 2.400"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Un avión tarda 7 horas en hacer un viaje de ida y vuelta entre dos ciudades P y Q, \n\nsin aterrizar en el trayecto. Volando de P a Q, con viento a favor, su rapidez es de \n160 km/h, pero volando de Q a P, con viento en contra, es de solo 120 km/h. ¿Cuál \nes la distancia entre las dos ciudades?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "280 km"
+        },
+        {
+          "letra": "B",
+          "texto": "360 km"
+        },
+        {
+          "letra": "C",
+          "texto": "480 km"
+        },
+        {
+          "letra": "D",
+          "texto": "520 km Página 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. En un laboratorio hay 38 roedores de color blanco o color café. Se sabe que las \n\nhembras de color blanco es la mitad del número de machos de color café, y estos \núltimos son tantos como todos los roedores blancos. Si hay 6 hembras de color café, \n¿qué parte del total de roedores son hembras?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 19"
+        },
+        {
+          "letra": "B",
+          "texto": "7 19"
+        },
+        {
+          "letra": "C",
+          "texto": "8 19"
+        },
+        {
+          "letra": "D",
+          "texto": "9 19"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Un producto de precio inicial x sufre dos descuentos iguales y sucesivos de un k%, \n\nde modo que en su precio final se obtuvo un descuento de un 19% sobre x. ¿Cuál \nes el valor de k?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8,25"
+        },
+        {
+          "letra": "B",
+          "texto": "8,75"
+        },
+        {
+          "letra": "C",
+          "texto": "9"
+        },
+        {
+          "letra": "D",
+          "texto": "10"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Mi hijo tiene ahora 30 años menos que yo. Si yo viviera hasta verlo de mi edad \n\nactual, alcanzaría a cinco veces su edad actual. ¿Qué edad tengo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50 años"
+        },
+        {
+          "letra": "B",
+          "texto": "45 años"
+        },
+        {
+          "letra": "C",
+          "texto": "40 años"
+        },
+        {
+          "letra": "D",
+          "texto": "35 años Página 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    }
+  ]
+}

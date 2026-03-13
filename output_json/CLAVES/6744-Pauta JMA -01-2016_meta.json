@@ -1,0 +1,42 @@
+{
+  "filename": "6744-Pauta JMA -01-2016.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/2016/CLAVES/6744-Pauta JMA -01-2016.pdf",
+  "num_paginas": 1,
+  "titulo": "CLAVES MATEMÁTICA 2008",
+  "autor": "Rosa Martínez",
+  "fecha_procesamiento": "2026-03-07T16:04:41.575372",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "CLAVES MATEMÁTICAS 2016 \n\nCódigo: JMA-01-2016 \n \n \n \n \n \n \nAsignatura   \n:  MATEMÁTICA \n \nNº Preguntas  \n:  80 \n \nFórmula  \n \n: \n \n \n\nCLAVES 1ª JORNADA DE EVALUACIÓN GENERAL  \n\n \n\n1. \nA \n11. \nB \n21. \nC \n31. \nE \n41. \nA \n51. \nB \n61. \nC \n71. \nC \n\n2. \nD \n12. \nC \n22. \nC \n32. \nB \n42. \nE \n52. \nD \n62. \nE \n72. \nA \n\n3. \nB \n13. \nE \n23. \nE \n33. \nE \n43. \nC \n53. \nA \n63. \nC \n73. \nD \n\n4. \nD \n14. \nD \n24. \nA \n34. \nC \n44. \nB \n54. \nE \n64. \nD \n74. \nB \n\n5. \nE \n15. \nD \n25. \nC \n35. \nD \n45. \nC \n55. \nE \n65. \nA \n75. \nC \n\n6. \nA \n16. \nC \n26. \nA \n36. \nB \n46. \nE \n56. \nB \n66. \nD \n76. \nB \n\n7. \nE \n17. \nE \n27. \nB \n37. \nD \n47. \nB \n57. \nB \n67. \nB \n77. \nA \n\n8. \nB \n18. \nA \n28. \nD \n38. \nB \n48. \nA \n58. \nC \n68. \nE \n78. \nA \n\n \n \n \n\n9. \nA \n19. \nC \n29. \nA \n39. \nE \n49. \nC \n59. \nD \n69. \nA \n79. \nD \n\n10. \nD \n20. \nB \n30. \nA \n40. \nD \n50. \nB \n60. \nC \n70. \nE \n80. \nA \n\n \n\n \n \n \n \n \n",
+      "cantidad_caracteres": 841,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.04296875
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 0.6064453125
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 14.28125
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        },
+        {
+          "index": 4,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    }
+  ]
+}

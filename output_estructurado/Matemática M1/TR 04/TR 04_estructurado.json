@@ -1,0 +1,397 @@
+{
+  "archivo_original": "TR 04.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TR 04.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 10,
+  "fecha_procesamiento": "2026-03-07T23:07:31.529099",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nEl hexágono regular de la figura adjunta tiene perímetro igual a 12 cm. ¿Cuánto mide \n\nPQ ? \n \n \n \n \n \n \n \n \n\nQ \n\nP",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "2 3 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "3 3 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "4 3 cm"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TR 04_p5_img4.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn el cuadrilátero PQRS de la figura adjunta, ¿cuál es el área del triángulo QRS, si  \nPQ = RS = SP = 4? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nR \n\nS \n\nP \nQ",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "16"
+        },
+        {
+          "letra": "C",
+          "texto": "4 2"
+        },
+        {
+          "letra": "D",
+          "texto": "8 2 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "TR 04_p5_img4.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nEn la figura adjunta ABCD es un cuadrado. Si FB = 10 y BC = 7, entonces ED = \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nE \n\nF \nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4,9"
+        },
+        {
+          "letra": "B",
+          "texto": "4,2"
+        },
+        {
+          "letra": "C",
+          "texto": "3,5"
+        },
+        {
+          "letra": "D",
+          "texto": "2,1"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TR 04_p6_img5.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEl área del cuadrado ABCD de la figura adjunta es 16 c2. Si DE = EA = BG, ¿cuánto \nsuman las áreas de los triángulos EAF y FBG?  \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nG \n\nE \n\nF \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 c2"
+        },
+        {
+          "letra": "B",
+          "texto": "5 c2"
+        },
+        {
+          "letra": "C",
+          "texto": "4 c2"
+        },
+        {
+          "letra": "D",
+          "texto": "7 c2"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "TR 04_p6_img5.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn un rombo ABCD de perímetro 80 cm se traza la diagonal BD de 24 cm de longitud. \n¿Cuál es el área del triángulo ABD?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "96 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "192 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "240 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "384 cm2 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSi cada lado del rectángulo ABCD se triplica se obtiene el rectángulo PQRS. ¿Cuál es el \nárea del rectángulo PQRS, si el área del rectángulo ABCD es 5 cm2?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "45 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "75 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "125 cm2"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEl área del cuadrado ABCD de la figura adjunta es m2 y el área del rectángulo EBCF es    \n2 mn. ¿Cuál es el perímetro del rectángulo AEFD? \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nF \n\nA \nB \n\nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2m – 2n"
+        },
+        {
+          "letra": "B",
+          "texto": "4(m – n)"
+        },
+        {
+          "letra": "C",
+          "texto": "(m + n)(m – n)"
+        },
+        {
+          "letra": "D",
+          "texto": "4m2 – 4n2"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TR 04_p7_img5.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \n¿Cuál es el área de un triángulo cuyos lados miden 13 cm, 24 cm y 13 cm?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "36 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "48 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "60 cm2"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEn la figura adjunta ACE y BCD son puntos colineales, AB = 4, BC = 3 y CE = \n5 . \n¿Cuál de las siguientes afirmaciones es verdadera? \n \n\nD \nE",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "CD + DE = 9 5 5"
+        },
+        {
+          "letra": "B",
+          "texto": "(CD)2 = 9 5 C"
+        },
+        {
+          "letra": "C",
+          "texto": "(DE)2 = 4"
+        },
+        {
+          "letra": "D",
+          "texto": " CD = 5 BC A B 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "TR 04_p7_img5.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Según la información entregada en la figura adjunta, ¿cuál es el valor de a2 + b2? \n \n \n \n \n \n\n5 \n\nb",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "124"
+        },
+        {
+          "letra": "B",
+          "texto": "144"
+        },
+        {
+          "letra": "C",
+          "texto": "169"
+        },
+        {
+          "letra": "D",
+          "texto": "256"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "TR 04_p8_img10.jpg"
+      ]
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Según la información entregada en la figura, ¿cuál es el valor de x? \n \n\n12\n\na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "10    "
+        },
+        {
+          "letra": "D",
+          "texto": "4 2"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "TR 04_p8_img10.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En la figura adjunta el rectángulo PMNS está inscrito en el triángulo PQR. Si PM = 3,  \n\n𝑥 \n2 \n\nPS = 9 y PQ : PR = 1 : 2, ¿cuánto mide SR ? \n \n \n \n \n \n \n \n \n \n \n\nR \n\nS \nN",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "21 P M Q 4"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "15 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "TR 04_p8_img10.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. ¿Cuál de las siguientes afirmaciones es verdadera, respecto del rectángulo MNPQ de la \n\nfigura adjunta? \n \n \n \n\nQ \nP",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El área del rectángulo es 24."
+        },
+        {
+          "letra": "B",
+          "texto": "El perímetro del MNP es 20."
+        },
+        {
+          "letra": "C",
+          "texto": "El área del MNP es 48."
+        },
+        {
+          "letra": "D",
+          "texto": "El perímetro del rectángulo es 28."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "TR 04_p9_img8.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Una empresa de iluminación necesita estirar un cable de energía provisorio desde el \n\nk \nk + 4 \n\nM \nN \n\nk + 2 \n\ntope de un edificio cuyo formato es rectangular a un determinado punto P del suelo. \nSegún el esquema adjunto, ¿cuánto mide el cable provisorio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 m"
+        },
+        {
+          "letra": "B",
+          "texto": "24 m 16 m"
+        },
+        {
+          "letra": "C",
+          "texto": "4 7 m"
+        },
+        {
+          "letra": "D",
+          "texto": "96 m"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "TR 04_p9_img8.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. En el rectángulo PQRS de la figura adjunta, QR = RT y el área del triángulo QRT es el \n\nP \n\n12 m \n\n25% del área del rectángulo. Se puede determinar la longitud de PQ , si se sabe que: \n \n \n \n\nS \nR \nT \n\n(1) el área del QRT es 8. \n(2) la longitud de QT es 4\n2 .",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere de información adicional P Q 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "TR 04_p9_img8.jpg"
+      ]
+    }
+  ]
+}

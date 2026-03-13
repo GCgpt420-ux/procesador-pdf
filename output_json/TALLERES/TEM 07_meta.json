@@ -1,0 +1,144 @@
+{
+  "filename": "TEM 07.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TEM 07.pdf",
+  "num_paginas": 7,
+  "titulo": "MATERIAL E00",
+  "autor": "Casa de Estudio Pedro de Valdivia",
+  "fecha_procesamiento": "2026-03-07T16:02:08.776346",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "MATEMÁTICAS \nTALLER DE EJERCITACIÓN Nº 7 \n\n \n \n \n \n\nGEOMETRÍA III \nTEM-07 \n\n \n     \n   \n\n \n\n \n\n \n\n1. \nEl perímetro de un cuadrado es 32 cm. Si cada lado aumenta en un cuarto de su valor, \nentonces el perímetro del cuadrado aumenta en  \n \n \n\nA)   2 cm  \nB)   6 cm \nC)   8 cm  \nD) 16 cm \n\n \n \n \n \n2. \nEl lado de un cuadrado mide c. Si su perímetro es igual al de un triángulo equilátero de \nlado d, entonces d = \n \n \n\nA)  4\n\n3 c \n\nB)  c\n\n2   \n\nC)  c\n\n4   \n\nD)  3\n\n4 c \n\n \n \n \n3. \nSi el ancho de un rectángulo disminuye en su cuarta parte y el largo aumenta en su \ncuarta parte, entonces el área del rectángulo \n \n \n\nA) aumenta en 1\n\n8 . \n\nB) disminuye en 1\n\n16 . \n\nC) disminuye en 1\n\n8 . \n\nD) aumenta en 1\n\n16 . \n\n \n \n \n",
+      "cantidad_caracteres": 718,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 98.0693359375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.3701171875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "4. \nEn la figura adjunta, PQRS es un rectángulo en que M y T son puntos medios de PQ  y \n\nSR , respectivamente. Si PQ = 16 cm y RQ = 6 cm, entonces el perímetro del \nparalelogramo MQTS es  \n \n \n\nS \nT \nR \n\nA) 22 cm  \nB) 26 cm \nC) 32 cm \nD) 36 cm    \n\n \n \n \n5. \nEn la figura adjunta, ABCD, BEFC y EGHF son tres cuadrados congruentes. Si  \nAG =  6 cm, entonces ¿cuál es el área de la región achurada? \n \n\nP \nM \nQ \n\nD \nC \nF \nH \n\nA)   3 cm2 \nB)   4 cm2 \nC)   6 cm2     \nD) 12 cm2 \n \n \n \n \n6. \nEn la figura adjunta, la circunferencia inscrita en el cuadrado ABCD, tiene radio de \nlongitud r. ¿Cuál de las siguientes afirmaciones es FALSA? \n \n \n\nB \nE \nG \nA \n\nD \nC \n\nA) El perímetro del cuadrado es 8r. \nB) El área del cuadrado es 4r2. \nC) El área del círculo es 42.         \nD) La diagonal del cuadrado mide 2r\n2 . \n \n \n \n \n7. \nEn la figura adjunta, ABCD es un cuadrado de lado a. Los arcos de circunferencia, \ntienen sus centros en A, C y en el centro E del cuadrado E, F, G y H puntos medios. \n¿Cuál de l",
+      "cantidad_caracteres": 1186,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.10546875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.1083984375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "8. \nEn la figura adjunta, si ABCD y BEFG son cuadrados,  AD = 4 cm  y  AE = 10 cm.  \n¿Cuál es el área de la región achurada? \n \n \n\nG \nF \n\nA) 26 cm2 \nB) 32 cm2 \nC) 34 cm2 \nD) 52 cm2 \n \n \n\nC \nD \n\nA \nB\n\nE \n\n \n\n \n\n \n\n9. \nEn el trapecio isósceles de la figura adjunta, ¿qué valor debe tener x para que el área \n\nde la región achurada sea igual a 5\n\n4\n3 ? \n\n \n\nD \nC \n\nA) \n20  \n\n7 \n\nB) \n25\n2\n \n\nx \n\nC) \n35\n2\n \n\nD) \n37\n2\n \n\nA \n\nB \n\n12 \n\n \n \n \n \n10. En la figura adjunta, ABCD es un cuadrado de lado 2 cm y BCE es equilátero. \n\nEntonces, el área de la región achurada es \n \n\nD \nC \n\nA)   2 cm2 \nB)   4 cm2 \nC)   5 cm2 \nD) 16 cm2 \n\nE \n\n \n \n \n \n \n11. En la figura adjunta, el arco AB es una semicircunferencia de centro O y diámetro 8, y \n\nA \nB \n\nCO \n AB\n\n. Si la región en blanco está formada por 2 arcos congruentes, ¿cuál es el \nárea de la región achurada? \n \n\nC \n\nA)   12 \nB)   16 \nC)   32 \nD)   64 \n\n \n \n \n\nO \n\n8 \nB \nA \n\n 3 \n",
+      "cantidad_caracteres": 920,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.10546875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.0947265625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "12. En la figura adjunta, área de la sala es 27 m2 y el área de la oficina es 12 m2. Si todas \n\nlas habitaciones son cuadradas, ¿cuál es el área del salón de actos? \n \n \n\n \n \nSala \n\n \n \n \n \nSalón de Actos \n\nA) 60 m2 \nB) 65 m2 \nC) 70 m2 \nD) 75 m2 \n \n \n \n13. En la figura adjunta,  ¿cuál es el área de la región achurada? \n \n \n\n \nOficina \n\nA)   60 \nB)   80 \nC)   90 \nD) 120 \n\n \n \n \n \n \n \n \n \n \n14. En la figura adjunta, ABCD es un cuadrado. Si M es punto medio del lado BC   y   \n\n8 \n\n6 \n\n10 \n\nAM = 5 , entonces el perímetro del cuadrado es \n \n \n\nC \nD \n\nA)   4 \nB)   6 \nC)   7 \nD)   8 \n\nM \n\n \n \n \n15. En la figura adjunta, ABCD es un cuadrado, BEGD es un rectángulo y EFG es un \n\nA \nB \n\ntriángulo isósceles de lados EF = FG = a. Entonces, el perímetro de la región achurada \nes \n \n \n\nB \nC \n\nA) (2 + \n2 ) a \n\nB) (6 + 3\n2 ) a \n\nF \n\nP \nE \n\nC) (4 + 5\n2 ) a \n\nD) (4 + \n2 ) a \n \n \n \n \n \n\nA \nD \n\nQ \n\nG \n\n 4 \n",
+      "cantidad_caracteres": 899,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.10546875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "16. En la figura adjunta, ¿cuál es el recorrido total que tiene que hacer una hormiga desde \n\nel punto A hasta el punto B, siguiendo la línea punteada que son semicircunferencias \ncongruentes? \n \n \n\nA \n\n60 \n\nA)   30  cm \nB)   60  cm \nC)   70  cm \nD)   90  cm \n\n 30 cm \n\n \n \n \n \n \n \n17. En la figura adjunta el diámetro de las circunferencias congruentes es 10 cm, donde A, \n\n30 \nC \nB \n\nB, C, D son puntos de tangencia, respectivamente y la longitud de la faja es 60 cm.  \nEntonces, la distancia entre los centros de las circunferencias es \n \n \n\nA \nB \n\nA) 20  cm \nB) 25  cm \nC) 30  cm  \nD) 35  cm \n\n \n \n \n \n18.  El ABC de la figura adjunta, es equilátero y de perímetro 12 cm. Si AE = EC, entonces \n\nC \nD \n\n¿cuál es el perímetro del paralelogramo ABDE? \n \n \n\nC \n\nA) 10 cm \nB) 12 cm \nC) 14 cm \nD) 16 cm \n\nD \nE \n\n \n \n \n \n \n19. En el cuadrado ABCD que muestra la figura adjunta se ha dibujado un triángulo \n\nA \n\nB \n\nequilátero ABE. Si el triple del perímetro del cuadrado es 108 cm, entonces ¿c",
+      "cantidad_caracteres": 1122,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "20. En la figura adjunta, el perímetro del rectángulo ABCD es M cm y EH = 1 BC\n2\n. Si  \n\nAD = N cm, entonces ¿cuál es el perímetro de la figura achurada, en cm? \n \n \n\nD \nC \n\nA) M \nB) M – N \nC) M + N \nD) No se puede determinar. \n \n \n \n \n \n \n \n \n21. El hexágono de la figura adjunta es regular. ¿Qué parte del perímetro de dicho \n\nG \nH \n\nB \nA \n\nE \nF \n\nhexágono es el perímetro de la figura achurada? \n \n\n \n\nA) \n1\n4  \n\nB) 1\n\n2  \n\nC) 3\n\n2  \n\nD) Ninguna de las anteriores. \n \n \n \n \n \n \n22. El cuadrado PQRS de la figura adjunta tiene un perímetro que mide 96 cm. Si PQ  y SR  \n\nestán divididos en tres partes iguales, en tanto que QR  y PS  están divididos en cuatro \npartes iguales, ¿cuál es el perímetro del rectángulo KLMN? \n \n \n\nR \nS \n\nA) 16 cm \nB) 24 cm \nC) 40 cm \nD) 32 cm \n\nN  \nM \n\n \n \n \n\n \n \n \nK  \nL \n\n \n \n \n \n \n \n \n \n \n\nQ \nP \n\n 6 \n",
+      "cantidad_caracteres": 835,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.10546875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.1083984375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "23. La figura adjunta está formada por el cuadrado ABCE de lado 10 cm, el rombo ECFD y \n\nel BFC donde CG = 6 cm. ¿Cuál es el perímetro del polígono ABFDE? \n \n \n\nD \nF \n\nA)   50 cm \nB)   56 cm \nC)   60 cm \nD)   96 cm \n \n \n \n \n \n \n24. El área de un trapecio isósceles es 60 cm2.  Si una de sus bases mide x  cm y ésta es el \n\nE \nC \nG \n\nA \nB \n\ndoble de la otra, entonces la altura h del trapecio es \n \n\nA) \n80\n\nx  cm \n\nB) \n60\n\n4  cm \n\nC) 20 cm \nD) x cm \n \n25. En la figura adjunta, ABCD es un deltoide, EDC = 30°,  BC // EF , BE = ED = \n3 cm  y  \n\nBF \n EB\n\n  , ¿ cuál es el perímetro del EBF ? \n \n\nC \n\nA) 6 cm \nB) 3 cm \nC) (3 +\n3 ) cm \n\nD \nB \nE \n\nD) (3 + 2\n3 ) cm \n \n \n \n \n \n26. En la figura adjunta, los cuadriláteros ACIG y BCFE son cuadrados de áreas 75 cm2 y  \n\nF \n\nA \n\n3 cm2, \nrespectivamente. ¿Cuál(es) de las afirmaciones siguientes es (son) \nverdadera(s)? \n \n\nG \nH \nI \n\nI) \nEl área del rectángulo EFIH  es 12 cm2. \nII) \nEl área del triángulo ACF es 7,5 cm2. \nIII) \nEl área del cuadrado DEHG e",
+      "cantidad_caracteres": 1120,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

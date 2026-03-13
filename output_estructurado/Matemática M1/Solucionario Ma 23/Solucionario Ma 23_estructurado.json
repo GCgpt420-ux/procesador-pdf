@@ -1,0 +1,673 @@
+{
+  "archivo_original": "Solucionario Ma 23.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/SOLUCIONARIOS/Solucionario Ma 23.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 10,
+  "fecha_procesamiento": "2026-03-07T23:05:07.146817",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSi x > y > z, entonces ¿cuál(es) de las siguientes expresiones es (son) negativa(s)? \n \n\nCUADERNO DE EJERCICIOS N° 23 \n\nINECUACIONES \n\n=\n4\n;\n2- =3\n\nSean\n✗\n=\n5\n;\ny\n\nI) \nx  y\ny  z\n\n\n\n \n\nEntonces\n:\n\nII) \ny  z\nz  x\n\n\n\n \n\nIII) \ny  x\nz  x\n\n\n\n \n\nI\nPositivo\nI Negativo\nE.) Positivo\n\n \n\n5-4\n4-3\n4-5\n4-3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III < ° > O 3-5 > ° 3-5"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nSi 0 < a < 1, entonces ¿cuál(es) de las siguientes desigualdades es (son)        \nverdadera(s)? \n \n\nsupongamos\na =L\n;\nEntonces :\n\nI) \na3 > a2 \nII) \na2 < 1 \n\nIII) \n1\n\na  < 1 \n\n#/ Verdadero\nIII\nFalso\nI)\nFalso",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III a 22 1 4--2 y 2 2 1 3 , 2 2 > 1"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nLa inecuación 3x – 8 < 5x + 6 tiene por solución el intervalo \n \n \n\n3×-5 ✗\n<\n6+8",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "]-, 7["
+        },
+        {
+          "letra": "B",
+          "texto": "]-, -7]"
+        },
+        {
+          "letra": "C",
+          "texto": "[-7, +["
+        },
+        {
+          "letra": "D",
+          "texto": "]-7, +[ - 2X < 14 1: -2 ✗ > -7 solución : -7,1-00 ["
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEl conjunto solución de la inecuación -5 – 4(x + 3) > 4(3x – 7) – 5x es \n \n \n\n-5-4×-12>12×-28-511",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "{x  lR / x > 1}"
+        },
+        {
+          "letra": "B",
+          "texto": "{x  lR / x  1}"
+        },
+        {
+          "letra": "C",
+          "texto": "{x  lR / x < 1}"
+        },
+        {
+          "letra": "D",
+          "texto": "{x  lR / x > -1} -11 X > -11 | :(→1) ✗< 1 solución : { ✗C- IR ✗< 1 }"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEl intervalo que es conjunto solución de la inecuación 4  x\n\n\n – x  1 + 1  2x\n\n3\n\n es \n\n• 15\n\n5\n\n \n\n- 2x )\n\n314\n- X)\n- 15 X ≥15+511",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "[1, +["
+        },
+        {
+          "letra": "B",
+          "texto": "[-1, +["
+        },
+        {
+          "letra": "C",
+          "texto": "]-, -1]"
+        },
+        {
+          "letra": "D",
+          "texto": "]-, -1[ - 8) -8/1 ≥8 |:( ✗≤-1 solución : ] -00 , -1]"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nLa representación gráfica del conjunto solución de la inecuación  3  x\nx + 7\n  \n + 1\n4\n2\n\n\n  es \n\n• 8\n\n \n \n\n- ×) ≤\n4 / ✗+ 7) +8\n\n213",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-5 - bx ≤ 30"
+        },
+        {
+          "letra": "B",
+          "texto": "✗≥-5"
+        },
+        {
+          "letra": "C",
+          "texto": "5 solución : -5 >"
+        },
+        {
+          "letra": "D",
+          "texto": "< i mmm > -5 -5"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEl conjunto solución de la inecuación x\n2x\n5\n7\n4\n3\n6\n\n\n\n\n\n es \n\n• 6",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lR"
+        },
+        {
+          "letra": "B",
+          "texto": "{}"
+        },
+        {
+          "letra": "C",
+          "texto": "{23}"
+        },
+        {
+          "letra": "D",
+          "texto": "]23, +[ 2X - 42 > 2×+5-4 solución : O conjunto Vacío 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9.  \nSi -3 < 2x – 1 < 3, entonces ¿entre qué valores está 3x + 1? \n\n✗> 16\n\n \n \n\n- 3<2×-1 <3\n/ +1\n\ny\n3×+1\nE ] -2\n\n,\n7- [",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "]-1, 3["
+        },
+        {
+          "letra": "B",
+          "texto": "]-2, 2["
+        },
+        {
+          "letra": "C",
+          "texto": "]-4, 2["
+        },
+        {
+          "letra": "D",
+          "texto": "]-2, 7["
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. El gráfico \n \n \n \nrepresenta el conjunto solución de la inecuación \n \n \n \n\n- 2<2×44\n/\n\n: 2\n\n- 1\n<\nX\n{\n2\n/ -3\n\n- 3<3×46\n\n- 2<3×+1\n< 7\n\n- \n+ \n-3 \n\nD\n- ✗≤3/1-1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-3 ≥ x"
+        },
+        {
+          "letra": "B",
+          "texto": "x + 3 > 0"
+        },
+        {
+          "letra": "C",
+          "texto": "3x – 5  2x + 2"
+        },
+        {
+          "letra": "D",
+          "texto": "7 – x ≤ 10"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Si a2 > b y b > 0, con a y b números reales y a  b, ¿cuál(es) de las siguientes \n\n✗≥-3\n\nafirmaciones es (son) siempre verdadera(s)? \n \n\nI) \na > b \nII) \na  0 \nIII) \nb  < a \n \n\nI)\nFalso\n:\n\n> by\nb\n> O\npero\nno\nse\nverifica\na\n> b\n\nsi\na\n= -2\ny\nb- 1\nse\nverifica\na\n\n≥\n\n.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Verdadero : si oí > b y b>o ⇒a -1-0 ☒ Falso : > by si b- 2 y a =-3 se verifica a ≥ ' a b > O Pero no se verifica b (Fuente: DEMRE, Publicación 2017) 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Al resolver el sistema 3x + 2 > x\n\n  se obtiene como solución \n\nx  1  2x\n\n\n\n \n \n\n1\n3×+2 > ✗\n=\n✗> -1\nSolución :X > -1\n\na\n✗-1 ≤2X\n-\nX ≥-1 }\n] -1,1-00-1\nun",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "]-1, +["
+        },
+        {
+          "letra": "B",
+          "texto": "]1, +["
+        },
+        {
+          "letra": "C",
+          "texto": "{-1}"
+        },
+        {
+          "letra": "D",
+          "texto": " ✗mayor E. igual que - 1 3x 3 3 + > - 2 4 4 7 7 2x + 8 8 8 "
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. El conjunto solución del sistema \n\n  es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "{x  lR / -1 < x ≤ 4}"
+        },
+        {
+          "letra": "B",
+          "texto": "{x  lR / -1 < x < 4}"
+        },
+        {
+          "letra": "C",
+          "texto": "{x  lR / -1 ≤ x < 4}"
+        },
+        {
+          "letra": "D",
+          "texto": "{x  lR / -1 ≤ x  4} 1 3×2+34>-34 • 4 ⇒ × > - 1 2 2×+7,48+78 ⇒ ✗≤Y > < > { ✗EIR -1 < ✗≤4 } i. solución : < -1,"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Si 0 < a < b, ¿cuál es el conjunto solución del sistema ax + b > 0\n\na + bx < 0 , en x?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "b a - , - a b       - b como ◦< asb 1 axtb > ☐ ⇒ × > ¡ }"
+        },
+        {
+          "letra": "B",
+          "texto": "b a - , - a b       _ Las _ a ⇒"
+        },
+        {
+          "letra": "C",
+          "texto": "a b , b a       _ a b a atbx < ◦⇒ ✗ <"
+        },
+        {
+          "letra": "D",
+          "texto": "b a , a b      "
+        },
+        {
+          "letra": "E",
+          "texto": "a b , b a       - b _ a b (Fuente: DEMRE, Publicación 2019) a 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Si a los números mayores que 2 y menores que 5 se les resta –q y luego se divide por \n\nel número entero negativo r, entonces los números que se obtienen son siempre \nmenores que  \n \n \n\n- f)\n\n= tq\n\n- (\n\n2\n<\n×\n<\n5\n(",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 + q r 2+9-4×+7<5+7 | : r ¡ rso ( cambia el orden)"
+        },
+        {
+          "letra": "B",
+          "texto": "5 q r  b- tq r r"
+        },
+        {
+          "letra": "C",
+          "texto": "2 + q 21-7 ✗+9- > r > r"
+        },
+        {
+          "letra": "D",
+          "texto": "2 q r "
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. ¿Cuántos números primos cumplen la condición: “el exceso del quíntuplo del número \n\nsobre 34 es menor que 31”? \n \n \n\n5×-34<31",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "5"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "7 ✗ < 13 , 3,5 , 7,11 } 7 5 números : { 2 primos"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19.   y  son ángulos suplementarios. Si  varía entre 139° y 162°, ¿cuál es la variación \n\nque experimentará el complemento de ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18° y 41°"
+        },
+        {
+          "letra": "B",
+          "texto": "31° y 58°"
+        },
+        {
+          "letra": "C",
+          "texto": "49° y 72°"
+        },
+        {
+          "letra": "D",
+          "texto": "52° y 81°"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En una empresa el costo de fabricación de chocolates está dado por C = 25000 + 250x, \n\nsi\n139º\n<\n162º\n⇒\n18º < ✗\n< 41º\n\n> 180º -139°\n\n1\n180°\n\n- 162º\n\n- 18º\n\n- ✗⇒\n90º -41%90\n- ✗\n< 90º\n\ncomplemento\nde\n✗\n:\n90\n\n49º { 90\n- ✗< 72º\n\ndonde x es la cantidad de chocolates. Si cada chocolate se vende a $ 500, ¿cuál es la \ncantidad mínima de chocolates que se debe vender para tener utilidades?   \n \n \n\nUtilidad\n= Venta\n-\nCosto\ni\nun\n\n> Utilidad > 0\n500 ✗\nÍÉÍÍ 250✗",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "56"
+        },
+        {
+          "letra": "B",
+          "texto": "77"
+        },
+        {
+          "letra": "C",
+          "texto": "101"
+        },
+        {
+          "letra": "D",
+          "texto": "150"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. La cantidad mínima recomendada de ingesta diaria de calcio para adultos de entre 19 \n\n500×-25.000-250×30\n\n✗> 100 ⇒\ncon\n100\nUnidades ⇒Utilidad ⇒\n\ncon\n101\nUnidades ⇒Utilidad >O\n\naños y 50 años es de 1.000 mg por día. Una taza (250 ml) de leche entera contiene \n280 mg de calcio, aproximadamente, y un vaso (200 ml) de jugo de naranja contiene \n50 mg de calcio, aproximadamente. \nMiguel tiene 40 años y decidió que cierto día solo tomará leche entera y jugo de \nnaranja. Si ese día se tomará solo una taza llena de leche entera y N vasos llenos  de  \njugo  de  naranja,  ¿cuál  de  las  siguientes  inecuaciones  permite determinar los \nvalores de N para los cuales Miguel cumple la ingesta recomendada de calcio? \n \n \n\n≥1000",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "280 + 50 N  1.000 1 taza de leche = 280mg 1 Vaso de jugo"
+        },
+        {
+          "letra": "B",
+          "texto": "(280 + 50)N  1.000"
+        },
+        {
+          "letra": "C",
+          "texto": "280N + 50  1.000"
+        },
+        {
+          "letra": "D",
+          "texto": "280 + 50N  1.000 = 50 mg Finalmente : 280 1- 50N ≥1000 (Fuente: DEMRE, Publicación 2020) 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Para el cálculo de la tarifa eléctrica, en pesos, se usa la fórmula T = Px + C, donde T es \n\nel valor de la tarifa, P es el precio por kWh consumido, x es el consumo de energía en \nkWh  y C  es un cargo fijo. Para una tarifa entre $ 15.000 y $ 70.000, ¿cuál de  las  \nsiguientes  desigualdades  representa  los  posibles  valores  del consumo? \n \n \n\nNT\nf",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "P(15.000 – C) < x < P(70.000 – C) 15000 =P ✗te ⇒ ✗= 15.000 - C"
+        },
+        {
+          "letra": "B",
+          "texto": "15.000"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. La figura adjunta muestra dos rectángulos tal que PQ  // AB , AD = 10 cm,  \n\nAB = 3 cm, PQ = (2x + 1) cm y QR = (x + 3) cm.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nse\ndebe\ncumplir\n\n:\n\ntambién\n2×+1>0\n\n2×+1<3\ny\n\ntambién\n✗+3>0\n\nS \nR \n\ny\n✗+3<10\ny\n\nP \nQ \n\n- 1\n2\nO 4×+3<10/-3\n\n1\n042×+1<3 /\n\n- 1<2×42\n| : 2\n- 3\n4\nX\n< 7\n\n- {\n<\n✗{\n1\n\nA \nB \n\nSi las medidas de los lados del rectángulo PQRS son menores que las medidas de los \nlados del rectángulo ABCD, ¿cuál de los siguientes conjuntos contiene a todos y \núnicamente los posibles valores de x? \n \n\n- £\n<\n✗\n< 1\n\n,\npues satisface\na\nla\n\nFinalmente\nse\nelige",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 - , 1 2       condición 1 y 2 - ↓ , ÍL - { < ✗< 1 ⇒]"
+        },
+        {
+          "letra": "B",
+          "texto": "]-, 7["
+        },
+        {
+          "letra": "C",
+          "texto": "]1, 7["
+        },
+        {
+          "letra": "D",
+          "texto": "]0, 3["
+        },
+        {
+          "letra": "E",
+          "texto": "]-, 1[ (Fuente: DEMRE, Publicación 2019) 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. En una fábrica de muebles se debe construir un mesón de 3 m de ancho y cuyo \n\nperímetro debe medir a lo más 20 m y a lo menos 15 m. ¿Cuál de los siguientes \nintervalos contiene todos los valores que puede tomar el largo del mesón? \n \n\n✓≤20\n¥15",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9, 7 2       Perímetro : 213+4=6+24 3"
+        },
+        {
+          "letra": "B",
+          "texto": "]9, 14["
+        },
+        {
+          "letra": "C",
+          "texto": "3, 4 2       y 15,46+2420/-6 L"
+        },
+        {
+          "letra": "D",
+          "texto": "9, 7 2       9k 22514 / i. 2 { ≤L ≤ 7- ⇒ Le [9-2,7]"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Paula, hace cinco años tenía menos de 40 años y en dos años más, el doble de su edad \n\nserá superior a 90 años. ¿Cuál es la edad actual de Paula? \n \n\nsea\nP\nla\nedad\nde\nPaula\n:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40 años"
+        },
+        {
+          "letra": "B",
+          "texto": "41 años"
+        },
+        {
+          "letra": "C",
+          "texto": "43 años"
+        },
+        {
+          "letra": "D",
+          "texto": "44 años a 2113+2>90 ⇒ P > 43 } a P -5<40 ⇒ P < 45 43 ( P ( 45 Entonces : F- 44 años"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. La solución gráfica del sistema de inecuaciones 2x  3  1\n\n\n\n\n es \n\n7  3x > -8\n\n \n \n\n1\nZX ≥4\n-3×7-15",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "✗72 ✗ 5 2 5"
+        },
+        {
+          "letra": "B",
+          "texto": "Solución : > 2 5"
+        },
+        {
+          "letra": "C",
+          "texto": "á 5 2 5"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. Si  0 < a < 1, entonces ¿cuál de las siguientes afirmaciones es verdadera?  \n \n \n\n2 \n \n5 \n\n≥\n\nA\nO\n- a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0 > -a2"
+        },
+        {
+          "letra": "B",
+          "texto": "a2 < 0"
+        },
+        {
+          "letra": "C",
+          "texto": "a3 > a2"
+        },
+        {
+          "letra": "D",
+          "texto": "a(a + 1) < 0 cí o > Verdadero 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. ¿Cuál es el menor número entero que es solución de la inecuación 1  x\n2  x\n  \n4\n7\n\n\n\n? \n\n \n\n>\n\n7- 7-✗≤8- HX",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "0"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. ¿Cuáles son todos los valores de x que satisfacen simultáneamente las inecuaciones   \n\n→✗≤1\nHA\nÓ\n- %\n3/1 ≥-1 ⇒\n× ≥\n\n,\n\n-\n^\n\n> menor número\n3\nentero\n\n2x + 1  3 – x   y  \n1\n1\nx\n2 \n\n? \n\n1 puntos\ncríticos\n\n1\n2×+1 ,\n3- ✗\n\n3×42\n✗\n= -1\ny\n\n \n\n✗= -2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x < -1 y x ≠ -2"
+        },
+        {
+          "letra": "B",
+          "texto": "-2 < x < -1 ✗≤23 2 ^ -1 O - ✗1-2"
+        },
+        {
+          "letra": "C",
+          "texto": "2 x 3  y x ≠ -2 ✗1-2 - t t 1- ✗-2 O ✗1-2 ✗+ ^ * - t"
+        },
+        {
+          "letra": "D",
+          "texto": "2 2 x 3    ✗1-2 > Solución ✗+1 ✗+2 ° d debe"
+        },
+        {
+          "letra": "E",
+          "texto": "2 1 x 3    ser 0 (Fuente: DEMRE, Publicación 2014) > < < Finalmente :< lmnmmm > - 2 -1 23"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. ¿Cuál de los siguientes conjuntos es el conjunto solución del sistema 5x\n3\nx\n4\n3x\n12\n\n\n\n\n\n? \n\n1\n5×-11<-3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 , 3        < < ✗ -3 4 1 -83"
+        },
+        {
+          "letra": "B",
+          "texto": "3 , 4        - 3/4 2 - 3/1 8"
+        },
+        {
+          "letra": "C",
+          "texto": "8 3 , 3 4         - 8- ✗ -8 solución : -00 ,"
+        },
+        {
+          "letra": "D",
+          "texto": "8 , 3         3 3"
+        },
+        {
+          "letra": "E",
+          "texto": "lR (Fuente: DEMRE, Publicación 2019) 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    }
+  ]
+}

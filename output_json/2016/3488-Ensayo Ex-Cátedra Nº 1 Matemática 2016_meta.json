@@ -1,0 +1,479 @@
+{
+  "filename": "3488-Ensayo Ex-Cátedra Nº 1 Matemática 2016.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/2016/3488-Ensayo Ex-Cátedra Nº 1 Matemática 2016.pdf",
+  "num_paginas": 27,
+  "titulo": "",
+  "autor": "Usuario",
+  "fecha_procesamiento": "2026-03-07T16:04:26.976100",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nC u r s o : Matemática \n\n \n \n\n \n \n \n \n \n \n \n \n \nENSAYO \n\n \nEX CATEDRA N° 1 \n\n \nMATEMÁTICA \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+      "cantidad_caracteres": 133,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": " \n\nPSU \nMATEMÁTICA \nINSTRUCCIONES ESPECÍFICAS \n \n \n1. \nEsta prueba consta de 80 preguntas. Usted dispone de 2 horas y 40 minutos para \nresponderla. \n \n2. \nLas figuras que aparecen en la prueba NO ESTÁN necesariamente dibujadas a escala. \n \n3. \nAntes de responder las preguntas N° 74 a la N° 80 de esta prueba lea atentamente las \ninstrucciones que aparecen a continuación de la pregunta N° 73. \n\n \nINSTRUCCIONES GENERALES \n \n1. \nA continuación encontrará una serie de símbolos, los que puede consultar durante el \ndesarrollo de los ejercicios. \n2. \nLas figuras que aparecen en el modelo son sólo indicativas \n3. \nLos gráficos que se presentan en este modelo están dibujados en un sistema de ejes \nperpendiculares. \n4. \nSe entenderá por dado común, a aquel que posee 6 caras, donde al lanzarlo las caras \nson equiprobables de salir. \n5. \nEn esta prueba, las dos opciones de una moneda son equiprobables de salir, a menos \nque se indique lo contrario. \n6. \nLos números complejos   i  y  –i, son las sol",
+      "cantidad_caracteres": 1450,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \n\n \nESTAS INSTRUCCIONES LE FACILITARÁN SUS RESPUESTAS \n\n \nSÍMBOLOS MATEMÁTICOS \n\n \n \n\n \n \n es menor que \n  es congruente con \n \n \n es mayor que \n  es semejante con \n \n \n es menor o igual a \n  es perpendicular a \n    \n \n es mayor o igual a \n  es distinto de \n \n \n ángulo recto \n  es paralelo a \n \n            ángulo \n  trazo AB \n \n            logaritmo en base 10 \n  pertenece a \n \n            conjunto vacío \n  valor absoluto de x \n \n \n            logaritmo base e \n \n \n         factorial de x \n \n            unión de conjuntos  \n \n         intersección de conjuntos \n \n            complemento del conjunto A                vector u \n \n   \n   \n   \n   \n \n \n\n \n\n  \n\n \n\n \n\n \n\n \n\n \n\n \n\n  \n\n \n\n \n\nAB \n\nlog \n\n \n\n x \n\n \n\nln \n\n x! \n\n \n\nln  \n\nu \n\nAC \n\n \n \n \n\n \n \n \n\n \n3 \n",
+      "cantidad_caracteres": 779,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": " \n\n \n\n1. 3\n\n4  – 5\n\n4  · 1\n\n2  = \n\n \n \n\nA)  1\n\n2  \n\nB) - 1\n\n4  \n\nC) - 1\n\n8  \n\nD)  1\n\n8  \n\nE)  1\n\n4  \n\n \n \n \n \n2. ¿Cuál de las siguientes fracciones es igual a (1,3 )2? \n \n \n\nA) 16\n\n9  \n\nB) \n9\n16  \n\nC)  3\n\n4  \n\nD) 13\n\n9  \n\nE) 12\n\n9  \n\n \n \n \n \n3. El número 0,0000389 escrito en notación científica está representado por \n \n \n\nA)     3,89 · 10-6 \nB) 389 · 10-7 \nC)     3,89 · 10-5 \nD)     3,89 · 10-7 \nE)     3,89 · 10-4 \n \n \n \n \n\n \n4 \n",
+      "cantidad_caracteres": 433,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": " \n\n \n4. Los números a, b y c son tales que -1 < a < b < 0  y  c = ab. ¿En cuál de las siguientes \n\nrectas numéricas se indica la posible ubicación del número c? \n \n \n\nA)   \n\n0 \n-1 \n1 \nc \n\nB)   \n\n0 \n-1 \n1 c \n\nC)   \n\n0 \n-1 \n1 \n-c \n\nD)   \n\n0 \n-1 \n1 \nc \n\nE)  \n\n0 \n-1 \n1 \nc \n\n \n \n \n5. Si el número k es positivo y el número h es tal que h2 < h, entonces ¿cuál(es) de las \n\nsiguientes proposiciones es (son) siempre verdadera(s)? \n \n \n\nI) \nk\nh  > k \n\nII) \nk2 < k \nIII) \nhk > k \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) Solo I y III \n \n \n \n6. Entre todos los vendedores de una tienda comercial, la quinta parte de las mujeres es \n\nigual a los tres décimos de los hombres. ¿Qué fracción del total de vendedores son \nhombres? \n \n \n\nA) 1\n\n4  \n\nB) 2\n\n5  \n\nC) 2\n\n3  \n\nD) 3\n\n4  \n\nE) 5\n\n7  \n\n \n5 \n",
+      "cantidad_caracteres": 800,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": " \n\n7. Si a + 1 = 0, entonces 0,5 – 2\n\n5 a = \n\n \n \n\nA)   0,3  \nB)   0,1 \nC)   0,5 \nD)   0,9 \nE) -0,9 \n \n \n8. Una parcela tiene un estanque con 16.000 litros de agua. Si se ocupa la cuarta parte \n\npara regadío y las tres quintas partes del resto para otras labores, entonces ¿cuánta \nagua quedaría en el estanque? \n \n \n\nA) 2.400 litros \nB) 4.800 litros \nC) 6.400 litros \nD) 7.200 litros \nE) 9.600 litros \n \n \n9. Sabiendo que m y n son números reales distintos, ¿cuál de las siguientes desigualdades \n\nes siempre verdadera, si la expresión \nmn\nm  n\n\n es negativa? \n\n \n \n\nA) n < m < 0 \nB) m < n < 0 \nC) 0 < n < m \nD) m · n < 0 \nE) m < 0 < n \n \n \n\n10. ¿Cuál(es) de las siguientes expresiones es (son) distinta(s) a 3\n\n4 ? \n\n \n\nI) \n- -21\n\n28  \n\n2\n3\n2\n\n\n\n\n\n\n\n\n\n\nII) \n\n \n\nIII) \n0,34 \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) Solo II y III \n \n \n\n \n6 \n",
+      "cantidad_caracteres": 868,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": " \n\n \n11. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s) con respecto al número    \n\n2n + 2, si se sabe que 2n = 8? \n \n \n\nI) \nEs divisible por 16. \nII) \nEs un múltiplo de 8. \nIII) \nEs el sucesor par de 30. \n \n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo II y III \nE) I, II y III \n \n \n \n12. 36a · 36b = \n \n \n\nA) 36ab \nB) 36(a + b) \n\nC) 362ab \nD)   6(2a + b) \n\nE)  \n\n2\n(a + b)\n6\n  \n \n \n \n13. Si N = 5\n2 , entonces N2 = \n \n \n\nA)   10 \nB)   20 \nC)   40 \nD)   50 \nE) 100 \n \n \n\n14. Si log a – 3 = log b, entonces a\n\nb  = \n\n \n \n\nA) 1.000 \nB) 30 \nC) 3 \n\nD) 1\n\n3  \n\nE) 0,001 \n \n \n\n \n7 \n",
+      "cantidad_caracteres": 597,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": " \n\n15. \n1\n64  = \n\n \n \n\nA) \n6\n2  \n\nB) \n6  + 1\n\n2  \n\nC) 25\n\n4  \n\nD) \n6,2  \n\nE) 5\n\n2  \n\n \n \n \n \n \n16. i 18  · i\n8  = \n \n \n\nA) -12i \nB) -12 \nC)  12 \nD)  12i \nE) \n12 i \n \n \n \n \n \n\n17. ¿Cuál(es) de las siguientes expresiones es (son) equivalente(s) a \n3\n(11 ) 11 ? \n\n \n \n\n4\n7\n11  \n\nI) \n\n4\n3\n11  \n\nII) \n11\n\n3\n4\n11  \n \n \n\nIII) \n11 · \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n \n \n \n\n \n8 \n",
+      "cantidad_caracteres": 417,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": " \n\n2\n2a  1\n\n\n\n18. \n\n = \n\n1  4a\n\n\n\n \n \n\nA) \n1\n2a  1\n\n \n\nB) \n-1\n2a  1\n\n \n\nC) \n-1\n2a + 1  \n\nD) \n1\n2a + 1  \n\nE) 1\n\n2  \n\n \n \n19. ¿Cuál de las siguientes expresiones es equivalente a (n + 1)2 – 9? \n \n \n\nA) (n + 4)(n – 2) \nB) (n + 2)(n – 4) \nC) (n + 10)(n – 8) \nD) (n – 10)(n + 8) \nE) (n + 4)(n + 2) \n \n \n \n\n20. Dado el sistema  3x + 2y = 10,5\n\n2x  y = 3,5\n\n, ¿cuál es el valor de x + y? \n\n \n \n\nA) 3,5 \nB) 4,0 \nC) 4,5 \nD) 5,0 \nE) 5,5 \n \n \n \n21. Una librería ofrece regalar 2 cuadernos por cada docena que se compre. Si en un colegio \n\nnecesitan 252 cuadernos, entonces ¿cuántas docenas se deberán comprar? \n \n \n\nA) 15 \nB) 16 \nC) 17 \nD) 18 \nE) 19 \n \n \n \n\n \n9 \n",
+      "cantidad_caracteres": 657,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": " \n\n22. Si 4a + b = c  y  a = 2b, entonces c = \n \n \n\nA) 3b \nB) 9b \nC) 9ab \nD) 8a + b \nE) 8a + 2b \n \n \n\n23. Si  a  2b = 5\n\n\n, entonces a2 – 4b2 = \n\na + 2b = 4\n\n \n \n\nA) 16 \nB) 20 \nC) 25 \nD) 30 \nE) 36 \n \n \n24. La figura 1, está formada por dos rectángulos congruentes (uno de ellos achurado) y un \n\ncuadrado de área b2. ¿Cuánto mide el área del rectángulo achurado? \n \n \n \n\nA) (a – b)b \nB) a – b \nC) ab \nD) a – b2 \nE) ab – 2b \n \n \n \n \n25. Si N = \n11  = 3,3166247904…, entonces ¿cuál(es) de las siguientes afirmaciones         \nes (son) verdadera(s), con respecto al número N? \n \n \n\nfig. 1 \n\na \n\nb2 \n\nI) \nEs el promedio entre 10  y 12 . \nII) \nRedondeado a la centésima, es igual a 3,32. \nIII) \nTruncado a la décima queda aproximado por defecto. \n \n \n\nA) Solo II \nB) Solo III \nC) Solo I y II \nD) Solo II y III \nE) I, II y III \n \n \n \n\n \n10 \n",
+      "cantidad_caracteres": 835,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1533203125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": " \n\n \n26. ¿Cuál es el valor de x en la ecuación x + 2a + 1 = 2(a + 1)? \n \n\nA)    1 \nB)    0 \nC)  -1 \nD)  -3 \nE) 40 \n \n \n27. Si n pertenece al conjunto solución de la inecuación 3 < 2x + 1 < 10, entonces ¿cuál de \n\nlos siguientes valores no puede tomar n? \n \n\nA) 3,0 \nB) 2,5 \nC) 2,0 \nD) 1,5 \nE) 0,5 \n \n \n28. ¿Cuál de las siguientes ecuaciones de segundo grado tiene como raíces (soluciones) los \n\nnúmeros complejos 2 + 5i   y   2 – 5i? \n \n \n\nA) x2 – 4x + 29 = 0 \nB) x2 + 4x + 29 = 0 \nC) x2 – 4x – 29 = 0 \nD) x2 + 4x – 29 = 0 \nE) x2 – 4x + 29i = 0 \n \n \n29. La parábola de ecuación y = x2 – 6x + 9 se traslada 4 unidades hacia la izquierda y        \n\n4 unidades hacia abajo. Si la nueva parábola corta al eje de las abscisas en a  y en b, \n¿cuál es uno de los posibles valores de (a + b)? \n \n \n\nA)   3 \nB)   2 \nC)   1 \nD)   0 \nE) -2 \n \n \n30. Cierto tipo de microorganismos se duplica cada 5 horas. Si al cabo de (t + 5) horas, la \n\npoblación de estos microorganismos contaba con N individuos, entonces la",
+      "cantidad_caracteres": 1119,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": " \n\n \n\n31. Si las funciones f y g satisfacen el sistema \nf(x) + g(x) = 3x + 5\n\n entonces,                     \n\nf(x)  g(x) = x + 3\n\n\nf(-1) + g(-2) = \n \n \n\nA)   2 \nB)   1 \nC)   0 \nD) -1 \nE) -2 \n \n \n \n \n32. Sean las funciones f(x) = \n1  x\n\n + 2  y  g(x) = x – 1, ¿cuál de los siguientes gráficos \nrepresenta mejor a la gráfica de g(f(x))? \n \n \n\ny \n\ny \n\ny \n\nA)  \n \n \n \nB) \n \n \n \nC) \n \n \n \n \n \n \n \n \n\n1 \n\nx \n\nx \n-1 \n\nx \n-1 \n\n1 \n\nD) \n \n \n \nE) \n \n \n \n \n \n \n \n \n\ny \n\ny \n\n1 \n\n1 \n\nx \n-1 \n\nx \n\n1 \n\n33. La curva representativa de la función f(x) = 1\n\n2  · 4x, corta al eje y en el punto de \n\nordenada \n \n \n\nA)  2 \nB)  1 \n\nC) 1\n\n2  \n\nD) 1\n\n4  \n\nE) 1\n\n8  \n\n \n \n\n \n12 \n",
+      "cantidad_caracteres": 656,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": " \n\n \n34. El área de un círculo en función de su perímetro C es igual a \n \n \n\nA) 4C2 \n\n2\n4C\n\nB) \n\n\n \n\n2\nC\n4 \n\nC) \n\n2\n\n2\nC\n\nD) \n\n \n\n4\n\n2\n2C\n\nE) \n\n\n \n\n \n \n \n \n35. Si el punto (-1, 3) pertenece a la curva representativa de la función f(x), y                     \n\ng(x) = f(x) + c, siendo c un número real, entonces ¿cuál de los siguientes puntos \npertenece a la gráfica de g(x)? \n \n \n\nA) (-c, 3c) \nB) (-1, -3 + c) \nC) (-1 – c, 3) \nD) (-1, 3 + c) \nE) (-1, 3 – c) \n \n \n \n \n36. En los triángulos ABC y EFG de la figura 2, se cumple que DAC  HEG y               \n\nDBC  HFG. Si AB : EF = 2 : 3, entonces ¿cuál(es) de las siguientes afirmaciones      \n\nes (son) verdadera(s)? \n \n \n\nG \n\nI) \nBC : FG = 2 : 3 \nII) \nCD : GH = 2 : 3 \nIII) \nFQ : BP = 2 : 3 \n \n \n\nC \nfig. 2 \n\nQ \n\nP \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n \n \n \n \n\nA \nD \nB \n\nE \nH \nF \n\n \n13 \n",
+      "cantidad_caracteres": 891,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": " \n\n \n37. Si al punto de coordenadas (1, 1) se le realiza una traslación según el vector (9, 0) y \n\nluego se le aplica otra traslación según el vector (0, -2), entonces ¿a qué distancia del \norigen se encuentra el punto resultante? \n \n \n\nA)   10 \nB) \n85   \n\nC) \n101   \n\nD) \n104   \n\nE) \n109   \n \n \n38. En el gráfico de la figura 3, ¿cuál es el perímetro del rectángulo ABCD? \n \n \n\ny \n\nD \n\nfig.  3 \n\n3 \n\nA) 4 10  + 17  \n\nC \n\n2 \n\nB) 4 10  – 17  \n\nC) 2 10  + 17  \n\n-1 \n\n3 \n\nD) 2 10  + 2 17  \n\nx \n\n1 \n\n5 \n\nE) 4 10  + 2 17  \n \n \n \n \n \n39. Sean u y v dos vectores no nulos tales que u + v = 0. ¿Cuál(es) de las siguientes \n\n-3 \n\nA \n\n-4 \n\nB \n\nafirmaciones es (son) verdadera(s)? \n \n\nI) \nu  = v \n\nII) \nu  y  v  tienen la misma dirección. \n\nIII) \nu  y  v  tienen sentidos opuestos. \n\n \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n \n \n40. En el triángulo ABC de la figura 4, CD \n AB\n\n. ¿En qué razón están respectivamente las \n\nmagnitudes de CD  y AC ? \n \n \n\nC \n\nfig. 4 \n\n",
+      "cantidad_caracteres": 1081,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": " \n\n \n41. En la figura 5, L1 // L2, entonces ¿cuál es el valor de x? \n \n \n\nL2 \n\nL1 \n\nA)   9 \nB)   8,8 \nC)   8,4 \nD) 13,6 \nE) 16 \n \n \n \n42. En la figura 6, AD \n AB\n\n, AD  // EF  // BC , BC = 4  y  AD = 6. ¿Cuál(es) de las \nsiguientes proposiciones es (son) FALSA(S)? \n \n\n12 – x  \n\nfig. 5 \n\nx \n\n14 \n6 \n\nD \n\nI) \nAEF  BEF \n\nII) \nDF\n\nFB   = 3\n\n2  \n\nC \n\nIII) \nAFD  CFB \n \n\nF \n\nfig. 6 \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) Solo II y III \n \n \n \n43. Si un triángulo isósceles ABC de base AB se le aplica una rotación en 180° en torno al \n\nA \nE \nB \n\nvértice C, se obtiene el triángulo A’B’C’. ¿Cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nI) \nABC  A’B’C’ \nII) \nBAC  A’B’C’ \n\nIII) \nAC   B'C' \n \n\nA) Solo I \nB) Solo III \nC) Solo I y II \nD) Solo II y III \nE) I, II y III \n \n \n44. En la circunferencia de centro O de la figura 7, DE \n AC\n\n  y  ABD = 50°. Entonces, \n\nD \n\nCDE =  \n\n \n\nC \n\nA) 10° \nB) 20° \nC) 30° \nD) 40° \nE) 50° \n\nE \nfig. 7 \n\nA \n\nO \n\nB \n\n \n15",
+      "cantidad_caracteres": 1002,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": " \n\n \n45. En el plano cartesiano, A es un punto en el eje x y B es un punto en el eje y, entonces el \n\nproducto de las ordenadas de estos puntos es igual a \n \n \n\nA) -2 \nB) -1 \nC)   0 \nD)   1 \nE) no se puede determinar. \n \n \n46. En la circunferencia de centro O y radio OP = 6 cm de la figura 8, el ángulo OPR mide \n\n30°. Si todos los puntos del plano rotan en sentido antihorario en torno al centro de la \ncircunferencia, entonces el punto R al llegar a la posición que ocupa el punto P habrá \nrecorrido \n \n \n\nfig. 8 \n\nA)   4 cm \nB)   6 cm \nC)   8 cm \nD) 12 cm \nE) 15 cm \n \n \n47. En la figura 9, AB  es diámetro de la circunferencia de centro O, si AB = 10 cm,            \n\nO \n\nP \n\nR \n\nCD = 8 cm y CD \n AB\n\n, entonces ¿cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nC \n\nI) \nAC  mide 2 5  cm. \n\nfig.  9 \n\nII) \nBC  mide 4 5  cm. \n\nIII) \nEB  mide 8 cm. \n \n\nE \n\nA \nB \n\nO \n\nA) Solo III \nB) Solo I y II \nC) Solo I y III \nD) Solo II y III \nE) I, II y III \n \n \n48. En el cuadrado AB",
+      "cantidad_caracteres": 1277,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": " \n\n \n49. En el rectángulo ABCD de la figura 11, BE  es bisectriz del ángulo DBC y CF \n BD\n\n. Si   \nEC = 12, entonces GC =  \n \n \n\nD \nC \nE \n\nA) 12 \nB) 10 \nC) 13 \nD)   6\n3  \n\nG \n\nfig. 11 \n\nF \n\nE)   7\n2  \n \n \n \n50. Si en el plano cartesiano los lados de un rectángulo no son paralelos a los ejes \n\nA \nB \n\ncoordenados, entonces el producto de las pendientes de los 4 lados es igual a  \n \n \n\nA) -1 \nB) -0,5 \nC)   0 \nD)   0,5 \nE)   1 \n \n \n \n51. En la figura 12, la recta L pasa por el punto P y además forma con los ejes coordenados \n\nun triángulo de área igual a 12. ¿Cuál de las siguientes ecuaciones representa la recta L? \n \n \n\ny \n\nA) 6x – y = 13 \nB) 2x + 3y = -14 \nC) 2x + 3y = 12 \nD) 2x + 3y = -12 \nE) 6x – y = 16 \n \n \n \n \n \n52. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s) con respecto a la recta de \n\nfig. 12 \n\nP \n\n2 \n\nx \n\n3 \nL \n\necuación 3x + y + 2 = 0? \n \n\nI) \nPasa por el punto (-2, 4). \nII) \nTiene pendiente igual a -3. \nIII) \nSu coeficiente de posición es igual a 2. \n \n\nA) S",
+      "cantidad_caracteres": 1083,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "texto": " \n\n \n53. La recta que pasa por los puntos (-a, a)  y  (5a, b) con a  b, tiene pendiente cuyo valor \n\nes 1. ¿Cuál de las siguientes alternativas es verdadera? \n \n\nA) b = 3a \nB) b = 4a \nC) b = 5a \nD) b = 6a \nE) b = 7a \n \n\nm  + c\n\n54. Las rectas de ecuación y = -mx + 30  e  y = - x\n\nm  se intersectan en el punto         \n\n(6, 12). ¿Cuál es el valor de c? \n \n\nA) 14 \nB) 28 \nC) 30 \nD) 42 \nE) 52 \n \n \n55. Un prisma regular de base hexagonal tiene \n \n\nA) 12 caras y 12 vértices. \nB)   8 caras y 12 vértices. \nC)   8 caras y 8 vértices. \nD)   6 caras y 12 vértices. \nE)   6 caras y 6 vértices. \n \n \n56. En la figura 13, el triángulo OPQ es rectángulo isósceles. Si las coordenadas del punto P \n\nson (3, 0) y el triángulo se hace girar infinitamente en torno al eje x, entonces ¿cuál es \nel volumen del cuerpo que se genera? \n \n\nQ \ny \n\nA)    8 \nB)    9 \nC)   27 \nD)   36 \nE) 108 \n \n \n57. ¿Cuál de las siguientes alternativas representa la ecuación de la recta, determinada por \n\nfig. 13 \n\nP \nO \nx \n\nla",
+      "cantidad_caracteres": 1221,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "texto": " \n\n \n58. Los números a, b, c y d son enteros consecutivos, tales que a < b < c < d, siendo la \n\nmediana de este conjunto 4,5. ¿Cuál(es) de las siguientes afirmaciones es (son) \nFALSA(S)? \n \n \n\nI) \nLa mediana de a + 2,  b + 2,  c + 2  y  d + 2 es 6,5. \nII) \nLa media aritmética de a, b, c  y  d es 4,5. \nIII) \nLa moda de a, b, c  y  d es 4,5. \n \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) Ninguna de ellas. \n\n \n \n \n \n59. Para elegir el presidente del centro de alumnos de un colegio, votaron 500 estudiantes y \n\nlos resultados en porcentajes de esta elección se muestran en el siguiente gráfico circular \nde la figura 14. ¿Cuántos votos obtuvo Ortiz? \n \n \n\nA) 165 \nB) 175 \nC) 225 \nD) 275 \nE) 468 \n \n \n \n \n60. Si M representa la media aritmética (promedio) de N números cuya suma es S, entonces \n\nArce \n20% \n\nfig. 14 \nOrtiz \n\nSilva \n45% \n\n¿cuál de las siguientes expresiones es igual a 1? \n \n \n\nA) S  N\n\n\n  \n\nM\n\nB) M  S\n\n\n \n\nN\n\nC) M  N\n\n\n \n\nS\n\nD) \nN\nM  S\n\n \n\nE) M  S\n\n\n \n\n2N\n\n \n \n \n",
+      "cantidad_caracteres": 1009,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "texto": " \n\n \n61. Dado el conjunto {1, 2, 3, 4, 5, 6, 7, 8, 9}, ¿cuál(es) de las siguientes afirmaciones con \n\nrespecto a este conjunto es (son) FALSA(S)? \n \n\nI) \nEl segundo cuartil es 5. \nII) \nLa desviación estándar es 0. \nIII) \nEl rango es 5. \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo II y III \nE) I, II y III \n \n \n62. De acuerdo a la información entregada en la siguiente tabla de frecuencias, ¿cuál(es) de \n\nlas siguientes afirmaciones es (son) verdadera(s)? \n \n\nxi \nfi \n2 \n3 \n3 \n2 \n5 \n1 \n6 \n4 \n8 \n3 \n10 \n2 \n\nI) \nLa moda es 10. \nII) \nLa mediana es 6. \nIII) \nLa media aritmética es 5,6. \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \nE) Solo II y III \n \n \n63. La producción en toneladas de cierta industria en los tres primeros meses del año, se \n\nindica en la siguiente tabla \n \n \n \n \n \n \n\nEnero \nFebrero \nMarzo \n\n150 \ntoneladas \n\n100 \ntoneladas \n\n200 \ntoneladas \n\n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nI) \nLa producción promedio de los tres meses es igual a l",
+      "cantidad_caracteres": 1266,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "texto": " \n\n \n64. La tabla adjunta, muestra una distribución de frecuencia de los pesos de los alumnos de \n\nun grupo curso en kilogramos. ¿Cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n \n \n \n \n\nIntervalo de \n\nMarca de \n\nFrecuencia \n\nAbsoluta \n[55 – 63[ \n[63 – 71[ \n[71 – 79[ \n[79 – 87] \n\nClase \n\nClase \n\n59 \n67 \n75 \n83 \n\n6 \n14 \n12 \n12 \n\n \n \n \n \n \nI) \nLa marca de clase del intervalo modal es 67 kg. \nII) \nLa marca de clase del intervalo de la mediana es 75 kg. \n\nIII) \n3\n22  de los integrantes del grupo pesa menos de 63 kg. \n\n \n \n\nA) Solo I \nB) Solo III \nC) Solo I y II \nD) Solo II y III \nE) I, II y III \n \n \n \n \n\n65. Si n y k son números enteros tales que n ≥ 1, k ≥ 0, n ≥ k y n\n\nk\n\n\n\n\n\n\n\n = \nn!\nk!(n  k)!\n\n, ¿cuál(es) \n\nde las siguientes proposiciones es (son) verdadera(s)? \n \n \n\nI) \nn\n\n = \nn\nn  k\n\n\n\n\n\n\n\n\nk\n\n\n\n\n\n\n\n \n\nII) \nn\n\n = \nn\nk + 1\n\n\n\n\n\n\n\nk\n\n\n\n\n\n\n\n \n\nIII) \nn\n\n = n + 1\n\nk\n\n\n\n\n\n\n\nk + 1\n\n\n\n\n\n\n\n \n\n \n \n\nA) Solo I \nB) Solo III \nC) Solo I",
+      "cantidad_caracteres": 1056,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "texto": " \n\n \n66. ¿De cuantas maneras se pueden ubicar 3 muchachos y 3 muchachas en torno a una \n\nfogata, si las muchachas deben quedar juntas? \n \n \n\nA) 3! · 3! \nB) 4! · 3! \nC) 3! \nD) 4! \nE) 6! \n \n \n \n \n \n \n67. Un curso para reunir fondos decidió organizar una rifa, en que el único premio era un \n\ntelevisor. Si se vendieron 200 números y Patricio compró 5, entonces ¿cuál es la \nprobabilidad de que Patricio no gane el televisor? \n \n \n\nA) 0,024 \nB) 0,96 \nC) 0,975 \nD) 0,025 \nE) 0,25 \n \n \n \n \n \n \n68. Ramiro hace un estudio estadístico sobre un determinado negocio llegando a la siguiente \n\nconclusión: “Si lo lleva a cabo, puede ganar $ 5.000.000 con una probabilidad igual a 0,6 \no bien, puede tener una pérdida de $ 2.000.000 con una probabilidad igual a 0,4”. Al \nrespecto, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \nLa esperanza matemática que tiene Ramiro es igual a $ 2.200.000. \nII) \nSi Ramiro no desea arriesgar dinero, no debe llevar a cabo el negocio. \nIII) \nRamiro ",
+      "cantidad_caracteres": 1158,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "texto": " \n\n \n69. ¿Cuál es la probabilidad de obtener dos 6 en el lanzamiento de dos dados y dos caras en \n\nel lanzamiento de dos monedas? \n \n \n\nA)  2\n\n6  · 2\n\n4  \n\nB) \n1\n36  · 1\n\n4  \n\nC) \n2\n36  · 2\n\n4  \n\n36  + 1\n\nD) 1\n\n4  \n\nE)  1\n\n6  + 1\n\n2  + 1\n\n6  + 1\n\n2  \n\n \n \n \n70. Si se lanzan sobre una superficie plana, 3 monedas de $ 100 y 3 monedas de $ 500, \n\nentonces ¿cuál es la probabilidad de obtener 2 sellos en las monedas de $ 500? \n \n \n\nA) 1\n\n2  \n\nB) 1\n\n3  \n\nC) 5\n\n8  \n\nD) 1\n\n4  \n\nE) 3\n\n8  \n\n \n \n \n71. Siete libros se colocan al azar en un mueble, uno al lado del otro. Si de estos libros, dos \n\nson de poemas y los restantes son de cuentos, entonces ¿cuál es la probabilidad de que \nlos de poemas queden ubicados uno en cada extremo? \n \n \n\nA) \n1\n10   \n\nB) \n1\n12   \n\nC) \n1\n18  \n\nD) 1\n\n21   \n\nE) \n1\n24   \n\n \n\n \n23 \n",
+      "cantidad_caracteres": 808,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 24,
+      "texto": " \n\n \n\n72. Sean A y B dos sucesos tales que, P(A) = 2\n\n3  y P(A  B) = 1\n\n5 , entonces P(B/A) es igual a \n\n \n \n\nA)  3\n\n5  \n\nB) \n3\n10  \n\nC) \n7\n10  \n\nD)  1\n\n5  \n\nE) \n2\n15  \n\n \n \n73. Se tiene una caja con tres bolitas rojas, cuatro amarillas y cinco azules. Si se sacan tres \n\nbolitas, una tras otra, sin reposición, ¿cuál es la probabilidad de sacar una bolita azul, \nuna bolita amarilla y una bolita roja en ese orden? \n \n \n\nA) \n5\n144   \n\nB)  3\n\n12  \n\nC)  3\n\n22  \n\nD)  2\n\n22  \n\nE)  1\n\n22  \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n24 \n",
+      "cantidad_caracteres": 535,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 25,
+      "texto": " \n\n \n\nEvaluación de Suficiencia de Datos \n \n\nInstrucciones  Para  las  Preguntas  N° 74  a  la  N° 80 \n \nEn las preguntas siguientes no se le pide que dé la solución al problema, sino que decida si  \nlos datos proporcionados en el enunciado del problema más los indicados en las \nafirmaciones (1)  y  (2) son suficientes para llegar a esa solución. \n \n\nUsted deberá marcar la letra: \n \nA) (1) por sí sola, si la afirmación (1)  por sí sola es suficiente para responder a la \n\npregunta,  pero la afirmación (2) por sí sola no lo es. \n \nB) (2) por sí sola, si la afirmación (2) por sí sola es suficiente para responder a la \n\npregunta,  pero la afirmación (1) por sí sola no lo es. \n \nC) Ambas juntas, (1) y (2), si ambas afirmaciones (1) y (2) juntas son suficientes para \n\nresponder a la pregunta,  pero ninguna de las afirmaciones por sí sola es suficiente. \n \nD) Cada una por sí sola,  (1) ó (2), si cada una por sí sola es suficiente para responder a \n\nla pregunta. \n \nE) Se requiere información a",
+      "cantidad_caracteres": 2065,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 26,
+      "texto": " \n\n \n74. Se puede determinar el valor numérico de (x + y)(x2 – xy + y2), si se sabe que: \n \n\n(1) x + y = 12 \n(2) x – y = 3 \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n\n75. En el siguiente conjunto de datos; a, b, c, d, se cumple que a = d = 1\n\n3 . Se puede \n\ndeterminar la media aritmética (promedio) de este conjunto de datos, si se sabe que: \n \n\n(1) b + c = 2\n\n3   \n\n(2) a = b = c \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n76. Se puede determinar el área de cierto triángulo ABC, si se sabe que: \n \n\n(1) AB = 15, BC = 12  y  CA = 9 \n(2) El perímetro del triángulo ABC es 36. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n77. Se puede determinar la longitud del radio de la circunf",
+      "cantidad_caracteres": 1286,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    },
+    {
+      "numero": 27,
+      "texto": " \n\n \n78. En el trazo AB de la figura 16, se cumple que AP : PQ : QB = 1 : 2 : 3. Se puede conocer \n\nla longitud de AB , si: \n \n\n(1) AP + PQ = 32 \n\nA \nP \nQ \nB \n\n(2) AP < PQ  y  AQ = QB \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n79. La expresión \nn  representa un número irracional, si: \n \n\nfig.  16 \n\n(1) n2 es un número racional. \n\n(2) n es un número primo. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n \n80. Vicente viaja con 3 maletas; una negra, una azul y una café. Se puede saber cuál es el \n\npeso de la maleta café, si: \n \n\n(1) El peso total de las tres maletas es 60 kg. \n\n(2) La suma de los pesos de las maletas negra y café es de 25 kg y la suma de los pesos \n\nde las maletas café y azul es de 50 kg. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) C",
+      "cantidad_caracteres": 1079,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 4,
+          "tamanio_kb": 17.9033203125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0517578125
+        }
+      ]
+    }
+  ]
+}

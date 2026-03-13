@@ -1,0 +1,152 @@
+{
+  "filename": "51 292-MA35_-_Probabilidad_de_Eventos_-_2025.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PAES 2026-20260307T003844Z-3-001/PAES 2026/1.Pedro De Valdivia/M1 Matematicas/Guias/Guias/51 292-MA35_-_Probabilidad_de_Eventos_-_2025.pdf",
+  "num_paginas": 11,
+  "titulo": "",
+  "autor": "PreuPDV",
+  "fecha_procesamiento": "2026-03-07T14:52:40.333711",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemática M1 \nMaterial : MA-35 \n\n \n \n \n \n \n \n\nCUADERNO DE EJERCICIOS N° 29 \n\nPROBABILIDADES DE EVENTOS \n\n \n \n \n1.  \nSe consultó a un grupo de 50 personas acerca de su sabor favorito de cierto tipo de \nhelado. En la tabla adjunta se registran los resultados obtenidos. \n \n\nSabor \nFrecuencia \nvainilla \n9 \nchocolate \n15 \nfrutilla \n6 \nmanjar \n20 \n \n \n\nSi se elige a una de estas personas al azar, ¿cuál es la probabilidad de que su sabor \nfavorito sea de vainilla o de frutilla? \n \n \n\nA) \n3\n10\n\n  \n\nB) \n9\n6\n  \n50\n50\n\n \n\nC) \n1\n54\n\n \n\nD) \n1\n15\n\n \n\n                                                                                          (Fuente, DEMRE 2023) \n \n \n \n2. \nEn un naipe de 48 cartas (12 copas, 12 oros, 12 bastos, 12 espadas), ¿cuál es la \nprobabilidad de sacar al azar una espada, un oro, un bastos, una copa y nuevamente \nuna espada, en ese orden y sin reposición? \n \n \n\nA) 12\n12\n12\n12\n11\n + \n + \n + \n + \n48\n48\n48\n48\n47  \n\nB) 12\n12\n12\n12\n11\n · \n · \n · \n · \n48\n47\n46\n45\n44   \n\nC) 12\n12\n12\n1",
+      "cantidad_caracteres": 1110,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 20.1298828125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 22.6259765625
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "3. \nUna compañía de seguros elige una persona para desempeñar cierta función entre 50 \naspirantes. Entre los candidatos, hay algunos con título universitario, otros poseen \nexperiencia previa en alguna área de seguros y algunos cumplen con ambos requisitos, \ncomo se indica en la tabla adjunta \n \n \n\n \nTítulo \nSin título \n\nExperiencia previa \n5 \n10 \n\nSin experiencia \n15 \n20 \n\n \n \n\nSi se elige un aspirante al azar entre los 50, entonces ¿cuál es la probabilidad que \ntenga experiencia previa o que tenga título? \n \n \n\nA) \n7\n10  \n\n3\n5  \n\nB) \n\n \n\nC) \n1\n10  \n\n2\n5   \n\nD) \n\n \n\n \n \n4. \nEn una bolsa hay en total 22 bolitas del mismo tipo numeradas en forma correlativa del \n1 al 22. Si se extrae al azar una bolita de la bolsa, ¿cuál es la probabilidad de que esta \ntenga un número de un dígito o un número múltiplo de 10? \n \n \n\nA) \n1\n9  ∙ 1\n\n2  \n\nB) \n9\n22  + 2\n\n21  \n\nC) \n1\n9  + 1\n\n2  \n\nD) \n9\n22  + 2\n\n22   \n\nE) \n9\n22  + 1\n\n22  \n\n \n\n(Fuente, DEMRE 2017) \n \n \n \n \n \n \n \n\nPágina 2 \n \n",
+      "cantidad_caracteres": 979,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "5. \nEn una sala con 100 alumnos, 30 usan lentes, 40 son hombres y de estos 15 usan \nlentes. Al seleccionar un alumno al azar, ¿cuál es la probabilidad que sea mujer y no \nuse lentes? \n \n \n\nA) 0,45  \nB) 0,60 \nC) 0,70 \nD) 0,85 \n \n \n \n \n6. \nSe tiene un dado de doce caras (dodecaedro regular), numeradas del 1 al 12. ¿Cuál es \nla probabilidad de que al lanzarlo una vez, el número obtenido sea un cuadrado \nperfecto o un múltiplo de 3? \n \n \n\nA) \n7\n12  \n\nB) \n5\n12  \n\nC)  1\n\n2   \n\nD)  1\n\n3  \n\n \n \n \n \n7. \nEn una muestra gastronómica la comida está repartida en tres mesas: la primera de \ncomida salada, la segunda de comida dulce y la tercera de comida agridulce. En cada \nmesa hay 30 porciones de comida fría y 50 de comida caliente. Al elegir un plato al \nazar, ¿cuál es la probabilidad de que este sea una comida dulce fría  o una comida \ncaliente? \n\n \n\nA) \n1\n40  \n\nB)  1\n\n3  \n\nC)  2\n\n3  \n\nD)  3\n\n4   \n\n \n \n \n \n \n \n \n\nPágina 3 \n \n",
+      "cantidad_caracteres": 928,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "8. \nEn un segundo básico se formaron tres grupos mixtos para preparar disertaciones \nsobre su mascota favorita, como se muestra en la siguiente tabla. \n\n  \n\nGrupo \nTema \nniñas \nniños \n\n          \n\n1 \nEl perro \n5 \n3 \n\n \n\n2 \nEl gato \n4 \n2 \n3 \nEl hámster \n4 \n4 \n\n \n\n \n\nLa profesora elige al azar a un solo integrante  de cada grupo para que exponga el \ntema. ¿Cuál es la probabilidad de que en los tres grupos el representante sea una niña? \n\nA) \n5\n22  \n\nB) \n5\n24   \n\nC) \n1\n22  \n\nD) \n1\n24  \n\n \n \n9. \nEn una fiesta de cumpleaños a cada invitado se le regala un “raspe”, repartiéndose  \n40 en total, de los cuales el 15% tiene premio. Si se eligen tres invitados al azar, ¿cuál \nes la probabilidad de que los tres tengan un raspe premiado? \n \n\nA)  1\n\n40  \n\nB)  15\n\n40  \n\nC) \n1\n494   \n\nD) \n2\n247  \n\n \n \n10. En una caja hay en total siete bolitas, de las cuales tres son blancas y cuatro son \n\nnegras, todas del mismo tipo. Si se extraen al azar dos bolitas sin reposición, ¿cuál es \nla probabilidad de que ",
+      "cantidad_caracteres": 1146,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "11.  Se realizó una encuesta sobre las preferencias de un grupo de personas respecto a su \n\npasatiempo favorito, tal que cada persona eligió solo un pasatiempo. En esta encuesta \n30 personas indicaron que su pasatiempo favorito es leer, 48 personas indicaron que es \nhacer deporte y n personas indicaron que es ver películas. \n \n\nAl elegir una persona al azar de este grupo, la probabilidad de que su pasatiempo \nfavorito no sea hacer deporte es 0,6. \n \n\n¿Cuál es la cantidad de personas que indicaron ver películas? \n \n \n\nA)   22 \nB)   42 \nC)   52 \nD) 117 \n \n\n(Fuente, DEMRE 2023) \n \n \n \n12. Se tienen dos llaveros: P con 4 llaves y Q con 2 llaves. En cada llavero solo hay una \n\nllave que abre la puerta de una bodega. Cada llavero tiene la misma probabilidad de \nser elegido y cada llave de ese llavero es equiprobable de ser elegida. Si se escoge un \nllavero al azar y de él se escoge al azar una llave, ¿cuál(es) de las siguientes \nafirmaciones es (son) verdadera(s)? \n \n \n\nI) \nLa probabilidad d",
+      "cantidad_caracteres": 1464,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "13. En una tómbola hay 27 bolitas, todas de igual peso y tamaño, donde cada una de ellas \n\nestá identificada con una de las letras del abecedario. Si se extraen dos bolitas, una \ntras otra con reposición, de esta tómbola, ¿cuál es la probabilidad de que la primera \nbolita extraída tenga la misma letra que la segunda bolita extraída? \n \n \n\nA) \n1\n27  · 1\n\n26  \n\nB) \n1\n27  · 1\n\n27  \n\nC) \n1\n27  + 1\n\n27  \n\nD) \n1\n27   \n\n \n \n \n14. En un joyero hay 6 pulseras de plata y 4 de oro, si se sacan dos pulseras al azar, ¿cuál \n\nes la probabilidad de que al menos una sea de oro? \n \n \n\nA) 1 \n\nB) \n1\n2  \n\nC) 2\n\n3  \n\nD) 5\n\n6  \n\n \n \n \n15. Un reloj análogo perdió dos de sus punteros, quedando sólo el segundero. ¿Cuál es la \n\nprobabilidad de obtener un múltiplo de 3 al mirar una vez el reloj? \n \n \n\nA)  1\n\n2  \n\nB)  1\n\n3   \n\nC)  5\n\n9  \n\nD) \n5\n18  \n\n \n \n \n \n \n \n \n\nPágina 6 \n \n",
+      "cantidad_caracteres": 862,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "16. Un curso mixto está compuesto por 6 varones y 4 mujeres. Si se escogen dos alumnos \n\nsucesivamente a una interrogación, ¿cuál es la probabilidad de que estos sean de \ndistinto sexo? \n \n \n\nA)  8\n\n10  \n\nB)  8\n\n15   \n\nC)  24\n\n90  \n\nD) \n24\n100  \n\n \n \n \n \n17. Hay 7 fichas azules y 5 fichas verdes en la bolsa A, mientras que en la bolsa B hay  \n\n5 fichas azules y 15 fichas verdes. Si todas las fichas son de la misma forma y tamaño, \nal sacar una ficha de cada bolsa, ¿cuál es la probabilidad que ambas sean verdes? \n \n \n\nA) \n5\n48  \n\nB) \n7\n48  \n\nC) \n5\n16   \n\nD) \n7\n16  \n\n \n \n \n \n18. Ramiro y Gonzalo están matriculados en un curso de fotografía. Desde que comenzó el \n\ncurso, la asistencia a clases de Ramiro ha sido de un 80% y la de Gonzalo de un 60%, \nsiendo independientes sus ausencias. Si se elige un día al azar en que se haya \nimpartido el curso, ¿cuál es la probabilidad de que al menos uno de ellos haya asistido \na clases? \n \n \n\nA) 0,70 \nB) 0,75 \nC) 0,82 \nD) 0,92  \n \n \n\nPágina 7 \n \n",
+      "cantidad_caracteres": 995,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "19. La probabilidad de que un alumno universitario apruebe la asignatura A es 0,8 y la \n\nprobabilidad de que apruebe la asignatura B es 0,9, siendo independiente los \nresultados que se obtengan en cada una de las asignaturas. ¿Cuál es la probabilidad de \nque apruebe al menos una de estas asignaturas? \n \n \n\nA) 0,85 \nB) 0,98  \nC) 0,92 \nD) 0,96 \n\n \n \n \n \n \n20. Se tienen tres cajas, A, B y C. La caja A contiene 3 fichas blancas y 9 rojas, la caja B \n\ncontiene 4 fichas blancas y 8 rojas y la caja C contiene 8 fichas blancas y 4 rojas. Si se \nsaca al azar una ficha de cada caja, entonces ¿cuál es la probabilidad que las tres fichas \nsean del mismo color? \n \n\nA) \n1\n18  \n\n1\n6  \n\nB) \n\n \n\n2\n9  \n\nC) \n\n \n\n \n\nD) \n1\n108  \n\n \n \n \n \n \n21. En una bolsa hay 6 pelotitas numeradas del 1 al 6. Al sacar 2 pelotitas, una tras otra \n\nsin reposición, ¿cuál es la probabilidad que sean 2 números consecutivos? \n \n \n\nA) \n1\n15  \n\n5  \n\nB) \n\n18\n\n1\n3  \n\nC) \n\n \n\n \n\n5  \n\nD) \n\n36\n\n \n\nPágina 8 \n \n",
+      "cantidad_caracteres": 975,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "22. Se lanza un dado tres veces, obteniéndose 6 puntos en el primer lanzamiento. ¿Cuál es \n\nla probabilidad que la suma de los puntajes obtenidos en el segundo y en el tercer \nlanzamiento sea 6? \n \n\nA)  1\n\n6  \n\nB)  5\n\n6  \n\nC) \n1\n36  \n\nD) \n5\n36   \n\n \n \n \n23. En una caja hay seis ampolletas, de las cuales, dos son de 25 watts y el resto de 40 \n\nwatts. Si se extraen dos ampolletas a la vez, ¿cuál es la probabilidad que ambas sean \nde 40 watts? \n \n\nA) 1\n\n3   \n\nB) \n2\n3   \n\nC) 2\n\n5   \n\nD) 3\n\n5   \n\n \n \n24. Un proyectil está programado para que caiga en cualquier punto de la zona rectangular \n\nde la figura adjunta.  \n \n \n \n \n \n \n \n \n \n\n \n\n6 Km \n\n8 Km \n\nSi se considera  = 3, ¿cuál es la probabilidad de que dicho proyectil no caiga en la \nzona  circular? \n \n\nA)  1\n\n2   \n\nB)  1\n\n3   \n\nC) \n3\n16      \n\nD) 21\n\n48   \n\nPágina 9 \n \n",
+      "cantidad_caracteres": 828,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "25. En una urna con fichas azules, blancas, rojas y verdes, la probabilidad de escoger una \n\nficha azul o blanca es 0,4. Si en la urna hay 15 fichas de las cuales 7 son verdes, \nentonces ¿cuál es el número de fichas rojas? \n \n \n\nA) 6 \nB) 5 \nC) 4 \nD) 2  \n\n \n \n \n \n26. Cuando se lanza un dado normal y respecto al resultado que se obtenga, ¿cuál de las \n\nsiguientes afirmaciones es verdadera? \n \n \n\nA) La probabilidad que sea un primo impar es mayor que la probabilidad que sea par y \n\nno sea primo. \nB) La probabilidad que sea un cuadrado perfecto es menor que la probabilidad que sea \n\nun número compuesto. \nC) La probabilidad que sea un número compuesto es mayor que la probabilidad que \n\nsea un primo que no sea par. \nD) La probabilidad que sea un primo que no sea par, es la misma que sea par y no sea \n\nprimo.  \n \n \n\n \n \n \n27. En una bolsa hay 11 fichas, de las cuales 6 son rojas y el resto son azules. si se \n\nextraen de la bolsa, 2 fichas al azar y no se reponen, ¿cuál de las siguientes \noper",
+      "cantidad_caracteres": 1265,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "28. La tabla adjunta muestra los resultados de una encuesta realizada a un grupo de \n\nestudiantes de Tecnología Médica, los cuales debieron escoger una de las tres \nespecialidades que se indican en la tabla. \n \n \n \n\n \nBioanálisis \n\nImagenología Morfofisiopatología \n\nclínico \n\n \n \n \n \nSi se escoge aleatoriamente uno de estos estudiantes, ¿cuál es aproximadamente la \nprobabilidad \nque \nsea \nhombre \no \nque \nhaya \nescogido \nla \nespecialidad \nde \nMorfofisiopatología? \n \n \n\nHombre \n24 \n36 \n12 \nMujer \n16 \n24 \n8 \n \n\nA) 66,67%  \nB) 68,60% \nC) 72,60% \nD) 76,67% \n\n \n \n \n \n \n \n \n\n \nRESPUESTAS \n \n\n \n \n1.   \nA \n6.   \nC \n11. \nB \n16. \nB \n21. \nC \n26. \nD \n2.   \nB \n7.   \nD \n12. \nD \n17. \nC \n22. \nD \n27. \nC \n3.   \nB \n8.   \nB \n13. \nD \n18. \nD \n23. \nC \n28. \nA \n4.   \nD \n9. \nC \n14. \nC \n19. \nB \n24. \nD \n \n \n5.   \nA \n10. \nA \n15. \nB \n20. \nC \n25. \nD \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \nMA-35 \n\n \n \n\nPuedes complementar los contenidos de esta guía visitando nuestra web \n\nhttps://www.preupdv.cl/ \n\nPágina 11 \n \n",
+      "cantidad_caracteres": 985,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

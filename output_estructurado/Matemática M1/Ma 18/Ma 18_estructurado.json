@@ -1,0 +1,861 @@
+{
+  "archivo_original": "Ma 18.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 18.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 12,
+  "fecha_procesamiento": "2026-03-07T23:04:38.157298",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nAl aplicar una rotación de centro O y ángulo de giro de 90º a la figura adjunta, se \nobtiene \n \n \n \n \n \n \n\nCUADERNO DE EJERCICIOS N° 18 \n\nISOMETRÍAS \n\nO",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 18_p1_img4.jpg",
+        "Ma 18_p1_img3.jpg"
+      ]
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nMediante una simetría central con respecto a O, la figura sombreada se reflejó en la \nfigura no sombreada. Esto no es cierto en",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": "O O O O O"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "Ma 18_p1_img4.jpg",
+        "Ma 18_p1_img3.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \n¿Qué figura se obtiene al aplicar una rotación de centro O y un ángulo de giro de 90º a \nla figura adjunta? \n   \n \n \n \n \n \n \n\nO",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 18_p2_img14.jpg"
+      ]
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nAl cuadrado PQRS de la figura adjunta, con dos lados paralelos al eje x y centro en el \norigen O del sistema de ejes coordenados, se le aplica una o varias rotaciones en 90° \nalrededor del origen y/o reflexiones con respecto al eje x. ¿En cuál de las siguientes \nopciones la figura NO puede ser la imagen de PQRS después de aplicar una o varias de \nestas transformaciones isométricas? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nR \nS \n\nO \n\nx \n\nP \nQ \n\ny \n\ny \n\ny",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "A",
+          "texto": "R S S P R P O O O x x x Q R P Q Q S y y"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": "Q P Q R O O x x R P S S (Fuente: DEMRE, publicación 2013) 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 18_p2_img14.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nAl punto (2, -3) se aplica una traslación obteniéndose el punto (8, -7). Si al punto (-2, 5) \nse aplica la misma traslación, entonces se obtiene el punto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-4, 1)"
+        },
+        {
+          "letra": "B",
+          "texto": "(1, 4)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-1, 4)"
+        },
+        {
+          "letra": "D",
+          "texto": "(-1, -4)"
+        },
+        {
+          "letra": "E",
+          "texto": "(4, 1)"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn la figura adjunta, la circunferencia de centro T se traslada según un vector a la \ncircunferencia punteada de centro P. ¿Cuáles son las coordenadas del vector traslación? \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\n2 \n\nP \n\n-7 \n\n-5 \nT\n\nx \n\n-1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(2, 3)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-2, 3)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-12, 1)"
+        },
+        {
+          "letra": "D",
+          "texto": "(2, -3) (Fuente: DEMRE. Publicación 2013) 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 18_p3_img7.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEl lado de cada cuadradito de la cuadrícula de la figura adjunta, mide 1 unidad. El \ncuadrilátero PQRT se traslada según el vector v , obteniéndose el cuadrilátero P’Q’R’T’, \ndonde P’ es el homólogo de P y Q’ es el homólogo de Q. Si los cuadraditos de las \ncuadrículas de cada alternativa son de lado 1 unidad, ¿cuál de los siguientes vectores \nrepresentados en las alternativas es el vector v ? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nT \n\nP \n\nR \n\nQ \n\nT’ \n\nP’ \n\nR’ \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nQ’ \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": "y y x x y y x x"
+        },
+        {
+          "letra": "E",
+          "texto": "y x 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 18_p4_img10.jpg"
+      ]
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \n¿Cuál de las siguientes afirmaciones es siempre verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El triángulo tiene tres ejes de simetría"
+        },
+        {
+          "letra": "B",
+          "texto": "El rectángulo tiene cuatro ejes de simetría"
+        },
+        {
+          "letra": "C",
+          "texto": "La circunferencia tiene solo dos ejes de simetría"
+        },
+        {
+          "letra": "D",
+          "texto": "El trapecio isósceles tiene un eje de simetría"
+        },
+        {
+          "letra": "E",
+          "texto": "El cuadrado tiene solo dos ejes de simetría (Fuente: DEMRE. Publicación 2010)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nEl cuadrado ABCD de la figura adjunta ha sido transformado, mediante un vector \ntraslación, en el cuadrado achurado. ¿Cuál(es) de las siguientes afirmaciones es (son)  \nverdadera(s)?  \n \n \n\n \n \n \n \n \ny \n \n \n \n \n \n\n \n \n \n \n \n 4 \n \n \n \n \n\nC \n\nD \n\nI) \nEl vector traslación fue T(2, 0). \nII) \nLos puntos B y C permanecen  \ninvariantes. \nIII) \nEl área del cuadrado permanece \nconstante. \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n2  \n \n \n \n\nA \n\nB \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n   x \n \n \n \n \n \n \n \n \n \n \n \n\n-2 \n2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 18_p5_img23.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. En el plano cartesiano luego de aplicar la traslación T1(-8, 1) al triángulo ABC de \n\n \n \n \n \n \n \n \n \n \n \n \n\nvértices A(14, 3); B(16, 3) y C(16, 0) se trasforma en el A’B’C’, y a éste se le aplica \nuna traslación T2(-5, 1) obteniéndose el A’’B’’C’’ cuyo vértices C’’ es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(8, 1)"
+        },
+        {
+          "letra": "B",
+          "texto": "(11, 1)"
+        },
+        {
+          "letra": "C",
+          "texto": "(24, 1)"
+        },
+        {
+          "letra": "D",
+          "texto": "(29, 2)"
+        },
+        {
+          "letra": "E",
+          "texto": "(3, 2)"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 18_p5_img23.jpg"
+      ]
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. A todos los puntos del plano cartesiano de la figura adjunta, se les aplica una simetría \n\ncentral respecto al punto P(-1,2). ¿Cuáles son las coordenadas del punto de \nintersección de las diagonales del cuadrado imagen A’B’C’D’? \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(2, 1)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-2, -1)"
+        },
+        {
+          "letra": "C",
+          "texto": "(2, -1)"
+        },
+        {
+          "letra": "D",
+          "texto": "(1, -1) 5 D C 4 3 2 A B P 1 x -1 -5 1 2 3 4 5 -4 -3 -2 -1 -2 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 18_p5_img23.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Luego de aplicar la rotación R(0,-90º) al triángulo equilátero ABC de la figura adjunta, \n\nse transforma en el A’B’C’, cuyo vértice C’ tiene coordenadas \n \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( 3 , 0) C        "
+        },
+        {
+          "letra": "B",
+          "texto": "3, 0 2 -2 -1 1 2 A B"
+        },
+        {
+          "letra": "C",
+          "texto": "(0, 3 )"
+        },
+        {
+          "letra": "D",
+          "texto": "(2, 0)"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 18_p6_img40.jpg"
+      ]
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. En una simetría axial, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\n0 \n\nx \n\nI) \nLas figuras cambian de sentido respecto al giro de las manecillas del reloj. \nII) \nEs posible superponer mediante la traslación y/o rotación las figuras. \nIII) \nLas figuras obtenidas son congruentes.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 18_p6_img40.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Mediante una rotación de centro O  y ángulo  de 90º (en cualquier sentido), el ABC \n\nocupa la posición A’ B’ C’. Esto NO se cumple en",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "B)"
+        },
+        {
+          "letra": "C",
+          "texto": "D) E) A A A’ A’ B’ C’ A C O B’ C’ B B B O C’ A’ O C C B’ B A C A’ O A B’ O B’ C’ B = C’ C = A’ 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. En la figura adjunta, al aplicar al triángulo ABC una simetría puntual con respecto al \n\norigen, se obtiene el triángulo A’B’C’. ¿Cuál(es) de las siguientes transformaciones \nisométricas aplicada(s) al triángulo A’B’C’, permite(n) obtener el triángulo ABC como \nimagen? \n \n \n \n \n \n \n \n \n \n \n\ny \n\nC \n\n3 \n\nA \n\n2 \n\n1 \n\nB \n\n1 \n3 \n5 \n\nx \n\nI) \nUna reflexión con respecto al eje y, seguida de una reflexión con respecto al \neje x. \nII) \nUna traslación según el vector (2, 4). \nIII) \nUna rotación en 180° con centro en el origen y en sentido antihorario.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III (Fuente: DEMRE. Publicación 2018)"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 18_p7_img13.jpg"
+      ]
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En el plano cartesiano de la figura adjunta, se ha dibujado un rectángulo de vértices                 \n\nA(3, -1); B(6, -1); C(6, 1) y D(3, 1) y una recta L que bisecta al 1er y 3er cuadrantes. Si \nefectuamos una reflexión (simetría axial) de los puntos de este plano con respecto a L, \n¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \nLas coordenadas del punto homólogo de A \nson A’(-1, 3). \nII) \nLas diagonales del rectángulo imagen \n\ny \n\nL \n\n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n\nA’B’C’D’ se intersectan en el punto \n9\n0, 2\n\n\n\n\n\n\n\n \n \n \n \n \n \n \n \n \n \n \n \n\n. \n\n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\n \n \n \n \n \n \n \n \n \n \n \n \n\nIII) \nEsta transformación de ABCD en A’B’C’D’ \npudo efectuarse mediante traslaciones y \nrotaciones adecuadas. \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n\nx \nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 18_p7_img13.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Al romboide ABCD de la figura adjunta se le han trazado las diagonales y numerado los \n\ncuatro triángulos que se generan. ¿Cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n \n\nI) \nEl 1 es una simetría (reflexión) con centro en P del 3. \nII) \nEl 2 es una rotación  de 180º  y centro P del 4. \nIII) \nEl ABC es una simetría (reflexión) del CDA cuyo eje de simetría pasa por \n\nAC .",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 18_p8_img13.jpg"
+      ]
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. En el sistema de ejes coordenados de la figura adjunta, se ha ubicado el punto P(a, b). \n\nD \nC \n\n2 \n\nP \n\n3 \n1 \n\n4 \n\nA \nB \n\n¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n\nI) \nEl simétrico de P respecto al eje x es P’(a, -b). \nII) \nEl simétrico de P respecto al origen es P’’(-a, -b). \nIII) \nEl simétrico de P con respecto a un punto en el primer cuadrante es otro \npunto en el primer cuadrante.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III y P x (Fuente: DEMRE. Publicación 2010)"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 18_p8_img13.jpg"
+      ]
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. El trazo \n se rota en torno a M con un ángulo de 180° obteniendo P'Q' (figura \nadjunta). ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)?   \n \n \n\nPQ\n\nQ \n\nI) \nPQ   P'Q'  \nII) \nPMQ  P’MQ’ \n\nIII) \nQM   P'M \n \n \n\nP \n\nP’ \nM",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III Q’ 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": [
+        "Ma 18_p8_img13.jpg"
+      ]
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Si aplicamos una simetría axial con respecto al eje x al trazo AB  de la figura adjunta, \n\nel punto A se trasforma en el punto A’ de ordenada a, y si luego aplicamos una simetría \ncentral con respecto al origen de coordenadas al trazo transformado A'B' , obtenemos \nel trazo A\"B\"  cuyo punto B” tiene abscisa b. Luego, a + b es igual a \n \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2"
+        },
+        {
+          "letra": "B",
+          "texto": "0"
+        },
+        {
+          "letra": "C",
+          "texto": "-1"
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        },
+        {
+          "letra": "E",
+          "texto": "2"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "Ma 18_p9_img17.jpg"
+      ]
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. A todos los puntos del plano cartesiano (figura adjunta) se les aplica una simetría \n\nB \n\n4 \n\nA \n\n1 \n\nx \n\n-1 \n\n-3 \n\n(reflexión) con respecto al punto E de coordenadas (2,3). ¿Cuáles son las coordenadas \ndel punto  homólogo de B? \n \n\ny \n\nB \n\n \n\n7",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1, -1)"
+        },
+        {
+          "letra": "B",
+          "texto": "(1, 0)"
+        },
+        {
+          "letra": "C",
+          "texto": "(1, 3)"
+        },
+        {
+          "letra": "D",
+          "texto": "(2, -1) 6 5 4 3 A E C"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "Ma 18_p9_img17.jpg"
+      ]
+    },
+    {
+      "numero": 22,
+      "enunciado": "22.  En el plano cartesiano, ¿cuál de las siguientes transformaciones isométricas NO permite \n\n2 \n\n1 \n\nx \n\n1 \n3 \n\n2 \n4 \n\nobtener el punto (-4, 10) como imagen del punto (4, -10)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Una reflexión en torno al origen."
+        },
+        {
+          "letra": "B",
+          "texto": "Una traslación según el vector (-8, 20)."
+        },
+        {
+          "letra": "C",
+          "texto": "Una reflexión respecto del eje de las ordenadas."
+        },
+        {
+          "letra": "D",
+          "texto": "Una rotación de 180° en torno al origen y en sentido horario. 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": [
+        "Ma 18_p9_img17.jpg"
+      ]
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Dado el cuadrilátero de vértices A(0, -5); B(5, 0); C(3, 0) y D(0, -3). ¿Cuáles de las \n\nsiguientes afirmaciones son verdaderas? \n\n \n \n\nI) \nEl cuadrilátero es un trapecio isósceles. \nII) \nTiene un único eje de simetría el cual pasa por el origen. \nIII) \nSu centro de simetría está dado por la intersección de sus diagonales.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Al punto A de coordenadas (3, -3) se aplica una rotación de 90° respecto al punto B de \n\ncoordenadas (1, 1), obteniendo el punto A’. Luego, a dicho punto se aplica una simetría \naxial respecto a la recta que pasa por el punto A y el origen del sistema. Las \ncoordenadas de este nuevo punto son",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-3, -5)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-5, -3)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-1, 3)"
+        },
+        {
+          "letra": "D",
+          "texto": "(3, 1)"
+        },
+        {
+          "letra": "E",
+          "texto": "(3, 3)"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Respecto al rectángulo de la figura adjunta, ¿cuáles de las siguientes afirmaciones son \n\nverdaderas?  \n \n \n\nI) \nAl realizar una simetría axial del rectángulo respecto de la recta BC y luego, \notra simetría axial respecto de la recta AB, se obtiene una traslación. \nII) \nAl realizar una simetría axial respecto de una recta que contiene un lado \ncualquiera, y luego una simetría axial respecto de una recta que contiene \nuna de sus diagonales, solo un vértice se mantiene invariante. \nIII) \nAl realizar una cantidad par de simetrías axiales respecto a la recta que \ncontiene la diagonal DB , la figura permanece invariante. \n \n \n \n\nC \nD",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas A B 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": [
+        "Ma 18_p10_img4.jpg"
+      ]
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. \nDado el triángulo equilátero ABC de la figura adjunta, donde I es el Incentro, entonces \n¿cuáles de las siguientes afirmaciones son verdaderas? \n \n\nI) \nEl punto I es el centro de simetría del ABC. \nII) \nEl triángulo BFI se obtiene al aplicar dos simetrías axiales respecto del \ncateto menor y de la hipotenusa del triángulo AEI, respectivamente. \nIII) \nAl rotar el triángulo AEI en sentido horario en 120° con respecto al punto I \ny aplicarle a la figura homóloga obtenida una simetría axial respecto de su \nhipotenusa resulta el triángulo CFI. \n \n \n\nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguna de ellas D F I"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": [
+        "Ma 18_p11_img6.jpg"
+      ]
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. En la figura adjunta los cuadrados ABCD y EFGH son congruentes. Se puede determinar \n\nA \nB \n\nE \n\nque el cuadrado ABCD es simétrico (reflejo) al cuadrado EFGH respecto a L, si se sabe \nque: \n \n \n\nD \n\n(1) AC  // EG  \n\n(2) AF    L \n  \n \n\nC \nA \n\nH \n\nG",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": [
+        "Ma 18_p11_img6.jpg"
+      ]
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. En un cuadrilátero convexo ABCD, P es el punto de intersección de las diagonales AC  y \n\nB \n\nE \n\nF \nL \n\nBD . El triángulo ABP es una simetría (reflexión) del triángulo CDP con centro en P, si \nse sabe que: \n \n\n(1) ABCD es un paralelogramo. \n\n(2) DP = PB y  CP = PA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. En el sistema cartesiano de origen O. Se puede determinar las coordenadas del punto \n\nP(x,y), si se sabe que: \n\n \n \n(1) al aplicar al punto P una rotación R(0, 180º) se obtiene el punto (-4, 5). \n\n(2) al aplicar al punto P una traslación T(-2, -3) y a continuación se aplica una rotación \n\nR(0, 90º) se obtiene el punto (8, 2).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. En la figura adjunta, se cumple que ABC  A’B’C’. El A’B’C’ es una imagen de \n\nsimetría axial, con respecto a la recta L del ABC, si se sabe que:  \n \n \n\n(1) L  AA'   y  L  BB'  \n\nB \n\nP \n\nB’ \n\n(2) BP   B'P , AQ   A'Q  y CR   C'R  \n \n \n\nR \n\nC \n\nC’",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional A Q A’ L RESPUESTAS"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "Ma 18_p12_img5.jpg"
+      ]
+    }
+  ]
+}

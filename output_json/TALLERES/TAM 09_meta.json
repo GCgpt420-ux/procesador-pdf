@@ -1,0 +1,73 @@
+{
+  "filename": "TAM 09.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TAM 09.pdf",
+  "num_paginas": 4,
+  "titulo": "",
+  "autor": "lenovo",
+  "fecha_procesamiento": "2026-03-07T16:01:44.331447",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": " \n\nMATEMÁTICAS \nTALLER AVANZADO Nº 09 \nTAM-09 – PROBABILIDADES Y ESTADÍSTICA \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n \n1. \nLas notas obtenidas por un alumno en la asignatura de historia son: 4,3 ; 6,1; 7,0; \n6,1; 6,8 y 6,1. ¿Cuál debe ser la nota mínima coeficiente dos que debe obtener en su        \núltima prueba para que su promedio sea igual a la moda actual de sus notas? \n \n \n\nA) 6,1 \nB) 6,2  \nC) 6,3 \nD) 6,4 \n\n \n \n \n2. \nLa tabla adjunta, muestra la cantidad de personas por casa al realizar una encuesta en \nuna población. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \n La media aritmética y la mediana son iguales. \nII) \n La muestra es bimodal. \nIII) \n Una de las modas es igual a la mediana. \n \n \n\nNº de personas \n\nFrecuencia \nabsoluta (F) \n1 \n5 \n\npor casa  (xi) \n\n \nA) Solo II \nB) Solo III \nC) Solo I y III \nD) Solo II y III  \n \n \n \n3. \nSi la mediana de los datos de la tabla adjunta es 22,5, ¿cuál es el valor de q?  \n\n2 \n20 \n\n3 \n30 \n\n4 \n30 \n\n5 \n5 \n\n6 \n10 \n\n \n \n\nDato \n5 \n10 ",
+      "cantidad_caracteres": 1102,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 98.0693359375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.3701171875
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "4. \nLa media aritmética de 6 números enteros positivos y distintos es 12. ¿Cuál será el    \nmayor valor que puede tomar uno de los números? \n\n \nA) 55 \nB) 57  \nC) 59 \nD) 60 \n\n \n \n \n5. \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n\nI) \nLa suma de las frecuencias absolutas indica el tamaño de la muestra. \nII) \nEl rango intercuartílico es Q3 – Q1.  \nIII) \nLa suma de las frecuencias relativas es igual a la unidad. \n \n\nA) Solo I y II \nB) Solo I y III \nC) Solo II y III \nD) I, II y III \n \n \n6. \nEl promedio de 4 números enteros es 25. Si a esos números se le agregan otros dos  \nenteros, a  y  b, el promedio de los 6 números es 36. ¿Cuál es el promedio de a  y  b? \n \n\nA)   11 \nB)   61 \nC)   58  \nD) 116 \n \n \n \n7. \nUna empresa tiene 3 proveedores distintos para la compra de ordenadores, los cuales   \npueden resultar buenos o defectuosos. Con datos anteriores que se tienen, se \nconstruye la tabla adjunta que indica las frecuencias de ordenadores buenos o \ndefectuosos, provenient",
+      "cantidad_caracteres": 1324,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "8. \nEn una familia con dos hijos se sabe que hay algún varón (sin especificar el orden), \n¿cuál es la probabilidad que el otro también sea varón? \n\n \n\nA) \n1\n2  \n\nB) \n1\n4  \n\nC) 1\n\n3   \n\nD) 2\n\n3   \n\n \n \n \n9. \nLa probabilidad que una persona sufra de obesidad es 0,60 y la probabilidad que sufra \nproblemas coronarios y obesidad es 0,2. ¿Cuál es la probabilidad que una persona \nestando obesa sufra problemas coronarios? \n\n \n\nA) \n3\n25  \n\nB)  1\n\n5  \n\nC)  1\n\n3   \n\nD)  3\n\n5  \n\n \n \n \n10. Una caja contiene 8 esferas verdes, 3 azules y 9 rojas. Al extraer 3 de ellas, sin \n\nreposición, ¿cuál es la probabilidad que sean todas de diferentes colores? \n \n\nA) \n27\n1000  \n\nB)   18\n\n95  \n\nC)   6\n\n95  \n\nD)  81\n\n500  \n\n \n \n\n11. Si se sabe que P(AB) = 0,6  y  P( A  B) = 0,8, entonces P(A) = \n\nA) 0,1 \nB) 0,3 \nC) 0,5 \nD) 0,8 \n \n\n3 \n \n",
+      "cantidad_caracteres": 821,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "12. En un jardín infantil se tiene 6 niñas y 6 niños, los cuales fueron divididos en dos \n\ngrupos de seis para realizar un juego. ¿Cuál es la probabilidad de que cada grupo se \nforme con el mismo número de niñas que de niños? \n\nA) 0,3663 \nB) 0,3963 \nC) 0,4329 \nD) 0,4545 \n \n\n \n\n13. Un juego consiste en lanzar un dado y si se obtiene un valor primo se debe pagar  \n\n10 fichas, y si no resulta primo se nos paga 20 fichas. Si este juego se repite una \ncantidad suficiente de veces, ¿cuántas fichas se espera ganar o perder? \n\nA)   2 \nB)   5 \nC)   8 \nD) 10 \n\n \n \n \n14. Si la probabilidad de resolver un problema cualquiera es p, ¿cuál es la probabilidad de \n\nresolver al menos un problema de n propuestos? \n\nA) 1 – (1 – p)n \nB) (1 – p)n + 1 \nC) (1 – p)n \nD) (1 – p)n – 1 \n\n \n \n\n15. Paulina fue al casino y jugó en la ruleta 8 veces, ganando 3 veces y perdiendo las \n\nrestantes. ¿De cuántas maneras pudo haber ocurrido esto, si se sabe que en el primer \njuego ganó?   \n\nA) 21 \nB) 24 \nC) 28 \nD) 42 \n\n \n \n",
+      "cantidad_caracteres": 1021,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

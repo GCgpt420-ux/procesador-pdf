@@ -1,0 +1,133 @@
+{
+  "filename": "Ma 25.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 25.pdf",
+  "num_paginas": 9,
+  "titulo": "",
+  "autor": "Luis Antonio Pranao Huenun",
+  "fecha_procesamiento": "2026-03-07T16:01:15.222979",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemáticas  \nMaterial : MA-28 \n\n \n \n \n \n \n \n \n \n \n \n \n \n\nCUADERNO DE EJERCICIOS N° 25 \n\nRAÍCES Y FUNCIÓN RAÍZ \n\n1. \n3\n5\n125\n1\n + \n512\n32 = \n\n \n\nA) 3\n\n2  \n\nB) \n9\n8\n\n \n\nC) \n3\n4\n\n \n\nD) 5\n\n8  \n\n \n \n \n2. \n¿Cuál(es) de las siguientes raíces representa(n) un número real? \n \n\nI) \n6\n64\n\n \n\nII) \n3\n27\n\n \n\nIII) \n5  \n \n\nA) Solo II \nB) Solo III \nC) Solo II y III \nD) I, II y III \n \n \n \n3. \nSi x > 0, entonces ( x  2)(2 + x)\n\n es igual a  \n \n\nA) x – 4   \nB) x2 – 4  \nC) x2 – 2x \nD) x2 – 2  \n\n \n \n",
+      "cantidad_caracteres": 487,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.3955078125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 42.5595703125
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "4. \nEl valor de la expresión ( 5 + 2 3)(4 3  2 5)\n\n\nes \n \n\n \n\nA) 14 \nB) 10 \nC)   7 \nD)   2 \n\n \n \n \n5. \n¿Cuál(es) de las siguientes igualdades es (son) verdadera(s)? \n \n\nI) \n20 2 : 5 = 4 5  \n\nII) \n5 0,00243 = 0,3 \n\n4\n5\n9\n5 · \n4 = 20  \n  \n\nIII) \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo II y III \n \n \n\nx\n2  x\na  · 14b a\n\n\n\n6. \nSi a > 0  y  b ≠ 0, entonces \n\n = \n\n7b\n\n \n\nA) 7ab \nB) 7b \nC) 7a \nD) 2a \n\n \n \n\n3\n2 8x x  es igual a  \n \n\n7. \nSi x > 0, entonces \n\nA) 4\nx  \n\n3\n2\nx  \n\nB) 2\n\n4 x  \nD) 4x \n \n \n\nC) 2\n\n4\n3\n5\n\n12\nx · x · \nx\n\n8. \nSi x > 0, entonces \n\n  es igual a  \n\nx\n\n \n\nA) x3 \nB) 3x \n\n12\n25\nx\n \nD) x2 \n \n\nC) \n\n2 \n \n",
+      "cantidad_caracteres": 626,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "b\nn\nn\nb\na\np\n\n es igual a  \n\n9. \nSi a, b, n y p son números reales positivos, entonces \n\n \n \n\nA) ap \n\n2\n2\nn  + b\n\nnb\n(ap)\n \n\nB) \n\nC) \n \n2\n2\nbn\nn\nb\na\np\n \n\nD) \n \nbn\nn+b\n(ap)\n \n\nE) ninguna de las expresiones anteriores. \n \n\n(DEMRE. Publicación 2016) \n \n \n \n\n10. El orden decreciente de los números a = 4\n4 · 7 , b = 4 5 · 5  y  c = 4\n7 · 2  es \n \n \n\nA) a, b, c \nB) a, c, b \nC) b, a, c \nD) c, b, a \n \n \n \n \n\n11. Si x es un número real mayor que 1, entonces \n\n\n2\nx\n1\nx\n1\n\n\n\n es igual a \n\n \n \n\nA) 0 \nB) 2 \n\nC) \n2\n2x\nx\n1\n\n\n \n\nD) \n2\n2x\n2 x\n1\n\n\n \nE) 2x \n\n(DEMRE. Publicación 2016) \n \n \n \n12. Si a, x > 0  y  m = ax2 + a2x + 2ax\nax , entonces \nm  = \n \n\nA) x\na + a x  \n\nB) \n2\n(x a + a x)  \n\nC) 2x\na  \n\nD) 2a\nx  \n \n \n \n \n\n3 \n \n",
+      "cantidad_caracteres": 724,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "8\n7\n7\n7\n7\n7\n\n5  + 5  + 5  + 5  + 5\n\n13. \n\n =  \n\n7\n7\n7\n7\n7\n\n5  + 5  + 5  + 5  + 5\n\n \n \n\nA)    1 \n\nB) \n1\n125  \n\n1\n10  \n\nC) \n\n \n\n1\n25  \n\nD) \n\n \n\n \n \n \n \n \n\na\n\n14. Al racionalizar la expresión \n\n, con a  0, se obtiene \n\n5\n3\n\na a\n\n \n\n8 a  \n\nA) \n\n8\n11\na\n \n\nB) \n\n11\n15\na\n \n\nC) \n\n15\n11\na\n \n \n \n \n \n \n\nD) \n\n15. Si x > 1, entonces \nx  1\n\n\n\n es igual a  \n\n2( x  1)\n\n\n\n \n \n\nA) \nx  1\n\n\n\n \n\n2\n\n \n\nB) 1  x\n\n2\n\n \n\nC) \nx + 1\n\n2\n  \n\nD) ( x  1)\n\n \n\n \n \n \n \n \n \n \n\n4 \n \n",
+      "cantidad_caracteres": 456,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "16. ¿Cuál(es) de los siguientes números multiplicados por ( 2 + 3)  da(n) como resultado \n\nun número racional? \n \n \n\nI) \n2 2\n2 3\n\n  \n\nII) \n1\n\n  \n\n2 + 3\n\nIII) \n1\n\n  \n\n2 - 3\n\n \nA) Solo I \nB) Solo II  \nC) Solo I y II \nD) Solo I y III \nE) I, II y III   \n\n(DEMRE. Publicación 2013) \n\n \n \n\n5\nx  5 = \n\n17.   Si x > 5, entonces ¿cuál es el valor de x2 al resolver la ecuación\n\nx + 5\n\n? \n\n \n\nA) 50 \nB) 25 \n\nC)   2\n5  \n\nD) \n50  \n \n \n\n\n\n\n\n\n\n\n\n\n18. Si x, y > 0, entonces \nx\ny\n1\n + \n : \ny\nx\nxy\n\n =  \n\nA)  x – y  \nB)  x + y \nC)  y – x  \nD) -y – x  \n\n \n \n \n\n19. Si p\n0\nq \n, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n\n \n\nI) \n2\n2\np  + q  = p + q \n\nII) \n2\n2\np  + q  = p + q \n\nIII) \n2\n2\np  + q  > 0 \n\n \nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y III \nE) Solo II y III \n\n(DEMRE. Publicación 2010) \n\n5 \n \n",
+      "cantidad_caracteres": 827,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "2\n2\n2009\nn\nN\n\n2009\nn\n\n\n\n20. Sea \n3\n\n, ¿cuál debe ser el valor de n para que el valor de N sea 0,1? \n\n\n\n \n \n\nA) 1000 \nB) 1009 \nC) 1090 \nD) 2000 \n\n \n\n \n \n21. Si  la gráfica de la función f(x) = \nx  se  traslada generando la función homóloga de \n\ng(x) = \nx  2\n\n – 3, entonces las coordenadas del punto homólogo del origen de la \nfunción inicial es  \n \n\nA) (-3, -2) \nB) (-3, 2) \nC) ( 2, -3) \nD) (-2, 3) \n \n \n \n \n22. La gráfica de la función f(x) = 2 – 3x + 1  intersecta al eje x en el punto \n \n \n\nA) (1,0) \nB) (0,1) \nC) (0,0) \nD) (-1,0) \n \n \n \n \n\n23. \n\n\n3\n7\n13\n7\n5\n7\n\n\n\n\n = \n\n \n \n\nA) \n7  \nB) 7 \nC) 6 \nD) 4 \n \n \n\n6 \n \n",
+      "cantidad_caracteres": 624,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "24. La gráfica de la función que es simétrica  a la función f(x) = 3 + \nx  con respecto a la \nrecta y = 3, está mejor representada en la opción \n \n \n \nA) \n \n \n \nB) \n \n \n \nC) \n \n   \n \n \n \n \n \n \n \n \n   \n \n \n \nD) \n \n \n \n \n \n \n \n \n \n \n \n \n \n25. La cantidad de enfermos de un país después de ser afectado por una epidemia, \n\ny \n\ny \n\ny \n\n3\n2\n\n3 \n\n3 \n\nx \n\n-9 \nx \n\n9 \nx \n\n9 \n\ny \n\nx \n\n9 \n\n-3 \n\ndisminuye por día, a la raíz cuadrada del día anterior. Si el número de enfermos que \nhay el primer día es x, entonces ¿cuántos enfermos habrá el décimo día? \n\n \n\n1024 x  \n\nA) \n\n512 x  \n\nB) \n\n256 x  \n\nC) \n\n81 x  \n \n \n \n \n26. ¿Cuál de las siguientes afirmaciones es FALSA? \n\nD) \n\n6\n2\n6\n(-2) =(-2)  \n\nA) \n\n4\n2\n4\n0  = 0\n \n\nB) \n\nC) \n(-2)  no es un número real \n\nD) \n3 (-3)  es un número real \n\n \n\n7 \n \n",
+      "cantidad_caracteres": 783,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "1\n3\n2  2\n\n\n\n\n\n\n\n\n\n\n\n\n27.    \n\n = \n\n1  2\n\n \n \n\n6 2  \n\nA) \n  \n\nB) \n  \n2  \n\n6 2  \n\nC) \n  -\n\n3 2  2\n\n \n \n \n \n \n \n\nD) \n\n1\n3\n3\n4   3 0,4\n\n = \n\n28. \n\n \n \n\n3 2  \n\nA) \n\nB) 6 2  \n\nC) \n2  \nD)  2 \n \n \n\n \n \n \n \n \n\np\np\np + 2\np\n-3\n3\n  3  · 2\n\n = \n \n \nA) 3 \n\n29. \n\nB) \n3\n8  · \n\np\n( 8)  \n\n\n\n\n\n\n\n\n\n\nC) 3 · \np 5\n\n \n\n8\n\n6\n-p\n6\n \n \n \n \n \n \n\nD) \n\n8 \n \n",
+      "cantidad_caracteres": 351,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "30. Dada la función f(x) = 2\n2  x\n\n\n, ¿cuál(es) de las siguiente(s) afirmaciones es (son) \nverdadera(s)? \n \n\nI) \nEl dominio de la función es  D = ]-, 2]. \nII) \nEl recorrido de la función es R = ]-, 2].   \nIII) \nLa imagen de (-2) es cero.  \n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) I, II y III \n \n \n\n \n \n \n \n \n \n\nRESPUESTAS \n \n\n1.   \nB \n7.   \nC \n13. \nB \n19. \nD \n25. \nB \n2.   \nC \n8.   \nD \n14. \nD \n20. \nB \n26. \nA \n3.   \nA \n9.   \nC \n15. \nC \n21. \nC \n27. \nC \n4.   \nA \n10. \nC \n16. \nC \n22. \nA \n28. \nD \n5.   \nB \n11. \nD \n17. \nA \n23. \nD \n29. \nA \n6.   \nD \n12. \nA \n18. \nB \n24. \nC \n30. \nD \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMA-28 \n\n \n \nPuedes complementar los contenidos de esta guía visitando nuestra web \n\nhttp://www.pedrodevaldivia.cl/ \n\n9 \n \n",
+      "cantidad_caracteres": 749,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

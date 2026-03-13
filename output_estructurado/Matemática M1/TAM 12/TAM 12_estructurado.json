@@ -1,0 +1,380 @@
+{
+  "archivo_original": "TAM 12.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TAM 12.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 4,
+  "fecha_procesamiento": "2026-03-07T23:05:49.177021",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSi f(x) es una función cuadrática decreciente en [-5,1] tal que f(-5) > f(-1), entonces \n¿cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n\nTAM-12 \n\nI) \nf(3) > f(0) \nII) \nf(-2) < f(2) \nIII) \nf(-3) > f(-2)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn el triángulo PQR de la figura adjunta, SRP = 15° y SQ = QR. Entonces, PR\n\nSR  =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 R"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "2 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2 3"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": [
+        "TAM 12_p1_img3.jpg",
+        "TAM 12_p1_img1.jpg"
+      ]
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \n¿Cuál es el área de un triángulo equilátero inscrito en un círculo de área 4? \n \n \n\nP \nS \nQ",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 3"
+        },
+        {
+          "letra": "B",
+          "texto": "2 3"
+        },
+        {
+          "letra": "C",
+          "texto": "3 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2 2"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nSi x2 + x – 1 = 0, entonces ¿cuál es el valor de x2 + \n\n? \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nEn la figura adjunta, ABCD es un cuadrado en que DP = CP = EP. ¿Cuál es la longitud \nde EP , si AB = 10? \n \n \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "5,25"
+        },
+        {
+          "letra": "C",
+          "texto": "5,78"
+        },
+        {
+          "letra": "D",
+          "texto": "6,25 P"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TAM 12_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn la figura adjunta, OH  es perpendicular a la recta L de ecuación 3x – 4y = 28. ¿Cuál \n\nA \nE \nB \n\nes la longitud de OH ? \n \n \n\ny \n\nL",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,6"
+        },
+        {
+          "letra": "B",
+          "texto": "6,5"
+        },
+        {
+          "letra": "C",
+          "texto": "8,0"
+        },
+        {
+          "letra": "D",
+          "texto": "8,5 0 x H"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TAM 12_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi el mínimo valor que puede tomar y = x2 – 2kx + k  es -12, entonces ¿cuál(es) de los \nsiguientes valor(es) puede tomar k?   \n \n \n\nI) \nk = -4 \nII) \nk = -3 \nIII) \nk = 4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nSi N = a + ab, donde a y b son números primos distintos, entonces ¿cuál(es) de las \nsiguientes afirmaciones es (son) FALSA(S) con respecto a N? \n \n\nI) \nN no puede ser primo. \nII) \nEl mínimo valor de N es 8. \nIII) \nN tiene 4 divisores positivos al menos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSi a y b son dos enteros positivos, tales que a2 = 34b, entonces a : 27 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "32b – 3"
+        },
+        {
+          "letra": "B",
+          "texto": "32b + 27"
+        },
+        {
+          "letra": "C",
+          "texto": "34b"
+        },
+        {
+          "letra": "D",
+          "texto": "34b + 1"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. En la figura adjunta, O es centro de circunferencia OPQR es un rectángulo y el triángulo \n\nQSR es isósceles. Si P y T son puntos de tangencia y TR = 2, ¿cuál es el área del \nrectángulo? \n \n \n\nR \nT",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "4 2 O S"
+        },
+        {
+          "letra": "D",
+          "texto": "4 3 Q"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TAM 12_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. En el gráfico de la figura adjunta, la recta L es tangente a la circunferencia en el  \n\nP \n\npunto P. Si la circunferencia tiene un diámetro igual a 10, es tangente a los ejes \ncoordenados y P(8,9), ¿cuál es la ecuación de L?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x + 2y = 26"
+        },
+        {
+          "letra": "B",
+          "texto": "x + y = 17"
+        },
+        {
+          "letra": "C",
+          "texto": "3x + 4y = 60"
+        },
+        {
+          "letra": "D",
+          "texto": "4x + 3y = 59 y L P x 0 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "TAM 12_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Las rectas L1 y L2 se intersectan solo en el punto P de coordenadas (1, 4). Si la recta L1 \n\ntiene ecuación igual a y = 2x – k, entonces ¿cuál de los siguientes puntos NO \npertenece a la recta L2?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-1, 1)"
+        },
+        {
+          "letra": "B",
+          "texto": "(3, 8)"
+        },
+        {
+          "letra": "C",
+          "texto": "(-2, -1)"
+        },
+        {
+          "letra": "D",
+          "texto": "(2, 5)"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Si 1\n\np  < 0, ¿cuál de los siguientes puede ser un valor de m\n\nm  <  1\n\np ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-5"
+        },
+        {
+          "letra": "B",
+          "texto": "- 2 3"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "3 7 0,5 0,5 0,25 (0,5)"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Al simplificar \n-7\n\n, se obtiene \n\n[(0,5)\n + (0,25)\n]",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "16"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. ¿Cuál es el menor valor de x para el cual se cumple la igualdad x(xx) = (25)8, si \n\nse sabe que ab = b + 1\n\na\n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "2 3"
+        },
+        {
+          "letra": "C",
+          "texto": "-1"
+        },
+        {
+          "letra": "D",
+          "texto": "- 1 3 TAM-12 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    }
+  ]
+}

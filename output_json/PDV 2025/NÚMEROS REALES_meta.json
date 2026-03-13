@@ -1,0 +1,52 @@
+{
+  "filename": "NÚMEROS REALES.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/NÚMEROS REALES.pdf",
+  "num_paginas": 6,
+  "titulo": "",
+  "autor": "",
+  "fecha_procesamiento": "2026-03-07T16:00:55.471064",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "NÚMEROS REALES \n\n \n",
+      "cantidad_caracteres": 19,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 1224.9248046875
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "MATEMÁTICA\n60\n\n3.\t NÚMEROS\n\t\nIRRACIONALES       ,\n\n3.1\t DEFINICIÓN DE NÚMERO IRRACIONAL\n\nSon números con desarrollos decimales infinitos no periódicos, como por ejemplo,   π  = 3,1415927...\nNo es posible escribirlos como un número racional.\n\n3.2\t RAÍCES CUADRADAS\n\nLa definición y algunas propiedades de las raíces cuadradas, para a y b números racionales no negativos, son:\n\n3.2.1\t\nDEFINICIONES\n\nOBSERVACIONES\n\na   =  b   <=>  b2  =  a\n\na2   =  | a |\n\nSi a y b son primos, entonces.\n\n•\t      a   y      b     son irracionales.\n\n3.2.2\t\nPROPIEDADES\n\n•\t      a   +      b    es irracional.\n\n•\t      a   ‒      b    es irracional, con  a ≠ b.\n\na    ·        b      =        a · b\n\n•\t      a    :      b    es irracional, con  a ≠ b.\n\na    ·        b      =        a2 · b\n\n•\t       2 =  1,414213...\n\n•\t       3 =   1,732050...\n\na\nb\n\na\nb\n=\ncon b ≠ 0\n\n•\t       5 =  2,236067...\n",
+      "cantidad_caracteres": 872,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 61\n\nEJERCICIOS\n\n1.\t Determine si el resultado de las siguientes operaciones es un número racional o irracional:\n\na.       3  ·     12\ne.         1,44  \n\nb.\n18\n\nf.         2,7\n\n2\n\ng.\t 3     35\n\nc.\t     15\n\n\t\n4     7\n\n5\n\nd.    2     3  ·  3     2\n\nh.\t     9 · p2  ,  con p un número entero negativo\n",
+      "cantidad_caracteres": 336,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": "MATEMÁTICA\n62\n\n2.\t El orden decreciente de   p =  4     3   ,  q =  2    13   ,   r =  5     2   es\n\n3.\t 2     2  -  5     3  +  4     2  -  6     3    =\n\n4.\t   72  -    27   -       50  +    48    =\n\n5. El orden creciente de   A=       5 + 3   ,   B=    27   y     C =       72  - \t     8     es\n\n6.\t Si      2   ≈   1,4142  , entonces        72    aproximado por redondeo a la centésima es\n\n3. 6    2 - 11    3\n4.     2  +      3\n5. B, A, C\n6. 8,49\n\nRespuestas\n1a. Racional\nb. Racional\nc. Irracional\nd. Irracional\ne. Racional\nf. Racional\ng. Irracional\nh. Racional\n2.   q, r, p\n",
+      "cantidad_caracteres": 579,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": "CAPÍTULO I: NÚMEROS Y PROPORCIONALIDAD 63\n\n4.   NÚMEROS REALES         \n\n4.1\t DEFINICIÓN DE NÚMERO REAL\n\nEl conjunto de los números reales (       ) es la unión del conjunto de los números racionales (       ) con los irracionales \n(         ), el cual se expresa como\n\n=          U \n\n=  Ø\n\n4.2\t OPERATORIA EN        \n\nEl resultado de una operación entre racionales es siempre otro número racional (excluyendo la división por cero).\n\nLas operaciones entre números irracionales no siempre resultan un número irracional.\n\nEl resultado de las operaciones entre un número racional (         ) y un irracional (          ) es un número irracional, exceptuándose \nla multiplicación y la división por cero.\n\nOBSERVACIONES\n\nLos números de la forma       a   ,  con   a < 0   y  n par , no son números reales.\n\nCuando se tiene una potencia de base negativa con exponente racional esta se indetermina, \nporque no existe el concepto de par e impar en los números racionales.\n",
+      "cantidad_caracteres": 964,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": "MATEMÁTICA\n64\n\nEJERCICIOS\n\nConteste verdadero (V) o falso (F) a las siguientes afirmaciones:\n\n1.___       2,5   es racional\n\n2. ___      0,04   es racional\n\n3.___       1,7   es irracional\n\n4.___       4    ≤       9\n\n5.___   3    2   <   2    5\n\n6.___   El resultado de       3  ‒     27    es racional\n\n7.___   El resultado de       3  ·     27    es racional\n\n8.___   El resultado de               es irracional\n27\n\n3\n\n9.___   Si  x = 3 , al evaluar la expresión       x ‒ 2    resulta un número natural\n\n10.___  Si  x = 5 , al evaluar la expresión       5 ‒ x    resulta un número cardinal\n\n11.___  Si a y b son dos números irracionales positivos entonces (a + b) es siempre irracional\n\n12.___      ‒22   es real\n\n13.___      7‒ 4    3   es real\n\nRespuestas\n1. F\n2. V\n3. F\n4. V\n5. V\n6. F\n7. V\n8. F\n9. V\n10. V 11. F 12. F 13. V\n",
+      "cantidad_caracteres": 831,
+      "imagenes": []
+    }
+  ]
+}

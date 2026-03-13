@@ -1,0 +1,306 @@
+{
+  "filename": "Ensayo n° 4.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/Ensayo n° 4.pdf",
+  "num_paginas": 23,
+  "titulo": "",
+  "autor": "Usuario",
+  "fecha_procesamiento": "2026-03-07T16:03:46.352151",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "C u r s o :   MATEMÁTICA \n\n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \nCUARTA JORNADA DE EVALUACIÓN GENERAL \n\n \nPAES 1 - MATEMÁTICA  \n\n \nON LINE \n\n \n \n \n2022 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+      "cantidad_caracteres": 186,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0615234375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "PRUEBA MATEMÁTICA \n\n INSTRUCCIONES  \n \n \nEsta prueba consta de 65 preguntas, de las cuales 60 serán consideradas para el cálculo de \n\npuntaje y 5 serán usadas para experimentación y por lo tanto, no se considerarán en el \n\npuntaje final de la prueba. Cada pregunta tiene cuatro (4) opciones, señaladas con las letras \n\nA, B, C y D, una sola de las cuales es la respuesta correcta.  \n\nDISPONE DE 2 HORAS Y 20 MINUTOS PARA RESPONDERLA. \n\n \n \nINSTRUCCIONES ESPECÍFICAS \n \n1. \nLas figuras que aparecen en la prueba son solo indicativas. \n\n2. \nLos gráficos que se presentan en esta prueba están dibujados en un sistema de \n\nejes perpendiculares. \n\n3. \nEl intervalo [p, q] es el conjunto de todos los números reales mayores o iguales a p y \n\nmenores o iguales a q; el intervalo ]p, q] es el conjunto de todos los números reales \n\nmayores que p y menores o iguales a q; el intervalo [p, q[ es el conjunto de todos los \n\nnúmeros reales mayores o iguales a p y menores que q; y el intervalo ]p, q[ es el \n\ncon",
+      "cantidad_caracteres": 1521,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \nSÍMBOLOS MATEMÁTICOS \n\n \n\n \n  es menor que \n  es congruente con \n \n  es mayor que \n  es semejante con \n \n  es menor o igual a \n  es perpendicular a \n    \n  es mayor o igual a \n  es distinto de \n \n  ángulo recto \n  es paralelo a \n \n    ángulo \n  trazo AB \n \n     logaritmo en base 10 \n  pertenece a \n \n    conjunto vacío \n  valor absoluto de x \n  \n   es aproximado a                  \n         factorial de x \n \n    unión de conjuntos  \n \n         intersección de conjuntos \n \n    complemento del conjunto A                 vector u \n       \n   \n   \n \n     \n\n \n\n  \n\n \n\n \n\n \n\n \n\n \n\n \n\n // \n\n \n\n \n\nAB  \n\nlog \n\n \n\n x \n\n \n\n \n\n x! \n\n \n\nln \n \n\nu \n\nAC \n\n \n\n3 \n \n",
+      "cantidad_caracteres": 671,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "1. \nSi N = 3\n1\n3\n1\n5\n  \n + \n + \n  \n5\n2\n4\n10\n8\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n, ¿cuál es el mayor número entero menor que N? \n\n \n \n\nA) -2 \nB) -1 \nC) 0 \nD) 1 \n \n \n \n \n \n \n2. \n[(1,5)2 : 32]-2 =  \n \n \n\n\n\n\n\n\n\n\n\n4\n1\n2\n\nA) \n\n \n\n\n\n\n\n\n\n\n \n\n4\n1\n4\n\nB) \n\nC) 4-4 \nD) 2-4 \n \n \n \n \n \n \n \n3. \nUn agricultor colombiano compró 300 gramos de semillas de café. Al poner un puñado \nde semillas en una balanza electrónica, se percató que 15 semillas pesaban 1 gramo. Si \ntodas las semillas pesan lo mismo, ¿cuántas semillas de café compró este agricultor? \n \n \n\nA) 4.500 \nB) 3.000 \nC) 1.500 \nD) 900 \n \n \n \n \n\n4 \n \n",
+      "cantidad_caracteres": 606,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "4. \nEl mecánico de un equipo de autos deportivos necesita que las siguientes medidas \ntomadas en uno de los autos sean obtenidas en metros: \n \n\na) distancia x entre los ejes delantero y trasero. \nb) altura y entre el suelo y la parte superior del asiento. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny = 160 cm \n\nx = 2.300 mm \n\nAl optar por las medidas x e y en metros se obtiene, respectivamente,  \n \n \n\nA) 0,23 y 0,16 \nB) 2,3 y 1,6 \nC) 23 y 1,6 \nD) 2,3 y 16 \n \n \n \n \n5. \nExiste un juego llamado Paciencia, en el cual se utilizan las 52 cartas de una baraja. \nConsiste en que inicialmente se forman siete columnas con las cartas, y en que la \nprimera columna tiene una carta, la segunda tiene 2 cartas, la tercera tiene 3 cartas y \nasí sucesivamente hasta la séptima columna que tiene 7 cartas y lo que sobra forma el \nmonte, que son las cartas no utilizadas. La cantidad de cartas que forma el monte \nequivale \n \n \n\nA) al 48% del total de cartas. \nB) al 50% del total de cartas más 2. \nC) al 52% del total de car",
+      "cantidad_caracteres": 1060,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 66.3095703125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "3\n1\n5\n\n\n\n\n\n\n\n\n6. \nSi el 20% de \n\n es igual al 25% de n, entonces ¿cuál es el 20% de n? \n\n \n\n3\n4\n\nA) \n\n5\n\n \n\n4\n4\n\nB) \n\n5\n\n \n\n5\n4\n\nC) \n\n5\n\n \n\n5\n4\n\nD) \n\n \n\n5\n\n \n \n \n \n7. \nTres satélites artificiales giran en torno a la Tierra, con órbita constante. El tiempo de \nrotación del primero es de 42 minutos, el del segundo es de 72 minutos y el del tercero \n126 minutos. En un momento dado ellos quedan alineados en el mismo meridiano, pero \nen latitudes diferentes. Estos tres satélites volverán a pasar simultáneamente por el \nmeridiano después de  \n \n \n\nA) 140 minutos. \nB) 7 horas y 48 minutos. \nC) 8 horas y 24 minutos. \nD) 16 horas y 24 minutos. \n \n \n \n \n8. \nDadas las expresiones P = -m2 – 2m + 5  y  Q = n2 + 2n + 5, se puede que determinar \nque P = Q, si \n \n \n\nA) m = 2  \ny \nn = -2 \nB) m = -2  \ny \nn = -2 \nC) m = -2  \ny \nn = 2 \nD) m = 2  \ny \nn = 2 \n \n \n \n9. \n¿A cuánto es igual el cubo de 0,01? \n \n \n\nA) 0,03 \nB) 0,001 \nC) 0,0001 \nD) 0,000001 \n \n \n\n6 \n \n",
+      "cantidad_caracteres": 964,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "10.  ¿Cuál de las siguientes afirmaciones es verdadera? \n \n \n\nA) 834 · 10-4 = 0,834 \nB) (-2)n = -2n para todo n natural. \nC) (-a2)3 = (-a3)2 para todo n racional no nulo. \n\n3\n2\na\n para todo a entero positivo con a > 1. \n \n \n \n \n\nD) (a2)3 < \n\n11. \n2  2\n1  2\n\n\n\n\n =  \n\n \n \n\nA) \n2  \n\nB) \n1\n\n \n\n2\n\nC) -2 \nD) -\n2  \n \n \n \n \n12. Un estudiante digitó el número 5 en su calculadora científica, a continuación apretó tres \n\n2\nx\n y finalmente apretó una vez la tecla \n3 x . La expresión que \n\nveces  la tecla \n\nrepresenta correctamente el cálculo efectuado en la calculadora es  \n \n \n\n2\n3+3+3\n5\n \n\nA) \n\n3\n2  2  2\n5\n\n\n \n\nB) \n\n3\n2\n3\n3\n5  + 5   + 5  \n\nC) \n\n3\n2\n2\n2\n5   5   5\n\n\n \n \n \n \n \n13. ¿Cuál de las siguientes expresiones es equivalente al resultado de la suma  \n\nD) \n\n(7ab2 – 3ab + 6a) + (-5ab2 + 2a + 3ab)? \n \n \n\nA) 2ab(b – 4) \nB) 2ab(b + 4) \nC) 2a(b – 2)(b + 2) \nD) 2a(b2 + 4) \n \n \n\n7 \n \n",
+      "cantidad_caracteres": 888,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "14. El hotel Mar del Sur tiene m pisos con n dormitorios en cada piso y 4 camas en cada \n\ndormitorio. El hotel Australis tiene s pisos con t dormitorios en cada piso y 3 camas en \ncada dormitorio. ¿Cuál es el total de camas que hay en ambos hoteles? \n \n\nA) 4mn + 3st \nB) m + 4n + s + 3t \nC) 7(mn + st) \nD) 12(mn + st) \n \n \n \n\n15. ¿Cuál es el valor de x\n\n2  + 9y, si x\n\n3y  = -6? \n\n \n\nA) 0 \nB) 1 \nC) 2 \nD) 3 \n \n \n \n16. Un factor del trinomio x2 – 5x + 6 es  \n\n \n \nA) x(x – 5) \nB) x + 3 \nC) x + 2 \nD) x – 3  \n \n \n\n17. Sabiendo que m + n = mn = 10, entonces ¿cuál es el valor de m\nn\n + \nn\nm ? \n\n \n\nA) 2 \nB) 4 \nC) 8 \nD) 10 \n \n \n \n \n18. “La mitad de un número n aumentado en 10, es lo mismo que 4 menos que el doble del \n\nnúmero” se expresa como \n \n\nA) \n1\n2 (n + 10) = 2(n – 4) \n\nB) \n1\n2 (n + 10) = 2n – 4 \n\nC) 1\n\n2 n + 10 = 2n – 4 \n\nD) 1\n\n2 n + 10 = 2(n – 4) \n\n8 \n \n",
+      "cantidad_caracteres": 862,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "19. Un alumno tenía que multiplicar cierto número por 6, por distracción lo dividió por 6, y \n\nal resultado al cual tenía que sumarle 14, terminó restándole 14 obteniendo como \nresultado 16. Si hubiese usado las operaciones correspondientes habría obtenido como \nresultado  \n \n \n\nA) un número mayor que 1.000. \nB) un número mayor que 800 pero menor que 1.000. \nC) un número mayor que 600 pero menor que 800. \nD) un número menor que 600. \n \n \n \n \n20. ¿Cuál \nde \nlos \nsiguientes \nnúmeros \nes \nuna \nsolución \nde \nla \ninecuación  \nx  2\n\n\n - x  1 - x + 1\n\n6\n? \n\n3\n\n \n\nA) -3 \nB) -1 \nC) 0 \n\nD) 1\n\n3  \n\n \n \n \n \n21. ¿Cuál de las siguientes afirmaciones es siempre verdadera, respecto de la ecuación de \n\nincógnita x, ax = b? \n \n \n\nA) No puede tener infinitas soluciones. \nB) Tiene solución única, si a  0. \nC) Tiene infinitas soluciones, si b  0. \nD) Siempre tiene solución en los reales. \n \n \n \n\n22. La ecuación P = \n2\n1\nF\nv  + 1\n2\n\n\n\n\n\n\n\n indica la presión P que es ejercida por un fluido que se v",
+      "cantidad_caracteres": 1342,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "23. Si A = 3x – 2  y  B = x2 + 2x – 1, entonces A · B =  \n \n \n\nA) -3x3 + 4x2 + 7x – 2 \nB) 3x3 – 4x2 – 7x – 2 \nC) 3x3 + 4x2 – 7x + 2 \nD) 3x3 + 4x2 – 7x – x  \n \n \n \n\n24. Si a  0, ¿cuál es el valor numérico de \na\n2b  10\n\n, si se sabe que 2a + b = 5? \n\n \n \n\nA) - 1\n\n2  \n\nB) - 1\n\n4  \n\nC)  1\n\n4  \n\nD)  1\n\n2  \n\n \n \n \n \n25. Muchos procesos fisiológicos y bioquímicos, tales como latidos cardiacos y tasa de \n\nrespiración presentan escalas construidas a partir de la relación entre superficie y masa \n(o volumen) del animal. Una de esas escalas por ejemplo, considera que “el cubo del \nárea A de la superficie de un mamífero es directamente proporcional al cuadrado de su \nmasa M”. Esto equivale a decir que, para una constante k > 0, el área A puede ser \nescrita en función de M por medio de la expresión \n \n \n\nA) A = kM \n\n1\n\n2\nk  M\n\n \n\nB) A = \n\n1\n1\n\n3\n3\nk\n M\n\n \n\nC) A = \n\n1\n2\n\n3\n3\nk\n M\n\n \n \n \n \n\nD) A = \n\n26. Si 3x  2\n\n\n es 2 unidades menos que 3, ¿cuál es el valor de 3 – 2x? \n\n4\n\n \n\nA) –2 \nB) –1 \nC)",
+      "cantidad_caracteres": 1021,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "27. El alcalde de una ciudad quiere mandar a construir una carretera para que la ciudad \n\nquede conectada directamente con una zona de termas. Para esto fue abierta una \nlicitación, en la cual participaron dos empresas. La primera cobra $ 20.000.000 por \nkilómetro construido, más un valor fijo de $ 70.000.000, y la segunda, cobra  \n$ 24.000.000 por kilómetro construido, más un valor fijo de $ 30.000.000. Las dos \nempresas ofrecen el mismo estándar de calidad pero solo una de ellas será contratada. \n \n¿Cuál de las siguientes ecuaciones posibilitaría determinar la extensión n en kilómetros \nde la carretera que tornaría indiferente para el alcalde elegir cualquiera de las \npropuestas presentadas? \n \n\nA) 100n + 350 = 120n + 150 \nB) 100n + 150 = 120n + 350 \nC) 100(n + 350) = 120(n + 150) \nD) 100(n + 350.000) = 120(n + 150.000) \n \n \n\nx  2\ny\nx\n + \n = 1 + \n3\n2\n4\n2x  5y = -11\n\n\n\n28. ¿Cuál es el valor de x en el sistema \n\n? \n\n\n\n \n\nA) -2 \nB) 0 \nC) 2 \nD) 4 \n \n \n \n\n29.  Dado el sistema 3x  4y  8=",
+      "cantidad_caracteres": 1853,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "31. La función afín f está determinada por f(x) = 3x + k. ¿Cuál debe ser el valor de k para \n\nque el gráfico de f corte al eje y en el punto de ordenada 5? \n \n \n\nA) \n3\n5  \n\nB) 5\n\n3  \n\nC) 3 \nD) 5 \n \n \n \n \n32. Sabiendo que -1 es una de las raíces de la ecuación x2 – 5x + 3m = 0, ¿cuál es el valor \n\nde m2? \n \n\nA) 4 \nB) 9 \nC) 16 \nD) 36 \n \n \n \n \n33. ¿Cuál de las siguientes afirmaciones es verdadera, respecto de la función cuadrática \n\nf(x) = x2 – 2x + 5? \n \n\nA) Tiene un valor máximo. \nB) Es siempre positiva. \nC) Toma valores positivos y negativos. \nD) Toma todos los valores reales posibles. \n \n \n34. La parábola de la figura adjunta es representación gráfica de la función \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\n2 \n-3 \n\nx \n\n-6 \n\nA) f(x) = x2 – x – 6  \nB) f(x) = x2 + x + 6 \nC) f(x) = x2 + x – 6 \nD) f(x) = x2 – x + 6 \n\n12 \n \n",
+      "cantidad_caracteres": 820,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": "35. La temperatura T de un horno (en grados Celsius) es reducida por un sistema a partir \n\ndel momento que se apaga (t = 0) y varía de acuerdo con la expresión  \n\n2\nt\n\nT(t) = -\n\n3  + 400, con t en minutos. Por motivos de seguridad, la cerradura solo es \n\nliberada para ser abierta, cuando el horno alcanza la temperatura de 100 °C. ¿Cuál es \nel tiempo mínimo de espera en minutos, después de apagar el horno, para que la \npuerta pueda ser abierta? \n \n\nA) 19,0 \nB) 19,8 \nC) 20,0 \nD) 30,0 \n \n \n36. En la figura adjunta, EAB = 20°, ABE = 70° y GCF = 120°. ¿Cuánto mide el ángulo \n\nCFE? \n \n \n \n \n \n \n \n \n \n \n \n\nG \n\nC \n\nE \n\nF \nx \n\nB \nD \nA \n\nA) 15° \nB) 20° \nC) 30° \nD) 40° \n \n \n37. Una región (zona sombreada) va a ser cultivada y está representada en la malla \n\ncuadriculada de la figura adjunta. Si la malla está formada por cuadrados de 1 \nkilómetro de lado, entonces ¿cuál es el área de la región que va a ser cultivada? \n\n \n \n \n \n \n \n \n \n \n \n \n \nA) 31 km2 \nB) 34 km2 \nC) 40 km2 \nD) 54 km2 \n\n \n \n \n ",
+      "cantidad_caracteres": 1187,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": "38. La figura adjunta muestra una casa que ocupa la cuarta parte de un terreno \n\nrectangular. Como se desea cubrir el terreno no ocupado por la casa con losas, se \ncompraron losas cuadradas de 1,5 m2 cada una. ¿Cuántas losas se compraron? \n \n \n \n \n \n \n \n \n \n \n \n \n\n30 m \n\n20 m \n\nCasa \n\nA) 200 \nB) 250 \nC) 300 \nD) 400 \n \n \n \n \n \n39. Una ventana que está formada por un semicírculo y un cuadrado está representada en \n\nla figura adjunta. Si la parte cuadrada de la ventana tiene una altura de 1 m y la altura \ntotal de la ventana mide 1,5 m, ¿cuál es el área total de esta ventana? \n \n \n \n \n \n \n \n \n \n \n \n \n\nA) \n1 + \n8\n\n\n\n\n\n\n\n\n m2 \n\n\n\n\n\n\n\n\n\n m2 \n\nB) \n1 + 8\n\n\n\n\n\n\n\n\n\n m2 \n\nC) \n1 + 4\n\nD) 1 + \n\n m2 \n\n8\n\n \n \n\n14 \n \n",
+      "cantidad_caracteres": 732,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": "40. La figura adjunta muestra 4 círculos de radio = 1 cm, cuyos centros son vértices de un \n\ncuadrado y que son tangentes exteriormente 2 a  2. ¿Cuál es el perímetro de la figura \nsombreada? \n \n \n \n \n \n \n \n \n \n \n \n\nA)  cm \nB) 2 cm \nC) (4 – ) cm \nD) (4 + ) cm \n \n \n \n41. Los puntos A y B de la figura adjunta son vértices de un triángulo equilátero. Si este \n\ntriángulo se rota en 180° en torno a su centro de gravedad, ¿cuál será la abscisa de C \ndespués de esta rotación? \n \n \n \n \n \n \n \n \n \n \n\ny \n\nA \nB \n3 \n\n1 \n7 \nx \n\nA) 3 \nB) 4 \nC) 4\n3  \n\nD) 6 + 4\n3  \n \n \n \n\n42. Dados los vectores a\n1\n1, 4\n\n\n\n\n\n\n\n; b(-4, 1), c\n1\n2, 2\n\n\n\n\n\n\n\n\n y d(4, -1), ¿cuál de las siguientes \n\nopciones es una pareja de vectores paralelos? \n \n \n\nA) a y b \n\nB) b y c \n\nC) a y d \n\nD) b y d \n\n15 \n \n",
+      "cantidad_caracteres": 788,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": "43. Sean A(-1, -5), B(5, 3) y C(-5, 5) puntos del plano cartesiano. Si B resultó de una \n\ntraslación del punto A, ¿cuáles serían las nuevas coordenadas de C, si a este punto se \nle aplicara la misma traslación? \n \n\nA) (-1, 7) \nB) (-1, -7) \nC) (1, 13) \nD) (11, 13) \n \n \n44. En el cuadrilátero ABCD de la figura adjunta, ¿cuál es la longitud de AB ? \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\n9 cm \n\n5\n7  cm \n\n12 cm \n\nB \n\nA \n\nA) 15 cm \nB) 18 cm \nC) 20 cm \nD) 25 cm \n \n \n45. En el trapecio PQRS de la figura adjunta, donde PQ  y RS  son las bases, ¿cuál es el \n\nvalor de x + y? \n \n \n \n \n \n \n \n \n \n\n25 \n\nR \nS \n\n15 \n\nx \n\ny \n\n9 \n\nQ \nP \n\nA) 32 \nB) 33 \nC) 35 \nD) 36 \n \n \n46. En un triángulo ABC cualquiera se ha trazado CM, siendo M el punto medio de AB . \n\n¿Cuál de las siguientes afirmaciones es verdadera? \n \n\nA) AMC  BMC  \nB) AMC  BMC  \n\nC) AMC y BMC  tienen igual área \nD) MCA  MCB \n\n16 \n \n",
+      "cantidad_caracteres": 886,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": "47. En el triángulo isósceles de la figura adjunta se ha inscrito el rectángulo DBEF. ¿Cuál de \n\nlas siguientes proposiciones es FALSA? \n \n \n \n \n \n \n \n \n \n \n \n  \n\nC \n\nE \nF \n\nA \nD \nB \n\nA) FEC  ABC \nB) DBF  EFB \nC) ABC  ADF \nD) ADF  BDF \n \n \n \n \n48. La suma de los cuadrados de los tres lados de un triángulo rectángulo es igual a 32. \n\n¿Cuánto mide la hipotenusa de este triángulo? \n\n \n \nA) 3 \nB) 4 \nC) 5 \nD) 6 \n \n \n \n \n49. En el triángulo ABC de la figura adjunta, ABD  BCA. Si BC = DC = 12 y AD = 4, \n\n¿cuál de las siguientes proporciones es verdadera? \n \n \n \n \n \n \n \n \n \n \n \n\nC \n\nD \n\nA \nB \n\nA) BD : AB = 3 : 4 \nB) BD : AB = 2 : 3 \nC) BD : AB = 4 : 5 \nD) BD : AB = 3 : 5 \n \n \n\n17 \n \n",
+      "cantidad_caracteres": 700,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "texto": "50. ¿Cuál es el valor de x en el triángulo de la figura adjunta? \n \n \n \n \n \n \n \n \n \n \n \n \n\n8 \n\n \n4 \n\nx \n\n2 \n\n \n\n3 \n\n \n\nA) 9 \nB) 16 \nC) 18 \nD) 21 \n \n \n \n \n51. Una empresa dueña de un club deportivo mandó a construir una cancha de fútbol en \n\nformato rectangular con 250 metros de perímetro. Antes de la construcción se elaboró \nun plano de esa cancha en la escala 1 : 2.000. En el plano, la medida del perímetro de \nla cancha de fútbol en metros es \n \n \n\nA) 0,0005 \nB) 0,0025 \nC) 0,125 \nD) 8 \n \n \n \n52. El paralelepípedo y el cilindro (figura adjunta) tienen igual volumen. Si el radio de la \n\nbase del cilindro mide 3 cm, ¿cuánto mide su altura h? \n \n \n \n \n \n \n \n \n \n \n \n \n\n6 cm \n\nh \n\n3 cm \n\n6 cm \n\nA) 8 cm \nB) 9 cm \nC) 10 cm \nD) 12 cm \n \n\n18 \n \n",
+      "cantidad_caracteres": 750,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "texto": "53. ¿Cuál es el área total del cubo de la figura adjunta, si se sabe que QP = 2 cm? \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nQ \n\nP \n\nA) 16 cm2 \nB) 25 cm2 \nC) 45 cm2 \nD) 48 cm2 \n \n \n54. Cuatro empresas de productos alimenticios se encuentran a la venta. Un empresario \n\nque desea comprar una de estas empresas analiza la ganancia (en miles de dólares) de \ncada una de ellas, en función de su tiempo (en años) de existencia, decidiendo comprar \nla empresa que presente la mayor ganancia media anual, para lo cual estudió la tabla \nadjunta que presenta la ganancia (en miles de dólares) acumulada a lo largo del tiempo \n(en años) de existencia de cada empresa. \n \n \n\nEmpresa \nGanancia (en \nmiles de dólares) \n\nTiempo \n(en años) \nVidasana \n24 \n3,0 \nAll fruit \n24 \n2,0 \nVergeles \n25 \n2,5 \nBella zona \n15 \n1,5 \n\n \n \n \n \n \n \n \nEl empresario decidió comprar la empresa \n \n\nA) Vidasana \nB) All fruit \nC) Vergeles \nD) Bella zona \n \n \n55. La media aritmética de las edades de los habitantes de un asilo de ancianos es de 72 ",
+      "cantidad_caracteres": 1249,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "texto": "56. Comenzando las clases este año, el profesor preguntó a los 30 alumnos de su curso, \n\n¿cuántos libros leyeron en los meses de verano?, y con las respuestas de los \nestudiantes construyó una tabla como la de la figura adjunta. \n \n \n \n \n\nN° de libros \n\nFrecuencia \n\nleídos \n\n0 \n4 \n1 \n6 \n2 \n \n3 \n4 \n4 \n6 \n\n \n \n \n \n \n \n \nA pesar que el profesor olvidó poner un dato en la tabla, igualmente pudo determinar \ncorrectamente la media, la moda y la mediana, cuyos valores, respectivamente son, \n \n \n\nA) 2,50  \n; \n2,0 \ny \n2,0 \nB) 2,10  \n; \n1,4 \ny \n2,0 \nC) 2,06  \n; \n2,0 \ny \n2,0 \nD) 2,00  \n; \n4,0 \ny \n3,0 \n \n \n \n \n \n57. En la figura adjunta se muestran las notas de una prueba de Física distribuidas en un \n\ndiagrama de frecuencias, donde los intervalos son de la forma [a, b[. Al respecto, ¿cuál \nde las siguientes afirmaciones es verdadera? \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nN° de \nalumnos \n\n8 \n\n7 \n\n6 \n\n4 \n\n3 \n\n2 \n3 \n4 \n5 \n6 \n7 \nNotas \n\nA) Al menos un alumno obtuvo nota 7. \nB) Ocho alumnos obtuvieron nota 3. \n",
+      "cantidad_caracteres": 1078,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "texto": "58. ¿Cuál de los siguientes gráficos representa un conjunto de datos con media igual a 3 y \n\ntercer cuartil igual a 6? \n \n\nA) \n \n \n \n \n \nB) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nfrecuencia \n\nfrecuencia \n\n9 \n\n6 \n\n3 \n\n3 \n\n2 \n\n1 \n\n1 \n\n1 \n3 \n6 \n9 \nDatos \n\n1 \n3 \n6 \n9 \nDatos \n\nC) \n \n \n \n \n \nD) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n59. En el diagrama de cajón de la figura adjunta, ¿qué representa la expresión D – B? \n \n \n \n \n \n \n \n \n \n\nfrecuencia \n\nfrecuencia \n\n9 \n\n9 \n\n6 \n\n6 \n\n3 \n\n3 \n\n2 \n\n1 \n\n1 \n\n1 \n3 \n6 \n9 \nDatos \n\n1 \n3 \n6 \n9 \nDatos \n\nB \nC \nD \n\n \nA \n\nE \n\n0 \n2 \n4 \n6 \n8 \n10 12 14 16 18 20 22 \n\nA) La mediana. \nB) El rango intercuartil. \nC) La media aritmética. \nD) Un valor menor a la mediana. \n \n \n \n \n \n\n21 \n \n",
+      "cantidad_caracteres": 702,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "texto": "60. Un grupo de 8 amigos participó de una excursión junto a otros 32 muchachos. Estando \n\nen el campamento se escogió al azar uno de los participantes para que organizaran \nactividades nocturnas en torno a una gran fogata. ¿Cuál es la probabilidad que la \npersona elegida haya sido uno de los amigos? \n \n \n\nA) 25% \nB) 22,5% \nC) 20% \nD) 16% \n \n \n \n \n61. Una fábrica de fusibles posee dos máquinas, A y B, para la producción de cierto tipo de \n\nfusible. En marzo de este año, la máquina A produjo \n54\n100  del total de fusibles \n\nproducidos por ambas fábricas. De los fusibles producidos por esta máquina, \n25\n1000  \n\nresultaron defectuosos, y a la vez, \n38\n1000  de los fusibles producidos en el mismo mes \n\npor la máquina B salieron defectuosos.  \n \n\nEl desempeño conjunto de las dos máquinas es clasificado conforme a la tabla adjunta, \nen que P indica la probabilidad de un fusible escogido al azar sea defectuoso. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n0  P   \n2\n100  \nExcelente \n\n2\n100   P < \n4\n1",
+      "cantidad_caracteres": 1250,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "texto": "62. Cuando se lanzan dos dados, ¿cuál es la probabilidad que ambos muestren en su cara \n\nsuperior una cantidad impar de puntos? \n \n\nA) 0,16  \nB) 0,15 \nC) 0,25 \nD) 0,3 \n \n \n63. Un árbitro de fútbol, tiene en el bolsillo trasero de su pantalón, tres tarjetas. Una de \n\nellas es amarilla por ambos lados, otra es roja por ambos lados y la tercera es amarilla \npor un lado y roja por el otro. Al observar una infracción, saca al azar una tarjeta y se \nla muestra al jugador. ¿Cuál es la probabilidad que el árbitro vea la cara roja y el \njugador la amarilla? \n \n \n\nA) \n1\n6  \n\nB) 1\n\n5  \n\nC) 1\n\n3  \n\nD) 1\n\n2  \n\n \n \n64. En una bolsa hay 9 bolitas numeradas del 1 al 9. Si se extraen con reposición dos \n\nbolitas, ¿cuál es la probabilidad que la segunda bolita extraída tenga un número mayor \nque la primera? \n \n\nA) 30\n\n81  \n\nB) 36\n\n81  \n\nC) \n45\n81  \n\nD) 72\n\n81  \n\n \n \n65. En una sala hay 5 niñas; una chilena, una boliviana, una colombiana, una peruana y \n\nuna venezolana. En una caja hay 5 banderas corresp",
+      "cantidad_caracteres": 1219,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

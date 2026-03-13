@@ -1,0 +1,169 @@
+{
+  "filename": "Ma 20.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 20.pdf",
+  "num_paginas": 12,
+  "titulo": "",
+  "autor": "PreuPDV",
+  "fecha_procesamiento": "2026-03-07T16:00:59.551810",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemáticas  \nMaterial : MA-22 \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n1. \n¿Cuál de las siguientes afirmaciones es FALSA? \n \n \n\nCUADERNO DE EJERCICIOS N° 20 \n\nPROBABILIDADES \n\nA) Al lanzar un dado normal el evento “sacar un número menor que siete”, es un \n\nsuceso cierto. \nB) Al lanzar un dado normal los eventos “que salga un número menor que tres” y “que \n\nsalga un número múltiplo de tres” son sucesos mutuamente excluyentes. \nC) Lanzar dos dados normales y “obtener una suma mayor que 12” es un evento \n\nimposible. \nD) Al lanzar un dado normal los eventos “obtener un primo” y “obtener un cuadrado \n\nperfecto”, son sucesos complementarios. \n\n \n \n \n \n \n2. \nEn una bolsa hay 10 fichas del mismo tipo, numeradas correlativamente del 0 al 9. Si \nde la bolsa se saca una ficha al azar, ¿cuál es la probabilidad de que ésta tenga un \nnúmero primo? \n \n \n\nA) \n5\n9  \n\nB) \n4\n9  \n\nC) 1\n\n5  \n\nD) 1\n\n4  \n\nE) \n2\n5  \n\n \n \n\n(Fuente: DEMRE, Publicación 2018) \n \n",
+      "cantidad_caracteres": 937,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.3955078125
+        },
+        {
+          "index": 1,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 42.5595703125
+        },
+        {
+          "index": 3,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "3. \nSe ha lanzado 4 veces un dado común y en las 4 ocasiones ha salido un 4. ¿Cuál es la \nprobabilidad que en la próxima ocasión salga un 4? \n\n \n \n\n1\n4  \n\nA) \n\n  \n\n1\n6  \n\nB) \n\n  \n\n1\n2  \n\nC) \n\n  \n\nD) \n1\n256  \n\n \n \n \n \n4. \nUna caja tiene 14 esferas de igual tamaño y peso. Cada una de ellas tiene una letra de \nla palabra PARALELEPIPEDO. ¿Cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nI) \nLa probabilidad de sacar una P es 3\n\n14 . \n\nII) \nLa probabilidad de sacar una A o una L es 2\n\n14 . \n\nIII) \nLa probabilidad de sacar una P es igual a la probabilidad de sacar una E. \n \n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo I y III \n \n \n \n5. \nEn un curso de 50 estudiantes se sorteará al azar un MP3 entre los asistentes a clases. \nSi por cada 3 mujeres de este curso hay 7 hombres y el día del sorteo del total de los \nestudiantes faltan solo 2 mujeres, ¿cuál es la probabilidad de que el premio lo gane una \nmujer? \n \n\nA) \n13\n48  \n\nB) \n1\n48  \n\nC) \n1\n50  \n\nD) 13\n\n50  \n\nE) \n15\n50 ",
+      "cantidad_caracteres": 1044,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": "6. \nEl 25% de los habitantes de una villa de 200 personas son jubilados, otro 25% son \nestudiantes. Si al 80% de los jubilados, al 10% de los estudiantes y al 20% del resto \nde la población les gusta la música clásica, entonces, la probabilidad de que elegida una \npersona al azar le guste éste tipo de música es \n \n \n\n13\n40  \n\nA) \n\n \n\nB)   1\n\n3  \n\nC)   2\n\n3  \n\nD) \n1\n120  \n\n \n \n \n \n \n \n \n7. \nUn dado tiene una falla de fabricación, de tal modo que al lanzarlo la probabilidad de \nque salga un seis es el triple de que salga cualquier otro número. ¿Cuál es la \nprobabilidad que al lanzar el dado salga un seis? \n \n \n\n8\n3  \n\nA) \n\n8\n1  \n\nB) \n\n6\n1  \n\nC) \n\n1  \n\nD) \n\n2\n\n \n \n \n\n3 \n \n",
+      "cantidad_caracteres": 678,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "8. \nUna compañía de seguros elige una persona para desempeñar cierta función entre 50 \naspirantes. Entre los candidatos, hay algunos con título universitario, otros poseen \nexperiencia previa en alguna área de seguros y algunos cumplen con ambos requisitos, \ncomo se indica en la tabla adjunta \n \n \n\n \nTítulo \nSin título \n\nExperiencia previa \n5 \n10 \n\nSin experiencia \n15 \n20 \n\n \n \n\nSi se elige un aspirante al azar entre los 50, entonces ¿cuál es la probabilidad que \ntenga experiencia previa o que tenga título? \n \n \n\nA) \n7\n10  \n\n3\n5  \n\nB) \n\n \n\nC) \n1\n10  \n\n2\n5  \n\nD) \n\n \n\n \n \n \n \n \n9. \nEn una bolsa hay en total 22 bolitas del mismo tipo numeradas en forma correlativa del \n1 al 22. Si se extrae al azar una bolita de la bolsa, ¿cuál es la probabilidad de que esta \ntenga un número de un dígito o un número múltiplo de 10? \n \n\nA) \n1\n9  ∙ 1\n\n2  \n\nB) \n9\n22  + 2\n\n21  \n\nC) \n1\n9  + 1\n\n2  \n\nD) \n9\n22  + 2\n\n22  \n\nE) \n9\n22  + 1\n\n22  \n\n \n \n \n\n(Fuente: DEMRE, Publicación 2017) \n \n \n \n\n4 \n \n",
+      "cantidad_caracteres": 983,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "10. En una sala con 100 alumnos, 30 usan lentes, 40 son hombres y de estos 15 usan \n\nlentes. Al seleccionar un alumno al azar, ¿cuál es la probabilidad que sea mujer y no \nuse lentes? \n \n \n\nA) 0,45 \nB) 0,60 \nC) 0,70 \nD) 0,85 \n\n \n \n \n \n \n11. En un curso el 70% es hombre, el 20% de las mujeres y el 10% de los hombres \n\npractica karate. ¿Cuál es la probabilidad de que al sacar una persona al azar sea mujer \ny practique karate? \n \n \n\nA)  6\n\n30  \n\nB) \n6\n100  \n\nC)  24\n\n \n\n30\n\nD) \n24\n100  \n\n \n \n \n \n \n12. En una caja hay en total siete bolitas, de las cuales tres son blancas y cuatro son \n\nnegras, todas del mismo tipo. Si se extraen al azar dos bolitas sin reposición, ¿cuál es \nla probabilidad de que la primera sea negra y la segunda sea blanca? \n \n \n\nA) \n2\n7  \n\nB) \n1\n12  \n\nC) \n1\n42  \n\nD) \n7\n12  \n\nE) \n12\n49  \n\n \n \n\n(Fuente: DEMRE, Publicación 2016) \n\n5 \n \n",
+      "cantidad_caracteres": 860,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "13. Se tienen dos llaveros: P con 4 llaves y Q con 2 llaves. En cada llavero solo hay una \n\nllave que abre la puerta de una bodega. Cada llavero tiene la misma probabilidad de \nser elegido y cada llave de ese llavero es equiprobable de ser elegida. Si se escoge un \nllavero al azar y de él se escoge al azar una llave, ¿cuál(es) de las siguientes \nafirmaciones es (son) verdadera(s)? \n \n \n\nI) \nLa probabilidad de que la llave abra la bodega es 3\n\n8 . \n\nII) \nLa probabilidad de que el llavero escogido sea Q y que la llave no abra la \n\nbodega es 1\n\n2 . \n\nIII) \nLa probabilidad de que el llavero escogido sea P y que la llave abra la \nbodega es la mitad de la probabilidad de que el llavero escogido sea Q y \nque la llave abra la bodega. \n \n \n \n\nA) Solo I \nB) Solo II \nC) Solo I y II \nD) Solo I y III \nE) Solo II y III \n \n\n(Fuente: DEMRE, Publicación 2018) \n \n \n \n \n14. Si se responde al azar una prueba de verdadero-falso, de 4 preguntas, entonces \n\n¿cuál(es) de las siguientes afirmaciones es (son) v",
+      "cantidad_caracteres": 1307,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "15. Si 400 personas lanzan 5 monedas al aire cada una, ¿a cuál de los siguientes valores se \n\naproxima la frecuencia relativa de obtener exactamente 3 caras y 2 sellos? \n \n \n\nA) 10\n\n \n\n32\n\nB) \n1\n32\n\n \n\nC) \n3\n32\n\n \n\nD) \n5\n32\n\n \n\n \n \n \n \n16. Si se lanza 1.200 veces un dado común, entonces el número 3 saldrá \n \n\n \nA) exactamente 240 veces. \nB) aproximadamente 200 veces  \nC) exactamente 200 veces. \nD) aproximadamente 240 veces. \n\n \n \n \n \n17. Se hace una encuesta a un grupo de personas y se les consulta si consumen azúcar o si \n\nconsumen miel. Los resultados obtenidos se resumen en la tabla adjunta. \n\n \n \n\n \nAzúcar \nMiel \nHombres \n25 \n9 \nMujeres \n10 \n18 \n\n \n \n \n \nSi del grupo se elige una persona al azar, resultando que es hombre y ninguno de los \nencuestados consume ambos productos, ¿cuál es la probabilidad de que consuma miel? \n \n\nA) 27\n\n34  \n\nB) \n27\n62  \n\nC) 34\n\n62  \n\nD) \n9\n34  \n\nE) \n9\n62  \n\n(Fuente: DEMRE, Publicación 2019) \n\n \n \n\n7 \n \n",
+      "cantidad_caracteres": 949,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "18. Hay 7 fichas azules y 5 fichas verdes en la bolsa A, mientras que en la bolsa B hay  \n\n5 fichas azules y 15 fichas verdes. Si todas las fichas son de la misma forma y tamaño, \nal sacar una ficha de cada bolsa, ¿cuál es la probabilidad que ambas sean verdes? \n \n \n \n\nA) \n5\n48  \n\nB) \n7\n48\n\n \n\nC) \n5\n16\n\n \n\nD) \n7\n16  \n\n \n \n \n \n \n \n \n19. En un centro cultural, el 60% estudia música, el 45% estudia pintura y un 10% estudia \n\nambas disciplinas. Sabiendo que un alumno escogido al azar estudia pintura, ¿cuál es la \nprobabilidad de que también estudie música? \n \n \n \n\nA) 10\n\n95  \n\nB) 10\n\n35  \n\nC) 10\n\n45  \n\nD) \n27\n100  \n\n \n\n \n \n \n \n\n8 \n \n",
+      "cantidad_caracteres": 637,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "20. La probabilidad de que un alumno universitario apruebe la asignatura A es 0,8 y la \n\nprobabilidad de que apruebe la asignatura B es 0,9, siendo independiente los \nresultados que se obtengan en cada una de las asignaturas. ¿Cuál es la probabilidad de \nque apruebe al menos uno de estas asignaturas? \n \n \n\nA) 0,85 \nB) 0,98 \nC) 0,92 \nD) 0,96 \n\n \n \n \n \n \n21. En un viaje de gira de estudio 1.200 alumnos, deben escoger entre dos opciones, un \n\ncrucero por Oceanía y/o un viaje a Europa. Si 1\n\n4  escoge sólo Oceanía, 2\n\n3  escoge sólo \n\nEuropa y 1\n\n12  ambos, entonces ¿cuál es la probabilidad de que un alumno elegido al \n\nazar escoja sólo uno de estos viajes? \n \n \n\nA) 11\n\n12  \n\nB) \n1\n12  \n\nC) \n  1\n\n4  \n\nD) \n5\n12  \n\n \n \n \n \n22. Se tienen tres cajas, A, B y C. La caja A contiene 3 fichas blancas y 9 rojas, la caja B \n\ncontiene 4 fichas blancas y 8 rojas y la caja C contiene 8 fichas blancas y 4 rojas. Si se \nsaca al azar una ficha de cada caja, entonces ¿cuál es la probabilidad que las tres fi",
+      "cantidad_caracteres": 1099,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "23. En una bolsa hay 6 pelotitas numeradas del 1 al 6. Al sacar 2 pelotitas, una tras otra \n\nsin reposición, ¿cuál es la probabilidad que sean 2 números consecutivos? \n \n \n\nA) \n1\n15\n\n \n\n5  \n\nB) \n\n18\n\n1\n3\n\nC) \n\n \n\n \n\n5  \n\nD) \n\n36\n\n \n \n24. En el curso 4°A hay el doble de mujeres que de hombres y en el 4°B hay 5 hombres \n\nmenos que mujeres. Si la probabilidad de elegir un alumno que sea hombre, es la \nmisma en ambos cursos, entonces ¿cuántos alumnos en total tiene el 4°B? \n \n \n\nA) 15 \nB) 20 \nC) 25 \nD) 30 \n\n \n \n \n25. En una urna con fichas azules, blancas, rojas y verdes, la probabilidad de escoger una \n\nficha azul o blanca es 0,4. Si en la urna hay 15 fichas de las cuales 7 son verdes, \nentonces ¿cuál es el número de fichas rojas? \n \n \n\nA) 6 \nB) 5 \nC) 4 \nD) 2 \n\n \n \n \n \n26. En un experimento aleatorio, dos eventos A y B son complementarios, si se sabe que: \n \n\n(1) al unir los conjuntos A y B se obtiene el espacio muestral. \n(2) la intersección de A y B es vacía. \n \n\nA) (1) por sí sola \nB) ",
+      "cantidad_caracteres": 1130,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "27. En una caja hay 22 fichas de color azul, rojo y blanco, de las cuales 10 son rojas. Se \n\npuede determinar la probabilidad de sacar una ficha azul, si: \n \n\n(1) la probabilidad de sacar una ficha roja o blanca es 9\n\n11 . \n\n(2) la probabilidad de sacar una ficha blanca es 4\n\n11 . \n\n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n28. Al lanzar dos dados normales, podemos conocer los números obtenidos, si se sabe que: \n \n\n(1) el producto de ellos es 12 y a lo más hay un número impar. \n(2) la diferencia entre el mayor y el menor es el neutro multiplicativo. \n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n\n \n \n29. En una urna hay solo fichas de color rojo, verde y amarillo, todas del mismo tipo. Si se \n\nsaca una ficha al azar de la urna, se puede determinar la probabilidad de que ésta sea \nroja",
+      "cantidad_caracteres": 1762,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": " \n\n \nRESPUESTAS \n \n\n1.   \nD \n7.   \nA \n13. \nD \n19. \nC \n25. \nD \n2.   \nE \n8.   \nB \n14. \nD \n20. \nB \n26. \nC \n3.   \nB \n9.   \nD \n15. \nA \n21. \nA \n27. \nD \n4.   \nD \n10. \nA \n16. \nB \n22. \nC \n28. \nC \n5.   \nA \n11. \nB \n17. \nD \n23. \nC \n29. \nE \n6.   \nA \n12. \nA \n18. \nC \n24. \nA \n30. \nE \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMA-22 \n\n \n \nPuedes complementar los contenidos de esta guía visitando nuestra web \n\nhttp://www.pedrodevaldivia.cl/ \n\n12 \n \n",
+      "cantidad_caracteres": 471,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

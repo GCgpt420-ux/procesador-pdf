@@ -1,0 +1,1611 @@
+{
+  "archivo_original": "5262-JMA-PAES1-OL-05-2022.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/2022/5262-JMA-PAES1-OL-05-2022.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 23,
+  "fecha_procesamiento": "2026-03-07T23:15:32.156990",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n1\n5\n2\n4\n2\n2\n9\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-6 11 18"
+        },
+        {
+          "letra": "B",
+          "texto": "6 2 3"
+        },
+        {
+          "letra": "C",
+          "texto": "7 13 18"
+        },
+        {
+          "letra": "D",
+          "texto": "8 5 27"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nUn programa computacional genera una lista de tríos ordenados (a, b, c) tales que \n \n \n \n \n\na es un número par menor que 16. \nb es un cuadrado perfecto y  \nc es un múltiplo de 5 entre a y b. \n\n \n \n \n \n¿Cuál de los siguientes tríos NO cumple con estas condiciones?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(14, 36, 25)"
+        },
+        {
+          "letra": "B",
+          "texto": "(10, 25, 20)"
+        },
+        {
+          "letra": "C",
+          "texto": "(2, 16, 12)"
+        },
+        {
+          "letra": "D",
+          "texto": "(6, 64, 50)"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nCon un litro de leche se pueden llenar 3 tazas grandes o bien 5 tazas chicas. Si hay que \nllenar 12 tazas grandes y 10 tazas chicas, ¿cuántos litros de leche se necesitan?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "2 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nSabiendo que: \n \n\n1 km = 1.000 m \n1 hora = 60 minutos \n1 minuto = 60 segundos \n \n\nEl record mundial en la carrera de 100 m plano pertenece a Usain Bolt, quien empleó \nun tiempo de 9,58 segundos, ¿cuál de las siguientes opciones representa a esta marca \nexpresada, aproximadamente, en kilómetros por hora?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "35,58 km h"
+        },
+        {
+          "letra": "B",
+          "texto": "36,42 km h"
+        },
+        {
+          "letra": "C",
+          "texto": "37,58 km h"
+        },
+        {
+          "letra": "D",
+          "texto": "38,42 km h"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nUn traje que el mes pasado costaba $ 80.000, ahora cuesta $ 120.000. En relación al \nprecio del mes pasado, el valor del traje tuvo un alza de un",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25%"
+        },
+        {
+          "letra": "B",
+          "texto": "40%"
+        },
+        {
+          "letra": "C",
+          "texto": "50%"
+        },
+        {
+          "letra": "D",
+          "texto": "60%"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn cierta carnicería, el kg de lomo liso se vende a $ 11.700 obteniendo con esta venta \nun 30% de ganancia. Si el proveedor de esta carnicería subió el precio de todas las \ncarnes en un 10%, entonces en esta carnicería, ¿a cuánto se tiene que vender ahora el \nkg de lomo liso para continuar ganando el mismo porcentaje?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 10.170"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 12.870"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 13.950"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 14.760 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \n¿Cuál de los siguientes números se debe sumar a cada término de la fracción 7\n\n17 , para \n\nobtener la fracción 3\n\n4 ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "23"
+        },
+        {
+          "letra": "B",
+          "texto": "18"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nUna secretaria trabajando sin interrupciones consigue digitar 2.400 caracteres en la \nprimera hora de trabajo del día, 1.200 en la segunda hora y 600 en la tercera, y así \nsucesivamente. ¿Cuál será el tiempo mínimo necesario para que ella cumpla un trabajo \nque exige 4.725 caracteres?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 horas"
+        },
+        {
+          "letra": "B",
+          "texto": "5 horas y 30 minutos"
+        },
+        {
+          "letra": "C",
+          "texto": "5 horas y 10 minutos"
+        },
+        {
+          "letra": "D",
+          "texto": "5 horas"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSi p y q son números racionales positivos, entonces ¿cuál de las siguientes \nafirmaciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p3 · q2 = (p · q)6 1 3 p = 5 6 p 1 2 p +"
+        },
+        {
+          "letra": "B",
+          "texto": "3 2 q"
+        },
+        {
+          "letra": "C",
+          "texto": "(p2 + q3) · p-2 = 1 + p"
+        },
+        {
+          "letra": "D",
+          "texto": "(p + q)-1 = 1 p + 1 q"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Si ax · a4 = a12 = (a4)y, ¿cuál es el valor de x + 2y?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "11"
+        },
+        {
+          "letra": "D",
+          "texto": "14 6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Si N = \n4\n\n, entonces ¿cuál de las siguientes afirmaciones es verdadera? \n\n4 4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "N = 2"
+        },
+        {
+          "letra": "B",
+          "texto": "N = 2"
+        },
+        {
+          "letra": "C",
+          "texto": "N = 1 2"
+        },
+        {
+          "letra": "D",
+          "texto": "N = 1 2"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12.  ¿Cuál es el valor de m, si se sabe que \n3\nm  = 27-1?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-9"
+        },
+        {
+          "letra": "B",
+          "texto": "-3"
+        },
+        {
+          "letra": "C",
+          "texto": "- 1 9"
+        },
+        {
+          "letra": "D",
+          "texto": "1 9"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. “La mitad de un número n, aumentado en 10, es lo mismo que 4 menos que el doble \n\ndel número”, se expresa como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 2 (n + 10) = 2(n – 4)"
+        },
+        {
+          "letra": "B",
+          "texto": "1 2 n + 10 = 2(n – 4)"
+        },
+        {
+          "letra": "C",
+          "texto": "1 2 n + 10 = 2n – 4"
+        },
+        {
+          "letra": "D",
+          "texto": "1 2 (n + 10) = 2n - 4"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Sabiendo que 6 gomas valen tanto como 3 lápices, si Lucía pagó por una goma y un \n\nlápiz $ 1.500, ¿cuánto le costó el lápiz?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 250"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 500"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 750"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 1.000 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Si n = - 1\n\n2 , ¿cuál es el valor de 1\n1\n  \nn\nn + 1\n\n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-4"
+        },
+        {
+          "letra": "B",
+          "texto": "-2"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. Si el cuociente entre 23 y k es mayor que 5, y donde k es una constante, ¿cuál de los \n\nsiguientes es un posible valor de k?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-4"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Si 3x + 1 = a, entonces 6x + 1 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a + 3"
+        },
+        {
+          "letra": "B",
+          "texto": "a – 3"
+        },
+        {
+          "letra": "C",
+          "texto": "2a – 1"
+        },
+        {
+          "letra": "D",
+          "texto": "2a + 1 4 12a"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Si en la expresión c = \n\nb\n, a y b se duplican, entonces para que la igualdad se \n\nmantenga, se debe",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "duplicar c."
+        },
+        {
+          "letra": "B",
+          "texto": "cuadruplicar c."
+        },
+        {
+          "letra": "C",
+          "texto": "multiplicar c por 8."
+        },
+        {
+          "letra": "D",
+          "texto": "multiplicar c por 16."
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. ¿Cuál es el valor de la expresión 5ab – 4c2, si se sabe que a = -3, b = 2 y c = -1?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-46"
+        },
+        {
+          "letra": "B",
+          "texto": "-34"
+        },
+        {
+          "letra": "C",
+          "texto": "-26"
+        },
+        {
+          "letra": "D",
+          "texto": "26 8"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Un cierto colegio, la cantidad de profesores se encuentra con la cantidad de alumnos en \n\nla razón 1 : 11. Si entre profesores y alumnos juntos suman 1.560 personas, ¿cuántos \nson los alumnos de este colegio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1.020"
+        },
+        {
+          "letra": "B",
+          "texto": "1.230"
+        },
+        {
+          "letra": "C",
+          "texto": "1.410"
+        },
+        {
+          "letra": "D",
+          "texto": "1.430"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. El valor de ab2 – a3, para a = - x\n\n2  y b = 2x es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "- 15 8 x3"
+        },
+        {
+          "letra": "B",
+          "texto": "17 8 x3"
+        },
+        {
+          "letra": "C",
+          "texto": "- 17 8 x3"
+        },
+        {
+          "letra": "D",
+          "texto": "- 11 6 x3"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. Una impresora láser realiza un servicio en 7 horas y 30 minutos imprimiendo 5.000 \n\npáginas por hora. Otra impresora, de la misma marca, pero de modelo diferente, que \nimprime 3.000 páginas por hora ejecutará el mismo servicio en",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 horas y 20 minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "12 horas y 20 minutos."
+        },
+        {
+          "letra": "C",
+          "texto": "11 horas y 50 minutos."
+        },
+        {
+          "letra": "D",
+          "texto": "12 horas y 30 minutos."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Para la construcción de un subsuelo es común usar concreto formado por cemento, \n\narena y grava en la siguiente proporción: 1 parte de cemento, 4 partes de arena y  \n2 partes de grava. Para construir el subsuelo de un galpón, una constructora pidió un \ncamión tolva con 14 m3 de concreto. ¿Cuál es el volumen de cemento en la carga de \nconcreto transportada por el camión tolva?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,75 m3"
+        },
+        {
+          "letra": "B",
+          "texto": "2,00 m3"
+        },
+        {
+          "letra": "C",
+          "texto": "2,33 m3"
+        },
+        {
+          "letra": "D",
+          "texto": "4,00 m3 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. Una fábrica de melanina produce placas cuadradas de lados de medida igual a  \n\nL centímetros. Estas placas son vendidas en cajas de N unidades y, en cada caja está  \nespecificada el área máxima A que puede ser cubierta por las N placas. \n \n\nDebido a una demanda del mercado por placas más grandes, la fábrica triplicó las \nmedidas de los lados de sus placas y consiguió reunirlas en una nueva caja, de tal \nmanera que el área cubierta por A no fuese alterada. La cantidad X de placas del nuevo \nmodelo en cada nueva caja será igual",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a la novena parte de N."
+        },
+        {
+          "letra": "B",
+          "texto": "a la tercera parte de N."
+        },
+        {
+          "letra": "C",
+          "texto": "al triple de N."
+        },
+        {
+          "letra": "D",
+          "texto": "a nueve veces N."
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. ¿Cuántos enteros no negativos pertenecen al conjunto solución de la inecuación  \n\n5x – 8 < 3x + 12?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ocho"
+        },
+        {
+          "letra": "B",
+          "texto": "Nueve"
+        },
+        {
+          "letra": "C",
+          "texto": "Diez"
+        },
+        {
+          "letra": "D",
+          "texto": "Infinitos"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. En cierto hotel, la tarifa por una habitación doble es $D y la tarifa por una habitación \n\nindividual es $d. Si d es por lo menos $ 12.000 menos que los dos tercios de D, ¿en \ncuál opción se indica esta relación?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "d  2 3 D – 12.000"
+        },
+        {
+          "letra": "B",
+          "texto": "d < 2 3 D + 12.000"
+        },
+        {
+          "letra": "C",
+          "texto": "d  2 3 D + 12.000"
+        },
+        {
+          "letra": "D",
+          "texto": "d  2 3 D – 12.000"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. Si a + b = 4  y  2a – b = 5, ¿cuál es el valor de a + 2b?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "2 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. Si (a, b) es la solución del sistema 3x + 2y = 4\n\n5x + 7y = 3 , ¿cuál es el valor de ab?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-4"
+        },
+        {
+          "letra": "B",
+          "texto": "-3"
+        },
+        {
+          "letra": "C",
+          "texto": "-2"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. Si (x + 2)2 = (22)3  y  x > 0, entonces ¿cuál es el valor de x?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. ¿Cuál es el valor de k, si se sabe que una solución de la ecuación x2 + kx – 24 = 0 es  \n\nx = 4?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "–6"
+        },
+        {
+          "letra": "B",
+          "texto": "–2"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. Un ascensor se está moviendo hacia abajo. La altura del ascensor respecto del piso \n\nmás bajo está representada por la ecuación H = 12 – 0,25t. ¿Cuál es el significado del \nvalor 0,25 en esta ecuación?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La altura inicial del ascensor."
+        },
+        {
+          "letra": "B",
+          "texto": "Representa la velocidad constante."
+        },
+        {
+          "letra": "C",
+          "texto": "La altura del ascensor después de 12 segundos."
+        },
+        {
+          "letra": "D",
+          "texto": "El tiempo que necesita el ascensor para llegar al piso más bajo."
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. La gráfica de una función afín pasa por los puntos (1, s), (3, t) y (5, 10). ¿Cuál es el \n\nvalor de 2t – s?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "10 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. La representación gráfica de una función cuadrática f es una parábola cuyo vértice tiene \n\ncoordenadas (-3, -4). Esta función puede estar definida por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "f(x) = (x + 3)2 – 4"
+        },
+        {
+          "letra": "B",
+          "texto": "f(x) = (x – 3)2 + 4"
+        },
+        {
+          "letra": "C",
+          "texto": "f(x) = (x – 4)2 – 3"
+        },
+        {
+          "letra": "D",
+          "texto": "f(x) = x2 – 4"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. La parábola de la figura adjunta, ¿de cuál de las siguientes funciones puede ser su \n\nrepresentación gráfica? \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\n1 \n-2 \n\nx \n\n-2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "f(x) = x2 + x + 2"
+        },
+        {
+          "letra": "B",
+          "texto": "f(x) = x2 + x – 2"
+        },
+        {
+          "letra": "C",
+          "texto": "f(x) = x2 + x"
+        },
+        {
+          "letra": "D",
+          "texto": "f(x) = x2 – x – 2"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p12_img0.jpg"
+      ]
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. En el momento t = 0, se lanzó un cohete desde una altura de ho metros sobre el suelo. \n\nHasta que el cohete golpeó el suelo, su altura en metros estuvo dada por la función \nh(t) = -16t2 + 320t + ho. ¿Para cuál de los siguientes valores de t el cohete estaba a la \nmisma altura que cuando t = 5?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "15"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "20 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. En el triángulo ABC de la figura adjunta, AD = DE = EC = CB. ¿En qué razón se \n\nencuentran las medidas de los ángulos CAB y ABC, respectivamente? \n \n \n \n \n \n \n \n \n \n\nC \n\nD \n\nB \nE \nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 : 2"
+        },
+        {
+          "letra": "B",
+          "texto": "1 : 3"
+        },
+        {
+          "letra": "C",
+          "texto": "1 : 4"
+        },
+        {
+          "letra": "D",
+          "texto": "2 : 3"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p13_img0.jpg"
+      ]
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. En la circunferencia de centro O de la figura adjunta se han trazado dos diámetros. ¿A \n\ncuánto es igual la suma  + ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60°"
+        },
+        {
+          "letra": "B",
+          "texto": "90°"
+        },
+        {
+          "letra": "C",
+          "texto": "100°"
+        },
+        {
+          "letra": "D",
+          "texto": "120°  O 2-20° -"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p13_img0.jpg"
+      ]
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. ¿Cuánto suman los perímetros de los triángulos de la figura adjunta, si se sabe que son \n\nequiláteros y congruentes? \n \n \n \n \n \n \n \n \n\na + b \na + 3 \n\nb + 4",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "42"
+        },
+        {
+          "letra": "B",
+          "texto": "36"
+        },
+        {
+          "letra": "C",
+          "texto": "30"
+        },
+        {
+          "letra": "D",
+          "texto": "21 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p13_img0.jpg"
+      ]
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. En los rectángulos A y B de la figura adjunta, la altura del rectángulo B es un 75% de la \n\naltura del rectángulo A y la base del rectángulo B es un 25% mayor que la base del \nrectángulo A. \n \n \n \n \n \n \n \n \n \n \n \n\nA \n\nB \n\n¿Cuál de las siguientes afirmaciones es verdadera, respecto del área del rectángulo B?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Es un 25% menor que el área del rectángulo A."
+        },
+        {
+          "letra": "B",
+          "texto": "Es igual al área del rectángulo A."
+        },
+        {
+          "letra": "C",
+          "texto": "Es un 6,25% menor que el área del rectángulo A."
+        },
+        {
+          "letra": "D",
+          "texto": "Es un 6,25% mayor que el área del rectángulo A."
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p14_img0.jpg"
+      ]
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. El cuadrilátero ABCD de la figura adjunta es un trapecio de bases AB y CD, en que  \n\nAD = BC, AB = 35 cm, BC = 13 cm y CD = 25 cm. ¿Cuál es el área de este trapecio? \n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nB \nA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "240 cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "280 cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "320 cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "360 cm2 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p14_img0.jpg"
+      ]
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. En la figura adjunta se muestran dos cuadrados de lado a = 5. Si la zona de \n\nsuperposición (zona en blanco) es un cuadrado de lado 2, ¿cuál es el área de la zona \nachurada? \n \n \n \n \n \n \n \n \n \n \n\na \n\na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "36"
+        },
+        {
+          "letra": "B",
+          "texto": "40"
+        },
+        {
+          "letra": "C",
+          "texto": "42"
+        },
+        {
+          "letra": "D",
+          "texto": "46"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p15_img1.jpg"
+      ]
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. En la figura adjunta, O es centro del círculo y OPQR es un rectángulo, donde Q \n\npertenece a la circunferencia. Si OP = 3 y OR = 4, ¿cuál es el área de la región \nsombreada? \n \n \n \n \n \n \n \n \n \n\nP \nQ \n\nO \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 – 3"
+        },
+        {
+          "letra": "B",
+          "texto": "25  – 12 4"
+        },
+        {
+          "letra": "C",
+          "texto": "25 – 12"
+        },
+        {
+          "letra": "D",
+          "texto": "25  – 3 4"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p15_img1.jpg"
+      ]
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. Dados los vectores a(-1, 3), b(2, 6) y c = 2b – a. ¿Cuál de los siguientes vectores es c? \n \n \n\ny \n\ny \n\ny \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": "9 9 5 9 x 5 x 3 x -4 x 15"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": []
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. Si los puntos de coordenadas (4, 4) y (-2, -2) corresponden a vértices opuestos de un \n\ncuadrado, ¿cuáles son las coordenadas del punto en que se intersectan las diagonales \nde este cuadrado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 1 , 2 2      "
+        },
+        {
+          "letra": "B",
+          "texto": "(1, 1)"
+        },
+        {
+          "letra": "C",
+          "texto": "3 3 , 2 2      "
+        },
+        {
+          "letra": "D",
+          "texto": "(2, 2)"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. ¿Cuál es el área, en unidades cuadradas, de un triángulo de vértices P(-3, 2), Q(5, 2) y \n\nR(-3, 10)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "32"
+        },
+        {
+          "letra": "B",
+          "texto": "48"
+        },
+        {
+          "letra": "C",
+          "texto": "64"
+        },
+        {
+          "letra": "D",
+          "texto": "96"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. En la figura adjunta AB  es paralelo al eje x. Si A(0, 4), C(6, 0) y AO = AB, ¿cuál es el \n\nárea del cuadrilátero ABCO? \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nA \nB \n\nC \nO \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "16"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "20 16"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p16_img0.jpg"
+      ]
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. Según la información entregada en la figura adjunta, ¿cuál es el valor de x? \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n2 \n\nx \n\n2 \n\n2 \n\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "3 2"
+        },
+        {
+          "letra": "C",
+          "texto": "1 2"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p17_img0.jpg"
+      ]
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. En el triángulo PQR de la figura adjunta, PR   PQ , ST   QT , PR = 12, PQ = 15 y  \n\nTS = 8. ¿Cuál es la longitud de QT ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8,5"
+        },
+        {
+          "letra": "B",
+          "texto": "9"
+        },
+        {
+          "letra": "C",
+          "texto": "9,5"
+        },
+        {
+          "letra": "D",
+          "texto": "10 R T P Q S 17"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p17_img0.jpg"
+      ]
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. En el triángulo ABC de la figura adjunta, E y D son puntos medios de AB  y BC , \n\nrespectivamente. Si ED = AC – 9, entonces ED =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "9"
+        },
+        {
+          "letra": "D",
+          "texto": "12"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p18_img0.jpg"
+      ]
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. ¿Qué valor debe tener n en la figura adjunta, para que se cumpla que L1 // L2 // L3? \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nC \n\nD \n\nA \nB \nE \n\nn+3 \n\nL3 \n\nn \n\n8 \n\nL2 \n\n6 \n\nL1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "n + 3 = 12"
+        },
+        {
+          "letra": "B",
+          "texto": "n + 3 = 9"
+        },
+        {
+          "letra": "C",
+          "texto": "n + 3 = 8"
+        },
+        {
+          "letra": "D",
+          "texto": "n + 3 = 6"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p18_img0.jpg"
+      ]
+    },
+    {
+      "numero": 51,
+      "enunciado": "51. La distancia en un plano entre el edificio de la municipalidad y un retén de carabineros \n\nes de 9 cm. Si este plano fue construido en la escala 1 : 10.000, ¿cuál es la distancia \nreal que separa a la municipalidad del retén?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "90 m"
+        },
+        {
+          "letra": "B",
+          "texto": "900 m"
+        },
+        {
+          "letra": "C",
+          "texto": "9.000 m"
+        },
+        {
+          "letra": "D",
+          "texto": "90 km 18"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p18_img0.jpg"
+      ]
+    },
+    {
+      "numero": 52,
+      "enunciado": "52. Se tienen dos cilindros circulares rectos de igual volumen. Uno de ellos tiene radio 8 y \n\naltura 4, y el otro tiene radio 6 y altura h. ¿Cuál es, aproximadamente, el valor de h?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "6,25"
+        },
+        {
+          "letra": "C",
+          "texto": "7,11"
+        },
+        {
+          "letra": "D",
+          "texto": "8,43"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 53,
+      "enunciado": "53. La figura adjunta corresponde a una plantilla de cartulina que al ser doblada por las \n\nlíneas punteadas se forma una caja con forma de paralelepípedo rectangular. ¿Cuál es \nel volumen de esta caja? \n \n \n \n \n \n \n \n \n \n \n \n\n5 dm \n5 dm \n\n3 dm \n\n4 dm \n\n3 dm",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 dm3"
+        },
+        {
+          "letra": "B",
+          "texto": "20 dm3"
+        },
+        {
+          "letra": "C",
+          "texto": "40 dm3"
+        },
+        {
+          "letra": "D",
+          "texto": "60 dm3"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p19_img0.jpg"
+      ]
+    },
+    {
+      "numero": 54,
+      "enunciado": "54. Sean r, s, p, q y a números racionales. Si el promedio de r, s y p es 1\n\n3 a, entonces ¿cuál \n\nes el promedio (media aritmética) de r, s, p y q?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3a + 3q 4"
+        },
+        {
+          "letra": "B",
+          "texto": "a + q 4"
+        },
+        {
+          "letra": "C",
+          "texto": "3a q  4"
+        },
+        {
+          "letra": "D",
+          "texto": "3(a q)  4 19"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 55,
+      "enunciado": "55. En el gráfico de la figura adjunta se muestran las temperaturas medias diarias \n\nregistradas durante una semana en la ciudad de Porvenir. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n8 \n\n7 \n\nGrados Celsiuis \n\n6 \n\n5 \n\n4 \n\n3 \n\n2 \n\n1 \n\n0 \n\nLUN \nMAR \nMIE \nJUE \nVIE \nSAB \nDOM \n\n \n \n¿En cuál de los siguientes días la temperatura media estuvo más próxima a la \ntemperatura media semanal?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Martes"
+        },
+        {
+          "letra": "B",
+          "texto": "Miércoles"
+        },
+        {
+          "letra": "C",
+          "texto": "Viernes"
+        },
+        {
+          "letra": "D",
+          "texto": "Sábado"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p20_img0.jpg"
+      ]
+    },
+    {
+      "numero": 56,
+      "enunciado": "56. En la tabla adjunta se muestra la distribución de los diámetros de 96 rodamientos de \n\nacero. \n \n \n \n \n \n \n \n \n \n\nDiámetro (cm) \nFrecuencia \n[1,60 – 1,65[ \n20 \n[1,65 – 1,70[ \n \n[1,70 – 1,75[ \n28 \n[1,75 – 1,80[ \n8 \n[1,80 – 1,85] \n16 \n\n¿Cuál de las siguientes afirmaciones es FALSA?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "La frecuencia relativa del intervalo [1,65 – 1,70[ es 0,25."
+        },
+        {
+          "letra": "B",
+          "texto": "La marca de clase del intervalo [1,80 – 1,85[ es 1,825 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "La frecuencia acumulada del intervalo [1,75 – 1,80[ es 80."
+        },
+        {
+          "letra": "D",
+          "texto": "El intervalo de mayor frecuencia es [1,65 – 1,70[. 20"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p20_img0.jpg"
+      ]
+    },
+    {
+      "numero": 57,
+      "enunciado": "57. La tabla adjunta muestra el número de alumnos matriculados en una academia de \n\nguitarra desde el año 2018 hasta el año 2022. Si la mediana del número de estudiantes \npara estos 5 años fue 355 y no hubo 2 años con la misma cantidad de alumnos \nmatriculados, ¿cuál de los siguientes puede ser un posible valor de X? \n \n \n \n \n \n \n \n \n\nAño \nN° de estudiantes \n2018 \nX \n2019 \n325 \n2020 \n387 \n2021 \n376 \n2022 \n355",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "350"
+        },
+        {
+          "letra": "B",
+          "texto": "356"
+        },
+        {
+          "letra": "C",
+          "texto": "360"
+        },
+        {
+          "letra": "D",
+          "texto": "365"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p21_img0.jpg"
+      ]
+    },
+    {
+      "numero": 58,
+      "enunciado": "58. El criterio de evaluación de un profesor de matemática está basado en el promedio \n\nponderado de los puntajes de tres pruebas tipo PAES, teniendo la primera prueba \ncoeficiente 1, la segunda coeficiente 2 y la tercera coeficiente 3. Si tal promedio (media \naritmética) es igual o superior a 650 puntos, el alumno queda liberado de asistir a \nrepasos. Julián obtuvo 630 puntos en la primera prueba y 450 puntos en la segunda, \nde modo que, para eximirse de clases de repaso, en la tercera prueba tendrá que \nobtener como mínimo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "700 puntos"
+        },
+        {
+          "letra": "B",
+          "texto": "757 puntos"
+        },
+        {
+          "letra": "C",
+          "texto": "770 puntos"
+        },
+        {
+          "letra": "D",
+          "texto": "790 puntos"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": []
+    },
+    {
+      "numero": 59,
+      "enunciado": "59. Dado un conjunto de datos numéricos correspondientes a un estudio estadístico, si se \n\nordenan estos datos en forma creciente podemos construir un diagrama de caja y \nbigotes a partir",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "del promedio y los quintiles."
+        },
+        {
+          "letra": "B",
+          "texto": "de la moda y los percentiles."
+        },
+        {
+          "letra": "C",
+          "texto": "valor mínimo, valor máximo y los cuartiles."
+        },
+        {
+          "letra": "D",
+          "texto": "del promedio, la moda y la mediana. 21"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p21_img0.jpg"
+      ]
+    },
+    {
+      "numero": 60,
+      "enunciado": "60. En la facultad de Medicina Veterinaria de la Universidad de Pensilvania se entrenó un \n\nperro, el cual después del entrenamiento quedó capacitado  para detectar con el olfato \na personas infectadas con coronavirus. Si este perro tiene una probabilidad de un 96% \nde detectar el coronavirus, entonces se esperaría que de 250 infectados NO serían \ndetectadas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 personas."
+        },
+        {
+          "letra": "B",
+          "texto": "10 personas."
+        },
+        {
+          "letra": "C",
+          "texto": "15 personas."
+        },
+        {
+          "letra": "D",
+          "texto": "100 personas."
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 61,
+      "enunciado": "61. Una tómbola contiene bolitas rojas, azules y verdes. La probabilidad de extraer de la \n\ntómbola al azar una bolita roja es 1\n\n4  y la probabilidad de extraer al azar una bolita azul \n\nes 1\n\n5 . ¿Cuál de los siguientes puede ser el número de bolitas que hay en la tómbola?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24"
+        },
+        {
+          "letra": "B",
+          "texto": "32"
+        },
+        {
+          "letra": "C",
+          "texto": "36"
+        },
+        {
+          "letra": "D",
+          "texto": "40"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 62,
+      "enunciado": "62. La tabla adjunta muestra el número de personas, hombres y mujeres, que trabajan en \n\nuna empresa y los años que llevan trabajando en ella. \n \n \n \n \n \n \n \n\n \nMenos de 10 \n[10 – 20[ \n[20 – 30[ \n30 o más \nTotal \nHombres \n12 \n14 \n8 \n6 \n40 \nMujeres \n6 \n24 \n16 \n4 \n50 \nTotal \n18 \n38 \n24 \n10 \n90 \n\nSi se escoge una persona que tenga menos de 30 años de antigüedad, ¿cuál es la \nprobabilidad que sea un hombre con 10 años o más de antigüedad?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11 20"
+        },
+        {
+          "letra": "B",
+          "texto": "11 30"
+        },
+        {
+          "letra": "C",
+          "texto": "11 40"
+        },
+        {
+          "letra": "D",
+          "texto": "11 50 22"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": [
+        "5262-JMA-PAES1-OL-05-2022_p22_img0.jpg"
+      ]
+    },
+    {
+      "numero": 63,
+      "enunciado": "63. En una caja hay 12 barras de cereal, 4 tienen sabor a vainilla, 4 tienen sabor a \n\nchocolate y 4 tienen sabor a frutilla. Si un niño saca de la caja 2 barras, ¿cuál es la \nprobabilidad que ambas tengan el mismo sabor?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9 50"
+        },
+        {
+          "letra": "B",
+          "texto": "21 100"
+        },
+        {
+          "letra": "C",
+          "texto": "3 11"
+        },
+        {
+          "letra": "D",
+          "texto": "33 100"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 64,
+      "enunciado": "64. Debido a que por accidente se abrió  la puerta de una jaula comenzaron a escaparse los \n\nconejos que allí se encontraban. Si antes de que se abriera la puerta de los conejos \nenjaulados, 8 eran blancos y 6 eran negros, ¿cuál es la probabilidad de que los tres \nprimeros conejos en escaparse fueran blancos y el cuarto negro?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 14 · 7 13 · 6 12 · 6 10"
+        },
+        {
+          "letra": "B",
+          "texto": "8 14 · 7 13 · 6 12 · 6 11"
+        },
+        {
+          "letra": "C",
+          "texto": "8 14 + 7 13 + 6 12 + 6 10"
+        },
+        {
+          "letra": "D",
+          "texto": "8 14 + 7 13 + 6 12 + 6 11"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 65,
+      "enunciado": "65. Se lanza dos veces una moneda y se consideran los siguientes eventos: \n \n\nA: Obtener al menos una cara. \nB: Obtener sello en el primer lanzamiento. \nC: Obtener cara en el segundo lanzamiento. \nD: Obtener sello en ambos lanzamientos. \n \n¿Cuál de las siguientes proposiciones es FALSA?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "P(B) = P(C)"
+        },
+        {
+          "letra": "B",
+          "texto": "P(D) < P(B)"
+        },
+        {
+          "letra": "C",
+          "texto": "P(A) = P(B)"
+        },
+        {
+          "letra": "D",
+          "texto": "P(A) > P(D) 23"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    }
+  ]
+}

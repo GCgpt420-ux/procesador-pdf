@@ -1,0 +1,1679 @@
+{
+  "archivo_original": "jeg 7 (2).pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/2021/jeg 7 (2).pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 26,
+  "fecha_procesamiento": "2026-03-07T23:11:59.635509",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n1\n1\n : 3  \n4\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 13"
+        },
+        {
+          "letra": "B",
+          "texto": "1 11"
+        },
+        {
+          "letra": "C",
+          "texto": "16 3"
+        },
+        {
+          "letra": "D",
+          "texto": "3 11"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nSi m y n son enteros positivos que satisfacen m\n\n5  + 2n = 11, entonces ¿cuál puede ser \n\nel mayor valor que puede tener m?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 55"
+        },
+        {
+          "letra": "B",
+          "texto": "1 45"
+        },
+        {
+          "letra": "C",
+          "texto": "55"
+        },
+        {
+          "letra": "D",
+          "texto": "45"
+        },
+        {
+          "letra": "E",
+          "texto": "65"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nUn sitio rectangular de 12 metros de frente por 30 metros de fondo se debe cerrar con \ncinco corridas de alambre, el cual se vende en rollos de 50 metros. ¿Cuál es el menor \nnúmero de rollos que deben ser comprados?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "6 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nLa tabla adjunta indica la suma de los ángulos internos de algunos polígonos. \n \n \n \n \n \n \n \n \n \n \n \n\nSuma de los \nángulos internos \nTriángulo \n3 \n1 · 180° = 180° \nCuadrilátero \n4 \n2 · 180° = 360° \nPentágono \n5 \n3 · 180° = 540° \nHexágono \n6 \n4 · 180° = 720° \n\nPolígono \nNúmero \nde lados \n\n¿Cuántos lados tiene un polígono cuya suma de los ángulos interiores es igual a 4140°?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "23"
+        },
+        {
+          "letra": "B",
+          "texto": "25"
+        },
+        {
+          "letra": "C",
+          "texto": "27"
+        },
+        {
+          "letra": "D",
+          "texto": "35"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "jeg 7 (2)_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nEn una maleta hay n pelotas de tenis, las cuales son amarillas o son blancas. Si las \npelotas amarillas son el 30% de las blancas, entonces n NO puede tener el valor",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "26"
+        },
+        {
+          "letra": "B",
+          "texto": "39"
+        },
+        {
+          "letra": "C",
+          "texto": "42"
+        },
+        {
+          "letra": "D",
+          "texto": "52 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nEn un frasco hay n caramelos. Si de este frasco se saca un caramelo, ¿qué porcentaje \nde la cantidad original de caramelos queda en el frasco?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "100(n – 1)%"
+        },
+        {
+          "letra": "B",
+          "texto": "100(n2 – 1)%"
+        },
+        {
+          "letra": "C",
+          "texto": "100 1 n n       %"
+        },
+        {
+          "letra": "D",
+          "texto": "100 1 n n        %"
+        },
+        {
+          "letra": "E",
+          "texto": "100 n 1       % n"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nDesarrollando la expresión (n + 1)2 – n2 puedes descubrir una manera fácil de \ndeterminar el valor de 1.222.3332 – 1.222.3322. El resultado de esta expresión es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2.444.665"
+        },
+        {
+          "letra": "B",
+          "texto": "2.444.664"
+        },
+        {
+          "letra": "C",
+          "texto": "1.222.332"
+        },
+        {
+          "letra": "D",
+          "texto": "1 1 2  2 2"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. Si log4 25 = t\n\n3 , entonces log2 5 =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "t 3"
+        },
+        {
+          "letra": "B",
+          "texto": "2t 3 2 t"
+        },
+        {
+          "letra": "C",
+          "texto": "9"
+        },
+        {
+          "letra": "D",
+          "texto": "3 t 3 2 3 t"
+        },
+        {
+          "letra": "E",
+          "texto": "3"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Se llama año-luz a la distancia recorrida por un rayo de luz en un año. La estrella más \n\npróxima a la Tierra es Alfa Centauro, que se encuentra a 4,5 años-luz de nosotros. \nAdmitiendo que esta estrella posee planetas con vida inteligente, ¿cuánto tiempo se \ntendrá que esperar para poder recibir una respuesta de una señal de radio que viaja a \nla misma velocidad de la luz?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 años y 3 meses"
+        },
+        {
+          "letra": "B",
+          "texto": "4 años y 6 meses"
+        },
+        {
+          "letra": "C",
+          "texto": "9 años"
+        },
+        {
+          "letra": "D",
+          "texto": "más de 9 años"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Se puede determinar el valor numérico de n\n\nm , si se sabe que: \n\n \n\n(1) m + 2n\n\nn\n = 5 \n\n(2) m\n\nn  + 2 = 5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. “El cuociente de a y b es doce unidades menos que tres veces la suma de a y b”. ¿Cuál \n\nde las siguientes ecuaciones representa este enunciado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a b = (3a + b) – 12"
+        },
+        {
+          "letra": "B",
+          "texto": "a b = 12 – (3a + b)"
+        },
+        {
+          "letra": "C",
+          "texto": "a b = 3(a + b) – 12"
+        },
+        {
+          "letra": "D",
+          "texto": "a b = 12 – 3(a + b)"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. En una prueba de 25 preguntas, se otorgan 4 puntos por cada respuesta correcta y se \n\nresta 1 punto por cada respuesta errada. Si un alumno contesta todas las preguntas, \n¿cuántas respuestas correctas tiene que tener como mínimo para que su calificación \nsea un número positivo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tres"
+        },
+        {
+          "letra": "B",
+          "texto": "Cuatro"
+        },
+        {
+          "letra": "C",
+          "texto": "Cinco"
+        },
+        {
+          "letra": "D",
+          "texto": "Seis"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Si (3s – 2t)(3t – 2s) = h, entonces (3s – 2t)(10s – 15t) =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "-5"
+        },
+        {
+          "letra": "C",
+          "texto": "5h"
+        },
+        {
+          "letra": "D",
+          "texto": "-5h"
+        },
+        {
+          "letra": "E",
+          "texto": "- h 5"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. El dueño de una biblioteca decidió repartir 1.000 libros entre x personas, en forma \n\nequitativa. Como el día de la repartición faltaron 5 personas, cada una de las otras \npersonas recibió 10 libros más. ¿Cuál de las siguientes ecuaciones representa esta \nsituación?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 + 10 = 1.000 x 5 "
+        },
+        {
+          "letra": "B",
+          "texto": "1.000"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. Las edades actuales de Daniel y Claudio suman 48 años. Si la edad de Claudio es igual \n\na la tercera parte de la edad de Daniel, entonces ¿hace cuánto tiempo, Claudio tenía la \nmitad de la edad que tiene actualmente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Hace 5 años"
+        },
+        {
+          "letra": "B",
+          "texto": "Hace 5 años y 6 meses"
+        },
+        {
+          "letra": "C",
+          "texto": "Hace 6 años"
+        },
+        {
+          "letra": "D",
+          "texto": "Hace 6 años y 6 meses"
+        },
+        {
+          "letra": "E",
+          "texto": "Hace 7 años y 6 meses"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Jacinta debía multiplicar un número por 6, pero por distracción dividió por 6. Al \n\nresultado tenía que sumarle 14, pero equivocándose nuevamente terminó restando 14, \nobteniendo como resultado 16. Si hubiese efectuado las operaciones correctamente \nhabría encontrado un número",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mayor que 1.000."
+        },
+        {
+          "letra": "B",
+          "texto": "menor que 400."
+        },
+        {
+          "letra": "C",
+          "texto": "entre 400 y 600."
+        },
+        {
+          "letra": "D",
+          "texto": "entre 600 y 800."
+        },
+        {
+          "letra": "E",
+          "texto": "entre 800 y 1.000."
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. ¿Cuál es el perímetro de un rectángulo cuyo ancho mide 2a y cuyo largo mide 2b?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4a + 4b"
+        },
+        {
+          "letra": "B",
+          "texto": "2a+2 + ba+2"
+        },
+        {
+          "letra": "C",
+          "texto": "22a+1 + b2a+2"
+        },
+        {
+          "letra": "D",
+          "texto": "2a+1 + 2b+1 9"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. En la fórmula Fg = G · \n1\n2\n2\nm m\n\n, Fg es la fuerza gravitacional que actúa sobre dos \n\nr\n\npartículas de masas m1 y m2; r es la distancia no nula entre ellas y G  es una constante \ngravitacional. ¿Cuál de las siguientes expresiones representa a la constante \ngravitacional?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "G = Fg – 1 2 2 m m r 2 F m m g 1 2"
+        },
+        {
+          "letra": "B",
+          "texto": "G = r 2 r m m"
+        },
+        {
+          "letra": "C",
+          "texto": "G = Fg – 1 2 m m"
+        },
+        {
+          "letra": "D",
+          "texto": "G = 1 2 2 g F r  2 g F r "
+        },
+        {
+          "letra": "E",
+          "texto": "G = m m 1 2"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Desde el año 2010 al 2020 la población de la ciudad P aumentó de 12.000 a 28.000 \n\nhabitantes y la población de la ciudad Q aumentó de 18.000 a 24.000 habitantes. Si la \npoblación de ambas ciudades aumenta en una razón constante, ¿en qué año ambas \ntenían la misma cantidad de habitantes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2015"
+        },
+        {
+          "letra": "B",
+          "texto": "2016"
+        },
+        {
+          "letra": "C",
+          "texto": "2018"
+        },
+        {
+          "letra": "D",
+          "texto": "2019"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 22,
+      "enunciado": "22. En el sistema de ecuaciones ax  y = 0\n\n\n\n, a y b son constantes. Si se sabe que este \n\nx  by = 1\n\nsistema NO tiene solución, entonces se cumple que el producto a · b es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-1"
+        },
+        {
+          "letra": "B",
+          "texto": "0"
+        },
+        {
+          "letra": "C",
+          "texto": "1 2"
+        },
+        {
+          "letra": "D",
+          "texto": "1 10"
+        }
+      ],
+      "pagina": 10,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. Dado el sistema 3x  5y = -6\n\n\n\n, ¿cuál de las siguientes igualdades es verdadera? \n\n2x  3y = -2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x = 2y"
+        },
+        {
+          "letra": "B",
+          "texto": "y = 3x"
+        },
+        {
+          "letra": "C",
+          "texto": "x = y"
+        },
+        {
+          "letra": "D",
+          "texto": "x = 2 3 y"
+        },
+        {
+          "letra": "E",
+          "texto": "x = 4 3 y"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. El nivel sonoro  y la intensidad I de un sonido están relacionados por la ecuación  \n\n = 120 + 10 log I, en que  es medido en decibeles e I en watts por metro cuadrado. \nSi I1 es la intensidad correspondiente al nivel sonoro de 80 decibeles en el cruce de dos \navenidas con alto flujo vehicular e I2 la intensidad correspondiente al nivel sonoro de 60 \ndecibeles del interior de un automóvil que tiene funcionando el aire acondicionado, \n\nI\nI ? \n\nentonces ¿cuál es el valor de \n1\n\n2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 10"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "100"
+        },
+        {
+          "letra": "D",
+          "texto": "1.000"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. Los números p y q son reales negativos. ¿Cuál de las siguientes desigualdades es \n\nverdadera, si p\n2  > q\n3 ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "p2 < 3 2 q2"
+        },
+        {
+          "letra": "B",
+          "texto": "p2 > 3 2 q2"
+        },
+        {
+          "letra": "C",
+          "texto": "p > 3 2 q"
+        },
+        {
+          "letra": "D",
+          "texto": "p < 3 2 q 11"
+        }
+      ],
+      "pagina": 11,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. El vendedor de una automotora gana una comisión equivalente al C% del precio del \n\nautomóvil que vende. Si el mes pasado vendió 2 automóviles a un precio de  \n$ 14.000.000 cada uno, entonces ¿cuánto recibió el vendedor de comisión por esta \nventa, si C = 1,5?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 240.000"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 360.000"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 420.000"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 520.000"
+        },
+        {
+          "letra": "E",
+          "texto": "$ 840.000"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27. Considera la siguiente información: “si al cuadrado de cierto número se le resta sus dos \n\ntercios resulta 7”. Hay dos números que obedecen a esas condiciones caracterizándose \nuno de ellos porque es un número",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "divisible por 2."
+        },
+        {
+          "letra": "B",
+          "texto": "entero negativo."
+        },
+        {
+          "letra": "C",
+          "texto": "múltiplo de 3."
+        },
+        {
+          "letra": "D",
+          "texto": "impar mayor que 11."
+        }
+      ],
+      "pagina": 12,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. La gráfica de una función f de la forma f(x) = ax + b pasa por los puntos (m, 1) y  \n\n(1, n) en el plano cartesiano. Si en la fórmula a = 1, ¿cuál de las siguientes \nproposiciones es verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m – n = 1"
+        },
+        {
+          "letra": "B",
+          "texto": "m + n = 1"
+        },
+        {
+          "letra": "C",
+          "texto": "m – n = 2"
+        },
+        {
+          "letra": "D",
+          "texto": "m + n = 2 12"
+        }
+      ],
+      "pagina": 12,
+      "imagenes": [
+        "jeg 7 (2)_p12_img0.jpg"
+      ]
+    },
+    {
+      "numero": 29,
+      "enunciado": "29. La tabla adjunta muestra algunos valores para las funciones f y g. ¿Para qué valor de x, \n\nse cumple que f(x) ∙ g(x) = x? \n  \n \n \n \n \n \n \n \n \n \n\nx \nf(x) \ng(x) \n0 \n-1 \n-1 \n1 \n2 \n1 \n2 \n3 \n1 \n3 \n-1 \n-3 \n4 \n-2 \n3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-1"
+        },
+        {
+          "letra": "B",
+          "texto": "0"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "3"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "jeg 7 (2)_p13_img0.jpg"
+      ]
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. La figura adjunta muestra la gráfica de V = f(x). Si la función g está definida por  \n\ng(x) = 2f x\n\n2\n\n\n\n\n\n\n\n + 5, ¿cuál es el valor de g(6)? \n\n \n \n \n \n \n \n \n \n \n \n \n\ny \n\n5 \n\nf(x) \n\nx \n\n5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "13"
+        },
+        {
+          "letra": "D",
+          "texto": "14"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": [
+        "jeg 7 (2)_p13_img0.jpg"
+      ]
+    },
+    {
+      "numero": 31,
+      "enunciado": "31. ¿Para cuál de las siguientes funciones se cumple que f(-2) > f(2)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "f(x) = x2"
+        },
+        {
+          "letra": "B",
+          "texto": "f(x) = x + 2"
+        },
+        {
+          "letra": "C",
+          "texto": "f(x) = x3 + 2"
+        },
+        {
+          "letra": "D",
+          "texto": "f(x) = x 2"
+        },
+        {
+          "letra": "E",
+          "texto": "f(x) = -x3 + 2 13"
+        }
+      ],
+      "pagina": 13,
+      "imagenes": []
+    },
+    {
+      "numero": 32,
+      "enunciado": "32. Los puntos (0, 0) y (2, 1) pertenecen a la gráfica de una función cuadrática f. El \n\nmínimo de esta función se alcanza cuando x = - 1\n\n4 . ¿Cuál es el valor de f(1)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 10"
+        },
+        {
+          "letra": "B",
+          "texto": "3 10"
+        },
+        {
+          "letra": "C",
+          "texto": "4 10"
+        },
+        {
+          "letra": "D",
+          "texto": "1 10"
+        },
+        {
+          "letra": "E",
+          "texto": "2 10"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 33,
+      "enunciado": "33. La gráfica de f(x) = ax2 + bx + c es una parábola que pasa por los puntos (1, 4);  \n\n(0, 3)  y  (-1, 6). ¿Cuál de las siguientes ecuaciones corresponde a esta parábola?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "y = -2x2 – x + 3"
+        },
+        {
+          "letra": "B",
+          "texto": "y = 2x2 + x – 3"
+        },
+        {
+          "letra": "C",
+          "texto": "y = x2 – 2x + 3"
+        },
+        {
+          "letra": "D",
+          "texto": "y = 2x2 – 3x + 1"
+        },
+        {
+          "letra": "E",
+          "texto": "y = 2x2 – x + 3"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": []
+    },
+    {
+      "numero": 34,
+      "enunciado": "34. La parábola de la figura adjunta es la representación gráfica de una función cuadrática \n\nque pasa por el origen del sistema cartesiano. La suma de los ceros de esta función es \nigual a  \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nVértice \n\n5 \n\n4 \n0 \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "9"
+        },
+        {
+          "letra": "C",
+          "texto": "0"
+        },
+        {
+          "letra": "D",
+          "texto": "4 14"
+        }
+      ],
+      "pagina": 14,
+      "imagenes": [
+        "jeg 7 (2)_p14_img0.jpg"
+      ]
+    },
+    {
+      "numero": 35,
+      "enunciado": "35. Una función afín definida por f(x) = ax + b está representada en el plano cartesiano por \n\nla recta L. Se puede determinar el valor de b, si: \n \n\n(1) la recta L contiene al punto (2, -1). \n(2) la recta L pasa por el vértice de la parábola y = 4 – 2x2.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "jeg 7 (2)_p15_img1.jpg"
+      ]
+    },
+    {
+      "numero": 36,
+      "enunciado": "36. La figura adjunta está formada por tres triángulos rectángulos. De acuerdo a los datos \n\nproporcionados en la figura, ¿cuál es el valor de x? \n \n \n \n \n \n \n \n \n \n \n \n\n4 \n\nx \n\n1 \n3 \n\n2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30"
+        },
+        {
+          "letra": "B",
+          "texto": "20"
+        },
+        {
+          "letra": "C",
+          "texto": "2 6"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "jeg 7 (2)_p15_img1.jpg"
+      ]
+    },
+    {
+      "numero": 37,
+      "enunciado": "37. En la figura adjunta se muestran dos rectángulos. De acuerdo a los datos indicados en \n\nel rectángulo más grande, ¿cuál es el perímetro del rectángulo achurado? \n \n \n \n \n \n \n \n \n \n \n\n3a + 4b \n\nb \n\n2a + 2b \n\n2b",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10a + 6b"
+        },
+        {
+          "letra": "B",
+          "texto": "10a + 8b"
+        },
+        {
+          "letra": "C",
+          "texto": "10a + 12b"
+        },
+        {
+          "letra": "D",
+          "texto": "14a + 6b 15"
+        }
+      ],
+      "pagina": 15,
+      "imagenes": [
+        "jeg 7 (2)_p15_img1.jpg"
+      ]
+    },
+    {
+      "numero": 38,
+      "enunciado": "38. En el círculo de centro O se han trazado dos diámetros perpendiculares. Si OPQR es un \n\ncuadrado de perímetro 8\n2  cm, ¿cuál es el área de la zona sombreada? \n \n \n \n \n \n \n \n \n \n \n \n\nQ \nR \n\nP \nO",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2( - 2) cm2"
+        },
+        {
+          "letra": "B",
+          "texto": "4( - 2) cm2"
+        },
+        {
+          "letra": "C",
+          "texto": "8( - 2) cm2"
+        },
+        {
+          "letra": "D",
+          "texto": "16( - 2) cm2"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 39,
+      "enunciado": "39. El cuadrilátero de la figura adjunta es un rectángulo, en el que haciendo variar el valor \n\nde x de 0 a 4, el área de la región achurada también varía. El valor máximo que esa \nárea podrá tener es \n \n \n \n \n \n \n \n \n \n \n\n2x \n\n4 \n\nx \n\n8",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30"
+        },
+        {
+          "letra": "B",
+          "texto": "24"
+        },
+        {
+          "letra": "C",
+          "texto": "20"
+        },
+        {
+          "letra": "D",
+          "texto": "18"
+        },
+        {
+          "letra": "E",
+          "texto": "16"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": [
+        "jeg 7 (2)_p16_img1.jpg"
+      ]
+    },
+    {
+      "numero": 40,
+      "enunciado": "40. Dado el vector V = (11, -12). Si ((a + b), (a – b)) = V, entonces b =",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-1"
+        },
+        {
+          "letra": "B",
+          "texto": "-0,5"
+        },
+        {
+          "letra": "C",
+          "texto": "5,5"
+        },
+        {
+          "letra": "D",
+          "texto": "11,5"
+        },
+        {
+          "letra": "E",
+          "texto": "23 16"
+        }
+      ],
+      "pagina": 16,
+      "imagenes": []
+    },
+    {
+      "numero": 41,
+      "enunciado": "41. En la figura adjunta se muestran los vectores u = (3, 3) y w = (3, \n3 ). ¿Cuál es la \nmedida del ángulo ? \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nu \n\nw \n\n \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5°"
+        },
+        {
+          "letra": "B",
+          "texto": "10°"
+        },
+        {
+          "letra": "C",
+          "texto": "15°"
+        },
+        {
+          "letra": "D",
+          "texto": "22,5°"
+        },
+        {
+          "letra": "E",
+          "texto": "30°"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": [
+        "jeg 7 (2)_p17_img0.jpg"
+      ]
+    },
+    {
+      "numero": 42,
+      "enunciado": "42. Al punto (a, b) se le aplican dos traslaciones: la primera según el vector (-5, -2) y la \n\nsegunda según el vector (0, -4), obteniéndose el punto (c, d). ¿A cuánto es igual la \nsuma a + b, si c = -7 y d = 2?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "-5"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 43,
+      "enunciado": "43. Una razón de semejanza  r  se diferencia de una razón de homotecia k en que para r \n\nNO se puede cumplir que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "r = 0,125"
+        },
+        {
+          "letra": "B",
+          "texto": "r – 2 = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "0 < r < 1"
+        },
+        {
+          "letra": "D",
+          "texto": "1,1 < r < 1,9"
+        },
+        {
+          "letra": "E",
+          "texto": "-1 < r < 0 17"
+        }
+      ],
+      "pagina": 17,
+      "imagenes": []
+    },
+    {
+      "numero": 44,
+      "enunciado": "44. En el triángulo ABC de la figura adjunta, A, D, E, C son puntos colineales,  \n\nBAC = EBC = DBE = 30°. Se puede asegurar que siempre son semejantes los \n\ntriángulos \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nC \n\nE \n\nD \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ABE y ABC"
+        },
+        {
+          "letra": "B",
+          "texto": "BED y BCE"
+        },
+        {
+          "letra": "C",
+          "texto": "ABD y BED"
+        },
+        {
+          "letra": "D",
+          "texto": "ABC y BEC"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "jeg 7 (2)_p18_img1.jpg"
+      ]
+    },
+    {
+      "numero": 45,
+      "enunciado": "45. Dos pilares paralelos de sustentación de una rampa distan 1,5 m como se indica en la \n\nfigura adjunta. El pilar más bajo está colocado en el suelo a 2,7 m del pie de la rampa y \nsu tope distan 1,8 m del tope del pilar más alto. La longitud L de la rampa debe ser \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nL \n\n1,8 \n\n1,5 \n2,7",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mayor que 4,2 m pero menor que 4,6 m."
+        },
+        {
+          "letra": "B",
+          "texto": "mayor que 4,6 m pero menor que 4,8 m."
+        },
+        {
+          "letra": "C",
+          "texto": "mayor que 4,8 m pero menor que 5 m."
+        },
+        {
+          "letra": "D",
+          "texto": "un poco mayor que 5 m. 18"
+        }
+      ],
+      "pagina": 18,
+      "imagenes": [
+        "jeg 7 (2)_p18_img1.jpg"
+      ]
+    },
+    {
+      "numero": 46,
+      "enunciado": "46. En el cuadrilátero ABCD de la figura adjunta, donde E pertenece al trazo AD y F \n\npertenece al trazo BC, ¿cuál debe ser el valor de k para que los ángulos DEF y EAB \ntengan igual medida? \n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\n3,5 \n\n16 \n\nE \nF \n\n5k-2 \n\n12 \n\nA \nB",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,5"
+        },
+        {
+          "letra": "B",
+          "texto": "2,0"
+        },
+        {
+          "letra": "C",
+          "texto": "2,5"
+        },
+        {
+          "letra": "D",
+          "texto": "3,0"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "jeg 7 (2)_p19_img0.jpg"
+      ]
+    },
+    {
+      "numero": 47,
+      "enunciado": "47. En la figura adjunta, las rectas L1, L2, L3 son paralelas, L4 y L5 transversales a las \n\nparalelas, donde A, B, C, D y E son puntos de intersección de las rectas L1, L2, L3, L4 y \nL5. Si AE = 5n + 1, BE = 4n – 1, DE = 5 y EC = 7.  ¿Cuál es el valor de n? \n \n \n \n \n \n \n \n \n \n \n \n\nL4 \nL5 \n\nA \nB \n\nL1 \n\nE \n\nL2 \n\nL3 \n\nD \nC",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,8"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        },
+        {
+          "letra": "E",
+          "texto": "4"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": [
+        "jeg 7 (2)_p19_img0.jpg"
+      ]
+    },
+    {
+      "numero": 48,
+      "enunciado": "48. Un mapa fue construido en la escala 1 : 1.500.000. Si la distancia entre dos ciudades \n\nen ese mapa es de 8,5 cm, entonces la distancia real entre ellas es de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "127,5 km"
+        },
+        {
+          "letra": "B",
+          "texto": "176,4 km"
+        },
+        {
+          "letra": "C",
+          "texto": "265,8 km"
+        },
+        {
+          "letra": "D",
+          "texto": "1.275 km 19"
+        }
+      ],
+      "pagina": 19,
+      "imagenes": []
+    },
+    {
+      "numero": 49,
+      "enunciado": "49. Al cuadrado ABCD de la figura adjunta se le aplica una homotecia con centro en P, \n\npunto de intersección de sus diagonales, obteniéndose la figura homotética E, F, G, H. \nSiendo el homotético de A el punto E, de B el punto F, de C el punto G y de D el  \npunto H. ¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nH \nG \n\nP \n\nE \nF \n\nA \nB \n\nI) \nSi PF = FB, la razón de homotecia es 1. \nII) \nSi (PF + FG) : (PB + BC) = 1 : 2, entonces PB : BC = 1 : 2. \nIII) \nLa razón de homotecia es positiva.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": [
+        "jeg 7 (2)_p20_img1.jpg"
+      ]
+    },
+    {
+      "numero": 50,
+      "enunciado": "50. En la figura adjunta el triángulo ABC es equilátero,  D y E son puntos medios de AC   y \n\nBC , respectivamente, CF   AB , DE // AB  y T es la intersección de DE con la altura \n\nCF . Se puede determinar el perímetro de la figura achurada, si se conoce: \n \n \n \n \n \n \n \n \n \n \n \n \n\nC \n\nT \n\nE \nD \n\nA \nB \n\nF \n\n(1) el área del triángulo DTC. \n(2) el área del triángulo ABC.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 20"
+        }
+      ],
+      "pagina": 20,
+      "imagenes": [
+        "jeg 7 (2)_p20_img1.jpg"
+      ]
+    },
+    {
+      "numero": 51,
+      "enunciado": "51. La profesora de Matemática de una escuela le pidió a un grupo de alumnos que hiciese \n\nuna encuesta sobre el tipo de sangre de los 540 alumnos de la escuela. Los alumnos, \npara resumir los datos encontrados, construyeron un gráfico circular como lo muestra \nla figura adjunta, pero en vez de porcentajes, indicaron ángulos de algunos sectores \ncirculares. ¿Cuántos alumnos tienen sangre del grupo B?  \n \n \n \n \n \n \n \n \n \n \n \n\nGrupo O \n\n162° \n\nGrupo AB \n36° \n\n108° \n\nGrupo B \nGrupo A",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "81"
+        },
+        {
+          "letra": "B",
+          "texto": "108"
+        },
+        {
+          "letra": "C",
+          "texto": "124"
+        },
+        {
+          "letra": "D",
+          "texto": "162"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": [
+        "jeg 7 (2)_p21_img0.jpg"
+      ]
+    },
+    {
+      "numero": 52,
+      "enunciado": "52. En la tabla adjunta se muestran las calificaciones de 8 estudiantes universitarios. Si m \n\nes la media aritmética de las calificaciones y M la mediana, entonces M – m es igual a  \n \n \n \n \n \n\nCalificación \n67 \n75 \n87 \n91 \nNúmero de Estudiantes \n1 \n3 \nk \n2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-6"
+        },
+        {
+          "letra": "B",
+          "texto": "0"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": [
+        "jeg 7 (2)_p21_img0.jpg"
+      ]
+    },
+    {
+      "numero": 53,
+      "enunciado": "53. ¿Cuál de las siguientes afirmaciones es verdadera, con respecto a los datos de la tabla \n\nadjunta? \n \n \n \n \n \n \n \n \n \n \n\nx \nf \n2 \n4 \n4 \n12 \n6 \n10 \n8 \n2 \n9 \n1 \n13 \n1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El total de la muestra son 6 datos."
+        },
+        {
+          "letra": "B",
+          "texto": "La moda es 12."
+        },
+        {
+          "letra": "C",
+          "texto": "El conjunto de datos es bimodal."
+        },
+        {
+          "letra": "D",
+          "texto": "La mediana es 6."
+        },
+        {
+          "letra": "E",
+          "texto": "El rango es 11. 21"
+        }
+      ],
+      "pagina": 21,
+      "imagenes": [
+        "jeg 7 (2)_p21_img0.jpg"
+      ]
+    },
+    {
+      "numero": 54,
+      "enunciado": "54. El gráfico adjunto muestra las notas en puntos obtenidas por un profesor que rindió un \n\nexamen ante una comisión integrada por cinco miembros, A, B, C, D y E. Cada \nmiembro puso 2 puntajes, uno por conocimientos específicos y otro por conocimientos \npedagógicos. El puntaje final obtenido por el profesor fue dado por la media aritmética \nde todos los puntajes otorgados por los miembros de la comisión examinadora. \nUtilizando un nuevo criterio, la comisión decidió eliminar el mejor y el peor puntaje, con \nlo cual la nueva media en relación a la anterior es \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\n16 \n17 \n18 \n19 \n20 \n\n19 \n\n18 \n\n17 \n\nConocimientos específicos \n\n16 \n16 \n\n14 \n14 \n\nConocimientos pedagógicos \n\n12 \n13 \n14 \n\n13 \n\n12 \n\n1 \n\nA \nB \nC \nD \nE \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,5 punto mayor."
+        },
+        {
+          "letra": "B",
+          "texto": "1 punto mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "1 punto menor."
+        },
+        {
+          "letra": "D",
+          "texto": "1,5 punto mayor."
+        },
+        {
+          "letra": "E",
+          "texto": "1,5 punto menor."
+        }
+      ],
+      "pagina": 22,
+      "imagenes": [
+        "jeg 7 (2)_p22_img1.jpg"
+      ]
+    },
+    {
+      "numero": 55,
+      "enunciado": "55. Dada una población de 100 números distintos entre sí, y en que Q1 = primer cuartil,  \n\nQ2 = segundo cuartil y Q3 = tercer cuartil, ¿cuál de las siguientes afirmaciones es \nsiempre verdadera?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Q3 – Q1 = 50"
+        },
+        {
+          "letra": "B",
+          "texto": "Q2 – Q1 = Q3 – Q2 2 Q + Q = Q 2"
+        },
+        {
+          "letra": "C",
+          "texto": "1 3"
+        },
+        {
+          "letra": "D",
+          "texto": "Q1 < Q2 < Q3"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 56,
+      "enunciado": "56. De los siguientes 5 números: n, n – 3, 2n + 1, 3n – 4 y 5n + 10, entonces si la media \n\naritmética de estos números es 8, entonces es verdadero que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "rango = 25, segundo cuartil 5."
+        },
+        {
+          "letra": "B",
+          "texto": "rango = 18, segundo cuartil 5."
+        },
+        {
+          "letra": "C",
+          "texto": "rango = 18, segundo cuartil 7."
+        },
+        {
+          "letra": "D",
+          "texto": "rango = 25, segundo cuartil 7. 22"
+        }
+      ],
+      "pagina": 22,
+      "imagenes": []
+    },
+    {
+      "numero": 57,
+      "enunciado": "57. Los diagramas de cajón de la figura adjunta muestran la distribución de puntajes \n\nobtenidos por los alumnos de dos cursos, A y B, en una prueba del tipo transición. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n700 \n\n650 \n\n600 \n\n550 \n\n500 \n\n450 \n\n400 \n\n350 \n\nCurso \n\nCurso \n\nA \n\nB \n\n¿Cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)? \n \n\nI) \nEl curso A tiene más alumnos que el curso B. \nII) \nLa media de los puntajes es la misma en ambos cursos. \nIII) \nAmbos diagramas de cajón tienen en común el primer cuartil.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": [
+        "jeg 7 (2)_p23_img0.jpg"
+      ]
+    },
+    {
+      "numero": 58,
+      "enunciado": "58. Si cuando se lanza un dado 4 veces, P1 es la probabilidad de que los 4 resultados sean \n\niguales y P2 la probabilidad de que los 4 resultados sean diferentes, entonces ¿cuál es \nel valor de P1 + P2?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14 128"
+        },
+        {
+          "letra": "B",
+          "texto": "15 128"
+        },
+        {
+          "letra": "C",
+          "texto": "16 128"
+        },
+        {
+          "letra": "D",
+          "texto": "41 216"
+        },
+        {
+          "letra": "E",
+          "texto": "61 216 23"
+        }
+      ],
+      "pagina": 23,
+      "imagenes": []
+    },
+    {
+      "numero": 59,
+      "enunciado": "59. Mensualmente algunos de los automóviles producidos en la planta ATOM presentan \n\nconvertidores catalíticos defectuosos. De acuerdo a la información entregada en la tabla \nadjunta, ¿cuál es, aproximadamente, la probabilidad de que un automóvil producido en \nestos tres meses, sea defectuoso? \n \n \n \n \n \n \n \n \n \n \n\n \nTotal de unidades \n\nConvertidores \ncatalíticos defectuosos \nEnero \n569 \n15 \nFebrero \n508 \n18 \nMarzo \n547 \n16 \n\nproducidas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,01"
+        },
+        {
+          "letra": "B",
+          "texto": "0,02"
+        },
+        {
+          "letra": "C",
+          "texto": "0,03"
+        },
+        {
+          "letra": "D",
+          "texto": "0,04"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": [
+        "jeg 7 (2)_p24_img0.jpg"
+      ]
+    },
+    {
+      "numero": 60,
+      "enunciado": "60. Ramiro y Gonzalo están matriculados en un curso de fotografía. Desde que comenzó el \n\ncurso, la asistencia a clases de Ramiro ha sido de un 80% y la de Gonzalo de un 60%, \nsiendo independientes sus ausencias. Si se elige un día al azar en que se haya \nimpartido el curso, ¿cuál es la probabilidad de que al menos uno de ellos haya asistido \na clases?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,70"
+        },
+        {
+          "letra": "B",
+          "texto": "0,75"
+        },
+        {
+          "letra": "C",
+          "texto": "0,82"
+        },
+        {
+          "letra": "D",
+          "texto": "0,88"
+        },
+        {
+          "letra": "E",
+          "texto": "0,92 24"
+        }
+      ],
+      "pagina": 24,
+      "imagenes": []
+    },
+    {
+      "numero": 61,
+      "enunciado": "61. Una fábrica de tornillos posee dos máquinas, I y II, para la producción de cierto tipo de \n\ntornillos. En septiembre la máquina I produjo 54% del total de tornillos producidos por \nla fábrica. De los tornillos producidos por esta máquina, 25% resultaron defectuosos. A \nsu vez, 30% de los tornillos producidos en el mismo mes por la máquina II salieron \ndefectuosos. El desempeño conjunto de las dos máquinas se clasifica conforme al \nsiguiente cuadro, en que P indica la probabilidad de que al escoger un tornillo al azar, \néste sea defectuoso. \n \n \n\n \n0  P   20\n\n100  \n \nExcelente \n\n20\n100   P < 40\n\n100  \nBueno \n\n40\n100   P < 60\n\n100  \nRegular \n\n60\n100   P < 80\n\n100  \nDeficiente \n\n80\n100   P < 1 \n \nPésimo \n\n \n \n \n\nEl desempeño conjunto de estas máquinas, en septiembre, puede ser clasificado como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "excelente."
+        },
+        {
+          "letra": "B",
+          "texto": "bueno."
+        },
+        {
+          "letra": "C",
+          "texto": "regular."
+        },
+        {
+          "letra": "D",
+          "texto": "deficiente."
+        },
+        {
+          "letra": "E",
+          "texto": "pésimo."
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    },
+    {
+      "numero": 62,
+      "enunciado": "62. En un notebook, para abrir cierto archivo, el usuario debe digitar 4 símbolos (que son \n\n, #, @, $) en un determinado orden y sin repetirlos. Si el usuario no conoce el orden y \ntrata de acertar la clave por tentativas, ¿cuál es el número máximo de tentativas que \npuede efectuar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24"
+        },
+        {
+          "letra": "B",
+          "texto": "36"
+        },
+        {
+          "letra": "C",
+          "texto": "40"
+        },
+        {
+          "letra": "D",
+          "texto": "120 25"
+        }
+      ],
+      "pagina": 25,
+      "imagenes": []
+    },
+    {
+      "numero": 63,
+      "enunciado": "63. En un campeonato de atletismo, se entrega una medalla de oro al primer lugar, \n\nmedalla de plata al segundo y de bronce al tercero. Si en la carrera de 800 metros solo \nparticipan 5 atletas, ¿de cuántas maneras distintas se pueden entregar las medallas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "De 10 maneras"
+        },
+        {
+          "letra": "B",
+          "texto": "De 15 maneras"
+        },
+        {
+          "letra": "C",
+          "texto": "De 20 maneras"
+        },
+        {
+          "letra": "D",
+          "texto": "De 60 maneras"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 64,
+      "enunciado": "64. De un grupo de (n + 5) especialistas, n son médicos y 5 con economistas, ¿cuántos \n\ngrupos distintos de 4 personas se pueden forman, si 2 deben ser médicos y 2 deben ser \neconomistas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5n"
+        },
+        {
+          "letra": "B",
+          "texto": "n + 5 5 2 2                "
+        },
+        {
+          "letra": "C",
+          "texto": "n 5 + 2 2"
+        },
+        {
+          "letra": "D",
+          "texto": "n + 5 4      "
+        },
+        {
+          "letra": "E",
+          "texto": "5n(n – 1)"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": []
+    },
+    {
+      "numero": 65,
+      "enunciado": "65. La tabla adjunta es una tabla de distribución de frecuencias. Se puede determinar el \n\nvalor de n, si se sabe que: \n \n \n \n \n \n \n \n \n \n \n\nx \nFrecuencia \n1 \n2 \n2 \n3 \n3 \nn \n4 \n6 \n5 \n5 \n6 \n8 \n \n\n(1) la moda es 3. \n(2) la media aritmética es 4,32.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1) por sí sola"
+        },
+        {
+          "letra": "B",
+          "texto": "(2) por sí sola"
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas juntas, (1) y (2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Cada una por sí sola, (1) ó (2)"
+        },
+        {
+          "letra": "E",
+          "texto": "Se requiere información adicional 26"
+        }
+      ],
+      "pagina": 26,
+      "imagenes": [
+        "jeg 7 (2)_p26_img0.jpg"
+      ]
+    }
+  ]
+}

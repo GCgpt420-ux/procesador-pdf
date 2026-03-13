@@ -1,0 +1,371 @@
+{
+  "archivo_original": "TAM 04.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/TALLERES/TAM 04.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 4,
+  "fecha_procesamiento": "2026-03-07T23:07:17.203106",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n¿Cuál es el valor de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "7"
+        },
+        {
+          "letra": "C",
+          "texto": "9"
+        },
+        {
+          "letra": "D",
+          "texto": "49"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nSi a – b = 8, abc = 10 y a2b – ab2 = 15, ¿cuál es el valor de c?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 1 2"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "5 1 3"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi la representación gráfica de f(x) es una recta que pasa por el punto (2, 7) y además \nse cumple que f(x) = -f(-x), entonces esta recta pasa también por el punto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(7, 2)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-2, -7)"
+        },
+        {
+          "letra": "C",
+          "texto": "(2, -7)"
+        },
+        {
+          "letra": "D",
+          "texto": "(-7, -2)"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \n¿Cuál(es) de las siguientes afirmaciones es (son) FALSA(S) con respecto a la parábola \nde ecuación y = ax2 + bx + c? (fig. adjunta) \n \n \n\ny \n\nI) \nac < 0 \nII) \nab > 0 \nIII) \nb2 < 4ac",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II x"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "TAM 04_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \n¿Cuál es el área de un rectángulo ABCD en el cual, AB = 3x – 2y + 3,  BC = 2x + y – 1, \nCD = x + y,  y  DA = 4?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "27 8"
+        },
+        {
+          "letra": "B",
+          "texto": "21 2"
+        },
+        {
+          "letra": "C",
+          "texto": "14"
+        },
+        {
+          "letra": "D",
+          "texto": "28"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSi f\n3x\nx  1\n\n\n\n\n\n\n\n\n = x2 + 1, entonces ¿cuál es el valor de f(6)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "5"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "37"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi la ecuación cuadrática x2 + 2ax + 2a2 + 2a – 3 = 0, tiene raíces reales, entonces \n¿cuál de los siguientes valores NO puede tomar a?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "0"
+        },
+        {
+          "letra": "D",
+          "texto": "-1 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \n¿Cuál(es) de las gráficas de las siguientes funciones corta al eje y en un punto con \nordenada negativa? \n \n\nI) \ny1 = (3 - x)(x - 5) \nII) \ny2 = -x(4 + x) \nIII) \ny3 = 25 – x",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSi k es el menor entero positivo, tal que cuando 3k se divide por 7 se obtiene resto 1, \nentonces ¿cuál será el resto que se obtendrá si 2k se divide por 5?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "0"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. En el mes de octubre, Patricio sumó a los años que tiene, los meses que ha vivido, \n\nobteniendo como resultado 524. ¿En qué mes nació Patricio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Febrero"
+        },
+        {
+          "letra": "B",
+          "texto": "Marzo"
+        },
+        {
+          "letra": "C",
+          "texto": "Mayo"
+        },
+        {
+          "letra": "D",
+          "texto": "Junio 2 2 2 a + b c 2ab ="
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Si a, b, c distintos de cero, con a + b + c  = 0, entonces",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-1"
+        },
+        {
+          "letra": "B",
+          "texto": "-4"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "2 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En una carrera a dos vueltas en un circuito cerrado, A ganó a B por media vuelta y  \n\nB ganó a C por un cuarto de vuelta. Cuando A llegó a la meta, la fracción de vuelta con \nque B aventajaba a C era",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 16"
+        },
+        {
+          "letra": "B",
+          "texto": "3 8"
+        },
+        {
+          "letra": "C",
+          "texto": "1 4"
+        },
+        {
+          "letra": "D",
+          "texto": "1 5 2 1 2 1 = m, entonces (a + b)2 es igual a"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. Si ab = n   y \n\n + \n\na\n\nb",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(m + 2n)2"
+        },
+        {
+          "letra": "B",
+          "texto": "n(mn + 2)"
+        },
+        {
+          "letra": "C",
+          "texto": "m2 + n2"
+        },
+        {
+          "letra": "D",
+          "texto": "mn(n + 2) 2 2 2 2 2 2 x y x y x y + + 4 y x y x y x ?"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. ¿Cuál es el valor numérico de la expresión",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "14"
+        },
+        {
+          "letra": "C",
+          "texto": "16"
+        },
+        {
+          "letra": "D",
+          "texto": "18"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. ¿Cuál de las siguientes es el área del círculo cuyo radio es f(2) en la función f(x) = x?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "2 TAM-04 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    }
+  ]
+}

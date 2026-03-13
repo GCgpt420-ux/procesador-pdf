@@ -1,0 +1,653 @@
+{
+  "archivo_original": "Solucionario Ma 25.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/SOLUCIONARIOS/Solucionario Ma 25.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 9,
+  "fecha_procesamiento": "2026-03-07T23:05:05.830745",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \n3\n5\n125\n1\n + \n512\n32 = \n\n3 291=23\n\n512\n= 29 ⇒\n\n \n\n32\n= 25\n\n= 9g",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 + ¥ 2 ^ > 5 = 5 +"
+        },
+        {
+          "letra": "B",
+          "texto": "9 8 23 y 2"
+        },
+        {
+          "letra": "C",
+          "texto": "3 4"
+        },
+        {
+          "letra": "D",
+          "texto": "5 8"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \n¿Cuál(es) de las siguientes raíces representa(n) un número real? \n \n\nI) \n6\n64\n\n \n\n'\nNo\nes\nreal\n. ⇒\níndice par\nCant. subradical\no\n\n°\n\nI\n\n-64\n\nII) \n3\n27\n\n \n\nIII) \n5  \n \n\n'\nsí es real ⇒Índice impar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo II y III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3)\n=\n275\n\nI\n1\n\nIII) \n1\n\n'\n\n275=1 EQ\n\n\"\n2\n\n  \n\nV27 zi\n\n2 - 3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II y III II 1 275 z j . 275 = E Q z j (DEMRE. Publicación 2013) 5 x 5 ="
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nEl valor de la expresión ( 5 + 2 3)(4 3  2 5)\n\n\nes \n \n\n \n\n- 2.5+8.3-4\n15\n\n'\n\n'\n\n4\n15",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "2 - 101-24=14"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \n¿Cuál(es) de las siguientes igualdades es (son) verdadera(s)? \n \n\nI\nFalso\n\nI) \n20 2 : 5 = 4 5  \n\n'\n\n\"\n\n20\n2\n\n= 20\n3-\n\n= 4\n5\n\n'\n\nII) \n5 0,00243 = 0,3 \n\n,\n\ng-\n\n4\n5\n9\n5 · \n4 = 20  \n  \n\nIII) \n\nI\nerdadero\n\n'\n\n=\n3\n\n5\n243",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III 105 10=013 # Falso ' . 4 41=2054.451--920 5 5 ' 2 x 2 x a · 14b a "
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \nSi a > 0  y  b ≠ 0, entonces \n\n = \n\n7b\n\n \n\n1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7ab"
+        },
+        {
+          "letra": "B",
+          "texto": "7b"
+        },
+        {
+          "letra": "C",
+          "texto": "7a"
+        },
+        {
+          "letra": "D",
+          "texto": "2a ' - X ' . a2 . AX Z '"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nSi x > 0, entonces \n\n  es igual a  \n\nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x3"
+        },
+        {
+          "letra": "B",
+          "texto": "3x 25 ↓ ↓ 12 24 . ✗ ✗ . ✗ 12 25 x"
+        },
+        {
+          "letra": "D",
+          "texto": "x2 ✗ 2"
+        },
+        {
+          "letra": "C",
+          "texto": "12 = ✗ , ✗ - 42 12 ✗ ✗ 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. \nSi a, b, n y p son números reales positivos, entonces \n\n \n \n\natin.ph!",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ap 2 2 n + b ≥ ↓\" 12 b2 abn . pb nb (ap)"
+        },
+        {
+          "letra": "B",
+          "texto": "b\" bn an ≥ . pbn . > = ="
+        },
+        {
+          "letra": "C",
+          "texto": "2 2 bn n b a p"
+        },
+        {
+          "letra": "D",
+          "texto": "bn n+b (ap)"
+        },
+        {
+          "letra": "E",
+          "texto": "ninguna de las expresiones anteriores. (DEMRE. Publicación 2016)"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. El orden decreciente de los números a = 4\n4 · 7 , b = 4 5 · 5  y  c = 4\n7 · 2  es \n \n \n\n\"\n\n'\n\na = 4.4\n112\n\n\"\n125\n\n'\n\n;\n(\n= 4\n\n¡\nb\n= 4\n\n'\n\n98\n\n.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a, b, c"
+        },
+        {
+          "letra": "B",
+          "texto": "a, c, b"
+        },
+        {
+          "letra": "C",
+          "texto": "b, a, c"
+        },
+        {
+          "letra": "D",
+          "texto": "c, b, a . → b a C"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. Si x es un número real mayor que 1, entonces \n\n\n2\nx\n1\nx\n1\n\n\n\n es igual a \n\n' -1×-1\n\n✗1-1\n-\n2\n✗ti .\n×-1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0"
+        },
+        {
+          "letra": "B",
+          "texto": "2 ' - 2 ✗2-1 2X"
+        },
+        {
+          "letra": "C",
+          "texto": "2 2x x 1  "
+        },
+        {
+          "letra": "D",
+          "texto": "2 2x 2 x 1  "
+        },
+        {
+          "letra": "E",
+          "texto": "2x (DEMRE. Publicación 2016)"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. Si a, x > 0  y  m = ax2 + a2x + 2ax\nax , entonces \nm  = \n \n\nM\n= así + zaxax\n\n+ cíx\n\n'",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x a + a x"
+        },
+        {
+          "letra": "B",
+          "texto": "2 (x a + a x)"
+        },
+        {
+          "letra": "C",
+          "texto": "2x a N ' 'ai"
+        },
+        {
+          "letra": "D",
+          "texto": "2a x ✗ a ' 2 ' i + a × M = ✗ a ' + a × ' ' = ✗ a m 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. \n\n =  \n\n7\n7\n7\n7\n7\n\n5  + 5  + 5  + 5  + 5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "1 125 1 10"
+        },
+        {
+          "letra": "C",
+          "texto": "1 25"
+        },
+        {
+          "letra": "D",
+          "texto": "a"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Al racionalizar la expresión \n\n, con a  0, se obtiene \n\n5\n3\n\na a\n\n- ¥\n\n= al\n\n= ató\n= 15am\n\n \n\na\na\n\n8 a  \n\n'",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "= = 15 ay ↳ ' 5 , ' 8 11 a 394"
+        },
+        {
+          "letra": "B",
+          "texto": "Ans 11 15 a"
+        },
+        {
+          "letra": "C",
+          "texto": "15 11 a"
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. Si x > 1, entonces \nx  1\n\n\n\n es igual a  \n\n2( x  1)\n\n\n\n \n \n\n°\n\n✗-1\n+\n\n=\n= i\n\ni",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x 1  2 VI-1 2 + 2"
+        },
+        {
+          "letra": "B",
+          "texto": "1 x 2 "
+        },
+        {
+          "letra": "C",
+          "texto": "x + 1 2"
+        },
+        {
+          "letra": "D",
+          "texto": "( x 1)  4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 17,
+      "enunciado": "17.   Si x > 5, entonces ¿cuál es el valor de x2 al resolver la ecuación\n\nx + 5\n\n? \n\n \n\n'\n\n= 5\n( ¡\n\n✗2-25",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50"
+        },
+        {
+          "letra": "B",
+          "texto": "25 ✗2-25=25"
+        },
+        {
+          "letra": "C",
+          "texto": "2 5"
+        },
+        {
+          "letra": "D",
+          "texto": "50 ✗2--50        "
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18. Si x, y > 0, entonces \nx\ny\n1\n + \n : \ny\nx\nxy\n\n =  \n\n'\n\n=\n✗+ y\n\n1\n\n,\n-1\nY",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x – y"
+        },
+        {
+          "letra": "B",
+          "texto": "x + y"
+        },
+        {
+          "letra": "C",
+          "texto": "y – x"
+        },
+        {
+          "letra": "D",
+          "texto": "-y – x ' - ✗+ y ' • XY • ✗Y ' ' x , ✗y"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. Si p\n0\nq \n, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n\nI\nVerdadero\n\n \n\n.\nPor definición\na\"\n\nI) \n2\n2\np  + q  = p + q \n\n=\na\n\n= -4g 7--2\n\nII) \n2\n2\np  + q  = p + q \n\nI\nFalso\n:\nSupongamos p\n\n⇒\nP\nq\n\nIII) \n2\n2\np  + q  > 0 \n\n°",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y III"
+        },
+        {
+          "letra": "E",
+          "texto": "Solo II y III \" ' : -42 -1 22 -1--4+2 pero 111 Verdadero '"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. Sea \n3\n\n, ¿cuál debe ser el valor de n para que el valor de N sea 0,1? \n\n\n\n \n \n\n1\n1\n1\n1\n2009th\n1000=2009 -M\n10",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1000"
+        },
+        {
+          "letra": "B",
+          "texto": "1009"
+        },
+        {
+          "letra": "C",
+          "texto": "1090"
+        },
+        {
+          "letra": "D",
+          "texto": "2000 ° = ( 2009th)/2009 -n) Finalmente N - 1009 3 1 t 3 1^0"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 21,
+      "enunciado": "21. Si  la gráfica de la función f(x) = \nx  se  traslada generando la función homóloga de \n\ng(x) = \nx  2\n\n – 3, entonces las coordenadas del punto homólogo del origen de la \nfunción inicial es  \n \n\ny\nY\nflx)=\n×\n\n'",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-3, -2)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-3, 2)"
+        },
+        {
+          "letra": "C",
+          "texto": "( 2, -3)"
+        },
+        {
+          "letra": "D",
+          "texto": "(-2, 3)"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 23,
+      "enunciado": "23. \n\n\n3\n7\n13\n7\n5\n7\n\n\n\n\n = \n\n \n \n\n\"\n\n\"\n\n\"\n-\n31-7\n\n\"\n\n31-7\n\n.\n5-7\n\n.\n13-7",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7"
+        },
+        {
+          "letra": "B",
+          "texto": "7"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "4 ' -1137--7 ' ' -7 ' -157 ' 39-37 - 15-37 ' ' - 8+27-1 321107 un"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 24,
+      "enunciado": "24. La gráfica de la función que es simétrica  a la función f(x) = 3 + \nx  con respecto a la \nrecta y = 3, está mejor representada en la opción",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 25,
+      "enunciado": "25. La cantidad de enfermos de un país después de ser afectado por una epidemia, \n\ny \n\ny \n\ny \n\n3\n2\n\n3 \n\n3 \n\nx \n\n-9 \nx \n\n9 \nx \n\n9 \n\ny\n\nf-(X) -3T\nX\n\n'\n\ny \n\n3-\nY =3\n\nx \n\n9 \n\n2\n-\n\nsimétrica\n1\n-\n\n-3 \n\n✗\n\ndisminuye por día, a la raíz cuadrada del día anterior. Si el número de enfermos que \nhay el primer día es x, entonces ¿cuántos enfermos habrá el décimo día? \n\n \n\ndía 1\n=\nX\n2-1\n\n'\ndía\nn\n=\ndía 2\n=\n×\n\n1024 x",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "× ' 512 x"
+        },
+        {
+          "letra": "B",
+          "texto": "' Entonces : 256 x ' = 4 ×"
+        },
+        {
+          "letra": "C",
+          "texto": "día 3 = ✗ ' 81 x"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 26,
+      "enunciado": "26. ¿Cuál de las siguientes afirmaciones es FALSA?",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "' día 10 = 2ª ' ' = 512 día ↳ = ° × × × 6 2 6 (-2) =(-2) A Falsa"
+        },
+        {
+          "letra": "A",
+          "texto": "4 2 4 0 = 0"
+        },
+        {
+          "letra": "B",
+          "texto": ": \""
+        },
+        {
+          "letra": "C",
+          "texto": "(-2) no es un número real am = a siempre y cuando a > 0"
+        },
+        {
+          "letra": "D",
+          "texto": "3 (-3) es un número real . En este caso a = -2 7"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 27,
+      "enunciado": "27.    \n\n = \n\n1-\nz\n1+2\n\n1  2\n\n \n \n\n6 2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": "2 6 2"
+        },
+        {
+          "letra": "C",
+          "texto": "- 3 2 2 "
+        },
+        {
+          "letra": "D",
+          "texto": "1 3--23.2^3=21 43 2 = 4^3 3"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 28,
+      "enunciado": "28. \n\n3\n\n.\n\n.\n\n.\n\n \n \n\nv1\n}\n22\n\n3 2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "6 2 = 2"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "2 ' =P 3P.8.jo =P ZP =3 8 \" P 1 P ZP 32-1 p p p + 2 p -3 3 3 · 2  ="
+        },
+        {
+          "letra": "A",
+          "texto": "3"
+        }
+      ],
+      "pagina": 8,
+      "imagenes": []
+    },
+    {
+      "numero": 30,
+      "enunciado": "30. Dada la función f(x) = 2\n2  x\n\n\n, ¿cuál(es) de las siguiente(s) afirmaciones es (son) \nverdadera(s)? \n \n\nI) \nEl dominio de la función es  D = ]-, 2]. \nII) \nEl recorrido de la función es R = ]-, 2].   \nIII) \nLa imagen de (-2) es cero.  \n \n\nVerdadero\nVerdadero\nVerdadero\nY\n\n|\n-\n\n'",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II y III Dont X ' ' z z t f- (x) = 2- 2- ✗ N Rec f- RESPUESTAS"
+        }
+      ],
+      "pagina": 9,
+      "imagenes": []
+    }
+  ]
+}

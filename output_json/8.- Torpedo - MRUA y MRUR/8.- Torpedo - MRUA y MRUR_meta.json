@@ -1,0 +1,122 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ECUACIONES DE ITINERARIO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          82.56926952141058,
+          70.47907390917186
+        ],
+        [
+          216.93198992443325,
+          70.47907390917186
+        ],
+        [
+          216.93198992443325,
+          83.22528940338378
+        ],
+        [
+          82.56926952141058,
+          83.22528940338378
+        ]
+      ]
+    },
+    {
+      "title": "GR\u00c1FICAS MRUA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          82.56926952141058,
+          210.6874443455031
+        ],
+        [
+          164.38790931989922,
+          210.6874443455031
+        ],
+        [
+          164.38790931989922,
+          225.68299198575244
+        ],
+        [
+          82.56926952141058,
+          225.68299198575244
+        ]
+      ]
+    },
+    {
+      "title": "GR\u00c1FICAS MRUR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          81.81863979848866,
+          351.6455921638468
+        ],
+        [
+          163.63727959697732,
+          351.6455921638468
+        ],
+        [
+          163.63727959697732,
+          365.8913624220837
+        ],
+        [
+          81.81863979848866,
+          365.8913624220837
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/8.- Torpedo - MRUA y MRUR"
+}

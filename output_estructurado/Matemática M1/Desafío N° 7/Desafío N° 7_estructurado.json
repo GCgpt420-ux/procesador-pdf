@@ -1,0 +1,121 @@
+{
+  "archivo_original": "Desafío N° 7.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/DESAFIOS/Desafío N° 7.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 1,
+  "fecha_procesamiento": "2026-03-07T23:03:28.543663",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSi A + B = 120, B + C = 100 y C + D = 160, entonces A + D = \n \n \n\nMATERIAL  DESAFÍO Nº 07",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "120"
+        },
+        {
+          "letra": "B",
+          "texto": "140"
+        },
+        {
+          "letra": "C",
+          "texto": "160"
+        },
+        {
+          "letra": "D",
+          "texto": "180"
+        },
+        {
+          "letra": "E",
+          "texto": "200"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nEn la siguientes secuencia: 5, 7, 14, 16, 32,…, el valor del cuádruplo del octavo término \nmenos el décimo primer término es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-22"
+        },
+        {
+          "letra": "B",
+          "texto": "22"
+        },
+        {
+          "letra": "C",
+          "texto": "2-1"
+        },
+        {
+          "letra": "D",
+          "texto": "(-2)2"
+        },
+        {
+          "letra": "E",
+          "texto": "ninguna de las anteriores."
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nLa cifra de las unidades de 3106 es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "7"
+        },
+        {
+          "letra": "E",
+          "texto": "9"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nLa suma de dos ángulos exteriores de un triángulo es igual a 270º. Si el lado mayor \nmide 48 cm, ¿cuánto mide el trazo que une el circuncentro con el centro de gravedad?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "8 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "16 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "20 cm Respuestas: 1 D 2 A 3 E 4 B"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    }
+  ]
+}

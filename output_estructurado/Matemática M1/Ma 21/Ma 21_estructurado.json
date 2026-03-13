@@ -1,0 +1,521 @@
+{
+  "archivo_original": "Ma 21.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 21.pdf",
+  "materia": "Matemática M1",
+  "num_paginas": 7,
+  "fecha_procesamiento": "2026-03-07T23:04:36.425976",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "1. \nSi los puntos extremos de un diámetro AB  de una circunferencia tienen coordenadas \nA(2, 3) y B(5, 7), entonces las coordenadas del centro y la medida del radio son \n\n \n \n\n; 5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7, 5 2       2"
+        },
+        {
+          "letra": "B",
+          "texto": "7, 5 2       ; 5"
+        },
+        {
+          "letra": "C",
+          "texto": "(7, 10); 5 2 ; 7"
+        },
+        {
+          "letra": "D",
+          "texto": "7, 5 2       2"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 2,
+      "enunciado": "2. \nSea (-2, 8) un punto que pertenece a la ecuación \nx  2\ny = \nm\n\n\n. El valor de m es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "- 1 2"
+        },
+        {
+          "letra": "B",
+          "texto": "-3"
+        },
+        {
+          "letra": "C",
+          "texto": "-1"
+        },
+        {
+          "letra": "D",
+          "texto": "1 2"
+        },
+        {
+          "letra": "E",
+          "texto": "3 (Fuente. DEMRE. Publicación 2012)"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "enunciado": "3. \nSi el punto (k + 1, k – 3) pertenece a la recta 3x – 2y + 4 = 0, entonces k es igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "- 3"
+        },
+        {
+          "letra": "D",
+          "texto": "-13"
+        }
+      ],
+      "pagina": 1,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "enunciado": "4. \nLa recta L de ecuación 6y + 3x = 2 intersecta al eje de las abscisas en el punto P, como \nse muestra en la figura adjunta. El valor de la abscisa del punto P es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "- 1 3 y"
+        },
+        {
+          "letra": "B",
+          "texto": "3 L"
+        },
+        {
+          "letra": "C",
+          "texto": "2 3"
+        },
+        {
+          "letra": "D",
+          "texto": "1 3 x P"
+        },
+        {
+          "letra": "E",
+          "texto": "- 2 3 (Fuente. DEMRE. Publicación 2013)"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 21_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 5,
+      "enunciado": "5. \nLa ecuación de la recta que pasa por los puntos \n1\n1, - 2\n\n\n\n\n\n\n\n  y  3, 5\n2\n\n\n\n\n\n\n\n es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2y + 22x + 23 = 0"
+        },
+        {
+          "letra": "B",
+          "texto": "2y – 22x + 23 = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "2y – 22x + 21 = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "2y + 22x – 23 = 0"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "enunciado": "6. \n¿Cuál de las siguientes ecuaciones corresponde a la recta que contiene a PQ  en la \nfigura adjunta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x – 9y – 48 = 0"
+        },
+        {
+          "letra": "B",
+          "texto": "x – 9y + 48 = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "3x – 11y + 48 = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "11x – 3y – 46 = 0"
+        },
+        {
+          "letra": "E",
+          "texto": "9x – y – 48 = 0 Q 6 P 3 -5 6 (Fuente. DEMRE. Publicación 2016) 2"
+        }
+      ],
+      "pagina": 2,
+      "imagenes": [
+        "Ma 21_p2_img0.jpg"
+      ]
+    },
+    {
+      "numero": 7,
+      "enunciado": "7. \nSi la pendiente de una recta es 1\n\n3  y su coeficiente de posición es 1\n\n2 , entonces la \n\necuación general de la recta es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2x + 6y + 3 = 0"
+        },
+        {
+          "letra": "B",
+          "texto": "2x – 6y + 3 = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "2x + 6y + 3 = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "-6x + 2y + 3 = 0"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "enunciado": "8. \nLa ecuación principal de la recta que pasa por el punto (1, -2) y tiene  pendiente - 2\n\n5  es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "y = - 2 5 x – 8 5 5 x + 12"
+        },
+        {
+          "letra": "B",
+          "texto": "y = - 2 5"
+        },
+        {
+          "letra": "C",
+          "texto": "y = - 2 5 x + 1 5"
+        },
+        {
+          "letra": "D",
+          "texto": "y = - 2 5 x – 9 5"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": []
+    },
+    {
+      "numero": 9,
+      "enunciado": "9. ¿Cuál(es) de los siguientes gráficos podría(n) representar a una recta de ecuación  \n\ny = ax – 3? \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\ny \n\ny \n\nI) \n\nII) \n\nIII) \n\n3 \n\nx \n\nx \n\nx \n\n-3 \n\n-3",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo III"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguno de ellos (Fuente. DEMRE. Publicación 2013) 3"
+        }
+      ],
+      "pagina": 3,
+      "imagenes": [
+        "Ma 21_p3_img0.jpg"
+      ]
+    },
+    {
+      "numero": 10,
+      "enunciado": "10. ¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s), con respecto a la recta \n\nde ecuación 3x – 5y – 12 = 0? \n \n\nI) \nLa recta intersecta al eje de las abscisas en el punto (4, 0). \nII) \nLa pendiente de la recta es positiva. \nIII) \nLa recta intersecta al eje de las ordenadas en el punto (0, -12).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 11,
+      "enunciado": "11. ¿Cuál de los siguientes gráficos corresponde a la recta de ecuación y – 2 = 0? \n \n \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "pagina": 4,
+      "imagenes": [
+        "Ma 21_p4_img0.jpg"
+      ]
+    },
+    {
+      "numero": 12,
+      "enunciado": "12. En cierta empresa de telefonía celular la relación entre la duración de una llamada, en \n\ny \n\ny \n\nL \n\nL \n2 \n\n0 \n\nx \n0 \n\nx \n\nx \n0 \n\n2 \n\nL \n-2 \n\ny \n\nL \n\n2 \n\nx \n0 \n\nminutos, y su valor está determinado por un modelo lineal. Si una llamada de  \n15 minutos cuesta $ 770 y otra de 22 minutos cuesta $ 1.120, ¿cuánto costará una \nllamada de 28 minutos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ 773"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 779"
+        },
+        {
+          "letra": "C",
+          "texto": "$ 1.290"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 1.420 4"
+        }
+      ],
+      "pagina": 4,
+      "imagenes": []
+    },
+    {
+      "numero": 13,
+      "enunciado": "13. El gráfico de la figura adjunta, muestra un trapecio ABCD isósceles, AB // DC // OX  con \n\nm1, m2, m3 y m4 las pendientes de los trazos AB, BC , CD y DA , respectivamente.  \nEntonces, ¿cuál(es) de las siguientes afirmaciones es (son) siempre verdadera(s)?   \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nD \n\nC \n\nx \nO \n\nA \n\nB \n\nI) \nm2 + m4 = 0 \nII) \nm1 > 0 \nIII) \n4\n2\nm\nm\n",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solo I"
+        },
+        {
+          "letra": "B",
+          "texto": "Solo II"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo I y II"
+        },
+        {
+          "letra": "D",
+          "texto": "Solo II y III"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 21_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 14,
+      "enunciado": "14. Según los datos dados en la figura adjunta, ¿cuál es la ecuación de la recta?  \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\n135º \n\n-6 \nx",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x + y + 6 = 0"
+        },
+        {
+          "letra": "B",
+          "texto": "x – y + 6 = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "x + y – 6 = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "x – y – 6 = 0 5"
+        }
+      ],
+      "pagina": 5,
+      "imagenes": [
+        "Ma 21_p5_img0.jpg"
+      ]
+    },
+    {
+      "numero": 15,
+      "enunciado": "15. El punto Q de abscisa -3 está en la recta cuya pendiente es 2 y pasa por el punto  \n\n(-3, -4). Entonces, la ordenada de Q es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-6,5"
+        },
+        {
+          "letra": "B",
+          "texto": "-4"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "16"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 16,
+      "enunciado": "16. En la figura adjunta, las rectas L y R están dadas por las ecuaciones 5x – 6y = 30 y por  \n\n2x + 3y = 12, respectivamente. Entonces, el área del triángulo achurado en unidades \ncuadradas es \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nL \n\nx \n\nR",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 u2"
+        },
+        {
+          "letra": "B",
+          "texto": "24 u2"
+        },
+        {
+          "letra": "C",
+          "texto": "27 u2"
+        },
+        {
+          "letra": "D",
+          "texto": "54 u2"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": [
+        "Ma 21_p6_img1.jpg"
+      ]
+    },
+    {
+      "numero": 17,
+      "enunciado": "17. La intersección de las diagonales del cuadrado formado por los vértices que están en \n\nlos puntos (4, 5), (-3, 5), (-3, -2)  y  (4, -2) es el punto de coordenadas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(1, 2)"
+        },
+        {
+          "letra": "B",
+          "texto": "1 3 , 2 2      "
+        },
+        {
+          "letra": "C",
+          "texto": "1 1 , 2 2      "
+        },
+        {
+          "letra": "D",
+          "texto": "3 1 , 2 2       6"
+        }
+      ],
+      "pagina": 6,
+      "imagenes": []
+    },
+    {
+      "numero": 18,
+      "enunciado": "18.  ¿Cuál es la ecuación de la recta que representa el gráfico de la figura adjunta? \n \n \n\ny",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6x – 5y = 15"
+        },
+        {
+          "letra": "B",
+          "texto": "6x – 5y = 30"
+        },
+        {
+          "letra": "C",
+          "texto": "5x – 6y = 15"
+        },
+        {
+          "letra": "D",
+          "texto": "5x – 6y = -30 5 x -6"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": [
+        "Ma 21_p7_img0.jpg"
+      ]
+    },
+    {
+      "numero": 19,
+      "enunciado": "19. ¿Qué valor debe tener k para que las rectas 2x + ky = 0 y 3x – 5y = 6 sean \n\nperpendiculares?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "- 10 3"
+        },
+        {
+          "letra": "B",
+          "texto": "- 6 5"
+        },
+        {
+          "letra": "C",
+          "texto": "6 5"
+        },
+        {
+          "letra": "D",
+          "texto": "5 4"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    },
+    {
+      "numero": 20,
+      "enunciado": "20. ¿Cuál es la ecuación de la recta que pasa por el punto (4, -1) y es paralela a la recta                     \n\n2y – x + 8 = 0?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x – 2y – 2 = 0"
+        },
+        {
+          "letra": "B",
+          "texto": "2x + y – 7 = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "x – 2y + 6 = 0"
+        },
+        {
+          "letra": "D",
+          "texto": "x – 2y – 6 = 0 RESPUESTAS"
+        }
+      ],
+      "pagina": 7,
+      "imagenes": []
+    }
+  ]
+}

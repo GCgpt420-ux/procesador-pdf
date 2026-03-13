@@ -1,0 +1,74 @@
+{
+  "filename": "Ma 08.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/GUIAS/Ma 08.pdf",
+  "num_paginas": 8,
+  "titulo": "MATERIAL E00",
+  "autor": "Casa de Estudio Pedro de Valdivia",
+  "fecha_procesamiento": "2026-03-07T16:01:11.302187",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "Matemáticas  \nMaterial : MA-09 \n\n \n\n \n \n \n \n \n \n \n \n \n \n1. \nEl enunciado “A un número w se le resta su quíntuplo y este resultado se divide por el \ncubo del doble de z”, se escribe \n \n\nCUADERNO DE EJERCICIOS N° 8 \n\nPLANTEAMIENTOS \n\nA) w – 5w : (2z)3    \nB) (w – 5w) : 2z3 \nC) (w – 5w) : (2z)3 \nD) w – 5w : 2z3 \nE) (w – 5z) : (2z)3 \n \n\n \n \n\n2. \nUna determinada fracción es equivalente a 0,6 . Sabiendo que al sumar el numerador \ncon el denominador se obtiene 120, entonces ¿cuál es el denominador de esta fracción?  \n \n\nA) 54 \nB) 60 \nC) 66 \nD) 72 \n \n \n \n3. \nLa ecuación que permite encontrar el valor de x en el planteamiento “el triple del \nexceso de x sobre dos, excede en 9 unidades a 12” es  \n \n\nA) (3x – 2) + 9 = 12 \nB) (3x – 2) – 9 = 12 \nC) 3(x – 2) + 9 = 12 \nD) 9 – 3(x – 2) = 12 \nE) 3(x – 2) – 9 = 12 \n \n \n \n4. \nSi el triple de h se disminuye en 8m – 4n, se obtiene la mitad de 2m – 10n, con m y n \ndistintos de cero. ¿Cuál de las siguientes expresiones corresponde siempre a 2h? \n \n\nA) 3m – 3",
+      "cantidad_caracteres": 1058,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 42.5595703125
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 0.3955078125
+        },
+        {
+          "index": 2,
+          "tipo": 4,
+          "tamanio_kb": 15.2177734375
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "5. \nLa suma de tres números consecutivos es -60. ¿Cuál es el sucesor del número mayor? \n \n \n\nA) -18 \nB) -19 \nC) -20 \nD) -21 \nE) -22 \n \n \n \n6. \nEl cuádruplo del triple de, un número aumentado en tres unidades es 72. Entonces, con \nrespecto al número, ¿cuál(es) de las siguientes proposiciones es (son) verdadera(s)? \n \n\nI) \nEs divisor de uno. \nII) \nEs múltiplo de 3. \nIII) \nEs múltiplo de cero. \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo II y III \nE) I, II y III \n \n \n \n\n7. \nDe 45 jóvenes excursionistas, 2\n\n3  de ellos son hombres, y la mitad de estos son \n\nestudiantes universitarios. ¿Cuántos son los hombres que estudian en la universidad? \n \n\n \n\nA) 15 \nB) 10  \nC)   9 \nD) 16 \n\n \n \n \n8. \nSe tiene una cuerda de x + 2y centímetros de largo la cual se cortó en tres partes. Si el \nprimer segmento mide (x – 2) centímetros, y el segundo segmento mide (3 – y) \ncentímetros, entonces ¿cuántos centímetros mide el tercer segmento de la cuerda? \n \n\nA) y – 1 \nB) 3y + 1 \nC) 1 – 3y \nD) 3y – 1 \nE) 1 – ",
+      "cantidad_caracteres": 1012,
+      "imagenes": []
+    },
+    {
+      "numero": 3,
+      "texto": "9. \nPor x tarros de pintura que se compran, se paga $ P. Si todos los tarros tienen el \nmismo precio, ¿cuál de las siguientes expresiones representa cuánto se paga, en pesos, \npor comprar dos tarros menos de pintura?        \n \n \n\nA) \nP\nx  – 2 \n\nB) \nP\nx  2\n\n \n\nC) P  2\n\nx\n\n \n\nD) Px – 2  \n\nE) \nP(x  2)\n\n\n \n\nx\n\n \n(Fuente: DEMRE, publicación 2018) \n \n \n10. El dígito de las decenas de un número de dos cifras es igual al antecesor del dígito de \n\nlas unidades. Si el dígito de las unidades es n, entonces la expresión que representa el \nsucesor del doble del número es \n \n\nA) 22n – 19 \nB) 22n – 2 \nC) 22n – 1 \nD) 22n – 20 \nE) 22n – 21 \n \n \n \n \n11. Alex compró 4 tarros de duraznos y 3 botellas de vino blanco, cancelando en total $ w. \n\nSi el tarro de durazno cuesta $ 3d\n\n4 , entonces ¿cuánto cuestan dos botellas de vino \n\nblanco? \n \n \n\nA) $ (w  3d)\n\n3\n\n  \n\nB) $ 2(3d  w)\n\n\n  \n\n3\n\nC) $ (w + 3d)\n\n3\n  \n\nD) $ 2(w + 3d)\n\n3\n  \n\nE) $ 2(w  3d)\n\n\n \n\n3\n\n \n \n \n \n \n\n 3 \n",
+      "cantidad_caracteres": 965,
+      "imagenes": []
+    },
+    {
+      "numero": 4,
+      "texto": "12. Ely pintó ayer 16 m2 del dormitorio de su hija y hoy pintó el resto, que corresponde a \n\ntres quintos del total. ¿Cuál era la superficie total a pintar?  \n \n\nA) 16 m2  \nB) 24 m2 \nC) 32 m2 \nD) 36 m2 \nE) 40 m2 \n \n \n \n \n13. En una reunión se observa que los dos tercios son varones, los tres quintos de las \n\nmujeres son casadas y hay 14 solteras. Entonces, la quinta parte de los varones es \n \n \n\nA)   4 \nB) 12 \nC) 14 \nD) 21 \n \n \n \n\n14. Se repartirá un premio de $ 624.000 entre Ingrid, Gerardo y Jaime. Ingrid recibe 3\n\n8  del \n\ntotal, Gerardo recibe 2\n\n3  de lo que quedará y Jaime el resto. ¿Cuánto reciben Gerardo y \n\nJaime, respectivamente? \n  \n \n\nA) $ 234.000   y   $ 260.000 \nB) $ 156.000   y   $ 134.000 \nC) $ 260.000   y   $ 364.000 \nD) $ 260.000   y   $ 130.000 \nE) $ 416.000   y   $ 208.000 \n\n(Fuente: DEMRE, Publicación 2014) \n \n \n \n15. Se tienen $ 16.000 en monedas de $ 500 y de  $ 50. Si el total de monedas es 50, \n\nentonces la cantidad de monedas de $ 500 es \n \n \n\nA) 32 \nB) 30 \nC)",
+      "cantidad_caracteres": 1068,
+      "imagenes": []
+    },
+    {
+      "numero": 5,
+      "texto": "16. A una función de cine asistieron en total 600 personas, entre adultos y niños. Si el valor \n\nde la entrada de un adulto, es de $ 2.000 y la de un niño $ 1.500. ¿Cuántos adultos \nasistieron a la función, si la recaudación fue de $ 1.100.000? \n \n \n\nA) 100 \nB) 200 \nC) 300 \nD) 400 \nE) 500 \n \n \n \n17. Un maestro A hace un trabajo en 6 horas, mientras que un maestro B lo ejecuta en el \n\ndoble de tiempo que el maestro A. ¿En cuántas horas realizarían el trabajo juntos? \n \n \n\nA) 1 hora 50 minutos  \nB) 1 hora 30 minutos \nC) 2 horas \nD) 3 horas \nE) 4 horas \n \n \n \n18. En un terreno rectangular de largo (2x – 1) y ancho (x + 6) metros se construye una \n\npiscina rectangular de (2x – 5) metros de largo y (x + 2) metros de ancho y se \nembaldosa el resto del terreno. Si el área de la región embaldosada es 148 metros \ncuadrado, entonces el valor de x es \n \n \n\nA)   6 metros \nB)   8 metros \nC) 10 metros \nD) 12 metros \nE) 14 metros \n \n \n \n19. Un puma trepa hasta la copa de un árbol en 3 saltos consecut",
+      "cantidad_caracteres": 1272,
+      "imagenes": []
+    },
+    {
+      "numero": 6,
+      "texto": "20. Si tres hermanos se reparten $ 300.000 de tal forma, que el mayor recibe el doble del \n\nsegundo, y éste, la tercera parte del menor de ellos, entonces ¿cuánto recibe este \núltimo?  \n \n \n\n \nA) $   30.000 \nB) $   50.000  \nC) $   60.000 \nD) $ 100.000 \nE) $ 150.000 \n \n \n \n \n21. Hace 4 años la edad de A era la mitad de la edad que tenía B. Si dentro de 8 años A \n\ntendrá la edad actual de B, ¿cuál es la edad de B? \n \n \n\nA) 20 años \nB) 24 años \nC) 16 años \nD) 18 años \n \n \n \n22. La suma de los dígitos de un número de tres cifras es 16, donde el dígito de las \n\ncentenas excede en 2 al dígito de las unidades y éste último es el sucesor del dígito x \nde las decenas. ¿Qué ecuación permite hallar el dígito de las decenas? \n \n \n\nA) 3x + 3 = 16 \nB) (x – 3) + x + (x – 1) = 16 \nC) (x + 3) + x + (x + 1) = 16 \nD) 100(x + 3) + 10x + (x + 1) = 16 \nE) 100(x – 3) + 10x + (x – 1) = 16 \n\n \n \n \n \n23. La edad actual de Andrea es la mitad de la edad de Beatriz. Hace 10 años la edad de \n\nAndrea era los tres sé",
+      "cantidad_caracteres": 1161,
+      "imagenes": []
+    },
+    {
+      "numero": 7,
+      "texto": "24. Sergio contesta las 60 preguntas de una prueba. Si la quinta parte de las preguntas \n\nque respondió correctamente es igual al número de las que respondió incorrectamente, \nentonces ¿cuántas preguntas respondió correctamente? \n \n \n\nA) 60 \nB) 50 \nC) 40 \nD) 20 \n \n \n \n \n25. Las edades de Sebastián, Belén y Fernando suman 60 años. Si Belén tiene 2 años más \n\nque Sebastián y la suma de ambos exceden en 16 años a la edad de Fernando, \nentonces ¿cuántos años tiene Belén? \n \n \n\nA) 24 \nB) 22 \nC) 21 \nD) 20 \nE) 18 \n \n \n \n26. Se puede determinar la diferencia de edades entre Ana y María, respectivamente, si se \n\nsabe que: \n \n\n(1) la edad de Ana es el triple de la edad de María. \n(2) hace 5 años Ana tenía la edad actual de María. \n\n \nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n\n \n \n \n27. Entre Carlos y Alberto reunieron dinero para una campaña social. Se puede determinar \n\nel dinero que reunió Alber",
+      "cantidad_caracteres": 1293,
+      "imagenes": []
+    },
+    {
+      "numero": 8,
+      "texto": "28. Se puede determinar el tiempo que emplea Iván en realizar un trabajo, si: \n \n\n(1) Rodrigo emplea 10 horas en realizar el mismo trabajo. \n(2) Iván emplea el triple del tiempo que emplean Iván y Rodrigo juntos en realizar el \n\nmismo trabajo. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas (1) y (2) \nD) Cada una por sí sola, (1) ó (2) \nE) Se requiere información adicional \n \n \n29. A una obra de teatro asisten 800 personas, de las cuales 200 ocupan galería y el resto \n\nplatea. Se puede determinar el número de mujeres que ingresan a platea, si se sabe \nque: \n\n \n\n(1) de los que ingresan a platea, los hombres son 1\n\n3  de las mujeres. \n\n(2) del total de asistentes a la obra, 250 son hombres. \n \n\nA) (1) por sí sola \nB) (2) por sí sola \nC) Ambas juntas, (1) y (2) \nD) Cada una por sí sola, (1) ó  (2) \nE) Se requiere información adicional \n \n \n30. Dos autos, separados por 100 km, parten al mismo tiempo a encontrarse. Se puede \n\ndeterminar cuánto tiempo demoran en juntarse, si se s",
+      "cantidad_caracteres": 1661,
+      "imagenes": []
+    }
+  ]
+}

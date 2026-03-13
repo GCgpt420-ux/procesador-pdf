@@ -1,0 +1,32 @@
+{
+  "filename": "Ensayo n° 5.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/PAUTAS/Ensayo n° 5.pdf",
+  "num_paginas": 1,
+  "titulo": "",
+  "autor": "Preuniversitarios",
+  "fecha_procesamiento": "2026-03-07T16:04:13.347929",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "CLAVES MATEMÁTICA 2022 \nCódigo: JMA PAES1-OL-05-2022 \n \n \n \n \n \n \n \n \n \n \nAsignatura   \n:  MATEMÁTICA \n \nNº Preguntas  \n:  65 \n \n\nCLAVES 5ª JORNADA DE EVALUACIÓN GENERAL PAES 1  \n\n1. \nB \n11. \nA \n21. \nA \n31. \nB \n41. \nC \n51. \nB \n61. \nD \n\n2. \nC \n12. \nD \n22. \nD \n32. \nD \n42. \nB \n52. \nC \n62. \nC \n\n3. \nA \n13. \nC \n23. \nB \n33. \nA \n43. \nA \n53. \nD \n63. \nC \n\n4. \nC \n14. \nD \n24. \nA \n34. \nB \n44. \nB \n54. \nB \n64. \nB \n\n5. \nC \n15. \nA \n25. \nC \n35. \nB \n45. \nA \n55. \nC \n65. \nC \n\n6. \nB \n16. \nB \n26. \nA \n36. \nB \n46. \nD \n56. \nD \n \n \n\n7. \nA \n17. \nC \n27. \nA \n37. \nD \n47. \nB \n57. \nA \n \n \n\n8. \nA \n18. \nC \n28. \nC \n38. \nA \n48. \nD \n58. \nD \n \n \n\n9. \nC \n19. \nB \n29. \nD \n39. \nC \n49. \nC \n59. \nC \n \n \n\n10. \nD \n20. \nD \n30. \nC \n40. \nD \n50. \nA \n60. \nB \n \n \n\n \n \nPilotaje:  \n10 – 24 – 33 – 37 – 59 \n \n",
+      "cantidad_caracteres": 763,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 17.04296875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 24.0615234375
+        },
+        {
+          "index": 2,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}

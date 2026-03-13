@@ -1,0 +1,342 @@
+{
+  "filename": "8165-JMA-PAES1-OL-01-2022.pdf",
+  "ruta_original": "/home/gabriel/procesamiento_paes/input_pdfs/PDV 2025-20260307T003821Z-3-001/PDV 2025/ENSAYOS/2022/8165-JMA-PAES1-OL-01-2022.pdf",
+  "num_paginas": 26,
+  "titulo": "",
+  "autor": "Usuario",
+  "fecha_procesamiento": "2026-03-07T16:04:57.603962",
+  "paginas": [
+    {
+      "numero": 1,
+      "texto": "C u r s o :   MATEMÁTICA \n\n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \nPRIMERA JORNADA DE EVALUACIÓN GENERAL \n\n \nPAES 1 - MATEMÁTICA  \n\n \nON LINE \n\n \n \n \n2022 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+      "cantidad_caracteres": 187,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 24.0615234375
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "texto": "PRUEBA MATEMÁTICA \n\n INSTRUCCIONES  \n \n \nEsta prueba consta de 65 preguntas, de las cuales 60 serán consideradas para el cálculo de \n\npuntaje y 5 serán usadas para experimentación y por lo tanto, no se considerarán en el \n\npuntaje final de la prueba. Cada pregunta tiene cuatro (4) opciones, señaladas con las letras \n\nA, B, C y D, una sola de las cuales es la respuesta correcta.  \n\nDISPONE DE 2 HORAS Y 20 MINUTOS PARA RESPONDERLA. \n\n \n \nINSTRUCCIONES ESPECÍFICAS \n \n1. \nLas figuras que aparecen en la prueba son solo indicativas. \n\n2. \nLos gráficos que se presentan en esta prueba están dibujados en un sistema de \n\nejes perpendiculares. \n\n3. \nEl intervalo [p, q] es el conjunto de todos los números reales mayores o iguales a p y \n\nmenores o iguales a q; el intervalo ]p, q] es el conjunto de todos los números reales \n\nmayores que p y menores o iguales a q; el intervalo [p, q[ es el conjunto de todos los \n\nnúmeros reales mayores o iguales a p y menores que q; y el intervalo ]p, q[ es el \n\ncon",
+      "cantidad_caracteres": 1521,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "texto": " \nSÍMBOLOS MATEMÁTICOS \n\n \n\n \n  es menor que \n  es congruente con \n \n  es mayor que \n  es semejante con \n \n  es menor o igual a \n  es perpendicular a \n    \n  es mayor o igual a \n  es distinto de \n \n  ángulo recto \n  es paralelo a \n \n    ángulo \n  trazo AB \n \n     logaritmo en base 10 \n  pertenece a \n \n    conjunto vacío \n  valor absoluto de x \n  \n   es aproximado a                  \n         factorial de x \n \n    unión de conjuntos  \n \n         intersección de conjuntos \n \n    complemento del conjunto A                 vector u \n       \n   \n   \n \n     \n\n \n\n  \n\n \n\n \n\n \n\n \n\n \n\n \n\n // \n\n \n\n \n\nAB  \n\nlog \n\n \n\n x \n\n \n\n \n\n x! \n\n \n\nln \n \n\nu \n\nAC \n\n \n\n3 \n \n",
+      "cantidad_caracteres": 671,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.0869140625
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "texto": "8\n\n2\n2\n\n1. \n¿Cuál es el valor de \n\n? \n\n8\n\n \n\nA) 8 \nB) 4 \nC) 2 \nD) 1 \n \n \n \n \n \n \n2. \nEn un congreso de matemáticos, se utilizaron los siguientes tipos de cambio: \n \n\n1 calculadora = 100 reglas \n10 reglas = 30 compases \n20 compases = 50 transportadores \n  \n¿Cuántos transportadores son equivalentes a una calculadora? \n \n \n\nA) 300 \nB) 400 \nC) 500 \nD) 750 \n \n \n \n \n3. \nUn vaso lleno de agua pesa 1.000 gramos. Si se extrae la mitad del agua de este vaso, \nentonces ahora el vaso con el agua restante pesa 700 gramos. ¿Cuánto pesa el vaso \nvacío? \n \n \n\nA) 300 gramos \nB) 350 gramos \nC) 400 gramos \nD) 500 gramos \n \n \n\n4 \n \n",
+      "cantidad_caracteres": 620,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "texto": "4. \nEn la figura adjunta se muestran dos balanzas en equilibrio. Si las esferas de un mismo \ncolor tienen el mismo peso, ¿cuál de las siguientes afirmaciones es verdadera? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n3 kg \n\n5 kg \n\n4 kg \n\nA) Una esfera blanca tiene igual peso que una negra. \n\nB) Una esfera negra pesa 1\n\n2  kg menos que una blanca. \n\nC) Una esfera blanca pesa 1\n\n2  kg menos que una negra. \n\nD) Una esfera blanca más una esfera negra pesan más de 1,5 kg. \n \n \n \n \n \n\n2\n550 + 50\n\n5. \n¿Cuál es el 50% de \n\n? \n\n5  + 5\n\n \n\nA) 6 \nB) 10 \nC) 16 \nD) 20 \n \n \n \n6. \nRamiro y Víctor compraron una pizza. Ramiro comió las dos quintas partes de la pizza y \nVíctor comió la mitad de lo que comió Ramiro. Si la hermana de Víctor se comió el resto \nde la pizza, entonces ¿cuál de las siguientes afirmaciones es FALSA? \n \n\nA) Entre Ramiro y Víctor comieron el 60% de la pizza. \nB) La hermana de Víctor comió tanto como Ramiro. \nC) La persona que menos comió fue Víctor. \nD) La hermana de Víctor comió un 50% más que",
+      "cantidad_caracteres": 1022,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "texto": "7. \nEn la secuencia 32, 8, __, __, x, cada término después del primero es el promedio de \nlos dos términos inmediatamente anteriores a él. ¿Cuál es el valor de x? \n \n \n\nA) 14 \nB) 17 \nC) 20 \nD) 24 \n \n \n \n \n \n \n8. \nSi T = 25  16  36 + 64\n\n\n, entonces T es un número \n \n\nA) impar negativo menor que -6. \nB) irracional negativo. \nC) racional no entero. \nD) impar negativo mayor que -6. \n \n \n \n \n \n\n9. \nSi k = 36  16\n\n, entonces k es un número \n \n \n\nA) irracional. \nB) potencia de 2. \nC) múltiplo de 24. \nD) divisor de 12. \n \n \n \n \n \n \n10. El x% de la edad de un abuelo que tiene 60 años de edad, es 12 años, y el 15% de x \n\nes la edad de su nieto. ¿Cuál es la edad del nieto? \n \n \n\nA) 9 meses \nB) 2 años \nC) 3 años \nD) 9 años \n \n \n\n6 \n \n",
+      "cantidad_caracteres": 736,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "texto": "11. Los números naturales del 1 al 2100 se han colocado secuencialmente en 7 columnas \n\nen una tabla como la adjunta que solo muestra las 3 primeras filas. Si el número 2002 \nestá ubicado en la intersección de la columna m y la fila n, ¿cuál es el valor de m + n? \n \n \n\n \nColumna \n\nColumna \n\nColumna \n\nColumna \n\nColumna \n\nColumna \n\nColumna \n\n7 \nFila 1 \n1 \n2 \n3 \n4 \n5 \n6 \n7 \nFila 2 \n8 \n9 \n10 \n11 \n12 \n13 \n14 \nFila 3 \n15 \n16 \n17 \n18 \n19 \n20 \n21 \n\n1 \n\n2 \n\n3 \n\n4 \n\n5 \n\n6 \n\n… \n\n… \n\n… \n\n… \n\n… \n\n… \n\n… \n\n… \n\n \n \n\nA) 290 \nB) 291 \nC) 292 \nD) 293 \n \n \n \n12. Para los números reales, de acuerdo a la información entregada en la recta numérica \n\nadjunta, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n \n \n \n \n\nk2 \nk \nk -1 \n\nI) \nSolo k2 es siempre un número no negativo. \nII) \nLa suma k2 + k + k-1 es un real positivo. \nIII) \nLa cuarta potencia de k es mayor que la cuarta parte de k. \n \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \n \n \n \n \n13. Si a  0 y  la expresión 6a – 5a + ",
+      "cantidad_caracteres": 1089,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "texto": "14. Si n = 9, ¿cuál de las siguientes expresiones es la que tiene mayor valor? \n \n \n\nA) n – 5 \n\nB) \nn\n2  \n\nC) \n40\n\nn  \n\n2\nn\n20  \n\nD) \n\n \n \n \n \n\n15. ¿Cuál es el valor de x en la ecuación 1\n2\n3\nx\n + \n + \n + \n2\n3\n4\n12  = 2? \n\n \n\nA) -4 \nB) 1 \nC) 4 \nD) 13 \n \n \n \n \n \n16. Las longitudes de los tres lados de un triángulo son, 7, x + 4 y 2x + 1. Si el perímetro \n\nde este triángulo es 36, ¿cuánto mide el lado de mayor longitud? \n \n \n\nA) 12 \nB) 15 \nC) 16 \nD) 17 \n \n \n \n \n \n17. El perímetro de un terreno rectangular es de 24 kilómetros y el largo es de  \n\n8 kilómetros. ¿Qué parte del largo de esta parcela es el ancho? \n \n \n\nA) La mitad \nB) La tercera parte \nC) La cuarta parte \nD) Las dos terceras partes \n \n \n\n8 \n \n",
+      "cantidad_caracteres": 711,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "texto": "18. En cada fila (línea horizontal) de la tabla adjunta, la suma de los dos primeros números \n\nes igual al tercero y en cada columna (línea vertical), la suma de los dos primeros \nnúmeros también es igual al tercero. La suma de los nueve números de la tabla es \nigual a  \n \n \n \n \n \n \n \n \n \n\na \n4 \na + 4 \n\nb \nb \n8 + b \n\na + b \n4 + b \n6 \n\n \n\nA) -6 \nB) 18 \nC) 42 \nD) 24 \n \n \n \n \n19. La suma de diez enteros consecutivos es S. Si diez veces el menor de estos números es \n\nT, entonces S – T = \n \n \n\nA) 9 \nB) 10 \nC) 45 \nD) 55 \n \n \n \n \n \n20. Un tren de carga recorrió desde las 7:45 a las 9:30, 84 kilómetros con velocidad \n\nconstante. ¿Cuál fue la velocidad del tren en este tramo? \n \n \n\nA) 48 km/h \nB) 60 km/h \nC) 63 km/h \nD) 80 km/h \n \n \n\n9 \n \n",
+      "cantidad_caracteres": 740,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "texto": "21. Cuando Mariela y su hermano mayor Adolfo corren, Mariela da 5 pasos cada  \n\n2 segundos, y cada uno de sus pasos mide 0,4 m de largo. Adolfo también da  \n5 pasos cada 2 segundos, pero cada uno de sus pasos mide 1,2 m de largo. Según esta \ninformación, ¿cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n \n\nI) \nMariela en 2 segundos avanza 2 metros. \nII) \nAdolfo corre con una rapidez de 3 metros por segundo. \nIII) \nAl cabo de 2 minutos Adolfo habrá recorrido 240 m más que Mariela. \n \n \n\nA) Solo I \nB) Solo I y II \nC) Solo I y III \nD) I, II y III \n \n \n \n \n \n22. Braulio y Romina tienen discos compactos. Si Romina le regalase 6 discos a Braulio, \n\néste quedaría con el doble de discos que Romina, pero si Braulio le diese 6 discos a \nRomina, entonces quedarían con igual número de discos. ¿Cuántos discos compactos \ntienen entre los dos? \n \n\n \nA) 72 \nB) 42 \nC) 36 \nD) 30 \n \n \n \n \n \n23. Pepe tiene $ 3.600 en monedas de $ 50 y  $ 100. Si él cambiara todas las monedas de \n\n$ 50 por",
+      "cantidad_caracteres": 1154,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "texto": "24. La razón de las longitudes de dos trazos, en centímetros es a\n\nb . ¿Cuál es la razón de las \n\nlongitudes de estos trazos en metros? \n \n \n\nA) 0,01a\n\nb\n \n\nB) \na\nb  \n\nC) 100a\n\nb\n \n\nD) a + 100\n\nb + 100  \n\n \n \n \n \n25. Si se suman las raíces de la ecuación (2x – 1)(x + 1) – 2 = 0 se obtiene \n \n \n\nA) -0,5 \nB) - 0,3 \nC) 0,5 \nD) 1,5 \n \n \n \n \n26. Dada la ecuación cuadrática x2 + 7x + 3 = 0 de raíces (soluciones) m y n, ¿cuál de las \n\nsiguientes ecuaciones cuadráticas, tiene por raíces (m + 2) y (n + 2)? \n \n \n\nA) x2 + 7x – 3 = 0 \nB) x2 + 3x – 7 = 0 \nC) x2 – 3x – 7 = 0 \nD) x2 – 3x + 7 = 0 \n \n \n \n \n \n27. La edad de don Juan es 2n años, y la de su hijo es (n – 10) años. ¿En cuántos años \n\nmás la edad de don Juan duplicará la edad del hijo? \n \n \n\nA) En 20 años más. \nB) En n años más. \nC) En (n + 10) años más. \nD) En (20 – n) años más. \n \n \n\n11 \n \n",
+      "cantidad_caracteres": 848,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "texto": "28. El cuadrado de la suma del largo y ancho de un rectángulo es igual al cuadrado de la \n\ndiagonal, más 120 cm2. Si la diferencia de los lados es igual a 7 cm, entonces el \nperímetro del rectángulo mide \n \n\nA) 34 cm \nB) 30 cm \nC) 24 cm \nD) 17 cm \n \n \n \n \n29. Dado el problema, “hallar 3 números consecutivos, tales que el cuadrado del número \n\ncentral sea mayor en una unidad que el producto de los 2 restantes”. ¿Cuál de las \nsiguientes afirmaciones es verdadera? \n \n\nA) Tiene solución única. \nB) Tiene dos soluciones. \nC) Cualquier terna de números consecutivos es solución. \nD) No existen 3 números consecutivos con esa propiedad. \n \n \n \n \n30. En la figura adjunta se muestra información sobre la fabricación de un determinado \n\nartículo cuyo costo total C se obtiene sumando un costo fijo de $ 400.000 adicionada al \ncosto de producción que es de $ 5.000 por unidad. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n¿Cuál(es) de las siguientes afirmaciones es (son) verdadera(s)? \n \n\nC(x) \n\n450.000 \n\n400.000 \n\nx\n\n0",
+      "cantidad_caracteres": 1369,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "texto": "31. La parábola representativa de la función f(x) = ax2 + bx + c es tangente al eje de las \n\nabscisas y corta al eje de las ordenadas en el punto (0, 1), luego ¿cuál de las siguientes \nrelaciones es verdadera? \n \n \n\nA) b2 = 4a \nB) –b2 = 4a \nC) b = 2a \nD) a2 = 4b \n \n \n \n \n \n32. La gráfica de la función g(x) = x2 + 1 trasladada horizontalmente 3 unidades a la \n\nderecha y 3 unidades verticalmente hacia abajo, corresponde a la gráfica de la función \nh(x). ¿Cuál de las siguientes relaciones es verdadera? \n \n \n\nA) h(1) < h(2) < h(3) \nB) h(3) < h(2) < h(1) \nC) h(2) < h(1) < h(3) \nD) h(3) < h(1) < h(2) \n \n \n \n \n33. ¿Cuál de los siguientes gráficos podría representar a la función f definida por  \n\nf(x) = ax2 + bx + c, si se sabe que el producto ac es negativo? \n \n\nA) \n \n \n \nB) \n \n \n \nC) \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \nD) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\ny \n\ny \n\nx \n\nx \n\nx \n\ny \n\nx \n\n13 \n \n",
+      "cantidad_caracteres": 892,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "texto": "34. Las parábolas representativas de las funciones f(x) = x2 – 9  y  g(x) = 9 – x2 se \n\nintersectan en el punto (x, y). ¿Cuál es el valor de x + y, si se sabe que x e y son \nnúmeros NO negativos? \n \n \n\nA) -6 \nB) -3 \nC)  0 \nD)  3 \n \n \n \n \n35. Sean las funciones f(x) = 3x – 2  y g(x) = 2x + 3, ambas con dominio el conjunto de \n\nlos números reales. Si b = f(a), entonces g(b) = \n \n \n\nA) 6a – 1  \nB) 5a + 1 \nC) 3a – 2 \nD) 6a – 6 \n \n \n \n \n \n \n36. Las tres circunferencias de la figura adjunta son congruentes y tangentes entre sí. Si la \n\nlongitud de cada circunferencia es de 36 cm, ¿cuál es el perímetro de la figura \nsombreada? \n \n \n \n \n \n \n \n \n \n \n \n \n\nA) 6 cm \nB) 12 cm \nC) 18 cm \nD) 24 cm \n \n \n\n14 \n \n",
+      "cantidad_caracteres": 704,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "texto": "37. El rectángulo ABCD de la figura adjunta está formado por 5 rectángulos congruentes. Si \n\nel área del rectángulo ABCD es 3.000 mm2, ¿cuál es la longitud del mayor de los lados \nde uno de los rectángulos congruentes? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nA \nB \n\nA) 27 mm \nB) 30 mm \nC) 33 mm \nD) 34 mm \n \n \n \n \n \n38. La figura adjunta muestra dos cuadrados, uno circunscrito y otro inscrito a una \n\ncircunferencia. Si el área del cuadrado circunscrito es igual a 36, ¿cuál es el área del \ncuadrado inscrito? \n \n \n \n \n \n \n \n \n \n \n \n\nA) 18 \nB) 15 \nC) 12 \nD) 9 \n \n \n \n \n \n\n15 \n \n",
+      "cantidad_caracteres": 576,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "texto": "39. En la figura adjunta, ABCD es un cuadrado. Si M es punto medio de CD  y  \n\nAP = BP = PM = 10, entonces numéricamente el perímetro de este cuadrado es \n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nM \n\nP \n\nA \nB \n\nA) igual al área del cuadrado. \nB) igual a la mitad del área del cuadrado. \nC) igual a la tercera parte del área del cuadrado. \nD) igual a la cuarta parte del área del cuadrado. \n \n \n \n \n \n \n40. Mediante dos traslaciones sucesivas, el punto A(-2, 1) quedó ubicado en el punto  \n\nB(7, -6). Si al punto C(-2, 5) se le aplican las mismas dos traslaciones queda ubicado \nen el punto D. ¿Cuánto suman las coordenadas de D? \n \n \n\nA)  5 \nB)  3 \nC)  2 \nD) -5 \n \n \n \n \n \n\n16 \n \n",
+      "cantidad_caracteres": 671,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "texto": "41. En la figura adjunta están representados los vectores u y v. \n \n \n \n \n \n \n \n \n \n \n \n\ny \n\nu \n\nx \n\nv \n\n¿Cuál de las siguientes figuras puede ser la representación gráfica de u – v? \n \n \n \nA) \n \n \n \n \n \nB) \n \n \n \n \n \n \n \n \n \nC) \n \n \n \n \n \nD) \n \n \n \n \n \n \n \n \n \n \n \n \n42. En el plano cartesiano un rectángulo tiene lados que miden 3 y 4. Si uno de sus lados \n\ny \n\ny \n\nx \n\nx \n\ny \n\ny \n\nx \n\nx \n\nes paralelo al eje x y el otro es paralelo al eje y, siendo además (1, 2) las coordenadas \nde uno de sus vértices, ¿cuál de los siguientes puntos NO puede ser vértice de este \nrectángulo? \n \n \n\nA) (-3, -1) \nB) (5, -1) \nC) (1, -5) \nD) (-2, 6) \n \n \n \n\n17 \n \n",
+      "cantidad_caracteres": 648,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "texto": "43. En la figura adjunta, los puntos A, E y B son colineales, los triángulos AED y BCE son \n\nisósceles de bases AE  y BC , respectivamente. Si DEC mide el doble de lo que mide el \n\nEDA, ¿cuál de las siguientes afirmaciones es verdadera? \n\n \n \n \n \n \n \n \n \n \n \n \n\nD \n\nC \n\n70° \n\nA \n\nE \nB \n\nA) Los triángulos AED y BCE son congruentes. \nB) Los triángulos AED y BCE son semejantes. \nC) El ángulo EBC mide más de 70° pero menos de 80°. \nD) El segmento DE es perpendicular con el segmento EC. \n \n \n \n44. Si ABCD y PQRS son rectángulos, entonces ¿cuál de las siguientes afirmaciones es \n\nsiempre verdadera? \n \n\nA) ABCD y PQRS son semejantes, si tienen igual área. \nB) ABCD y PQRS son semejantes, si tienen igual perímetro. \nC) ABCD y PQRS son semejantes, si tienen diagonales congruentes. \nD) Ninguna de las afirmaciones anteriores es siempre verdadera. \n \n \n \n45. En la figura adjunta L4 y L5 son transversales a las rectas L1, L2 y L3. Entonces, ¿qué \n\nvalor tiene x, si las rectas L1, L2 y L3 son parale",
+      "cantidad_caracteres": 1129,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "texto": "46. En el triángulo ABC de la figura adjunta, A, D, G, C y C, F, E, B son puntos colineales, \n\nGF // DE // AB, BF = 13, EF = 5 y  AD = DG + 6, entonces AG =  \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nC \n\nF \nG \n\nE \nD \n\nA \nB \n\nA) 28 \nB) 26 \nC) 21 \nD) 20 \n \n \n \n \n \n \n \n47. El cuadrilátero ABCD de la figura adjunta es un trapecio de bases AB  y CD .  \n\nSi FE  // AB , GE  // AC , AF : FD = 3 : 4  y GB = 4,5, entonces AG = \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nD \nC \n\nE \nF \n\nA \nG \nB \n\nA) 5,0 \nB) 5,5 \nC) 6,0 \nD) 6,5 \n \n \n \n \n \n \n\n19 \n \n",
+      "cantidad_caracteres": 510,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "texto": "48. Un mapa está construido en la escala 1 : 60.000. En el mapa la distancia entre dos \n\nvolcanes es de 2 centímetros. ¿Cuál es la distancia real entre estos dos volcanes? \n \n \n\nA) 1,2 kilómetros \nB) 120 kilómetros \nC) 1.200 kilómetros \nD) 12 metros \n \n \n \n \n \n49. El cuerpo geométrico de la figura adjunta es un cilindro cuyo volumen es igual a  \n\n80 cm3. ¿Cuál es el área de la superficie achurada? \n \n \n \n \n \n \n \n \n \n \n\n5 cm \n\nA) 36 cm2 \nB) 32 cm2 \nC) 25 cm2 \nD) 16 cm2 \n\n \n \n \n50. A un punto que estaba ubicado en el cuarto cuadrante se le aplicó una rotación de 180° \n\nen torno al origen, quedando el punto resultante de la rotación con coordenadas  \n(a, -b). ¿Cuál(es) de las siguientes afirmaciones es (son) FALSA(S), respecto de este \núltimo punto? \n \n\nI) \na3 < 0 \n\nII) \n(-b)3 < 0 \nIII) \na2 · b3 < 0 \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) Solo I y II \n \n \n\n20 \n \n",
+      "cantidad_caracteres": 880,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 0.1357421875
+        },
+        {
+          "index": 1,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "texto": "51. En el gráfico de barras adjunto se muestra el resultado en porcentajes de una encuesta \n\nsobre la intención de voto para elegir alcalde que involucra a tres candidatos, A, B y C. \nSi se considera solo la intención de votos válidos, esto es, excluyendo blancos y nulos, \n¿qué porcentaje de las intenciones de voto son para el candidato A? \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n% \n\n30 \n33 \n\n25 \n\n20 \n\n8 \n10 \n\n4 \n\nVotos \npor A \n\nVotos \npor B \n\nVotos \npor C \n\nVotos en \nblanco \n\nVotos \nnulos \n\nA) 29% \nB) 33% \nC) 37,5% \nD) 44% \n \n \n \n \n \n52. Las áreas de tres cuadrados son 16, 49 y 169. Si se considera un solo lado de cada \n\ncuadrado, ¿cuál es el promedio (media aritmética) de estas 3 longitudes? \n \n \n\nA)  8 \nB) 12 \nC) 24 \nD) 32 \n \n \n\n21 \n \n",
+      "cantidad_caracteres": 749,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "texto": "53. ¿Cuál de los siguientes diagramas de cajón es representativo de los datos presentados \n\nen la tabla adjunta? \n \n \n \n \n \n \n \n \n \n \n \n \n \nA) \n \n \n \n \n \nB) \n \n \n\nVariable \nFrecuencia \n60 \n4 \n65 \n6 \n70 \n3 \n75 \n5 \n80 \n4 \n85 \n1 \n\n \n \n \n \n \n \n \n \nC) \n \n \n \n \n \nD) \n \n \n \n \n \n \n \n \n \n \n \n \n \n54. En un curso, el alumno más alto mide 188 cm. Si Federico es el alumno más bajo, ¿cuál \n\n55 \n60 \n65 \n70 \n75 \n80 \n85 \n\n55 \n60 \n65 \n70 \n75 \n80 \n85 \n\n55 \n60 \n65 \n70 \n75 \n80 \n85 \n55 \n60 \n65 \n70 \n75 \n80 \n85 \n\nde las siguientes informaciones permite saber cuánto mide Federico? \n \n \n\nA) La mediana de las alturas es 170 cm. \nB) La moda de las alturas es 164 cm. \nC) La media de las alturas es 165 cm. \nD) El rango de las alturas es 28 cm. \n \n \n \n \n\n22 \n \n",
+      "cantidad_caracteres": 740,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "texto": "55. En la tabla adjunta se muestra la frecuencia relativa acumulada de los sueldos de los \n\nempleados de una industria manufacturera. \n \n \n \n \n \n \n \n \n \n\nSueldo ($) \nFrecuencia relativa \n\nacumulada \n[700.000  -  740.000[ \n0,40 \n[740.000  -  780.000[ \n0,76 \n[780.000  -  820.000[ \n0,88 \n[820.000  -  860.000[ \n0,96 \n[860.000  -  900.000[ \n1,00 \n \n\n \nSegún la información de la tabla, ¿cuál(es) de las siguientes afirmaciones es (son) \nverdadera(s)? \n \n\nI) \nLa amplitud de los intervalos es $ 40.000. \nII) \nEl 4% gana más de $ 860.000 y menos de $ 900.000. \nIII) \nEl intervalo modal es [740.000 – 780.000[. \n \n \n\nA) Solo I \nB) Solo II \nC) Solo III \nD) I, II y III \n \n \n \n \n \n \n56. En la tabla adjunta se muestran el segundo y tercer cuartil de los puntajes obtenidos \n\npor los alumnos de dos cursos (4°A y 4°B) en un ensayo tipo prueba de transición. Si \n28 alumnos de cada curso rindieron este ensayo, ¿cuál de las siguientes afirmaciones \nes siempre verdadera? \n \n \n \n \n \n \n \n\n \n2°cuartil \n3er cuarti",
+      "cantidad_caracteres": 1224,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 24,
+      "texto": "57. Según la información entregada en la tabla adjunta en que se agrupan las edades de \n\n80 alumnos de un colegio que imparte clases desde educación parvularia hasta 4° de \nenseñanza media, el 65% de la muestra corresponde al número de alumnos \n \n \n \n \n \n \n \n \n \n \n\nEdad \nFrecuencia \n[4, 7[ \n8 \n[7, 10[ \n8 \n[10, 13[ \n12 \n[13, 16[ \nk \n[16, 19[ \n32 \n\nA) menores de 7 años. \nB) menores de 10 años. \nC) menores de 13 años. \nD) que tienen 13 años o más. \n \n \n \n \n \n58. Se tiene un dado de 6 caras inusual ya que sus caras están marcadas, \n\nrespectivamente, por los números 2, 2, 3, 3, 5 y 8. Si este dado se lanza dos veces, \n¿cuál es la probabilidad que en cada lanzamiento NO se obtenga un número primo? \n \n\nA) \n4\n9  \n\nB) \n5\n9  \n\nC) \n1\n36  \n\nD) 11\n\n36  \n\n \n \n \n \n59. De un grupo de 80 alumnos se sabe que 40 practican futbol, 32 natación y 14 ninguno \n\nde estos dos deportes. Si se elige uno de estos alumnos al azar, ¿cuál es la \nprobabilidad que practique futbol y natación? \n \n \n\nA) 0,040 \nB) 0,050 \n",
+      "cantidad_caracteres": 1038,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 25,
+      "texto": "60. Luciano tiene un frasco con bolitas rojas y bolitas azules. Cuando se extrae sin mirar \n\ndel frasco una bolita, la probabilidad que ésta sea azul es 2\n\n5 . Si Luciano agregase 5 \n\nbolitas azules y retirase 5 bolitas rojas, entonces la probabilidad de extraer al azar una \n\nbolita azul sería 3\n\n5 . ¿Cuántas bolitas hay en el frasco? \n\n \n\nA) 20 \nB) 25 \nC) 30 \nD) 40 \n \n \n \n \n \n61. Se eligen al azar doce enteros ubicados entre 10 y 70. Si la suma de estos números es \n\nS y se agregan dos unidades al dígito de las decenas de cada uno de estos números, \nentonces la suma de estos nuevos doce números es igual a  \n \n \n\nA) S + 20 \nB) S + 24 \nC) S + 120 \nD) S + 240 \n \n \n \n \n \n62. Si dos sucesos independientes, tienen probabilidad de ocurrencia de 0,4  y  0,5, ¿cuál \n\nes la probabilidad de que NO suceda ninguno de los dos? \n \n \n\nA) 0,2 \nB) 0,3 \nC) 0,4 \nD) 0,7 \n \n \n \n \n \n\n25 \n \n",
+      "cantidad_caracteres": 880,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    },
+    {
+      "numero": 26,
+      "texto": "63. En la tabla adjunta se muestra el tiempo (en minutos) de permanencia, de determinado \n\nnúmero de clientes, en la fuente de soda EL ITALIANO a lo largo de un día. \n \n \n \n \n \n \n \n \n \n \n\nTiempo (min) \nN° de clientes \n1 a 10 \n11 \n11 a 20 \n8 \n21 a 30 \n9 \n31 a 40 \n7 \n41 a 50 \n13 \n51 a 60 \n2 \n\nSi se escoge uno de estos clientes al azar, ¿cuál es la probabilidad que NO haya \npermanecido en la fuente de soda más de 40 minutos? \n \nA) 30% \nB) 35% \nC) 60% \nD) 70% \n \n \n \n64. Si se escogen del conjunto S = {5, 10, 15, 150}, dos números al azar, ¿cuál es la \n\nprobabilidad de que la suma de estos números sea mayor que 154? \n \n \n\nA) \n1\n2  \n\nB) 1\n\n3  \n\nC) \n1\n4  \n\nD) 2\n\n3  \n\n \n \n\n \n \n65. Dos cajas A y B contienen bolitas rojas y azules, todas de igual peso y tamaño. En la \n\ncaja A hay 10 bolitas rojas y 20 azules, y en la caja B hay 16 bolitas rojas y  \n14 azules. Si se elige una caja al azar, donde ambas cajas tienen igual probabilidad de \nser elegidas y se extrae una bolita también al azar, ¿cuál e",
+      "cantidad_caracteres": 1097,
+      "imagenes": [
+        {
+          "index": 0,
+          "tipo": 3,
+          "tamanio_kb": 23.1220703125
+        }
+      ]
+    }
+  ]
+}
