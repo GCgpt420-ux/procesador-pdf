@@ -1,5 +1,24 @@
+# Python virtual environments
 venv/
+.venv/
+
+# Python cache artifacts
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Generated datasets and extracted assets
+input_pdfs/
+output_json/
+output_estructurado/
+processed_data/
+marker_temp/
+
+# Runtime logs and progress trackers
+*.log
+*progress.json
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
